@@ -11,24 +11,33 @@
 
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: #f8f9fa; padding: 20px; line-height: 1.5; }
+        body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: #f8f9fa; padding: 10px; line-height: 1.5; }
         .container { max-width: 1200px; margin: 0 auto; }
-        .feed { display: grid; gap: 24px; grid-template-columns: 1fr; }
-        .item { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: box-shadow 0.2s; }
+        .feed { display: grid; gap: 10px; grid-template-columns: 1fr }
+        .item { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 0 2px rgba(0,0,0,0.08); transition: box-shadow 0.2s; }
         .item:hover { box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
-        .image { width: 100%; height: 200px; object-fit: cover; }
-        .content { padding: 24px; }
-        .title { font-size: 1.25rem; font-weight: 600; margin-bottom: 12px; color: #1a1a1a; }
-        .description { color: #666; margin-bottom: 20px; }
-        .readmore { display: inline-block; background: #007aff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: 500; transition: background 0.2s; margin-right: 10px; }
+        .image { width: 100%; height: 170px; object-fit: cover; }
+        .content { padding: 5px 10px 10px; }
+        .title { font-size: 1rem; font-weight: normal; color: #1a1a1a; }
+        .description { color: #666; margin: 12px 0 20px; display: none; }
+        .readmore { display: inline-block; display: none; background: #007aff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: 500; transition: background 0.2s; margin-right: 10px; }
         .readmore:hover { background: #0056cc; }
         .loading { text-align: center; padding: 40px; color: #666; }
         .error { text-align: center; padding: 40px; color: #dc3545; }
 
+        /* Widget */
+        @media (max-height: 380px) {
+          .feed { gap: 10px; grid-template-columns: repeat(2, 1fr) }
+          .image { height: 50px; }
+        }
+
         /* Tablet */
         @media (min-width: 800px) {
-            .feed { grid-template-columns: repeat(2, 1fr);
-            }
+            .container { padding-top: 24px; }
+            .feed { grid-template-columns: repeat(2, 1fr); grid; gap: 24px; }
+            .description { display: block; }
+            .content { padding: 24px; }
+            .title { font-weight: bold; }
         }
 
         /* Desktop */
