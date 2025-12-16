@@ -9,12 +9,10 @@ jobs:
   fetch-and-commit:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_TOKEN }}
+      - name: Checkout 🛎️
+        uses: actions/checkout@v6
 
-      - name: Fetch Discover feed
+      - name: Fetch Discover Feed 📰
         id: fetch
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
@@ -33,7 +31,7 @@ jobs:
           
           echo "feed_size=$(wc -c < discover/feed.json)" >> $GITHUB_OUTPUT
 
-      - name: Commit changes
+      - name: Commit changes 🚀
         uses: stefanzweifel/git-auto-commit-action@v5
         env:
           COMMIT_MESSAGE: "Fetch News from Perplexity - $(TZ=Australia/Sydney date '+%Y-%m-%d %H:%M %Z')"
