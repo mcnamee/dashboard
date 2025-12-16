@@ -1,0 +1,45 @@
+name: Fetch Perplexity Discover Feed
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch Discover feed
+        id: fetch
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+        run: |
+          mkdir -p discover
+          curl --location 'https://api.perplexity.ai/discover/feed?limit=40&offset=0&version=2.18&source=default' \
+            --header "Authorization: Bearer $PERPLEXITY_API_KEY" \
+            --header 'Content-Type: application/json' \
+            --output discover/feed.json
+          
+          # Verify response is valid JSON
+          if ! jq empty discover/feed.json 2>/dev/null; then
+            echo "Error: Invalid JSON response"
+            exit 1
+          fi
+          
+          echo "feed_size=$(wc -c < discover/feed.json)" >> $GITHUB_OUTPUT
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        env:
+          COMMIT_MESSAGE: "Fetch News from Perplexity - $(TZ=Australia/Sydney date '+%Y-%m-%d %H:%M %Z')"
+        with:
+          commit_message: ${{ env.COMMIT_MESSAGE }}
+          file_pattern: discover/feed.json
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
+
