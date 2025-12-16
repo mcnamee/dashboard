@@ -14,7 +14,7 @@
         body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: #f8f9fa; padding: 10px; line-height: 1.5; }
         .container { max-width: 1200px; margin: 0 auto; }
         .feed { display: grid; gap: 10px; grid-template-columns: 1fr }
-        .item { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 0 2px rgba(0,0,0,0.08); transition: box-shadow 0.2s; }
+        .item { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 0 2px rgba(0,0,0,0.08); transition: box-shadow 0.2s; text-decoration: none; }
         .item:hover { box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
         .image { width: 100%; height: 170px; object-fit: cover; }
         .content { padding: 5px 10px 10px; }
@@ -82,7 +82,13 @@
                 <div className="container">
                     <div className="feed">
                         {feed.items.map((item, index) => (
-                            <div key={index} className="item">
+                            <a
+                              key={index}
+                              className="item"
+                              href={`https://perplexity.ai/discover/you/${item.url}`}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
                                 {item.featured_image?.thumbnail && (
                                     <img 
                                         className="image" 
@@ -120,7 +126,7 @@
                                         </a>
                                     )}
                                 </div>
-                            </div>
+                            </a>
                         ))}
                     </div>
                 </div>
