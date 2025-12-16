@@ -31,13 +31,16 @@ jobs:
           
           echo "feed_size=$(wc -c < discover/feed.json)" >> $GITHUB_OUTPUT
 
+      - name: Generate commit message 📆
+        id: date
+        run: echo "commit_message=Fetch News from Perplexity - $(TZ=Australia/Sydney date '+%Y-%m-%d %H:%M %Z')" >> $GITHUB_ENV
+
       - name: Commit changes 🚀
         uses: stefanzweifel/git-auto-commit-action@v5
-        env:
-          COMMIT_MESSAGE: "Fetch News from Perplexity - $(TZ=Australia/Sydney date '+%Y-%m-%d %H:%M %Z')"
         with:
-          commit_message: ${{ env.COMMIT_MESSAGE }}
+          commit_message: ${{ env.commit_message }}
           file_pattern: discover/feed.json
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
+          push_options: --force
 
