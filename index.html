@@ -14,24 +14,25 @@
 
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: #f8f9fa; padding: 10px; line-height: 1.5; }
+        body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; background-color: Canvas; padding: 10px; line-height: 1.5; color-scheme: light dark; }
         .container { max-width: 1200px; margin: 0 auto; }
         .feed { display: grid; gap: 10px; grid-template-columns: 1fr; }
         .item { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 0 2px rgba(0,0,0,0.08); transition: box-shadow 0.2s; text-decoration: none; }
         .item:hover { box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
         .image { width: 100%; height: 170px; object-fit: cover; }
         .content { padding: 5px 10px 10px; }
-        .title { font-size: 1rem; font-weight: normal; color: #1a1a1a; }
-        .description { color: #666; margin: 12px 0 20px; display: none; }
+        .title { font-size: 1rem; font-weight: normal; color: CanvasText; }
+        .description { color: CanvasText; margin: 12px 0 20px; display: none; }
         .readmore, .refresh { display: inline-block; background: #007aff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: 500; transition: background 0.2s; margin-right: 10px; }
         .readmore:hover, .refresh:hover { background: #0056cc; }
-        .loading { text-align: center; padding: 40px; color: #666; }
-        .error { text-align: center; padding: 40px; color: #dc3545; }
+        .loading { text-align: center; padding: 40px; color: CanvasText; }
+        .error { text-align: center; padding: 40px; color: CanvasText; }
 
         /* Widget */
         html[data-useragent*="iOSWidget"] .feed { gap: 10px; grid-template-columns: repeat(2, 1fr) }
         html[data-useragent*="iOSWidget"] .container { padding: 10px }
         html[data-useragent*="iOSWidget"] .image { height: 50px; }
+        html[data-useragent*="iOSWidget"] .feed > *:nth-child(n + 5) { display: none; }
 
         /* Tablet */
         @media (min-width: 800px) {
@@ -45,6 +46,11 @@
         /* Desktop */
         @media (min-width: 1200px) {
             .feed { grid-template-columns: repeat(3, 1fr); }
+        }
+
+        /* Dark Mode */
+        @media (prefers-color-scheme: dark) {
+          .item { background: #222; }
         }
     </style>
 </head>
