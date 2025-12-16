@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D•SH</title>
+
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: #f8f9fa; padding: 20px; line-height: 1.5; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .feed { display: grid; gap: 24px; grid-template-columns: 1fr; }
+        .item { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: box-shadow 0.2s; }
+        .item:hover { box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
+        .image { width: 100%; height: 200px; object-fit: cover; }
+        .content { padding: 24px; }
+        .title { font-size: 1.25rem; font-weight: 600; margin-bottom: 12px; color: #1a1a1a; }
+        .description { color: #666; margin-bottom: 20px; }
+        .readmore { display: inline-block; background: #007aff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-weight: 500; transition: background 0.2s; margin-right: 10px; }
+        .readmore:hover { background: #0056cc; }
+        .loading { text-align: center; padding: 40px; color: #666; }
+        .error { text-align: center; padding: 40px; color: #dc3545; }
+
+        /* Tablet */
+        @media (min-width: 800px) {
+            .feed { grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        /* Desktop */
+        @media (min-width: 1200px) {
+            .feed { grid-template-columns: repeat(3, 1fr); }
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+        const { useState, useEffect } = React;
+
+        function App() {
+            const [feed, setFeed] = useState(null);
+            const [error, setError] = useState(null);
+
+            // Function to clean description: strip references and split into paragraphs
+            function cleanDescription(text) {
+                if (!text) return '';
+                // Replace reference patterns [1], [web:1], etc. with empty string
+                let cleaned = text.replace(/\[\w*:\d+\]/g, '').replace(/\[[\d\s,]+\]/g, '');
+                // Split on double newlines or multiple spaces/newlines to create paragraphs
+                let paragraphs = cleaned.split(/\n\s*\n|\r\n\s*\r\n/).filter(p => p.trim());
+                // return paragraphs.map(p => p.trim()).join('\n\n');
+                return cleaned.split('.')[0].trim() + '.'; // First Sentence only
+            }
+
+            useEffect(() => {
+                fetch('https://raw.githubusercontent.com/mcnamee/dashboard/refs/heads/main/discover/feed.json')
+                    .then(res => res.json())
+                    .then(data => setFeed(data))
+                    .catch(err => setError('Failed to load feed'));
+            }, []);
+
+            if (error) return <div className="container"><div className="error">{error}</div></div>;
+            if (!feed) return <div className="container"><div className="loading">Loading...</div></div>;
+
+            return (
+                <div className="container">
+                    <div className="feed">
+                        {feed.items.map((item, index) => (
+                            <div key={index} className="item">
+                                {item.featured_image?.thumbnail && (
+                                    <img 
+                                        className="image" 
+                                        src={item.featured_image.thumbnail} 
+                                        alt={item.title}
+                                        loading="lazy"
+                                    />
+                                )}
+                                <div className="content">
+                                    <h2 className="title">{item.title}</h2>
+                                    <div 
+                                        className="description"
+                                        dangerouslySetInnerHTML={{ 
+                                            __html: cleanDescription(item.description).replace(/\n/g, '<br>') 
+                                        }}
+                                    />
+                                    {item.url && (
+                                        <a
+                                          href={`perplexity://news/${item.url}`}
+                                          className="readmore"
+                                          target="_blank"
+                                          rel="noopener noreferrer"
+                                        >
+                                            Open In App
+                                        </a>
+                                    )}
+                                    {item.featured_image?.url && (
+                                        <a
+                                          href={`https://archive.is/${item.featured_image.url}`}
+                                          className="readmore"
+                                          target="_blank"
+                                          rel="noopener noreferrer"
+                                        >
+                                            Read More
+                                        </a>
+                                    )}
+                                </div>
+                            </div>
+                        ))}
+                    </div>
+                </div>
+            );
+        }
+
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
+</body>
+</html>
