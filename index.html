@@ -76,15 +76,9 @@
             }
 
             useEffect(() => {
-                fetch('https://raw.githubusercontent.com/mcnamee/dashboard/refs/heads/main/discover/feed.json')
+                fetch('https://raw.githubusercontent.com/mcnamee/dashboard/refs/heads/main/feeds/perplexity.json')
                     .then(res => res.json())
-                    .then(data => {
-                      const shuffledItems = data.items
-                        .map(v => ({ v, sort: Math.random() }))
-                        .sort((a, b) => a.sort - b.sort)
-                        .map(({ v }) => v);
-                      return setItems(shuffledItems);
-                    })
+                    .then(data => setItems(data.items))
                     .catch(err => setError('Failed to load feed'));
             }, []);
 

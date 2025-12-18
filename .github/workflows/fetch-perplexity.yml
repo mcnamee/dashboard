@@ -17,19 +17,19 @@ jobs:
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
         run: |
-          mkdir -p discover
+          mkdir -p feeds
           curl --location 'https://api.perplexity.ai/discover/feed?limit=20&offset=0&version=2.18&source=default' \
             --header "Authorization: Bearer $PERPLEXITY_API_KEY" \
             --header 'Content-Type: application/json' \
-            --output discover/feed.json
+            --output feeds/perplexity.json
           
           # Verify response is valid JSON
-          if ! jq empty discover/feed.json 2>/dev/null; then
+          if ! jq empty feeds/perplexity.json 2>/dev/null; then
             echo "Error: Invalid JSON response"
             exit 1
           fi
           
-          echo "feed_size=$(wc -c < discover/feed.json)" >> $GITHUB_OUTPUT
+          echo "feed_size=$(wc -c < feeds/perplexity.json)" >> $GITHUB_OUTPUT
 
       - name: Generate commit message 📆
         id: date
@@ -39,7 +39,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: ${{ env.commit_message }}
-          file_pattern: discover/feed.json
+          file_pattern: feeds/perplexity.json
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
           push_options: --force
