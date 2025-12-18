@@ -23,6 +23,8 @@
 
             mkdir -p "$(dirname "$OUTPUT_FILE")"
 
+            curl -s "$RSS_URL" > /tmp/feed.xml
+
             xmlstarlet sel -t -m "//item" \
               -o '{"published_datetime":"' \
               -v "pubDate" \
