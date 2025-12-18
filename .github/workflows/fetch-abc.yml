@@ -1,73 +1,25 @@
-  name: Fetch ABC Top Stories Feed
-
-  on:
-    schedule:
-      - cron: '0 * * * *'
-    workflow_dispatch:
-
-  jobs:
-    fetch-and-commit:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout 🛎️
-          uses: actions/checkout@v6
-
-        - name: Fetch ABC Feed 📰
-          id: fetch
-          run: |
-            sudo apt update
-            sudo apt install xmlstarlet
-
-            RSS_URL="https://www.abc.net.au/news/feed/10719986/rss.xml"
-            OUTPUT_FILE="feeds/abc.json"
-
-            mkdir -p "$(dirname "$OUTPUT_FILE")"
-
-            curl -s "$RSS_URL" > /tmp/feed.xml
-
-            xmlstarlet sel -t \
-              -m "//item" \
-              -v "pubDate" -o "|" \
-              -v "title" -o "|" \
-              -v "link" -o "|" \
-              -v "description" -o "|" \
-              -v "enclosure/@url" -o "|" \
-              -v "media:content/@url" -n \
-              /tmp/feed.xml | \
-            while IFS='|' read -r pubDate title link desc image1 image2; do
-              image="${image1:-$image2}"
-              
-              # Convert date
-              iso_date=$(date -d "$pubDate" +"%Y-%m-%dT%H:%M:%S.000000Z" 2>/dev/null || echo "1970-01-01T00:00:00.000000Z")
-              
-              # Create JSON object safely
-              jq -n \
-                --arg dt "$iso_date" \
-                --arg t "$title" \
-                --arg img "${image:-}" \
-                --arg d "$desc" \
-                --arg u "$link" \
-                '{published_datetime: $dt, title: $t, featured_image: $img, description: $d, url: $u}'
-            done | jq -s '{items: .}' > "$OUTPUT_FILE"
-            
-            # Verify response is valid JSON
-            if ! jq empty $OUTPUT_FILE 2>/dev/null; then
-              echo "Error: Invalid JSON response"
-              exit 1
-            fi
-            
-            echo "feed_size=$(wc -c < $OUTPUT_FILE)" >> $GITHUB_OUTPUT
-
-        - name: Generate commit message 📆
-          id: date
-          run: echo "commit_message=Fetch News from ABC - $(TZ=Australia/Sydney date '+%Y-%m-%d %H:%M %Z')" >> $GITHUB_ENV
-
-        - name: Commit changes 🚀
-          uses: stefanzweifel/git-auto-commit-action@v5
-          with:
-            commit_message: ${{ env.commit_message }}
-            file_pattern: feeds/abc.json
-            commit_user_name: github-actions[bot]
-            commit_user_email: github-actions[bot]@users.noreply.github.com
-            push_options: --force
-
+xmlstarlet sel -t \
+  -m "//item" \
+  -v "pubDate" -o "|" \
+  -v "title" -o "|" \
+  -v "link" -o "|" \
+  -v "description" -o "|" \
+  -v "enclosure/@url" -o "|" \
+  -v "media:content/@url" -n \
+  /tmp/feed.xml | \
+grep -v '^$' | grep -v '^\s*\|*\s*$' | \
+while IFS='|' read -r pubDate title link desc image1 image2; do
+  # Skip if no title (invalid item)
+  [[ -n "$title" && -n "$link" ]] || continue
+  
+  image="${image1:-${image2:-}}"
+  iso_date=$(date -d "$pubDate" +"%Y-%m-%dT%H:%M:%S.000000Z" 2>/dev/null || echo "1970-01-01T00:00:00.000000Z")
+  
+  jq -n \
+    --arg dt "$iso_date" \
+    --arg t "$title" \
+    --arg img "$image" \
+    --arg d "$desc" \
+    --arg u "$link" \
+    '{published_datetime: $dt, title: $t, featured_image: $img, description: $d, url: $u}'
+done | jq -s '{items: .}' > "$OUTPUT_FILE"
