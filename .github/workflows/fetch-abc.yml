@@ -15,6 +15,7 @@ jobs:
       - name: Fetch ABC Feed 📰
         id: fetch
         run: |
+          sudo apt update
           sudo apt install xml2json
 
           RSS_URL="https://www.abc.net.au/news/feed/10719986/rss.xml"
