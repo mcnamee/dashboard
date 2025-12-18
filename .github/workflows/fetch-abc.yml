@@ -16,7 +16,7 @@ jobs:
         id: fetch
         run: |
           sudo apt update
-          sudo apt install xml2json
+          sudo apt install xmlstarlet
 
           RSS_URL="https://www.abc.net.au/news/feed/10719986/rss.xml"
           OUTPUT_FILE="/feeds/abc.json"
@@ -24,20 +24,28 @@ jobs:
           mkdir -p "$(dirname "$OUTPUT_FILE")"
 
           curl -s "$RSS_URL" > /tmp/feed.xml
-          xml2json /tmp/feed.xml > /tmp/feed.json
 
-          jq '{
-            "items": (
-              .rss.channel.item[] |
-              {
-                "published_datetime": (.pubDate | strptime("%a, %d %b %Y %H:%M:%S %z") | strftime("%Y-%m-%dT%H:%M:%S.%f") | rtrimstr("Z")),
-                "title": .title,
-                "featured_image": (.enclosure["@attributes"].url // .["media:content"]["@attributes"].url // ""),
-                "description": .description,
-                "url": .link
-              }
-            )
-          }' /tmp/feed.json > "$OUTPUT_FILE"
+          xmlstarlet sel -t -m "//item" \
+            -v "pubDate" -o " " \
+            -v "title" -o " " \
+            -v "link" -o " " \
+            -v "description" -o " " \
+            -v "enclosure/@url" -o " " \
+            -v "media:content/@url" -n \
+            /tmp/feed.xml | while read -r pubdate title link desc enclosure media; do
+              image="${enclosure:-$media}"
+              
+              # Convert RFC 822 to ISO 8601
+              iso_date=$(date -d "$pubdate" +"%Y-%m-%dT%H:%M:%S.%f" 2>/dev/null | sed 's/....$//')
+              
+              jq -n \
+                --arg dt "$iso_date" \
+                --arg title "$title" \
+                --arg image "${image:-}" \
+                --arg desc "$desc" \
+                --arg url "$link" \
+                '{published_datetime: $dt, title: $title, featured_image: $image, description: $desc, url: $url}'
+          done | jq -s '{items: .}' > "$OUTPUT_FILE"
           
           # Verify response is valid JSON
           if ! jq empty $OUTPUT_FILE 2>/dev/null; then
