@@ -19,7 +19,7 @@ jobs:
           sudo apt install xmlstarlet
 
           RSS_URL="https://www.abc.net.au/news/feed/10719986/rss.xml"
-          OUTPUT_FILE="/feeds/abc.json"
+          OUTPUT_FILE="feeds/abc.json"
 
           mkdir -p "$(dirname "$OUTPUT_FILE")"
 
