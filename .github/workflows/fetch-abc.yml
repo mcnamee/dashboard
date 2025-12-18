@@ -25,34 +25,30 @@
 
             curl -s "$RSS_URL" > /tmp/feed.xml
 
-            xmlstarlet sel -t -m "//item" \
-              -o '{"published_datetime":"' \
-              -v "pubDate" \
-              -o '","title":"' \
-              -v "title" \
-              -o '","featured_image":"' \
-              -v "enclosure/@url[1]" \
-              -o '" "' \
-              -v "media:content/@url[1]" \
-              -o '","description":"' \
-              -v "description" \
-              -o '","url":"' \
-              -v "link" \
-              -o '"}' -n \
+            xmlstarlet sel -t \
+              -m "//item" \
+              -v "pubDate" -o "|" \
+              -v "title" -o "|" \
+              -v "link" -o "|" \
+              -v "description" -o "|" \
+              -v "enclosure/@url" -o "|" \
+              -v "media:content/@url" -n \
               /tmp/feed.xml | \
-            jq -sR '{items: (fromjson | map(fromjson))}' > "$OUTPUT_FILE"
-
-            # Fix dates in-place using jq
-            jq '
-              .items |= map(
-                if .published_datetime then
-                  .published_datetime |= ( 
-                    date -d "\(. | gsub("\\+"; " +") | gsub("-"; " -"))" +"%Y-%m-%dT%H:%M:%S.000000" 2>/dev/null // . 
-                    | gsub("\\.[0-9]+"; "") 
-                  )
-                else . end
-              )
-            ' "$OUTPUT_FILE" > /tmp/fixed.json && mv /tmp/fixed.json "$OUTPUT_FILE"
+            while IFS='|' read -r pubDate title link desc image1 image2; do
+              image="${image1:-$image2}"
+              
+              # Convert date
+              iso_date=$(date -d "$pubDate" +"%Y-%m-%dT%H:%M:%S.000000Z" 2>/dev/null || echo "1970-01-01T00:00:00.000000Z")
+              
+              # Create JSON object safely
+              jq -n \
+                --arg dt "$iso_date" \
+                --arg t "$title" \
+                --arg img "${image:-}" \
+                --arg d "$desc" \
+                --arg u "$link" \
+                '{published_datetime: $dt, title: $t, featured_image: $img, description: $d, url: $u}'
+            done | jq -s '{items: .}' > "$OUTPUT_FILE"
             
             # Verify response is valid JSON
             if ! jq empty $OUTPUT_FILE 2>/dev/null; then
