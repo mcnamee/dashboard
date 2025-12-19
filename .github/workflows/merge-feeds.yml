@@ -3,7 +3,9 @@ name: Merge News Feeds
 on:
   workflow_dispatch:
   push:
-    branches: [ main ]
+    paths:
+      - 'feeds/abc.json'
+      - 'feeds/perplexity.json'
 
 jobs:
   merge-feeds:
