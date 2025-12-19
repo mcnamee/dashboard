@@ -1,0 +1,73 @@
+name: Merge News Feeds
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'feeds/abc.json'
+      - 'feeds/perplexity.json'
+
+jobs:
+  merge-feeds:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v6
+        
+      - name: Setup Python 🐍
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Merge JSON feeds ⛘
+        run: |
+          python -c "
+          import json
+          from datetime import datetime
+
+          # Load both feeds
+          with open('feeds/abc.json', 'r') as f:
+              abc = json.load(f)
+          with open('feeds/perplexity.json', 'r') as f:
+              perplexity = json.load(f)
+
+          # Extract items from both feeds
+          abc_items = abc.get('items', [])
+          perplexity_items = perplexity.get('items', [])
+
+          # Combine all items
+          all_items = abc_items + perplexity_items
+
+          # Parse and sort by publisheddatetime (ISO format)
+          def parse_date(dt_str):
+              return datetime.fromisoformat(dt_str.replace('Z', '+00:00'))
+
+          all_items.sort(key=lambda x: parse_date(x['publisheddatetime']))
+
+          # Create merged feed
+          merged = {
+            'items': all_items
+          }
+
+          # Write to feeds/main.json
+          with open('feeds/main.json', 'w') as f:
+              json.dump(merged, f, indent=2, default=str)
+
+          print(f'Merged {len(abc_items)} ABC items + {len(perplexity_items)} Perplexity items = {len(all_items)} total items')
+          print('Newest item:', all_items[0]['title'] if all_items else 'No items')
+          print('Oldest item:', all_items[-1]['title'] if all_items else 'No items')
+          "
+
+      - name: Generate commit message 📆
+        id: date
+        run: echo "commit_message=News Merged - $(TZ=Australia/Sydney date '+%Y-%m-%d %H:%M %Z')" >> $GITHUB_ENV
+
+      - name: Commit changes 🚀
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: ${{ env.commit_message }}
+          file_pattern: feeds/main.json
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
+          push_options: --force
