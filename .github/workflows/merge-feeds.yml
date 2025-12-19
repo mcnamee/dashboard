@@ -2,10 +2,10 @@ name: Merge News Feeds
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'feeds/abc.json'
-      - 'feeds/perplexity.json'
+  workflow_run:
+    workflows: ["Fetch ABC Top Stories", "Fetch Perplexity Discover Feed"]
+    types: [completed]
+    branches: [main]
 
 jobs:
   merge-feeds:
