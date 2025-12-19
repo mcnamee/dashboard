@@ -3,6 +3,7 @@ name: Merge News Feeds
 on:
   workflow_dispatch:
   push:
+    branches: [ main ]
     paths:
       - 'feeds/abc.json'
       - 'feeds/perplexity.json'
@@ -39,11 +40,11 @@ jobs:
           # Combine all items
           all_items = abc_items + perplexity_items
 
-          # Parse and sort by publisheddatetime (ISO format)
+          # Parse and sort by published_datetime (ISO format)
           def parse_date(dt_str):
               return datetime.fromisoformat(dt_str.replace('Z', '+00:00'))
 
-          all_items.sort(key=lambda x: parse_date(x['publisheddatetime']))
+          all_items.sort(key=lambda x: parse_date(x['published_datetime']))
 
           # Create merged feed
           merged = {
