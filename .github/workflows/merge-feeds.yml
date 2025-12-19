@@ -3,7 +3,7 @@ name: Merge News Feeds
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Fetch ABC Top Stories", "Fetch Perplexity Discover Feed"]
+    workflows: ["Fetch ABC Top Stories Feed", "Fetch Perplexity Discover Feed"]
     types: [completed]
     branches: [main]
 
