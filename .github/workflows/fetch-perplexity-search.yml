@@ -1,0 +1,108 @@
+name: Fetch Perplexity Search Results
+
+on:
+  schedule:
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v6
+
+      - name: Fetch Discover Feed 📰
+        id: fetch
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+        run: |
+          import requests
+          import json
+          import os
+          from datetime import datetime
+          import sys
+              
+          url = "https://api.perplexity.ai/chat/completions"
+
+          headers = {
+              "Authorization": f"Bearer {os.getenv('PERPLEXITY_API_KEY')}",
+              "Content-Type": "application/json"
+          }
+
+          payload = {
+              "model": "sonar-pro",
+              "messages": [
+                  {
+                      "role": "system",
+                      "content": """You are a news aggregator. Provide a JSON summary of the top 8 trending technology stories today. The JSON format should be exactly:
+          {
+          "items": [
+          {
+              "published_datetime": "2025-12-18T19:43:23.000000Z",
+              "title": "Live: Fifteenth Bondi victim identified as Albanese announces national day of mourning",
+              "featured_image": {
+              "thumbnail": "https://live-production.wcms.abc-cdn.net.au/45ee23f6133d42b5463fbe23e5aa0f13?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
+              },
+              "description": "Anthony Albanese says he will confirm a \"national day of mourning\" for the Bondi attack in the new year, and has declared Sunday, December 21 as a day of reflection to honour the victims.",
+              "page_content_url": "https://www.abc.net.au/news/2025-12-19/bondi-beach-shooting-terrorist-attack-live-blog-december-19/106160710"
+          }
+          ]
+          }"""
+                  },
+                  {
+                      "role": "user",
+                      "content": "top 8 trending technology stories today"
+                  }
+              ],
+              "stream": False
+          }
+
+          try:
+              response = requests.post(url, headers=headers, json=payload, timeout=30)
+              response.raise_for_status()
+              
+              data = response.json()
+              
+              # Extract the content from choices[0].message.content
+              content = data["choices"][0]["message"]["content"]
+              
+              # Parse the plain text JSON content
+              news_json = json.loads(content)
+
+              output_dir = "feeds"
+              
+              # Ensure output directory exists
+              os.makedirs(output_dir, exist_ok=True)
+
+              # Save to feeds/search.json
+              output_path = os.path.join(output_dir, "perplexity-search.json")
+              with open(output_path, "w", encoding="utf-8") as f:
+                  json.dump(news_json, f, indent=2, ensure_ascii=False)
+              
+              print(f"✅ Saved {len(news_json['items'])} stories to {output_path}")
+              print(f"📅 Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S AEDT')}")
+              
+          except requests.exceptions.RequestException as e:
+              print(f"❌ API request failed: {e}", file=sys.stderr)
+              sys.exit(1)
+          except (json.JSONDecodeError, KeyError) as e:
+              print(f"❌ JSON parsing failed: {e}", file=sys.stderr)
+              print(f"Response content: {content[:500]}..." if 'content' in locals() else "No content received", file=sys.stderr)
+              sys.exit(1)
+          except Exception as e:
+              print(f"❌ Unexpected error: {e}", file=sys.stderr)
+
+      - name: Generate commit message 📆
+        id: date
+        run: echo "commit_message=Fetch Search from Perplexity - $(TZ=Australia/Sydney date '+%Y-%m-%d %H:%M %Z')" >> $GITHUB_ENV
+
+      - name: Commit changes 🚀
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: ${{ env.commit_message }}
+          file_pattern: feeds/perplexity-search.json
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
+          push_options: --force
+
