@@ -20,44 +20,72 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          
+
+      - name: Install dependencies 🐍
+        run: pip install python-dateutil
+
       - name: Merge JSON feeds ⛘
         run: |
           python -c "
-          import json
-          from datetime import datetime
+            import json
+            from datetime import datetime
+            from dateutil import parser
 
-          # Load both feeds
-          with open('feeds/abc.json', 'r') as f:
-              abc = json.load(f)
-          with open('feeds/perplexity.json', 'r') as f:
-              perplexity = json.load(f)
+            # Load both feeds
+            try:
+                with open('feeds/abc.json', 'r') as f:
+                    abc = json.load(f)
+            except FileNotFoundError:
+                abc = {'items': []}
+                
+            try:
+                with open('feeds/perplexity.json', 'r') as f:
+                    perplexity = json.load(f)
+            except FileNotFoundError:
+                perplexity = {'items': []}
 
-          # Extract items from both feeds
-          abc_items = abc.get('items', [])
-          perplexity_items = perplexity.get('items', [])
+            # Extract items from both feeds
+            abc_items = abc.get('items', [])
+            perplexity_items = perplexity.get('items', [])
 
-          # Combine all items
-          all_items = abc_items + perplexity_items
+            # Combine all items
+            all_items = abc_items + perplexity_items
 
-          # Parse and sort by published_datetime (ISO format)
-          def parse_date(dt_str):
-              return datetime.fromisoformat(dt_str.replace('Z', '+00:00'))
+            # Robust date parsing function
+            def parse_date(dt_str):
+                if not dt_str:
+                    return datetime.min
+                try:
+                    # Try standard ISO format first
+                    return parser.parse(dt_str)
+                except:
+                    try:
+                        # Fallback: manual parsing for common formats
+                        return datetime.fromisoformat(dt_str.replace('Z', '+00:00'))
+                    except:
+                        print(f'Warning: Could not parse date: {dt_str}')
+                        return datetime.min
 
-          all_items.sort(key=lambda x: parse_date(x['published_datetime']))
+            # Sort by publisheddatetime (newest first)
+            all_items.sort(key=lambda x: parse_date(x.get('publisheddatetime', '')), reverse=True)
 
-          # Create merged feed
-          merged = {
-            'items': all_items
-          }
+            # Create merged feed
+            merged = {
+                'items': all_items,
+                'total_items': len(all_items),
+                'abc_items': len(abc_items),
+                'perplexity_items': len(perplexity_items),
+                'merged_at': datetime.utcnow().isoformat()
+            }
 
-          # Write to feeds/main.json
-          with open('feeds/main.json', 'w') as f:
-              json.dump(merged, f, indent=2, default=str)
+            # Write to feeds/main.json
+            with open('feeds/main.json', 'w') as f:
+                json.dump(merged, f, indent=2, default=str)
 
-          print(f'Merged {len(abc_items)} ABC items + {len(perplexity_items)} Perplexity items = {len(all_items)} total items')
-          print('Newest item:', all_items[0]['title'] if all_items else 'No items')
-          print('Oldest item:', all_items[-1]['title'] if all_items else 'No items')
+            print(f'Merged {len(abc_items)} ABC + {len(perplexity_items)} Perplexity = {len(all_items)} total items')
+            if all_items:
+                print(f'Newest: {all_items[0].get(\"title\", \"No title\")[:60]}...')
+                print(f'Oldest: {all_items[-1].get(\"title\", \"No title\")[:60]}...')
           "
 
       - name: Generate commit message 📆
