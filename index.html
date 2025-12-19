@@ -76,7 +76,7 @@
             }
 
             useEffect(() => {
-                fetch('https://raw.githubusercontent.com/mcnamee/dashboard/refs/heads/main/feeds/perplexity.json')
+                fetch('https://raw.githubusercontent.com/mcnamee/dashboard/refs/heads/main/feeds/main.json')
                     .then(res => res.json())
                     .then(data => setItems(data.items))
                     .catch(err => setError('Failed to load feed'));
@@ -92,7 +92,7 @@
                             <a
                               key={index}
                               className="item"
-                              href={`https://perplexity.ai/discover/you/${item.url}`}
+                              href={(item.url) ? `https://perplexity.ai/discover/you/${item.url}` : item.page_content_url}
                               target="_blank"
                               rel="noopener noreferrer"
                             >
