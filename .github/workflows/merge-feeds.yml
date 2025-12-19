@@ -49,7 +49,7 @@ jobs:
           perplexity_items = perplexity.get('items', [])
 
           # Combine all items
-          all_items = abc_items + perplexity_items
+          all_items = perplexity_items[:10] + abc_items[:10]
 
           # Robust date parsing function
           def parse_date(dt_str):
@@ -66,8 +66,8 @@ jobs:
                       print(f'Warning: Could not parse date: {dt_str}')
                       return datetime.min
 
-          # Sort by publisheddatetime (newest first)
-          all_items.sort(key=lambda x: parse_date(x.get('publisheddatetime', '')), reverse=True)
+          # Sort by published_datetime (newest first)
+          all_items.sort(key=lambda x: parse_date(x.get('published_datetime', '')), reverse=True)
 
           # Create merged feed
           merged = {
