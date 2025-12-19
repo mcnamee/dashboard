@@ -51,7 +51,7 @@ jobs:
               --arg img "$image" \
               --arg d "${desc:-}" \
               --arg u "$link" \
-              '{published_datetime: $dt, title: $t, featured_image: $img, description: $d, url: $u}'
+              '{published_datetime: $dt, title: $t, featured_image: { thumbnail: $img }, description: $d, page_content_url: $u}'
 
           done | jq -s '{items: .}' > "$OUTPUT_FILE"
 
