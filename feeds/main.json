@@ -19,6 +19,21 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-20/melbourne-university-womens-football-club-at-risk-of-folding/106098428"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/345c396e-cc04-419d-b426-656c222b5176",
+      "published_datetime": "2025-12-19T20:54:25.249528",
+      "title": "Leicester engineers design magnetic cloaking for any shape",
+      "featured_image": {
+        "url": "https://phys.org/news/2025-12-cloaking-device-concept-shields-electronics.html",
+        "name": "New 'cloaking device' concept shields electronics from ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--sUn8ShNQ--/t_limit/https://scx2.b-cdn.net/gfx/news/hires/2025/new-cloaking-device-co.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--sEjHiNOT--/t_thumbnail/https://scx2.b-cdn.net/gfx/news/hires/2025/new-cloaking-device-co.jpg"
+      },
+      "description": "Engineers at the University of Leicester have unveiled a design framework for magnetic cloaking devices that can shield electronics from disruptive magnetic fields, marking the first practical approach for objects of any shape. The research, published December 18 in Science Advances, offers potential applications from medical imaging to fusion energy[1][2][3].\n\nLed by Dr. Harold Ruiz from Leicester's School of Engineering, the team developed a physics-informed optimization framework that solves Maxwell's equations to design magnetic cloaks for arbitrarily shaped structures[1][2]. Previous magnetic cloaking demonstrations were restricted to simple cylinders or spheres, limiting real-world applicability[1][2][3].\n\nThe devices work by manipulating magnetic field lines to flow around objects as if they weren't there, making the cloaked object magnetically invisible while leaving surrounding fields undisturbed[2][3]. The design combines two materials with opposing magnetic properties: an inner superconducting layer that repels magnetic fields and an outer soft ferromagnetic layer that attracts them, creating a balanced effect that eliminates field distortion[1][2][3].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/345c396e-cc04-419d-b426-656c222b5176.mp3",
+      "url": "leicester-engineers-develop-pr-VzHglSLWQhqaU7XIQNL9sQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6e9020d6-e059-4c99-8a24-764a4bcd0c57",
       "published_datetime": "2025-12-19T20:18:40.886390",
       "title": "AI stocks surge as Micron earnings fuel sector rally",
@@ -208,21 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/778dca00-48b6-4ba9-8b51-52a5fabb7fe2",
-      "published_datetime": "2025-12-19T18:11:02.228603",
-      "title": "Morgan Stanley leads race to underwrite SpaceX IPO",
-      "featured_image": {
-        "url": "https://www.nytimes.com/2025/12/15/business/dealbook/spacex-ipo-trillion-musk.html",
-        "name": "SpaceX\u2019s Next Big Launch Could Be an I.P.O.",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--9_qVpCWB--/t_limit/https://static01.nyt.com/images/2025/12/15/multimedia/15db-spacex-fhtp/15db-spacex-fhtp-facebookJumbo.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--meYwoCZX--/t_thumbnail/https://static01.nyt.com/images/2025/12/15/multimedia/15db-spacex-fhtp/15db-spacex-fhtp-facebookJumbo.jpg"
-      },
-      "description": "Morgan Stanley is emerging as the front-runner to secure a key underwriting role in SpaceX's highly anticipated initial public offering, positioning itself ahead of rivals Goldman Sachs and JPMorgan in what could become one of the largest public listings in history, according to sources familiar with the matter[1][2][3].\n\nThe bank's long-standing relationship with SpaceX CEO Elon Musk, dating back at least 15 years, gives it a significant edge in the competitive selection process known as a \"bake-off,\" three sources told Reuters[1][2]. However, no banks have been finalized, and it remains uncertain whether Morgan Stanley will secure the coveted \"lead left\" underwriting position[1][2].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/778dca00-48b6-4ba9-8b51-52a5fabb7fe2.mp3",
-      "url": "morgan-stanley-leads-race-for-3SWsO.BdQzOeoVh85vlNpw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-19T18:00:00.000000Z",
       "title": "Albanese not the only one facing a reckoning over Bondi terror",
       "featured_image": {
@@ -244,5 +244,5 @@
   "total_items": 20,
   "abc_items": 25,
   "perplexity_items": 20,
-  "merged_at": "2025-12-19T21:12:22.621590"
+  "merged_at": "2025-12-19T21:23:48.560209"
 }
