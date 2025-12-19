@@ -1,6 +1,8 @@
   name: Fetch ABC Top Stories Feed
 
   on:
+    push:
+      branches: [ main ]
     schedule:
       - cron: '0 * * * *'
     workflow_dispatch:
@@ -30,36 +32,36 @@
               -v "normalize-space(pubDate)" -o "|" \
               -v "normalize-space(title)" -o "|" \
               -v "normalize-space(link)" -o "|" \
-              -o "|" \
-              -v "enclosure/@url[1]" -o "|" \
-              -v "media\\:content/@url[1]" -n \
+              -v "normalize-space(description)" -o "|" \
+              -v "enclosure/@url" -o "|" \
+              -v "media:group/media:content/@url" -o "|" \
+              -v "media:content/@url" -n \
               /tmp/feed.xml | \
-            sed 's|<[^>]*>||g; s|&quot;|"|g; s|&amp;|&|g; s|&lt;| <|g; s|&gt;|>|g; s|&nbsp;| |g' | \
-            grep -v '^\s*|\s*$' | \
-            while IFS='|' read -r pubDate title link raw_desc image1 image2 || [ -n "$pubDate" ]; do
-              # Skip invalid items
+            while IFS='|' read -r pubDate title link desc image1 image2 image3 || [ -n "$pubDate" ]; do
+              # Skip completely empty lines or invalid items
               [[ -z "$title" || -z "$link" ]] && continue
+
+              # Pick first available image
+              image="${image1:-${image2:-${image3:-}}}"
               
-              # Clean description (strip HTML after extraction)
-              desc=$(echo "$raw_desc" | sed 's|<[^>]*>||g' | sed 's/&quot;/"/g' | sed 's/^\s*//;s/\s*$//')
-              image="${image1:-${image2:-}}"
-              
-              iso_date=$(date -d "${pubDate}" +"%Y-%m-%dT%H:%M:%S.000000Z" 2>/dev/null || echo "1970-01-01T00:00:00.000000Z")
+              # Robust date parsing
+              iso_date=$(date -d "${pubDate:0:30}" +"%Y-%m-%dT%H:%M:%S.000000Z" 2>/dev/null || echo "1970-01-01T00:00:00.000000Z")
               
               jq -n \
                 --arg dt "$iso_date" \
                 --arg t "$title" \
                 --arg img "$image" \
-                --arg d "$desc" \
+                --arg d "${desc:-}" \
                 --arg u "$link" \
                 '{published_datetime: $dt, title: $t, featured_image: $img, description: $d, url: $u}'
-            done | jq -s '{items: map(select(.title != "" and .url != ""))}' > "$OUTPUT_FILE"
+
+            done | jq -s '{items: .}' > "$OUTPUT_FILE"
 
             rm -f /tmp/feed.xml
 
             # Clean up empty items post-process
             jq '.items |= map(select(.title != "" and .url != ""))' "$OUTPUT_FILE" > /tmp/clean.json && mv /tmp/clean.json "$OUTPUT_FILE"
-            
+
             # Verify response is valid JSON
             if ! jq empty $OUTPUT_FILE 2>/dev/null; then
               echo "Error: Invalid JSON response"
