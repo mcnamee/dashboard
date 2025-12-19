@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "published_datetime": "2025-12-18T19:43:23.000000Z",
-      "title": "Live: Fifteenth Bondi victim identified as Albanese announces national day of mourning",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/45ee23f6133d42b5463fbe23e5aa0f13?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Anthony Albanese says he will confirm a \"national day of mourning\" for the Bondi attack in the new year, and has declared Sunday, December 21 as a day of reflection to honour the victims.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-19/bondi-beach-shooting-terrorist-attack-live-blog-december-19/106160710"
-    },
-    {
       "published_datetime": "2025-12-19T03:47:47.000000Z",
       "title": "Man resembling Bondi gunman caught on Philippines CCTV in November",
       "featured_image": {
@@ -19,8 +10,17 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-19/hotel-staff-id-bondi-shooter-naveed-akram-in-davao/106163036"
     },
     {
+      "published_datetime": "2025-12-19T00:30:03.000000Z",
+      "title": "An emotional display of unity — the Bondi paddle-out in pictures",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/42b40aa93807f8b2636e98d951e02fe9?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2499&amp;xPos=0&amp;yPos=172&amp;width=862&amp;height=485"
+      },
+      "description": "Thousands of locals packed the Bondi beachfront for an emotional paddle-out in honour of the victims of Sunday's terror attack.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-19/bondi-terror-attack-paddle-out-in-pictures/106161604"
+    },
+    {
       "published_datetime": "2025-12-19T07:27:36.000000Z",
-      "title": "The 'heroic' couple, a 'gifted musician' and a 'woman of integrity' laid to rest in Sydney",
+      "title": "'Heroic' pair, gifted musician, 'woman of integrity' laid to rest in Sydney",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a82876b2cd39d7376baaa2e7fe98842b?impolicy=wcms_crop_resize&amp;cropH=2763&amp;cropW=4912&amp;xPos=0&amp;yPos=250&amp;width=862&amp;height=485"
       },
@@ -98,6 +98,15 @@
       },
       "description": "The ABC is granted exclusive access to the ADF operation to transport M1A1 Abrams tanks to Ukraine, via Poland, which included an ocean voyage of more than 50 days.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-19/inside-classified-mission-to-deliver-australian-tanks-to-ukraine/106122650"
+    },
+    {
+      "published_datetime": "2025-12-19T08:20:55.000000Z",
+      "title": "Search suspended for missing deep-sea diver",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cf332bdc5f6387c552738c57ba44e740?impolicy=wcms_crop_resize&amp;cropH=278&amp;cropW=495&amp;xPos=0&amp;yPos=62&amp;width=862&amp;height=485"
+      },
+      "description": "A professional deep-sea diver, with several fish species named in his honour, is remembered as a loving father and well-respected in the science community for his contributions to the study of fish species.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-19/search-suspended-for-deep-sea-diver-timothy-bennett-coral-sea/106164760"
     },
     {
       "published_datetime": "2025-12-18T19:10:10.000000Z",
@@ -215,15 +224,6 @@
       },
       "description": "A judge labelled intimate partner violence \"a scourge in a civilised society\" when he sentenced Paul Sultana to 44 years in jail for the murder of Dayna Isaac.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-19/dayna-isaac-murderer-paul-sultana-sentenced/106163088"
-    },
-    {
-      "published_datetime": "2025-12-18T21:00:36.000000Z",
-      "title": "Family cuts weekly mortgage payment to $330 with rural move",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ee5e34ab0c8946f1c7e162b52aea2d51?impolicy=wcms_crop_resize&amp;cropH=506&amp;cropW=900&amp;xPos=0&amp;yPos=547&amp;width=862&amp;height=485"
-      },
-      "description": "The Ballini family made the move to regional Queensland where they are are paying half the mortgage they were in the south-east, but that's rapidly changing.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-19/queensland-third-least-affordable-state-as-prices-keep-rising/106104852"
     }
   ]
 }
