@@ -4,9 +4,6 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
-    paths:
-      - 'feeds/abc.json'
-      - 'feeds/perplexity.json'
 
 jobs:
   merge-feeds:
@@ -28,7 +25,7 @@ jobs:
         run: |
           python -c "
           import json
-          from datetime import datetime
+          from datetime import datetime, timezone
           from dateutil import parser
 
           # Load both feeds
@@ -54,17 +51,23 @@ jobs:
           # Robust date parsing function
           def parse_date(dt_str):
               if not dt_str:
-                  return datetime.min
+                  return datetime.min.replace(tzinfo=timezone.utc)
+              
               try:
-                  # Try standard ISO format first
-                  return parser.parse(dt_str)
+                  # Try dateutil parser first (handles Z and most formats)
+                  dt = parser.parse(dt_str)
+                  # Ensure UTC timezone if naive
+                  if dt.tzinfo is None:
+                      dt = dt.replace(tzinfo=timezone.utc)
+                  return dt
               except:
                   try:
-                      # Fallback: manual parsing for common formats
-                      return datetime.fromisoformat(dt_str.replace('Z', '+00:00'))
+                      # Fallback: manual ISO parsing
+                      dt = datetime.fromisoformat(dt_str.replace('Z', '+00:00'))
+                      return dt
                   except:
                       print(f'Warning: Could not parse date: {dt_str}')
-                      return datetime.min
+                      return datetime.min.replace(tzinfo=timezone.utc)
 
           # Sort by published_datetime (newest first)
           all_items.sort(key=lambda x: parse_date(x.get('published_datetime', '')), reverse=True)
