@@ -1,22 +1,31 @@
 {
   "items": [
     {
-      "published_datetime": "2025-12-19T21:04:59.000000Z",
-      "title": "Live: Epstein files published by US Department of Justice",
+      "published_datetime": "2025-12-19T21:54:33.000000Z",
+      "title": "Live: Hundreds of lifesavers hold silent vigil for Bondi victims",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f62e3fd424a51676c6e1c798ec581637?impolicy=wcms_crop_resize&amp;cropH=1445&amp;cropW=2568&amp;xPos=0&amp;yPos=174&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a9c334bd47251cdc48e88864173204e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=469&amp;width=862&amp;height=485"
+      },
+      "description": "Hundreds of surf lifesavers have gathered on Bondi Beach to pay tribute to the victims of last Sunday's terrorist attack. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-20/bondi-beach-shooting-terrorist-attack-live-blog-december-20/106165292"
+    },
+    {
+      "published_datetime": "2025-12-19T21:09:34.000000Z",
+      "title": "Parents grapple with Australia's social media ban",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/19832088148d70402c0b6aca3d8f4a31?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "For some parents, the social media bans for under-16s have come as a relief. But others say they are fuelling conflict.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-20/social-media-ban-teenagers-parents-respond/106163362"
+    },
+    {
+      "published_datetime": "2025-12-19T21:04:59.000000Z",
+      "title": "Live: Clinton portraits, grocery lists published in partially released Epstein files",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aa53c1b1631274f51c0bec18254f26f4?impolicy=wcms_crop_resize&amp;cropH=2025&amp;cropW=3600&amp;xPos=0&amp;yPos=265&amp;width=862&amp;height=485"
       },
       "description": "A trove of documents about the investigation into sex offender Jeffrey Epstein and his co-conspirator, Ghislaine Maxwell, has been published. Follow live as we analyse the files and the fallout.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-20/epstein-files-published-us-department-of-justice/105584914"
-    },
-    {
-      "published_datetime": "2025-12-19T20:58:54.000000Z",
-      "title": "Why this 'powerhouse' of women's Aussie Rules is at risk of folding",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d528df346c0871cb86ecb11c605cb3e0?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=99&amp;width=862&amp;height=485"
-      },
-      "description": "Melbourne University is the latest women\u2019s Aussie Rules club fighting for survival, but it is hoping intervention from an AFL executive can turn the club\u2019s fortunes around.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-20/melbourne-university-womens-football-club-at-risk-of-folding/106098428"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/345c396e-cc04-419d-b426-656c222b5176",
@@ -73,15 +82,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-19T20:01:59.000000Z",
-      "title": "Grace Tame fights against a legal loophole frustrating abuse survivors",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5d80afe3a5c27e9218ded60d2254755d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=273&amp;width=862&amp;height=485"
-      },
-      "description": "In every Australian state and the NT, churches cannot be held vicariously liable for historical child sexual abuse perpetrated by their priests. Grace Tame is leading the charge for change.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-20/grace-tame-campaign-to-change-vicarious-liability-laws/106049438"
-    },
-    {
       "published_datetime": "2025-12-19T19:50:45.000000Z",
       "title": "Extreme heat, humidity and storms ahead of Christmas Day",
       "featured_image": {
@@ -131,7 +131,7 @@
     },
     {
       "published_datetime": "2025-12-19T19:28:13.000000Z",
-      "title": "The people who grabbed civilians to safety in Bondi",
+      "title": "Two girls were separated from their dad at Bondi. It's a scene that is hard to forget",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ea4a559c487a6a74083db643c191341?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=428&amp;width=862&amp;height=485"
       },
@@ -244,5 +244,5 @@
   "total_items": 20,
   "abc_items": 25,
   "perplexity_items": 20,
-  "merged_at": "2025-12-19T21:23:48.560209"
+  "merged_at": "2025-12-19T22:13:58.812746"
 }
