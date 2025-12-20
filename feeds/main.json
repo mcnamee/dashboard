@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ae0bd35f-f383-44cb-a65b-942d573f1bd2",
+      "published_datetime": "2025-12-20T12:37:47.664055",
+      "title": "Ancient interstellar comet makes closest approach to Earth",
+      "featured_image": {
+        "url": "https://science.nasa.gov/solar-system/view-interstellar-comet-3i-atlas-through-nasas-multiple-lenses/",
+        "name": "View Interstellar Comet 3I/ATLAS Through NASA's Multiple Lenses",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--cM4x5dEa--/t_limit/https://assets.science.nasa.gov/content/dam/science/psd/solar-system/comets/3i-atlas/2025/MRO%2520HiRISE-CLEAN%2520FINAL.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--m5uCC1-d--/t_thumbnail/https://assets.science.nasa.gov/content/dam/science/psd/solar-system/comets/3i-atlas/2025/MRO%2520HiRISE-CLEAN%2520FINAL.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      },
+      "description": "An ancient interstellar comet made its closest approach to Earth on December 19, marking the culmination of a year in which space-based observations revealed both cosmic mysteries and terrestrial catastrophes with unprecedented clarity.\n\nComet 3I/ATLAS, the third confirmed interstellar object to pass through our solar system, came within 168 million miles of Earth as it continued its hyperbolic trajectory toward the outer solar system[1][2]. NASA coordinated an unprecedented observation campaign involving Parker Solar Probe, the James Webb Space Telescope, and Hubble, capturing detailed data from the ancient visitor that may be older than our solar system itself[2][3][4].\n\n\"The data that will come down from the spacecraft will be fresh information about a place that we, as humanity, have never been,\" said Joe Westlake, director of NASA's Heliophysics Division[5]. The comet, discovered July 1 by the ATLAS survey in Chile, exhibited a prominent ion tail as it passed perihelion on October 29 at 1.36 AU from the Sun[2][6].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/ae0bd35f-f383-44cb-a65b-942d573f1bd2.mp3",
+      "url": "2025-space-highlights-OykfIPVGR.mrWapR1xd5xA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-20T11:52:21.000000Z",
       "title": "Former Pakistani PM Imran Khan given 17-year jail sentence in new graft case",
       "featured_image": {
@@ -208,21 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6e9020d6-e059-4c99-8a24-764a4bcd0c57",
-      "published_datetime": "2025-12-19T20:18:40.886390",
-      "title": "AI stocks surge as Micron earnings fuel sector rally",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/news/micron-stock-soars-on-earnings-beat-amid-unprecedented-ai-fueled-demand-for-memory-chips-164848986.html",
-        "name": "Micron stock soars on earnings beat amid 'unprecedented' AI-fueled demand for memory chips",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--4U7qdLVI--/t_limit/https://s.yimg.com/ny/api/res/1.2/cdgd21cdq5P9JRtDXS.s8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/48d41b80-9583-11f0-85f5-51d7abc2a309",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--10aBd6aL--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/cdgd21cdq5P9JRtDXS.s8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/48d41b80-9583-11f0-85f5-51d7abc2a309"
-      },
-      "description": "Artificial intelligence stocks surged Friday, driving major indexes higher and signaling renewed investor confidence in a sector that has weathered concerns over valuations and returns in recent weeks.\n\nThe tech-heavy Nasdaq Composite climbed approximately 1.2%, extending Thursday's 1.4% gain[1][2][3], while the S&P 500 rose 0.8%[3][4]. Semiconductor stocks led the advance, with the PHLX Semiconductor Sector Index jumping nearly 3%[5].\n\nMicron Technology continued its rally, gaining more than 6% Friday after soaring 10% Thursday on earnings that crushed Wall Street expectations[1][2][6]. The memory chip maker reported adjusted earnings of $4.78 per share on revenue of $13.64 billion, well above estimates, and provided guidance of approximately $18.70 billion for the current quarter versus the $14.20 billion analysts expected[6][7]. \"We are more than sold out,\" the company stated during its earnings call[7].\n\nOracle jumped about 8% after announcing it would join an investor group acquiring a 15% stake in TikTok's U.S. operations through a deal valued at approaching $10 billion[1][8]. The agreement allows the social media platform to continue operating in the United States while addressing national security concerns[8][9].\n\nNvidia gained approximately 3.6%, while Advanced Micro Devices climbed nearly 6%[1][10]. Other AI-related stocks including Super Micro Computer, Palantir Technologies, and Arista Networks also posted gains[5].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/6e9020d6-e059-4c99-8a24-764a4bcd0c57.mp3",
-      "url": "ai-stocks-drive-wall-street-ra-YPqnGo6ZSLKHX8Jo7MeC6w",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-19T20:01:59.000000Z",
       "title": "Grace Tame fights against a legal loophole frustrating abuse survivors",
       "featured_image": {
@@ -317,5 +317,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 8,
-  "merged_at": "2025-12-20T13:21:59.330362"
+  "merged_at": "2025-12-20T13:31:51.774227"
 }
