@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-20T05:22:56.000000Z",
+      "title": "Vanuatu turns 'grief into purpose' as it remembers earthquake dead",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/21866957ea8f09e669324d7ff2c895ef?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+      },
+      "description": "Tourists are returning to Vanuatu a year on from a major catastrophe. But many demolished buildings are yet to be rebuilt and some locals are frustrated with the pace of repairs.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-20/vanuatu-marks-one-year-since-devastating-earthquake/106148676"
+    },
+    {
       "published_datetime": "2025-12-20T04:02:23.000000Z",
       "title": "In pictures: Surf lifesavers with heartfelt tribute to Bondi victims",
       "featured_image": {
@@ -44,11 +53,11 @@
     },
     {
       "published_datetime": "2025-12-20T00:55:21.000000Z",
-      "title": "Live: Jake Paul knocked out by AJ in sixth round",
+      "title": "'The fans did not pay to see this crap': Anthony Joshua knocks out Jake Paul",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e39866d3a01d6ac0727be8e80bfc4987?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1619&amp;xPos=214&amp;yPos=180&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c8bc2ee0035e401d0b675e9fc9111877?impolicy=wcms_crop_resize&amp;cropH=1694&amp;cropW=3011&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Jake Paul and former unified heavyweight champion Anthony Joshua meet in their highly-criticised boxing match in Miami on Netflix. Follow live.",
+      "description": "Jake Paul is chastened by the referee and knocked out by his opponent in their made-for-Netflix bout in Miami.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-20/live-updates-jake-paul-vs-anthony-joshua/106165976"
     },
     {
@@ -137,9 +146,9 @@
     },
     {
       "published_datetime": "2025-12-19T22:49:35.000000Z",
-      "title": "Live: Cummins removes Root again after Marnus's miracle lights up Ashes",
+      "title": "Live: Lyon baffles Brook as he breaks through in England's record chase",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f0c79b5c982190ae8f1fc6c75ca52b22?impolicy=wcms_crop_resize&amp;cropH=2534&amp;cropW=4505&amp;xPos=0&amp;yPos=95&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a0b034726af5bfc404119e2670548f29?impolicy=wcms_crop_resize&amp;cropH=2467&amp;cropW=4386&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Australia can win the Ashes faster than any team in over 100 years after setting England a record 435 runs to win the third Test at Adelaide Oval and keep the series alive. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-20/ashes-third-test-day-four-live-blog/106165808"
@@ -221,15 +230,6 @@
       "audio_url": "https://discover-audio.perplexity.ai/contexts/6e9020d6-e059-4c99-8a24-764a4bcd0c57.mp3",
       "url": "ai-stocks-drive-wall-street-ra-YPqnGo6ZSLKHX8Jo7MeC6w",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-19T19:50:45.000000Z",
-      "title": "Extreme heat, humidity and storms ahead of Christmas Day",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/edddf099b3cc436a435c32c3b0c8a1fe?impolicy=wcms_crop_resize&amp;cropH=658&amp;cropW=1170&amp;xPos=0&amp;yPos=121&amp;width=862&amp;height=485"
-      },
-      "description": "Australia is experiencing a smorgasbord of wild weather in the lead-up to Christmas, featuring extreme heat, humidity, severe thunderstorms, and tropical storms all on the cards.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-20/bom-christmas-weather-forecast/106163070"
     },
     {
       "published_datetime": "2025-12-19T19:28:13.000000Z",
@@ -317,5 +317,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 8,
-  "merged_at": "2025-12-20T05:26:58.008896"
+  "merged_at": "2025-12-20T06:19:43.100810"
 }
