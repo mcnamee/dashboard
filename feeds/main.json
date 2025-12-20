@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a70c87d1-a74d-41a1-b944-90c88079e122",
+      "published_datetime": "2025-12-20T19:28:06.510771",
+      "title": "Scientists measure electrical flow in matter hotter than sun",
+      "featured_image": {
+        "url": "https://www6.slac.stanford.edu/news/2025-12-18-slac-researchers-measure-how-materials-hotter-suns-surface-conduct-electricity",
+        "name": "SLAC researchers measure how materials hotter than the sun's ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--StUzf-AG--/t_limit/https://www6.slac.stanford.edu/sites/default/files/2025-12/Aluminum-1600px.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--cau1mPX5--/t_thumbnail/https://www6.slac.stanford.edu/sites/default/files/2025-12/Aluminum-1600px.jpg"
+      },
+      "description": "Researchers at the Department of Energy's SLAC National Accelerator Laboratory have developed a contactless technique to directly measure electrical conductivity in warm dense matter, an exotic state found deep inside stars and planets, according to a study published in Nature Communications[1][2][3].\n\nThe breakthrough, announced by SLAC on December 17, comes after nine years of work and could help scientists better understand planetary magnetic fields and improve nuclear fusion experiments[4][5][6].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/a70c87d1-a74d-41a1-b944-90c88079e122.mp3",
+      "url": "scientists-develop-contactless-uB0JQWr6R6aGJcMXfo3qyQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-20T19:24:37.000000Z",
       "title": "Movie animation technology can help athletes recover from ACL injuries",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/88afef4f-3c0b-4f01-8ee2-365dec7126be",
-      "published_datetime": "2025-12-19T22:01:36.096224",
-      "title": "US strikes ISIS sites across Syria after Iowa Guardsmen killed",
-      "featured_image": {
-        "url": "https://www.nytimes.com/2025/12/19/us/politics/us-islamic-state-strikes-syria.html",
-        "name": "U.S. Strikes Islamic State Targets in Syria",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--OULveda0--/t_limit/https://static01.nyt.com/images/2025/12/19/multimedia/19dc-military-jbfm/19dc-military-jbfm-facebookJumbo.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--S0kfNR0n--/t_thumbnail/https://static01.nyt.com/images/2025/12/19/multimedia/19dc-military-jbfm/19dc-military-jbfm-facebookJumbo.jpg"
-      },
-      "description": "The United States unleashed a sweeping military operation against Islamic State targets across Syria on Friday, deploying fighter jets, attack helicopters, and artillery in retaliation for an ambush that killed two Iowa National Guard soldiers and a civilian interpreter six days earlier[1][2].\n\nThe airstrikes, dubbed \"Operation Hawkeye Strike\" in honor of the fallen Iowans' home state, targeted numerous suspected ISIS locations throughout central Syria, focusing on weapon storage facilities and other structures supporting terrorist operations[1][3]. A U.S. official, speaking on condition of anonymity, characterized the bombardments as \"a massive attack\" that continued for several hours into early Saturday morning Syrian time[1]. Social media reports from Syria indicated widespread explosions across extensive areas of the country[1].\n\nThe operation came after Sgt. William Nathaniel Howard, 29, of Marshalltown, and Sgt. Edgar Brian Torres-Tovar, 25, of Des Moines, were killed alongside civilian interpreter Ayad Mansoor Sakat, 54, during a December 13 attack in Palmyra[3][4][5]. The soldiers were conducting a key leader engagement with local Syrian partners when a lone gunman\u2014identified as a Syrian security forces member with suspected ISIS sympathies\u2014opened fire before being killed[1][5][6].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/88afef4f-3c0b-4f01-8ee2-365dec7126be.mp3",
-      "url": "us-launches-major-airstrikes-i-iADckITdRpSJe4m3A_Ertw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-18T00:00:00.000000Z",
       "title": "Nvidia could drastically reduce supply of RTX 5000 gaming GPUs in 2026, cutting production by up to 40%",
       "featured_image": {
@@ -317,5 +317,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 8,
-  "merged_at": "2025-12-20T20:13:10.714812"
+  "merged_at": "2025-12-20T20:27:25.580303"
 }
