@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-20/epstein-files-documents-reveal-celebrities-notes-and-clinton/106166006"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7db1c96f-1471-4e2b-9652-3cb1f6b84f13",
+      "published_datetime": "2025-12-20T02:14:26.075991",
+      "title": "Interstellar comet and black hole discovery cap year of lunar landings",
+      "featured_image": {
+        "url": "https://www.nationalgeographic.com/science/article/how-to-see-comet-3i-atlas",
+        "name": "You can still see comet 3I/ATLAS in the night sky. Here\u2019s how.",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--QPak4LDe--/t_limit/https://i.natgeofe.com/n/fe61da61-8283-4de4-9329-d3c8859eafb8/_3I_ATLAS_C14hyperstar_asi2600mcP_71x120sec_2025_12_14_045039local_JuneLake_California_USA_DEBartlett_for_NGiographic_16x9.jpg%3Fw%3D1200",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--5wFo78WC--/t_thumbnail/https://i.natgeofe.com/n/fe61da61-8283-4de4-9329-d3c8859eafb8/_3I_ATLAS_C14hyperstar_asi2600mcP_71x120sec_2025_12_14_045039local_JuneLake_California_USA_DEBartlett_for_NGiographic_16x9.jpg%3Fw%3D1200"
+      },
+      "description": "An interstellar comet streaked past Earth today while new observations of a distant black hole confirmed Einstein's century-old predictions, punctuating a year that saw humanity land on the Moon, deploy advanced satellites, and peer deeper into the cosmos than ever before.\n\nComet 3I/ATLAS, discovered in July by the Asteroid Terrestrial-impact Last Alert System in Chile, made its closest approach to Earth on Friday at approximately 168 million miles from our planet, according to NASA[1][2]. The ancient visitor, possibly more than 7 billion years old, marks only the third confirmed interstellar object to pass through our solar system[2][3]. NASA's Parker Solar Probe captured observations of the comet between October and November, while the James Webb Space Telescope conducted follow-up observations in December[4][2].\n\nJust days earlier, astronomers announced the first clear detection of a black hole twisting spacetime itself. The phenomenon, called Lense-Thirring precession or \"frame dragging,\" was observed through a synchronized 20-day wobble in both X-ray and radio emissions from tidal disruption event AT2020afhd[5][6][7]. \"This is a real gift for physicists as we confirm predictions made more than a century ago,\" said Dr. Cosimo Inserra from Cardiff University[8].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/7db1c96f-1471-4e2b-9652-3cb1f6b84f13.mp3",
+      "url": "2025-space-and-astronomy-highl-MD1zhkllSAauPHud4pIwuQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-20T01:45:16.000000Z",
       "title": "Royal Commission into Bondi Beach terror attack needed, NSW premier says",
       "featured_image": {
@@ -199,21 +214,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/20205bf1-5179-444b-9271-6953a3c75b00",
-      "published_datetime": "2025-12-19T20:08:26.565335",
-      "title": "Oracle and Nvidia fuel tech rally on TikTok deal, China chip review",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2025/12/12/nvidia-considers-increasing-h200-chip-output-due-to-robust-china-demand-reuters-sources-say.html",
-        "name": "Nvidia considers increasing H200 chip output due to robust China demand, Reuters sources say",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--GwIEzyED--/t_limit/https://image.cnbcfm.com/api/v1/image/108229164-17636513282025-11-05t081214z_2091479820_rc2nfgakvd7y_rtrmadp_0_china-chips.jpeg%3Fv%3D1763651345",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--JJbaJBxH--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108229164-17636513282025-11-05t081214z_2091479820_rc2nfgakvd7y_rtrmadp_0_china-chips.jpeg%3Fv%3D1763651345"
-      },
-      "description": "US stock markets rose Friday, with technology shares leading a rebound as Oracle and Nvidia surged on deal-making news and renewed artificial intelligence optimism, capping a volatile week on Wall Street.\n\nThe S&P 500 gained 0.89% to close at 6,835.14, while the Nasdaq Composite jumped 1.17% to 23,274.60[1][2][3]. The Dow Jones Industrial Average added 0.57%[2][3].\n\nOracle's stock soared more than 7% after TikTok CEO Shou Zi Chew revealed the company signed agreements to create a US joint venture for the social media platform's American operations[4][5]. Under the deal, Oracle will hold a 15% stake alongside private equity firm Silver Lake and Abu Dhabi-based MGX, with the trio collectively owning 45% of the new entity set to take effect January 22, 2026[4][6]. Oracle will serve as the \"trusted security partner\" responsible for auditing compliance with national security terms[4].\n\nNvidia shares climbed 3.7% as the Trump administration initiated a review that could enable the chipmaker to sell its H200 AI processors to China[1][7]. The potential approval, which would come with a 25% government fee, reignited investor confidence in the AI sector after recent volatility over elevated valuations[8][9].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/20205bf1-5179-444b-9271-6953a3c75b00.mp3",
-      "url": "nvidia-and-oracle-drive-tech-r-OJLZkG3ES2W9c54kZrCvQw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-19T19:50:45.000000Z",
       "title": "Extreme heat, humidity and storms ahead of Christmas Day",
       "featured_image": {
@@ -317,5 +317,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 8,
-  "merged_at": "2025-12-20T03:44:33.827411"
+  "merged_at": "2025-12-20T03:51:19.364999"
 }
