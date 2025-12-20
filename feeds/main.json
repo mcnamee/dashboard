@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-20T11:52:21.000000Z",
+      "title": "Former Pakistani PM Imran Khan given 17-year jail sentence in new graft case",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/801e28ba6b5f0b5c367cdf3467677804?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=253&amp;width=862&amp;height=485"
+      },
+      "description": "The case against Imran Khan and his wife Bushra Bibi centres on the alleged misuse of luxury state gifts from Saudi Arabia.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-20/imran-khan-bushra-bibi-sentenced-17-years-prison-graft-pakistan/106166948"
+    },
+    {
       "published_datetime": "2025-12-20T07:34:00.000000Z",
       "title": "England ditches Bazball but still crumbles. The Ashes are about to be won",
       "featured_image": {
@@ -35,15 +44,6 @@
       },
       "description": "Andrew Mountbatten-Windsor, the former prince, appears in the first tranche of the so-called Epstein files.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-20/new-photo-former-prince-andrew-mountbatten-windsor-epstein-files/106166672"
-    },
-    {
-      "published_datetime": "2025-12-20T05:22:56.000000Z",
-      "title": "Vanuatu turns 'grief into purpose' as it remembers earthquake dead",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/21866957ea8f09e669324d7ff2c895ef?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
-      },
-      "description": "Tourists are returning to Vanuatu a year on from a major catastrophe. But many demolished buildings are yet to be rebuilt and some locals are frustrated with the pace of repairs.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-20/vanuatu-marks-one-year-since-devastating-earthquake/106148676"
     },
     {
       "published_datetime": "2025-12-20T02:37:13.000000Z",
@@ -317,5 +317,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 8,
-  "merged_at": "2025-12-20T11:20:55.346776"
+  "merged_at": "2025-12-20T12:22:58.369416"
 }
