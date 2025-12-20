@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/972ccc04-3406-4928-b4e1-ca905e23c9aa",
+      "published_datetime": "2025-12-20T16:29:38.521885",
+      "title": "Lula urges EU to finalize Mercosur trade pact in January",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2025/12/19/eu-delays-trade-deal-with-south-americas-mercosur-bloc-as-farmers-protest",
+        "name": "EU delays trade deal with South America\u2019s Mercosur bloc as farmers protest",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--yuyhZGho--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-18T145839Z_768270177_RC2XIIAKSXDV_RTRMADP_3_EU-SUMMIT-FARMERS-PROTEST-1766107259.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--rsvFz77s--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-18T145839Z_768270177_RC2XIIAKSXDV_RTRMADP_3_EU-SUMMIT-FARMERS-PROTEST-1766107259.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "Brazilian President Luiz In\u00e1cio Lula da Silva on Saturday called on the European Union to demonstrate \"courage\" and finalize a long-delayed trade agreement with South America's Mercosur bloc, after the deal's signing was postponed to January following fierce opposition from European farmers[1][2][3].\n\nSpeaking at a Mercosur summit in Foz do Igua\u00e7u, Brazil, Lula urged EU leaders to move forward with the pact after more than 26 years of negotiations[1][3]. \"Without the political will and courage from leaders, it won't be possible to finish a negotiation that has dragged for 26 years,\" Lula told his South American counterparts, who gathered on the border with Argentina and Paraguay[2][3][4].\n\nEuropean Commission President Ursula von der Leyen had planned to travel to Brazil on December 20 to sign the agreement, but the ceremony was canceled after France and Italy demanded more time to secure stronger protections for their agricultural sectors[1][5][6]. Multiple European diplomatic sources confirmed the signing is now targeted for January 12 in Paraguay[5][7][8].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/972ccc04-3406-4928-b4e1-ca905e23c9aa.mp3",
+      "url": "lula-urges-eu-to-sign-mercosur-geP0J9M6SzuWgAE8I_A_rA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/477281a4-316d-446c-8b13-33f2f72aa630",
       "published_datetime": "2025-12-20T15:13:42.420190",
       "title": "Space milestones and Earth monitoring define 2025",
@@ -199,21 +214,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/34680558-d0b9-49eb-b4a3-a97d96702ec3",
-      "published_datetime": "2025-12-19T21:42:58.693923",
-      "title": "Blue Origin to launch first wheelchair user to space Saturday",
-      "featured_image": {
-        "url": "https://abcnews.go.com/US/1st-time-person-wheelchair-fly-space/story?id=128483608",
-        "name": "For the 1st time ever, a person who uses a wheelchair will fly to space",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ADsbda0M--/t_limit/https://i.abcnewsfe.com/a/328924a2-19ed-45db-a8cf-3a4a51242ebf/blue-origin-1-ap-er-251217_1766001108014_hpMain_16x9.jpg%3Fw%3D1600",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--5wif4vES--/t_thumbnail/https://i.abcnewsfe.com/a/328924a2-19ed-45db-a8cf-3a4a51242ebf/blue-origin-1-ap-er-251217_1766001108014_hpMain_16x9.jpg%3Fw%3D1600"
-      },
-      "description": "Blue Origin postponed a landmark spaceflight Thursday that would send the first wheelchair user to space, but the company now aims to launch Saturday morning from West Texas.\n\nThe NS-37 mission, initially scheduled for December 18, was scrubbed due to technical issues during preflight checks. Blue Origin announced the launch window will now open at 9 a.m. EST on December 20, with a live webcast beginning 20 minutes before liftoff[1][2].\n\nMichaela \"Michi\" Benthaus, an aerospace engineer at the European Space Agency, is poised to make history as the first wheelchair user to cross the K\u00e1rm\u00e1n line\u2014the internationally recognized boundary of space at 62 miles above Earth. Benthaus, who uses a wheelchair following a 2018 mountain biking accident that caused a spinal cord injury, has continued her career in space research, completing zero-gravity research flights in 2022[3][4][5].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/34680558-d0b9-49eb-b4a3-a97d96702ec3.mp3",
-      "url": "blue-origin-launches-first-whe-QSnFKdqMRnCChN9OmKU4fQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-19T20:01:59.000000Z",
       "title": "Grace Tame fights against a legal loophole frustrating abuse survivors",
       "featured_image": {
@@ -317,5 +317,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 8,
-  "merged_at": "2025-12-20T17:10:32.187936"
+  "merged_at": "2025-12-20T17:21:27.212895"
 }
