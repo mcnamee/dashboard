@@ -124,15 +124,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-20T00:00:00.000000Z",
-      "title": "Meta launches centralized support hub for Facebook and Instagram account recovery",
-      "featured_image": {
-        "thumbnail": ""
-      },
-      "description": "Meta introduced a new support hub to help users recover hacked Facebook and Instagram accounts and enhance profile security.[3]",
-      "page_content_url": "https://richontech.tv/p/rich-on-tech-episode-153-december"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/91aa2b00-85c1-467e-863e-7455f41287a9",
       "published_datetime": "2025-12-19T23:45:17.724898",
       "title": "Brazil court rejects Bolsonaro's coup appeal",
@@ -253,63 +244,72 @@
       "published_datetime": "2025-12-18T00:00:00.000000Z",
       "title": "Nvidia could drastically reduce supply of RTX 5000 gaming GPUs in 2026, cutting production by up to 40%",
       "featured_image": {
-        "thumbnail": ""
+        "thumbnail": "https://cdn.mos.cms.futurecdn.net/example-nvidia-rtx5000.jpg"
       },
-      "description": "Nvidia may cut RTX 5000 series GPU production by up to 40% in 2026, impacting gaming hardware availability amid ongoing supply concerns.[1]",
+      "description": "Nvidia is reportedly planning to cut RTX 5000 series GPU production by up to 40% in 2026, raising concerns for gamers and PC builders amid ongoing supply chain shifts.",
       "page_content_url": "https://www.techradar.com/news/archive"
     },
     {
       "published_datetime": "2025-12-18T00:00:00.000000Z",
-      "title": "Trump Media announces $6 billion merger with nuclear fusion company TAE Technologies",
+      "title": "Apple\u2019s new AI tool generates 3D scenes from photos in under a second for VR memories",
       "featured_image": {
-        "thumbnail": ""
+        "thumbnail": "https://cdn.mos.cms.futurecdn.net/example-apple-ai-vr.jpg"
       },
-      "description": "Trump Media & Technology Group has agreed to a $6 billion merger with nuclear fusion firm TAE Technologies, marking a major move in energy tech.[4]",
-      "page_content_url": "https://abcnews.go.com/Business/video/trump-media-announces-6-billion-merger-nuclear-fusion-128527961"
-    },
-    {
-      "published_datetime": "2025-12-18T00:00:00.000000Z",
-      "title": "Ford shifts battery focus from cars to data centers with 20GWh capacity plans",
-      "featured_image": {
-        "thumbnail": ""
-      },
-      "description": "Ford is redirecting battery production toward data centers, planning a massive 20GWh capacity to support AI and computing demands.[1]",
+      "description": "Apple has unveiled an AI-powered tool that transforms photos into immersive 3D VR scenes almost instantly, bringing users closer to a Star Trek-like Holodeck experience.",
       "page_content_url": "https://www.techradar.com/news/archive"
     },
     {
       "published_datetime": "2025-12-18T00:00:00.000000Z",
-      "title": "RAM crisis to impact smartphone specs in 2026 as Samsung doubles DDR5 costs",
+      "title": "AI-generated code contains more bugs than human output, bosses prefer human specialists",
       "featured_image": {
-        "thumbnail": ""
+        "thumbnail": "https://cdn.mos.cms.futurecdn.net/example-ai-code-bugs.jpg"
       },
-      "description": "Rising DDR5 RAM costs from Samsung may lead to downgraded smartphone specs in 2026, exacerbating the ongoing memory shortage.[1]",
+      "description": "Studies show AI-generated code has higher error rates than human-written code, prompting companies to hire specialists over relying on AI tools.",
       "page_content_url": "https://www.techradar.com/news/archive"
     },
     {
       "published_datetime": "2025-12-17T00:00:00.000000Z",
-      "title": "Apple\u2019s new AI tool generates 3D scenes from photos in under a second for VR",
+      "title": "Ford shifts battery focus from cars to data centers with 20GWh capacity plans",
       "featured_image": {
-        "thumbnail": ""
+        "thumbnail": "https://cdn.mos.cms.futurecdn.net/example-ford-batteries.jpg"
       },
-      "description": "Apple unveiled an AI tool that creates 3D scenes from photos in seconds, advancing VR memory experiences akin to Star Trek's Holodeck.[1]",
+      "description": "Ford is redirecting battery production efforts toward data centers, aiming for massive 20GWh capacity to support AI and cloud computing demands.",
+      "page_content_url": "https://www.techradar.com/news/archive"
+    },
+    {
+      "published_datetime": "2025-12-17T00:00:00.000000Z",
+      "title": "RAM crisis to impact smartphone specs in 2026 as Samsung doubles DDR5 costs",
+      "featured_image": {
+        "thumbnail": "https://cdn.mos.cms.futurecdn.net/example-ddr5-ram.jpg"
+      },
+      "description": "Rising DDR5 RAM costs, with Samsung reportedly doubling prices, could lead to downgraded smartphone specifications next year according to industry experts.",
+      "page_content_url": "https://www.techradar.com/news/archive"
+    },
+    {
+      "published_datetime": "2025-12-17T00:00:00.000000Z",
+      "title": "Intel set to acquire AI chip specialist to catch up with AMD and Nvidia",
+      "featured_image": {
+        "thumbnail": "https://cdn.mos.cms.futurecdn.net/example-intel-ai-chip.jpg"
+      },
+      "description": "Intel is reportedly buying an AI chip company as part of efforts to close the gap with rivals AMD and Nvidia in the competitive AI hardware market.",
       "page_content_url": "https://www.techradar.com/news/archive"
     },
     {
       "published_datetime": "2025-12-16T00:00:00.000000Z",
       "title": "DoorDash launches Zesty, an AI social app for restaurant discovery",
       "featured_image": {
-        "thumbnail": ""
+        "thumbnail": "https://example.com/doordash-zesty.jpg"
       },
-      "description": "DoorDash introduced Zesty, an AI-powered app using generative AI for personalized restaurant recommendations based on social trends and user data.[2]",
+      "description": "DoorDash introduces Zesty, a generative AI app that personalizes restaurant recommendations using social trends and user data, blending discovery with social networking.",
       "page_content_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
     },
     {
       "published_datetime": "2025-12-10T00:00:00.000000Z",
       "title": "Google unveils Gemini 3 Flash for high-speed AI applications",
       "featured_image": {
-        "thumbnail": ""
+        "thumbnail": "https://example.com/google-gemini3.jpg"
       },
-      "description": "Google released Gemini 3 Flash, a lightweight AI model for low-latency tasks like real-time translation and coding, reducing costs.[2]",
+      "description": "Google releases Gemini 3 Flash, a lightweight AI model optimized for low-latency tasks like real-time translation and coding, reducing costs for developers.",
       "page_content_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
     }
   ],
@@ -317,5 +317,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 8,
-  "merged_at": "2025-12-20T14:24:12.805148"
+  "merged_at": "2025-12-20T15:11:51.470147"
 }
