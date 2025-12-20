@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-21/ashes-third-test-day-five-live-updates/106167504"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/abd5a904-cfe5-4f4f-9f5c-c9cbe853630b",
+      "published_datetime": "2025-12-20T22:22:54.538776",
+      "title": "Ancient interstellar comet emits first-ever radio signal",
+      "featured_image": {
+        "url": "https://www.nationalgeographic.com/science/article/how-to-see-comet-3i-atlas",
+        "name": "You can still see comet 3I/ATLAS in the night sky. Here\u2019s how.",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--QPak4LDe--/t_limit/https://i.natgeofe.com/n/fe61da61-8283-4de4-9329-d3c8859eafb8/_3I_ATLAS_C14hyperstar_asi2600mcP_71x120sec_2025_12_14_045039local_JuneLake_California_USA_DEBartlett_for_NGiographic_16x9.jpg%3Fw%3D1200",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--5wFo78WC--/t_thumbnail/https://i.natgeofe.com/n/fe61da61-8283-4de4-9329-d3c8859eafb8/_3I_ATLAS_C14hyperstar_asi2600mcP_71x120sec_2025_12_14_045039local_JuneLake_California_USA_DEBartlett_for_NGiographic_16x9.jpg%3Fw%3D1200"
+      },
+      "description": "An ancient traveler from beyond our solar system completed its closest approach to Earth early Friday morning, as scientists confirmed the first-ever radio signal detection from an interstellar object.\n\nComet 3I/ATLAS passed within 168 million miles of our planet at approximately 1 a.m. EST on December 19[1][2][3], offering astronomers a rare glimpse of material that may have originated in the thick disk of the Milky Way billions of years before our sun formed[1]. The comet, discovered in July by the Asteroid Terrestrial-impact Last Alert System in Chile[1][4], is only the third confirmed interstellar visitor ever detected, following 'Oumuamua in 2017 and Borisov in 2019[5][6].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/abd5a904-cfe5-4f4f-9f5c-c9cbe853630b.mp3",
+      "url": "comet-3iatlas-passes-earth-emi-f9CDN9A7S5Sb7PrhD8iqlA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-20T21:55:30.000000Z",
       "title": "Images removed from Epstein files less than a day after being posted",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fcfd1d6e-aca0-4d8f-a704-2e7c7f439bb2",
-      "published_datetime": "2025-12-19T22:55:28.696922",
-      "title": "China tests drone refueling tech that could extend strike range",
-      "featured_image": {
-        "url": "https://www.scmp.com/news/china/military/article/3336098/first-flight-chinas-giant-drone-carrier-jiu-tian-signals-pla-swarm-capacity-boost",
-        "name": "China\u2019s drone carrier Jiu Tian takes flight to signal PLA swarm capacity boost",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--BD5zw74h--/t_limit/https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/12/11/eb00f0b9-ac67-43a7-8e98-33365e8a7ffd_e34f27af.jpg%3Fitok%3Dpy1lbIVg%26v%3D1765453257",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--bLQyiPOz--/t_thumbnail/https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/12/11/eb00f0b9-ac67-43a7-8e98-33365e8a7ffd_e34f27af.jpg%3Fitok%3Dpy1lbIVg%26v%3D1765453257"
-      },
-      "description": "China has successfully tested autonomous aerial refueling technology for military drones, a breakthrough that could double the operational range of its newly unveiled Jiu Tian drone carrier and bring major U.S. cities within reach, according to a report published Thursday.\n\nNorthwestern Polytechnical University conducted what appears to be China's first openly reported autonomous aerial refueling flight test, using two unidentified unmanned aerial vehicles, the South China Morning Post reported[1][2][1]. The receiving drone autonomously located, tracked and docked with a tanker aircraft during high-speed formation flights using a vision-based navigation system that achieved a 99% detection success rate with centimeter-level positioning accuracy[2][2].\n\nThe development gains significance from Northwestern Polytechnical University's direct involvement with China's Jiu Tian drone program[1][2][1]. The heavy-duty unmanned platform, which completed its maiden flight on December 11 in Shaanxi Province[3][4][5], can carry more than 200 loitering munitions and has an official range of 7,000 kilometers[1][1]. Combined with in-flight refueling capabilities, its effective strike radius could double to approximately 14,000 kilometers, placing Washington, New York and Miami within plausible reach[1][1][2].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/fcfd1d6e-aca0-4d8f-a704-2e7c7f439bb2.mp3",
-      "url": "china-tests-autonomous-drone-r-1LWVvPhVTGWOy5Th0uqo7A",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-18T00:00:00.000000Z",
       "title": "Nvidia could drastically reduce supply of RTX 5000 gaming GPUs in 2026, cutting production by up to 40%",
       "featured_image": {
@@ -317,5 +317,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 8,
-  "merged_at": "2025-12-20T23:12:09.197805"
+  "merged_at": "2025-12-20T23:24:21.444840"
 }
