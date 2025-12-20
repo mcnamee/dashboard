@@ -30,7 +30,7 @@ jobs:
           from datetime import datetime, timezone
           from dateutil import parser
 
-          # Load both feeds
+          # Load feeds
           try:
               with open('feeds/abc.json', 'r') as f:
                   abc = json.load(f)
@@ -43,12 +43,20 @@ jobs:
           except FileNotFoundError:
               perplexity = {'items': []}
 
-          # Extract items from both feeds
+              
+          try:
+              with open('feeds/perplexity-search.json', 'r') as f:
+                  perplexity_search = json.load(f)
+          except FileNotFoundError:
+              perplexity_search = {'items': []}
+
+          # Extract items from all feeds
           abc_items = abc.get('items', [])
           perplexity_items = perplexity.get('items', [])
+          perplexity_search_items = perplexity_search.get('items', [])
 
           # Combine all items
-          all_items = perplexity_items[:10] + abc_items[:10]
+          all_items = perplexity_items[:10] + abc_items[:10] + perplexity_search_items
 
           # Robust date parsing function
           def parse_date(dt_str):
@@ -80,6 +88,7 @@ jobs:
               'total_items': len(all_items),
               'abc_items': len(abc_items),
               'perplexity_items': len(perplexity_items),
+              'perplexity_search_items': len(perplexity_search_items),
               'merged_at': datetime.utcnow().isoformat()
           }
 
