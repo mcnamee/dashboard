@@ -1,19 +1,28 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-20T22:49:41.000000Z",
+      "title": "Live: Australia on cusp of Ashes victory on day five at the Adelaide Oval",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/10a8b8d1c82f84da02462e6f3237b3aa?impolicy=wcms_crop_resize&amp;cropH=2480&amp;cropW=4408&amp;xPos=0&amp;yPos=65&amp;width=862&amp;height=485"
+      },
+      "description": "Australia begins the final day of the third Ashes Test with series victory in sight, with England in need of a miracle to avoid going 3-0 down at the Adelaide Oval. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-21/ashes-third-test-day-five-live-updates/106167504"
+    },
+    {
       "published_datetime": "2025-12-20T21:55:30.000000Z",
-      "title": "Breaking: Images removed from Epstein files less than a day after being posted",
+      "title": "Images removed from Epstein files less than a day after being posted",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7c2683fc17077585b8a503e26096bcd9?impolicy=wcms_crop_resize&amp;cropH=1288&amp;cropW=2290&amp;xPos=0&amp;yPos=118&amp;width=862&amp;height=485"
       },
-      "description": "At least 16 files have disappeared from the Justice Department's public webpage for documents related to Jeffrey Epstein \u2014 including a photograph showing President Donald Trump \u2014 less than a day after they were posted, with no explanation from the government and no notice to the public.",
+      "description": "At least 16 Jeffrey Epstein-related files, including a photo of President Donald Trump, have disappeared from a US Department of Justice webpage within a day of being posted, with no explanation.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-21/images-removed-from-epstein-files-less-than-a-day-after-posted/106167464"
     },
     {
       "published_datetime": "2025-12-20T21:19:56.000000Z",
-      "title": "Live: Day of Reflection begins as council plans to clear sea of tributes",
+      "title": "Live: Circle of peace forms at Bondi as Day of Reflection begins",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e80ded7e7c75563bd5ac1a3b1e114c70?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=163&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/08114f389b5fe8a70c908b26f2f1feee?impolicy=wcms_crop_resize&amp;cropH=695&amp;cropW=1236&amp;xPos=150&amp;yPos=119&amp;width=862&amp;height=485"
       },
       "description": "A National Day of Reflection is being held, as people across the country are invited to light a candle at 6:47pm, one week since the attack. Follow Live.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-21/bondi-beach-shooting-national-day-of-reflection-live-blog/106166856"
@@ -140,15 +149,6 @@
       "audio_url": "https://discover-audio.perplexity.ai/contexts/ae0bd35f-f383-44cb-a65b-942d573f1bd2.mp3",
       "url": "2025-space-highlights-OykfIPVGR.mrWapR1xd5xA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-20T07:34:00.000000Z",
-      "title": "England ditches Bazball but still crumbles. The Ashes are about to be won",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cfaf53e6a08ada98dede92c4636d19de?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "England's belated abandonment of Bazball gives it temporary life, but reveals a painful truth \u2014 no version of this team is a match for the soon-to-be victorious Australians.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-20/england-abandons-bazball-no-match-australia-ashes-adelaide/106166260"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7db1c96f-1471-4e2b-9652-3cb1f6b84f13",
@@ -317,5 +317,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 8,
-  "merged_at": "2025-12-20T22:24:38.479233"
+  "merged_at": "2025-12-20T23:12:09.197805"
 }
