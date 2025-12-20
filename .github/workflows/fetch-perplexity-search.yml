@@ -25,7 +25,7 @@ jobs:
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
         run: |
-          python -c `
+          python -c '
           import requests
           import json
           import os
@@ -35,7 +35,7 @@ jobs:
           url = "https://api.perplexity.ai/chat/completions"
 
           headers = {
-              "Authorization": f"Bearer {os.getenv('PERPLEXITY_API_KEY')}",
+              "Authorization": f"Bearer {os.getenv(\'PERPLEXITY_API_KEY\')}",
               "Content-Type": "application/json"
           }
 
@@ -89,19 +89,19 @@ jobs:
               with open(output_path, "w", encoding="utf-8") as f:
                   json.dump(news_json, f, indent=2, ensure_ascii=False)
               
-              print(f"✅ Saved {len(news_json['items'])} stories to {output_path}")
-              print(f"📅 Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S AEDT')}")
+              print(f"✅ Saved {len(news_json[\'items\'])} stories to {output_path}")
+              print(f"📅 Generated: {datetime.now().strftime(\'%Y-%m-%d %H:%M:%S AEDT\')}")
               
           except requests.exceptions.RequestException as e:
               print(f"❌ API request failed: {e}", file=sys.stderr)
               sys.exit(1)
           except (json.JSONDecodeError, KeyError) as e:
               print(f"❌ JSON parsing failed: {e}", file=sys.stderr)
-              print(f"Response content: {content[:500]}..." if 'content' in locals() else "No content received", file=sys.stderr)
+              print(f"Response content: {content[:500]}..." if \'content\' in locals() else "No content received", file=sys.stderr)
               sys.exit(1)
           except Exception as e:
               print(f"❌ Unexpected error: {e}", file=sys.stderr)
-        `
+          '
 
       - name: Generate commit message 📆
         id: date
