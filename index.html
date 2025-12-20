@@ -96,14 +96,12 @@
                               target="_blank"
                               rel="noopener noreferrer"
                             >
-                                {item.featured_image?.thumbnail && (
-                                    <img 
-                                        className="image" 
-                                        src={(item.featured_image.thumbnail) ? item.featured_image.thumbnail : "https://picsum.photos/400/300?random=1 "}
-                                        alt={item.title}
-                                        loading="lazy"
-                                    />
-                                )}
+                                <img 
+                                    className="image" 
+                                    src={(item.featured_image.thumbnail) ? item.featured_image.thumbnail : "https://picsum.photos/400/300?random=1 "}
+                                    alt={item.title}
+                                    loading="lazy"
+                                />
                                 <div className="content">
                                     <h2 className="title">{item.title}</h2>
                                     <div 
