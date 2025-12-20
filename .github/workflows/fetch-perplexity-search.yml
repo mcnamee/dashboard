@@ -25,6 +25,7 @@ jobs:
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
         run: |
+          python -c '
           import requests
           import json
           import os
@@ -100,6 +101,7 @@ jobs:
               sys.exit(1)
           except Exception as e:
               print(f"❌ Unexpected error: {e}", file=sys.stderr)
+          '
 
       - name: Generate commit message 📆
         id: date
