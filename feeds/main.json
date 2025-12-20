@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-20T19:24:37.000000Z",
+      "title": "Movie animation technology can help athletes recover from ACL injuries",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/00abf8f70d4f11c80e28cbed9b2541ba?impolicy=wcms_crop_resize&amp;cropH=2804&amp;cropW=4985&amp;xPos=8&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The reasons for high rates of serious knee injuries among female athletes are not fully understood.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-21/3d-movie-animation-technology-helping-injured-athletes-acl/106024028"
+    },
+    {
+      "published_datetime": "2025-12-20T19:20:30.000000Z",
+      "title": "This is how a Richmond bowls club became a haven for LGBTQI+ inclusion",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1f7ac6515661a41aaca2335de98f9ef0?impolicy=wcms_crop_resize&amp;cropH=1839&amp;cropW=3269&amp;xPos=0&amp;yPos=1478&amp;width=862&amp;height=485"
+      },
+      "description": "Three years ago, Richmond became the first lawn bowls club in the world to hold a Pride Cup. Since then, it has attracted a community of queer people who were otherwise lost to sport.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-21/richmond-lawn-bowls-lgbtqi-community-sport/106071874"
+    },
+    {
       "published_datetime": "2025-12-20T18:53:39.000000Z",
       "title": "Who's named in the Epstein files and who else was he connected to?",
       "featured_image": {
@@ -91,15 +109,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-20T11:52:21.000000Z",
-      "title": "Former Pakistani PM Imran Khan given 17-year jail sentence in new graft case",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/801e28ba6b5f0b5c367cdf3467677804?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=253&amp;width=862&amp;height=485"
-      },
-      "description": "The case against Imran Khan and his wife Bushra Bibi centres on the alleged misuse of luxury state gifts from Saudi Arabia.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-20/imran-khan-bushra-bibi-sentenced-17-years-prison-graft-pakistan/106166948"
-    },
-    {
       "published_datetime": "2025-12-20T07:34:00.000000Z",
       "title": "England ditches Bazball but still crumbles. The Ashes are about to be won",
       "featured_image": {
@@ -107,15 +116,6 @@
       },
       "description": "England's belated abandonment of Bazball gives it temporary life, but reveals a painful truth \u2014 no version of this team is a match for the soon-to-be victorious Australians.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-20/england-abandons-bazball-no-match-australia-ashes-adelaide/106166260"
-    },
-    {
-      "published_datetime": "2025-12-20T06:35:58.000000Z",
-      "title": "Men left 'shaken' after Liverpool arrest intend to sue NSW Police",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/08aec5607142efd245d79246a277c03e?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=179&amp;width=862&amp;height=485"
-      },
-      "description": "The group were detained on Thursday after tactical police rammed a car in Liverpool in what was characterised as a precautionary measure following the Bondi terror attack.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-20/victorian-men-arrested-liverpool-to-sue-nsw-police/106166008"
     },
     {
       "published_datetime": "2025-12-20T06:29:37.000000Z",
@@ -317,5 +317,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 8,
-  "merged_at": "2025-12-20T19:20:46.090771"
+  "merged_at": "2025-12-20T20:13:10.714812"
 }
