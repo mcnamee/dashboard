@@ -67,7 +67,7 @@ jobs:
                   }
               ],
               "temperature": 0.1,
-              "json_mode": true,
+              "json_mode": True,
               "search_mode": "default",
               "stream": False
           }
