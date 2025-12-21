@@ -67,15 +67,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-20T23:50:00.000000Z",
-      "title": "Palo Alto Networks Integrates Vertex AI for Real-Time Threat Analysis",
-      "featured_image": {
-        "thumbnail": "https://www.securityweek.com/wp-content/uploads/2025/12/palo-alto-google.jpg"
-      },
-      "description": "The cybersecurity giant is migrating its key workloads to Google\u2019s Vertex AI platform to leverage Gemini models for faster automated threat detection and governance [web:5].",
-      "page_content_url": "https://www.securityweek.com/palo-alto-networks-adopts-google-vertex-ai/"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/260b6f4e-539a-4847-a8a9-ab9ec057af9e",
       "published_datetime": "2025-12-20T23:31:26.358497",
       "title": "At least 16 Epstein files disappear from DOJ website",
@@ -250,9 +241,9 @@
       "partition_name": "partition1"
     }
   ],
-  "total_items": 21,
+  "total_items": 20,
   "abc_items": 25,
   "perplexity_items": 12,
-  "perplexity_search_items": 1,
-  "merged_at": "2025-12-21T09:47:11.490468"
+  "perplexity_search_items": 0,
+  "merged_at": "2025-12-21T09:49:25.101469"
 }
