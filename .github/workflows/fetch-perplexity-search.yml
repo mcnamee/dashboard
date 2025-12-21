@@ -40,26 +40,28 @@ jobs:
           }
 
           payload = {
-              "model": "gemini-3.0-flash",
+              "model": "sonar-pro",
               "messages": [
                   {
                       "role": "system",
-                      "content": """You are a news aggregator. Provide a JSON summary containing the top 24 news stories that have been published in the past 24 hours. The articles should be in the topics of technology, world news, national security, Australian Signals Directorate, cyber security, technology, artificial intelligence, big tech, geopolitics, military, world affairs, finance, Australian federal Government. Only give me articles that were published in the past 24hrs. Only give me articles that would be of interest to an Australian Government signals intelligence senior executive, to enable them to keep informed of world events. Please only source from reputable sources. If you can't find 24 articles to meet that criteria, that's ok. The JSON format should be exactly: 
+                      "content": """You are a news aggregator, that provides a JSON response in the exact format: 
           {
           "items": [
           {
-              "published_datetime": "2025-12-18T19:43:23.000000Z",
-              "title": "Up to 75 character title",
-              "featured_image": { "thumbnail": "https link to image" },
-              "description": "About 30 words description",
-              "page_content_url": "https link to website"
+            "published_datetime": "2025-12-21T01:50:00.000000Z",
+            "title": "Palo Alto Networks Integrates Vertex AI for Real-Time Threat Analysis",
+            "featured_image": {
+              "thumbnail": "https://www.securityweek.com/wp-content/uploads/2025/12/palo-alto-google.jpg"
+            },
+            "description": "The cybersecurity giant is migrating its key workloads to Google’s Vertex AI platform to leverage Gemini models for faster automated threat detection and governance [web:5].",
+            "page_content_url": "https://www.securityweek.com/palo-alto-networks-adopts-google-vertex-ai/"
           }
           ]
           }"""
                   },
                   {
                       "role": "user",
-                      "content": "top 8 trending technology stories today"
+                      "content": "Give me the top 24 news stories that have been published in the past 24 hours. The articles should be in the topics of technology, world news, national security, Australian Signals Directorate, cyber security, technology, artificial intelligence, big tech, geopolitics, military, world affairs, finance, Australian federal Government. Only give me articles that were published in the past 24hrs. Only give me articles that would be of interest to an Australian Government signals intelligence senior executive, to enable them to keep informed of world events. Please only source from reputable sources. If you can't find 24 articles to meet that criteria, that's ok."
                   }
               ],
               "stream": False
