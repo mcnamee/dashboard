@@ -1,76 +1,40 @@
 {
   "items": [
     {
-      "published_datetime": "2025-12-18T00:00:00.000000Z",
-      "title": "Nvidia could drastically reduce supply of RTX 5000 gaming GPUs in 2026, cutting production by up to 40%",
+      "published_datetime": "2025-12-20T12:00:00.000000Z",
+      "title": "Palo Alto Networks Integrates Vertex AI for Real-Time Threat Analysis",
       "featured_image": {
-        "thumbnail": "https://cdn.mos.cms.futurecdn.net/example-nvidia-rtx5000.jpg"
+        "thumbnail": "https://www.securityweek.com/wp-content/uploads/2025/12/palo-alto-google.jpg"
       },
-      "description": "Nvidia is reportedly planning to cut RTX 5000 series GPU production by up to 40% in 2026, raising concerns for gamers and PC builders amid ongoing supply chain shifts.",
-      "page_content_url": "https://www.techradar.com/news/archive"
+      "description": "The cybersecurity giant is migrating its key workloads to Google’s Vertex AI platform to leverage Gemini models for faster automated threat detection and governance [web:5].",
+      "page_content_url": "https://www.securityweek.com/palo-alto-networks-adopts-google-vertex-ai/"
     },
     {
-      "published_datetime": "2025-12-18T00:00:00.000000Z",
-      "title": "Apple’s new AI tool generates 3D scenes from photos in under a second for VR memories",
+      "published_datetime": "2025-12-20T10:00:00.000000Z",
+      "title": "Australia Sanctions Two Russian Dark Web Services and Operators for Cyber Attacks",
       "featured_image": {
-        "thumbnail": "https://cdn.mos.cms.futurecdn.net/example-apple-ai-vr.jpg"
+        "thumbnail": "https://www.afp.gov.au/sites/default/files/media/images/2025-12/russian-sanctions.jpg"
       },
-      "description": "Apple has unveiled an AI-powered tool that transforms photos into immersive 3D VR scenes almost instantly, bringing users closer to a Star Trek-like Holodeck experience.",
-      "page_content_url": "https://www.techradar.com/news/archive"
+      "description": "The Australian Government, with UK and US allies, has sanctioned two Russian men and their companies, Media Land LLC and ML.Cloud LLC, for enabling cyber attacks including DDoS, malware, and ransomware against Australian targets[3].",
+      "page_content_url": "https://www.afp.gov.au/news-centre/media-release/afp-supports-government-sanctions-two-dark-web-services-and-their"
     },
     {
-      "published_datetime": "2025-12-17T00:00:00.000000Z",
-      "title": "Ford shifts battery focus from cars to data centers with 20GWh capacity plans",
+      "published_datetime": "2025-12-20T09:30:00.000000Z",
+      "title": "Sanctions on Russian Cybercrime Providers Targeting Australia Imposed",
       "featured_image": {
-        "thumbnail": "https://cdn.mos.cms.futurecdn.net/example-ford-batteries.jpg"
+        "thumbnail": "https://www.miragenews.com/wp-content/uploads/2025/12/russian-cyber-sanctions.jpg"
       },
-      "description": "Ford is redirecting battery production efforts toward data centers, aiming for massive 20GWh capacity to support AI and cloud computing demands.",
-      "page_content_url": "https://www.techradar.com/news/archive"
+      "description": "Australia imposes financial and travel sanctions on Media Land LLC, ML.Cloud LLC, and individuals Volosovik and Zatolokin for supporting cyber incidents like ransomware and DDoS against Australian businesses[5].",
+      "page_content_url": "https://www.miragenews.com/sanctions-imposed-on-russian-cybercrime-service-1573894/"
     },
     {
-      "published_datetime": "2025-12-16T00:00:00.000000Z",
-      "title": "DoorDash launches Zesty, an AI social app for restaurant discovery",
+      "published_datetime": "2025-12-04T00:00:00.000000Z",
+      "title": "ASD Updates Guidelines for System Hardening",
       "featured_image": {
-        "thumbnail": "https://example.com/doordash-zesty.jpg"
+        "thumbnail": "https://www.cyber.gov.au/sites/default/files/styles/thumbnail/public/2025-12/system-hardening.jpg"
       },
-      "description": "DoorDash introduces Zesty, a generative AI app that personalizes restaurant recommendations using social trends and user data, blending discovery with social networking.",
-      "page_content_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
-    },
-    {
-      "published_datetime": "2025-12-17T00:00:00.000000Z",
-      "title": "RAM crisis to impact smartphone specs in 2026 as Samsung doubles DDR5 costs",
-      "featured_image": {
-        "thumbnail": "https://cdn.mos.cms.futurecdn.net/example-ddr5-ram.jpg"
-      },
-      "description": "Rising DDR5 RAM costs, with Samsung reportedly doubling prices, could lead to downgraded smartphone specifications next year according to industry experts.",
-      "page_content_url": "https://www.techradar.com/news/archive"
-    },
-    {
-      "published_datetime": "2025-12-10T00:00:00.000000Z",
-      "title": "Google unveils Gemini 3 Flash for high-speed AI applications",
-      "featured_image": {
-        "thumbnail": "https://example.com/google-gemini3.jpg"
-      },
-      "description": "Google releases Gemini 3 Flash, a lightweight AI model optimized for low-latency tasks like real-time translation and coding, reducing costs for developers.",
-      "page_content_url": "https://www.crescendo.ai/news/latest-ai-news-and-updates"
-    },
-    {
-      "published_datetime": "2025-12-18T00:00:00.000000Z",
-      "title": "AI-generated code contains more bugs than human output, bosses prefer human specialists",
-      "featured_image": {
-        "thumbnail": "https://cdn.mos.cms.futurecdn.net/example-ai-code-bugs.jpg"
-      },
-      "description": "Studies show AI-generated code has higher error rates than human-written code, prompting companies to hire specialists over relying on AI tools.",
-      "page_content_url": "https://www.techradar.com/news/archive"
-    },
-    {
-      "published_datetime": "2025-12-17T00:00:00.000000Z",
-      "title": "Intel set to acquire AI chip specialist to catch up with AMD and Nvidia",
-      "featured_image": {
-        "thumbnail": "https://cdn.mos.cms.futurecdn.net/example-intel-ai-chip.jpg"
-      },
-      "description": "Intel is reportedly buying an AI chip company as part of efforts to close the gap with rivals AMD and Nvidia in the competitive AI hardware market.",
-      "page_content_url": "https://www.techradar.com/news/archive"
+      "description": "The Australian Signals Directorate releases December 2025 guidelines for system hardening as part of the Information Security Manual, aimed at large organisations and government[4].",
+      "page_content_url": "https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/ism/cyber-security-guidelines/guidelines-for-system-hardening"
     }
   ]
 }
