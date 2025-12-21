@@ -40,21 +40,21 @@ jobs:
           }
 
           payload = {
-              "model": "sonar-pro",
+              "model": "sonar-reasoning",
               "messages": [
                   {
                       "role": "system",
-                      "content": """You are a news aggregator. Provide a JSON summary of the top 8 trending technology stories today. The JSON format should be exactly:
+                      "content": """You are a news aggregator. Provide a JSON summary containing the top 24 news stories that have been published in the past 24 hours. The articles should be in the topics of technology, world news, national security, Australian Signals Directorate, cyber security, technology, artificial intelligence, big tech, geopolitics, military, world affairs, finance, Australian federal Government. Only give me articles that were published in the past 24hrs. Only give me articles that would be of interest to an Australian Government signals intelligence senior executive, to enable them to keep informed of world events. Please only source from reputable sources. If you can't find 24 articles to meet that criteria, that's ok. The JSON format should be exactly: 
           {
           "items": [
           {
               "published_datetime": "2025-12-18T19:43:23.000000Z",
-              "title": "Live: Fifteenth Bondi victim identified as Albanese announces national day of mourning",
+              "title": "CISA and NSA Alert: BRICKSTORM Backdoor Targets Critical Infrastructure",
               "featured_image": {
-              "thumbnail": "https://live-production.wcms.abc-cdn.net.au/45ee23f6133d42b5463fbe23e5aa0f13?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485"
+              "thumbnail": "https://cybersecuritynews.com/wp-content/uploads/2025/12/brickstorm-malware.jpg"
               },
-              "description": "Anthony Albanese says he will confirm a \"national day of mourning\" for the Bondi attack in the new year, and has declared Sunday, December 21 as a day of reflection to honour the victims.",
-              "page_content_url": "https://www.abc.net.au/news/2025-12-19/bondi-beach-shooting-terrorist-attack-live-blog-december-19/106160710"
+              "description": "A joint advisory from U.S. and Canadian intelligence warns of the BRICKSTORM backdoor, a sophisticated tool used by state-backed actors for persistent access to VMware and Windows environments.",
+              "page_content_url": "https://cybersecuritynews.com/cisa-releases-indicators-of-compromise-tied-to-brickstorm-malware/"
           }
           ]
           }"""
