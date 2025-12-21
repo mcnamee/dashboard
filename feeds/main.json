@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4eb8009b-b028-4663-b3c3-f395c2d36d3b",
+      "published_datetime": "2025-12-21T22:29:04.491488",
+      "title": "Japan to restart world's largest nuclear plant",
+      "featured_image": {
+        "url": "https://www.bloomberg.com/news/articles/2025-11-21/japan-s-biggest-nuclear-plant-to-get-de-facto-restart-approval",
+        "name": "Japan's Biggest Nuclear Plant in Niigata to Get De Facto ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--RMpTh05j--/t_limit/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_GXwgk9dNVM/v1/-1x-1.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--6PSc3abn--/t_thumbnail/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_GXwgk9dNVM/v1/-1x-1.webp"
+      },
+      "description": "The Niigata prefectural assembly is poised to endorse the restart of the Kashiwazaki-Kariwa nuclear power plant as early as this week, clearing the final political hurdle for the world\u2019s largest nuclear facility to return to operation nearly 15 years after the Fukushima disaster.[1][2][3] The move caps a months-long push by Tokyo Electric Power Company Holdings Inc. (TEPCO) and the central government to rebuild Japan\u2019s nuclear fleet amid rising energy demand and high fossil fuel costs.[1][2][4]",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/4eb8009b-b028-4663-b3c3-f395c2d36d3b.mp3",
+      "url": "japan-to-restart-world-s-large-x8Q3nyZZSDqBx.HRPMo17Q",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-21T21:14:19.000000Z",
       "title": "Victoria Police escalates security measures for Boxing Day Test",
       "featured_image": {
@@ -253,21 +268,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/972ccc04-3406-4928-b4e1-ca905e23c9aa",
-      "published_datetime": "2025-12-20T16:29:38.521885",
-      "title": "Lula urges EU to finalize Mercosur trade pact in January",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2025/12/19/eu-delays-trade-deal-with-south-americas-mercosur-bloc-as-farmers-protest",
-        "name": "EU delays trade deal with South America\u2019s Mercosur bloc as farmers protest",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--yuyhZGho--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-18T145839Z_768270177_RC2XIIAKSXDV_RTRMADP_3_EU-SUMMIT-FARMERS-PROTEST-1766107259.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--rsvFz77s--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-18T145839Z_768270177_RC2XIIAKSXDV_RTRMADP_3_EU-SUMMIT-FARMERS-PROTEST-1766107259.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "Brazilian President Luiz In\u00e1cio Lula da Silva on Saturday called on the European Union to demonstrate \"courage\" and finalize a long-delayed trade agreement with South America's Mercosur bloc, after the deal's signing was postponed to January following fierce opposition from European farmers[1][2][3].\n\nSpeaking at a Mercosur summit in Foz do Igua\u00e7u, Brazil, Lula urged EU leaders to move forward with the pact after more than 26 years of negotiations[1][3]. \"Without the political will and courage from leaders, it won't be possible to finish a negotiation that has dragged for 26 years,\" Lula told his South American counterparts, who gathered on the border with Argentina and Paraguay[2][3][4].\n\nEuropean Commission President Ursula von der Leyen had planned to travel to Brazil on December 20 to sign the agreement, but the ceremony was canceled after France and Italy demanded more time to secure stronger protections for their agricultural sectors[1][5][6]. Multiple European diplomatic sources confirmed the signing is now targeted for January 12 in Paraguay[5][7][8].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/972ccc04-3406-4928-b4e1-ca905e23c9aa.mp3",
-      "url": "lula-urges-eu-to-sign-mercosur-geP0J9M6SzuWgAE8I_A_rA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-20T00:00:00.000000Z",
       "title": "Saudi Arabia quietly expands access to its only alcohol store for non-Muslim residents",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-21T23:12:07.279926"
+  "merged_at": "2025-12-21T23:24:35.549525"
 }
