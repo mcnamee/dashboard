@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-21T03:41:00.000000Z",
+      "title": "A Reddit user proved vital in locating the Brown University shooting suspect",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/75ba774bcf96c2b12171cc8968a98b98?impolicy=wcms_crop_resize&amp;cropH=929&amp;cropW=1652&amp;xPos=0&amp;yPos=204&amp;width=862&amp;height=485"
+      },
+      "description": "On December 13 a gunman killed two Brown University students and wounded nine others, escaping by foot.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-21/brown-university-shooting-suspect-reddit-tipoff/106167702"
+    },
+    {
       "published_datetime": "2025-12-21T01:19:09.000000Z",
       "title": "Why the contrast between Minns and Albanese has been so stark",
       "featured_image": {
@@ -13,7 +22,7 @@
       "published_datetime": "2025-12-21T01:05:45.000000Z",
       "title": "PM announces review of intelligence and law enforcement in wake of Bondi attack",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5b6300f24af5c3b62f32e9c89ef618ca?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bd6fe53255a9696a83b45774b9ebd7ee?impolicy=wcms_crop_resize&amp;cropH=3215&amp;cropW=5716&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
       "description": "Former top bureaucrat Dennis Richardson has been appointed to lead the review, which will report in April of next year.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-21/pm-announces-review-into-intelligence-and-law-enforcement/106167788"
@@ -50,11 +59,11 @@
     },
     {
       "published_datetime": "2025-12-20T22:49:41.000000Z",
-      "title": "Live: Marnus pulls of another miracle catch as Australia finally breaks through",
+      "title": "Live: Australia wins Ashes in record time as England collapses after lunch",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fc84e47d8416e277f430da1a8aa65f96?impolicy=wcms_crop_resize&amp;cropH=1687&amp;cropW=2998&amp;xPos=0&amp;yPos=88&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2aa5ae1cdb8f3ef073e15880b2640df1?impolicy=wcms_crop_resize&amp;cropH=1536&amp;cropW=2731&amp;xPos=0&amp;yPos=40&amp;width=862&amp;height=485"
       },
-      "description": "Ashes victory is in sight for Australia on day five of the third Test, with England in need of a miracle to avoid going 3-0 down at the Adelaide Oval. Follow live.",
+      "description": "Australia defeats England by 82 runs at the Adelaide Oval to take an unassailable 3-0 series lead in the 2025/26 Ashes. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-21/ashes-third-test-day-five-live-updates/106167504"
     },
     {
@@ -122,15 +131,6 @@
       "audio_url": "https://discover-audio.perplexity.ai/contexts/a70c87d1-a74d-41a1-b944-90c88079e122.mp3",
       "url": "scientists-develop-contactless-uB0JQWr6R6aGJcMXfo3qyQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-20T18:53:39.000000Z",
-      "title": "Who's named in the Epstein files and who else was he connected to?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c0e6c6ca6736400b7facc5b662f8df2d?impolicy=wcms_crop_resize&amp;cropH=333&amp;cropW=592&amp;xPos=33&amp;yPos=55&amp;width=862&amp;height=485"
-      },
-      "description": "The Epstein files offer another glimpse into the financier's vast network of wealthy and influential\u00a0figures. Here's what we know about his relationships with some of the world's most powerful people.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-21/epstein-files-who-is-named-in-the-released-emails-documents/106026984"
     },
     {
       "published_datetime": "2025-12-20T18:43:58.000000Z",
@@ -317,5 +317,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 8,
-  "merged_at": "2025-12-21T04:02:59.287106"
+  "merged_at": "2025-12-21T04:31:01.110864"
 }
