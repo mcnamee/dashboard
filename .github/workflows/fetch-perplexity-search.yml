@@ -44,28 +44,31 @@ jobs:
               "messages": [
                   {
                       "role": "system",
-                      "content": """You are a news aggregator, that provides a JSON response in the exact format: 
-          {
-            "items": [
-              {
-                "published_datetime": "2025-12-21T01:50:00.000000Z",
-                "title": "Palo Alto Networks Integrates Vertex AI for Real-Time Threat Analysis",
-                "featured_image": {
-                  "thumbnail": "https://www.securityweek.com/wp-content/uploads/2025/12/palo-alto-google.jpg"
-                },
-                "description": "The cybersecurity giant is migrating its key workloads to Google’s Vertex AI platform to leverage Gemini models for faster automated threat detection and governance [web:5].",
-                "page_content_url": "https://www.securityweek.com/palo-alto-networks-adopts-google-vertex-ai/"
-              }
-            ]
-          }
-          You do not hallucinate and make up data. All fields are required, except for featured_image and description. If you don't have data to fill an optional field, leave it blank.
-          """
+                      "content": """You are a news aggregator, that provides a JSON response. IMPORTANT: ONLY use REAL articles from your web search with ACTUAL URLs and published dates from past 24hrs. If no real thumbnail exists, use {"thumbnail": "" }. Do NOT invent links, dates, or images. If fewer than 24 articles found, return what exists. Return JSON in the exact format: 
+                      {
+                        "items": [
+                          {
+                            "published_datetime": "2025-12-21T01:50:00.000000Z",
+                            "title": "Palo Alto Networks Integrates Vertex AI for Real-Time Threat Analysis",
+                            "featured_image": {
+                              "thumbnail": "https://www.securityweek.com/wp-content/uploads/2025/12/palo-alto-google.jpg"
+                            },
+                            "description": "The cybersecurity giant is migrating its key workloads to Google’s Vertex AI platform to leverage Gemini models for faster automated threat detection and governance [web:5].",
+                            "page_content_url": "https://www.securityweek.com/palo-alto-networks-adopts-google-vertex-ai/"
+                          }
+                        ]
+                      }
+                      You do not hallucinate and make up data. All fields are required, except for featured_image and description. If you don't have data to fill an optional field, leave it blank.
+                      """
                   },
                   {
                       "role": "user",
                       "content": "Give me the top 24 news stories that have been published in the past 24 hours. The articles should be in the topics of technology, world news, national security, Australian Signals Directorate, cyber security, technology, artificial intelligence, big tech, geopolitics, military, world affairs, finance, Australian federal Government. Only give me articles that were published in the past 24hrs. Please only source from reputable sources."
                   }
               ],
+              "temperature": 0.1,
+              "json_mode": true,
+              "search_mode": "default",
               "stream": False
           }
 
