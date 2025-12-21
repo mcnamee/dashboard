@@ -66,9 +66,6 @@ jobs:
                       "content": "Give me the top 24 news stories that have been published in the past 24 hours. The articles should be in the topics of technology, world news, national security, Australian Signals Directorate, cyber security, technology, artificial intelligence, big tech, geopolitics, military, world affairs, finance, Australian federal Government. Only give me articles that were published in the past 24hrs. Please only source from reputable sources."
                   }
               ],
-              "temperature": 0.1,
-              "json_mode": True,
-              "search_mode": "default",
               "stream": False
           }
 
