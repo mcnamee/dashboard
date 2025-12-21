@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ed008bf5-ff37-40f2-9a1a-4544aab50692",
+      "published_datetime": "2025-12-21T14:16:14.748845",
+      "title": "Israel approves 19 West Bank settlements to block Palestinian state",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/middle-east/israels-smotrich-launches-settlement-plan-bury-idea-palestinian-state-2025-08-14/",
+        "name": "Israel's Smotrich launches settlement plan to 'bury' idea of Palestinian state",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--sHvw49gl--/t_limit/https://www.reuters.com/resizer/v2/XF6M3O2PJZMTHFVQWR2F7QSIWU.jpg%3Fauth%3D21d07a1de180a5f2fc3b10f14d53b88bbda286d1ab4a6a5518ad2f0cb1cfd311%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--7MGN_8k9--/t_thumbnail/https://www.reuters.com/resizer/v2/XF6M3O2PJZMTHFVQWR2F7QSIWU.jpg%3Fauth%3D21d07a1de180a5f2fc3b10f14d53b88bbda286d1ab4a6a5518ad2f0cb1cfd311%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Israel's Cabinet on Sunday approved 19 new settlements in the occupied West Bank, a decision that will increase the number of settlements by nearly 50% since the current government took office in 2022, according to Peace Now, an anti-settlement watchdog group[1][2][3].\n\nFinance Minister Bezalel Smotrich announced the approval and stated explicitly that the move was designed to prevent the establishment of a Palestinian state. \"On the ground, we are blocking the establishment of a Palestinian terror state,\" Smotrich said in a statement[4]. The settlements include two\u2014Ganim and Kadim\u2014that were previously evacuated during Israel's 2005 disengagement plan[4][1][2].\n\nThe approval brings the total number of settlements from 141 in 2022 to 210, and increases the number of new settlements approved over the past two years to 69, according to Smotrich[1][2][5]. All Israeli settlements in the occupied West Bank are considered illegal under international law[4][1][2].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/ed008bf5-ff37-40f2-9a1a-4544aab50692.mp3",
+      "url": "israel-approves-19-new-west-ba-cB2bWht3Qju5rbuttHGVeQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-21T12:45:41.000000Z",
       "title": "Gunmen kill nine, wound 10 in South Africa bar attack",
       "featured_image": {
@@ -253,21 +268,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5d59be66-b2f4-4969-9cbb-c57589ab5519",
-      "published_datetime": "2025-12-20T00:31:57.399285",
-      "title": "Ancient interstellar comet sweeps past Earth with unexplained nickel emissions",
-      "featured_image": {
-        "url": "https://www.nationalgeographic.com/science/article/how-to-see-comet-3i-atlas",
-        "name": "You can still see comet 3I/ATLAS in the night sky. Here\u2019s how.",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--QPak4LDe--/t_limit/https://i.natgeofe.com/n/fe61da61-8283-4de4-9329-d3c8859eafb8/_3I_ATLAS_C14hyperstar_asi2600mcP_71x120sec_2025_12_14_045039local_JuneLake_California_USA_DEBartlett_for_NGiographic_16x9.jpg%3Fw%3D1200",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--5wFo78WC--/t_thumbnail/https://i.natgeofe.com/n/fe61da61-8283-4de4-9329-d3c8859eafb8/_3I_ATLAS_C14hyperstar_asi2600mcP_71x120sec_2025_12_14_045039local_JuneLake_California_USA_DEBartlett_for_NGiographic_16x9.jpg%3Fw%3D1200"
-      },
-      "description": "An ancient visitor from beyond our solar system swept past Earth early Friday morning, offering scientists an unprecedented opportunity to study material forged around a distant star billions of years ago. Comet 3I/ATLAS, the third confirmed interstellar object ever detected, came within 168 million miles of our planet at approximately 1 a.m. EST, according to NASA[1][2][3]. While posing no danger to Earth, the comet's unusual metal emissions have left astronomers scrambling to explain its peculiar chemistry.",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/5d59be66-b2f4-4969-9cbb-c57589ab5519.mp3",
-      "url": "interstellar-comet-3iatlas-mak-GDqPXGTBQ0KBPpJ_6m9D0g",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-20T00:00:00.000000Z",
       "title": "Saudi Arabia quietly expands access to its only alcohol store for non-Muslim residents",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-21T15:13:17.324442"
+  "merged_at": "2025-12-21T15:25:22.739657"
 }
