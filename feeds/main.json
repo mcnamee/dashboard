@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-21T11:07:47.000000Z",
+      "title": "PM booed as Sydney's grieving Jewish community marks a week since massacre",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5551228ea84f64f5f8b05140e5077df4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=397&amp;width=862&amp;height=485"
+      },
+      "description": "A National Day of Reflection is being held and people across the country are invited to light a candle to honour the victims of the Bondi attack, one week on. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-21/nsw-bondi-massacre-vigil-commemoration-jewish-community/106168156"
+    },
+    {
       "published_datetime": "2025-12-21T05:07:06.000000Z",
       "title": "Australia defeats words with actions to complete rapid Ashes romp",
       "featured_image": {
@@ -113,15 +122,6 @@
       "audio_url": "https://discover-audio.perplexity.ai/contexts/abd5a904-cfe5-4f4f-9f5c-c9cbe853630b.mp3",
       "url": "comet-3iatlas-passes-earth-emi-f9CDN9A7S5Sb7PrhD8iqlA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-20T21:19:56.000000Z",
-      "title": "Live: Teen survivor's message to Bondi attack memorial; Albanese booed by angry crowd",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5551228ea84f64f5f8b05140e5077df4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=397&amp;width=862&amp;height=485"
-      },
-      "description": "A National Day of Reflection is being held and people across the country are invited to light a candle to honour the victims of the Bondi attack, one week on. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-21/bondi-beach-shooting-national-day-of-reflection-live-blog/106166856"
     },
     {
       "published_datetime": "2025-12-20T21:03:04.000000Z",
@@ -245,5 +245,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 0,
-  "merged_at": "2025-12-21T11:21:41.303212"
+  "merged_at": "2025-12-21T12:23:28.292055"
 }
