@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-21T12:45:41.000000Z",
+      "title": "Gunmen kill nine, wound 10 in South Africa bar attack",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2d60f9a929181218c4f81f2dc773df36?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
+      },
+      "description": "The incident happened just before 1am local time at a licensed tavern in Johannesburg's Bekkersdal township.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-21/nine-killed-10-wounded-in-south-african-pub-shooting/106168912"
+    },
+    {
       "published_datetime": "2025-12-21T11:07:47.000000Z",
       "title": "PM booed as Sydney's grieving Jewish community marks a week since massacre",
       "featured_image": {
@@ -41,15 +50,6 @@
       },
       "description": "On December 13 a gunman killed two Brown University students and wounded nine others, escaping by foot.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-21/brown-university-shooting-suspect-reddit-tipoff/106167702"
-    },
-    {
-      "published_datetime": "2025-12-21T02:28:12.000000Z",
-      "title": "Woman allegedly assaulted at popular Gold Coast national park",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/471e32f17bcf60eee5bad1925101b22a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=469&amp;width=862&amp;height=485"
-      },
-      "description": "Police are appealing for information after a woman was allegedly assaulted in broad daylight on a popular Gold Coast walking track.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-21/police-investigate-alleged-daylight-assault-of-woman/106167804"
     },
     {
       "published_datetime": "2025-12-21T01:19:09.000000Z",
@@ -245,5 +245,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 0,
-  "merged_at": "2025-12-21T12:52:02.233472"
+  "merged_at": "2025-12-21T13:22:38.545847"
 }
