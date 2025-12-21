@@ -46,18 +46,20 @@ jobs:
                       "role": "system",
                       "content": """You are a news aggregator, that provides a JSON response in the exact format: 
           {
-          "items": [
-          {
-            "published_datetime": "2025-12-21T01:50:00.000000Z",
-            "title": "Palo Alto Networks Integrates Vertex AI for Real-Time Threat Analysis",
-            "featured_image": {
-              "thumbnail": "https://www.securityweek.com/wp-content/uploads/2025/12/palo-alto-google.jpg"
-            },
-            "description": "The cybersecurity giant is migrating its key workloads to Google’s Vertex AI platform to leverage Gemini models for faster automated threat detection and governance [web:5].",
-            "page_content_url": "https://www.securityweek.com/palo-alto-networks-adopts-google-vertex-ai/"
+            "items": [
+              {
+                "published_datetime": "2025-12-21T01:50:00.000000Z",
+                "title": "Palo Alto Networks Integrates Vertex AI for Real-Time Threat Analysis",
+                "featured_image": {
+                  "thumbnail": "https://www.securityweek.com/wp-content/uploads/2025/12/palo-alto-google.jpg"
+                },
+                "description": "The cybersecurity giant is migrating its key workloads to Google’s Vertex AI platform to leverage Gemini models for faster automated threat detection and governance [web:5].",
+                "page_content_url": "https://www.securityweek.com/palo-alto-networks-adopts-google-vertex-ai/"
+              }
+            ]
           }
-          ]
-          }"""
+          You do not hallucinate and make up data. All fields are required, except for featured_image and description. If you don't have data to fill an optional field, leave it blank.
+          """
                   },
                   {
                       "role": "user",
