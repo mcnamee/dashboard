@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-22/victoria-police-presence-mcg-boxing-day-test/106169288"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9a9f8bed-ed72-42ff-b390-d3b270d816f0",
+      "published_datetime": "2025-12-21T20:41:19.911179",
+      "title": "Starmer, Trump discuss Ukraine peace talks in pre-Christmas call",
+      "featured_image": {
+        "url": "https://www.aa.com.tr/en/russia-ukraine-war/uk-premier-starmer-discusses-ukraine-peace-efforts-with-trump/3777222",
+        "name": "UK Premier Starmer discusses Ukraine peace efforts with Trump",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--NXK-KouK--/t_limit/https://cdnuploads.aa.com.tr/uploads/Contents/2025/12/21/thumbs_b_c_ed91db0ae31b09ac51b8af1067fb09b4.jpg%3Fv%3D224136",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--q4p1bBfh--/t_thumbnail/https://cdnuploads.aa.com.tr/uploads/Contents/2025/12/21/thumbs_b_c_ed91db0ae31b09ac51b8af1067fb09b4.jpg%3Fv%3D224136"
+      },
+      "description": "British Prime Minister Keir Starmer and US President Donald Trump spoke Sunday in what is likely their final call of 2025, discussing efforts to secure a lasting end to the war in Ukraine and the fragile humanitarian situation in Gaza. The conversation came as US-led peace negotiations in Florida showed signs of progress, with both Ukrainian and Russian officials describing recent talks as \"constructive.\"[1][2][3]\n\nAccording to Downing Street, the leaders \"began by reflecting on the war in Ukraine,\" with Starmer updating Trump on the work of the Coalition of the Willing to support any peace deal and ensure a lasting end to hostilities.[4][5][6] The call took place as Trump spoke from his Mar-a-Lago estate in Florida.[5][7]",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/9a9f8bed-ed72-42ff-b390-d3b270d816f0.mp3",
+      "url": "starmer-and-trump-hold-pre-chr-0LTVqjaySwioatLVzehRiQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-21T20:07:40.000000Z",
       "title": "Sydney's grieving Jewish community joined by thousands to mark one week since Bondi massacre",
       "featured_image": {
@@ -253,21 +268,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/477281a4-316d-446c-8b13-33f2f72aa630",
-      "published_datetime": "2025-12-20T15:13:42.420190",
-      "title": "Space milestones and Earth monitoring define 2025",
-      "featured_image": {
-        "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnsons-2025-milestones/",
-        "name": "NASA Johnson's 2025 Milestones",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IMfs-mGK--/t_limit/https://www.nasa.gov/wp-content/uploads/2025/12/jsc2025e069098.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--5Gvg-nSn--/t_thumbnail/https://www.nasa.gov/wp-content/uploads/2025/12/jsc2025e069098.jpg"
-      },
-      "description": "As 2025 draws to a close, the year stands as a landmark period for spaceflight achievements and humanity's ability to monitor Earth from orbit, with developments ranging from an interstellar visitor's approach this week to quarter-century celebrations of continuous human presence in space.\n\nThis Friday, December 19, marks the closest approach of interstellar comet 3I/ATLAS to Earth[1][2][3][4][5], the third known object from beyond our solar system to pass through our cosmic neighborhood. Discovered on July 1 by NASA-funded ATLAS telescopes in Chile[1][4], the seven-mile-wide comet has been tracked by multiple space agencies and observatories, including NASA's Parker Solar Probe, Hubble Space Telescope, and JUICE Jupiter probe[1][2]. The comet will pass approximately 170 million miles from Earth[6][1] before continuing its journey back into interstellar space, never to return.",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/477281a4-316d-446c-8b13-33f2f72aa630.mp3",
-      "url": "2025-space-highlights-39odtgksQoOGGwFOJja1nA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-20T00:00:00.000000Z",
       "title": "Saudi Arabia quietly expands access to its only alcohol store for non-Muslim residents",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-21T22:12:32.660416"
+  "merged_at": "2025-12-21T22:25:53.109484"
 }
