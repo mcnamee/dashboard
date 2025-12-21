@@ -49,12 +49,10 @@ jobs:
           "items": [
           {
               "published_datetime": "2025-12-18T19:43:23.000000Z",
-              "title": "CISA and NSA Alert: BRICKSTORM Backdoor Targets Critical Infrastructure",
-              "featured_image": {
-              "thumbnail": "https://cybersecuritynews.com/wp-content/uploads/2025/12/brickstorm-malware.jpg"
-              },
-              "description": "A joint advisory from U.S. and Canadian intelligence warns of the BRICKSTORM backdoor, a sophisticated tool used by state-backed actors for persistent access to VMware and Windows environments.",
-              "page_content_url": "https://cybersecuritynews.com/cisa-releases-indicators-of-compromise-tied-to-brickstorm-malware/"
+              "title": "Up to 75 character title",
+              "featured_image": { "thumbnail": "https link to image" },
+              "description": "About 30 words description",
+              "page_content_url": "https link to website"
           }
           ]
           }"""
