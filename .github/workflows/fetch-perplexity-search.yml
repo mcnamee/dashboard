@@ -61,7 +61,7 @@ jobs:
                   },
                   {
                       "role": "user",
-                      "content": "Give me the top 24 news stories that have been published in the past 24 hours. The articles should be in the topics of technology, world news, national security, Australian Signals Directorate, cyber security, technology, artificial intelligence, big tech, geopolitics, military, world affairs, finance, Australian federal Government. Only give me articles that were published in the past 24hrs. Only give me articles that would be of interest to an Australian Government signals intelligence senior executive, to enable them to keep informed of world events. Please only source from reputable sources. If you can't find 24 articles to meet that criteria, that's ok."
+                      "content": "Give me the top 24 news stories that have been published in the past 24 hours. The articles should be in the topics of technology, world news, national security, Australian Signals Directorate, cyber security, technology, artificial intelligence, big tech, geopolitics, military, world affairs, finance, Australian federal Government. Only give me articles that were published in the past 24hrs. Please only source from reputable sources."
                   }
               ],
               "stream": False
