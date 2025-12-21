@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/05d0e297-3c62-4a6a-8067-666c9b925726",
+      "published_datetime": "2025-12-21T04:42:54.540754",
+      "title": "Putin picked Steve Witkoff as Trump\u2019s Ukraine envoy, WSJ says",
+      "featured_image": {
+        "url": "https://www.nytimes.com/2025/12/02/world/europe/putin-witkoff-trump-ukraine-meeting.html",
+        "name": "Putin Meets With Witkoff and Kushner for Nearly Five Hours",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--EnifntPz--/t_limit/https://static01.nyt.com/images/2025/12/01/multimedia/00int-putin-witkoff-01-lbkp/00int-putin-witkoff-01-lbkp-facebookJumbo.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--jaRxgQpW--/t_thumbnail/https://static01.nyt.com/images/2025/12/01/multimedia/00int-putin-witkoff-01-lbkp/00int-putin-witkoff-01-lbkp-facebookJumbo.jpg"
+      },
+      "description": "Russian President Vladimir Putin personally orchestrated the selection of Steve Witkoff as his preferred American interlocutor, using Saudi Crown Prince Mohammed bin Salman as an intermediary to engineer the billionaire real estate developer's rise as a key envoy in negotiations over Ukraine, according to a Wall Street Journal report published Friday[1][2][3].\n\nThe revelation comes as Russian envoy Kirill Dmitriev arrived in Miami on Saturday for continued peace talks with Witkoff and Jared Kushner, President Donald Trump's son-in-law, marking the latest round of negotiations aimed at ending the nearly four-year war[4][5][6]. Dmitriev told reporters late Saturday that the discussions were proceeding \"constructively\"[3][6].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/05d0e297-3c62-4a6a-8067-666c9b925726.mp3",
+      "url": "putin-picked-steve-witkoff-as-mZK6FSM8S6aQroDvKq3agw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-21T03:41:00.000000Z",
       "title": "A Reddit user proved vital in locating the Brown University shooting suspect",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2451a442-c8a4-49e8-9537-edd2da7dc589",
-      "published_datetime": "2025-12-20T00:26:20.999941",
-      "title": "Trump envoys host Miami talks on Ukraine, Gaza ceasefires",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/europe/trump-officials-meeting-with-russian-miami-spurs-questions-about-latest-ukraine-2025-11-22/",
-        "name": "Trump officials' meeting with Russian in Miami spurs questions about Ukraine proposal",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--TCOdPn4I--/t_limit/https://www.reuters.com/resizer/v2/I4CPHHPC4BKBLKKDSWZSNIJBB4.jpg%3Fauth%3D15481888f8bec2fb59d6d6d70cd9c06a359e7bd411592f176db947506f2b7a0d%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--pNsXCciL--/t_thumbnail/https://www.reuters.com/resizer/v2/I4CPHHPC4BKBLKKDSWZSNIJBB4.jpg%3Fauth%3D15481888f8bec2fb59d6d6d70cd9c06a359e7bd411592f176db947506f2b7a0d%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "President Donald Trump's special envoy Steve Witkoff is convening a series of high-stakes diplomatic meetings in Miami this weekend aimed at advancing peace efforts in both Ukraine and Gaza, as the administration pursues simultaneous breakthroughs on two of the world's most intractable conflicts.\n\nOn Friday, Witkoff is meeting separately with two distinct groups. He is hosting senior officials from Qatar, Egypt, and Turkey to discuss advancing the stalled second phase of the Gaza ceasefire[1][2][3]. The White House envoy is also meeting with national security advisers from Ukraine, Germany, France, and the United Kingdom to discuss the U.S.-backed peace plan for Ukraine[4][5][6].\n\nOn Saturday, Witkoff and Jared Kushner, Trump's son-in-law and adviser, are scheduled to meet with Kirill Dmitriev, who heads Russia's sovereign wealth fund and serves as a Kremlin envoy, to present the latest developments from talks with Ukrainian and European officials[1][7][8]. A separate meeting with Ukrainian national security adviser Rustem Umerov is also expected this weekend[9][10].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/2451a442-c8a4-49e8-9537-edd2da7dc589.mp3",
-      "url": "trump-envoys-host-miami-talks-k2_ke6jfRIiTm8.pyB0JaQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-18T00:00:00.000000Z",
       "title": "Nvidia could drastically reduce supply of RTX 5000 gaming GPUs in 2026, cutting production by up to 40%",
       "featured_image": {
@@ -317,5 +317,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 8,
-  "merged_at": "2025-12-21T05:14:22.135112"
+  "merged_at": "2025-12-21T05:27:43.518364"
 }
