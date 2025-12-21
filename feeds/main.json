@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-21T19:36:27.000000Z",
+      "title": "Long-awaited mandatory wine industry code of conduct too late for growers",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba2d24a6b2e1c7a3943a64a6884861bf?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=432&amp;width=862&amp;height=485"
+      },
+      "description": "After 20 years, three senate inquiries and an independent review, the sale of wine grapes will be regulated by a mandatory code of conduct, but growers say it might be too late.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-22/mandatory-code-or-wine-grape-purchases-too-late-for-growers/106159408"
+    },
+    {
+      "published_datetime": "2025-12-21T19:05:04.000000Z",
+      "title": "'Underprepared' England admits it got things wrong in the Ashes",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9325007a40fc56ab8297bca18d641d89?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Losing an Ashes Test series in Australia is nothing new for England, but finally the Bazballers are looking inwards at their own failings after a stirring end to the Adelaide Test.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-22/england-admits-ashes-failings-after-losing-series-bazball/106168162"
+    },
+    {
       "published_datetime": "2025-12-21T18:56:16.000000Z",
       "title": "Doctors turn Ozempic patients away from surgery due to extra risks",
       "featured_image": {
@@ -11,7 +29,7 @@
     },
     {
       "published_datetime": "2025-12-21T18:50:43.000000Z",
-      "title": "Four million guns and counting: Australia's gun debate is heating up",
+      "title": "4 million guns and counting: Australia's gun debate is heating up",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/56b00f4b31fdb3ad88871bc51ed70879?impolicy=wcms_crop_resize&amp;cropH=485&amp;cropW=862&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -109,15 +127,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-21/nsw-bondi-massacre-vigil-commemoration-jewish-community/106168156"
     },
     {
-      "published_datetime": "2025-12-21T05:07:06.000000Z",
-      "title": "Australia defeats words with actions to complete rapid Ashes romp",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6cc21e9fe596a7248f855e9015efc93a?impolicy=wcms_crop_resize&amp;cropH=1511&amp;cropW=2686&amp;xPos=0&amp;yPos=140&amp;width=862&amp;height=485"
-      },
-      "description": "In the pre-series furore, with England crowing and injury concerns mounting, Australia stayed quiet. Its response has been an emphatic and quite brilliant Ashes domination.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-21/australia-defeats-words-with-actions-win-ashes-adelaide/106167652"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/05d0e297-3c62-4a6a-8067-666c9b925726",
       "published_datetime": "2025-12-21T04:42:54.540754",
       "title": "Putin picked Steve Witkoff as Trump\u2019s Ukraine envoy, WSJ says",
@@ -149,15 +158,6 @@
       },
       "description": "As Sydneysiders paid their respects to the Bondi terror victims, one moment captured the contrast between two Labor leaders and their perceived responses to antisemitism.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-21/bondi-attacks-chris-minns-anthony-albanese/106167738"
-    },
-    {
-      "published_datetime": "2025-12-21T01:05:45.000000Z",
-      "title": "PM announces review of intelligence and law enforcement",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5b6300f24af5c3b62f32e9c89ef618ca?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Former top bureaucrat Dennis Richardson is appointed to lead the review, which will report in April of next year.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-21/pm-announces-review-into-intelligence-and-law-enforcement/106167788"
     },
     {
       "published_datetime": "2025-12-21T00:00:00.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-21T19:20:38.312301"
+  "merged_at": "2025-12-21T20:14:03.652803"
 }
