@@ -10,15 +10,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-21/australia-defeats-words-with-actions-win-ashes-adelaide/106167652"
     },
     {
-      "published_datetime": "2025-12-21T05:00:15.000000Z",
-      "title": "At 6:47pm, Australia lights a candle to dispel the darkness",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/853c8869326dd5d5e7c6d61b137ccb4e?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
-      },
-      "description": "In a nationwide memorial, Australians will take a moment this evening to light a candle and quietly remember the 15 people killed at Bondi. Their names, stories and legacies are held close by a shaken, grieving community.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-21/bondi-beach-shooting-victim-commemoration-candle/106167470"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/05d0e297-3c62-4a6a-8067-666c9b925726",
       "published_datetime": "2025-12-21T04:42:54.540754",
       "title": "Putin picked Steve Witkoff as Trump\u2019s Ukraine envoy, WSJ says",
@@ -122,6 +113,15 @@
       },
       "description": "At least 16 Jeffrey Epstein-related files, including a photo of US President Donald Trump, disappear from a US Department of Justice webpage within a day of being posted, with no explanation.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-21/images-removed-from-epstein-files-less-than-a-day-after-posted/106167464"
+    },
+    {
+      "published_datetime": "2025-12-20T21:19:56.000000Z",
+      "title": "Crowds gather at Bondi and around Australia for a minute of silence at 6:47pm",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/853c8869326dd5d5e7c6d61b137ccb4e?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "In a nationwide memorial, Australians will take a moment this evening to light a candle and quietly remember the 15 people killed at Bondi. Their names, stories and legacies are held close by a shaken, grieving community.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-21/bondi-beach-shooting-national-day-of-reflection-live-blog/106166856"
     },
     {
       "published_datetime": "2025-12-20T21:03:04.000000Z",
@@ -317,5 +317,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 8,
-  "merged_at": "2025-12-21T06:38:59.496615"
+  "merged_at": "2025-12-21T07:13:35.860747"
 }
