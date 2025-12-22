@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7ca82e1b-05a3-49a5-b5f2-7c1410c85650",
+      "published_datetime": "2025-12-22T04:50:15.856509",
+      "title": "Google slows Gemini shift as Samsung unveils AI fridge",
+      "featured_image": {
+        "url": "https://news.samsung.com/global/samsung-to-unveil-ai-vision-built-with-google-gemini-at-ces-2026",
+        "name": "Samsung To Unveil AI Vision Built With Google Gemini at CES 2026",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Yvte2St8--/t_limit/https://img.global.news.samsung.com/global/wp-content/uploads/2025/12/19171156/Samsung-Digital-Appliances-CES-2026-Bespoke-AI-Refrigerator-Google-Gemini_Thumb932.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--SC9UMb83--/t_thumbnail/https://img.global.news.samsung.com/global/wp-content/uploads/2025/12/19171156/Samsung-Digital-Appliances-CES-2026-Bespoke-AI-Refrigerator-Google-Gemini_Thumb932.jpg"
+      },
+      "description": "Google has pushed back its plan to replace Google Assistant with Gemini on Android devices, extending the transition into 2026, the company announced Friday. The delay comes just days after Samsung revealed it will showcase the first home appliances powered by Google's Gemini AI at CES 2026 next month[1][2][3].\n\nThe tech giant originally planned to complete the Assistant-to-Gemini migration by the end of 2025, a timeline announced in March. \"We're adjusting our previously announced timeline to make sure we deliver a seamless transition,\" Google stated in a community post, adding that the company will \"continue our work to upgrade Assistant users to Gemini on mobile devices into 2026\"[1][4][3].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/7ca82e1b-05a3-49a5-b5f2-7c1410c85650.mp3",
+      "url": "google-gemini-to-power-android-.SSudq.nQvK_bjc9Dm1zUg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-22T04:34:56.000000Z",
       "title": "Breaking: PM apologises in wake of Bondi attack, announces reforms",
       "featured_image": {
@@ -253,21 +268,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/260b6f4e-539a-4847-a8a9-ab9ec057af9e",
-      "published_datetime": "2025-12-20T23:31:26.358497",
-      "title": "At least 16 Epstein files disappear from DOJ website",
-      "featured_image": {
-        "url": "https://www.npr.org/2025/12/20/nx-s1-5650758/epstein-files-doj-trump-photo",
-        "name": "Available to download Friday, some Epstein files no longer there Saturday afternoon",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--7Eu02xMS--/t_limit/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375%2B0%2B0/resize/1400/quality/100/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F37%252F5c%252F54f58a864e8695b0c2aef5362549%252Fgettyimages-2252049747.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--cTTkSLNu--/t_thumbnail/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375%2B0%2B0/resize/1400/quality/100/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F37%252F5c%252F54f58a864e8695b0c2aef5362549%252Fgettyimages-2252049747.jpg"
-      },
-      "description": "At least 16 files disappeared from the U.S. Department of Justice's public webpage for documents related to Jeffrey Epstein less than 24 hours after being posted Friday, with no explanation from the government and no notice to the public, according to reports from the Associated Press and NPR[1][2][3][4].\n\nThe missing files, which were accessible Friday and no longer available by Saturday afternoon, included a photograph showing President Donald Trump alongside Epstein, Melania Trump, and Epstein's longtime associate Ghislaine Maxwell, as well as images of artwork depicting nude women[2][5][6]. The photo, labeled file 468, showed a desk drawer containing multiple photographs, with Trump's image among them[7][8].\n\nDemocrats on the House Oversight Committee pointed to the missing Trump photograph in a post on X Saturday, writing: \"This photo, file 468, from the Epstein files that includes Donald Trump has apparently now been removed from the DOJ release. @AGPamBondi is this true? What else is being covered up? We need transparency for the American public\"[1][5][8].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/260b6f4e-539a-4847-a8a9-ab9ec057af9e.mp3",
-      "url": "at-least-16-epstein-files-vani-EDZ0QxVbQPCCcXvvK1kwgQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-20T00:00:00.000000Z",
       "title": "Saudi Arabia quietly expands access to its only alcohol store for non-Muslim residents",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T05:18:30.109051"
+  "merged_at": "2025-12-22T05:31:05.886734"
 }
