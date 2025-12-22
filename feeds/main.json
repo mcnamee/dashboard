@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9afbc504-4d10-4ff4-9aa6-014611bd8093",
+      "published_datetime": "2025-12-22T13:22:06.322066",
+      "title": "Nvidia to ship H200 AI chips to China pending Beijing approval",
+      "featured_image": {
+        "url": "https://www.techzine.eu/news/infrastructure/137183/bytedance-and-alibaba-want-nvidia-h200-chips-after-green-light/",
+        "name": "ByteDance and Alibaba want Nvidia H200 chips after green light",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--FSSmqfRr--/t_limit/https://www.techzine.eu/wp-content/uploads/2025/12/nvidia-hgx-h200.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--y3SDGBba--/t_thumbnail/https://www.techzine.eu/wp-content/uploads/2025/12/nvidia-hgx-h200.jpg"
+      },
+      "description": "Nvidia has informed Chinese customers that it intends to begin deliveries of its H200 AI chips before the Lunar New Year in mid-February, pending government approval from Beijing, according to three sources familiar with the matter who spoke to Reuters[1][2][3][4].\n\nThe American chipmaker plans to fulfill initial orders from existing inventory, with expected shipments ranging from 5,000 to 10,000 chip modules\u2014equivalent to approximately 40,000 to 80,000 H200 AI chips, the sources said[1][2][3]. The company has also indicated it aims to expand production capacity for these chips, with new orders anticipated to open in the second quarter of 2026[1][2][3].\n\nHowever, considerable uncertainty remains, as Beijing has not yet authorized any purchases of the H200 chips[1][2][3]. \"The entire plan is reliant on government approval,\" one source told Reuters[1][2]. \"Nothing is guaranteed until we receive the official green light.\"",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/9afbc504-4d10-4ff4-9aa6-014611bd8093.mp3",
+      "url": "nvidia-to-ship-h200-ai-chips-t-H4QsqvgyQf2UcTHv01NQXw",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c8064234-4ced-4b16-9c5f-0fd78a2961fb",
       "published_datetime": "2025-12-22T12:11:40.307468",
       "title": "New simulations and JWST reveal black hole mysteries",
@@ -208,21 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4eb8009b-b028-4663-b3c3-f395c2d36d3b",
-      "published_datetime": "2025-12-21T22:29:04.491488",
-      "title": "Japan to restart world's largest nuclear plant",
-      "featured_image": {
-        "url": "https://www.bloomberg.com/news/articles/2025-11-21/japan-s-biggest-nuclear-plant-to-get-de-facto-restart-approval",
-        "name": "Japan's Biggest Nuclear Plant in Niigata to Get De Facto ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--RMpTh05j--/t_limit/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_GXwgk9dNVM/v1/-1x-1.webp",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--6PSc3abn--/t_thumbnail/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_GXwgk9dNVM/v1/-1x-1.webp"
-      },
-      "description": "The Niigata prefectural assembly is poised to endorse the restart of the Kashiwazaki-Kariwa nuclear power plant as early as this week, clearing the final political hurdle for the world\u2019s largest nuclear facility to return to operation nearly 15 years after the Fukushima disaster.[1][2][3] The move caps a months-long push by Tokyo Electric Power Company Holdings Inc. (TEPCO) and the central government to rebuild Japan\u2019s nuclear fleet amid rising energy demand and high fossil fuel costs.[1][2][4]",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/4eb8009b-b028-4663-b3c3-f395c2d36d3b.mp3",
-      "url": "japan-to-restart-world-s-large-x8Q3nyZZSDqBx.HRPMo17Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-21T19:44:36.000000Z",
       "title": "Jessica was raped by her husband. It took six years to finally secure a conviction",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T13:29:15.572867"
+  "merged_at": "2025-12-22T13:39:40.287716"
 }
