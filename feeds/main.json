@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/87abdbd8-3593-45e1-900b-df74293a77b6",
+      "published_datetime": "2025-12-22T20:15:41.927193",
+      "title": "China, Iran condemn U.S. tanker seizures off Venezuela",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2025/12/20/us-seizes-second-oil-vessel-off-venezuela-coast-officials-say",
+        "name": "US seizes second oil tanker off Venezuela\u2019s coast",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--jU-mQnEJ--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-21T004255Z_1542631356_RC2GKIAIHV2M_RTRMADP_3_USA-VENEZUELA-MILITARY-VESSEL-1766280183_676786-1766280260.jpg%3Fresize%3D1200%252C630%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--KAOnjkFa--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-21T004255Z_1542631356_RC2GKIAIHV2M_RTRMADP_3_USA-VENEZUELA-MILITARY-VESSEL-1766280183_676786-1766280260.jpg%3Fresize%3D1200%252C630%26quality%3D80"
+      },
+      "description": "China condemned U.S. seizures of oil tankers off Venezuela's coast on Monday, calling them a serious violation of international law as Iran pledged broad cooperation with Caracas in response to what both nations characterize as American aggression[1][2][3].\n\nChinese Foreign Ministry spokesman Lin Jian said at a regular press briefing in Beijing that \"the US practice of arbitrarily seizing other countries' vessels grossly violates international law\"[1][2]. China opposes anything that \"infringes upon other countries' sovereignty and security, and all acts of unilateralism or bullying,\" he added[1].\n\nThe condemnation came after U.S. forces seized a second tanker, the Panama-flagged Centuries, in international waters on Saturday carrying approximately 1.8 million barrels of Venezuelan crude destined for China[2]. The vessel was intercepted despite not being listed among U.S.-sanctioned vessels[4]. A third tanker, the Bella 1, was being actively pursued by the Coast Guard as of Sunday[5][6].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/87abdbd8-3593-45e1-900b-df74293a77b6.mp3",
+      "url": "iran-and-china-condemn-us-vene-MkVXRc_2S_u7zSqveVoERA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-22T20:02:46.000000Z",
       "title": "The Epstein files divided Trump's base and now more fights are brewing",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c8064234-4ced-4b16-9c5f-0fd78a2961fb",
-      "published_datetime": "2025-12-22T12:11:40.307468",
-      "title": "New simulations and JWST reveal black hole mysteries",
-      "featured_image": {
-        "url": "https://www.theverge.com/2015/2/16/8044457/interstellar-black-hole-simulations-science",
-        "name": "Interstellar's fake black holes are helping actual ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--xHz5aBu7--/t_limit/https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15263119/cqg508751f14_hr.0.0.1424108520.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D15.470588235294%2C0%2C69.058823529412%2C100",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--FoYjzhW4--/t_thumbnail/https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15263119/cqg508751f14_hr.0.0.1424108520.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D15.470588235294%2C0%2C69.058823529412%2C100"
-      },
-      "description": "Astronomers have unveiled two breakthroughs that deepen understanding of how black holes behave in extreme environments, with findings reported this week revealing both the most accurate simulations of black hole behavior ever created and mounting evidence for an exotic new class of cosmic objects powered by black holes in the early universe.\n\nA study published December 3 in The Astrophysical Journal presents the first simulations to successfully model luminous black hole accretion without simplifying assumptions, using the world's most powerful supercomputers to solve Einstein's equations of general relativity while fully accounting for radiation[1][2][3]. Meanwhile, observations from the James Webb Space Telescope suggest that mysterious \"little red dots\" discovered in the distant universe are actually \"black hole stars\"\u2014supermassive black holes wrapped in dense gas envelopes that glow like giant stars\u2014according to analysis published today in New Scientist[4].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/c8064234-4ced-4b16-9c5f-0fd78a2961fb.mp3",
-      "url": "new-simulations-and-jwst-revea-D6N1.D7VR9yRmUlP3tj4Tg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-22T07:22:24.000000Z",
       "title": "City Beach fined $14m over 'pervasive' button battery safety failures",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T21:11:51.083110"
+  "merged_at": "2025-12-22T21:24:44.121708"
 }
