@@ -16,6 +16,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2025-12-22T03:26:38.000000Z",
+      "title": "History tells us Albanese will call a royal commission into Bondi attack",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/765442d7647084a3c963b146b71394f6?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485"
+      },
+      "description": "The prime minister is undoubtedly facing tough conversations behind closed doors, but until the public gets to witness the scrutiny he will never satisfy his critics.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-22/bondi-terror-attack-anthony-albanese-royal-commission/106156706"
+    },
+    {
       "published_datetime": "2025-12-22T03:05:50.000000Z",
       "title": "Measles cases triple in Australia as global outbreaks continue",
       "featured_image": {
@@ -26,9 +35,9 @@
     },
     {
       "published_datetime": "2025-12-22T02:54:12.000000Z",
-      "title": "Breaking: Bondi gunmen filmed 'firearms training' and threw IEDs into crowd, court told",
+      "title": "Bondi gunmen filmed 'firearms training' and threw IEDs into crowd, court told",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/72924d9b129058e4c5b1aff5833e2399?impolicy=wcms_crop_resize&amp;cropH=484&amp;cropW=861&amp;xPos=0&amp;yPos=228&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f21e5702b290979d0dafec75a8b3e84d?impolicy=wcms_crop_resize&amp;cropH=330&amp;cropW=587&amp;xPos=0&amp;yPos=22&amp;width=862&amp;height=485"
       },
       "description": "The Bondi gunman accused of killing 15 people conducted \"firearms training\" in a regional area with his father and recorded a video about their \"justification\" for the attack, according to documents released by a Sydney court.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-22/nsw-sydney-bondi-terror-attack-naveed-akram-court-police-facts/106170286"
@@ -140,15 +149,6 @@
       },
       "description": "Doctors say they are forced to delay some procedures due to the risk of serious consequences for patients on Ozempic-like drugs.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-22/ozempic-drug-may-cause-surgery-complications/106123802"
-    },
-    {
-      "published_datetime": "2025-12-21T18:47:28.000000Z",
-      "title": "What we know about the Bondi gunmen's month in the Philippines",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/010463f228f21fa21c17f7bf72bad97b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The long shadow of the Bondi shooting has darkened the coastal southern Philippines, causing deep confusion and stoking long-held anxieties over terrorist groups in the region.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-22/bondi-gunmens-mysterious-month-in-the-philippines/106166178"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/53dcf316-834f-4322-8268-8e4f9f0e028b",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T04:07:50.459990"
+  "merged_at": "2025-12-22T04:33:38.444099"
 }
