@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-22T10:44:25.000000Z",
+      "title": "Kyrgios not offered Australian Open wildcard \u2014 yet",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8adf14f7e5ff5f06e17b2d8a0da357ec?impolicy=wcms_crop_resize&amp;cropH=2067&amp;cropW=3674&amp;xPos=0&amp;yPos=85&amp;width=862&amp;height=485"
+      },
+      "description": "After a career-best year, Queenslander Priscilla Hon was among four Australian Open wildcards named on Monday, but Nick Kyrgios was not among them.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-22/tennis-australian-open-wildcards-priscilla-hon-nick-kyrgios/106172294"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c77e1524-c885-4501-82e1-a565be0b241e",
       "published_datetime": "2025-12-22T08:17:51.345535",
       "title": "Swiss court admits climate case against cement giant Holcim",
@@ -139,7 +148,7 @@
       "published_datetime": "2025-12-22T02:54:12.000000Z",
       "title": "Bondi gunmen filmed 'firearms training' and threw IEDs into crowd, court told",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f21e5702b290979d0dafec75a8b3e84d?impolicy=wcms_crop_resize&amp;cropH=330&amp;cropW=587&amp;xPos=0&amp;yPos=22&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f21e5702b290979d0dafec75a8b3e84d?impolicy=wcms_crop_resize&amp;cropH=330&amp;cropW=587&amp;xPos=0&amp;yPos=44&amp;width=862&amp;height=485"
       },
       "description": "The Bondi gunman accused of killing 15 people conducted \"firearms training\" in a regional area with his father and recorded a video about their \"justification\" for the attack, according to documents released by a Sydney court.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-22/nsw-sydney-bondi-terror-attack-naveed-akram-court-police-facts/106170286"
@@ -206,15 +215,6 @@
       },
       "description": "Jessica Seage fought for six years for the man who raped her to be convicted. Experts say her experience is a stark example of how perpetrators abuse the system to inflict more pain on their victims.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-22/domestic-violence-perpetrators-abuse-court-system/106047916"
-    },
-    {
-      "published_datetime": "2025-12-21T19:01:51.000000Z",
-      "title": "Insolvent firm run by ex-AFL star wipes millions in debt via 'legal phoenixing'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a5adba000596e9e0b63a4d0416a09cbf?impolicy=wcms_crop_resize&amp;cropH=308&amp;cropW=548&amp;xPos=0&amp;yPos=33&amp;width=862&amp;height=485"
-      },
-      "description": "A digital marketing agency run by a former AFL star has wiped its millions in debt through an insolvency process, only to open under a new ABN days later. Former staff were left without a job and almost $450,000 in unpaid entitlements, but it's within the bounds of the law and leaves taxpayers footing the bill.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-22/zib-digital-claims-insolvency-wipes-debt-of-millions/105626186"
     },
     {
       "published_datetime": "2025-12-21T18:56:16.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T11:24:54.044084"
+  "merged_at": "2025-12-22T12:27:18.637816"
 }
