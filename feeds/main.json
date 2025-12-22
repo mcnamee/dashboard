@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-22T22:35:40.000000Z",
+      "title": "Plans to burn rare forest abandoned after man camps in tree for six nights",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cbc2a1f8a4976a27e3d007202adad2e5?impolicy=wcms_crop_resize&amp;cropH=420&amp;cropW=746&amp;xPos=91&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "The WA government abandons plans to burn a parcel of forest that is home to a species of rare tree after a 70-year-old man spent six nights living in the canopy.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-23/treetop-protester-wins-red-tingle-trees-fight/106171960"
+    },
+    {
       "published_datetime": "2025-12-22T21:36:44.000000Z",
       "title": "Trump sparks Denmark's anger by appointing US envoy to Greenland",
       "featured_image": {
@@ -217,15 +226,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-22T14:02:22.000000Z",
-      "title": "'Extremely cunning': Taipei metro attacker planned assault for over a year",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f73f399d25774d1674b745d18cb2dde6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
-      },
-      "description": "Police in Taiwan say Chang Wen purchased grenades, gas canisters and respirators in the year leading up to Friday's attack.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-23/taipei-metro-attack-planned-for-a-year-police-say/106172454"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/929a3eef-a94d-4ae9-bf96-784a69592a9e",
       "published_datetime": "2025-12-22T13:33:11.026484",
       "title": "Ukraine's $1,000 drones reshape air defense economics",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T22:27:10.040051"
+  "merged_at": "2025-12-22T23:13:13.406348"
 }
