@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-22T20:02:46.000000Z",
+      "title": "The Epstein files divided Trump's base and now more fights are brewing",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0a782551df7301588f556ffa8d877e29?impolicy=wcms_crop_resize&amp;cropH=1807&amp;cropW=3213&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The release of the Epstein files followed some of Donald Trump's dedicated supporters launching a rare revolt against the US president. Here are six more issues that could also divide Republicans.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-23/issues-dividing-donald-trump-maga-republicans/106156312"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/45edd182-c6ce-4d9f-9458-f474764e0416",
       "published_datetime": "2025-12-22T19:43:09.462156",
       "title": "China deploys over 100 ICBMs in Mongolia border silo fields",
@@ -32,15 +41,6 @@
       },
       "description": "The man best known for his festive hit Driving Home for Christmas died surrounded by his family.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-23/chris-rea-driving-home-for-christmas-singer-dies-aged-74/106172544"
-    },
-    {
-      "published_datetime": "2025-12-22T19:10:08.000000Z",
-      "title": "A chaotic 'up-crash' for markets riding a turbulent 2025",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c81f5f13bbb0935f140c0aa1f14e71b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
-      },
-      "description": "AI. Market records. Tariffs. Penguins. TACO. It's been a big year of economic shocks and surges as the international framework of global trade was shredded. Here's how key players saw the year that was.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-23/trump-tariffs-interest-rates-and-ai-2025-was-a-chaotic-up-crash/106086538"
     },
     {
       "published_datetime": "2025-12-22T19:07:50.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T20:30:33.994072"
+  "merged_at": "2025-12-22T21:11:51.083110"
 }
