@@ -31,6 +31,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2025-12-22T14:02:22.000000Z",
+      "title": "'Extremely cunning': Taipei metro attacker planned assault for over a year",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f73f399d25774d1674b745d18cb2dde6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "Police in Taiwan say Chang Wen purchased grenades, gas canisters and respirators in the year leading up to Friday's attack.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-23/taipei-metro-attack-planned-for-a-year-police-say/106172454"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/929a3eef-a94d-4ae9-bf96-784a69592a9e",
       "published_datetime": "2025-12-22T13:33:11.026484",
       "title": "Ukraine's $1,000 drones reshape air defense economics",
@@ -89,15 +98,6 @@
       "audio_url": "https://discover-audio.perplexity.ai/contexts/0c6f8f9a-7391-4564-931f-c8ed63998620.mp3",
       "url": "perovskite-solar-cells-achieve-bp2alptzTKugMgxMSqjWEw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-22T10:44:25.000000Z",
-      "title": "Kyrgios not offered Australian Open wildcard \u2014 yet",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8adf14f7e5ff5f06e17b2d8a0da357ec?impolicy=wcms_crop_resize&amp;cropH=2067&amp;cropW=3674&amp;xPos=0&amp;yPos=85&amp;width=862&amp;height=485"
-      },
-      "description": "After a career-best year, Queenslander Priscilla Hon was among four Australian Open wildcards named on Monday, but Nick Kyrgios was not among them.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-22/tennis-australian-open-wildcards-priscilla-hon-nick-kyrgios/106172294"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c77e1524-c885-4501-82e1-a565be0b241e",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T14:28:05.673691"
+  "merged_at": "2025-12-22T15:14:28.957717"
 }
