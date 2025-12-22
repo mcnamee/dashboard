@@ -145,15 +145,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-22/nsw-sydney-bondi-terror-attack-naveed-akram-court-police-facts/106170286"
     },
     {
-      "published_datetime": "2025-12-22T02:35:40.000000Z",
-      "title": "Farewell for 'humble, beautiful' massacre victim as floral tributes removed",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6a698e64297b5ad26606d03d481e345?impolicy=wcms_crop_resize&amp;cropH=315&amp;cropW=560&amp;xPos=40&amp;yPos=172&amp;width=862&amp;height=485"
-      },
-      "description": "French engineer Dan Elkayam has been remembered as an adventurous young man who loved travelling, meeting new people, playing soccer and celebrating his Jewish faith at his funeral.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-22/nsw-bondi-beach-terror-attack-funeral-dan-elkayam-tributes/106170038"
-    },
-    {
       "published_datetime": "2025-12-22T00:34:54.000000Z",
       "title": "US attorney-general faces contempt push over Epstein files",
       "featured_image": {
@@ -208,13 +199,22 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-21T20:07:40.000000Z",
-      "title": "Thousands mark one week since Bondi \u2014 Sunday's memorial in pictures",
+      "published_datetime": "2025-12-21T19:44:36.000000Z",
+      "title": "Jessica was raped by her husband. It took six years to finally secure a conviction",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7643d3bc33ac34cf06baa4f5848b9009?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7316f192f0a5abb1996888e891204786?impolicy=wcms_crop_resize&amp;cropH=3078&amp;cropW=5472&amp;xPos=0&amp;yPos=285&amp;width=862&amp;height=485"
       },
-      "description": "Emotional scenes and a heavy police presence are visible at Bondi Beach as the Jewish community and other locals mark one week since the Hanukkah shooting.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-22/bondi-memorial-in-pictures/106168886"
+      "description": "Jessica Seage fought for six years for the man who raped her to be convicted. Experts say her experience is a stark example of how perpetrators abuse the system to inflict more pain on their victims.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-22/domestic-violence-perpetrators-abuse-court-system/106047916"
+    },
+    {
+      "published_datetime": "2025-12-21T19:01:51.000000Z",
+      "title": "Insolvent firm run by ex-AFL star wipes millions in debt via 'legal phoenixing'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a5adba000596e9e0b63a4d0416a09cbf?impolicy=wcms_crop_resize&amp;cropH=308&amp;cropW=548&amp;xPos=0&amp;yPos=33&amp;width=862&amp;height=485"
+      },
+      "description": "A digital marketing agency run by a former AFL star has wiped its millions in debt through an insolvency process, only to open under a new ABN days later. Former staff were left without a job and almost $450,000 in unpaid entitlements, but it's within the bounds of the law and leaves taxpayers footing the bill.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-22/zib-digital-claims-insolvency-wipes-debt-of-millions/105626186"
     },
     {
       "published_datetime": "2025-12-21T18:56:16.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T08:38:52.083242"
+  "merged_at": "2025-12-22T09:20:42.986174"
 }
