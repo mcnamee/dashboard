@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6058c5fa-289a-460a-afa0-18d3154ee968",
+      "published_datetime": "2025-12-22T04:06:41.260346",
+      "title": "Ex-Tesla executive Anderson emerges as top GM CEO candidate",
+      "featured_image": {
+        "url": "https://www.bloomberg.com/news/articles/2025-12-18/gm-s-barra-gauges-anderson-for-ceo-job-by-giving-him-tough-test",
+        "name": "GM's Mary Barra Gauges Sterling Anderson for CEO Job by ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--WQHFjYA1--/t_limit/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/il6IJjwR9e7k/v0/1200x772.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--4Ytifmfw--/t_thumbnail/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/il6IJjwR9e7k/v0/1200x772.jpg"
+      },
+      "description": "Sterling Anderson, General Motors' chief product officer, is emerging as the frontrunner to eventually succeed CEO Mary Barra when the 63-year-old retires, according to a Bloomberg report[1]. The development marks a significant moment in the succession planning for one of America's largest automakers.\n\nAnderson joined GM in June after working at Tesla and co-founding autonomous trucking company Aurora Innovation[2][3]. The understanding when he was hired was that successfully advancing Barra's push to bring cutting-edge software and self-driving technology to GM vehicles could position him as a potential successor[1][3], people familiar with the matter told Bloomberg.",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/6058c5fa-289a-460a-afa0-18d3154ee968.mp3",
+      "url": "gm-eyes-ex-tesla-executive-and-ajtR52NSQHu.51qXBbuGfQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-22T03:05:50.000000Z",
       "title": "Measles cases triple in Australia as global outbreaks continue",
       "featured_image": {
@@ -253,21 +268,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/abd5a904-cfe5-4f4f-9f5c-c9cbe853630b",
-      "published_datetime": "2025-12-20T22:22:54.538776",
-      "title": "Ancient interstellar comet emits first-ever radio signal",
-      "featured_image": {
-        "url": "https://www.nationalgeographic.com/science/article/how-to-see-comet-3i-atlas",
-        "name": "You can still see comet 3I/ATLAS in the night sky. Here\u2019s how.",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--QPak4LDe--/t_limit/https://i.natgeofe.com/n/fe61da61-8283-4de4-9329-d3c8859eafb8/_3I_ATLAS_C14hyperstar_asi2600mcP_71x120sec_2025_12_14_045039local_JuneLake_California_USA_DEBartlett_for_NGiographic_16x9.jpg%3Fw%3D1200",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--5wFo78WC--/t_thumbnail/https://i.natgeofe.com/n/fe61da61-8283-4de4-9329-d3c8859eafb8/_3I_ATLAS_C14hyperstar_asi2600mcP_71x120sec_2025_12_14_045039local_JuneLake_California_USA_DEBartlett_for_NGiographic_16x9.jpg%3Fw%3D1200"
-      },
-      "description": "An ancient traveler from beyond our solar system completed its closest approach to Earth early Friday morning, as scientists confirmed the first-ever radio signal detection from an interstellar object.\n\nComet 3I/ATLAS passed within 168 million miles of our planet at approximately 1 a.m. EST on December 19[1][2][3], offering astronomers a rare glimpse of material that may have originated in the thick disk of the Milky Way billions of years before our sun formed[1]. The comet, discovered in July by the Asteroid Terrestrial-impact Last Alert System in Chile[1][4], is only the third confirmed interstellar visitor ever detected, following 'Oumuamua in 2017 and Borisov in 2019[5][6].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/abd5a904-cfe5-4f4f-9f5c-c9cbe853630b.mp3",
-      "url": "comet-3iatlas-passes-earth-emi-f9CDN9A7S5Sb7PrhD8iqlA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-20T00:00:00.000000Z",
       "title": "Saudi Arabia quietly expands access to its only alcohol store for non-Muslim residents",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T03:26:00.797701"
+  "merged_at": "2025-12-22T04:07:50.459990"
 }
