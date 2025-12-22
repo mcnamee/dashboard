@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-22T07:49:01.000000Z",
+      "title": "Japan prepares to restart world's biggest nuclear plant, 15 years after Fukushima",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a56979d86efce88c321f42e58a72eb5?impolicy=wcms_crop_resize&amp;cropH=2232&amp;cropW=3968&amp;xPos=0&amp;yPos=202&amp;width=862&amp;height=485"
+      },
+      "description": "Japan has taken the final step to allow the world's largest nuclear power plant to resume operations with a regional vote in Niigata prefecture.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-22/japan-votes-to-restart-worlds-largest-nuclear-reactor-in-niigata/106171978"
+    },
+    {
+      "published_datetime": "2025-12-22T07:22:24.000000Z",
+      "title": "City Beach fined $14m over 'pervasive' button battery safety failures",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bef611fc3cb66bfd9a2f77723aac6c52?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
+      },
+      "description": "The Federal Court orders the fashion retailer to pay $14 million in fines after it was taken to court by the Australian Competition and Consumer Commission.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-22/city-beach-fined-over-button-battery-safety-breaches/106171832"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5245d8a1-c019-4fe5-9f55-f501c83ab460",
       "published_datetime": "2025-12-22T05:34:59.267156",
       "title": "Gold, silver hit records as Fed rate cut bets build",
@@ -83,9 +101,9 @@
     },
     {
       "published_datetime": "2025-12-22T02:35:40.000000Z",
-      "title": "'Humble and beautiful' Bondi massacre victim farewelled as floral tributes removed",
+      "title": "Farewell for 'humble, beautiful' massacre victim as floral tributes removed",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6a698e64297b5ad26606d03d481e345?impolicy=wcms_crop_resize&amp;cropH=360&amp;cropW=640&amp;xPos=0&amp;yPos=140&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6a698e64297b5ad26606d03d481e345?impolicy=wcms_crop_resize&amp;cropH=315&amp;cropW=560&amp;xPos=40&amp;yPos=172&amp;width=862&amp;height=485"
       },
       "description": "French engineer Dan Elkayam has been remembered as an adventurous young man who loved travelling, meeting new people, playing soccer and celebrating his Jewish faith at his funeral.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-22/nsw-bondi-beach-terror-attack-funeral-dan-elkayam-tributes/106170038"
@@ -98,15 +116,6 @@
       },
       "description": "Two congressmen say they will recommend United States Attorney-General Pam Bondi be held in contempt of Congress for not releasing all of the Epstein files by the legal deadline.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-22/pam-bondi-faces-contempt-push-after-epstein-files-release/106169584"
-    },
-    {
-      "published_datetime": "2025-12-22T00:11:39.000000Z",
-      "title": "Government announces domestic gas reservation scheme in bid to lower costs",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f9398e43016a14a268d6f1acd3391183?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
-      },
-      "description": "Chris Bowen makes a long-anticipated announcement about reserving a portion of gas on the east coast for domestic use after a cabinet meeting.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-22/government-confirms-gas-reservation-plans/106170082"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/976b58f0-6ede-4e02-8f20-92478a53efe0",
@@ -161,15 +170,6 @@
       },
       "description": "Emotional scenes and a heavy police presence are visible at Bondi Beach as the Jewish community and other locals mark one week since the Hanukkah shooting.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-22/bondi-memorial-in-pictures/106168886"
-    },
-    {
-      "published_datetime": "2025-12-21T19:01:51.000000Z",
-      "title": "Insolvent firm run by ex-AFL star wipes millions in debt via 'legal phoenixing'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a5adba000596e9e0b63a4d0416a09cbf?impolicy=wcms_crop_resize&amp;cropH=308&amp;cropW=548&amp;xPos=0&amp;yPos=33&amp;width=862&amp;height=485"
-      },
-      "description": "A digital marketing agency run by a former AFL star has wiped its millions in debt through an insolvency process, only to open under a new ABN days later. Former staff were left without a job and almost $450,000 in unpaid entitlements, but it's within the bounds of the law and leaves taxpayers footing the bill.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-22/zib-digital-claims-insolvency-wipes-debt-of-millions/105626186"
     },
     {
       "published_datetime": "2025-12-21T18:56:16.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T07:30:02.492372"
+  "merged_at": "2025-12-22T08:20:40.484977"
 }
