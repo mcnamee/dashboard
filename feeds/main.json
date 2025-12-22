@@ -28,6 +28,21 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-22/difference-between-federal-and-state-royal-commissions/106169708"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/976b58f0-6ede-4e02-8f20-92478a53efe0",
+      "published_datetime": "2025-12-21T23:29:05.462863",
+      "title": "ASEAN convenes emergency talks on deadly Thailand-Cambodia clashes",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2025/10/27/whats-in-the-thai-cambodia-peace-agreement-and-can-it-hold",
+        "name": "What's in the Thai-Cambodia peace agreement and can it hold?",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--geNiKk1h--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/10/2025-10-26T073859Z_1114568740_RC2IJHAUK2UZ_RTRMADP_3_ASEAN-SUMMIT-1761555703.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--iZo25EBb--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/10/2025-10-26T073859Z_1114568740_RC2IJHAUK2UZ_RTRMADP_3_ASEAN-SUMMIT-1761555703.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "Southeast Asian foreign ministers gather in Kuala Lumpur on Monday for emergency talks aimed at halting deadly border clashes between Thailand and Cambodia that have killed at least 41 people and displaced more than 900,000 civilians since early December[1][2][1].\n\nMalaysian Prime Minister Anwar Ibrahim conducted telephone diplomacy with both Thai Prime Minister Anutin Charnvirakul and Cambodian Prime Minister Hun Manet on Sunday, urging the neighboring nations to \"uphold the spirit of dialogue, wisdom and mutual respect\" ahead of the special Association of Southeast Asian Nations meeting[1][3][4]. The talks, to be chaired by Malaysian Foreign Minister Mohamad Hasan, represent the first face-to-face diplomatic engagement between the governments since fighting reignited on December 7[5][5].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/976b58f0-6ede-4e02-8f20-92478a53efe0.mp3",
+      "url": "asean-foreign-ministers-to-con-CA5l7mTOT.SpoADXbmXveQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4eb8009b-b028-4663-b3c3-f395c2d36d3b",
       "published_datetime": "2025-12-21T22:29:04.491488",
       "title": "Japan to restart world's largest nuclear plant",
@@ -253,21 +268,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a70c87d1-a74d-41a1-b944-90c88079e122",
-      "published_datetime": "2025-12-20T19:28:06.510771",
-      "title": "Scientists measure electrical flow in matter hotter than sun",
-      "featured_image": {
-        "url": "https://www6.slac.stanford.edu/news/2025-12-18-slac-researchers-measure-how-materials-hotter-suns-surface-conduct-electricity",
-        "name": "SLAC researchers measure how materials hotter than the sun's ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--StUzf-AG--/t_limit/https://www6.slac.stanford.edu/sites/default/files/2025-12/Aluminum-1600px.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--cau1mPX5--/t_thumbnail/https://www6.slac.stanford.edu/sites/default/files/2025-12/Aluminum-1600px.jpg"
-      },
-      "description": "Researchers at the Department of Energy's SLAC National Accelerator Laboratory have developed a contactless technique to directly measure electrical conductivity in warm dense matter, an exotic state found deep inside stars and planets, according to a study published in Nature Communications[1][2][3].\n\nThe breakthrough, announced by SLAC on December 17, comes after nine years of work and could help scientists better understand planetary magnetic fields and improve nuclear fusion experiments[4][5][6].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/a70c87d1-a74d-41a1-b944-90c88079e122.mp3",
-      "url": "scientists-develop-contactless-uB0JQWr6R6aGJcMXfo3qyQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-20T00:00:00.000000Z",
       "title": "Saudi Arabia quietly expands access to its only alcohol store for non-Muslim residents",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T01:04:31.874515"
+  "merged_at": "2025-12-22T02:19:07.528936"
 }
