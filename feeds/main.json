@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5245d8a1-c019-4fe5-9f55-f501c83ab460",
+      "published_datetime": "2025-12-22T05:34:59.267156",
+      "title": "Gold, silver hit records as Fed rate cut bets build",
+      "featured_image": {
+        "url": "https://www.reuters.com/markets/commodities/gold-prices-steady-ahead-fed-policy-meeting-2024-12-17/",
+        "name": "Gold retreats as traders see slower Fed rate cuts in 2025 ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--73w5H-f2--/t_limit/https://www.reuters.com/resizer/v2/LQSEKTW5TRJ4NFPXA2LNUJ5YCA.jpg%3Fauth%3D7e389f4cd41be3446460641d6a3f34169a72ef48f27c10d17fd72270517fe42e%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--wrk0uj45--/t_thumbnail/https://www.reuters.com/resizer/v2/LQSEKTW5TRJ4NFPXA2LNUJ5YCA.jpg%3Fauth%3D7e389f4cd41be3446460641d6a3f34169a72ef48f27c10d17fd72270517fe42e%26width%3D1920%26quality%3D80"
+      },
+      "description": "Gold and silver powered to fresh all\u2011time highs on Monday, capping a blistering year\u2011end rally as investors doubled down on bets that the U.S. Federal Reserve will cut interest rates again after last week\u2019s quarter\u2011point reduction. Spot gold climbed to around $$4,384$$ dollars an ounce, while silver vaulted toward the high\u201160s per ounce, both extending steep year\u2011to\u2011date gains driven by safe\u2011haven demand, a softer dollar and persistent geopolitical tensions.[1][2][3]",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/5245d8a1-c019-4fe5-9f55-f501c83ab460.mp3",
+      "url": "gold-and-silver-reach-record-h-d_PlwF4BQEODctMeBHNHOQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7ca82e1b-05a3-49a5-b5f2-7c1410c85650",
       "published_datetime": "2025-12-22T04:50:15.856509",
       "title": "Google slows Gemini shift as Samsung unveils AI fridge",
@@ -253,21 +268,6 @@
       "page_content_url": "https://abcnews.go.com/International"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2f32b26b-1b34-4dbd-8343-d7fcade2366d",
-      "published_datetime": "2025-12-20T23:51:59.694010",
-      "title": "Satellites document year of space breakthroughs and global events",
-      "featured_image": {
-        "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnsons-2025-milestones/",
-        "name": "NASA Johnson's 2025 Milestones",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IMfs-mGK--/t_limit/https://www.nasa.gov/wp-content/uploads/2025/12/jsc2025e069098.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--5Gvg-nSn--/t_thumbnail/https://www.nasa.gov/wp-content/uploads/2025/12/jsc2025e069098.jpg"
-      },
-      "description": "From 250 miles above Earth, satellites documented a year marked by both cosmic breakthroughs and terrestrial upheaval, while spacecraft ventured closer to the Sun than ever before and international crews maintained humanity's quarter-century presence in orbit.\n\nHigh-definition cameras aboard satellites captured 2025's most significant global events with unprecedented clarity, from the Los Angeles wildfires that scorched over 50,000 acres in January to Pope Francis' funeral procession through Vatican City in April[1][2][3]. The European Space Agency's Copernicus Sentinel-2 mission recorded smoke billowing from the Palisades Fire near Santa Monica on January 7, while Landsat satellites revealed burn scars across the greater Los Angeles area through spectral imaging that distinguishes healthy vegetation from charred landscapes[4][5].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/2f32b26b-1b34-4dbd-8343-d7fcade2366d.mp3",
-      "url": "2025-space-achievements-and-di-TJkil4BJQ9uUFOguUnpa3g",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-20T00:00:00.000000Z",
       "title": "Saudi Arabia quietly expands access to its only alcohol store for non-Muslim residents",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T06:22:23.369310"
+  "merged_at": "2025-12-22T06:44:26.351767"
 }
