@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-22T04:34:56.000000Z",
+      "title": "Breaking: PM apologises in wake of Bondi attack, announces reforms",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dccbde3ab4444d4c56e42300459964cd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Prime Minister Anthony Albanese says he is \"sorry\" for what Jewish Australians have experienced, while announcing a package of legislative changes.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-22/government-proposes-offence-radicalising-children-bondi/106171326"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6058c5fa-289a-460a-afa0-18d3154ee968",
       "published_datetime": "2025-12-22T04:06:41.260346",
       "title": "Ex-Tesla executive Anderson emerges as top GM CEO candidate",
@@ -76,15 +85,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-21T23:27:27.000000Z",
-      "title": "Minns denies gun and protest laws overhaul a 'knee-jerk reaction' to Bondi",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fa7facd7aac7b51e3cd71e91c45f84c0?impolicy=wcms_crop_resize&amp;cropH=1673&amp;cropW=2975&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "NSW parliament looks likely to pass what would be the strictest gun laws in Australia.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-22/nsw-parliament-recalled-gun-reform-protests-debate/106169248"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4eb8009b-b028-4663-b3c3-f395c2d36d3b",
       "published_datetime": "2025-12-21T22:29:04.491488",
       "title": "Japan to restart world's largest nuclear plant",
@@ -116,9 +116,9 @@
     },
     {
       "published_datetime": "2025-12-21T20:07:40.000000Z",
-      "title": "Sydney's grieving Jewish community joined by thousands to mark one week since Bondi massacre",
+      "title": "Thousands mark one week since Bondi \u2014 Sunday's memorial in pictures",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e87f37dd06ffced1f1b33536d7595db?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7643d3bc33ac34cf06baa4f5848b9009?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Emotional scenes and a heavy police presence are visible at Bondi Beach as the Jewish community and other locals mark one week since the Hanukkah shooting.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-22/bondi-memorial-in-pictures/106168886"
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T04:33:38.444099"
+  "merged_at": "2025-12-22T05:18:30.109051"
 }
