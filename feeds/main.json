@@ -17,7 +17,7 @@
     },
     {
       "published_datetime": "2025-12-22T04:34:56.000000Z",
-      "title": "Breaking: PM apologises in wake of Bondi attack, announces reforms",
+      "title": "PM apologises in wake of Bondi attack, announces reforms",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dccbde3ab4444d4c56e42300459964cd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -85,6 +85,15 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-22/pam-bondi-faces-contempt-push-after-epstein-files-release/106169584"
     },
     {
+      "published_datetime": "2025-12-22T00:11:39.000000Z",
+      "title": "Government announces domestic gas reservation scheme in bid to lower costs",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f9398e43016a14a268d6f1acd3391183?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
+      },
+      "description": "Chris Bowen makes a long-anticipated announcement about reserving a portion of gas on the east coast for domestic use after a cabinet meeting.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-22/government-confirms-gas-reservation-plans/106170082"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/976b58f0-6ede-4e02-8f20-92478a53efe0",
       "published_datetime": "2025-12-21T23:29:05.462863",
       "title": "ASEAN convenes emergency talks on deadly Thailand-Cambodia clashes",
@@ -137,15 +146,6 @@
       },
       "description": "Emotional scenes and a heavy police presence are visible at Bondi Beach as the Jewish community and other locals mark one week since the Hanukkah shooting.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-22/bondi-memorial-in-pictures/106168886"
-    },
-    {
-      "published_datetime": "2025-12-21T19:44:36.000000Z",
-      "title": "Jessica was raped by her husband. It took six years to finally secure a conviction",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7316f192f0a5abb1996888e891204786?impolicy=wcms_crop_resize&amp;cropH=3078&amp;cropW=5472&amp;xPos=0&amp;yPos=285&amp;width=862&amp;height=485"
-      },
-      "description": "Jessica Seage fought for six years for the man who raped her to be convicted. Experts say her experience is a stark example of how perpetrators abuse the system to inflict more pain on their victims.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-22/domestic-violence-perpetrators-abuse-court-system/106047916"
     },
     {
       "published_datetime": "2025-12-21T19:01:51.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T05:31:05.886734"
+  "merged_at": "2025-12-22T06:22:23.369310"
 }
