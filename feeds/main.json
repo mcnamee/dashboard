@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-22T21:36:44.000000Z",
+      "title": "Trump sparks Denmark's anger by appointing US envoy to Greenland",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d643679268b75c7d37673ab8ff94b930?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=466&amp;width=862&amp;height=485"
+      },
+      "description": "US President Donald Trump appoints a special envoy to Greenland, drawing renewed criticism from Denmark and the territory's leader over Washington's interest in the mineral-rich Arctic island.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-23/donald-trump-appoints-us-envoy-to-greenland/106172806"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/87abdbd8-3593-45e1-900b-df74293a77b6",
       "published_datetime": "2025-12-22T20:15:41.927193",
       "title": "China, Iran condemn U.S. tanker seizures off Venezuela",
@@ -17,7 +26,7 @@
     },
     {
       "published_datetime": "2025-12-22T20:02:46.000000Z",
-      "title": "The Epstein files divided Trump's base and now more fights are brewing",
+      "title": "It's not just the Epstein files \u2014 these other issues are splitting Trump's base",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0a782551df7301588f556ffa8d877e29?impolicy=wcms_crop_resize&amp;cropH=1807&amp;cropW=3213&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -232,15 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-22T07:22:24.000000Z",
-      "title": "City Beach fined $14m over 'pervasive' button battery safety failures",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bef611fc3cb66bfd9a2f77723aac6c52?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
-      },
-      "description": "The Federal Court orders the fashion retailer to pay $14 million in fines after it was taken to court by the Australian Competition and Consumer Commission.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-22/city-beach-fined-over-button-battery-safety-breaches/106171832"
-    },
-    {
       "published_datetime": "2025-12-21T01:29:00.000000Z",
       "title": "Russia says talks on US peace plan for Ukraine 'are proceeding constructively'",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T21:24:44.121708"
+  "merged_at": "2025-12-22T22:13:28.562508"
 }
