@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-23/donald-trump-appoints-us-envoy-to-greenland/106172806"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1849d750-5188-4a85-9f13-73935981c175",
+      "published_datetime": "2025-12-22T21:11:53.186116",
+      "title": "Synthetic metabolism converts CO2 into chemical building blocks",
+      "featured_image": {
+        "url": "https://interestingengineering.com/innovation/artificial-metabolism-turns-co2-into-valuable-chemicals",
+        "name": "Artificial metabolism converts CO2 into useful industrial ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--LwaXpMMS--/t_limit/https://cms.interestingengineering.com/wp-content/uploads/2025/12/GettyImages-2188866305-1.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--TC-M6f7A--/t_thumbnail/https://cms.interestingengineering.com/wp-content/uploads/2025/12/GettyImages-2188866305-1.jpg"
+      },
+      "description": "Northwestern University and Stanford University researchers have engineered a fully synthetic metabolic system that transforms carbon dioxide-derived molecules into valuable chemical building blocks, marking a step forward in carbon recycling technology. The system, published today in Nature Chemical Engineering, operates entirely outside living cells using enzymes designed to perform reactions never before seen in nature[1][2][3].\n\nThe breakthrough addresses a persistent challenge in carbon capture: converting simple one-carbon molecules into complex chemicals that can serve as raw materials for fuels, plastics and pharmaceuticals. While electrochemical processes can already reduce CO2 into formate\u2014a simple liquid compound\u2014biological systems have struggled to efficiently upgrade formate into more useful products[4][3].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/1849d750-5188-4a85-9f13-73935981c175.mp3",
+      "url": "artificial-metabolism-converts-TjFOm3..RVyyWDuqPHSILA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/87abdbd8-3593-45e1-900b-df74293a77b6",
       "published_datetime": "2025-12-22T20:15:41.927193",
       "title": "China, Iran condemn U.S. tanker seizures off Venezuela",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9afbc504-4d10-4ff4-9aa6-014611bd8093",
-      "published_datetime": "2025-12-22T13:22:06.322066",
-      "title": "Nvidia to ship H200 AI chips to China pending Beijing approval",
-      "featured_image": {
-        "url": "https://www.techzine.eu/news/infrastructure/137183/bytedance-and-alibaba-want-nvidia-h200-chips-after-green-light/",
-        "name": "ByteDance and Alibaba want Nvidia H200 chips after green light",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--FSSmqfRr--/t_limit/https://www.techzine.eu/wp-content/uploads/2025/12/nvidia-hgx-h200.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--y3SDGBba--/t_thumbnail/https://www.techzine.eu/wp-content/uploads/2025/12/nvidia-hgx-h200.jpg"
-      },
-      "description": "Nvidia has informed Chinese customers that it intends to begin deliveries of its H200 AI chips before the Lunar New Year in mid-February, pending government approval from Beijing, according to three sources familiar with the matter who spoke to Reuters[1][2][3][4].\n\nThe American chipmaker plans to fulfill initial orders from existing inventory, with expected shipments ranging from 5,000 to 10,000 chip modules\u2014equivalent to approximately 40,000 to 80,000 H200 AI chips, the sources said[1][2][3]. The company has also indicated it aims to expand production capacity for these chips, with new orders anticipated to open in the second quarter of 2026[1][2][3].\n\nHowever, considerable uncertainty remains, as Beijing has not yet authorized any purchases of the H200 chips[1][2][3]. \"The entire plan is reliant on government approval,\" one source told Reuters[1][2]. \"Nothing is guaranteed until we receive the official green light.\"",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/9afbc504-4d10-4ff4-9aa6-014611bd8093.mp3",
-      "url": "nvidia-to-ship-h200-ai-chips-t-H4QsqvgyQf2UcTHv01NQXw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-21T01:29:00.000000Z",
       "title": "Russia says talks on US peace plan for Ukraine 'are proceeding constructively'",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-22T22:13:28.562508"
+  "merged_at": "2025-12-22T22:27:10.040051"
 }
