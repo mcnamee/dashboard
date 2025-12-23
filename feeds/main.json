@@ -28,6 +28,24 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-23/nsw-police-constable-jack-hibbert-out-of-hospital-after-bondi/106165734"
     },
     {
+      "published_datetime": "2025-12-23T04:54:28.000000Z",
+      "title": "Severe Christmas heatwave grips WA as cyclone intensifies offshore",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1053d84a4d0b9bd6213f1fb92fc23955?impolicy=wcms_crop_resize&amp;cropH=578&amp;cropW=1027&amp;xPos=2&amp;yPos=227&amp;width=862&amp;height=485"
+      },
+      "description": "Perth, and much of WA, is enduring a severe Christmas heatwave with extreme fire danger, while Tropical Cyclone Grant intensifies offshore.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-23/perth-wa-severe-christmas-heatwave-tropical-cyclone-grant/106174278"
+    },
+    {
+      "published_datetime": "2025-12-23T04:27:33.000000Z",
+      "title": "What the weather will bring in your capital city on Christmas Day",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/10785e38c783e3f102664b6a26fbb0ba?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "It is just a few sleeps until Christmas Day, and the weather is promising a mixed bag for Australia's capital cities. Here is what to expect.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-23/christmas-day-weather-forecast-2025/106173430"
+    },
+    {
       "published_datetime": "2025-12-23T03:49:12.000000Z",
       "title": "Council to shut down prayer hall linked to notorious preacher",
       "featured_image": {
@@ -53,15 +71,6 @@
       },
       "description": "Three prominent protest groups flag they will launch a constitutional challenge to NSW Premier Chris Minns's new laws restricting protests in the state.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-23/nsw-proposed-protest-laws-challenge-parliament/106172910"
-    },
-    {
-      "published_datetime": "2025-12-22T23:59:18.000000Z",
-      "title": "'This is annexation': Israel expands control over West Bank despite Trump's opposition",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9de5ec272348d23553a30abaf8e75bee?impolicy=wcms_crop_resize&amp;cropH=2265&amp;cropW=4026&amp;xPos=0&amp;yPos=174&amp;width=862&amp;height=485"
-      },
-      "description": "Despite US President Donald Trump's objections to the annexation of the West Bank, new settlement projects are still being approved. Some Israelis are excited, while Palestinians are left fearful.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-23/push-inside-israel-to-annex-west-bank-approve-settlements/106171756"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1849d750-5188-4a85-9f13-73935981c175",
@@ -116,15 +125,6 @@
       "audio_url": "https://discover-audio.perplexity.ai/contexts/45edd182-c6ce-4d9f-9458-f474764e0416.mp3",
       "url": "china-loads-over-100-nuclear-i-I4g1oByPSSWWiqjvSaOyBA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-22T18:58:55.000000Z",
-      "title": "How investigators pieced together the plot to target Bondi",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5cf16ed139f5198348a73ce912062d90?impolicy=wcms_crop_resize&amp;cropH=303&amp;cropW=539&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Security camera footage captured the Bondi Beach gunmen carrying what appears to be firearms out of a south-west Sydney property on the morning of the terror attack, court documents reveal.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-23/nsw-sydney-bondi-beach-gunmen-captured-on-cctv-court-documents/106171074"
     },
     {
       "published_datetime": "2025-12-22T18:52:18.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-23T06:43:04.003855"
+  "merged_at": "2025-12-23T07:18:13.434730"
 }
