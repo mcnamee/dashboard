@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-23T22:51:51.000000Z",
+      "title": "British man's visa cancelled after being charged with displaying Nazi symbols",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ac529ab8d73758174cccc0dc8dbf4551?impolicy=wcms_crop_resize&amp;cropH=1904&amp;cropW=3384&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The Australian government has promised changes to make it easier to deport people who spread hateful views.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-24/british-national-visa-cancelled-for-displaying-nazi-symbol/106176308"
+    },
+    {
       "published_datetime": "2025-12-23T21:51:31.000000Z",
       "title": "ABC radio host Sabra Lane farewells AM after nine years",
       "featured_image": {
@@ -232,15 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-23/ma-services-security-cleaning-company-enters-administration/106175160"
     },
     {
-      "published_datetime": "2025-12-23T03:49:12.000000Z",
-      "title": "Council to shut down prayer hall linked to notorious preacher",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/25f6b632c01a7c39e21f1f5f57c72c91?impolicy=wcms_crop_resize&amp;cropH=2374&amp;cropW=4220&amp;xPos=0&amp;yPos=121&amp;width=862&amp;height=485"
-      },
-      "description": "The City of Canterbury Bankstown Council says the site had been approved for use as a medical centre. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-23/nsw-sydney-council-shuts-down-prayer-hall/106174508"
-    },
-    {
       "published_datetime": "2025-12-21T01:29:00.000000Z",
       "title": "Russia says talks on US peace plan for Ukraine 'are proceeding constructively'",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-23T22:26:27.846481"
+  "merged_at": "2025-12-23T23:12:31.867716"
 }
