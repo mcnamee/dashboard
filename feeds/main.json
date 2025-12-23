@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ca9cfb8e-0698-4763-b2a1-ab9e0b9fc568",
+      "published_datetime": "2025-12-23T14:15:38.337859",
+      "title": "AI reveals superconductivity secrets in cesium vanadium antimonide",
+      "featured_image": {
+        "url": "https://global.fujitsu/en-global/pr/news/2025/12/23-01",
+        "name": "Tohoku University and Fujitsu utilize Causal AI to discover ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--WuS4lPJf--/t_limit/https://global.fujitsu/-/media/Project/Fujitsu/Fujitsu-HQ/pr/news/common/ogp/news-ogp-NanoTerasu.png%3Frev%3D352cbde374694a299e9cebcd2ab2cabe",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--GxWhjj8S--/t_thumbnail/https://global.fujitsu/-/media/Project/Fujitsu/Fujitsu-HQ/pr/news/common/ogp/news-ogp-NanoTerasu.png%3Frev%3D352cbde374694a299e9cebcd2ab2cabe"
+      },
+      "description": "Tohoku University and Fujitsu announced today they have successfully used artificial intelligence to reveal new insights into the superconductivity mechanism of cesium vanadium antimonide, a promising material for high-temperature superconducting applications. The research, published December 22 in Scientific Reports, demonstrates how AI can accelerate the discovery of new functional materials by automatically analyzing massive datasets from advanced measurement techniques[1][2][3][4][5].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/ca9cfb8e-0698-4763-b2a1-ab9e0b9fc568.mp3",
+      "url": "tohoku-university-and-fujitsu-205KGlhtTTuQ_pGWt.Vr5g",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-23T12:03:44.000000Z",
       "title": "Pill version of injectable weight-loss drug Wegovy approved by US regulator",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/42a981f9-5769-4a85-a2d0-5ccd635da34f",
-      "published_datetime": "2025-12-22T15:04:40.967525",
-      "title": "Russian general killed in Moscow car bombing",
-      "featured_image": {
-        "url": "https://abcnews.go.com/International/car-bomb-kills-senior-russian-general-moscow-officials/story?id=121153201",
-        "name": "Car bomb kills senior Russian general in Moscow: Officials ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s---FJJGyqL--/t_limit/https://i.abcnewsfe.com/a/18bc37bf-00fd-45aa-8f4a-d623002f1b57/russia-car-bomb-01-ap-jt-250425_1745598026797_hpMain.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--EwY5yVG1--/t_thumbnail/https://i.abcnewsfe.com/a/18bc37bf-00fd-45aa-8f4a-d623002f1b57/russia-car-bomb-01-ap-jt-250425_1745598026797_hpMain.jpg"
-      },
-      "description": "A senior Russian general has been killed after an explosive device detonated under his car in southern Moscow on Monday morning, in what investigators say may have been an assassination carried out by Ukrainian special services.[1][2][3][4] Lieutenant General Fanil Sarvarov, 56, head of the Russian General Staff\u2019s army operational training directorate, died after his Kia Sorento exploded around 7 a.m. in the capital\u2019s Yasenevo district, Russia\u2019s Investigative Committee said.[5][1][2][3][4]",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/42a981f9-5769-4a85-a2d0-5ccd635da34f.mp3",
-      "url": "russian-general-killed-in-mosc-5Gl7FeakSmmYSp.lqsLBWg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-21T01:29:00.000000Z",
       "title": "Russia says talks on US peace plan for Ukraine 'are proceeding constructively'",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-23T15:19:16.669963"
+  "merged_at": "2025-12-23T15:29:28.863333"
 }
