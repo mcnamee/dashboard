@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-23T03:49:12.000000Z",
+      "title": "Council to shut down prayer hall linked to notorious preacher",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85c304537a9892ae1bb9be0fd212b8a2?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
+      },
+      "description": "The City of Canterbury Bankstown Council says the site had been approved for use as a medical centre. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-23/nsw-sydney-council-shuts-down-prayer-hall/106174508"
+    },
+    {
       "published_datetime": "2025-12-23T02:36:11.000000Z",
       "title": "PM recommends changes to travel rules for parliamentarians' family",
       "featured_image": {
@@ -46,15 +55,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-23/treetop-protester-wins-red-tingle-trees-fight/106171960"
     },
     {
-      "published_datetime": "2025-12-22T21:36:44.000000Z",
-      "title": "Trump sparks Denmark's anger by appointing US envoy to Greenland",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d643679268b75c7d37673ab8ff94b930?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=466&amp;width=862&amp;height=485"
-      },
-      "description": "US President Donald Trump appoints a special envoy to Greenland, drawing renewed criticism from Denmark and the territory's leader over Washington's interest in the mineral-rich Arctic island.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-23/donald-trump-appoints-us-envoy-to-greenland/106172806"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1849d750-5188-4a85-9f13-73935981c175",
       "published_datetime": "2025-12-22T21:11:53.186116",
       "title": "Synthetic metabolism converts CO2 into chemical building blocks",
@@ -68,6 +68,15 @@
       "audio_url": "https://discover-audio.perplexity.ai/contexts/1849d750-5188-4a85-9f13-73935981c175.mp3",
       "url": "artificial-metabolism-converts-TjFOm3..RVyyWDuqPHSILA",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2025-12-22T20:19:08.000000Z",
+      "title": "Live: CBA backflips on decision not to refund overcharged customers",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4811a9d9a9e2bbab2d6f40087b477d07?impolicy=wcms_crop_resize&amp;cropH=1407&amp;cropW=2500&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "CBA backflips on decision not to refund low-income customers who were charged excessive fees. Meanwhile, the RBA is assessing the need for higher interest rates while gold pushes to record high. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-23/asx-markets-business-news-live-updates-dec-23/106172788"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/87abdbd8-3593-45e1-900b-df74293a77b6",
@@ -107,15 +116,6 @@
       "audio_url": "https://discover-audio.perplexity.ai/contexts/45edd182-c6ce-4d9f-9458-f474764e0416.mp3",
       "url": "china-loads-over-100-nuclear-i-I4g1oByPSSWWiqjvSaOyBA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-22T19:07:50.000000Z",
-      "title": "World's largest warship looms near Venezuela as US warns of land attacks",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/830406d29cf110575316bfe8e5cdefdb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The Pentagon moved the USS Gerald R Ford, the world's largest aircraft carrier, to the Caribbean last month. Now, President Donald Trump is repeating threats of imminent strikes against Venezuelan territory.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-23/uss-gerald-r-ford-near-venezuela-trump-warns-of-land-strikes/106114524"
     },
     {
       "published_datetime": "2025-12-22T18:58:55.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-23T04:02:29.084057"
+  "merged_at": "2025-12-23T04:31:27.590812"
 }
