@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-24/nsw-parliament-passes-gun-reforms-after-bondi-beach-attack/106176054"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5214fb57-5717-468c-9252-0374638f9866",
+      "published_datetime": "2025-12-23T17:26:29.537285",
+      "title": "Ukraine withdraws from Siversk after 41 months of fighting",
+      "featured_image": {
+        "url": "https://www.yahoo.com/news/articles/know-russia-offensive-siversk-172544536.html",
+        "name": "What we know about Russia's offensive in Siversk",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--awDAapE0--/t_limit/https://s.yimg.com/ny/api/res/1.2/r5uUzrkCSS_G6o4WS3tWtg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE7Y2Y9d2VicA--/https://media.zenfs.com/en/kyiv_independent_articles_496/22d4368a4642e3dba6e866dd93ea5814",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--l9N2sA5c--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/r5uUzrkCSS_G6o4WS3tWtg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE7Y2Y9d2VicA--/https://media.zenfs.com/en/kyiv_independent_articles_496/22d4368a4642e3dba6e866dd93ea5814"
+      },
+      "description": "Ukrainian forces withdrew from the eastern city of Siversk in Donetsk Oblast on December 23, ending 41 months of resistance against Russian forces that have steadily advanced despite heavy casualties[1][2][3][4].\n\nThe General Staff of the Armed Forces of Ukraine announced the withdrawal in a statement Tuesday, saying the decision was made \"to preserve the lives of our soldiers and the combat capability of units\" amid Russian numerical superiority and constant pressure from small assault groups operating in difficult weather conditions[1][2][5][6][7][8]. The military emphasized that \"every meter of the city came at a high cost\" for Russian forces and that Ukrainian defenders \"wore down the enemy\" during the prolonged battle[1][5][6].\n\nDespite the withdrawal, Ukrainian officials maintain the city remains under their fire control. \"The occupiers present in the city are being engaged, their logistics are being cut off. Enemy units are being blocked to prevent further advancement,\" the General Staff stated[7][4]. Ukraine's Defense Forces continue conducting combat missions in the Sloviansk direction while working to reduce Russian offensive potential[5][6].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/5214fb57-5717-468c-9252-0374638f9866.mp3",
+      "url": "ukraine-withdraws-from-siversk-uMkRxPk2SRmOQIZYGhs0Ug",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/80080e34-2133-4a39-aefc-5d6b1a56b007",
       "published_datetime": "2025-12-23T16:11:02.290710",
       "title": "New simulations model black hole physics without approximations",
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/87abdbd8-3593-45e1-900b-df74293a77b6",
-      "published_datetime": "2025-12-22T20:15:41.927193",
-      "title": "China, Iran condemn U.S. tanker seizures off Venezuela",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2025/12/20/us-seizes-second-oil-vessel-off-venezuela-coast-officials-say",
-        "name": "US seizes second oil tanker off Venezuela\u2019s coast",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--jU-mQnEJ--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-21T004255Z_1542631356_RC2GKIAIHV2M_RTRMADP_3_USA-VENEZUELA-MILITARY-VESSEL-1766280183_676786-1766280260.jpg%3Fresize%3D1200%252C630%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--KAOnjkFa--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-21T004255Z_1542631356_RC2GKIAIHV2M_RTRMADP_3_USA-VENEZUELA-MILITARY-VESSEL-1766280183_676786-1766280260.jpg%3Fresize%3D1200%252C630%26quality%3D80"
-      },
-      "description": "China condemned U.S. seizures of oil tankers off Venezuela's coast on Monday, calling them a serious violation of international law as Iran pledged broad cooperation with Caracas in response to what both nations characterize as American aggression[1][2][3].\n\nChinese Foreign Ministry spokesman Lin Jian said at a regular press briefing in Beijing that \"the US practice of arbitrarily seizing other countries' vessels grossly violates international law\"[1][2]. China opposes anything that \"infringes upon other countries' sovereignty and security, and all acts of unilateralism or bullying,\" he added[1].\n\nThe condemnation came after U.S. forces seized a second tanker, the Panama-flagged Centuries, in international waters on Saturday carrying approximately 1.8 million barrels of Venezuelan crude destined for China[2]. The vessel was intercepted despite not being listed among U.S.-sanctioned vessels[4]. A third tanker, the Bella 1, was being actively pursued by the Coast Guard as of Sunday[5][6].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/87abdbd8-3593-45e1-900b-df74293a77b6.mp3",
-      "url": "iran-and-china-condemn-us-vene-MkVXRc_2S_u7zSqveVoERA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-22T18:52:18.000000Z",
       "title": "Fast cars and big debts: The unravelling of Steve Cubis",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-23T18:19:59.503754"
+  "merged_at": "2025-12-23T18:40:10.834806"
 }
