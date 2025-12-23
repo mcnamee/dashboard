@@ -19,6 +19,21 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-24/latest-epstein-files-dump-reveals-emails-from-a-at-balmoral/106176014"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/11f2b5e3-af5a-4a11-9f22-da8c7702c91c",
+      "published_datetime": "2025-12-23T19:33:27.738278",
+      "title": "US deploys 15,000 troops, carrier near Venezuela",
+      "featured_image": {
+        "url": "https://www.reuters.com/business/aerospace-defense/us-aircraft-carrier-moves-into-latin-america-region-officials-say-2025-11-11/",
+        "name": "US aircraft carrier moves into Latin America region, escalating Venezuela tensions",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--4OYcSxX3--/t_limit/https://www.reuters.com/resizer/v2/MDO2FJYTYFNZREM6ZKB3HK6K6I.jpg%3Fauth%3D5fcb9b0382e69df3b9a77b62010c825256dbd1f912d57a2b2b544dcb181ab444%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Hhc185pS--/t_thumbnail/https://www.reuters.com/resizer/v2/MDO2FJYTYFNZREM6ZKB3HK6K6I.jpg%3Fauth%3D5fcb9b0382e69df3b9a77b62010c825256dbd1f912d57a2b2b544dcb181ab444%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "The United States has positioned one of its largest military buildups in the Caribbean in decades, deploying advanced fighter jets, warships, and thousands of troops as President Donald Trump escalates a confrontation with Venezuelan President Nicol\u00e1s Maduro through naval blockades and oil tanker seizures.\n\nAs of December 23, approximately 12,000 to 15,000 US military personnel are operating in the region under Operation Southern Spear[1][2][3], with forces positioned to conduct potential strikes into Venezuelan territory. The deployment includes the USS Gerald R. Ford[1][4]\u2014the world's largest aircraft carrier\u2014along with a strike group of destroyers equipped with Tomahawk land-attack missiles[1][4][2].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/11f2b5e3-af5a-4a11-9f22-da8c7702c91c.mp3",
+      "url": "us-deploys-major-military-forc-ZhQ98h7bSZ2TEIHygD1NEw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-23T19:15:16.000000Z",
       "title": "Australians tipped to spend record $1.6b on Boxing Day sales",
       "featured_image": {
@@ -26,6 +41,21 @@
       },
       "description": "Boxing Day spending is expected to hit a record high, supported by revived household spending after three interest rate cuts.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-24/boxing-day-sales-australia-2025/106171474"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3ae873f1-b01d-4aa8-9f60-0999f39eb8c3",
+      "published_datetime": "2025-12-23T19:12:30.464482",
+      "title": "Webb telescope detects exocomet debris in planet-forming zone",
+      "featured_image": {
+        "url": "https://journalsofindia.com/space/james-webb-space-telescope-reveals-stunning-icy-debris-disk-shaping-young-planetary-system-51506/",
+        "name": "James Webb Space Telescope reveals stunning icy debris disk ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--3PcOSyAQ--/t_limit/https://journalsofindia.com/wp-content/uploads/2025/11/james-webb-space-telescope-reveals-stunning-icy-debris-disk-shaping-young-planetary-system.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--vZ5o_QxW--/t_thumbnail/https://journalsofindia.com/wp-content/uploads/2025/11/james-webb-space-telescope-reveals-stunning-icy-debris-disk-shaping-young-planetary-system.jpg"
+      },
+      "description": "The James Webb Space Telescope has detected UV-fluorescent carbon monoxide in the debris disk of a young star for the first time, providing evidence that crashing exocomets continuously replenish gas in planetary systems and may influence the composition of forming planets.\n\nAstronomers discovered the warm CO gas within the terrestrial planet zone of HD 131488, a 15 million-year-old star located approximately 500 light-years away in the Centaurus constellation, according to research published on arXiv in December 2025[1][2]. The observations, made in February 2023 using JWST's NIRSpec instrument, revealed gas spread between 0.5 and 10 astronomical units from the star\u2014the region where Earth-like planets typically form[3][2].\n\n\"The discovery of warm, fluorescent gas in a debris disk is the first such detection ever made,\" wrote lead author Cicero Lu of the Gemini Observatory and colleagues in the paper[1][2]. The team found the gas exhibited a vibrational temperature of 8,800 Kelvin while its rotational temperature reached only 450 Kelvin near the star, indicating the molecules were out of thermal equilibrium and excited by ultraviolet radiation[3][2].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/3ae873f1-b01d-4aa8-9f60-0999f39eb8c3.mp3",
+      "url": "webb-telescope-finds-exocomet-BMi_egINSmaoMDs4.f6akQ",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-23T18:24:22.000000Z",
@@ -184,21 +214,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a9f9914b-c3be-41d5-9524-4e682ff368c7",
-      "published_datetime": "2025-12-23T06:58:05.019889",
-      "title": "Universe may be lopsided, study finds",
-      "featured_image": {
-        "url": "https://theconversation.com/the-universe-may-be-lopsided-new-research-265256",
-        "name": "The universe may be lopsided \u2013 new research - The Conversation",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--2ba5s5gt--/t_limit/https://images.theconversation.com/files/708361/original/file-20251212-56-wlvexi.jpg%3Fixlib%3Drb-4.1.0%26rect%3D0%252C364%252C2104%252C1052%26q%3D45%26auto%3Dformat%26w%3D1356%26h%3D668%26fit%3Dcrop",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--gc2-0FlL--/t_thumbnail/https://images.theconversation.com/files/708361/original/file-20251212-56-wlvexi.jpg%3Fixlib%3Drb-4.1.0%26rect%3D0%252C364%252C2104%252C1052%26q%3D45%26auto%3Dformat%26w%3D1356%26h%3D668%26fit%3Dcrop"
-      },
-      "description": "A new study published in Physical Review D challenges a fundamental assumption of cosmology, suggesting the universe may be asymmetric rather than uniform in all directions[1][2][3][4][5]. The findings, released in December 2025, pose what researchers call a \"serious challenge\" to the standard model that has guided our understanding of the cosmos for nearly a century[1][3][4].\n\nSubir Sarkar, Emeritus Professor at the University of Oxford, and colleagues examined what they term the \"cosmic dipole anomaly\"\u2014a discrepancy between variations in the cosmic microwave background radiation and the distribution of distant matter[1][2][3][6][4]. According to The Conversation, the universe fails what's known as the Ellis-Baldwin test, showing that variations in matter don't align with those in the relic radiation from the Big Bang[3][7].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/a9f9914b-c3be-41d5-9524-4e682ff368c7.mp3",
-      "url": "new-study-finds-universe-may-b-N8yJ194YQ_eLrYP8fnoRPw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-23T05:56:10.000000Z",
       "title": "Up to 1,700 jobs axed as major security firm collapses",
       "featured_image": {
@@ -224,21 +239,6 @@
       },
       "description": "The City of Canterbury Bankstown Council says the site had been approved for use as a medical centre. \u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-23/nsw-sydney-council-shuts-down-prayer-hall/106174508"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1849d750-5188-4a85-9f13-73935981c175",
-      "published_datetime": "2025-12-22T21:11:53.186116",
-      "title": "Synthetic metabolism converts CO2 into chemical building blocks",
-      "featured_image": {
-        "url": "https://interestingengineering.com/innovation/artificial-metabolism-turns-co2-into-valuable-chemicals",
-        "name": "Artificial metabolism converts CO2 into useful industrial ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--LwaXpMMS--/t_limit/https://cms.interestingengineering.com/wp-content/uploads/2025/12/GettyImages-2188866305-1.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--TC-M6f7A--/t_thumbnail/https://cms.interestingengineering.com/wp-content/uploads/2025/12/GettyImages-2188866305-1.jpg"
-      },
-      "description": "Northwestern University and Stanford University researchers have engineered a fully synthetic metabolic system that transforms carbon dioxide-derived molecules into valuable chemical building blocks, marking a step forward in carbon recycling technology. The system, published today in Nature Chemical Engineering, operates entirely outside living cells using enzymes designed to perform reactions never before seen in nature[1][2][3].\n\nThe breakthrough addresses a persistent challenge in carbon capture: converting simple one-carbon molecules into complex chemicals that can serve as raw materials for fuels, plastics and pharmaceuticals. While electrochemical processes can already reduce CO2 into formate\u2014a simple liquid compound\u2014biological systems have struggled to efficiently upgrade formate into more useful products[4][3].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/1849d750-5188-4a85-9f13-73935981c175.mp3",
-      "url": "artificial-metabolism-converts-TjFOm3..RVyyWDuqPHSILA",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-21T01:29:00.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-23T20:14:23.959798"
+  "merged_at": "2025-12-23T20:30:00.968991"
 }
