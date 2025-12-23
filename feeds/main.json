@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-23T08:45:09.000000Z",
+      "title": "Breaking: Former Higgins MP Katie Allen dies aged 59",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f22c560cfa90cea247d60caa86506fd2?impolicy=wcms_crop_resize&amp;cropH=1361&amp;cropW=2420&amp;xPos=0&amp;yPos=196&amp;width=862&amp;height=485"
+      },
+      "description": "Former Liberal MP Katie Allen has died aged 59, after developing a rare form of cancer, her family has announced.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-23/former-higgins-mp-katie-allen-died-of-cancer/106175744"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2951c465-068d-462e-9728-2e7c5aab5fd4",
       "published_datetime": "2025-12-23T07:18:34.668222",
       "title": "Gold hits 50th record high of 2025 as Venezuela tensions escalate",
@@ -31,15 +40,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-23T06:04:24.000000Z",
-      "title": "CommBank customers to receive $68m in refunds for incorrect bank fees",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1fc363712cec5a11a89b50a66d973cc0?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
-      },
-      "description": "The Commonwealth Bank of Australia will refund low-income earners receiving Centrelink payments approximately $68 million in unfair fees \u2014 just over a quarter of what was charged.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-23/commbank-reverses-bank-fee-refusal/106174050"
-    },
-    {
       "published_datetime": "2025-12-23T05:56:10.000000Z",
       "title": "Up to 1,700 jobs axed as major security firm collapses",
       "featured_image": {
@@ -56,15 +56,6 @@
       },
       "description": "A young police officer who was rendered blind in one eye after being shot during the Bondi terror attack is released from hospital.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-23/nsw-police-constable-jack-hibbert-out-of-hospital-after-bondi/106165734"
-    },
-    {
-      "published_datetime": "2025-12-23T04:54:28.000000Z",
-      "title": "Severe Christmas heatwave grips WA as cyclone intensifies offshore",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1053d84a4d0b9bd6213f1fb92fc23955?impolicy=wcms_crop_resize&amp;cropH=578&amp;cropW=1027&amp;xPos=2&amp;yPos=227&amp;width=862&amp;height=485"
-      },
-      "description": "Perth, and much of WA, is enduring a severe Christmas heatwave with extreme fire danger, while Tropical Cyclone Grant intensifies offshore.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-23/perth-wa-severe-christmas-heatwave-tropical-cyclone-grant/106174278"
     },
     {
       "published_datetime": "2025-12-23T04:27:33.000000Z",
@@ -101,6 +92,15 @@
       },
       "description": "Three prominent protest groups flag they will launch a constitutional challenge to NSW Premier Chris Minns's new laws restricting protests in the state.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-23/nsw-proposed-protest-laws-challenge-parliament/106172910"
+    },
+    {
+      "published_datetime": "2025-12-22T23:59:18.000000Z",
+      "title": "'This is annexation': Israel expands control over West Bank despite Trump's opposition",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9de5ec272348d23553a30abaf8e75bee?impolicy=wcms_crop_resize&amp;cropH=2265&amp;cropW=4026&amp;xPos=0&amp;yPos=174&amp;width=862&amp;height=485"
+      },
+      "description": "Despite US President Donald Trump's objections to the annexation of the West Bank, new settlement projects are still being approved. Some Israelis are excited, while Palestinians are left fearful.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-23/push-inside-israel-to-annex-west-bank-approve-settlements/106171756"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1849d750-5188-4a85-9f13-73935981c175",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-23T08:37:59.944314"
+  "merged_at": "2025-12-23T09:17:55.705251"
 }
