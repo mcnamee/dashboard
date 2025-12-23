@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/492faad1-51d3-4415-b520-13aab1fde470",
+      "published_datetime": "2025-12-23T20:50:28.302669",
+      "title": "Japan's H3 rocket fails to deliver satellite to orbit",
+      "featured_image": {
+        "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20251223-300182",
+        "name": "H3 Launch Failure Leaves Japan Without Core Rockets, Deals Blow to Global Competitiveness in Space Development",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ncH1J7S5--/t_limit/https://japannews.yomiuri.co.jp/wp-content/uploads/2025/12/H3-rocket.2jpg.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--jVa6K-GR--/t_thumbnail/https://japannews.yomiuri.co.jp/wp-content/uploads/2025/12/H3-rocket.2jpg.jpg"
+      },
+      "description": "Two rocket failures within hours of each other dealt significant blows to Asian space ambitions this week, as Japan's flagship H3 rocket failed to deliver a navigation satellite into orbit and South Korean startup Innospace's commercial vehicle crashed shortly after liftoff in Brazil.\n\nJapan's H3 rocket launched at 10:51 a.m. local time Monday from the Tanegashima Space Center carrying the Michibiki 5 navigation satellite, but the second-stage engine shut down prematurely during its second ignition, according to the Japan Aerospace Exploration Agency[1][2][3][4]. The rocket's first stage performed normally, but telemetry data showed hydrogen tank pressure in the second stage began dropping during the first stage burn, JAXA executive Masashi Okada told reporters[1][2]. Whether the satellite separated from the rocket or where it ended up remains unknown[1][2].\n\nHours later, South Korean company Innospace's Hanbit-Nano rocket lifted off from Brazil's Alcantara Space Center at 10:13 p.m. local time but crashed approximately 30 seconds after liftoff[3][5][6][7]. The vehicle initially followed its planned vertical trajectory before an anomaly caused it to fall to the ground within a pre-designated safety zone, with no reported casualties[5][7][8]. The rocket was carrying eight payloads, including five satellites for undisclosed customers from Brazil and India[3][5][9].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/492faad1-51d3-4415-b520-13aab1fde470.mp3",
+      "url": "innospace-and-japan-face-setba-SAhjXpW_Sru0f0iz2x2bqw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e953d954-0fed-4fcf-8837-d0bb4244823f",
+      "published_datetime": "2025-12-23T20:42:03.311149",
+      "title": "US blockade forces Venezuela to store crude oil on anchored tankers",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/americas/trump-administration-seizes-oil-tanker-off-venezuela-coast-us-officials-say-2025-12-10/",
+        "name": "US seizes sanctioned oil tanker off coast of Venezuela, Trump says",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--lu1VXfpO--/t_limit/https://www.reuters.com/resizer/v2/ZSQILL4XGNMBDLJ5UIBCRBEVOM.jpg%3Fauth%3Dbdc55a6f273150fbe06ed22344be6d9f67cd9e6eb2b5aabc8ae2f4717bcfb31d%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--gKkVa7PL--/t_thumbnail/https://www.reuters.com/resizer/v2/ZSQILL4XGNMBDLJ5UIBCRBEVOM.jpg%3Fauth%3Dbdc55a6f273150fbe06ed22344be6d9f67cd9e6eb2b5aabc8ae2f4717bcfb31d%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Venezuela's state oil company PDVSA has begun storing crude oil and fuel on tankers anchored in its waters as onshore storage tanks reach capacity, following U.S. Coast Guard seizures of vessels carrying Venezuelan oil and President Donald Trump's blockade declaration earlier this month.\n\nPDVSA started transferring oil inventories to tankers over the weekend, according to company documents and shipping data reviewed by Reuters[1][2][3]. The move comes after the U.S. intercepted the Skipper and Centuries tankers in the Caribbean Sea, both fully loaded with Venezuelan crude, and pursued a third empty vessel approaching Venezuela's coast[1][3][4].\n\nMore than a dozen oil cargoes remain stuck in Venezuelan waters as ship owners hesitate to depart following Trump's announcement of a \"total and complete blockade\" of all sanctioned vessels[3][4][5]. The emerging backlog is rapidly filling PDVSA's onshore tanks at the Jose terminal, which receives extra heavy oil from the Orinoco Belt, Venezuela's main production region[1][3][4].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/e953d954-0fed-4fcf-8837-d0bb4244823f.mp3",
+      "url": "us-blockade-forces-venezuela-t-iyxDqkrFQh27CtEpYjeODA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-23T20:40:07.000000Z",
       "title": "Live: ASX to fall as Wall Street, gold and silver jump to record highs",
       "featured_image": {
@@ -175,21 +205,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b1e4ea11-10d9-4701-8b6c-ac7c9d2b7b37",
-      "published_datetime": "2025-12-23T11:27:52.330554",
-      "title": "Ukraine uses $1,000 drones to counter Russian attacks",
-      "featured_image": {
-        "url": "https://ukrainesarmsmonitor.substack.com/p/sting-interceptor-drone-by-wild-hornets",
-        "name": "STING Interceptor Drone by Wild Hornets - Ukraine's Arms Monitor",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--kX9B8hzZ--/t_limit/https://substackcdn.com/image/fetch/%24s_%21i66c%21%2Cw_1200%2Ch_600%2Cc_fill%2Cf_jpg%2Cq_auto:good%2Cfl_progressive:steep%2Cg_auto/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Ff618650a-13ac-44ff-af50-7472f0dbaa4d_1280x676.jpeg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--rfDhS_UV--/t_thumbnail/https://substackcdn.com/image/fetch/%24s_%21i66c%21%2Cw_1200%2Ch_600%2Cc_fill%2Cf_jpg%2Cq_auto:good%2Cfl_progressive:steep%2Cg_auto/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Ff618650a-13ac-44ff-af50-7472f0dbaa4d_1280x676.jpeg"
-      },
-      "description": "Ukrainian forces are turning to affordable, domestically-produced drones to reshape their defense strategy, using interceptor drones costing as little as $1,000 to shoot down Russian aerial weapons and ground robots to ferry supplies across deadly frontline zones.\n\nThe shift marks a dramatic transformation in modern warfare, with Ukraine deploying systems that went from prototype to mass production in just months during 2025. The urgency became clear early Monday when Russia launched one of its largest combined strikes of the war\u2014635 drones and 38 missiles targeting Ukrainian cities and power infrastructure. Ukrainian air defenses neutralized 587 drones and 34 missiles, according to the country's Air Force[1][2][3].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/b1e4ea11-10d9-4701-8b6c-ac7c9d2b7b37.mp3",
-      "url": "ukraine-deploys-low-cost-drone-XdYtrQKgQvWQHwvoTO8usQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-23T09:00:18.000000Z",
       "title": "'Christmas will feel different this year': PM strikes sombre seasonal tone",
       "featured_image": {
@@ -206,21 +221,6 @@
       },
       "description": "Former federal Liberal MP Katie Allen has died aged 59, after developing a rare form of cancer, her family has announced.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-23/former-higgins-mp-katie-allen-died-of-cancer/106175744"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2951c465-068d-462e-9728-2e7c5aab5fd4",
-      "published_datetime": "2025-12-23T07:18:34.668222",
-      "title": "Gold hits 50th record high of 2025 as Venezuela tensions escalate",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2025/07/16/central-banks-are-buying-gold-from-local-mines-amid-record-prices.html",
-        "name": "Central banks are increasingly buying gold from local mines as prices surge",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--dNcNOHbM--/t_limit/https://image.cnbcfm.com/api/v1/image/108153616-1748920570963-gettyimages-2207845067-20090101250404-99-437441.jpeg%3Fv%3D1748920605%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--SnNSfDOQ--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108153616-1748920570963-gettyimages-2207845067-20090101250404-99-437441.jpeg%3Fv%3D1748920605%26w%3D1920%26h%3D1080"
-      },
-      "description": "Gold surged above $4,480 per ounce on Monday, marking the 50th time this year the precious metal has reached an all-time high, as escalating tensions between the United States and Venezuela and expectations of further interest rate cuts drove investors toward safe-haven assets[1][2][3].\n\nThe rally extended gains from Friday's session, when gold jumped 2.4% in its strongest single-day advance in more than a month[1][2]. Spot gold traded at $4,480.25 per ounce on Monday, up 0.8% from the previous day, according to trading data[3]. Silver also climbed to a record, reaching as high as $69.71 per ounce[4][5][6].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/2951c465-068d-462e-9728-2e7c5aab5fd4.mp3",
-      "url": "gold-hits-50th-record-high-in-jT2JBS0ZRCiAT9IKI.VZAg",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-23T04:27:33.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-23T21:12:48.244608"
+  "merged_at": "2025-12-23T21:25:27.478833"
 }
