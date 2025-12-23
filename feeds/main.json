@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-23T17:40:20.000000Z",
+      "title": "Breaking: Gun reforms pass NSW parliament after Bondi Beach terror attack",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/de1928a49f78d2c2cc4851f9833df56e?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The marathon debate to pass the new laws stretched into the early hours of Christmas Eve.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-24/nsw-parliament-passes-gun-reforms-after-bondi-beach-attack/106176054"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/80080e34-2133-4a39-aefc-5d6b1a56b007",
       "published_datetime": "2025-12-23T16:11:02.290710",
       "title": "New simulations model black hole physics without approximations",
@@ -184,15 +193,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-23/anthony-albanese-recommends-changes-parliamentary-travel-rules/106174182"
     },
     {
-      "published_datetime": "2025-12-23T02:24:38.000000Z",
-      "title": "Activist groups flag challenge to proposed NSW protest restrictions",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7215256cc7ebe39576de66449d96e1a5?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=365&amp;width=862&amp;height=485"
-      },
-      "description": "Three prominent protest groups flag they will launch a constitutional challenge to NSW Premier Chris Minns's new laws restricting protests in the state.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-23/nsw-proposed-protest-laws-challenge-parliament/106172910"
-    },
-    {
       "published_datetime": "2025-12-22T23:59:18.000000Z",
       "title": "'This is annexation': Israel expands control over West Bank despite Trump's opposition",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-23T17:26:47.546034"
+  "merged_at": "2025-12-23T18:19:59.503754"
 }
