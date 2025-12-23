@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/80080e34-2133-4a39-aefc-5d6b1a56b007",
+      "published_datetime": "2025-12-23T16:11:02.290710",
+      "title": "New simulations model black hole physics without approximations",
+      "featured_image": {
+        "url": "https://watchers.news/epicenter/jwst-reveals-the-first-confirmed-runaway-supermassive-black-hole/",
+        "name": "JWST reveals the first confirmed runaway supermassive black ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IWKrutNN--/t_limit/https://watchers.news/wp-content/uploads/2025/12/An-artists-conception-of-a-supermassive-black-hole-surrounded-by-an-accretion-disk-and-emitting-a-relativistic-jet.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--v9q5JCZZ--/t_thumbnail/https://watchers.news/wp-content/uploads/2025/12/An-artists-conception-of-a-supermassive-black-hole-surrounded-by-an-accretion-disk-and-emitting-a-relativistic-jet.webp"
+      },
+      "description": "Computational astrophysicists have achieved a major milestone in black hole research, creating the most realistic simulations of how matter falls into black holes while emitting intense radiation, according to a study published this week in The Astrophysical Journal. The work coincides with recent observations from the James Webb Space Telescope showing evidence of \"monster stars\" that may explain how supermassive black holes formed in the early universe.\n\nThe simulation breakthrough, led by Lizhong Zhang from the Institute for Advanced Study and the Flatiron Institute's Center for Computational Astrophysics, represents the first time scientists have modeled black hole accretion in full general relativity without using simplifying approximations[1][2][3][4]. Using two of the world's most powerful supercomputers \u2014 Frontier at Oak Ridge National Laboratory and Aurora at Argonne National Laboratory \u2014 the team tracked how matter spirals into stellar mass black holes, forming turbulent disks, launching powerful winds, and sometimes producing jets[2][3].\n\n\"This is the first time we've been able to see what happens when the most important physical processes in black hole accretion are included accurately,\" Zhang said[1][2][3]. The simulated light spectra closely matched observations from real systems, from ultraluminous X-ray sources to X-ray binaries, providing confidence in the model's accuracy[2][3].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/80080e34-2133-4a39-aefc-5d6b1a56b007.mp3",
+      "url": "new-simulations-and-jwst-revea-Tf110FlRTxmutcrYtSrc_w",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d16d0a76-b969-4272-b42f-847778ce1263",
+      "published_datetime": "2025-12-23T15:42:01.430898",
+      "title": "Scientists find world's deepest gas seep at 3,640m",
+      "featured_image": {
+        "url": "https://uit.no/nyheter/artikkel?p_document_id=917158",
+        "name": "Deepest gas hydrate cold seep ever discovered in the Arctic - UiT.no",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--w18rg5wn--/t_limit/https://uit.no/Content/917155/cache%3D20252112221448/transformation%3DkompJpgHighTommy/Image5_%2520gas%2520%25203x2.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--_H5nysR6--/t_thumbnail/https://uit.no/Content/917155/cache%3D20252112221448/transformation%3DkompJpgHighTommy/Image5_%2520gas%2520%25203x2.jpg"
+      },
+      "description": "A multinational research team has uncovered the world's deepest known gas hydrate cold seep at 3,640 meters beneath the Greenland Sea, revealing an ecosystem thriving in conditions once thought inhospitable to complex life. The Freya Hydrate Mounds, published this week in Nature Communications, extend the known depth limit for such formations by nearly 1,800 meters[1][2][3][4].\n\nThe discovery was made during the Ocean Census Arctic Deep\u2013EXTREME24 expedition in May 2024 on the Molloy Ridge, using the remotely operated vehicle Aurora to explore the seafloor beneath massive methane gas plumes[2][3][4]. Scientists from UiT - The Arctic University of Norway led the expedition, documenting three hydrate mounds, collapse features, and dense communities of chemosynthetic organisms that survive without sunlight[1][5][2].\n\n\"This discovery rewrites the playbook for Arctic deep-sea ecosystems and carbon cycling,\" said Giuliana Panieri, professor at UiT and Chief Scientist of the expedition. \"We found an ultra-deep system that is both geologically dynamic and biologically rich, with implications for biodiversity, climate processes, and future stewardship of the High North\"[2][3].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/d16d0a76-b969-4272-b42f-847778ce1263.mp3",
+      "url": "scientists-discover-deepest-ga-.7W7fHl8QKiuwEBLPbSmfg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bcaedc34-5a62-4cf1-b623-df275600116f",
+      "published_datetime": "2025-12-23T15:01:45.848512",
+      "title": "Scientists map 140,000 DNA loops in most detailed 3D genome atlas",
+      "featured_image": {
+        "url": "https://cen.acs.org/biological-chemistry/dna/Spatial-3D-map-human-genome/103/web/2025/12",
+        "name": "Spatial 3D map of the human genome is built",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--7g5vRDb1--/t_limit/https://s7d1.scene7.com/is/image/CENODS/291000-loops%3F%24responsive%24%26qlt%3D90%2C0%26resMode%3Dsharp2%26fmt%3Dwebp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--sOAtzR_G--/t_thumbnail/https://s7d1.scene7.com/is/image/CENODS/291000-loops%3F%24responsive%24%26qlt%3D90%2C0%26resMode%3Dsharp2%26fmt%3Dwebp"
+      },
+      "description": "Researchers have created the most comprehensive three-dimensional maps of the human genome to date, cataloging more than 140,000 DNA loops that reveal how chromosomes fold and organize themselves within cell nuclei, according to a study published in Nature[1][2][3].\n\nThe landmark research, led by investigators at Northwestern University and the 4D Nucleome Project, provides unprecedented insights into how the physical structure of DNA influences gene regulation and cellular function[1][4][2]. The maps were generated using human embryonic stem cells and fibroblasts, offering a detailed view of how genes interact, fold, and reposition themselves as cells function and divide[1][4][2][5].",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/bcaedc34-5a62-4cf1-b623-df275600116f.mp3",
+      "url": "scientists-unveil-most-detaile-gwB_0jgrSSyYcDUjK_msTQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ca9cfb8e-0698-4763-b2a1-ab9e0b9fc568",
       "published_datetime": "2025-12-23T14:15:38.337859",
       "title": "AI reveals superconductivity secrets in cesium vanadium antimonide",
@@ -187,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/45edd182-c6ce-4d9f-9458-f474764e0416",
-      "published_datetime": "2025-12-22T19:43:09.462156",
-      "title": "China deploys over 100 ICBMs in Mongolia border silo fields",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/china/china-likely-loaded-more-than-100-icbms-silo-fields-pentagon-report-says-2025-12-22/",
-        "name": "Exclusive: China likely loaded more than 100 ICBMs in silo ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--bTiLG_Dk--/t_limit/https://www.reuters.com/resizer/v2/ARBGVIKABBOCVIJD2CIVGM34R4.jpg%3Fauth%3Df2bb5c093199256fe0a963141fbd64e359201f8d140dbb77933469369063feb4%26height%3D628%26width%3D1200%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--f2NFO7Y6--/t_thumbnail/https://www.reuters.com/resizer/v2/ARBGVIKABBOCVIJD2CIVGM34R4.jpg%3Fauth%3Df2bb5c093199256fe0a963141fbd64e359201f8d140dbb77933469369063feb4%26height%3D628%26width%3D1200%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "China has loaded more than 100 solid-fueled intercontinental ballistic missiles into newly constructed silo fields near its border with Mongolia, according to a draft Pentagon report reviewed by Reuters[1][2][3]. The deployment, which marks Beijing's most aggressive nuclear expansion to date, comes as the United States assesses that China shows no interest in pursuing arms control negotiations despite President Donald Trump's push for denuclearization talks with Beijing and Moscow[1][3][4].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/45edd182-c6ce-4d9f-9458-f474764e0416.mp3",
-      "url": "china-loads-over-100-nuclear-i-I4g1oByPSSWWiqjvSaOyBA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-22T18:52:18.000000Z",
       "title": "Fast cars and big debts: The unravelling of Steve Cubis",
       "featured_image": {
@@ -209,36 +239,6 @@
       },
       "description": "Stephen Cubis hides behind a charming facade, but his former lover and friends say the career con man ruined them financially and emotionally long before he was caught up in allegations of a multi-million-dollar fraud.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-23/stephen-cubis-gim-trading-fraud-allegations/106119304"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/80a1648a-c018-407d-afb5-a5c6e43b121a",
-      "published_datetime": "2025-12-22T18:33:55.584972",
-      "title": "Bondi gunmen planned terror attack for months",
-      "featured_image": {
-        "url": "https://www.pbs.org/newshour/world/australian-police-release-documents-showing-bondi-beach-shooting-suspect-conducted-firearms-training-with-his-father",
-        "name": "Australian police release documents showing Bondi Beach shooting suspect conducted firearms training with his father",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Zq8dU0_F--/t_limit/https://d3i6fh83elv35t.cloudfront.net/static/2025/12/2025-12-21T090229Z_538282464_RC2WKIASSN39_RTRMADP_3_AUSTRALIA-CRIME-1024x683.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--o8P-VqhX--/t_thumbnail/https://d3i6fh83elv35t.cloudfront.net/static/2025/12/2025-12-21T090229Z_538282464_RC2WKIASSN39_RTRMADP_3_AUSTRALIA-CRIME-1024x683.jpg"
-      },
-      "description": "The father-and-son duo accused of killing 15 people at a Hanukkah celebration on Sydney\u2019s Bondi Beach spent months rehearsing, recording ideological videos and scouting their target before unleashing Australia\u2019s worst terror attack in decades, newly released court documents show.[1][2][3]\n\nPolice allege Sajid Akram, 50, and his son Naveed, 24, began their assault on December 14 by throwing four improvised explosive devices \u2014 three pipe bombs and a so\u2011called \u201ctennis ball bomb\u201d packed with explosive material, gunpowder and steel ball bearings \u2014 towards a crowd of more than 1,000 people gathered for the \u201cChanukah by the Sea\u201d festival.[4][5][6][7] None detonated but investigators have deemed them \u201cviable\u201d IEDs before the men opened fire from a footbridge over Archer Park, killing 15 and injuring dozens more.[4][5][8][3]",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/80a1648a-c018-407d-afb5-a5c6e43b121a.mp3",
-      "url": "bondi-beach-gunmen-meticulousl-Z62MDlrxR3q6se_THg6nmQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d62d4f9e-1706-4c5c-8c86-19a55d71f1d3",
-      "published_datetime": "2025-12-22T15:04:42.811048",
-      "title": "Scientists find 20 new species in Pacific twilight zone",
-      "featured_image": {
-        "url": "https://www.nationalgeographic.com/science/article/guam-twilight-zone-coral-reefs-new-species",
-        "name": "In the ocean's 'twilight zone,' divers risk their lives in search of mysteries",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s---bzN1fsY--/t_limit/https://i.natgeofe.com/n/71341834-254e-4896-b619-5a8f33cae243/DSC_5826_16x9.jpg%3Fw%3D1200",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--3mjDJFWV--/t_thumbnail/https://i.natgeofe.com/n/71341834-254e-4896-b619-5a8f33cae243/DSC_5826_16x9.jpg%3Fw%3D1200"
-      },
-      "description": "Researchers from the California Academy of Sciences have unveiled at least 20 potential new marine species from the depths of the Pacific Ocean near Guam, along with troubling evidence of warming temperatures and plastic pollution in one of Earth's least explored ecosystems.\n\nIn November, a team of scientific divers retrieved 13 autonomous reef monitoring structures, or ARMS, that had been silently collecting data for nearly eight years at depths up to 330 feet in the ocean's \"twilight zone\"[1][2][3]. The expedition yielded 2,000 specimens, including 100 species documented for the first time in the region[1][2][4].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/d62d4f9e-1706-4c5c-8c86-19a55d71f1d3.mp3",
-      "url": "scientists-find-20-new-species-hsar9wnMS4.CKQPEJrMpEw",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-21T01:29:00.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-23T17:14:26.621037"
+  "merged_at": "2025-12-23T17:26:47.546034"
 }
