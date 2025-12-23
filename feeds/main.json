@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-23T21:51:31.000000Z",
+      "title": "ABC radio host Sabra Lane farewells AM after nine years",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/568e2e5e8efdc65bcbc0ecb20074f327?impolicy=wcms_crop_resize&amp;cropH=641&amp;cropW=1139&amp;xPos=0&amp;yPos=58&amp;width=862&amp;height=485"
+      },
+      "description": "Sabra Lane is farewelling the ABC's AM after nine years of hosting the current affairs radio program.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-24/sabra-lane-leaves-am-after-nine-years/106176284"
+    },
+    {
+      "published_datetime": "2025-12-23T20:53:55.000000Z",
+      "title": "Woman survives 500-metre crawl with broken ankle in remote Arnhem Land",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8bd8672f48b8f97e36a0c9283687f5aa?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=178&amp;width=862&amp;height=485"
+      },
+      "description": "With no mobile phone coverage and no chance of anyone hearing her call out, Margie Moroney decided to crawl back to the campsite she was sharing with her colleagues.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-24/arnhem-land-survival-story-woman-crawled-for-help-ankle-snapped/106166278"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/492faad1-51d3-4415-b520-13aab1fde470",
       "published_datetime": "2025-12-23T20:50:28.302669",
       "title": "Japan's H3 rocket fails to deliver satellite to orbit",
@@ -36,7 +54,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a4e79a64c368a98d65c56f6ccc8821d9?impolicy=wcms_crop_resize&amp;cropH=1414&amp;cropW=2513&amp;xPos=0&amp;yPos=99&amp;width=862&amp;height=485"
       },
-      "description": "The Australian share market is likely to fall in morning trade ahead of the latest ABS inflation data, while the Nasdaq rises above 17,000 points for the first time ever. Follow live.",
+      "description": "The Australian share market is likely to fall in morning trade ahead of the latest ABS inflation data, while the Nasdaq rises above 17,000 points for the first time. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-24/asx-markets-business-live-news/106176162"
     },
     {
@@ -63,7 +81,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28ac0866231af7b9ea494d9807d8894f?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=480&amp;width=862&amp;height=485"
       },
-      "description": "Someone who referred to themselves as \"A\" at \"Balmoral\" emailed convicted child sex offender Ghislaine Maxwell in 2001 asking if she had found them \"some new inappropriate friends\", the latest Epstein files document dump has revealed.",
+      "description": "Someone who referred to themselves as \"A\" at \"Balmoral\" emailed convicted child sex offender Ghislaine Maxwell in 2001, asking if she had found them \"some new inappropriate friends\", the latest Epstein files document dump has revealed.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-24/latest-epstein-files-dump-reveals-emails-from-a-at-balmoral/106176014"
     },
     {
@@ -80,15 +98,6 @@
       "audio_url": "https://discover-audio.perplexity.ai/contexts/11f2b5e3-af5a-4a11-9f22-da8c7702c91c.mp3",
       "url": "us-deploys-major-military-forc-ZhQ98h7bSZ2TEIHygD1NEw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-23T19:15:16.000000Z",
-      "title": "Australians tipped to spend record $1.6b on Boxing Day sales",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4018552d88dfc0c7f5fc9c169e66f4fb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Boxing Day spending is expected to hit a record high, supported by revived household spending after three interest rate cuts.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-24/boxing-day-sales-australia-2025/106171474"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3ae873f1-b01d-4aa8-9f60-0999f39eb8c3",
@@ -205,15 +214,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-23T09:00:18.000000Z",
-      "title": "'Christmas will feel different this year': PM strikes sombre seasonal tone",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/20799e7e818855efa0ac930d853e2e8e?impolicy=wcms_crop_resize&amp;cropH=2214&amp;cropW=3936&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Anthony Albanese and Opposition Leader Sussan Ley are urging Australians to \"stand together\" this Christmas in the wake of the Bondi terror attack.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-23/anthony-albanese-sussan-ley-christmas-messages/106175306"
-    },
-    {
       "published_datetime": "2025-12-23T08:45:09.000000Z",
       "title": "Former federal Liberal MP Katie Allen dies aged 59",
       "featured_image": {
@@ -223,13 +223,13 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-23/former-higgins-mp-katie-allen-died-of-cancer/106175744"
     },
     {
-      "published_datetime": "2025-12-23T04:27:33.000000Z",
-      "title": "What the weather will bring in your capital city on Christmas Day",
+      "published_datetime": "2025-12-23T05:56:10.000000Z",
+      "title": "Up to 1,700 jobs axed as major security firm collapses",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/10785e38c783e3f102664b6a26fbb0ba?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8d4e034f6d3facbcb73e7ef57267fdca?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
       },
-      "description": "It is just a few sleeps until Christmas Day, and the weather is promising a mixed bag for Australia's capital cities. Here is what to expect.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-23/christmas-day-weather-forecast-2025/106173430"
+      "description": "A \"significant number\" of employees have been made immediately redundant as MA Security \u2014 which provides security and maintenance services to major retailers like Coles, Kmart and Amazon \u2014 enters administration.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-23/ma-services-security-cleaning-company-enters-administration/106175160"
     },
     {
       "published_datetime": "2025-12-23T03:49:12.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-23T21:25:27.478833"
+  "merged_at": "2025-12-23T22:13:17.489845"
 }
