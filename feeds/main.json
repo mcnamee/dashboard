@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-23T20:40:07.000000Z",
+      "title": "Live: ASX to fall as Wall Street, gold and silver jump to record highs",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a4e79a64c368a98d65c56f6ccc8821d9?impolicy=wcms_crop_resize&amp;cropH=1414&amp;cropW=2513&amp;xPos=0&amp;yPos=99&amp;width=862&amp;height=485"
+      },
+      "description": "The Australian share market is likely to fall in morning trade ahead of the latest ABS inflation data, while the Nasdaq rises above 17,000 points for the first time ever. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-24/asx-markets-business-live-news/106176162"
+    },
+    {
+      "published_datetime": "2025-12-23T20:15:59.000000Z",
+      "title": "Trump wants the US to lead on 6G. Here's when Australia could get it",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e745724bb2e7e7ad515e9e952f13166?impolicy=wcms_crop_resize&amp;cropH=1522&amp;cropW=2706&amp;xPos=0&amp;yPos=23&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump says he wants the United States to lead the world in the \"6G race\" and has given his government one year to find out how to begin making it happen.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-24/when-australia-could-get-6g-after-trump-us-announcement/106170702"
+    },
+    {
       "published_datetime": "2025-12-23T19:43:21.000000Z",
       "title": "Russell Brand charged with another two sex offences including rape",
       "featured_image": {
@@ -142,15 +160,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-23T12:03:44.000000Z",
-      "title": "Pill version of injectable weight-loss drug Wegovy approved by US regulator",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b83568834731c654e55040fa1e305824?impolicy=wcms_crop_resize&amp;cropH=2809&amp;cropW=4994&amp;xPos=0&amp;yPos=178&amp;width=862&amp;height=485"
-      },
-      "description": "A daily weight-loss pill will soon be available in the US, after the regulator gave approval to Danish drug company Novo Nordisk's oral version of the popular injectable, Wegovy.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-23/wegovy-pill-approved-in-us-new-obesity-treatment/106175652"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/21251821-428a-4012-ba60-a60e355da22b",
       "published_datetime": "2025-12-23T11:28:48.944365",
       "title": "Scientists create most detailed black hole simulations",
@@ -212,15 +221,6 @@
       "audio_url": "https://discover-audio.perplexity.ai/contexts/2951c465-068d-462e-9728-2e7c5aab5fd4.mp3",
       "url": "gold-hits-50th-record-high-in-jT2JBS0ZRCiAT9IKI.VZAg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-23T05:56:10.000000Z",
-      "title": "Up to 1,700 jobs axed as major security firm collapses",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8d4e034f6d3facbcb73e7ef57267fdca?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
-      },
-      "description": "A \"significant number\" of employees have been made immediately redundant as MA Security \u2014 which provides security and maintenance services to major retailers like Coles, Kmart and Amazon \u2014 enters administration.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-23/ma-services-security-cleaning-company-enters-administration/106175160"
     },
     {
       "published_datetime": "2025-12-23T04:27:33.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-23T20:30:00.968991"
+  "merged_at": "2025-12-23T21:12:48.244608"
 }
