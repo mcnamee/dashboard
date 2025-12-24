@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e7cbc853-2e3b-4f0f-8a9b-c50d2635491c",
+      "published_datetime": "2025-12-24T09:29:19.822124",
+      "title": "US, Russia announce rival lunar nuclear power plans",
+      "featured_image": {
+        "url": "https://theconversation.com/nasa-wants-to-put-a-nuclear-reactor-on-the-moon-by-2030-choosing-where-is-tricky-263146",
+        "name": "NASA wants to put a nuclear reactor on the Moon by 2030",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Xqr0w0nH--/t_limit/https://images.theconversation.com/files/685614/original/file-20250814-61-js4cku.jpg%3Fixlib%3Drb-4.1.0%26rect%3D0%252C144%252C2998%252C1499%26q%3D45%26auto%3Dformat%26w%3D1356%26h%3D668%26fit%3Dcrop",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--xaPyElc8--/t_thumbnail/https://images.theconversation.com/files/685614/original/file-20250814-61-js4cku.jpg%3Fixlib%3Drb-4.1.0%26rect%3D0%252C144%252C2998%252C1499%26q%3D45%26auto%3Dformat%26w%3D1356%26h%3D668%26fit%3Dcrop"
+      },
+      "description": "The United States and Russia unveiled competing strategies for nuclear power on the moon within days of each other, marking a new chapter in the increasingly contested race for lunar dominance.\n\nPresident Donald Trump signed an executive order on December 18 directing NASA to deploy a nuclear reactor on the lunar surface by 2030, while Russian space agency Roscosmos announced December 23 it had contracted to build a lunar power plant by 2036[1][2][3]. The near-simultaneous announcements underscore how space exploration has evolved from scientific cooperation to strategic competition between major powers.",
+      "audio_url": "",
+      "url": "us-and-russia-announce-rival-m-cBWM.vMvRlyTZ8MJzPJDmA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5d3f81d5-72fe-41b0-9a71-ab02585a4123",
       "published_datetime": "2025-12-24T08:58:08.011171",
       "title": "China vows countermeasures to planned US chip tariffs",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5214fb57-5717-468c-9252-0374638f9866",
-      "published_datetime": "2025-12-23T17:26:29.537285",
-      "title": "Ukraine withdraws from Siversk after 41 months of fighting",
-      "featured_image": {
-        "url": "https://www.yahoo.com/news/articles/know-russia-offensive-siversk-172544536.html",
-        "name": "What we know about Russia's offensive in Siversk",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--awDAapE0--/t_limit/https://s.yimg.com/ny/api/res/1.2/r5uUzrkCSS_G6o4WS3tWtg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE7Y2Y9d2VicA--/https://media.zenfs.com/en/kyiv_independent_articles_496/22d4368a4642e3dba6e866dd93ea5814",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--l9N2sA5c--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/r5uUzrkCSS_G6o4WS3tWtg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE7Y2Y9d2VicA--/https://media.zenfs.com/en/kyiv_independent_articles_496/22d4368a4642e3dba6e866dd93ea5814"
-      },
-      "description": "Ukrainian forces withdrew from the eastern city of Siversk in Donetsk Oblast on December 23, ending 41 months of resistance against Russian forces that have steadily advanced despite heavy casualties[1][2][3][4].\n\nThe General Staff of the Armed Forces of Ukraine announced the withdrawal in a statement Tuesday, saying the decision was made \"to preserve the lives of our soldiers and the combat capability of units\" amid Russian numerical superiority and constant pressure from small assault groups operating in difficult weather conditions[1][2][5][6][7][8]. The military emphasized that \"every meter of the city came at a high cost\" for Russian forces and that Ukrainian defenders \"wore down the enemy\" during the prolonged battle[1][5][6].\n\nDespite the withdrawal, Ukrainian officials maintain the city remains under their fire control. \"The occupiers present in the city are being engaged, their logistics are being cut off. Enemy units are being blocked to prevent further advancement,\" the General Staff stated[7][4]. Ukraine's Defense Forces continue conducting combat missions in the Sloviansk direction while working to reduce Russian offensive potential[5][6].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/5214fb57-5717-468c-9252-0374638f9866.mp3",
-      "url": "ukraine-withdraws-from-siversk-uMkRxPk2SRmOQIZYGhs0Ug",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-21T01:29:00.000000Z",
       "title": "Russia says talks on US peace plan for Ukraine 'are proceeding constructively'",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-24T10:14:52.927331"
+  "merged_at": "2025-12-24T10:29:18.943979"
 }
