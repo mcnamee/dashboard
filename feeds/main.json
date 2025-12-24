@@ -28,6 +28,21 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-25/young-men-fleeing-ukraine-russia-war-find-europe-less-welcoming/106164084"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0178cc7f-a75d-49aa-b71b-fb0bc94fb3c2",
+      "published_datetime": "2025-12-24T18:17:55.657850",
+      "title": "Newly unsealed Epstein emails raise questions about Prince Andrew",
+      "featured_image": {
+        "url": "https://www.washingtonpost.com/world/2025/12/23/prince-andrew-epstein-fbi-underage/",
+        "name": "New Epstein files bring up former Prince Andrew connections ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--RTVL_ffg--/t_limit/https://www.washingtonpost.com/wp-apps/imrs.php%3Fsrc%3Dhttps://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2E7QSJYT6BCQOFIVWAH3NOMTY4.JPG%26w%3D1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--NVPcaTHh--/t_thumbnail/https://www.washingtonpost.com/wp-apps/imrs.php%3Fsrc%3Dhttps://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2E7QSJYT6BCQOFIVWAH3NOMTY4.JPG%26w%3D1440"
+      },
+      "description": "The U.S. Justice Department released nearly 30,000 pages of Jeffrey Epstein-related documents Tuesday, including 2001 emails between Ghislaine Maxwell and an individual signing as \"A\" from Balmoral who requested \"new inappropriate friends,\" with multiple pieces of evidence pointing to Andrew Mountbatten-Windsor[1][2][3][4][5].\n\nThe August 16, 2001 email from someone using the pseudonym \"The Invisible Man\" began: \"I am up here at Balmoral Summer Camp for the Royal Family,\" before asking Maxwell, \"Have you found me some new inappropriate friends?\"[4][5] Maxwell responded the same day expressing disappointment that she could \"only find appropriate friends\"[4][6].",
+      "audio_url": "",
+      "url": "newly-unsealed-epstein-emails-fhVI2D_1Shi.8o03jBaZRA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f93aff18-3ad2-4e6b-b2f3-54405af474f3",
       "published_datetime": "2025-12-24T17:44:02.811300",
       "title": "China hits record 89 space launches in 2025",
@@ -160,21 +175,6 @@
       "description": "The United States and Ukraine reached consensus on most elements of a 20-point peace plan aimed at ending the nearly four-year conflict with Russia, but critical disputes over territorial control in eastern Ukraine and management of the Zaporizhzhia nuclear power plant remain unresolved, Ukrainian President Volodymyr Zelenskyy said Wednesday[1][2][3][4].\n\nZelenskyy briefed journalists Tuesday on the draft proposal, which reflects Ukraine's position and emerged from marathon negotiations in Florida over the weekend between U.S. envoys and Russian presidential envoy Kirill Dmitriev[1][2][5][6]. A response from Moscow was expected Wednesday[4][7], though Kremlin spokesperson Dmitry Peskov declined to share details, saying Moscow believed it was \"highly inappropriate to conduct any kind of communication via the media\"[1][2][3].",
       "audio_url": "",
       "url": "us-and-ukraine-agree-on-key-is-PHog53p_Q6ef7GoQGDv1JQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/60c0287a-8cfb-427a-9380-6e4862da69d8",
-      "published_datetime": "2025-12-24T14:41:49.765601",
-      "title": "Gold surges past $4,500 as metals post best year since 1979",
-      "featured_image": {
-        "url": "https://ca.finance.yahoo.com/news/gold-climbs-above-4-500-063606076.html",
-        "name": "Gold Climbs Above $4,500 in Historic Rally for Precious Metals",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--fQIMibkr--/t_limit/https://s.yimg.com/ny/api/res/1.2/IoXmZLfM1YSkO.zYQP_GvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/b24670784eb0957164a8daa8ec79de10",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--LULUiKB2--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/IoXmZLfM1YSkO.zYQP_GvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/b24670784eb0957164a8daa8ec79de10"
-      },
-      "description": "Gold surpassed $4,500 per ounce on Wednesday, capping an extraordinary rally that has seen precious metals deliver their strongest annual performance in nearly five decades. The benchmark metal has climbed more than 70% in 2025, while silver has surged an eye-popping 150% and platinum has more than doubled, according to trading data[1][2][3][4].\n\nThe synchronized rally across the metals complex reflects a fundamental shift in how investors view these assets amid mounting economic uncertainty and geopolitical tensions. Spot gold reached as high as $4,525 per ounce, while silver futures traded above $72 and platinum breached $2,300 for the first time in history[5][6][7][3].",
-      "audio_url": "",
-      "url": "gold-and-metals-surge-to-recor-OSAlFmfhTN6Ib7HeKXDYRw",
       "partition_name": "partition1"
     },
     {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-24T19:10:44.096746"
+  "merged_at": "2025-12-24T19:21:16.678008"
 }
