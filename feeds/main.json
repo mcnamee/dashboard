@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0fd0ba8f-724d-401a-99cc-8115e754af92",
+      "published_datetime": "2025-12-24T16:12:00.023839",
+      "title": "Intel shares fall after Nvidia halts chip testing",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2025/12/19/intel-aims-to-find-clients-and-catch-tsmc-with-new-chip-fab-in-arizona.html",
+        "name": "Inside Intel\u2019s new Arizona fab, where the chipmaker\u2019s fate hangs in the balance",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Ak7c0M1C--/t_limit/https://image.cnbcfm.com/api/v1/image/108243967-1766101436309-Katie_Lea_5.jpg%3Fv%3D1766116700%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--xcurOGvi--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108243967-1766101436309-Katie_Lea_5.jpg%3Fv%3D1766116700%26w%3D1920%26h%3D1080"
+      },
+      "description": "Intel shares fell Wednesday morning after reports emerged that Nvidia discontinued testing of the chipmaker's advanced 18A manufacturing process, dealing a blow to Intel's efforts to compete as a contract manufacturer.\n\nThe stock dropped approximately 2.3% to 2.7% in premarket trading on December 24, according to multiple outlets[1][2][3]. Reuters first reported that Nvidia recently tested Intel's so-called 18A process but stopped moving forward, citing two unidentified sources familiar with the matter[4][5][6]. Broadcom also conducted similar testing, the report said[2][7].\n\nAn Intel spokesperson told Reuters the company's 18A manufacturing technologies are \"progressing well\" and that it \"continues to see strong interest\" for its next-generation production process[6][8]. Neither Nvidia nor Broadcom representatives responded to requests for comment from Reuters[9][5].",
+      "audio_url": "",
+      "url": "intel-shares-drop-after-nvidia-yodIixUFQgOVgxt0RtnavQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/acc3640d-a26c-4a23-ba86-2f4af2f5120d",
       "published_datetime": "2025-12-24T16:03:46.231386",
       "title": "Space agencies plan historic moon, Mars missions in 2026",
@@ -143,21 +158,6 @@
       },
       "description": "President Volodymyr Zelenskyy has said that Ukraine has reached consensus with the US on key issues to end the war with Russia but sensitive issues around territorial control, along with the management of a nuclear power plant, still remain unresolved.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-25/us-ukraine-reach-consensus-on-key-issues-to-end-war/106178118"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8d86e0d4-86a3-4c15-9e6c-7a3177499629",
-      "published_datetime": "2025-12-24T13:38:27.740763",
-      "title": "Russia signs contract to build lunar power plant by 2036",
-      "featured_image": {
-        "url": "https://www.the-sun.com/news/15689679/putin-wants-nuclear-plant-moon-space",
-        "name": "Bond villain Putin wants to build a nuclear power plant on the MOON in just 10 years to power space-conquering plot",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--NWvx2FF0--/t_limit/https://www.the-sun.com/wp-content/uploads/sites/6/2025/12/close-up-moon-view-northern-1047712033.jpg%3Fquality%3D90%26strip%3Dall%26w%3D1920%26h%3D1080%26crop%3D1",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--HzsmA_ti--/t_thumbnail/https://www.the-sun.com/wp-content/uploads/sites/6/2025/12/close-up-moon-view-northern-1047712033.jpg%3Fquality%3D90%26strip%3Dall%26w%3D1920%26h%3D1080%26crop%3D1"
-      },
-      "description": "Russia's space agency has signed a contract to construct a power plant on the moon within the next decade, marking the latest development in an intensifying global race for lunar dominance between major powers.\n\nRoscosmos, Russia's state space corporation, announced on December 24 that it signed a government contract with the Lavochkin Association aerospace company to complete work on building a lunar power plant by 2036[1][2]. The facility is intended to provide long-term energy for Russia's lunar program and the International Lunar Research Station, a joint project with China that has attracted more than a dozen participating countries[1][3].\n\nWhile Roscosmos did not explicitly confirm the plant would be nuclear, the project includes participation from Rosatom, Russia's state nuclear corporation, and the Kurchatov Institute, the country's leading nuclear research facility[1][4]. The announcement follows a memorandum of understanding signed by Russia and China in May regarding cooperation on lunar power infrastructure[5][3].",
-      "audio_url": "",
-      "url": "russia-to-build-nuclear-power-XFRSQislTUupWfS0NAcWzA",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-24T05:52:33.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-24T17:11:48.136352"
+  "merged_at": "2025-12-24T17:23:27.025529"
 }
