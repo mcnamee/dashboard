@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/952d3ffc-7fcc-4b3b-975d-595b6cdfd1c9",
+      "published_datetime": "2025-12-24T04:13:16.085069",
+      "title": "Researchers propose satellites as AI nodes for 6G networks",
+      "featured_image": {
+        "url": "https://techxplore.com/news/2022-10-edge-wings-low-earth-orbit-satellite.html",
+        "name": "Edge computing gives wings to low-Earth-orbit satellite ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--XZQPz2Mc--/t_limit/https://scx2.b-cdn.net/gfx/news/2022/edge-computing-has-giv.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--tD_R1xaD--/t_thumbnail/https://scx2.b-cdn.net/gfx/news/2022/edge-computing-has-giv.jpg"
+      },
+      "description": "Researchers from the University of Hong Kong and Xidian University have introduced a framework to transform satellites into dual-function communication centers and computing servers for the next generation of mobile networks. The approach, called space-ground fluid AI, aims to deliver artificial intelligence services globally as the race toward sixth-generation networks accelerates ahead of expected commercialization in 2030[1][2].\n\nThe research, published in the journal Engineering on December 22, addresses a fundamental challenge in extending AI capabilities beyond terrestrial networks[1][2]. According to the International Telecommunication Union, 6G will introduce new usage scenarios including \"integrated artificial intelligence and communication\" and \"ubiquitous connectivity\"[1][2]. However, ensuring continuous AI services in remote and underserved areas remains difficult with ground-based infrastructure alone.\n\nThe space-ground fluid AI framework draws its name from water's ability to flow seamlessly across boundaries. AI model parameters and data features move continuously between satellites and ground stations, adapting to the ever-changing network topology created by satellite mobility[2][3]. Professor Kaibin Huang, a key researcher on the project, noted the framework leverages satellites' predictable trajectories to enable fluid horizontal and vertical task migration across networks[4][3].",
+      "audio_url": "",
+      "url": "researchers-propose-satellites-yDXxd3yyT3.HUQWMkPGMhg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-24T03:09:37.000000Z",
       "title": "Gunmen's phone pinged near region known for Islamic extremism, police say",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ca9cfb8e-0698-4763-b2a1-ab9e0b9fc568",
-      "published_datetime": "2025-12-23T14:15:38.337859",
-      "title": "AI reveals superconductivity secrets in cesium vanadium antimonide",
-      "featured_image": {
-        "url": "https://global.fujitsu/en-global/pr/news/2025/12/23-01",
-        "name": "Tohoku University and Fujitsu utilize Causal AI to discover ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--WuS4lPJf--/t_limit/https://global.fujitsu/-/media/Project/Fujitsu/Fujitsu-HQ/pr/news/common/ogp/news-ogp-NanoTerasu.png%3Frev%3D352cbde374694a299e9cebcd2ab2cabe",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--GxWhjj8S--/t_thumbnail/https://global.fujitsu/-/media/Project/Fujitsu/Fujitsu-HQ/pr/news/common/ogp/news-ogp-NanoTerasu.png%3Frev%3D352cbde374694a299e9cebcd2ab2cabe"
-      },
-      "description": "Tohoku University and Fujitsu announced today they have successfully used artificial intelligence to reveal new insights into the superconductivity mechanism of cesium vanadium antimonide, a promising material for high-temperature superconducting applications. The research, published December 22 in Scientific Reports, demonstrates how AI can accelerate the discovery of new functional materials by automatically analyzing massive datasets from advanced measurement techniques[1][2][3][4][5].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/ca9cfb8e-0698-4763-b2a1-ab9e0b9fc568.mp3",
-      "url": "tohoku-university-and-fujitsu-205KGlhtTTuQ_pGWt.Vr5g",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-21T01:29:00.000000Z",
       "title": "Russia says talks on US peace plan for Ukraine 'are proceeding constructively'",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-24T05:18:10.416426"
+  "merged_at": "2025-12-24T05:31:12.279698"
 }
