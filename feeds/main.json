@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-24/sydney-to-hobart-conditions-set-to-be-ok/106176678"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/24256a1a-bcb7-4d19-a8f8-0be875183426",
+      "published_datetime": "2025-12-24T00:28:58.301331",
+      "title": "MIT develops single-pull string method for instant 3D deployable structures",
+      "featured_image": {
+        "url": "https://interestingengineering.com/innovation/single-string-flat-to-3d-structures",
+        "name": "Single string pull enables rapid assembly of futuristic 3D ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s---cJSEUQo--/t_limit/https://cms.interestingengineering.com/wp-content/uploads/2025/12/Untitled-design-2025-12-24T050226.927.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--jmcQeP_o--/t_thumbnail/https://cms.interestingengineering.com/wp-content/uploads/2025/12/Untitled-design-2025-12-24T050226.927.jpg"
+      },
+      "description": "Researchers at the Massachusetts Institute of Technology have developed a technique that transforms flat panels into complex three-dimensional structures with a single pull of a string, potentially enabling rapid deployment of emergency shelters, medical facilities, and space habitats.\n\nThe method, presented December 17 at the Association for Computing Machinery's SIGGRAPH Asia 2025 conference in Hong Kong and announced by MIT on December 22, converts user-designed 3D structures into interconnected flat tiles that deploy smoothly with minimal friction[1][2][3]. When the string is released, the structure returns to its compact, flat configuration, allowing for repeated use without damage or reassembly[1][4][5].\n\n\"The simplicity of the whole actuation mechanism is a real benefit of our approach,\" said Akib Zaman, an electrical engineering and computer science graduate student at MIT and lead author of the research paper[1][5]. \"The user just needs to provide their intended design, and then our method optimizes it in such a way that it holds the shape after just one pull on the string.\"",
+      "audio_url": "https://discover-audio.perplexity.ai/contexts/24256a1a-bcb7-4d19-a8f8-0be875183426.mp3",
+      "url": "mit-unveils-single-string-meth-LOJFuUfQTf2cyDUF6zpxkg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-24T00:12:50.000000Z",
       "title": "Islamic school faces de-registration over comments about Zionism",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/21251821-428a-4012-ba60-a60e355da22b",
-      "published_datetime": "2025-12-23T11:28:48.944365",
-      "title": "Scientists create most detailed black hole simulations",
-      "featured_image": {
-        "url": "https://www.discovermagazine.com/einstein-s-theory-of-general-relativity-helped-create-dazzling-simulations-of-stellar-black-holes-48365",
-        "name": "Einstein's Theory of General Relativity Helped Create Dazzling Simulations of Stellar Black Holes",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--fGfkWPoB--/t_limit/https://cdn.discovermagazine.com/assets/image/57989/black-hole-accretion-x.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--C_mG3Yph--/t_thumbnail/https://cdn.discovermagazine.com/assets/image/57989/black-hole-accretion-x.jpg"
-      },
-      "description": "Computational astrophysicists have achieved a major breakthrough in black hole research, developing the most comprehensive simulations ever created of how black holes pull in matter and emit radiation. The study, published December 22 in The Astrophysical Journal, marks the first time scientists have fully modeled luminous black hole accretion using Einstein's general relativity without relying on simplified approximations[1][2][3].\n\nThe research was led by Lizhong Zhang, a postdoctoral fellow at the Institute for Advanced Study and the Flatiron Institute's Center for Computational Astrophysics. Using two of the world's most powerful supercomputers, Frontier at Oak Ridge National Laboratory and Aurora at Argonne National Laboratory, the team calculated how matter flows into stellar mass black holes while accurately accounting for both gravity's extreme warping of spacetime and the dominant role of radiation[1][2][3].\n\n\"This is the first time we've been able to see what happens when the most important physical processes in black hole accretion are included accurately,\" Zhang said[1][2]. \"What's most exciting is that our simulations now reproduce remarkably consistent behaviors across black hole systems seen in the sky, from ultraluminous X-ray sources to X-ray binaries. In a sense, we've managed to 'observe' these systems not through a telescope, but through a computer.\"",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/21251821-428a-4012-ba60-a60e355da22b.mp3",
-      "url": "new-simulations-and-observatio-n4WLZuISQR2RwpXbKWOM2Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-23T08:45:09.000000Z",
       "title": "Former federal Liberal MP Katie Allen dies aged 59",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-24T01:01:04.936650"
+  "merged_at": "2025-12-24T02:06:26.918680"
 }
