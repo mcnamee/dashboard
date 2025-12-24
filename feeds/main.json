@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/47517c5f-db48-4421-9cba-7e16cf02ddd0",
+      "published_datetime": "2025-12-24T23:04:23.398268",
+      "title": "Trump-backed Asfura wins disputed Honduras election",
+      "featured_image": {
+        "url": "https://www.bloomberg.com/news/articles/2025-12-24/trump-backed-construction-magnate-asfura-wins-honduras-election",
+        "name": "Trump-Backed Honduras Candidate Asfura Wins Presidential ...",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1766617266/url_uploads/-1x-1_mjriup.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1766617266/url_uploads/-1x-1_mjriup.jpg"
+      },
+      "description": "Conservative candidate Nasry Asfura has won Honduras' presidential election after more than three weeks of vote counting marred by technical failures, fraud allegations and accusations of U.S. interference, the National Electoral Council announced Wednesday.\n\nAsfura, a 67-year-old businessman and former mayor of Tegucigalpa backed by President Donald Trump, secured 40.3% of the votes, narrowly defeating center-right Liberal Party candidate Salvador Nasralla, who received 39.5%[1][2]. The results from the November 30 election required a manual recount of approximately 15% of ballot tally sheets\u2014representing hundreds of thousands of votes\u2014due to inconsistencies in the disorganized counting system[1][2].",
+      "audio_url": "",
+      "url": "trump-backed-asfura-wins-dispu-m6MJa.U1QL.mgvFPiiYA.Q",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6513804c-370a-45fe-99da-882ea3efac99",
+      "published_datetime": "2025-12-24T22:35:27.516758",
+      "title": "Nvidia licenses Groq AI tech, dispels $20B buyout report",
+      "featured_image": {
+        "url": "https://www.reuters.com/business/ai-chip-startup-groq-discusses-6-billion-valuation-information-reports-2025-07-09/",
+        "name": "AI chip startup Groq discusses $6 billion valuation, The ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--3NUNMxfb--/t_limit/https://www.reuters.com/resizer/v2/32RRIUHQLRJZVH5NJLYCAFA3QU.jpg%3Fauth%3D43650645a16a7e40310ab9e5eed8a9071796e2773a72c5ec4de63f5ecf9a0984%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--e1sKJvgO--/t_thumbnail/https://www.reuters.com/resizer/v2/32RRIUHQLRJZVH5NJLYCAFA3QU.jpg%3Fauth%3D43650645a16a7e40310ab9e5eed8a9071796e2773a72c5ec4de63f5ecf9a0984%26width%3D1920%26quality%3D80"
+      },
+      "description": "Nvidia and AI chip startup Groq moved swiftly to dispel reports of a $20 billion acquisition on Wednesday, announcing instead a non-exclusive licensing agreement for Groq's inference technology[1][2][3].\n\nThe clarification came hours after CNBC reported that Nvidia had agreed to purchase Groq for $20 billion in cash, citing Alex Davis, CEO of investment firm Disruptive, which led Groq's most recent funding round[4][5][6]. The reported deal would have marked Nvidia's largest acquisition ever, surpassing its $7 billion purchase of Israeli chip designer Mellanox in 2019[4][6].\n\nHowever, both companies confirmed the arrangement is a technology licensing agreement, not an acquisition. \"Groq will continue to operate as an independent company,\" Groq announced on its website[3][7]. Under the agreement, Groq founder Jonathan Ross, President Sunny Madra, and other team members will join Nvidia to help advance the licensed technology, while Simon Edwards steps into the role of CEO at Groq[3][7].",
+      "audio_url": "",
+      "url": "nvidia-acquires-groq-for-20-bi-z8G9MipeS7ywXXeFmf9mwA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-24T21:30:26.000000Z",
       "title": "Christmas Day cyclone greets remote Australian islands",
       "featured_image": {
@@ -184,36 +214,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d8d20aae-f998-4ad6-bfdd-1479d34eee50",
-      "published_datetime": "2025-12-24T15:23:49.526917",
-      "title": "Chernobyl shelter could collapse if Russia attacks again, director warns",
-      "featured_image": {
-        "url": "https://www.newsweek.com/chernobyl-nuclear-radiation-shelter-at-risk-of-collapse-11265972",
-        "name": "Chernobyl Nuclear Radiation Shelter At Risk of Collapse",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--iPQGz0tY--/t_limit/https://assets.newsweek.com/wp-content/uploads/2025/12/GettyImages-2239222975_2381a3.jpg%3Fw%3D1200crop%253D1",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--_aQVcelK--/t_thumbnail/https://assets.newsweek.com/wp-content/uploads/2025/12/GettyImages-2239222975_2381a3.jpg%3Fw%3D1200crop%253D1"
-      },
-      "description": "The protective structure shielding the damaged Chernobyl nuclear reactor could collapse if subjected to another Russian attack, even without a direct hit, the plant's director warned this week, nearly ten months after a drone strike compromised the facility's safety systems.\n\nIn an interview with Agence France-Presse on December 23, Serhii Tarakanov said the integrity of the New Safe Confinement\u2014the massive steel arch built to contain the remains of Reactor No. 4\u2014remains critically vulnerable[1][2][3]. \"If a missile or drone hits it directly, or even falls somewhere nearby, for example, an Iskander, God forbid, it will cause a mini-earthquake in the area,\" Tarakanov stated[1][2]. \"No one can guarantee that the shelter facility will remain standing after that.\"",
-      "audio_url": "",
-      "url": "chernobyl-shelter-faces-collap-hj_j1RbARs2SGV1AdaQdog",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1ded5b74-7d9f-4d57-a769-eda4f298c41f",
-      "published_datetime": "2025-12-24T15:23:48.571489",
-      "title": "Copper, gold, silver hit records as tariffs disrupt supply",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/news/copper-surges-record-bullish-forecasts-150239068.html",
-        "name": "Copper Surges to Record After Bullish Forecasts, Trading Turmoil",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--0FToGgWb--/t_limit/https://s.yimg.com/ny/api/res/1.2/oxFmqLlAh4Xsm7Gy9MWvrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/6aff3ae2ca26d8123647431f62d38ba4",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0iMicG3g--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/oxFmqLlAh4Xsm7Gy9MWvrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/6aff3ae2ca26d8123647431f62d38ba4"
-      },
-      "description": "Copper, gold, and silver prices reached unprecedented levels in late December 2025, driven by a confluence of supply disruptions, U.S. tariff threats, and mounting geopolitical uncertainty that sent investors rushing to hard assets.\n\nCopper futures exceeded $12,000 per ton for the first time in history on December 23[1], extending a rally that saw London Metal Exchange prices climb from around $11,500 earlier in the month[2]. Gold touched an all-time high of $4,525.03 in December, trading near $4,493 per ounce on December 24\u2014up more than 70% from a year earlier[3]. Silver reached a record $72.70 per troy ounce, marking its fifth consecutive year of supply deficits and posting a 142% annual gain[4].",
-      "audio_url": "",
-      "url": "copper-gold-and-silver-prices-IKHYHRSuR7e4syxlQqhcAw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-24T14:04:44.000000Z",
       "title": "US and Ukraine reach consensus on key issues to end war with Russia",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-24T23:12:50.816039"
+  "merged_at": "2025-12-24T23:25:41.204690"
 }
