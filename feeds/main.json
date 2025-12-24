@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d8d2761c-dde1-4cc3-83f8-c6819debf010",
+      "published_datetime": "2025-12-24T10:17:58.038094",
+      "title": "Copper prices hit record high near $12,300 per ton",
+      "featured_image": {
+        "url": "https://finance.yahoo.com/news/copper-advances-toward-record-high-044640447.html",
+        "name": "Copper Hits Fresh All-Time High After Fed Delivers Rate Cut",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--dQdzeO04--/t_limit/https://s.yimg.com/ny/api/res/1.2/_Jbjms8mapvt9QboAAcbPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/cc596a4ebd7a55e73afbb52df9549888",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--5WoN_sJE--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/_Jbjms8mapvt9QboAAcbPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/cc596a4ebd7a55e73afbb52df9549888"
+      },
+      "description": "Copper prices surged to unprecedented levels this week, reaching $12,282 per ton on Wednesday and marking the industrial metal's strongest annual performance since the global financial crisis[1]. The rally has pushed prices up approximately 40% for the year, driven by a confluence of supply disruptions, anticipated U.S. tariffs, and surging demand from artificial intelligence infrastructure[2][1].\n\nThree-month copper on the London Metal Exchange touched an all-time high of $12,159.50 per ton, before settling around $12,243 on Wednesday[3][4]. The surge comes as investors pile into the metal amid expectations that a rush of copper into the United States\u2014aimed at front-running potential import tariffs\u2014will leave buyers elsewhere in a tight spot[2][1].",
+      "audio_url": "",
+      "url": "copper-prices-hit-record-highs-EUcLJ4U.TvCjCTidYVO6jQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e7cbc853-2e3b-4f0f-8a9b-c50d2635491c",
       "published_datetime": "2025-12-24T09:29:19.822124",
       "title": "US, Russia announce rival lunar nuclear power plans",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3ae873f1-b01d-4aa8-9f60-0999f39eb8c3",
-      "published_datetime": "2025-12-23T19:12:30.464482",
-      "title": "Webb telescope detects exocomet debris in planet-forming zone",
-      "featured_image": {
-        "url": "https://journalsofindia.com/space/james-webb-space-telescope-reveals-stunning-icy-debris-disk-shaping-young-planetary-system-51506/",
-        "name": "James Webb Space Telescope reveals stunning icy debris disk ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--3PcOSyAQ--/t_limit/https://journalsofindia.com/wp-content/uploads/2025/11/james-webb-space-telescope-reveals-stunning-icy-debris-disk-shaping-young-planetary-system.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--vZ5o_QxW--/t_thumbnail/https://journalsofindia.com/wp-content/uploads/2025/11/james-webb-space-telescope-reveals-stunning-icy-debris-disk-shaping-young-planetary-system.jpg"
-      },
-      "description": "The James Webb Space Telescope has detected UV-fluorescent carbon monoxide in the debris disk of a young star for the first time, providing evidence that crashing exocomets continuously replenish gas in planetary systems and may influence the composition of forming planets.\n\nAstronomers discovered the warm CO gas within the terrestrial planet zone of HD 131488, a 15 million-year-old star located approximately 500 light-years away in the Centaurus constellation, according to research published on arXiv in December 2025[1][2]. The observations, made in February 2023 using JWST's NIRSpec instrument, revealed gas spread between 0.5 and 10 astronomical units from the star\u2014the region where Earth-like planets typically form[3][2].\n\n\"The discovery of warm, fluorescent gas in a debris disk is the first such detection ever made,\" wrote lead author Cicero Lu of the Gemini Observatory and colleagues in the paper[1][2]. The team found the gas exhibited a vibrational temperature of 8,800 Kelvin while its rotational temperature reached only 450 Kelvin near the star, indicating the molecules were out of thermal equilibrium and excited by ultraviolet radiation[3][2].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/3ae873f1-b01d-4aa8-9f60-0999f39eb8c3.mp3",
-      "url": "webb-telescope-finds-exocomet-BMi_egINSmaoMDs4.f6akQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-21T01:29:00.000000Z",
       "title": "Russia says talks on US peace plan for Ukraine 'are proceeding constructively'",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-24T11:12:43.456056"
+  "merged_at": "2025-12-24T11:24:41.031092"
 }
