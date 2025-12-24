@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5d3f81d5-72fe-41b0-9a71-ab02585a4123",
+      "published_datetime": "2025-12-24T08:58:08.011171",
+      "title": "China vows countermeasures to planned US chip tariffs",
+      "featured_image": {
+        "url": "https://finance.yahoo.com/news/us-holds-off-chinese-chip-155541602.html",
+        "name": "US Holds Off on New Chinese Chip Tariffs Amid Trump-Xi Truce",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--tbL_oUSb--/t_limit/https://s.yimg.com/ny/api/res/1.2/jjYRqZ5X_VmR033AHQYWDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/23a564c1fe781b0abef048e4d58573da",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--aoowpbtk--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/jjYRqZ5X_VmR033AHQYWDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/23a564c1fe781b0abef048e4d58573da"
+      },
+      "description": "China warned Wednesday it will take countermeasures if the United States proceeds with planned tariffs on Chinese semiconductor imports, escalating tensions just a day after Washington announced it would delay imposing the duties until mid-2027[1][2][3].\n\nLin Jian, a foreign ministry spokesperson, said at a regular press briefing that China \"firmly opposes\" the U.S. \"indiscriminate use of tariffs\" and \"unreasonable suppression\" of Chinese industries[4][1][2]. He urged Washington to \"correct its wrong practices\" and said Beijing would take measures to safeguard its \"legitimate rights and interests\" if the U.S. persists in its actions[4][2].\n\nThe Chinese response came after the Office of the U.S. Trade Representative concluded Tuesday that China's drive for dominance in the semiconductor sector is \"unreasonable\" and burdens U.S. commerce[5][6]. However, the agency said it would maintain a zero percent tariff rate on Chinese chip imports for the next 18 months before increasing duties on June 23, 2027, to a rate that will be announced at least 30 days in advance[5][7][8].",
+      "audio_url": "",
+      "url": "china-vows-response-to-us-chip-GvPfgywFR9CUnqKKN3kPSw",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/08a21c2a-a876-4e91-8b7d-27e3c478746b",
       "published_datetime": "2025-12-24T07:50:40.911153",
       "title": "UConn engineers create lensless camera with microscope-level resolution",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/80080e34-2133-4a39-aefc-5d6b1a56b007",
-      "published_datetime": "2025-12-23T16:11:02.290710",
-      "title": "New simulations model black hole physics without approximations",
-      "featured_image": {
-        "url": "https://watchers.news/epicenter/jwst-reveals-the-first-confirmed-runaway-supermassive-black-hole/",
-        "name": "JWST reveals the first confirmed runaway supermassive black ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IWKrutNN--/t_limit/https://watchers.news/wp-content/uploads/2025/12/An-artists-conception-of-a-supermassive-black-hole-surrounded-by-an-accretion-disk-and-emitting-a-relativistic-jet.webp",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--v9q5JCZZ--/t_thumbnail/https://watchers.news/wp-content/uploads/2025/12/An-artists-conception-of-a-supermassive-black-hole-surrounded-by-an-accretion-disk-and-emitting-a-relativistic-jet.webp"
-      },
-      "description": "Computational astrophysicists have achieved a major milestone in black hole research, creating the most realistic simulations of how matter falls into black holes while emitting intense radiation, according to a study published this week in The Astrophysical Journal. The work coincides with recent observations from the James Webb Space Telescope showing evidence of \"monster stars\" that may explain how supermassive black holes formed in the early universe.\n\nThe simulation breakthrough, led by Lizhong Zhang from the Institute for Advanced Study and the Flatiron Institute's Center for Computational Astrophysics, represents the first time scientists have modeled black hole accretion in full general relativity without using simplifying approximations[1][2][3][4]. Using two of the world's most powerful supercomputers \u2014 Frontier at Oak Ridge National Laboratory and Aurora at Argonne National Laboratory \u2014 the team tracked how matter spirals into stellar mass black holes, forming turbulent disks, launching powerful winds, and sometimes producing jets[2][3].\n\n\"This is the first time we've been able to see what happens when the most important physical processes in black hole accretion are included accurately,\" Zhang said[1][2][3]. The simulated light spectra closely matched observations from real systems, from ultraluminous X-ray sources to X-ray binaries, providing confidence in the model's accuracy[2][3].",
-      "audio_url": "https://discover-audio.perplexity.ai/contexts/80080e34-2133-4a39-aefc-5d6b1a56b007.mp3",
-      "url": "new-simulations-and-jwst-revea-Tf110FlRTxmutcrYtSrc_w",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-21T01:29:00.000000Z",
       "title": "Russia says talks on US peace plan for Ukraine 'are proceeding constructively'",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-24T09:17:25.532691"
+  "merged_at": "2025-12-24T09:30:50.605850"
 }
