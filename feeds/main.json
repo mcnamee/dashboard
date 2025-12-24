@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f93aff18-3ad2-4e6b-b2f3-54405af474f3",
+      "published_datetime": "2025-12-24T17:44:02.811300",
+      "title": "China hits record 89 space launches in 2025",
+      "featured_image": {
+        "url": "https://www.china-in-space.com/p/landspace-successfully-debuts-zhuque",
+        "name": "LandSpace Successfully Debuts Zhuque-3, Falls Barely Short of ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_Ek2SNbV--/t_limit/https://substackcdn.com/image/fetch/%24s_%21-2gF%21%2Cw_1200%2Ch_600%2Cc_fill%2Cf_jpg%2Cq_auto:good%2Cfl_progressive:steep%2Cg_auto/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F557d4b08-e395-4dd2-a022-c504e8608737_3840x2160.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--33ISiUeK--/t_thumbnail/https://substackcdn.com/image/fetch/%24s_%21-2gF%21%2Cw_1200%2Ch_600%2Cc_fill%2Cf_jpg%2Cq_auto:good%2Cfl_progressive:steep%2Cg_auto/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F557d4b08-e395-4dd2-a022-c504e8608737_3840x2160.jpeg"
+      },
+      "description": "China capped a banner year in space with 89 orbital launches through December 23, shattering its previous annual record and marking significant advances in reusable rocket technology and deep-space exploration[1][2][3].\n\nThe nation's latest milestone came Monday when its Long March 12A reusable rocket successfully reached orbit but failed to recover its first stage during a landing attempt at Jiuquan Satellite Launch Center[2][3]. The test followed a similar December 3 attempt by commercial firm LandSpace, whose Zhuque-3 rocket reached orbit but crashed during its landing burn[4][5][6].\n\nChina's 2025 launch total far exceeded the 68 missions flown in 2024[4][7][8]. According to the U.S.-China Economic and Security Review Commission, the country placed 322 satellites in orbit through November 30, a 22 percent increase over the previous year[4]. The surge was driven largely by deployments for two megaconstellations\u2014the government-backed Guowang and Shanghai's Qianfan\u2014each designed to exceed 10,000 satellites to compete with SpaceX's Starlink network[9][10][11].",
+      "audio_url": "",
+      "url": "china-achieves-record-space-la-PNWRrAKKSFCDwzLdlObkIg",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0fd0ba8f-724d-401a-99cc-8115e754af92",
       "published_datetime": "2025-12-24T16:12:00.023839",
       "title": "Intel shares fall after Nvidia halts chip testing",
@@ -133,21 +148,6 @@
       "description": "Gold surpassed $4,500 per ounce on Wednesday, capping an extraordinary rally that has seen precious metals deliver their strongest annual performance in nearly five decades. The benchmark metal has climbed more than 70% in 2025, while silver has surged an eye-popping 150% and platinum has more than doubled, according to trading data[1][2][3][4].\n\nThe synchronized rally across the metals complex reflects a fundamental shift in how investors view these assets amid mounting economic uncertainty and geopolitical tensions. Spot gold reached as high as $4,525 per ounce, while silver futures traded above $72 and platinum breached $2,300 for the first time in history[5][6][7][3].",
       "audio_url": "",
       "url": "gold-and-metals-surge-to-recor-OSAlFmfhTN6Ib7HeKXDYRw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0c75932d-d8c8-45b5-99a2-47ff24a250fa",
-      "published_datetime": "2025-12-24T14:35:42.905385",
-      "title": "Zelensky proposes demilitarized zone in Donetsk",
-      "featured_image": {
-        "url": "https://www.nytimes.com/2025/12/24/world/europe/zelensky-demilitarized-zone-offer.html",
-        "name": "Zelensky Opens Way to Demilitarized Zone in Eastern Ukraine to Reach Peace",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--nIRLf_Vt--/t_limit/https://static01.nyt.com/images/2025/12/24/multimedia/24ukraine-zelensky-gkbl/24ukraine-zelensky-gkbl-facebookJumbo.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Q8xzqJlc--/t_thumbnail/https://static01.nyt.com/images/2025/12/24/multimedia/24ukraine-zelensky-gkbl/24ukraine-zelensky-gkbl-facebookJumbo.jpg"
-      },
-      "description": "Ukrainian President Volodymyr Zelensky announced Tuesday a significant compromise in peace negotiations with Russia, offering to withdraw Ukrainian forces from parts of eastern Donetsk to establish a demilitarized zone\u2014but only if Moscow reciprocates by pulling back its own troops from corresponding areas[1][2].\n\nThe proposal marks Zelensky's closest approach yet to addressing the contentious territorial issues that have consistently blocked peace talks[1]. Speaking to reporters in Kyiv, he described the offer as part of a revised 20-point peace plan developed with the United States, which he said incorporates \"nearly 90%\" of Ukraine's demands[2][3].\n\n\"We now have draft documents that largely reflect the joint Ukrainian-American position, in some respects the American position,\" Zelensky said, adding that \"some issues are still to be resolved\"[4].",
-      "audio_url": "",
-      "url": "zelensky-proposes-demilitarize-xt1AJ1BrRieWtSrtiQTfhw",
       "partition_name": "partition1"
     },
     {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-24T18:19:35.392731"
+  "merged_at": "2025-12-24T18:38:40.161772"
 }
