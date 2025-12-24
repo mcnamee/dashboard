@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-24T14:04:44.000000Z",
+      "title": "US and Ukraine reach consensus on key issues to end war with Russia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/22297fd4272c5f59872d65d50acb2772?impolicy=wcms_crop_resize&amp;cropH=1034&amp;cropW=1839&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "President Volodymyr Zelenskyy has said that Ukraine has reached consensus with the US on key issues to end the war with Russia but sensitive issues around territorial control, along with the management of a nuclear power plant, still remain unresolved.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-25/us-ukraine-reach-consensus-on-key-issues-to-end-war/106178118"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8d86e0d4-86a3-4c15-9e6c-7a3177499629",
       "published_datetime": "2025-12-24T13:38:27.740763",
       "title": "Russia signs contract to build lunar power plant by 2036",
@@ -223,15 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-23T20:15:59.000000Z",
-      "title": "Trump wants the US to lead on 6G. Here's when Australia could get it",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e745724bb2e7e7ad515e9e952f13166?impolicy=wcms_crop_resize&amp;cropH=1522&amp;cropW=2706&amp;xPos=0&amp;yPos=23&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump says he wants the United States to lead the world in the \"6G race\" and has given his government one year to find out how to begin making it happen.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-24/when-australia-could-get-6g-after-trump-us-announcement/106170702"
-    },
-    {
       "published_datetime": "2025-12-23T19:34:20.000000Z",
       "title": "Epstein files email show 'A' at 'Balmoral' sought 'inappropriate friends'",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-24T14:26:50.999318"
+  "merged_at": "2025-12-24T15:13:54.905166"
 }
