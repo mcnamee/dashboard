@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/966c667a-9ac5-4476-9489-ef04760ff13c",
+      "published_datetime": "2025-12-25T06:36:04.386326",
+      "title": "Nvidia licenses Groq's AI chip tech, hires execs in $20B deal",
+      "featured_image": {
+        "url": "https://finance.yahoo.com/news/nvidia-acquires-ai-chip-challenger-220316328.html",
+        "name": "Nvidia to license AI chip challenger Groq\u2019s tech and hire its CEO",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--6iIw80ZS--/t_limit/https://s.yimg.com/ny/api/res/1.2/Id1gqYnQ49JNEJz7_C0uzw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDA-/https://media.zenfs.com/en/techcrunch_finance_785/7fd4ac685be0170266c41c9de525da65",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--QM6YCteI--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/Id1gqYnQ49JNEJz7_C0uzw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDA-/https://media.zenfs.com/en/techcrunch_finance_785/7fd4ac685be0170266c41c9de525da65"
+      },
+      "description": "Nvidia has reached a complex $20 billion agreement with AI chip startup Groq that stops short of a full acquisition, marking the chip giant's largest deal as it races to dominate the fast-growing AI inference market.\n\nThe transaction, announced on Christmas Eve, involves Nvidia licensing Groq's inference technology and hiring its top executives, including founder Jonathan Ross and President Sunny Madra, while Groq continues operating independently. The arrangement blurs traditional dealmaking lines, reflecting a new Silicon Valley trend where tech giants cherry-pick talent and intellectual property without fully absorbing companies.\n\nCNBC reported the $20 billion valuation, citing Alex Davis, CEO of Disruptive, which led Groq's latest funding round[1]. However, neither Nvidia nor Groq confirmed financial terms. In a blog post, Groq characterized the arrangement as a \"non-exclusive licensing agreement\" for its inference technology[2]. Nvidia CEO Jensen Huang clarified in an employee email obtained by CNBC that while the company is \"adding talented employees to our ranks and licensing Groq's IP, we are not acquiring Groq as a company\"[1][3].\n\nDavis told CNBC that Nvidia is acquiring Groq's assets, excluding its cloud business[1]. Simon Edwards, formerly Groq's chief financial officer, will become CEO of the continuing entity, with GroqCloud operations uninterrupted[2][4].",
+      "audio_url": "",
+      "url": "nvidia-acquires-groq-in-20-bil-xuuy0fT_SiKo4LT7LJnhUg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-25T05:49:50.000000Z",
       "title": "Boddington bushfire escalates amid 40C heat and gusty winds",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0fd0ba8f-724d-401a-99cc-8115e754af92",
-      "published_datetime": "2025-12-24T16:12:00.023839",
-      "title": "Intel shares fall after Nvidia halts chip testing",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2025/12/19/intel-aims-to-find-clients-and-catch-tsmc-with-new-chip-fab-in-arizona.html",
-        "name": "Inside Intel\u2019s new Arizona fab, where the chipmaker\u2019s fate hangs in the balance",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Ak7c0M1C--/t_limit/https://image.cnbcfm.com/api/v1/image/108243967-1766101436309-Katie_Lea_5.jpg%3Fv%3D1766116700%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--xcurOGvi--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108243967-1766101436309-Katie_Lea_5.jpg%3Fv%3D1766116700%26w%3D1920%26h%3D1080"
-      },
-      "description": "Intel shares fell Wednesday morning after reports emerged that Nvidia discontinued testing of the chipmaker's advanced 18A manufacturing process, dealing a blow to Intel's efforts to compete as a contract manufacturer.\n\nThe stock dropped approximately 2.3% to 2.7% in premarket trading on December 24, according to multiple outlets[1][2][3]. Reuters first reported that Nvidia recently tested Intel's so-called 18A process but stopped moving forward, citing two unidentified sources familiar with the matter[4][5][6]. Broadcom also conducted similar testing, the report said[2][7].\n\nAn Intel spokesperson told Reuters the company's 18A manufacturing technologies are \"progressing well\" and that it \"continues to see strong interest\" for its next-generation production process[6][8]. Neither Nvidia nor Broadcom representatives responded to requests for comment from Reuters[9][5].",
-      "audio_url": "",
-      "url": "intel-shares-drop-after-nvidia-yodIixUFQgOVgxt0RtnavQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-24T14:04:44.000000Z",
       "title": "US and Ukraine reach consensus on key issues to end war with Russia",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-25T07:16:23.549709"
+  "merged_at": "2025-12-25T07:27:40.519666"
 }
