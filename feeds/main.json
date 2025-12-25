@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-24T23:23:39.000000Z",
+      "title": "White Christmas in Tasmania as heat climbs in other states",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a254543fd0039a45ff0f80a413f10b2a?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=637&amp;width=862&amp;height=485"
+      },
+      "description": "Snow has arrived in Tasmania on Christmas morning, but hotter conditions are expected around the country, including a scorcher in the west.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-25/christmas-day-weather-snow-in-tasmania-heat-across-australia/106178338"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/47517c5f-db48-4421-9cba-7e16cf02ddd0",
       "published_datetime": "2025-12-24T23:04:23.398268",
       "title": "Trump-backed Asfura wins disputed Honduras election",
@@ -106,17 +115,8 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-25/racist-vandalism-of-aussie-poster-in-adelaide/106177068"
     },
     {
-      "published_datetime": "2025-12-24T18:52:29.000000Z",
-      "title": "The last 600 Christians in Gaza mark Christmas with heavy hearts",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cbdcf7dbb56e6b9155721dc5c49442d7?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The small number of Christians remaining in Gaza have marked Christmas early with subdued celebrations in the shadow of ongoing conflict and occupation.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-25/gaza-remaining-christians-mark-christmas-subdued-celebrations/106177982"
-    },
-    {
       "published_datetime": "2025-12-24T18:43:27.000000Z",
-      "title": "These men fled Ukraine, but found a Europe far less welcoming",
+      "title": "These men fled Ukraine, but found Europe far less welcoming",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/329156ecd8358c2245cfcfc07d887154?impolicy=wcms_crop_resize&amp;cropH=2109&amp;cropW=3750&amp;xPos=0&amp;yPos=110&amp;width=862&amp;height=485"
       },
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-24T23:25:41.204690"
+  "merged_at": "2025-12-25T01:01:27.648294"
 }
