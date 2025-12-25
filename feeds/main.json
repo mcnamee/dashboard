@@ -145,6 +145,15 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-25/happy-chanukah-car-firebombing-on-christmas-day-in-st-kilda-east/106178444"
     },
     {
+      "published_datetime": "2025-12-25T00:31:26.000000Z",
+      "title": "Pope Leo criticises 'distorted economy' in first Christmas mass",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c7c2923c6293456c6d3f3f4f25c7bf96?impolicy=wcms_crop_resize&amp;cropH=990&amp;cropW=1760&amp;xPos=0&amp;yPos=71&amp;width=862&amp;height=485"
+      },
+      "description": "Pope Leo XIV holds the first Christmas mass of his pontificate, greeting thousands of faithful in St Peter's Square before the Christmas Eve service.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-25/pope-leo-celebrates-christmas-as-people-return-to-bethlehem/106178358"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c3db69b5-c945-454f-8868-a298dfbaf750",
       "published_datetime": "2025-12-25T00:08:24.729563",
       "title": "North Korea tests anti-aircraft missiles as US sub docks in South",
@@ -230,15 +239,6 @@
       "audio_url": "",
       "url": "iran-s-khamenei-reportedly-aut-XRgnLRbtQieMP0yvY15AEw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-24T21:11:30.000000Z",
-      "title": "A million more Epstein files found, US government says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f21ac7017484a7d94ab8ee98ede124d3?impolicy=wcms_crop_resize&amp;cropH=400&amp;cropW=712&amp;xPos=8&amp;yPos=102&amp;width=862&amp;height=485"
-      },
-      "description": "The Department of Justice says the release of the Epstein files will take \"a few more weeks\" after a million additional documents were uncovered.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-25/more-epstein-files-found-by-us-department-of-justice/106178284"
     },
     {
       "published_datetime": "2025-12-21T01:29:00.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-25T11:23:48.147746"
+  "merged_at": "2025-12-25T12:25:22.068225"
 }
