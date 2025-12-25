@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0e2aef9c-1e8a-4ccc-9c86-b1226afe78f0",
+      "published_datetime": "2025-12-25T15:27:50.637057",
+      "title": "Nvidia agrees to buy Groq assets for $20B",
+      "featured_image": {
+        "url": "https://www.reuters.com/business/groq-more-than-doubles-valuation-69-billion-investors-bet-ai-chips-2025-09-17/",
+        "name": "Groq more than doubles valuation to $6.9 billion as investors bet on AI chips",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--WrtH7Mgk--/t_limit/https://www.reuters.com/resizer/v2/32RRIUHQLRJZVH5NJLYCAFA3QU.jpg%3Fauth%3D43650645a16a7e40310ab9e5eed8a9071796e2773a72c5ec4de63f5ecf9a0984%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--suSJpAE7--/t_thumbnail/https://www.reuters.com/resizer/v2/32RRIUHQLRJZVH5NJLYCAFA3QU.jpg%3Fauth%3D43650645a16a7e40310ab9e5eed8a9071796e2773a72c5ec4de63f5ecf9a0984%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Nvidia has agreed to acquire assets from AI chip startup Groq for approximately $20 billion in cash, according to a CNBC report, marking the semiconductor giant's largest transaction ever as it moves to cement its dominance in the rapidly expanding artificial intelligence hardware market[1][2][3]. The deal, announced December 24, brings Groq's specialized inference chip technology and top engineering talent under Nvidia's control while the startup continues operating independently[1][4].\n\nUnder the arrangement, Groq founder and CEO Jonathan Ross\u2014a former Google engineer who helped develop the company's Tensor Processing Unit\u2014will join Nvidia along with President Sunny Madra and other key staff members[1][5][6]. Simon Edwards, currently Groq's finance chief, will assume the CEO role as the company maintains its cloud business, GroqCloud[1][4][7].",
+      "audio_url": "",
+      "url": "nvidia-acquires-groq-for-20-bi-KUAjuAVjTe2UjhXgOMeB2Q",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-25T15:02:26.000000Z",
       "title": "King pays homage to acts of 'spontaneous bravery' in Christmas message",
       "featured_image": {
@@ -253,21 +268,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6513804c-370a-45fe-99da-882ea3efac99",
-      "published_datetime": "2025-12-24T22:35:27.516758",
-      "title": "Nvidia licenses Groq AI tech, dispels $20B buyout report",
-      "featured_image": {
-        "url": "https://www.reuters.com/business/ai-chip-startup-groq-discusses-6-billion-valuation-information-reports-2025-07-09/",
-        "name": "AI chip startup Groq discusses $6 billion valuation, The ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--3NUNMxfb--/t_limit/https://www.reuters.com/resizer/v2/32RRIUHQLRJZVH5NJLYCAFA3QU.jpg%3Fauth%3D43650645a16a7e40310ab9e5eed8a9071796e2773a72c5ec4de63f5ecf9a0984%26width%3D1920%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--e1sKJvgO--/t_thumbnail/https://www.reuters.com/resizer/v2/32RRIUHQLRJZVH5NJLYCAFA3QU.jpg%3Fauth%3D43650645a16a7e40310ab9e5eed8a9071796e2773a72c5ec4de63f5ecf9a0984%26width%3D1920%26quality%3D80"
-      },
-      "description": "Nvidia and AI chip startup Groq moved swiftly to dispel reports of a $20 billion acquisition on Wednesday, announcing instead a non-exclusive licensing agreement for Groq's inference technology[1][2][3].\n\nThe clarification came hours after CNBC reported that Nvidia had agreed to purchase Groq for $20 billion in cash, citing Alex Davis, CEO of investment firm Disruptive, which led Groq's most recent funding round[4][5][6]. The reported deal would have marked Nvidia's largest acquisition ever, surpassing its $7 billion purchase of Israeli chip designer Mellanox in 2019[4][6].\n\nHowever, both companies confirmed the arrangement is a technology licensing agreement, not an acquisition. \"Groq will continue to operate as an independent company,\" Groq announced on its website[3][7]. Under the agreement, Groq founder Jonathan Ross, President Sunny Madra, and other team members will join Nvidia to help advance the licensed technology, while Simon Edwards steps into the role of CEO at Groq[3][7].",
-      "audio_url": "",
-      "url": "nvidia-acquires-groq-for-20-bi-z8G9MipeS7ywXXeFmf9mwA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-24T21:58:10.000000Z",
       "title": "Fashion helps to heal community years after floods",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-25T16:16:27.538264"
+  "merged_at": "2025-12-25T16:33:48.454567"
 }
