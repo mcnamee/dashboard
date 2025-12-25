@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-25T13:06:19.000000Z",
+      "title": "Pope Leo asks people to think about Gaza during Christmas Day speech",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/007a83dfe1af0b6edd1df7d3e4a30b07?impolicy=wcms_crop_resize&amp;cropH=1949&amp;cropW=3464&amp;xPos=0&amp;yPos=357&amp;width=862&amp;height=485"
+      },
+      "description": "During his Urbi et Orbi (city and world) speech on Christmas Day, Pope Leo XIV has called for an end to all wars and for people to think about the conditions in Gaza.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/pope-leo-decries-conditions-in-gaza-christmas-speech/106178920"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1b9c230c-52ba-4ba1-81b2-b25eae5c3d2f",
       "published_datetime": "2025-12-25T11:35:43.595985",
       "title": "Pope Leo XIV highlights Gaza crisis in first Christmas Mass",
@@ -86,7 +95,7 @@
     },
     {
       "published_datetime": "2025-12-25T05:49:50.000000Z",
-      "title": "Bushfires trigger major blackouts on sweltering 42C Christmas Day",
+      "title": "Boddington locals urged to 'leave immediately' as bushfire fast approaching",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ae60296a6db5dd17f876c2fd4cd81d6?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=463&amp;width=862&amp;height=485"
       },
@@ -158,15 +167,6 @@
       },
       "description": "Authorities were called to a St Kilda East residence about 3am, where a car with a sign celebrating the Jewish holiday had been set alight.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-25/happy-chanukah-car-firebombing-on-christmas-day-in-st-kilda-east/106178444"
-    },
-    {
-      "published_datetime": "2025-12-25T00:31:26.000000Z",
-      "title": "Pope Leo criticises 'distorted economy' in first Christmas mass",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c7c2923c6293456c6d3f3f4f25c7bf96?impolicy=wcms_crop_resize&amp;cropH=990&amp;cropW=1760&amp;xPos=0&amp;yPos=71&amp;width=862&amp;height=485"
-      },
-      "description": "Pope Leo XIV holds the first Christmas mass of his pontificate, greeting thousands of faithful in St Peter's Square before the Christmas Eve service.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-25/pope-leo-celebrates-christmas-as-people-return-to-bethlehem/106178358"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c3db69b5-c945-454f-8868-a298dfbaf750",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-25T12:55:22.997484"
+  "merged_at": "2025-12-25T13:27:18.268011"
 }
