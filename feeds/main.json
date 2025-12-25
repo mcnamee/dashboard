@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7dc017d1-6973-4513-8beb-6d785a27ab25",
+      "published_datetime": "2025-12-25T19:05:50.420203",
+      "title": "Scientists stabilize fullerene molecules for safer EV batteries",
+      "featured_image": {
+        "url": "https://interestingengineering.com/energy/ev-could-enable-ultra-fast-charging",
+        "name": "Battery breakthrough unlocks secrets to more EV range ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--kS9MqEvh--/t_limit/https://cms.interestingengineering.com/wp-content/uploads/2025/12/EV-battery-2.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--HP6dpU3b--/t_thumbnail/https://cms.interestingengineering.com/wp-content/uploads/2025/12/EV-battery-2.jpg"
+      },
+      "description": "Researchers at Tohoku University have developed a covalently bridged fullerene framework that could enable faster-charging, longer-lasting electric vehicle batteries by solving a stability problem that has long hindered the use of carbon-based materials in energy storage[1][2][3].\n\nThe team, led by Distinguished Professor Hao Li at the Advanced Institute for Materials Research, created a compound called Mg4C60 that uses covalent connections between fullerene molecules to prevent the structural collapse that typically occurs when these materials are used in battery anodes[1][2]. The findings were published in the Journal of the American Chemical Society on December 11, with the breakthrough announced publicly on December 23[1][2].",
+      "audio_url": "",
+      "url": "researchers-achieve-major-ev-b-8c9s_YRHRIKjk0ntxRpGMg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2647f8e0-4ffe-4f06-86dd-dee4cfe5ec86",
+      "published_datetime": "2025-12-25T17:27:44.956524",
+      "title": "Trump confirms military will strike land targets in Latin America",
+      "featured_image": {
+        "url": "https://www.gettyimages.com/detail/news-photo/president-donald-trump-takes-questions-as-he-announced-the-news-photo/2253191737",
+        "name": "President Trump, With Secretaries Of Navy And War, Makes An Announcement From His Mar-a-Lago Resort In Florida",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1766677536/getty_uploads/2253191737_luvdgs.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1766677536/getty_uploads/2253191737_luvdgs.jpg"
+      },
+      "description": "U.S. President Donald Trump confirmed on Christmas Eve that the military will begin conducting strikes on land targets in Latin America to combat drug cartels, marking a potential escalation from the maritime campaign that has killed at least 105 people since September[1][2][3].\n\nSpeaking from his Mar-a-Lago estate in Florida during a holiday address to U.S. troops, Trump claimed that maritime drug smuggling has been reduced by 96 percent[1][2][4]. \"Now we're going after the land,\" Trump said, adding that land operations would be \"easier\" than the maritime interdictions[1][2]. The president extended special congratulations to the crew of the USS Gerald R. Ford, currently deployed in the Caribbean[1][2].",
+      "audio_url": "",
+      "url": "trump-confirms-plans-for-land-35iSGelmTBqpBNYRCgjN1g",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3c3f67c5-9cde-469a-847e-b280c71fd548",
+      "published_datetime": "2025-12-25T17:15:31.915866",
+      "title": "Ukraine delivers US-backed peace plan to Russia",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/europe/ukraine-hands-revised-20-point-peace-plan-proposal-us-abc-news-reports-2025-12-11/",
+        "name": "Ukraine hands revised 20-point peace plan proposal to US, ABC News reports",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--nmMAFTEZ--/t_limit/https://www.reuters.com/resizer/v2/PMWUCYQJ5VLJ5OSEHTJMIU5JWY.jpg%3Fauth%3D05c01d02ca9bf532755a92ef422591d93af87f3e028cd3c9db3f2cee4fa2d5f6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--hPo2EocC--/t_thumbnail/https://www.reuters.com/resizer/v2/PMWUCYQJ5VLJ5OSEHTJMIU5JWY.jpg%3Fauth%3D05c01d02ca9bf532755a92ef422591d93af87f3e028cd3c9db3f2cee4fa2d5f6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Ukrainian President Volodymyr Zelenskyy presented a revised 20-point peace proposal on December 23 after weeks of negotiations with US officials, offering potential pathways to end the nearly four-year war with Russia\u2014even as Moscow launched deadly drone strikes on Christmas night that killed at least two people[1][2].\n\nThe plan, developed jointly by Ukrainian and American negotiators, includes NATO-style security guarantees and proposes demilitarized zones in eastern Ukraine, according to Zelenskyy's presentation to journalists in Kyiv[2][3][4]. The framework was formally delivered to Russian President Vladimir Putin's government on December 24, though the Kremlin has given no indication it will accept the terms[2][3].",
+      "audio_url": "",
+      "url": "ukraine-unveils-us-backed-20-p-5CU.KSujTj2qnEX8aNEzuw",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0e2aef9c-1e8a-4ccc-9c86-b1226afe78f0",
       "published_datetime": "2025-12-25T15:27:50.637057",
       "title": "Nvidia agrees to buy Groq assets for $20B",
@@ -178,21 +223,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-25/public-assemblies-banned-14-days-in-sydney-under-new-protest-law/106178406"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ffd60f3e-1772-4399-a4e6-50b1ddbea096",
-      "published_datetime": "2025-12-25T01:07:14.426676",
-      "title": "14 nations condemn Israel's 19 new West Bank settlements",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/view-shows-buildings-in-the-area-of-hebron-in-the-occupied-news-photo/2252587348",
-        "name": "New-Israeli-Outpost-Near-Hebron",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1766624557/getty_uploads/2252587348_t1elfe.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1766624557/getty_uploads/2252587348_t1elfe.jpg"
-      },
-      "description": "Fourteen countries issued a joint statement on Wednesday condemning Israel's recent approval of 19 new settlements in the occupied West Bank, warning the decision violates international law and threatens regional stability. Notably absent from the condemnation was the United States, making it the only G7 nation not to sign the statement[1][2][3].\n\nThe coalition\u2014comprising Belgium, Canada, Denmark, France, Germany, Italy, Iceland, Ireland, Japan, Malta, the Netherlands, Norway, Spain, and the United Kingdom\u2014called on Israel to reverse the decision and halt all settlement expansion in line with UN Security Council Resolution 2334[1][4][5].",
-      "audio_url": "",
-      "url": "14-nations-condemn-israel-s-ap-vdxpEn5uSASM5WL8uhCoEg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-25T00:59:24.000000Z",
       "title": "PM, Jewish leaders condemn apparent firebombing of Hanukkah car",
       "featured_image": {
@@ -200,21 +230,6 @@
       },
       "description": "Authorities were called to a St Kilda East residence about 3am, where a car with a sign celebrating the Jewish holiday had been set alight.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-25/happy-chanukah-car-firebombing-on-christmas-day-in-st-kilda-east/106178444"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c3db69b5-c945-454f-8868-a298dfbaf750",
-      "published_datetime": "2025-12-25T00:08:24.729563",
-      "title": "North Korea tests anti-aircraft missiles as US sub docks in South",
-      "featured_image": {
-        "url": "https://www.bloomberg.com/news/articles/2025-12-24/kim-jong-un-oversees-test-of-new-anti-air-missile-kcna-says",
-        "name": "North Korea's Kim Jong Un Oversees Test of New Anti-Air ...",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1766621103/url_uploads/-1x-1_glubfl.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1766621103/url_uploads/-1x-1_glubfl.jpg"
-      },
-      "description": "North Korean leader Kim Jong Un oversaw the test-firing of new high-altitude, long-range anti-aircraft missiles on Wednesday, with the weapons accurately hitting mock targets at an altitude of 200 kilometers in the East Sea, state media reported Thursday[1][2][3][4][5][6][7].\n\nThe test came one day after the USS Greeneville, a U.S. Navy nuclear-powered submarine, arrived at the South Korean port of Busan for crew rest and resupply[8][9][10]. In response, North Korea's Defense Ministry vowed to consider \"countermeasures corresponding to the U.S. nuclear muscle flexing,\" calling the submarine's presence \"a grave act of destabilization that escalates military tensions on the Korean Peninsula\"[1][11][12].",
-      "audio_url": "",
-      "url": "north-korea-tests-new-anti-air-xO1Vup8IRs6rGBIbitBw4w",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-25T00:00:00.000000Z",
@@ -251,21 +266,6 @@
       },
       "description": "Residents of Somalia\u2019s capital are set to vote in a controversial local election that marks the country\u2019s first-ever one-person, one-vote poll since 1969.",
       "page_content_url": "https://abcnews.go.com/International"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/47517c5f-db48-4421-9cba-7e16cf02ddd0",
-      "published_datetime": "2025-12-24T23:04:23.398268",
-      "title": "Trump-backed Asfura wins disputed Honduras election",
-      "featured_image": {
-        "url": "https://www.bloomberg.com/news/articles/2025-12-24/trump-backed-construction-magnate-asfura-wins-honduras-election",
-        "name": "Trump-Backed Honduras Candidate Asfura Wins Presidential ...",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1766617266/url_uploads/-1x-1_mjriup.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1766617266/url_uploads/-1x-1_mjriup.jpg"
-      },
-      "description": "Conservative candidate Nasry Asfura has won Honduras' presidential election after more than three weeks of vote counting marred by technical failures, fraud allegations and accusations of U.S. interference, the National Electoral Council announced Wednesday.\n\nAsfura, a 67-year-old businessman and former mayor of Tegucigalpa backed by President Donald Trump, secured 40.3% of the votes, narrowly defeating center-right Liberal Party candidate Salvador Nasralla, who received 39.5%[1][2]. The results from the November 30 election required a manual recount of approximately 15% of ballot tally sheets\u2014representing hundreds of thousands of votes\u2014due to inconsistencies in the disorganized counting system[1][2].",
-      "audio_url": "",
-      "url": "trump-backed-asfura-wins-dispu-m6MJa.U1QL.mgvFPiiYA.Q",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-24T21:58:10.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-25T19:10:43.252455"
+  "merged_at": "2025-12-25T19:21:31.840147"
 }
