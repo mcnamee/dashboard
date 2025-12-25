@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-25T05:49:50.000000Z",
+      "title": "Breaking: Boddington bushfire escalates amid 40C heat and gusty winds",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/852a7a62066c21a1e33f6a52d701031e?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=592&amp;width=862&amp;height=485"
+      },
+      "description": "A bushfire threatening the town of Boddington, south-east of Perth, has intensified as firefighters battle to contain the blaze on a hot and gusty 40-degree Celsius Christmas Day.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-25/christmas-day-boddington-bushfire-emergency/106178756"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/33fdd071-8a27-4f12-9077-7448d30ae152",
       "published_datetime": "2025-12-25T05:13:47.104150",
       "title": "AI maps 360,000 DNA knots regulating gene activity",
@@ -87,7 +96,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a254543fd0039a45ff0f80a413f10b2a?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=637&amp;width=862&amp;height=485"
       },
-      "description": "Snow has arrived in Tasmania on Christmas morning, but hotter conditions are expected around the country, including a scorcher in the west. The Bureau of Meteorology said rain was turning into snow before it hit the ground above 700 metres. Meanwhile, Western Australia has been in the grip of a heatwave, with the temperature in Perth expected to soar above 40C on Christmas Day.",
+      "description": "Snow has arrived in Tasmania on Christmas morning, but hotter conditions are expected around the country, including a scorcher in the west.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-25/christmas-day-weather-snow-in-tasmania-heat-across-australia/106178338"
     },
     {
@@ -137,15 +146,6 @@
       },
       "description": "Tropical Cyclone Grant is expected to remain a category one system as it passes just to the north of the Cocos (Keeling) Islands off the West Australian coast.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-25/tropical-cyclone-grant-impacts-cocos-islands-christmas-day/106178056"
-    },
-    {
-      "published_datetime": "2025-12-24T21:30:12.000000Z",
-      "title": "White House official says US forces to focus on 'quarantine' of Venezuela",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6a5114bf67a96f8743f2ac0fdeff30fd?impolicy=wcms_crop_resize&amp;cropH=1238&amp;cropW=2200&amp;xPos=0&amp;yPos=115&amp;width=862&amp;height=485"
-      },
-      "description": "The White House has ordered US military forces to focus almost exclusively on enforcing the \"quarantine\" of Venezuelan oil, a US official says.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-25/us-forces-to-quarantine-venezuelan-oil-as-un-condemns-aggression/106178276"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e8529dfd-420c-4e5b-aa02-106c08188d50",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-25T05:30:55.792845"
+  "merged_at": "2025-12-25T06:21:18.182750"
 }
