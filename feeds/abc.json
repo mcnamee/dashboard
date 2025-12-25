@@ -2,7 +2,7 @@
   "items": [
     {
       "published_datetime": "2025-12-24T18:43:27.000000Z",
-      "title": "These men fled Ukraine, but found a Europe far less welcoming",
+      "title": "These men fled Ukraine, but found Europe far less welcoming",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/329156ecd8358c2245cfcfc07d887154?impolicy=wcms_crop_resize&amp;cropH=2109&amp;cropW=3750&amp;xPos=0&amp;yPos=110&amp;width=862&amp;height=485"
       },
@@ -37,15 +37,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-24/bondi-attack-supporter-charged-in-perth-raid/106177710"
     },
     {
-      "published_datetime": "2025-12-24T18:52:29.000000Z",
-      "title": "The last 600 Christians in Gaza mark Christmas with heavy hearts",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cbdcf7dbb56e6b9155721dc5c49442d7?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The small number of Christians remaining in Gaza have marked Christmas early with subdued celebrations in the shadow of ongoing conflict and occupation.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-25/gaza-remaining-christians-mark-christmas-subdued-celebrations/106177982"
-    },
-    {
       "published_datetime": "2025-12-24T21:30:26.000000Z",
       "title": "Christmas Day cyclone greets remote Australian islands",
       "featured_image": {
@@ -53,6 +44,15 @@
       },
       "description": "Tropical Cyclone Grant is expected to remain a category one system as it passes just to the north of the Cocos (Keeling) Islands off the West Australian coast.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-25/tropical-cyclone-grant-impacts-cocos-islands-christmas-day/106178056"
+    },
+    {
+      "published_datetime": "2025-12-24T23:23:39.000000Z",
+      "title": "White Christmas in Tasmania as heat climbs in other states",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a254543fd0039a45ff0f80a413f10b2a?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=637&amp;width=862&amp;height=485"
+      },
+      "description": "Snow has arrived in Tasmania on Christmas morning, but hotter conditions are expected around the country, including a scorcher in the west.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-25/christmas-day-weather-snow-in-tasmania-heat-across-australia/106178338"
     },
     {
       "published_datetime": "2025-12-24T21:30:12.000000Z",
@@ -127,6 +127,15 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-25/christmas-travel-public-transport-vline-cost/106171426"
     },
     {
+      "published_datetime": "2025-12-24T18:52:29.000000Z",
+      "title": "The last 600 Christians in Gaza mark Christmas with heavy hearts",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cbdcf7dbb56e6b9155721dc5c49442d7?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The small number of Christians remaining in Gaza have marked Christmas early with subdued celebrations in the shadow of ongoing conflict and occupation.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-25/gaza-remaining-christians-mark-christmas-subdued-celebrations/106177982"
+    },
+    {
       "published_datetime": "2025-12-24T19:22:50.000000Z",
       "title": "What you need to know before you buy lab-grown versus natural diamonds",
       "featured_image": {
@@ -134,15 +143,6 @@
       },
       "description": "Diamonds are generally considered a luxury asset that holds its value, but the emergence of laboratory-grown diamonds in the jewellery industry over recent years could challenge that belief.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-25/what-to-know-about-laboratory-grown-and-natural-diamonds/106167962"
-    },
-    {
-      "published_datetime": "2025-12-24T19:25:26.000000Z",
-      "title": "How second-hand shopping could be fuelling consumption",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9d38fac401ce717778c738538a3912ab?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The rising popularity of second-hand and vintage fashion has been viewed as an opportunity to reduce fast fashion consumption; however, Australia remains one of the world's highest waste producers.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-25/qld-second-hand-shopping-thrifting-consumption-apps/106173026"
     },
     {
       "published_datetime": "2025-12-24T18:30:00.000000Z",
@@ -182,7 +182,7 @@
     },
     {
       "published_datetime": "2025-12-24T19:30:34.000000Z",
-      "title": "Celebrating with chosen family and local community quells holiday blues",
+      "title": "Festive 'Friendsmas' celebrations combat loneliness, social isolation",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d4ba99c13647c1d27c39044cfabb81b6?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
       },
