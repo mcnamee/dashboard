@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/33fdd071-8a27-4f12-9077-7448d30ae152",
+      "published_datetime": "2025-12-25T05:13:47.104150",
+      "title": "AI maps 360,000 DNA knots regulating gene activity",
+      "featured_image": {
+        "url": "https://www.nature.com/articles/s41557-021-00736-9",
+        "name": "Chemical profiling of DNA G-quadruplex-interacting proteins ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--EPySYoCY--/t_limit/https://media.springernature.com/full/springer-static/image/art%253A10.1038%252Fs41557-021-00736-9/MediaObjects/41557_2021_736_Figa_HTML.png",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--5OQe0h-f--/t_thumbnail/https://media.springernature.com/full/springer-static/image/art%253A10.1038%252Fs41557-021-00736-9/MediaObjects/41557_2021_736_Figa_HTML.png"
+      },
+      "description": "An international research team has created the first comprehensive map of DNA quadruplexes\u2014temporary knot-like structures that regulate when genes turn on and off\u2014using artificial intelligence to identify approximately 360,000 of these formations across the human genome[1][2]. The findings, published October 13 in Nucleic Acids Research and announced by HSE University on December 23, reveal a new mechanism for understanding how gene regulation shifts in cancer cells[3][1][4].\n\nThe researchers trained an AI model called GQ-DNABERT on EndoQuad, the world's largest database of experimentally validated quadruplexes, to predict where these structures form throughout the genome[1][2]. Unlike simpler algorithms, the model considers surrounding DNA context to determine whether a guanine-rich sequence will actually fold into a quadruplex[1][2].",
+      "audio_url": "",
+      "url": "ai-maps-360000-dna-knots-contr-PI.HTlBHRhSISzXQVEGmqw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-25T03:50:21.000000Z",
       "title": "Charity, church services and cheer as Australians give back on Christmas Day",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/acc3640d-a26c-4a23-ba86-2f4af2f5120d",
-      "published_datetime": "2025-12-24T16:03:46.231386",
-      "title": "Space agencies plan historic moon, Mars missions in 2026",
-      "featured_image": {
-        "url": "https://www.yahoo.com/news/articles/6-spaceflights-ahead-2026-nasa-110313213.html",
-        "name": "6 spaceflights ahead in 2026, from NASA moon missions to SpaceX Starship",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--QDpjP8VZ--/t_limit/https://s.yimg.com/ny/api/res/1.2/zKnEc7v7uNNMa4SOiQ6oCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_news_641/315379720aa6d086b227b106eef6c5b7",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--HGk4sCFr--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/zKnEc7v7uNNMa4SOiQ6oCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_news_641/315379720aa6d086b227b106eef6c5b7"
-      },
-      "description": "International space agencies are gearing up for an intensive year of lunar and interplanetary exploration, with NASA, China, India, and Europe planning historic missions that could reshape human understanding of the solar system.\n\nNASA's Artemis II mission leads the charge, targeting a launch as early as February 5, 2026, according to agency officials[1][2]. The 10-day lunar flyby will carry four astronauts\u2014Commander Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch, and Canadian Space Agency astronaut Jeremy Hansen\u2014marking humanity's first crewed journey beyond low Earth orbit since Apollo 17 in 1972[3][4]. The crew has named their Orion spacecraft \"Integrity\"[5][6].\n\nChina plans to launch Chang'e 7 to the Moon's south pole in August 2026, where the mission will search for water ice deposits using an innovative \"hopping\" probe equipped with a water molecule analyzer[7][8]. The spacecraft will include an orbiter, lander, rover, and flying probe, spending up to two months examining permanently shadowed craters near Shackleton crater[7][9]. China also expects to launch its Xuntian space telescope by late December 2026, a facility with a field of view 300 times larger than Hubble's that will co-orbit with the Tiangong space station[10][11].\n\nIndia's space agency ISRO aims to conduct its first uncrewed Gaganyaan test flight by March 2026, carrying Vyommitra, a humanoid test robot[12][13]. The mission will validate critical systems for India's planned 2027 crewed spaceflight, making India potentially the fourth nation to independently launch astronauts[12][14]. ISRO Chairman V. Narayanan confirmed that 90% of Gaganyaan's development work has been completed, with human-rated launch vehicles and life support systems nearing completion[15].",
-      "audio_url": "",
-      "url": "global-space-agencies-plan-maj-YkAkdpHOQdi3GSxoq_MWRQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-24T14:04:44.000000Z",
       "title": "US and Ukraine reach consensus on key issues to end war with Russia",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-25T05:17:49.793946"
+  "merged_at": "2025-12-25T05:30:55.792845"
 }
