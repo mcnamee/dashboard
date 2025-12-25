@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1b9c230c-52ba-4ba1-81b2-b25eae5c3d2f",
+      "published_datetime": "2025-12-25T11:35:43.595985",
+      "title": "Pope Leo XIV highlights Gaza crisis in first Christmas Mass",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2025/12/25/pope-leo-laments-suffering-of-gaza-palestinians-in-first-christmas-sermon",
+        "name": "Pope Leo laments suffering of Gaza Palestinians in first Christmas ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--qlOj9Rtl--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-25T095250Z_528665205_RC2LNIA3DLED_RTRMADP_3_CHRISTMAS-SEASON-POPE-1766656819.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--my3OK-Ky--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-25T095250Z_528665205_RC2LNIA3DLED_RTRMADP_3_CHRISTMAS-SEASON-POPE-1766656819.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "Pope Leo XIV used his inaugural Christmas Mass as pontiff to draw attention to Palestinians sheltering in Gaza, marking an unusually direct appeal on a day traditionally reserved for solemn spiritual reflection[1][2][3].\n\nPresiding over the Christmas Day service at St. Peter's Basilica before thousands of worshippers, the first American pope invoked the story of Jesus's birth in a stable to reference the humanitarian crisis facing displaced Gazans. \"How, then, can we not think of the tents in Gaza, exposed for weeks to rain, wind and cold?\" Leo asked, referring to God having \"pitched his fragile tent\" among humanity[1][2][3][4].\n\nThe 69-year-old Chicago native, who was elected in May following Pope Francis's death, also lamented conditions for homeless populations worldwide and condemned the destruction wrought by global conflicts. \"Fragile is the flesh of defenseless populations, tried by so many wars, ongoing or concluded, leaving behind rubble and open wounds,\" he said[1][3][4]. He criticized \"the falsehoods that fill the pompous speeches of those who send them to their deaths\" regarding young soldiers forced into combat[2][3].",
+      "audio_url": "",
+      "url": "pope-leo-xiv-highlights-gaza-s-B2tYqV7oRX61HVjUj2w6tg",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5d1efe46-b873-4b6e-81ca-a96375449a17",
       "published_datetime": "2025-12-25T11:11:52.638271",
       "title": "China warns US arms sales to Taiwan speed war threat",
@@ -226,21 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-25/tropical-cyclone-grant-impacts-cocos-islands-christmas-day/106178056"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e8529dfd-420c-4e5b-aa02-106c08188d50",
-      "published_datetime": "2025-12-24T21:12:51.543217",
-      "title": "Iran's Khamenei authorized compact nuclear warheads, report claims",
-      "featured_image": {
-        "url": "https://sg.news.yahoo.com/irans-khamenei-authorised-small-nuclear-144820530.html",
-        "name": "Has Iran's Khamenei authorised small nuclear weapons? What we ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--j1Dp_RyQ--/t_limit/https://media.zenfs.com/en/euronews_sg_articles_551/7803bf38aac10fe10d39299234aa8832",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--tOEWvAxR--/t_thumbnail/https://media.zenfs.com/en/euronews_sg_articles_551/7803bf38aac10fe10d39299234aa8832"
-      },
-      "description": "Iran's Supreme Leader Ali Khamenei authorized the development of compact nuclear warheads for ballistic missiles in October, marking a reversal of years of restraint following the June war with Israel, according to a report released Wednesday by the Italian Institute for International Political Studies[1][2][3].\n\nThe authorization does not permit uranium enrichment beyond 60 percent, ISPI reported, citing sources in Tehran who had previously denied any such decision existed[2][3]. The Italian think tank indicated that Khamenei had consistently blocked the final decision to escalate to 90 percent weapons-grade enrichment and initiate miniaturized warhead creation, despite pressure from the Revolutionary Guards[2][3].\n\nISPI's analysis suggests the June conflict fundamentally altered Iran's strategic calculus. The 12-day war, which ran from June 13-24, revealed Iran's air defense systems were largely ineffective, with only medium-range missile capabilities proving reliable[2][3][4]. Tehran may have concluded that nuclear weapons would serve as its only viable deterrent against Israel and the United States, the report stated[2][3].",
-      "audio_url": "",
-      "url": "iran-s-khamenei-reportedly-aut-XRgnLRbtQieMP0yvY15AEw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-21T01:29:00.000000Z",
       "title": "Russia says talks on US peace plan for Ukraine 'are proceeding constructively'",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-25T12:25:22.068225"
+  "merged_at": "2025-12-25T12:55:22.997484"
 }
