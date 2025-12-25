@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-25T07:16:42.000000Z",
+      "title": "Crane collapse, thousands without power after Christmas Day storms in SEQ",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6e093b3e0bdf97be68aebcbae6753e6?impolicy=wcms_crop_resize&amp;cropH=332&amp;cropW=590&amp;xPos=16&amp;yPos=75&amp;width=862&amp;height=485"
+      },
+      "description": "Storms hit south-east Queensland on Christmas Day afternoon, knocking out power to thousands of homes.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-25/qld-crane-collapse-gold-coast-christmas-day/106178834"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/966c667a-9ac5-4476-9489-ef04760ff13c",
       "published_datetime": "2025-12-25T06:36:04.386326",
       "title": "Nvidia licenses Groq's AI chip tech, hires execs in $20B deal",
@@ -19,7 +28,7 @@
       "published_datetime": "2025-12-25T05:49:50.000000Z",
       "title": "Bushfires trigger major blackouts on sweltering 42C Christmas Day",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/852a7a62066c21a1e33f6a52d701031e?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=592&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ae60296a6db5dd17f876c2fd4cd81d6?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=463&amp;width=862&amp;height=485"
       },
       "description": "Several bushfires burning north and south of Perth have caused major power blackouts, including the entire town of Margaret River.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-25/christmas-day-boddington-bushfire-emergency/106178756"
@@ -232,15 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-24T14:04:44.000000Z",
-      "title": "US and Ukraine reach consensus on key issues to end war with Russia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/22297fd4272c5f59872d65d50acb2772?impolicy=wcms_crop_resize&amp;cropH=1034&amp;cropW=1839&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "President Volodymyr Zelenskyy has said that Ukraine has reached consensus with the US on key issues to end the war with Russia but sensitive issues around territorial control, along with the management of a nuclear power plant, still remain unresolved.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-25/us-ukraine-reach-consensus-on-key-issues-to-end-war/106178118"
-    },
-    {
       "published_datetime": "2025-12-21T01:29:00.000000Z",
       "title": "Russia says talks on US peace plan for Ukraine 'are proceeding constructively'",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-25T08:36:18.407701"
+  "merged_at": "2025-12-25T09:15:49.872127"
 }
