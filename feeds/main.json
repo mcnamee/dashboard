@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-25T15:02:26.000000Z",
+      "title": "King pays homage to acts of 'spontaneous bravery' in Christmas message",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/927a0cd17ba45d0a4e76f3832be326fd?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "King Charles III pays homage to those who confronted terror at the Bondi Beach massacre, acknowledging their \"spontaneous acts of bravery\" in his annual Christmas message.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/king-charles-pays-homage-to-bondi-bravery-in-christmas-message/106176872"
+    },
+    {
       "published_datetime": "2025-12-25T13:18:00.000000Z",
       "title": "Ukraine reports deadly Russian drone strikes into Christmas morning",
       "featured_image": {
@@ -229,15 +238,6 @@
       "page_content_url": "https://abcnews.go.com/International"
     },
     {
-      "published_datetime": "2025-12-24T23:23:39.000000Z",
-      "title": "White Christmas in Tasmania as heat climbs in other states",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a254543fd0039a45ff0f80a413f10b2a?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=637&amp;width=862&amp;height=485"
-      },
-      "description": "Snow has arrived in Tasmania on Christmas morning, but hotter conditions are expected around the country, including a scorcher in the west.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-25/christmas-day-weather-snow-in-tasmania-heat-across-australia/106178338"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/47517c5f-db48-4421-9cba-7e16cf02ddd0",
       "published_datetime": "2025-12-24T23:04:23.398268",
       "title": "Trump-backed Asfura wins disputed Honduras election",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-25T15:27:32.005193"
+  "merged_at": "2025-12-25T16:16:27.538264"
 }
