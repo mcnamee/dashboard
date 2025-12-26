@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-26T03:31:11.000000Z",
+      "title": "Mother and stepson drift 10 kilometres in Christmas paddleboard mishap",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7af2348f5d1d2dde652e2959f4cfe740?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Police say two holidaymakers are lucky to be alive after being rescued from the cold waters of Port Phillip, south-west of Melbourne, on Christmas Day.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/victoria-family-rescued-christmas-day-paddelboard-mishap/106179858"
+    },
+    {
       "published_datetime": "2025-12-26T02:52:08.000000Z",
       "title": "Poland intercepts Russian plane, reports airspace breaches from Belarus",
       "featured_image": {
@@ -26,7 +35,7 @@
     },
     {
       "published_datetime": "2025-12-26T02:03:44.000000Z",
-      "title": "Storms cause deadly floods and mudslides in Southern California",
+      "title": "Man killed by falling tree as three die in floods and mudslides in California",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f42601c2641657b2006500f4938ecae3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -48,7 +57,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef809b4ff453173b15821d3deff81b43?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "The world-famous Sydney to Hobart yacht race begins on Sydney Harbour in the 80th edition of the blue water classic. Follow all the action in our live blog.",
+      "description": "The fleet is headed south down the NSW coast, led by LawConnect as strong winds and big swells are expected on day one of the blue water classic. Follow all the action in our live blog.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-26/sydney-to-hobart-yacht-race-live-blog/106179718"
     },
     {
@@ -62,9 +71,9 @@
     },
     {
       "published_datetime": "2025-12-26T00:34:40.000000Z",
-      "title": "Thousands of hectares burnt in Boddington fire with winds set to escalate",
+      "title": "Thousands of hectares burnt in WA bushfire, with winds set to escalate",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1120dec36b6aa87deaf7ee28389a0bc9?impolicy=wcms_crop_resize&amp;cropH=658&amp;cropW=1170&amp;xPos=0&amp;yPos=796&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bbaf13c40d04db4e379459ddd762cda?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=135&amp;width=862&amp;height=485"
       },
       "description": "The Department of Fire and Emergency Services says the fire's behaviour is erratic, with a serious risk of spot fires presented by embers.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-26/boddington-fire-western-australia-christmas-fires/106179544"
@@ -94,15 +103,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-25T23:00:42.000000Z",
-      "title": "T\u00fcrkiye detains 115 alleged IS members planning 'Christmas attacks'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b6e666699d4b2b02031833d4376ab363?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Istanbul's prosecutor general says intelligence picked up on plans for potential Islamic State attacks during the end-of-year holiday period.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-26/turkiye-detains-115-alleged-is-members/106179536"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/40553417-68b0-482c-ad8e-4e420b469c69",
       "published_datetime": "2025-12-25T22:45:17.288292",
       "title": "Kim Jong Un vows five more years of missile development",
@@ -119,11 +119,11 @@
     },
     {
       "published_datetime": "2025-12-25T22:34:44.000000Z",
-      "title": "Live: Aussie wickets keep falling after lunch as England takes advantage of MCG greentop",
+      "title": "Live: Australia slumps to 152 all out as England fight at the MCG",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dfdef270f258aba239d25dc362d1d9b1?impolicy=wcms_crop_resize&amp;cropH=1691&amp;cropW=3007&amp;xPos=314&amp;yPos=113&amp;width=862&amp;height=485"
       },
-      "description": "Australia's tail is exposed early in the second session after England won the toss and chose to bowl first under cloudy skies on a green-tinged MCG pitch. Follow live.",
+      "description": "Australia is cleaned up by a superb England bowling effort, with Josh Tongue claiming a five wicket haul on Boxing Day at the MCG. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-26/live-updates-ashes-boxing-day-test-australia-vs-england-day-one/106179504"
     },
     {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-26T04:00:07.458326"
+  "merged_at": "2025-12-26T04:28:51.700226"
 }
