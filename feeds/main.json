@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/12f817af-7745-4194-b1b3-824057173b62",
+      "published_datetime": "2025-12-26T21:13:08.042286",
+      "title": "Trump and Zelensky to meet Sunday on Ukraine peace framework",
+      "featured_image": {
+        "url": "https://www.cbsnews.com/news/russia-ukraine-war-zelenskyy-trump-meeting-near-future/",
+        "name": "Zelenskyy says he and Trump have agreed to meet \"in the near future\"",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--A7MOsyXO--/t_limit/https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/24/89b85089-442e-4fca-9c1f-db2a007c0a4f/thumbnail/1200x630/5def457dc4d9789238d20f8529c928fe/cbsn-fusion-zelenskyy-could-visit-us-this-week-as-trump-pushes-him-to-accept-peace-deal-thumbnail.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--pjL9wvmP--/t_thumbnail/https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/24/89b85089-442e-4fca-9c1f-db2a007c0a4f/thumbnail/1200x630/5def457dc4d9789238d20f8529c928fe/cbsn-fusion-zelenskyy-could-visit-us-this-week-as-trump-pushes-him-to-accept-peace-deal-thumbnail.jpg"
+      },
+      "description": "Ukrainian President Volodymyr Zelensky confirmed Friday he will meet with President Donald Trump on Sunday at Mar-a-Lago in Florida to discuss a 20-point peace framework aimed at ending Russia's nearly four-year war in Ukraine, signaling what both sides describe as progress toward a potential agreement[1][2][3][4][5].\n\nThe high-stakes meeting comes as diplomatic efforts intensify, with Zelensky stating the plan is \"about 90% ready\" and expressing hope that \"a lot can be decided before the New Year\"[4][6][7]. The announcement follows what Zelensky described as a \"very good conversation\" on Christmas Day with Trump's special envoy Steve Witkoff and his son-in-law Jared Kushner, during which they discussed \"new ideas\" for bringing the conflict to a close[1][8][9][10].",
+      "audio_url": "",
+      "url": "trump-and-zelensky-to-meet-sun-OJoNibqGT1ieltRYZ23Y5g",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-26T21:10:06.000000Z",
       "title": "Parts of Queensland bracing for heavy rain and potential flooding",
       "featured_image": {
@@ -280,21 +295,6 @@
       "page_content_url": "https://abcnews.go.com/International"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/02f8a5a1-cfd7-450f-a48e-ce67928e23cf",
-      "published_datetime": "2025-12-25T19:27:56.498315",
-      "title": "China rejects Pentagon claim on border de-escalation with India",
-      "featured_image": {
-        "url": "https://timesofindia.indiatimes.com/india/pentagon-report-china-seeks-to-capitalise-on-easing-lac-tensions-aims-to-blunt-indiaus-ties/articleshow/126162363.cms",
-        "name": "Pentagon report: China seeks to capitalise on easing LAC ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--L4NRYjc9--/t_limit/https://static.toiimg.com/thumb/msid-126162396%2Cwidth-1280%2Cheight-720%2Cresizemode-4/126162396.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--EHQn6l1f--/t_thumbnail/https://static.toiimg.com/thumb/msid-126162396%2Cwidth-1280%2Cheight-720%2Cresizemode-4/126162396.jpg"
-      },
-      "description": "China on Thursday sharply criticized a US Pentagon report that assessed Beijing is using reduced border tensions with India to prevent deeper strategic alignment between New Delhi and Washington, calling the analysis a distortion intended to justify American military dominance.\n\nForeign Ministry spokesperson Lin Jian responded to the December 23 Pentagon assessment at a regular press briefing in Beijing, stating that the report \"distorts China's defense policy, sows discord between China and other countries, and aims at finding a pretext for the U.S. to maintain its military supremacy\"[1][2][3][4][5][6]. Lin emphasized that China views its relationship with India \"from a strategic height and a long-term perspective\" and said the boundary question remains strictly bilateral[1][2][7][8]. \"China opposes relevant country's groundless and irresponsible comments,\" he added[1].",
-      "audio_url": "",
-      "url": "china-criticizes-us-pentagon-r-Hq5jwDKlQB6OSKr6nbQp0g",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-25T19:00:00.000000Z",
       "title": "Russian court sentences pro-war activist and Putin critic to 6 years in prison",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-26T22:13:28.570745"
+  "merged_at": "2025-12-26T22:26:28.683928"
 }
