@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-26T03:51:14.000000Z",
+      "title": "Sydney to Hobart pays tribute to Bondi victims with petals",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5f16bcdb8b6663adc364bb8a4fac7061?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "LawConnect, winner of the the 2023 and 2024 races, throws petals near Bondi Beach in a touching gesture to honour terror attack victims at the start of this year's classic on Boxing Day.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/sydney-to-hobart-boat-tributes-bondi-victims-with-petals-/106180276"
+    },
+    {
       "published_datetime": "2025-12-26T03:31:11.000000Z",
       "title": "Mother and stepson drift 10 kilometres in Christmas paddleboard mishap",
       "featured_image": {
@@ -34,15 +43,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-26T02:03:44.000000Z",
-      "title": "Man killed by falling tree as three die in floods and mudslides in California",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f42601c2641657b2006500f4938ecae3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "State authorities have declared a state of emergency in several counties, including Los Angeles.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-26/storms-cause-floods-mudslides-and-deaths-southern-california/106179572"
-    },
-    {
       "published_datetime": "2025-12-26T01:59:35.000000Z",
       "title": "US judge blocks deportation of anti-disinformation activist",
       "featured_image": {
@@ -71,7 +71,7 @@
     },
     {
       "published_datetime": "2025-12-26T00:34:40.000000Z",
-      "title": "Thousands of hectares burnt in WA bushfire, with winds set to escalate",
+      "title": "Out-of-control Boddington bushfire burns through thousands of hectares",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bbaf13c40d04db4e379459ddd762cda?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=135&amp;width=862&amp;height=485"
       },
@@ -119,11 +119,11 @@
     },
     {
       "published_datetime": "2025-12-25T22:34:44.000000Z",
-      "title": "Live: Australia slumps to 152 all out as England fight at the MCG",
+      "title": "Live: English top order obliterated after Australia slumps to 152 at MCG",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dfdef270f258aba239d25dc362d1d9b1?impolicy=wcms_crop_resize&amp;cropH=1691&amp;cropW=3007&amp;xPos=314&amp;yPos=113&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e2a9ee4e2381a8a5e5f89c83a8566371?impolicy=wcms_crop_resize&amp;cropH=2419&amp;cropW=4300&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Australia is cleaned up by a superb England bowling effort, with Josh Tongue claiming a five wicket haul on Boxing Day at the MCG. Follow live.",
+      "description": "Australia hits back with the ball after being cleaned up by a superb England bowling effort, with Josh Tongue claiming a five-wicket haul on Boxing Day at the MCG. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-26/live-updates-ashes-boxing-day-test-australia-vs-england-day-one/106179504"
     },
     {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-26T04:43:14.659275"
+  "merged_at": "2025-12-26T05:15:46.679139"
 }
