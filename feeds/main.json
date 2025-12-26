@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-26T12:54:25.000000Z",
+      "title": "At least 14 injured in a knife and chemical attack at factory in Japan",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c8ea2bb37c081df05d8430133307b0a1?impolicy=wcms_crop_resize&amp;cropH=2232&amp;cropW=3968&amp;xPos=0&amp;yPos=206&amp;width=862&amp;height=485"
+      },
+      "description": "A man has been arrested after stabbing eight people at a factory in the Japanese city of Mishima.\u00a0 \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/at-least-14-injured-in-japan-knife-and-chemical-attack/106180698"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/69216eb6-743b-4b7a-8d32-c4540b19689e",
       "published_datetime": "2025-12-26T11:35:20.280372",
       "title": "China's maglev hits 700 km/h in 2 seconds, setting world record",
@@ -80,15 +89,6 @@
       "audio_url": "",
       "url": "zelenskyy-holds-talks-with-tru-6bUtllZwRCucIdj6c9yZEQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-26T01:59:35.000000Z",
-      "title": "US judge blocks deportation of anti-disinformation activist",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c3c8505b4cbe49e8e865bf403eb3c17a?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A US judge temporarily blocks the Trump administration from detaining a British man over his work combating online hate and disinformation.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-26/us-barred-from-deporting-campaigner-imran-ahmed/106179794"
     },
     {
       "published_datetime": "2025-12-26T01:03:01.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-26T12:55:26.904540"
+  "merged_at": "2025-12-26T13:27:49.540144"
 }
