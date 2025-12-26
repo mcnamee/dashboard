@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/69216eb6-743b-4b7a-8d32-c4540b19689e",
+      "published_datetime": "2025-12-26T11:35:20.280372",
+      "title": "China's maglev hits 700 km/h in 2 seconds, setting world record",
+      "featured_image": {
+        "url": "https://www.scmp.com/news/china/science/article/3337735/chinas-record-smashing-maglev-achieves-0-700km/h-acceleration-less-2-seconds",
+        "name": "China's record-smashing maglev achieves 0-700km/h ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--WXw0mody--/t_limit/https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2025/12/25/c9025cde-d676-426d-9889-427579fbb797_d58e2bba.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--D7WxK22t--/t_thumbnail/https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2025/12/25/c9025cde-d676-426d-9889-427579fbb797_d58e2bba.jpg"
+      },
+      "description": "Chinese researchers have achieved a world record in magnetic levitation technology by accelerating a ton-class test vehicle to 700 kilometers per hour in just two seconds, state broadcaster CCTV reported Thursday[1][2][3][4]. The breakthrough marks the fastest superconducting electric maglev speed ever recorded and positions China at the forefront of ultra-high-speed transportation development.\n\nThe test, conducted by the National University of Defense Technology on a 400-meter track, saw the vehicle reach extreme acceleration before coming to a safe stop[1][2][5][4]. Footage released by CCTV showed the vehicle resembling a chassis flashing across the track, leaving a trail of mist in its wake[3]. The achievement follows a decade of research overcoming technical challenges including ultra-high-speed electromagnetic propulsion, electric suspension guidance, and high-field superconducting magnets[2][6][7].",
+      "audio_url": "",
+      "url": "china-sets-world-record-with-7-k5CUNNqzTFWbeFulRWkDQQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-26T09:51:09.000000Z",
       "title": "Zelenskyy says he will meet with Trump 'in the near future'",
       "featured_image": {
@@ -235,21 +250,6 @@
       "page_content_url": "https://abcnews.go.com/International"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1b9c230c-52ba-4ba1-81b2-b25eae5c3d2f",
-      "published_datetime": "2025-12-25T11:35:43.595985",
-      "title": "Pope Leo XIV highlights Gaza crisis in first Christmas Mass",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2025/12/25/pope-leo-laments-suffering-of-gaza-palestinians-in-first-christmas-sermon",
-        "name": "Pope Leo laments suffering of Gaza Palestinians in first Christmas ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--qlOj9Rtl--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-25T095250Z_528665205_RC2LNIA3DLED_RTRMADP_3_CHRISTMAS-SEASON-POPE-1766656819.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--my3OK-Ky--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-25T095250Z_528665205_RC2LNIA3DLED_RTRMADP_3_CHRISTMAS-SEASON-POPE-1766656819.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "Pope Leo XIV used his inaugural Christmas Mass as pontiff to draw attention to Palestinians sheltering in Gaza, marking an unusually direct appeal on a day traditionally reserved for solemn spiritual reflection[1][2][3].\n\nPresiding over the Christmas Day service at St. Peter's Basilica before thousands of worshippers, the first American pope invoked the story of Jesus's birth in a stable to reference the humanitarian crisis facing displaced Gazans. \"How, then, can we not think of the tents in Gaza, exposed for weeks to rain, wind and cold?\" Leo asked, referring to God having \"pitched his fragile tent\" among humanity[1][2][3][4].\n\nThe 69-year-old Chicago native, who was elected in May following Pope Francis's death, also lamented conditions for homeless populations worldwide and condemned the destruction wrought by global conflicts. \"Fragile is the flesh of defenseless populations, tried by so many wars, ongoing or concluded, leaving behind rubble and open wounds,\" he said[1][3][4]. He criticized \"the falsehoods that fill the pompous speeches of those who send them to their deaths\" regarding young soldiers forced into combat[2][3].",
-      "audio_url": "",
-      "url": "pope-leo-xiv-highlights-gaza-s-B2tYqV7oRX61HVjUj2w6tg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-25T00:00:00.000000Z",
       "title": "Turkey begins black box analysis of jet crash that killed Libyan military chief",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-26T12:25:27.662559"
+  "merged_at": "2025-12-26T12:55:26.904540"
 }
