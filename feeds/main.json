@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d9c1b4b6-41bd-4f57-b05b-800fd3fe0d30",
+      "published_datetime": "2025-12-26T16:29:00.908513",
+      "title": "Japan approves record $58B defense budget amid China tensions",
+      "featured_image": {
+        "url": "https://abcnews.go.com/International/wireStory/japans-cabinet-oks-record-defense-budget-aims-deter-128697811",
+        "name": "Japan's Cabinet OKs record defense budget that aims to deter China",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--YaUJgXIa--/t_limit/https://i.abcnewsfe.com/a/ab11837c-51ac-4d6f-9e06-7cf608bbce2f/wirestory_221b2cb5da0760d6e07f63ac01deba93_16x9.jpg%3Fw%3D1600",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--DcrWaZl2--/t_thumbnail/https://i.abcnewsfe.com/a/ab11837c-51ac-4d6f-9e06-7cf608bbce2f/wirestory_221b2cb5da0760d6e07f63ac01deba93_16x9.jpg%3Fw%3D1600"
+      },
+      "description": "Japan's Cabinet approved a record defense budget exceeding 9 trillion yen ($58 billion) on Friday, marking a 9.4% increase from the previous year as Tokyo accelerates its military buildup in response to escalating tensions with China[1][2][3][4]. The fiscal 2026 budget, which begins in April, represents the fourth year of Japan's five-year program to double annual arms spending to 2% of gross domestic product, positioning the country to become the world's third-largest defense spender after the United States and China[2][5][6].\n\n\"This budget represents the absolute minimum required for Japan to fulfill its defense obligations as it faces its most severe and complex security environment in the postwar period,\" Defense Minister Shinjiro Koizumi told reporters Friday[7][8]. The draft budget, part of a record 122.3 trillion yen ($784 billion) national spending plan, requires parliamentary approval by March to take effect[2][4][9].",
+      "audio_url": "",
+      "url": "japan-approves-record-defense-ntkAK2bHQnSHpF5xPLv1Kg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-26T15:00:00.000000Z",
       "title": "Zelenskyy says meeting with Trump agreed",
       "featured_image": {
@@ -298,21 +313,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3c3f67c5-9cde-469a-847e-b280c71fd548",
-      "published_datetime": "2025-12-25T17:15:31.915866",
-      "title": "Ukraine delivers US-backed peace plan to Russia",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/europe/ukraine-hands-revised-20-point-peace-plan-proposal-us-abc-news-reports-2025-12-11/",
-        "name": "Ukraine hands revised 20-point peace plan proposal to US, ABC News reports",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--nmMAFTEZ--/t_limit/https://www.reuters.com/resizer/v2/PMWUCYQJ5VLJ5OSEHTJMIU5JWY.jpg%3Fauth%3D05c01d02ca9bf532755a92ef422591d93af87f3e028cd3c9db3f2cee4fa2d5f6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--hPo2EocC--/t_thumbnail/https://www.reuters.com/resizer/v2/PMWUCYQJ5VLJ5OSEHTJMIU5JWY.jpg%3Fauth%3D05c01d02ca9bf532755a92ef422591d93af87f3e028cd3c9db3f2cee4fa2d5f6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Ukrainian President Volodymyr Zelenskyy presented a revised 20-point peace proposal on December 23 after weeks of negotiations with US officials, offering potential pathways to end the nearly four-year war with Russia\u2014even as Moscow launched deadly drone strikes on Christmas night that killed at least two people[1][2].\n\nThe plan, developed jointly by Ukrainian and American negotiators, includes NATO-style security guarantees and proposes demilitarized zones in eastern Ukraine, according to Zelenskyy's presentation to journalists in Kyiv[2][3][4]. The framework was formally delivered to Russian President Vladimir Putin's government on December 24, though the Kremlin has given no indication it will accept the terms[2][3].",
-      "audio_url": "",
-      "url": "ukraine-unveils-us-backed-20-p-5CU.KSujTj2qnEX8aNEzuw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-25T17:00:00.000000Z",
       "title": "Algeria votes to declare French colonization a crime and demands restitution",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-26T16:15:02.200037"
+  "merged_at": "2025-12-26T16:32:13.353351"
 }
