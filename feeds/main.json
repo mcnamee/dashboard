@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-26T09:51:09.000000Z",
+      "title": "Zelenskyy says he will meet with Trump 'in the near future'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/084cafb52ab9fa55be7c5721c3b07344?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Ukrainian President Volodymyr Zelenskyy says he has agreed to meet with US President Donald Trump in the near future and that they are working hard to end the war with Russia.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/volodymyr-zelenskyy-donald-trump-meeting-peace-plan-russia/106180632"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7421f2ea-aecb-4b90-abd8-91ed41e44752",
       "published_datetime": "2025-12-26T08:35:23.107068",
       "title": "Interstellar comet sheds unusually large particles",
@@ -56,15 +65,6 @@
       "audio_url": "",
       "url": "zelenskyy-holds-talks-with-tru-6bUtllZwRCucIdj6c9yZEQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-26T02:03:44.000000Z",
-      "title": "Man killed by falling tree as three die in floods and mudslides in California",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f42601c2641657b2006500f4938ecae3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "State authorities have declared a state of emergency in several counties, including Los Angeles.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-26/storms-cause-floods-mudslides-and-deaths-southern-california/106179572"
     },
     {
       "published_datetime": "2025-12-26T01:59:35.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-26T10:29:16.550062"
+  "merged_at": "2025-12-26T11:12:32.479618"
 }
