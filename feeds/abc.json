@@ -2,21 +2,12 @@
   "items": [
     {
       "published_datetime": "2025-12-25T22:34:44.000000Z",
-      "title": "Live: Australia slumps to 152 all out as England fight at the MCG",
+      "title": "Live: English top order obliterated after Australia slumps to 152 at MCG",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dfdef270f258aba239d25dc362d1d9b1?impolicy=wcms_crop_resize&amp;cropH=1691&amp;cropW=3007&amp;xPos=314&amp;yPos=113&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e2a9ee4e2381a8a5e5f89c83a8566371?impolicy=wcms_crop_resize&amp;cropH=2419&amp;cropW=4300&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Australia is cleaned up by a superb England bowling effort, with Josh Tongue claiming a five wicket haul on Boxing Day at the MCG. Follow live.",
+      "description": "Australia hits back with the ball after being cleaned up by a superb England bowling effort, with Josh Tongue claiming a five-wicket haul on Boxing Day at the MCG. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-26/live-updates-ashes-boxing-day-test-australia-vs-england-day-one/106179504"
-    },
-    {
-      "published_datetime": "2025-12-26T01:03:01.000000Z",
-      "title": "Live: LawConnect first out of the Heads for the 80th Sydney to Hobart",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef809b4ff453173b15821d3deff81b43?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The fleet is headed south down the NSW coast, led by LawConnect as strong winds and big swells are expected on day one of the blue water classic. Follow all the action in our live blog.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-26/sydney-to-hobart-yacht-race-live-blog/106179718"
     },
     {
       "published_datetime": "2025-12-26T03:31:11.000000Z",
@@ -28,8 +19,26 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-26/victoria-family-rescued-christmas-day-paddelboard-mishap/106179858"
     },
     {
+      "published_datetime": "2025-12-26T01:03:01.000000Z",
+      "title": "Live: LawConnect first out of the Heads for the 80th Sydney to Hobart",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef809b4ff453173b15821d3deff81b43?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The fleet is headed south down the NSW coast, led by LawConnect as strong winds and big swells are expected on day one of the blue water classic. Follow all the action in our live blog.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/sydney-to-hobart-yacht-race-live-blog/106179718"
+    },
+    {
+      "published_datetime": "2025-12-26T03:51:14.000000Z",
+      "title": "Sydney to Hobart pays tribute to Bondi victims with petals",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5f16bcdb8b6663adc364bb8a4fac7061?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "LawConnect, winner of the the 2023 and 2024 races, throws petals near Bondi Beach in a touching gesture to honour terror attack victims at the start of this year's classic on Boxing Day.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/sydney-to-hobart-boat-tributes-bondi-victims-with-petals-/106180276"
+    },
+    {
       "published_datetime": "2025-12-26T00:34:40.000000Z",
-      "title": "Thousands of hectares burnt in WA bushfire, with winds set to escalate",
+      "title": "Out-of-control Boddington bushfire burns through thousands of hectares",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bbaf13c40d04db4e379459ddd762cda?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=135&amp;width=862&amp;height=485"
       },
@@ -44,15 +53,6 @@
       },
       "description": "Officers in Melbourne's south continue to investigate an arson attack on a car with a Hanukkah decoration in the early hours of Christmas morning.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-26/police-name-person-of-interest-hanukkah-vehicle-arson/106179668"
-    },
-    {
-      "published_datetime": "2025-12-25T21:27:53.000000Z",
-      "title": "Christmas celebrations around the world in photos",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/24f53fdf1846855b2f259ca2aa073d2a?impolicy=wcms_crop_resize&amp;cropH=2221&amp;cropW=3949&amp;xPos=0&amp;yPos=429&amp;width=862&amp;height=485"
-      },
-      "description": "From Bethlehem to Beijing, people around the world have been celebrating Christmas in their own traditional way.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-26/christmas-celebrations-around-the-world/106179306"
     },
     {
       "published_datetime": "2025-12-26T01:59:35.000000Z",
@@ -73,6 +73,15 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-26/donald-trump-ordered-strikes-against-islamic-state-nigeria/106179626"
     },
     {
+      "published_datetime": "2025-12-25T21:27:53.000000Z",
+      "title": "Christmas celebrations around the world in photos",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/24f53fdf1846855b2f259ca2aa073d2a?impolicy=wcms_crop_resize&amp;cropH=2221&amp;cropW=3949&amp;xPos=0&amp;yPos=429&amp;width=862&amp;height=485"
+      },
+      "description": "From Bethlehem to Beijing, people around the world have been celebrating Christmas in their own traditional way.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/christmas-celebrations-around-the-world/106179306"
+    },
+    {
       "published_datetime": "2025-12-26T02:52:08.000000Z",
       "title": "Poland intercepts Russian plane, reports airspace breaches from Belarus",
       "featured_image": {
@@ -91,6 +100,24 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-26/storms-cause-floods-mudslides-and-deaths-southern-california/106179572"
     },
     {
+      "published_datetime": "2025-12-26T02:47:14.000000Z",
+      "title": "Teenager accused of Nazi salutes granted bail in ACT court",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/27d9588807d053a131c0e04133be7013?impolicy=wcms_crop_resize&amp;cropH=2081&amp;cropW=3699&amp;xPos=2&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "An 18-year-old Canberra man accused of performing Nazi salutes in public and spreading extremist propaganda has been released on strict bail conditions after spending Christmas Day in custody.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/teen-zachery-hook-charged-nazi-salutes-canberra/106179974"
+    },
+    {
+      "published_datetime": "2025-12-26T04:19:21.000000Z",
+      "title": "Police investigating Boxing Day stabbing death north of Alice Springs",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/61860fdd83ca1c41d6be86ee2a80e1bf?impolicy=wcms_crop_resize&amp;cropH=2807&amp;cropW=4991&amp;xPos=0&amp;yPos=311&amp;width=862&amp;height=485"
+      },
+      "description": "Northern Territory police are investigating after a 35-year-old man was stabbed to death in a small town north-west of Alice Springs on Friday.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/laramba-stabbing-death-police-seek-to-identify-offender/106180286"
+    },
+    {
       "published_datetime": "2025-12-26T00:24:11.000000Z",
       "title": "Were you paying attention to the news cycle this year?",
       "featured_image": {
@@ -98,15 +125,6 @@
       },
       "description": "The new year is fast approaching and it's naturally got ABC journalists reflecting on the year that's been. But how much of it do you remember? ",
       "page_content_url": "https://www.abc.net.au/news/2025-12-26/year-in-news-quiz-2025/106131666"
-    },
-    {
-      "published_datetime": "2025-12-25T18:48:07.000000Z",
-      "title": "Litchfield National Park under threat from near-invisible invader",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bba32503fec3a8eee90d44bd4092b622?impolicy=wcms_crop_resize&amp;cropH=1238&amp;cropW=2200&amp;xPos=0&amp;yPos=191&amp;width=862&amp;height=485"
-      },
-      "description": "Much-loved by locals and bringing in more than 250,000 visitors a year, Litchfield National Park has become one of the Northern Territory's star attractions. But it's under threat from a rampant new species.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-26/nt-national-park-under-threat-from-invasive-gamba-grass-weed/106167898"
     },
     {
       "published_datetime": "2025-12-26T03:51:13.000000Z",
@@ -118,15 +136,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-26/japan-approves-record-defence-spending-china-tensions/106180112"
     },
     {
-      "published_datetime": "2025-12-26T02:47:14.000000Z",
-      "title": "Teenager accused of Nazi salutes granted bail in ACT court",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/27d9588807d053a131c0e04133be7013?impolicy=wcms_crop_resize&amp;cropH=2081&amp;cropW=3699&amp;xPos=2&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "An 18-year-old Canberra man accused of performing Nazi salutes in public and spreading extremist propaganda has been released on strict bail conditions after spending Christmas Day in custody.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-26/teen-zachery-hook-charged-nazi-salutes-canberra/106179974"
-    },
-    {
       "published_datetime": "2025-12-26T03:22:36.000000Z",
       "title": "Man charged with assaulting pregnant woman, shooting at police",
       "featured_image": {
@@ -134,15 +143,6 @@
       },
       "description": "A 39-year-old man has been remanded in custody after police allege he fired multiple shots at officers during a Christmas Eve incident in Canberra's north.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-26/canberra-man-charged-firing-gun-police-whitlam/106179976"
-    },
-    {
-      "published_datetime": "2025-12-26T02:11:49.000000Z",
-      "title": "US Powerball lottery jackpot pays out $2.7 billion on Christmas Eve",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cf96ed42760792bf180297f33b9f04fb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The winning ticket was sold at a Murphy USA in Cabot, lottery officials in Arkansas said on Thursday, local time.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-26/powerball-lottery-us-jackpot-winner-arkansas/106179926"
     },
     {
       "published_datetime": "2025-12-26T04:05:12.000000Z",
@@ -154,6 +154,24 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-26/southern-crust-bakery-photography-exhibition/106169972"
     },
     {
+      "published_datetime": "2025-12-25T18:48:07.000000Z",
+      "title": "Iconic Top End national park under threat from near-invisible invader",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bba32503fec3a8eee90d44bd4092b622?impolicy=wcms_crop_resize&amp;cropH=1238&amp;cropW=2200&amp;xPos=0&amp;yPos=191&amp;width=862&amp;height=485"
+      },
+      "description": "Much-loved by locals and bringing in more than 250,000 visitors a year, Litchfield National Park has become one of the Northern Territory's star attractions. But it's under threat from a near-invisible invader.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/nt-national-park-under-threat-from-invasive-gamba-grass-weed/106167898"
+    },
+    {
+      "published_datetime": "2025-12-26T02:11:49.000000Z",
+      "title": "US Powerball lottery jackpot pays out $2.7 billion on Christmas Eve",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cf96ed42760792bf180297f33b9f04fb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The winning ticket was sold at a Murphy USA in Cabot, lottery officials in Arkansas said on Thursday, local time.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/powerball-lottery-us-jackpot-winner-arkansas/106179926"
+    },
+    {
       "published_datetime": "2025-12-25T23:00:42.000000Z",
       "title": "Türkiye detains 115 alleged IS members planning 'Christmas attacks'",
       "featured_image": {
@@ -161,24 +179,6 @@
       },
       "description": "Istanbul's prosecutor general says intelligence picked up on plans for potential Islamic State attacks during the end-of-year holiday period.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-26/turkiye-detains-115-alleged-is-members/106179536"
-    },
-    {
-      "published_datetime": "2025-12-25T23:24:36.000000Z",
-      "title": "Putin critic and pro-war activist jailed by Russian court",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8cceda959a95be56924af10df9a15e48?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Sergei Udaltsov, the leader of the Left Front movement that opposes President Vladimir Putin, was arrested last year.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-26/russian-court-sentences-war-activist-and-putin-critic-to-prison/106179590"
-    },
-    {
-      "published_datetime": "2025-12-25T15:02:26.000000Z",
-      "title": "King praises acts of 'spontaneous bravery' in Christmas message",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/927a0cd17ba45d0a4e76f3832be326fd?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "King Charles III pays homage to those who confronted terror at the Bondi Beach massacre, acknowledging their \"spontaneous acts of bravery\" in his annual Christmas message.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-26/king-charles-pays-homage-to-bondi-bravery-in-christmas-message/106176872"
     },
     {
       "published_datetime": "2025-12-26T00:02:11.000000Z",
@@ -199,31 +199,31 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-26/boxing-day-test-medal-presenter-honours-aboriginal-cricket-team/106137822"
     },
     {
-      "published_datetime": "2025-12-25T23:31:00.000000Z",
-      "title": "Neighbours shut down street to settle who makes the best lasagne",
+      "published_datetime": "2025-12-25T23:24:36.000000Z",
+      "title": "Putin critic and pro-war activist jailed by Russian court",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fe2243018da6e09a7ba211d14ea450db?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8cceda959a95be56924af10df9a15e48?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Neighbours in Perth's southern suburbs are baking-off in an annual lasagne-making competition that shuts down the entire street and has been running since 1998.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-26/lasagne-competition-in-south-fremantle-resumes-italy-taste/106155364"
+      "description": "Sergei Udaltsov, the leader of the Left Front movement that opposes President Vladimir Putin, was arrested last year.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/russian-court-sentences-war-activist-and-putin-critic-to-prison/106179590"
     },
     {
-      "published_datetime": "2025-12-25T21:45:31.000000Z",
-      "title": "Why Aus Open organisers will be torn on Kyrgios's wildcard berth",
+      "published_datetime": "2025-12-25T15:02:26.000000Z",
+      "title": "King praises acts of 'spontaneous bravery' in Christmas message",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c2ab74179befcc9c7b81966cf3f86343?impolicy=wcms_crop_resize&amp;cropH=2325&amp;cropW=4133&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/927a0cd17ba45d0a4e76f3832be326fd?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Nick Kyrgios remains one of Australian tennis' biggest names, but, according to Mark Philippoussis, there are clear pros and cons to offering him a wildcard berth for the Australian Open. ",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-26/nick-kyrgios-australian-open-wildcard-update/106179426"
+      "description": "King Charles III pays homage to those who confronted terror at the Bondi Beach massacre, acknowledging their \"spontaneous acts of bravery\" in his annual Christmas message.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/king-charles-pays-homage-to-bondi-bravery-in-christmas-message/106176872"
     },
     {
-      "published_datetime": "2025-12-25T21:29:46.000000Z",
-      "title": "USA varsity basketball a 'dream come true' for First Nations teens",
+      "published_datetime": "2025-12-25T20:42:47.000000Z",
+      "title": "Feeding the hungry in the car park of a suburban swimming pool",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/289afc64e8f29ae8b51e8f83097fccbf?impolicy=wcms_crop_resize&amp;cropH=1278&amp;cropW=2272&amp;xPos=0&amp;yPos=181&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6a7ad8ceb3c7d0fe90b150ac95e117e5?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
       },
-      "description": "School attendance was just as important as a jump shot for the scouts picking a First Nations team to take part in a prestigious US basketball competition.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-26/indigenous-basketball-team-heads-to-usa/106158408"
+      "description": "For almost six years, Aunty's Free Feeds has been serving home-cooked meals to anybody who needs them from a pop-up buffet in the car park of a swimming pool. ",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-26/feeding-the-hungry-food-insecurity-nt-australia/106168364"
     }
   ]
 }
