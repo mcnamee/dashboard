@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-27T04:52:11.000000Z",
+      "title": "Using ChatGPT to plan a holiday? How to find the road less travelled",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/516787ea932eda24dcb0432ac38a0599?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=54&amp;width=862&amp;height=485"
+      },
+      "description": "Will new technology lead to streamlined service and stress-free travel, or will it fundamentally change tourism and tourist destinations?",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-27/tourist-new-technology-ai-travel-smart-tourism/105956560"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a10d24d6-1c7f-4a4b-88c4-e7aeeeb699ad",
       "published_datetime": "2025-12-27T01:00:46.615496",
       "title": "Russian forces launch major assault on Kyiv",
@@ -74,7 +83,7 @@
     },
     {
       "published_datetime": "2025-12-26T22:48:49.000000Z",
-      "title": "Live: Duckett departs as Bazball unleashes with England's batters wrecking havoc",
+      "title": "Live: Duckett departs as Bazball unleashes with England's batters wreaking havoc",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0d8b7c97ffea3ccf5e006850d9df0637?impolicy=wcms_crop_resize&amp;cropH=950&amp;cropW=1689&amp;xPos=0&amp;yPos=205&amp;width=862&amp;height=485"
       },
@@ -137,15 +146,6 @@
       },
       "description": "When politicians and most staff are away for the summer holidays, a ravenous group of fly-in workers descend on Parliament House.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-27/ladybugs-released-at-canberra-parliament-house/106160100"
-    },
-    {
-      "published_datetime": "2025-12-26T19:41:51.000000Z",
-      "title": "When green energy threatens what it is meant to save",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a5e14cf8a8c8a3e0c33822956271cea2?impolicy=wcms_crop_resize&amp;cropH=577&amp;cropW=1025&amp;xPos=0&amp;yPos=175&amp;width=862&amp;height=485"
-      },
-      "description": "In a tiny town near the Victoria\u2013South Australia border, a proposed wind farm near a protected wetland is posing a big question for Australia's planning regulators.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-27/nelson-wetlands-green-energy-boom-planning-protections/106097868"
     },
     {
       "published_datetime": "2025-12-26T19:24:32.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-27T04:39:33.342005"
+  "merged_at": "2025-12-27T05:14:37.712700"
 }
