@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-28/vic-mother-pushes-for-safer-pool-fences-one-year-since-drowning/106085692"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/31463549-9ae5-4826-88d2-4cfac9a1a1f0",
+      "published_datetime": "2025-12-27T20:20:40.206092",
+      "title": "Silver, platinum and gold shatter records in year-end rally",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2025/12/12/gold-hits-seven-week-high-on-safe-haven-demand-silver-notches-peak.html",
+        "name": "Gold hits seven-week high on safe-haven demand; silver notches peak",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--PQO-tOsS--/t_limit/https://image.cnbcfm.com/api/v1/image/108238806-1765258568701-gettyimages-2247229169-_a7v5857.jpeg%3Fv%3D1765539229%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--gMEP4xpN--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108238806-1765258568701-gettyimages-2247229169-_a7v5857.jpeg%3Fv%3D1765539229%26w%3D1920%26h%3D1080"
+      },
+      "description": "Silver surged past $77 an ounce for the first time on Friday, while gold and platinum shattered records in a dramatic year-end rally driven by supply shortages, expectations of Federal Reserve rate cuts, and geopolitical tensions that sent investors fleeing to safe-haven assets.\n\nSpot silver jumped 7% to $77.12 an ounce, marking its highest level ever and capping a roughly 167% gain for 2025[1][2]. Gold climbed to around $4,533 an ounce, with futures reaching $4,559[1], positioning the yellow metal for its strongest annual performance since 1979. Platinum vaulted nearly 9% to $2,411, briefly touching $2,448[1], while palladium advanced close to 10% to approximately $1,851[1].",
+      "audio_url": "",
+      "url": "silver-platinum-and-gold-hit-r-vvTa8fMnQhao5XIg4Rystw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-27T20:08:28.000000Z",
       "title": "How teens stay connected to friends, family overseas without social media",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a95a5869-56a9-44cb-b0a9-71e76eb7ac0b",
-      "published_datetime": "2025-12-26T19:04:02.666649",
-      "title": "Webb telescope detects most distant supernova ever seen",
-      "featured_image": {
-        "url": "https://www.discovermagazine.com/newly-detected-supernova-exploded-when-the-universe-was-just-730-million-years-old-smashing-records-48402",
-        "name": "Newly Detected Supernova Exploded When the Universe Was Just ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--kmabduIn--/t_limit/https://cdn.discovermagazine.com/assets/image/58069/supernovae-x.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--DpvKaw0V--/t_thumbnail/https://cdn.discovermagazine.com/assets/image/58069/supernovae-x.jpg"
-      },
-      "description": "Four years after its Christmas Day launch, the James Webb Space Telescope continues to reshape astronomy, with scientists this month announcing the detection of the most distant supernova ever observed\u2014a massive stellar explosion from when the universe was only 730 million years old.\n\nThe discovery, published in early December in Astronomy & Astrophysics, marks a significant milestone as JWST reaches its fourth anniversary. Launched on December 25, 2021, the $10 billion telescope has proven capable of observing nearly 98% of the way back to the Big Bang[1][2][3].",
-      "audio_url": "",
-      "url": "james-webb-space-telescope-rev-AX2IAWmWR4OdC7uLPReBTg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-26T15:00:00.000000Z",
       "title": "Zelenskyy says meeting with Trump agreed",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-27T21:11:39.321507"
+  "merged_at": "2025-12-27T21:23:37.523848"
 }
