@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/faf8cd40-a85b-4840-859f-c568d76ed042",
+      "published_datetime": "2025-12-27T10:29:20.076247",
+      "title": "NASA to launch Pandora satellite to search for alien life",
+      "featured_image": {
+        "url": "https://www.space.com/the-universe/exoplanets/nasa-picks-spacex-to-launch-pandora-exoplanet-mission",
+        "name": "NASA picks SpaceX to launch Pandora exoplanet mission | Space",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--EroyzUyT--/t_limit/https://cdn.mos.cms.futurecdn.net/toTJ2UZ2ExdKHbMEGq7DTg-840-80.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ixwmoq3N--/t_thumbnail/https://cdn.mos.cms.futurecdn.net/toTJ2UZ2ExdKHbMEGq7DTg-840-80.jpg"
+      },
+      "description": "NASA and Lawrence Livermore National Laboratory are preparing to launch the Pandora Mission in early January, a compact satellite designed to probe distant planets for signs of life by analyzing their atmospheric composition. The spacecraft bus was completed in January 2025, with the mission now targeting a January 5, 2026 launch from Vandenberg Space Force Base in California aboard a SpaceX Falcon 9 rocket, according to the mission's principal investigator[1].\n\nThe $20 million mission represents NASA's latest effort to identify potentially habitable worlds beyond our solar system, focusing on detecting water vapor and other biosignatures in the atmospheres of at least 20 known exoplanets[1][2]. Funded under NASA's Astrophysics Pioneers program, which emphasizes small, ambitious missions with tight budget constraints, Pandora aims to complement observations from the James Webb Space Telescope by addressing a persistent challenge in exoplanet research: separating the light signatures of planets from those of their host stars[1][3].",
+      "audio_url": "",
+      "url": "nasa-and-lawrence-livermore-la-Cy2HtZQzShuer64uq0d95w",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e5c332d9-5208-463a-b267-0e84e5c7fdbd",
       "published_datetime": "2025-12-27T09:24:52.574135",
       "title": "Russian strike cuts power, heat to hundreds of thousands in Kyiv",
@@ -235,21 +250,6 @@
       "page_content_url": "https://abcnews.go.com/International"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4c16338d-0bcf-4d5c-8e59-d7b3386e43e9",
-      "published_datetime": "2025-12-26T14:27:13.705696",
-      "title": "Trump orders Christmas Day airstrikes against ISIS in Nigeria",
-      "featured_image": {
-        "url": "https://abcnews.go.com/International/trump-threatens-cut-off-aid-nigeria-military-action/story?id=127097323",
-        "name": "Trump doesn't rule out US troops on the ground in Nigeria ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--SZMw-a48--/t_limit/https://i.abcnewsfe.com/a/ea7f0e5e-88e5-4e8f-9b67-90b3b4ed9fac/donald-trump-11-gty-gmh-251030_1761830181725_hpMain.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--u2y21bMa--/t_thumbnail/https://i.abcnewsfe.com/a/ea7f0e5e-88e5-4e8f-9b67-90b3b4ed9fac/donald-trump-11-gty-gmh-251030_1761830181725_hpMain.jpg"
-      },
-      "description": "President Donald Trump announced Thursday that the United States conducted airstrikes against Islamic State militants in northwest Nigeria on Christmas Day, marking the first confirmed U.S. military action in the West African nation amid escalating tensions over religious violence.\n\nU.S. Africa Command confirmed the operation took place December 25 in Sokoto State and was coordinated with Nigerian authorities[1]. \"Tonight, at my direction as Commander in Chief, the United States launched a powerful and deadly strike against ISIS Terrorist Scum in Northwest Nigeria, who have been targeting and viciously killing, primarily, innocent Christians, at levels not seen for many years, and even Centuries!\" Trump wrote on Truth Social[2][3][4].\n\nThe strikes represent a dramatic escalation following weeks of mounting pressure on Nigeria's government. Trump had threatened military intervention as early as November, warning the U.S. would enter Nigeria \"guns-a-blazing\" if violence against Christians continued[5][6]. The Pentagon declined to provide details on casualties or specific targets struck[2][4].",
-      "audio_url": "",
-      "url": "trump-orders-airstrikes-agains-jw.4w9r0S.eAN5zXzD83QA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-26T14:00:00.000000Z",
       "title": "Yemen separatists accuse Saudi Arabia of launching airstrikes against their forces",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-27T11:10:38.448689"
+  "merged_at": "2025-12-27T11:21:59.296480"
 }
