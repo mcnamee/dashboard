@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f167191a-21e6-4d41-9498-9df4b98c7569",
+      "published_datetime": "2025-12-27T18:29:00.307274",
+      "title": "Canada pledges $2.5B to Ukraine ahead of Trump talks",
+      "featured_image": {
+        "url": "https://www.gettyimages.com/detail/news-photo/canadian-prime-minister-mark-carney-arrives-on-parliament-news-photo/2251887300",
+        "name": "CANADA-POLITICS-CARNEY",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1766859822/getty_uploads/2251887300_vrbs3i.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1766859822/getty_uploads/2251887300_vrbs3i.jpg"
+      },
+      "description": "Canadian Prime Minister Mark Carney announced Saturday that Canada will provide an additional $2.5 billion in economic aid to Ukraine, a commitment designed to help Kyiv unlock crucial financing from the International Monetary Fund as peace negotiations between Ukraine and Russia enter a critical phase.\n\nThe announcement came during a meeting between Carney and Ukrainian President Volodymyr Zelenskyy in Halifax, Nova Scotia, ahead of Zelenskyy's scheduled talks with U.S. President Donald Trump on Sunday at Mar-a-Lago in Florida[1][2][3][4][5].\n\n\"The assistance will help Ukraine unlock financing from the International Monetary Fund,\" Carney said during the appearance with Zelenskyy, who also spoke briefly to reporters[1][2][3].",
+      "audio_url": "",
+      "url": "canada-announces-2-5-billion-e-sY3Bwe2aSgS3BWrKDrZBNQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/86025b8e-bfd9-48e4-a2d7-308de3395a66",
       "published_datetime": "2025-12-27T11:50:18.501828",
       "title": "Scientists depart for month-long Antarctic glacier study",
@@ -226,21 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-27/epstein-files-victim-grooming/106179662"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/937eecc3-c223-44d7-8eb8-4415f4291d72",
-      "published_datetime": "2025-12-26T18:41:20.624785",
-      "title": "Nigeria rejects Trump's genocide claim after U.S. airstrikes",
-      "featured_image": {
-        "url": "https://guardian.ng/news/no-one-should-be-made-to-suffer-for-practising-his-faith-tinubu/",
-        "name": "No one should be made to suffer for practising his faith - Tinubu",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--XutdnOmf--/t_limit/https://cdn.guardian.ng/wp-content/uploads/2025/12/President-Bola-Ahmed-Tinubu-6-2.webp",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--kpHxgKSa--/t_thumbnail/https://cdn.guardian.ng/wp-content/uploads/2025/12/President-Bola-Ahmed-Tinubu-6-2.webp"
-      },
-      "description": "Nigerian government officials and security analysts have strongly rejected President Donald Trump's characterization that U.S. airstrikes in northwestern Nigeria on Christmas Day were necessary to stop a genocide of Christians, insisting that Islamic extremist violence in the West African nation affects both Muslim and Christian communities equally.\n\n\"It has nothing to do with a particular religion,\" Foreign Minister Yusuf Tuggar told the BBC following the strikes in Sokoto State[1][2]. \"It is about protecting Nigerians and innocent lives, whether Nigerian or non-Nigerian.\"\n\nThe joint U.S.-Nigerian operation, which U.S. Africa Command said killed \"multiple ISIS terrorists,\" came after months of Trump threatening military action over what he described as systematic killing of Christians[3]. In announcing the strikes on Truth Social, Trump claimed militants had been \"targeting and viciously killing, primarily, innocent Christians, at levels not seen for many years, and even Centuries!\"[4][5]",
-      "audio_url": "",
-      "url": "nigeria-disputes-trump-claims-c6cVbfBETIe5Gs0VxAs9PQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-26T15:00:00.000000Z",
       "title": "Zelenskyy says meeting with Trump agreed",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-27T19:10:12.604407"
+  "merged_at": "2025-12-27T19:20:40.841462"
 }
