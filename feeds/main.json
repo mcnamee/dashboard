@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e5c332d9-5208-463a-b267-0e84e5c7fdbd",
+      "published_datetime": "2025-12-27T09:24:52.574135",
+      "title": "Russian strike cuts power, heat to hundreds of thousands in Kyiv",
+      "featured_image": {
+        "url": "https://www.reuters.com/business/energy/half-ukraines-capital-dark-after-russian-strikes-ministry-says-2025-12-09/",
+        "name": "Half of Ukraine's capital in the dark after Russian strikes, ministry says",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--QOcAKTS6--/t_limit/https://www.reuters.com/resizer/v2/OI2QUKAWDZMFJPFR34LMRLI3IU.jpg%3Fauth%3D0fc35ac6f2e220a539ed5da48a637ab3df85c30acce861691ea3a6d747ccc382%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--A39siz5F--/t_thumbnail/https://www.reuters.com/resizer/v2/OI2QUKAWDZMFJPFR34LMRLI3IU.jpg%3Fauth%3D0fc35ac6f2e220a539ed5da48a637ab3df85c30acce861691ea3a6d747ccc382%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "A prolonged Russian assault on Kyiv early Saturday left more than 320,000 households without power and cut heating to nearly one-third of Ukraine's capital, as Moscow launched a massive barrage of missiles and drones targeting the city's energy infrastructure[1][2].\n\nThe attack, which lasted over nine hours beginning around 1 a.m. local time, killed one woman in the Kyiv region and injured at least 19 people in the capital, according to city officials[3][2][4]. The assault damaged residential buildings across seven districts and sparked multiple fires, forcing emergency evacuations from a university dormitory and a nursing home[5][2].\n\nKyiv Mayor Vitali Klitschko reported that approximately one-third of the city's more than 3 million residents lost heat as temperatures hovered near freezing[6][3][7]. \"Almost a third of the capital is now without heat supply. There is no electricity in some areas of the left bank,\" Klitschko stated on Telegram[7]. DTEK, Ukraine's largest private energy company, implemented emergency power cuts across Kyiv and surrounding regions following instructions from national grid operator Ukrenergo[1][8].",
+      "audio_url": "",
+      "url": "russian-attack-triggers-major-kiFHvf1fQoaepD59.n_1AA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-27T08:55:20.000000Z",
       "title": "Risk of violent antisemitism during Hanukkah raised weeks before Bondi attack",
       "featured_image": {
@@ -262,21 +277,6 @@
       "page_content_url": "https://abcnews.go.com/International"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/69216eb6-743b-4b7a-8d32-c4540b19689e",
-      "published_datetime": "2025-12-26T11:35:20.280372",
-      "title": "China's maglev hits 700 km/h in 2 seconds, setting world record",
-      "featured_image": {
-        "url": "https://www.scmp.com/news/china/science/article/3337735/chinas-record-smashing-maglev-achieves-0-700km/h-acceleration-less-2-seconds",
-        "name": "China's record-smashing maglev achieves 0-700km/h ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--WXw0mody--/t_limit/https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2025/12/25/c9025cde-d676-426d-9889-427579fbb797_d58e2bba.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--D7WxK22t--/t_thumbnail/https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2025/12/25/c9025cde-d676-426d-9889-427579fbb797_d58e2bba.jpg"
-      },
-      "description": "Chinese researchers have achieved a world record in magnetic levitation technology by accelerating a ton-class test vehicle to 700 kilometers per hour in just two seconds, state broadcaster CCTV reported Thursday[1][2][3][4]. The breakthrough marks the fastest superconducting electric maglev speed ever recorded and positions China at the forefront of ultra-high-speed transportation development.\n\nThe test, conducted by the National University of Defense Technology on a 400-meter track, saw the vehicle reach extreme acceleration before coming to a safe stop[1][2][5][4]. Footage released by CCTV showed the vehicle resembling a chassis flashing across the track, leaving a trail of mist in its wake[3]. The achievement follows a decade of research overcoming technical challenges including ultra-high-speed electromagnetic propulsion, electric suspension guidance, and high-field superconducting magnets[2][6][7].",
-      "audio_url": "",
-      "url": "china-sets-world-record-with-7-k5CUNNqzTFWbeFulRWkDQQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-25T23:00:00.000000Z",
       "title": "Japan's Cabinet OKs record defense budget that aims to deter China",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-27T10:13:09.764758"
+  "merged_at": "2025-12-27T10:27:31.075502"
 }
