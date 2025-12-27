@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-27T08:55:20.000000Z",
+      "title": "Risk of violent antisemitism during Hanukkah raised weeks before Bondi attack",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c16e333f757a5e3060dd10ef672a561?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
+      },
+      "description": "A document by the Jewish Community Security Group NSW raised the alarm about the threat of Islamic extremism and Jihadist-inspired lone-actor attacks.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-27/security-risks-bondi-hanukkah-raised-weeks-before-terror-attack/106181812"
+    },
+    {
       "published_datetime": "2025-12-27T06:58:43.000000Z",
       "title": "Australia belted, England vindicated and Test cricket wounded in MCG farce",
       "featured_image": {
@@ -19,17 +28,8 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-27/police-investigate-tattooed-man-at-newcastle-beach/106180310"
     },
     {
-      "published_datetime": "2025-12-27T04:59:51.000000Z",
-      "title": "'Traumatised' residents return home after Christmas Day fire forced them to flee",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3410fe2b39f1299f23b073c6c9edcea3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Residents have begun returning to their homes after a bushfire burning south-east of Perth forced them to flee on Christmas Day.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-27/residents-return-home-after-boddington-fire/106181310"
-    },
-    {
       "published_datetime": "2025-12-27T04:52:11.000000Z",
-      "title": "Using ChatGPT to plan a holiday? How to find the road less travelled",
+      "title": "How AI and 'smart tourism' is changing the way we travel",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/516787ea932eda24dcb0432ac38a0599?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=54&amp;width=862&amp;height=485"
       },
@@ -46,6 +46,15 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-27/thailand-and-cambodia-agree-to-ceasefire-/106181650"
     },
     {
+      "published_datetime": "2025-12-27T01:46:13.000000Z",
+      "title": "Labor party identity fighting for life after alleged assault in Perth",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bdc15123ba4d46dc974c49e377efd94c?impolicy=wcms_crop_resize&amp;cropH=588&amp;cropW=1045&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Tim Picton, who spearheaded the campaign behind WA Labor's landslide 2021 victory, is in a critical condition in hospital after he was allegedly assaulted in Northbridge.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-27/man-critical-following-serious-assault-northbridge/106181328"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a10d24d6-1c7f-4a4b-88c4-e7aeeeb699ad",
       "published_datetime": "2025-12-27T01:00:46.615496",
       "title": "Russian forces launch major assault on Kyiv",
@@ -59,15 +68,6 @@
       "audio_url": "",
       "url": "kyiv-under-massive-russian-att-_WYFkEykTbi9tDkQeE3tNA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-27T00:40:12.000000Z",
-      "title": "Ukrainian capital Kyiv under Russian attack, officials say",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba4113b793b06a8d055656da088dde76?impolicy=wcms_crop_resize&amp;cropH=1539&amp;cropW=2737&amp;xPos=0&amp;yPos=219&amp;width=862&amp;height=485"
-      },
-      "description": "Explosions have been heard, air defences are in operation and the military is on alert for impending missile attacks.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-27/ukrainian-capital-kyiv-under-russian-attack-officials-say/106181284"
     },
     {
       "published_datetime": "2025-12-27T00:03:53.000000Z",
@@ -153,7 +153,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4fa94919c072e8fffbc54ca47262e74e?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=1182&amp;width=862&amp;height=485"
       },
-      "description": "Master Lock Comanche and rival LawConnect are battling for line honours in the 80th Sydney to Hobart Yacht Race, with a growing list of teams pulling out because of equipment failure.",
+      "description": "Crews are battling sea sickness and tough conditions as teams head for the finish in the 2025 Sydney to Hobart yacht race.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-27/sydney-to-hobart-yacht-race-day-two/106180992"
     },
     {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-27T09:27:05.293238"
+  "merged_at": "2025-12-27T10:13:09.764758"
 }
