@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/68716121-d146-4e6a-91de-d50653aec79c",
+      "published_datetime": "2025-12-28T11:50:13.922056",
+      "title": "China develops surface that turns radar into electricity",
+      "featured_image": {
+        "url": "https://www.business-standard.com/external-affairs-defence-security/news/china-6g-smart-surface-stealth-jets-radar-power-wireless-tech-125122800094_1.html",
+        "name": "How China's 6G smart surface could turn radar into a power source",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--PSNDCq3Z--/t_limit/https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/25/thumb/fitandfill/1200X630/1750844507-3742.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--E_x2YVBm--/t_thumbnail/https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/25/thumb/fitandfill/1200X630/1750844507-3742.jpeg"
+      },
+      "description": "Chinese scientists at Xidian University have developed a multifunctional electromagnetic surface capable of converting radar waves into usable electricity, a breakthrough that could reshape both military stealth operations and next-generation wireless communications[1][2][3][4].\n\nThe technology, published in the December 2025 issue of National Science Review, employs reconfigurable intelligent surfaces (RIS) that can simultaneously harvest energy from ambient electromagnetic waves while supporting 6G telecommunications[4]. Instead of simply evading enemy radar, future stealth aircraft could absorb those same detection beams to power onboard systems or communications equipment, according to the research team led by Yajie Mu and colleagues[1][2][3].",
+      "audio_url": "",
+      "url": "china-unveils-6g-smart-surface-5oIopLM1QzW.0VFXr3NyJQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-28T10:38:18.000000Z",
       "title": "Brigitte Bardot, the French star you 'had to see to believe'",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7d66ca77-8508-4b90-936e-662329841436",
-      "published_datetime": "2025-12-26T23:20:53.635007",
-      "title": "U.S. researchers identify Russian missile site in Belarus",
-      "featured_image": {
-        "url": "https://wtvbam.com/2025/12/26/russia-likely-placing-new-hypersonic-missiles-at-former-airbase-in-belarus-researchers-find/",
-        "name": "Russia likely placing new hypersonic missiles at former ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--MlQ7vmiK--/t_limit/https://storage.googleapis.com/media.mwcradio.com/mimesis/2025-12/26/2025-12-26T191553Z_1_LYNXMPELBP0I6_RTROPTP_3_BELARUS-RUSSIA-DRILLS.JPG",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--_KctVY2e--/t_thumbnail/https://storage.googleapis.com/media.mwcradio.com/mimesis/2025-12/26/2025-12-26T191553Z_1_LYNXMPELBP0I6_RTROPTP_3_BELARUS-RUSSIA-DRILLS.JPG"
-      },
-      "description": "U.S. researchers have identified the likely location where Russia is stationing nuclear-capable hypersonic missiles in Belarus, a deployment that underscores Moscow's growing reliance on nuclear threats as tensions with NATO escalate.\n\nJeffrey Lewis of the Middlebury Institute of International Studies and Decker Eveleth of the CNA Corporation said Thursday they are 90% certain the Oreshnik missiles are being placed at a former airbase near Krichev, about 190 miles east of Minsk and just three miles from the Russian border[1][2][3]. The researchers based their findings on satellite imagery from Planet Labs showing hurried construction that began in August[2][3].\n\n\"One dead giveaway in a November 19 photo is a military-grade rail transfer point enclosed by a security fence to which missiles, their mobile launchers and other components could be delivered by train,\" Eveleth said[2]. The imagery also revealed a concrete pad at the end of the runway that was covered with earth, consistent with a camouflaged launch point[2][3].",
-      "audio_url": "",
-      "url": "russia-deploys-hypersonic-miss-GC.Qr.b5S7a12iNnOTaicA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-26T15:00:00.000000Z",
       "title": "Zelenskyy says meeting with Trump agreed",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T12:24:13.132083"
+  "merged_at": "2025-12-28T12:53:53.824974"
 }
