@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-28T13:01:12.000000Z",
+      "title": "Families of Bondi victims call for federal royal commission",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/627ee78a166cf2bfb7b193ebf08ca8f0?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=138&amp;width=862&amp;height=485"
+      },
+      "description": "Loved ones of those killed and injured in the Bondi Beach attack say rising antisemitism requires a \"powerful national response\", piling pressure on Anthony Albanese for a royal commission.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-29/bondi-beach-victim-families-call-for-federal-royal-comission/106183188"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/68716121-d146-4e6a-91de-d50653aec79c",
       "published_datetime": "2025-12-28T11:50:13.922056",
       "title": "China develops surface that turns radar into electricity",
@@ -35,11 +44,11 @@
     },
     {
       "published_datetime": "2025-12-28T06:31:51.000000Z",
-      "title": "Comanche gets 'redemption' for last year after winning Sydney to Hobart line honours",
+      "title": "Comanche gets 'redemption' for last year after winning race line honours",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7c91a222872f3cdb4d3fdac61224051c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Master Lock Comanche claims line honours in the 80th edition of the gruelling yacht race, with a stunning daylight hours finish, making up for retiring early in last year's race.",
+      "description": "Master Lock Comanche claims line honours in the 80th edition of the gruelling Sydney to Hobart yacht race, with a stunning daylight hours finish, making up for retiring early in last year's race.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-28/live-blog-sydney-to-hobart-yacht-race-tracking-the-finish/106182756"
     },
     {
@@ -65,15 +74,6 @@
       "audio_url": "",
       "url": "nasa-faces-scrutiny-as-interst-FZklBvMdRm.K9.PxbkmxVA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-28T04:47:13.000000Z",
-      "title": "Sending army to protect Sydney's Jewish community 'not off the table'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8e3781d13cc4e53981020368dc36833e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Sydneysiders can expect to see more police officers carrying long-armed guns in the weeks ahead, with the premier not ruling out sending troops to protect the Jewish community.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-28/army-protecting-sydney-jewish-community-not-ruled-out-premier/106182770"
     },
     {
       "published_datetime": "2025-12-28T03:43:29.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T12:53:53.824974"
+  "merged_at": "2025-12-28T13:24:36.782421"
 }
