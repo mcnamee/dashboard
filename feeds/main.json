@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/24569f09-3b7b-4ad1-9c6e-26035822042a",
+      "published_datetime": "2025-12-28T05:09:21.276912",
+      "title": "NASA under pressure to release data on anomalous comet",
+      "featured_image": {
+        "url": "https://www.livescience.com/space/comets/new-nasa-esa-images-show-3i-atlas-getting-active-ahead-of-its-close-encounter-with-earth",
+        "name": "New NASA, ESA images show 3I/ATLAS getting active ahead of its close encounter with Earth",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--btq6RsYS--/t_limit/https://cdn.mos.cms.futurecdn.net/umPXKLjQBUWNTQcxUpcvBL-1200-80.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--cyAF_-CI--/t_thumbnail/https://cdn.mos.cms.futurecdn.net/umPXKLjQBUWNTQcxUpcvBL-1200-80.jpg"
+      },
+      "description": "The interstellar comet 3I/ATLAS, which passed Earth last week at a distance of 167 million miles, continues to generate controversy as scientists and lawmakers press NASA for greater transparency about the third confirmed visitor from beyond our solar system[1][2]. The rare cosmic object has exhibited unpredictable trajectory changes and unusual features that challenge standard comet models, intensifying calls for the release of raw observational data[3][4].\n\nIn late December, astronomers observed that 3I/ATLAS had deviated from its predicted path due to non-gravitational acceleration\u2014forces not accounted for by gravity alone[3][5]. According to Harvard astrophysicist Avi Loeb, the comet experienced a \"radial acceleration away from the Sun of 1.1x10^{-6} au per day squared,\" which would require the object to have shed approximately 13 percent of its total mass during its October perihelion passage[5][6]. However, such a massive gas cloud has not been detected, leaving the acceleration mechanism unexplained[7].",
+      "audio_url": "",
+      "url": "nasa-faces-scrutiny-as-interst-FZklBvMdRm.K9.PxbkmxVA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-28T04:47:13.000000Z",
       "title": "Sending army to protect Sydney's Jewish community 'not off the table'",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a6efef29-c890-44cf-96b3-29c29142aaf3",
-      "published_datetime": "2025-12-26T22:52:42.451835",
-      "title": "Interstellar comet's unusual tail prompts rethink of comet physics",
-      "featured_image": {
-        "url": "https://www.skyatnightmagazine.com/news/comet-3i-atlas-images",
-        "name": "The latest images of insterstellar comet 3I/ATLAS",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--tVjbMOFe--/t_limit/https://c02.purpledshub.com/uploads/sites/48/2025/09/3i-atlas-gemini-south-social.jpg%3Fw%3D1200",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--U5Wf3_oZ--/t_thumbnail/https://c02.purpledshub.com/uploads/sites/48/2025/09/3i-atlas-gemini-south-social.jpg%3Fw%3D1200"
-      },
-      "description": "The interstellar comet 3I/ATLAS, which made its closest approach to Earth on December 19, continues to challenge scientists' understanding of comet physics as it departs the solar system[1][2][3]. The object displays an unusual \"anti-tail\" pointing toward the Sun and containing particles far larger than typical cometary dust, behaviors that have prompted researchers to reexamine existing models of how comets form and evolve[4][2][5].\n\nAstronomers using the Two-meter Twin Telescope at Teide Observatory in Tenerife detected wobbling jets within the anti-tail during an intensive 37-night observation campaign between July and September 2025[1][6]. This periodic motion allowed researchers to calculate that 3I/ATLAS's nucleus rotates once every 14 to 17 hours, marking the first time scientists have directly measured the rotation period of an interstellar comet from its surface activity[1][6].",
-      "audio_url": "",
-      "url": "3iatlas-interstellar-comet-cha-Sm6Tza7ITF6ZTJ2l6_0gbg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-26T15:00:00.000000Z",
       "title": "Zelenskyy says meeting with Trump agreed",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T05:17:54.964432"
+  "merged_at": "2025-12-28T05:31:29.935490"
 }
