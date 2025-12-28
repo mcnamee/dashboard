@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-28T14:33:28.000000Z",
+      "title": "Live: Kyrgios takes on Sabalenka in controversial Battle of the Sexes tennis match",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c99b38fb39b6f2f9c6aa86951ab356af?impolicy=wcms_crop_resize&amp;cropH=2548&amp;cropW=4530&amp;xPos=470&amp;yPos=261&amp;width=862&amp;height=485"
+      },
+      "description": "Women's world number one Aryna Sabalenka takes on Australia's Nick Kyrgios, who has fallen outside the ATP top 600 after barely playing for three years, in a widely criticised match in Dubai. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-29/nick-kyrgios-aryna-sabalenka-battle-of-the-sexes-live-blog/106182808"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0b2c222d-7c3e-48d8-99a1-5054a21827b6",
       "published_datetime": "2025-12-28T14:21:23.771303",
       "title": "Russia launches three Iranian satellites into orbit",
@@ -131,15 +140,6 @@
       "audio_url": "",
       "url": "turkey-emerges-as-conduit-for-KwwL9_RpQv6Bwf1FLIYFKQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-28T01:35:38.000000Z",
-      "title": "Four Ecuadorian boys left home to play soccer. They were found beaten, naked and charred",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a8543307d9e1118128053a34faf9a19e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "In the weeks before Christmas, four boys under 16 left home to play a game of soccer. Their forced disappearance at the hands of Ecuador's military has been labelled a national \"turning point\".\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-28/guayaquil-four-sentence-lays-bare-racism-and-security-in-ecuador/106173084"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c659640d-2a0a-4a2c-924c-3b042c180d3a",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T15:26:24.943242"
+  "merged_at": "2025-12-28T16:15:15.972687"
 }
