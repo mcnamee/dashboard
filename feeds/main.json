@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-28T00:13:12.000000Z",
+      "title": "Man charged for allegedly displaying hate symbol tattoos at NSW beach",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/526e4310de473790c23ac3fc539df5f0?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "A man has been charged for allegedly displaying what police have called \"hate symbol\" tattoos at a beach in Newcastle.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-28/man-charged-for-allegedly-displaying-antisemitic-tattoos/106182526"
+    },
+    {
+      "published_datetime": "2025-12-27T23:39:03.000000Z",
+      "title": "Why Trump could order more air strikes in Nigeria",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12ed39e82d265e81f4be829a459853d6?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "With US President Donald Trump hinting at plans for further strikes on IS militants in Nigeria, here's a rundown on what you need to know about the conflict.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-28/trump-us-air-strikes-is-militants-nigeria/106181242"
+    },
+    {
       "published_datetime": "2025-12-27T22:40:41.000000Z",
       "title": "Weatherald, Labuschagne, Green under selection pressure after MCG loss",
       "featured_image": {
@@ -8,15 +26,6 @@
       },
       "description": "Jake Weatherald, Marnus Labuschagne and Cameron Green all face selection pressure following double failures in Australia's jarring loss at the MCG.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-28/australias-shaky-batters-face-scg-selection-scrutiny/106182432"
-    },
-    {
-      "published_datetime": "2025-12-27T22:23:40.000000Z",
-      "title": "Northern Queensland on flood alert as heavy rain forecast",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8ef4fe9eaff448c6a926c262361f73a?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The weather bureau says a monsoon trough lingering over north Queensland has the potential to become a lengthy flood event.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-28/northern-queensland-on-flood-alert/106182396"
     },
     {
       "published_datetime": "2025-12-27T22:16:50.000000Z",
@@ -44,7 +53,7 @@
     },
     {
       "published_datetime": "2025-12-27T19:42:10.000000Z",
-      "title": "'Battle conditions': More than a quarter of Sydney to Hobart fleet retires",
+      "title": "Contest for Sydney to Hobart line honours heating up",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1f523bac5b3dcdfdb764ce265640cab?impolicy=wcms_crop_resize&amp;cropH=236&amp;cropW=420&amp;xPos=0&amp;yPos=7&amp;width=862&amp;height=485"
       },
@@ -118,15 +127,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-27T11:21:22.000000Z",
-      "title": "Russian drones, missiles pound Ukraine ahead of Zelenskyy-Trump meeting",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2e8585d6ea8842a5a1c67e72a5c2cdf7?impolicy=wcms_crop_resize&amp;cropH=1238&amp;cropW=2200&amp;xPos=0&amp;yPos=196&amp;width=862&amp;height=485"
-      },
-      "description": "Russia has attacked Ukraine with hundreds of missiles and drones ahead of what President Volodymyr Zelenskyy said would be a crucial meeting with Donald Trump to work out a deal to end nearly four years of war.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-27/russian-strikes-pound-ukraine-ahead-of-zelenskyy-trump-meeting/106181990"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/faf8cd40-a85b-4840-859f-c568d76ed042",
       "published_datetime": "2025-12-27T10:29:20.076247",
       "title": "NASA to launch Pandora satellite to search for alien life",
@@ -158,11 +158,11 @@
     },
     {
       "published_datetime": "2025-12-27T01:46:13.000000Z",
-      "title": "Labor identity fighting for life after alleged assault in Perth",
+      "title": "Man charged as Labor identity Tim Picton fights for life",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bdc15123ba4d46dc974c49e377efd94c?impolicy=wcms_crop_resize&amp;cropH=588&amp;cropW=1045&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Tim Picton, who spearheaded the campaign behind WA Labor's landslide 2021 victory, is in a critical condition in hospital after he was allegedly assaulted in Northbridge.\u00a0",
+      "description": "A 20-year-old man is charged with grievous bodily harm after Tim Picton, who spearheaded the campaign behind WA Labor's landslide 2021 victory, was allegedly assaulted in Northbridge.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-27/man-critical-following-serious-assault-northbridge/106181328"
     },
     {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-27T23:25:19.509586"
+  "merged_at": "2025-12-28T01:09:16.113079"
 }
