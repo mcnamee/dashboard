@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-28T03:43:29.000000Z",
+      "title": "SA independent MP Nick McBride charged with assault",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/26851acf83330110c7e8b987839dd8d7?impolicy=wcms_crop_resize&amp;cropH=485&amp;cropW=862&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Police say they responded to reports of a domestic assault at a home in South Australia's south-east on Saturday.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-28/sa-independent-mp-nick-mcbride-charged/106182668"
+    },
+    {
       "published_datetime": "2025-12-28T03:18:24.000000Z",
       "title": "Australian cruise ship runs aground off PNG with 120 people onboard",
       "featured_image": {
@@ -56,15 +65,6 @@
       "audio_url": "",
       "url": "thailand-and-cambodia-agree-to-u0FvhACDQumF3pRBCjGwqw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-28T00:19:56.000000Z",
-      "title": "Rockingham grapples with new-found growth as AUKUS plans accelerate",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f892fadb34c53baa9b6208eca92eb83?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=277&amp;width=862&amp;height=485"
-      },
-      "description": "Rockingham in Perth's south is fast becoming a crucial part of the AUKUS nuclear submarine deal, with promises of a big boost in jobs and infrastructure \u2014 but it's also leaving residents afraid for their lives and lifestyle.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-28/rockingham-locals-worried-about-impact-of-aukus-defence-hub/106153364"
     },
     {
       "published_datetime": "2025-12-28T00:13:12.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T04:11:38.375521"
+  "merged_at": "2025-12-28T04:38:30.766482"
 }
