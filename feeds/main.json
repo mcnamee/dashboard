@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-28T20:31:07.000000Z",
+      "title": "Certainty in the rearview mirror as the economy of 2025 goes wild",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cce0948b28d9043b67a074cbb24ccacf?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
+      },
+      "description": "This year saw economies survive tariff shocks and markets burst through record highs, but it doesn't feel like a party because so many people aren't invited.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-29/end-of-year-economics-analysis-wrap/106176480"
+    },
+    {
       "published_datetime": "2025-12-28T19:47:19.000000Z",
-      "title": "Black Friday sale of medical weight-loss treatment prompts concerns",
+      "title": "'Pesky Aussie laws' comment sparks scrutiny of weight-loss treatment marketing",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2b04e9e43d90704c0cafed6de6214f89?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2025-12-28T19:33:37.000000Z",
-      "title": "Trump pledges Ukraine security guarantee ahead of Zelenskyy meeting",
+      "title": "Trump flags Ukraine security guarantee ahead of Zelenskyy meeting",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/128c9938e931e0d9d0153305bef43d3c?impolicy=wcms_crop_resize&amp;cropH=2402&amp;cropW=4271&amp;xPos=0&amp;yPos=222&amp;width=862&amp;height=485"
       },
@@ -26,15 +35,6 @@
       },
       "description": "The yacht race has entered the fourth day, after Master Lock Comanche claimed line honours late on Sunday.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-29/sydney-to-hobart-yacht-race-enters-day-four/106183294"
-    },
-    {
-      "published_datetime": "2025-12-28T19:02:12.000000Z",
-      "title": "Courtesy wave dying out, say truckies, but still alive on back roads",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/27ce04cbf88e4b0c0a33072c07cf1228?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "For generations, the courtesy wave has been etched into the Australian culture, but is it on the verge of dying?",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-29/australian-drivers-truckies-courtesy-wave/106152822"
     },
     {
       "published_datetime": "2025-12-28T19:01:01.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T20:29:57.818815"
+  "merged_at": "2025-12-28T21:11:50.941977"
 }
