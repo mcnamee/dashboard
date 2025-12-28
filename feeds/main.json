@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-28T06:31:51.000000Z",
+      "title": "Live: Comanche speeds down river to take Sydney to Hobart line honours",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/34f500f0a900845dc57063cf4c572ca5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Comanche has crossed the finish line first, taking out line honours in the 80th Sydney to Hobart Yacht Race, after a speedy race down the River Derwent. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-28/live-blog-sydney-to-hobart-yacht-race-tracking-the-finish/106182756"
+    },
+    {
       "published_datetime": "2025-12-28T05:16:34.000000Z",
       "title": "In Taiwan you can win lottery just by shopping",
       "featured_image": {
@@ -53,11 +62,11 @@
     },
     {
       "published_datetime": "2025-12-28T02:58:45.000000Z",
-      "title": "'Incredibly difficult time': Tim Picton's family speak after alleged assault",
+      "title": "Man charged with Tim Picton assault granted bail",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7e366acfe75865a46706ea3b95c1340b?impolicy=wcms_crop_resize&amp;cropH=362&amp;cropW=643&amp;xPos=0&amp;yPos=24&amp;width=862&amp;height=485"
       },
-      "description": "The family of Tim Picton, a prominent Labor Party identity, thank emergency services after he was left in a critical condition following an alleged assault in the Perth CBD.",
+      "description": "A 20-year-old man has been granted bail after allegedly assaulting Tim Picton, a prominent Labor Party identity \u2014 an attack police prosecutors say may leave him permanently disabled, if he survives.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-28/tim-picton-family-statement-alleged-northbridge-assault/106182738"
     },
     {
@@ -131,15 +140,6 @@
       "audio_url": "",
       "url": "silver-platinum-and-gold-hit-r-vvTa8fMnQhao5XIg4Rystw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-27T19:42:10.000000Z",
-      "title": "Contest for Sydney to Hobart line honours heating up",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5545943cff0957ef84ddb9a01fef4f6f?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=960&amp;xPos=0&amp;yPos=148&amp;width=862&amp;height=485"
-      },
-      "description": "Crews have been battling challenging conditions, damage and sea sickness as the leading yachts are expected to arrive in Hobart later today.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-28/sydney-to-hobart-yacht-race-retirements-rough-conditions/106181970"
     },
     {
       "published_datetime": "2025-12-27T18:30:00.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T06:39:58.361776"
+  "merged_at": "2025-12-28T07:14:16.212464"
 }
