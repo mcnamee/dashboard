@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-28T04:47:13.000000Z",
+      "title": "Sending army to protect Sydney's Jewish community 'not off the table'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8e3781d13cc4e53981020368dc36833e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Sydneysiders can expect to see more police officers carrying long-armed guns in the weeks ahead, with the premier not ruling out sending troops to protect the Jewish community.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-28/army-protecting-sydney-jewish-community-not-ruled-out-premier/106182770"
+    },
+    {
       "published_datetime": "2025-12-28T03:43:29.000000Z",
       "title": "SA independent MP Nick McBride charged with assault",
       "featured_image": {
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2025-12-28T03:18:24.000000Z",
-      "title": "Australian cruise ship runs aground off PNG with 120 people onboard",
+      "title": "Australian cruise ship runs aground off PNG",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f537d77adec098db78ac98acb7b06f8b?impolicy=wcms_crop_resize&amp;cropH=475&amp;cropW=844&amp;xPos=0&amp;yPos=118&amp;width=862&amp;height=485"
       },
@@ -116,15 +125,6 @@
       },
       "description": "Crews have been battling challenging conditions, damage and sea sickness as the leading yachts are expected to arrive in Hobart later today.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-28/sydney-to-hobart-yacht-race-retirements-rough-conditions/106181970"
-    },
-    {
-      "published_datetime": "2025-12-27T19:07:49.000000Z",
-      "title": "Steroid use is 'exploding' in Australia \u2014 but quitting is a lonely road",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/deed001952cb98b2208fbea6c9a84208?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=97&amp;width=862&amp;height=485"
-      },
-      "description": "A rising number of Australians are using steroids. But one expert says a lack of knowledge and widespread stigma make it tough to get clinical support.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-28/steroid-use-increase-quit-guidelines-australia/106043898"
     },
     {
       "published_datetime": "2025-12-27T18:30:00.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T04:38:30.766482"
+  "merged_at": "2025-12-28T05:17:54.964432"
 }
