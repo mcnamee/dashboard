@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-28T21:27:45.000000Z",
+      "title": "Broome residents told to prepare as cyclone forms off WA's north",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c8a9d95a484e1498403af8a858a82248?impolicy=wcms_crop_resize&amp;cropH=395&amp;cropW=702&amp;xPos=0&amp;yPos=55&amp;width=862&amp;height=485"
+      },
+      "description": "Residents in WA's north are on alert following the formation of Tropical Cyclone Hayley off the coast overnight.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-29/cyclone-hayley-forms-off-wa-coast-broome-in-watch-zone/106182876"
+    },
+    {
       "published_datetime": "2025-12-28T20:31:07.000000Z",
-      "title": "Certainty in the rearview mirror as the economy of 2025 goes wild",
+      "title": "Certainty in the rearview mirror as 2025 economy goes wild",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cce0948b28d9043b67a074cbb24ccacf?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
       },
@@ -26,15 +35,6 @@
       },
       "description": "Donald Trump is hosting Volodymyr Zelenskyy at Mar-a-lago to discuss the finer points of a 20-point plan put forward by Washington.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-29/trump-meets-zelenskyy-to-discuss-ukraine-peace-plan/106183658"
-    },
-    {
-      "published_datetime": "2025-12-28T19:26:08.000000Z",
-      "title": "Overall winner yet to be decided as Sydney to Hobart race enters day four",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/87a3e8c25ec77242e9400fe160795f96?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The yacht race has entered the fourth day, after Master Lock Comanche claimed line honours late on Sunday.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-29/sydney-to-hobart-yacht-race-enters-day-four/106183294"
     },
     {
       "published_datetime": "2025-12-28T19:01:01.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T21:24:51.606700"
+  "merged_at": "2025-12-28T22:12:34.865200"
 }
