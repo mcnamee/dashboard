@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-28T10:38:18.000000Z",
+      "title": "Brigitte Bardot, the French star you 'had to see to believe'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7af5c3a6001c4956fa3afbf6aeee5c14?impolicy=wcms_crop_resize&amp;cropH=2120&amp;cropW=3769&amp;xPos=134&amp;yPos=10&amp;width=862&amp;height=485"
+      },
+      "description": "Few epitomised French chic like Brigitte Bardot, the doe-eyed beauty whose sensuality rocked a post-war world.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-28/brigitte-bardot-sex-symbol-fashion-darling-and-french-icon/105927998"
+    },
+    {
       "published_datetime": "2025-12-28T10:19:07.000000Z",
-      "title": "Breaking: Iconic French star Brigitte Bardot dies aged 91",
+      "title": "Iconic French star Brigitte Bardot dies aged 91",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4439ed91625e4f54ca78a9077cd017b3?impolicy=wcms_crop_resize&amp;cropH=1013&amp;cropW=1801&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
       },
@@ -116,15 +125,6 @@
       "audio_url": "",
       "url": "thailand-and-cambodia-agree-to-u0FvhACDQumF3pRBCjGwqw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-27T22:16:50.000000Z",
-      "title": "Kennedy Center boss demands $1.5m damages after musician cancels show",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/68bbe0daa53a99c4a45fcc1fd0cd9059?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Musician Chuck Redd cancelled his Christmas Eve show days after the White House announced the venue would be renamed the Trump Kennedy Center.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-28/kennedy-centre-criticises-musician-cancelled-performance-rebrand/106182404"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/31463549-9ae5-4826-88d2-4cfac9a1a1f0",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T11:22:45.921835"
+  "merged_at": "2025-12-28T12:24:13.132083"
 }
