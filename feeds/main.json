@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a1c6ac20-558e-4c91-854d-0fd54b6db353",
+      "published_datetime": "2025-12-28T22:30:20.170711",
+      "title": "Trump, Zelenskyy say Ukraine peace plan is 90% complete",
+      "featured_image": {
+        "url": "https://www.boston25news.com/news/local/trump-welcomes-zelenskyy-talks-asserts-russia-ukraine-both-want-peace-however-elusive/Q5BZFCJESRB4RLDNIVUVYNJXTY/",
+        "name": "Trump welcomes Zelenskyy for talks, asserts Russia and ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_L-Za_Yk--/t_limit/https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/v2/MMPRBVHT6I2Z3KLBVZV2IK5LW4.jpg%3Fsmart%3Dtrue%26auth%3D92c9885c871ad3d70517876d1912ef02e83d2aed842a7ef79decc673f028e36d%26width%3D2408%26height%3D1354",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--mTgdROvX--/t_thumbnail/https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/v2/MMPRBVHT6I2Z3KLBVZV2IK5LW4.jpg%3Fsmart%3Dtrue%26auth%3D92c9885c871ad3d70517876d1912ef02e83d2aed842a7ef79decc673f028e36d%26width%3D2408%26height%3D1354"
+      },
+      "description": "President Donald Trump and Ukrainian President Volodymyr Zelenskyy held high-stakes talks at Mar-a-Lago on Sunday, discussing a revised peace framework to end Russia's nearly four-year war in Ukraine, with Trump expressing optimism about reaching a deal despite unresolved territorial disputes.\n\nThe meeting came hours after Trump held a phone call with Russian President Vladimir Putin, a move that caught Ukrainian officials off guard[1][2][3]. Trump described the hour-long conversation as \"good and very productive\" and said he would call Putin again after concluding his discussions with Zelenskyy[4][5].",
+      "audio_url": "",
+      "url": "trump-and-zelenskyy-conclude-f-m5eQEnebT1aGqrzSsn5_ug",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/71a1484d-b3b0-42b9-bfef-f372e58f56ff",
       "published_datetime": "2025-12-28T21:40:54.599069",
       "title": "Putin, Trump reject temporary Ukraine ceasefire, Kremlin Says",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6bc52a06-66d5-4779-a99b-a5f22a2c9a66",
-      "published_datetime": "2025-12-28T01:45:06.524074",
-      "title": "Turkey serves as hub for Russian oil flowing to Europe",
-      "featured_image": {
-        "url": "https://www.reuters.com/business/energy/turkey-cuts-russian-urals-oil-imports-november-diversifies-with-kazakh-iraqi-2025-12-01/",
-        "name": "Turkey cuts Russian Urals oil imports in November, diversifies with Kazakh, Iraqi supply",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--c9_LTo1P--/t_limit/https://www.reuters.com/resizer/v2/EM3SX4MF2RLHHJC3EDT2XGZPRM.jpg%3Fauth%3D709964334abf82b6e26e96eed65067596ddb06934c762d554049a748148cb8a7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--_8EFJLQz--/t_thumbnail/https://www.reuters.com/resizer/v2/EM3SX4MF2RLHHJC3EDT2XGZPRM.jpg%3Fauth%3D709964334abf82b6e26e96eed65067596ddb06934c762d554049a748148cb8a7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Turkish ports have become a critical transit hub for Russian oil products reaching the European Union, even as Brussels moves to eliminate Russian energy imports by late 2027, multiple investigations and recent reports reveal.\n\nTankers routinely discharge thousands of barrels from Russia at storage facilities in Turkish port cities including Mersin, Ceyhan, and Marmara Ere\u011flisi before reshipping similar volumes to EU destinations[1][2][3]. Since the EU's petroleum products ban took effect in February 2023 through early 2024, Europe imported \u20ac3.1 billion worth of oil products from three Turkish ports with no refining facilities, while 86% of those ports' imports came from Russia during the same period, according to research by the Centre for Research on Energy and Clean Air[2][4][3].\n\nThe findings underscore the challenge Europe faces in severing energy ties with Moscow despite ambitious targets. On December 3, EU lawmakers reached a deal to ban all Russian gas imports by autumn 2027, marking what European Commission President Ursula von der Leyen called \"the dawn of a new era, the era of Europe's full energy independence from Russia\"[5][6][7][8]. The agreement prohibits Russian liquefied natural gas by end of 2026 and pipeline gas by September 2027[5][9].",
-      "audio_url": "",
-      "url": "turkey-emerges-as-conduit-for-KwwL9_RpQv6Bwf1FLIYFKQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-26T15:00:00.000000Z",
       "title": "Zelenskyy says meeting with Trump agreed",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T23:12:35.743778"
+  "merged_at": "2025-12-28T23:25:46.076263"
 }
