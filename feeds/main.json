@@ -28,6 +28,21 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-29/sarah-larcombe-paraclimbing-injury-arapiles-world-championships/106018328"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/39572212-6982-4194-87f5-1640f0d0c7f6",
+      "published_datetime": "2025-12-28T18:20:08.283269",
+      "title": "Iranian president says Tehran at war with US, Israel, and Europe",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2025/12/27/iran-president-says-us-israel-europe-waging-full-fledged-war-on-country",
+        "name": "Iran president says US, Israel, Europe waging \u2018full-fledged war\u2019 on country",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--xZZYpWAP--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/12/ap_6950456684c5f-1766868326.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--rce7Z95z--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/12/ap_6950456684c5f-1766868326.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "Iranian President Masoud Pezeshkian declared on December 27 that his country is in a \"full-fledged war\" with the United States, Israel, and Europe[1][2][3], marking a dangerous escalation as Tehran rapidly rebuilds its nuclear capabilities following devastating military strikes and abandons all international constraints on its atomic program.\n\nThe stark warning comes as Iran possesses 441 kilograms of uranium enriched to 60% purity as of June 2025, according to International Atomic Energy Agency reports[4][5][6]\u2014alarmingly close to the 90% weapons-grade threshold needed for nuclear weapons. Western intelligence agencies warn that Iran has assembled all necessary components for weaponization and could complete the process quickly if ordered[7][8].",
+      "audio_url": "",
+      "url": "iranian-president-says-tehran-gXG0vOMfQEajAy7s81auNA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8255c662-e143-4f03-827d-a7a68e847ab7",
       "published_datetime": "2025-12-28T18:11:40.886483",
       "title": "Harvard physicist disputes NASA on interstellar comet",
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/31463549-9ae5-4826-88d2-4cfac9a1a1f0",
-      "published_datetime": "2025-12-27T20:20:40.206092",
-      "title": "Silver, platinum and gold shatter records in year-end rally",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2025/12/12/gold-hits-seven-week-high-on-safe-haven-demand-silver-notches-peak.html",
-        "name": "Gold hits seven-week high on safe-haven demand; silver notches peak",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--PQO-tOsS--/t_limit/https://image.cnbcfm.com/api/v1/image/108238806-1765258568701-gettyimages-2247229169-_a7v5857.jpeg%3Fv%3D1765539229%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--gMEP4xpN--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108238806-1765258568701-gettyimages-2247229169-_a7v5857.jpeg%3Fv%3D1765539229%26w%3D1920%26h%3D1080"
-      },
-      "description": "Silver surged past $77 an ounce for the first time on Friday, while gold and platinum shattered records in a dramatic year-end rally driven by supply shortages, expectations of Federal Reserve rate cuts, and geopolitical tensions that sent investors fleeing to safe-haven assets.\n\nSpot silver jumped 7% to $77.12 an ounce, marking its highest level ever and capping a roughly 167% gain for 2025[1][2]. Gold climbed to around $4,533 an ounce, with futures reaching $4,559[1], positioning the yellow metal for its strongest annual performance since 1979. Platinum vaulted nearly 9% to $2,411, briefly touching $2,448[1], while palladium advanced close to 10% to approximately $1,851[1].",
-      "audio_url": "",
-      "url": "silver-platinum-and-gold-hit-r-vvTa8fMnQhao5XIg4Rystw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-27T18:30:00.000000Z",
       "title": "Forget brat summer, the vibe shift is here and it's terrifying",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T19:10:21.159758"
+  "merged_at": "2025-12-28T19:21:09.519448"
 }
