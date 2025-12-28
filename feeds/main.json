@@ -1,17 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-28T07:09:07.000000Z",
+      "title": "Police say Tennant Creek death in custody was result of 'medical episode'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/72d38304afaa8035b399d0df20525ab6?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Northern Territory Police say the death in custody of an Indigenous woman in Tennant Creek on Saturday was the result of a \"medical episode\", while admitting there was no nurse on duty at the time.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-28/tennant-creek-death-in-custody-medical-episode-no-nurse-on-duty/106182578"
+    },
+    {
       "published_datetime": "2025-12-28T06:31:51.000000Z",
       "title": "Live: Comanche speeds down river to take Sydney to Hobart line honours",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/34f500f0a900845dc57063cf4c572ca5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/97df9c02e8aefe5a74e7d75b171f05fa?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Comanche has crossed the finish line first, taking out line honours in the 80th Sydney to Hobart Yacht Race, after a speedy race down the River Derwent. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-28/live-blog-sydney-to-hobart-yacht-race-tracking-the-finish/106182756"
     },
     {
       "published_datetime": "2025-12-28T05:16:34.000000Z",
-      "title": "In Taiwan you can win lottery just by shopping",
+      "title": "Why you might want to keep your receipts when you shop in Taiwan",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/50b2ed8a9c874eb1ea84257c380e63fe?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1619&amp;xPos=0&amp;yPos=152&amp;width=862&amp;height=485"
       },
@@ -64,9 +73,9 @@
       "published_datetime": "2025-12-28T02:58:45.000000Z",
       "title": "Man charged with Tim Picton assault granted bail",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7e366acfe75865a46706ea3b95c1340b?impolicy=wcms_crop_resize&amp;cropH=362&amp;cropW=643&amp;xPos=0&amp;yPos=24&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/342020df1efdfc55b239fe58764ad15a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=197&amp;width=862&amp;height=485"
       },
-      "description": "A 20-year-old man has been granted bail after allegedly assaulting Tim Picton, a prominent Labor Party identity \u2014 an attack police prosecutors say may leave him permanently disabled, if he survives.\u00a0",
+      "description": "A 20-year-old man is granted bail after allegedly assaulting Tim Picton, a prominent Labor Party identity \u2014 an attack police prosecutors say may leave him permanently disabled, if he survives.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-28/tim-picton-family-statement-alleged-northbridge-assault/106182738"
     },
     {
@@ -86,7 +95,7 @@
     },
     {
       "published_datetime": "2025-12-28T01:35:38.000000Z",
-      "title": "Four boys left home to play soccer. Why they never returned has divided Ecuador",
+      "title": "Four Ecuadorian boys left home to play soccer. They were found beaten, naked and charred",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a8543307d9e1118128053a34faf9a19e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -107,15 +116,6 @@
       "audio_url": "",
       "url": "thailand-and-cambodia-agree-to-u0FvhACDQumF3pRBCjGwqw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-27T23:39:03.000000Z",
-      "title": "Why Trump could order more air strikes in Nigeria",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12ed39e82d265e81f4be829a459853d6?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "With US President Donald Trump hinting at plans for further strikes on IS militants in Nigeria, here's a rundown on what you need to know about the conflict.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-28/trump-us-air-strikes-is-militants-nigeria/106181242"
     },
     {
       "published_datetime": "2025-12-27T22:16:50.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T07:26:46.368030"
+  "merged_at": "2025-12-28T08:17:07.605113"
 }
