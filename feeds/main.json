@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/71a1484d-b3b0-42b9-bfef-f372e58f56ff",
+      "published_datetime": "2025-12-28T21:40:54.599069",
+      "title": "Putin, Trump reject temporary Ukraine ceasefire, Kremlin Says",
+      "featured_image": {
+        "url": "https://www.pbs.org/newshour/world/trump-putin-agree-to-seek-limited-ceasefire-in-step-to-ending-ukraine-war-white-house-says",
+        "name": "Trump, Putin agree to seek limited ceasefire in step to ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--5vZzsqFU--/t_limit/https://d3i6fh83elv35t.cloudfront.net/static/2018/07/RTS1VWZ6-1024x692.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--QrDCOyxs--/t_thumbnail/https://d3i6fh83elv35t.cloudfront.net/static/2018/07/RTS1VWZ6-1024x692.jpg"
+      },
+      "description": "The Kremlin announced Sunday that Russian President Vladimir Putin and U.S. President Donald Trump jointly oppose a European-Ukrainian proposal for a temporary ceasefire, with Moscow insisting Ukraine must cede control of the Donbas region before any peace agreement can be reached.\n\nKremlin foreign policy aide Yuri Ushakov revealed that Putin and Trump spoke for one hour and 15 minutes at Trump's request, hours before the U.S. president's scheduled meeting with Ukrainian President Volodymyr Zelenskyy at Mar-a-Lago in Florida[1][2][3]. According to Ushakov, both leaders agreed that \"the option of a temporary ceasefire proposed by the Ukrainians and the Europeans under the pretext of preparing for a referendum or under other pretexts only leads to a prolongation of the conflict and is fraught with renewed hostilities\"[1][2].",
+      "audio_url": "",
+      "url": "putin-trump-reject-temporary-u-PTru4mLVSfKrgzguGEfBoQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-28T21:27:45.000000Z",
       "title": "Broome residents told to prepare as cyclone forms off WA's north",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c659640d-2a0a-4a2c-924c-3b042c180d3a",
-      "published_datetime": "2025-12-28T00:56:48.802703",
-      "title": "Thailand and Cambodia sign ceasefire to end deadly border clashes",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2025/10/27/whats-in-the-thai-cambodia-peace-agreement-and-can-it-hold",
-        "name": "What's in the Thai-Cambodia peace agreement and can it hold?",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--geNiKk1h--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/10/2025-10-26T073859Z_1114568740_RC2IJHAUK2UZ_RTRMADP_3_ASEAN-SUMMIT-1761555703.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--iZo25EBb--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/10/2025-10-26T073859Z_1114568740_RC2IJHAUK2UZ_RTRMADP_3_ASEAN-SUMMIT-1761555703.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "Thailand and Cambodia signed a ceasefire agreement on Saturday to end nearly three weeks of intense border clashes that killed more than 100 people and displaced over half a million residents, marking the second such truce between the neighbors in six months.\n\nThe agreement, signed by Thai Defense Minister Natthaphon Narkphanit and Cambodian Defense Minister Tea Seiha at a border checkpoint in Chanthaburi province, takes effect at noon local time on December 27[1][2][3]. The joint statement calls for \"an immediate ceasefire...involving all types of weapons, including attacks on civilians, civilian objects and infrastructures\"[1][2].\n\nThe accord ends 20 days of fighting that has killed at least 101 people and displaced more than 500,000 on both sides[3][4]. According to the Straits Times, the agreement stipulates that \"both sides agree to maintain current troop deployments without further movement,\" with any reinforcement likely to \"heighten tensions and negatively affect long-term efforts to resolve the situation\"[3].",
-      "audio_url": "",
-      "url": "thailand-and-cambodia-agree-to-u0FvhACDQumF3pRBCjGwqw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-26T15:00:00.000000Z",
       "title": "Zelenskyy says meeting with Trump agreed",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T22:12:34.865200"
+  "merged_at": "2025-12-28T22:26:25.768003"
 }
