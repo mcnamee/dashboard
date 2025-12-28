@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0b2c222d-7c3e-48d8-99a1-5054a21827b6",
+      "published_datetime": "2025-12-28T14:21:23.771303",
+      "title": "Russia launches three Iranian satellites into orbit",
+      "featured_image": {
+        "url": "https://www.youtube.com/watch?v=uTDOChrKo6E",
+        "name": "Russia's Soyuz-2.1b rocket with 52 satellites delivered to ... - YouTube",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--QkWvp3Rm--/t_limit/https://i.ytimg.com/vi/uTDOChrKo6E/maxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE0gZShlMA8%253D%26rs%3DAOn4CLCxLsAiTHc-9fHARyG8Yb1jfksj1g",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--JDA0Gyej--/t_thumbnail/https://i.ytimg.com/vi/uTDOChrKo6E/maxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE0gZShlMA8%253D%26rs%3DAOn4CLCxLsAiTHc-9fHARyG8Yb1jfksj1g"
+      },
+      "description": "Russia successfully placed three Iranian-made satellites into orbit Sunday, marking the latest milestone in deepening space cooperation between Moscow and Tehran as both nations face Western sanctions.\n\nThe Paya, Zafar-2, and Kowsar satellites launched from Russia's Vostochny Cosmodrome in the Far East aboard a Soyuz-2.1b rocket at 13:18 GMT, according to state media reports from both countries[1][2][3]. The satellites will orbit approximately 500 kilometers above Earth and are designed for agricultural monitoring, natural resource management, and environmental observation[4][1][5].",
+      "audio_url": "",
+      "url": "russia-launches-three-iranian-kZhamokIQKWna.sOCsywGg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-28T13:01:12.000000Z",
       "title": "Families of Bondi victims call for federal royal commission",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a10d24d6-1c7f-4a4b-88c4-e7aeeeb699ad",
-      "published_datetime": "2025-12-27T01:00:46.615496",
-      "title": "Russian forces launch major assault on Kyiv",
-      "featured_image": {
-        "url": "https://abcnews.go.com/International/kyiv-targeted-large-russian-missile-attack-mayor/story?id=127844820",
-        "name": "6 dead as Russian missiles 'rain down' in Kyiv, Ukrainian officials say",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--gOHWR2Rh--/t_limit/https://i.abcnewsfe.com/a/ec9826e3-ee72-4c4f-b6ec-c6fd562ca1ea/ukraine-air-defense_1764032166001_hpMain_16x9.jpg%3Fw%3D1600",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--rDDnvrqR--/t_thumbnail/https://i.abcnewsfe.com/a/ec9826e3-ee72-4c4f-b6ec-c6fd562ca1ea/ukraine-air-defense_1764032166001_hpMain_16x9.jpg%3Fw%3D1600"
-      },
-      "description": "The Ukrainian capital came under a large-scale Russian assault in the early hours of Saturday, December 27, with air defense systems engaged across the city and powerful explosions echoing through residential areas[1][2][3].\n\n\"Explosions in the capital. Air defense forces are operating. Stay in shelters!\" Kyiv Mayor Vitali Klitschko wrote on Telegram[2][4][5]. Ukraine's air force announced a countrywide air alert as military officials warned of both cruise and ballistic missiles targeting the capital[1][3][6].\n\nReuters reporters in Kyiv witnessed air defense systems actively operating throughout the city[1][3][7]. A military Telegram channel confirmed the deployment of both cruise and ballistic missiles in the attack[1][6].",
-      "audio_url": "",
-      "url": "kyiv-under-massive-russian-att-_WYFkEykTbi9tDkQeE3tNA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-26T15:00:00.000000Z",
       "title": "Zelenskyy says meeting with Trump agreed",
       "featured_image": {
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T15:12:15.075057"
+  "merged_at": "2025-12-28T15:26:24.943242"
 }
