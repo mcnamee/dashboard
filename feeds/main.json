@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-29T20:32:19.000000Z",
+      "title": "Jessica could use her cochlear implant, but decided not to",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2e17f37c647b874d44b0fba705043989?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Cochlear implants can be a life-changing tool for people with hearing loss, but some Deaf people argue their use risks compromising their community's identity.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/cochlear-implants-debate-in-the-deaf-community/106044156"
+    },
+    {
+      "published_datetime": "2025-12-29T20:17:26.000000Z",
+      "title": "Trump says US 'knocked out' a 'big facility' in Venezuela",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bd6a4207235a9b7e96eab7bd124ee7d5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
+      },
+      "description": "A US strike on Venezuelan soil would be the first known land attack in the country since the Trump administration began ratcheting up pressure on its ruling regime, which Donald Trump accuses of \"narco-terrorism\".\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/trump-says-us-knocked-out-big-facility-in-venezuela/106186078"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/61ea7a9b-058f-4348-9608-48f7946b2230",
       "published_datetime": "2025-12-29T20:10:49.782823",
       "title": "China launches major drills around Taiwan after record US arms sale",
@@ -14,15 +32,6 @@
       "audio_url": "",
       "url": "china-holds-military-drills-ar-f40zzSt1TAmUjbF1Yyz2Bw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-29T19:52:01.000000Z",
-      "title": "Cyclone Hayley strengthens as it closes in on Kimberley coast",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a2aa7c82d9a0d409c8ec7b07c7255732?impolicy=wcms_crop_resize&amp;cropH=1458&amp;cropW=2592&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Tropical Cyclone Hayley is upgraded to a category four system as it nears the northern WA coast.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/cyclone-hayley-strengthens-as-it-approaches-kimberley-coast/106184894"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/93065c8b-8e09-4245-9630-782a6d52ca94",
@@ -55,13 +64,13 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-29T19:34:13.000000Z",
-      "title": "Inside south-east Queensland's largest water reservoir Wivenhoe Dam",
+      "published_datetime": "2025-12-29T19:30:47.000000Z",
+      "title": "Your soft plastic bags can once again be recycled. Here's how",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a9b36e96a635b4a1277829d49c771955?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=162&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7272961a9dd4c48f60a3f6bbd4057ced?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "South-east Queensland's largest water reservoir provides drinking water and protection from flooding. So, how does it all work?",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/qld-how-wivenhoe-dam-works/106166620"
+      "description": "Australia's first large-scale soft plastics recycling facility is processing huge loads each day, turning waste into a useful raw material.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/soft-plastics-recycling-is-back-in-australia-how-does-it-work-/105912070"
     },
     {
       "published_datetime": "2025-12-29T19:28:46.000000Z",
@@ -89,7 +98,7 @@
     },
     {
       "published_datetime": "2025-12-29T18:56:41.000000Z",
-      "title": "Josh Burns on juggling politics, fatherhood and being a Jewish MP",
+      "title": "Josh Burns to take rare extendend parental leave from parliament next year",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ebfbfd9ef0b8f99db9b404281b36be09?impolicy=wcms_crop_resize&amp;cropH=2807&amp;cropW=4991&amp;xPos=0&amp;yPos=63&amp;width=862&amp;height=485"
       },
@@ -98,7 +107,7 @@
     },
     {
       "published_datetime": "2025-12-29T18:54:54.000000Z",
-      "title": "ASIC's remarkable turnaround as the tiger that found its teeth",
+      "title": "After 20 years missing in action, ASIC has found its teeth",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/80e6b352abdd9f4390c79fb4d4dea724?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=134&amp;width=862&amp;height=485"
       },
@@ -107,7 +116,7 @@
     },
     {
       "published_datetime": "2025-12-29T18:53:52.000000Z",
-      "title": "Big bank convinced watchdog to delay revealing damaging news",
+      "title": "Big bank convinced communications watchdog to delay revealing damaging news",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1669981094a8bfc7f92c154e37d04317?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=584&amp;width=862&amp;height=485"
       },
@@ -148,15 +157,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-29T18:30:00.000000Z",
-      "title": "A cyclone, the mushroom killer and terror at Bondi: Your most read stories",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/63dde8400955fbf387dc32642d9df14b?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=257&amp;width=862&amp;height=485"
-      },
-      "description": "It was a year that bought us a federal election, ongoing war in the Middle East and Ukraine and a trial in a small Victorian town watched keenly around the world.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/your-most-read-abc-news-stories-of-2025/106150728"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9eb809f1-b9ca-4ab3-9919-8523390b358f",
       "published_datetime": "2025-12-29T17:32:21.351970",
       "title": "Search for missing Malaysia Airlines Flight MH370 to resume",
@@ -188,11 +188,11 @@
     },
     {
       "published_datetime": "2025-12-29T16:23:15.000000Z",
-      "title": "Russia claims Ukraine targeted Putin residence with drones",
+      "title": "Zelenskyy denies drone attack of Putin residence amid peace negotiations",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85455069cd87d1ca0610fdf046ccc671?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
       },
-      "description": "Russian state media reported the claims from foreign minister Sergei Lavrov, who said the country's negotiating position on achieving peace in Ukraine would change as a result of the attack.",
+      "description": "Russian Foreign Minister Sergei Lavrov says Moscow will review its position on a planned peace deal with Ukraine due to the alleged attack.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/russia-claims-ukraine-tried-to-attack-putin-residence/106185906"
     },
     {
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-29T20:31:29.712607"
+  "merged_at": "2025-12-29T21:12:11.735659"
 }
