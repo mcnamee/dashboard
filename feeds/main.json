@@ -48,17 +48,8 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/37dd74159f3f9b4eeb290e6d6fa241b2?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "PM says a former head of ASIO will assess whether multiple security and law agencies worked as effectively as they should have before the attack.",
+      "description": "The PM says a former head of ASIO will assess whether multiple security and law agencies worked as effectively as they should have before the attack.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-29/bondi-breaking-announcement/106184434"
-    },
-    {
-      "published_datetime": "2025-12-29T01:34:47.000000Z",
-      "title": "Khawaja guaranteed for SCG, future unclear after that",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2d6a06a6d35a36f5b52507e7015900d2?impolicy=wcms_crop_resize&amp;cropH=1060&amp;cropW=1885&amp;xPos=0&amp;yPos=197&amp;width=862&amp;height=485"
-      },
-      "description": "Usman Khawaja will play in the Ashes finale at the SCG, but Australian coach Andrew McDonald remains in the dark about the 39-year-old's future beyond that.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-29/khawaja-guaranteed-for-scg-future-unclear-after-that/106184310"
     },
     {
       "published_datetime": "2025-12-29T00:41:27.000000Z",
@@ -103,7 +94,7 @@
       "published_datetime": "2025-12-28T21:27:45.000000Z",
       "title": "Broome residents told to prepare as cyclone forms off WA's north",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/89441ba6c102a6e5672045bd7479b17f?impolicy=wcms_crop_resize&amp;cropH=357&amp;cropW=634&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": ""
       },
       "description": "Residents in WA's north are on alert following the formation of Tropical Cyclone Hayley off the coast overnight.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-29/cyclone-hayley-forms-off-wa-coast-broome-in-watch-zone/106182876"
@@ -134,6 +125,15 @@
       },
       "description": "Volodymyr Zelenskyy says a security guarantee between Ukraine and the US as part of a peace deal is \"100 per cent agreed\", while Donald Trump says there are still one or two \"thorny issues\" to finalise in the deal.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-29/trump-meets-zelenskyy-to-discuss-ukraine-peace-plan/106183658"
+    },
+    {
+      "published_datetime": "2025-12-28T18:33:27.000000Z",
+      "title": "NGOs fear lifesaving Gaza aid will be blocked under new Israeli rules",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3b75b32de490d19bf3f84ff28bf52265?impolicy=wcms_crop_resize&amp;cropH=2707&amp;cropW=4812&amp;xPos=0&amp;yPos=311&amp;width=862&amp;height=485"
+      },
+      "description": "The Israeli government has introduced new rules for aid organisations, including that they must not engage in any activities or criticism which \"delegitimise\" the state of Israel.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-29/aid-agencies-fear-lifesaving-program-blockage-into-gaza-/106181964"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/39572212-6982-4194-87f5-1640f0d0c7f6",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-29T04:14:17.632526"
+  "merged_at": "2025-12-29T04:42:18.308512"
 }
