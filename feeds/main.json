@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/aa39351f-b48a-4a16-a086-824524b6c0a4",
+      "published_datetime": "2025-12-29T18:39:21.107956",
+      "title": "Chinese automakers poised to lead global car sales in 2025",
+      "featured_image": {
+        "url": "https://techxplore.com/news/2025-12-china-byd-poised-tesla-ev.html",
+        "name": "China's BYD poised to overtake Tesla in 2025 EV sales",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--PJiBHtdP--/t_limit/https://scx2.b-cdn.net/gfx/news/2025/chinese-automaker-byd.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--_McvxqMi--/t_thumbnail/https://scx2.b-cdn.net/gfx/news/2025/chinese-automaker-byd.jpg"
+      },
+      "description": "Chinese car manufacturers are poised to claim the top spot in worldwide vehicle sales for the first time in 2025, ending Japan's dominance that has spanned more than two decades[1]. The historic shift comes as BYD prepares to overtake Tesla in electric vehicle sales, while Chinese brands collectively expand their global footprint through aggressive exports and competitive pricing.\n\nBYD had sold 2.07 million electric vehicles by the end of November 2025, positioning the Shenzhen-based automaker to surpass Tesla as the world's largest EV seller for the year[2][3][4]. Tesla, which delivered 1.22 million battery electric vehicles through the third quarter, is projected to reach approximately 1.65 million units for the full year, marking a 7.7% decline[2][3]. The American automaker's sales received a temporary boost in the third quarter from buyers rushing to claim a $7,500 US tax credit before it expired in September, but analysts forecast fourth-quarter sales will drop to around 449,000 units[3].",
+      "audio_url": "",
+      "url": "chinese-automakers-set-to-lead-BkbvQHgOTSyPZwfsgyihdQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9eb809f1-b9ca-4ab3-9919-8523390b358f",
       "published_datetime": "2025-12-29T17:32:21.351970",
       "title": "Search for missing Malaysia Airlines Flight MH370 to resume",
@@ -307,21 +322,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8255c662-e143-4f03-827d-a7a68e847ab7",
-      "published_datetime": "2025-12-28T18:11:40.886483",
-      "title": "Harvard physicist disputes NASA on interstellar comet",
-      "featured_image": {
-        "url": "https://www.pbs.org/newshour/science/nasa-releases-close-up-pictures-of-interstellar-comet-3i-atlas",
-        "name": "NASA releases close-up pictures of interstellar comet 3I/Atlas - PBS",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--7Ym9wDoY--/t_limit/https://d3i6fh83elv35t.cloudfront.net/static/2025/11/2025-11-19T225641Z_292690627_RC2PVHAD96H8_RTRMADP_3_SPACE-OBJECT.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ytp72iMZ--/t_thumbnail/https://d3i6fh83elv35t.cloudfront.net/static/2025/11/2025-11-19T225641Z_292690627_RC2PVHAD96H8_RTRMADP_3_SPACE-OBJECT.jpg"
-      },
-      "description": "As the interstellar comet 3I/ATLAS recedes from its closest approach to Earth last week, a contentious scientific debate has intensified over whether the mysterious visitor from beyond our solar system could be artificial technology rather than a natural object. Harvard physicist Avi Loeb continues to argue that unusual features of the comet warrant consideration of extraterrestrial origins, while NASA and mainstream astronomers maintain overwhelming evidence points to natural cometary behavior.\n\nOn December 18, the Breakthrough Listen program conducted a technosignature search of 3I/ATLAS using the 100-meter Green Bank Telescope, less than 24 hours before the object's closest approach to Earth[1][2]. The search, which scanned radio frequencies from 1 to 12 gigahertz, found no artificial signals down to a sensitivity of 100 milliwatts[2]. \"We report a nondetection of candidate signals down to the 100 mW level,\" researchers wrote in findings published this week[2].\n\nThe comet passed within approximately 168 million miles of Earth on December 19, posing no threat to our planet[3][4]. Discovered on July 1 by the NASA-funded ATLAS telescope in Chile, 3I/ATLAS is only the third confirmed interstellar object ever detected passing through our solar system, following 1I/'Oumuamua in 2017 and 2I/Borisov in 2019[3][5].",
-      "audio_url": "",
-      "url": "harvard-physicist-sparks-debat-DuJGtwupTqqIfrW1z2ZYeQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-28T18:00:00.000000Z",
       "title": "What's at stake in Trump-Zelenskyy meeting",
       "featured_image": {
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-29T19:11:11.786068"
+  "merged_at": "2025-12-29T19:21:45.542917"
 }
