@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-29T05:53:37.000000Z",
+      "title": "Stepping off 'vomit comet' sweet relief for battered Sydney to Hobart sailors",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed48f1a079264d9b54989137f5e6fdb6?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Those now safely onshore after finishing the 2025 Sydney to Hobart tell of \"horrendous\" conditions, resulting in injuries, broken boats and seasickness \u2014 even among experienced crew members.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-29/2025-sydney-to-hobart-competitors-endure-rough-seas/106184046"
+    },
+    {
       "published_datetime": "2025-12-29T04:59:14.000000Z",
-      "title": "Breaking: South Australian MP Nick McBride to remain in custody for next seven days",
+      "title": "South Australian MP Nick McBride to remain in custody for next seven days",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aed5efa9fba83e3c7db7bc21ea782c95?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -59,15 +68,6 @@
       },
       "description": "The PM says a former head of ASIO will assess whether multiple security and law agencies worked as effectively as they should have before the attack.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-29/bondi-breaking-announcement/106184434"
-    },
-    {
-      "published_datetime": "2025-12-29T00:41:27.000000Z",
-      "title": "At least 13 dead after train derails in Mexico, authorities say",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e542ea1670e7a8908a52bb86d0e6ef14?impolicy=wcms_crop_resize&amp;cropH=1800&amp;cropW=3200&amp;xPos=0&amp;yPos=167&amp;width=862&amp;height=485"
-      },
-      "description": "Another five people are in a critical condition after the Interoceanic Train detailed in the southern state of Oaxana.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-29/passengers-dead-after-mexico-train-derails/106184194"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a1c6ac20-558e-4c91-854d-0fd54b6db353",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-29T05:35:02.069571"
+  "merged_at": "2025-12-29T06:23:30.658071"
 }
