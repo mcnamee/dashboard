@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bbcadb69-aec6-4188-9501-15cef62d3c5f",
+      "published_datetime": "2025-12-29T16:09:01.286067",
+      "title": "Russia claims Ukraine attacked Putin's residence with 91 drones",
+      "featured_image": {
+        "url": "https://www.marketscreener.com/news/russia-says-ukraine-tried-to-attack-putin-s-residence-so-moscow-s-negotiating-stance-will-change-ce7e59dbdc88fe24",
+        "name": "Russia says Ukraine tried to attack Putin's residence so Moscow's negotiating stance will change",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--QgQ9AEvJ--/t_limit/https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2025-12/2025-12-29T151908Z_1_LYNXMPELBS0KF_RTROPTP_4_UKRAINE-CRISIS-RUSSIA.JPG",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ot0K6Nvb--/t_thumbnail/https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2025-12/2025-12-29T151908Z_1_LYNXMPELBS0KF_RTROPTP_4_UKRAINE-CRISIS-RUSSIA.JPG"
+      },
+      "description": "Russian Foreign Minister Sergei Lavrov announced Monday that Ukraine attempted to strike President Vladimir Putin's residence in the Novgorod region with 91 drones, vowing the attack would prompt Moscow to toughen its position in ongoing peace negotiations.\n\nThe alleged assault occurred overnight between December 28 and 29, according to Lavrov, who told Russian state news agencies TASS and Interfax that all drones were destroyed by air defenses[1][2][3]. \"Such recklessness will not go unanswered,\" Lavrov said, though he did not specify whether Putin was present at the residence during the incident[1]. Ukraine has not responded to the claims.\n\nThe announcement comes one day after U.S. President Donald Trump hosted Ukrainian President Volodymyr Zelenskyy at Mar-a-Lago, where both leaders expressed cautious optimism about reaching a peace deal to end the nearly four-year war. Trump said the parties were \"getting a lot closer, maybe very close\" to an agreement, while Zelenskyy reported that a 20-point peace plan was \"90 percent agreed upon\"[4][5].",
+      "audio_url": "",
+      "url": "russia-claims-ukraine-attacked-3z2qsA2tR5Smuo15uM4J7g",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-29T15:10:24.000000Z",
       "title": "Hamas confirms death of former leader, believed to have died in May",
       "featured_image": {
@@ -316,21 +331,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/83703212-a0ff-4ef1-be24-c045984a3b62",
-      "published_datetime": "2025-12-28T17:22:09.345885",
-      "title": "Trump speaks with Putin ahead of Zelensky meeting",
-      "featured_image": {
-        "url": "https://www.nbcnews.com/politics/donald-trump/trump-meet-zelenskyy-mar-lago-peace-talks-ukraine-russia-rcna251009",
-        "name": "Trump to meet with Zelenskyy at Mar-a-Lago as peace talks advance",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--5lLvDrLJ--/t_limit/https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630%2Cf_auto%2Cq_auto:best/rockcms/2025-12/251226-trump-zelenskyy-mn-1055-e2c24f.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--IFKbnYo_--/t_thumbnail/https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630%2Cf_auto%2Cq_auto:best/rockcms/2025-12/251226-trump-zelenskyy-mn-1055-e2c24f.jpg"
-      },
-      "description": "President Donald Trump announced on Sunday that he had a \"good and very productive\" phone call with Russian President Vladimir Putin ahead of his scheduled meeting with Ukrainian President Volodymyr Zelensky at his Mar-a-Lago resort in Florida[1][2][3][4]. The meeting, set for Sunday afternoon, is part of ongoing efforts to advance a 20-point peace plan aimed at ending the nearly four-year conflict between Russia and Ukraine.\n\nThe White House confirmed that Trump and Zelensky would meet at 3 p.m. local time in Palm Beach[5][6]. Zelensky arrived in the United States after stopping in Halifax, where Canadian Prime Minister Mark Carney pledged an additional $2.5 billion in economic assistance for Ukraine[7][8][9]. The aid package includes loan guarantees to the World Bank and financing that will enable the International Monetary Fund to lend an additional $8.4 billion to Ukraine[10].",
-      "audio_url": "",
-      "url": "trump-holds-call-with-putin-be-JtFleNmITVOkkTbuNCO32Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-28T17:00:00.000000Z",
       "title": "Knife attack near Suriname\u2019s capital Paramaribo kills at least 9 people",
       "featured_image": {
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-29T16:16:25.627704"
+  "merged_at": "2025-12-29T16:34:09.536609"
 }
