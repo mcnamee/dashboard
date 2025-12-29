@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-29T00:41:27.000000Z",
+      "title": "Breaking: At least 13 dead after train derails in Mexico, authorities say",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e542ea1670e7a8908a52bb86d0e6ef14?impolicy=wcms_crop_resize&amp;cropH=1800&amp;cropW=3200&amp;xPos=0&amp;yPos=167&amp;width=862&amp;height=485"
+      },
+      "description": "Another five people are in a critical condition after the Interoceanic Train detailed in the southern state of Oaxana.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-29/passengers-dead-after-mexico-train-derails/106184194"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a1c6ac20-558e-4c91-854d-0fd54b6db353",
       "published_datetime": "2025-12-28T22:30:20.170711",
       "title": "Trump, Zelenskyy say Ukraine peace plan is 90% complete",
@@ -178,15 +187,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-28T14:33:28.000000Z",
-      "title": "'Happy it's over': Kyrgios defeats Sabalenka in new 'battle of the sexes'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cffc67e13736c04b7c54f1559c2f62b7?impolicy=wcms_crop_resize&amp;cropH=2673&amp;cropW=4752&amp;xPos=0&amp;yPos=35&amp;width=862&amp;height=485"
-      },
-      "description": "Australia's Nick Kyrgios defeated women's world number one Aryna Sabalenka in the latest \"battle of the sexes\". The Aussie, who has fallen outside the ATP top 600 after barely playing for three years, won 6-3, 6-3.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-29/nick-kyrgios-aryna-sabalenka-battle-of-the-sexes-live-blog/106182808"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0b2c222d-7c3e-48d8-99a1-5054a21827b6",
       "published_datetime": "2025-12-28T14:21:23.771303",
       "title": "Russia launches three Iranian satellites into orbit",
@@ -203,7 +203,7 @@
     },
     {
       "published_datetime": "2025-12-28T13:01:12.000000Z",
-      "title": "Families of Bondi victims call for federal royal commission",
+      "title": "Bondi terror victims' families tell PM 'you owe us answers'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/627ee78a166cf2bfb7b193ebf08ca8f0?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=138&amp;width=862&amp;height=485"
       },
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-28T23:25:46.076263"
+  "merged_at": "2025-12-29T01:07:23.309908"
 }
