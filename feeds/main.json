@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-29T15:10:24.000000Z",
+      "title": "Hamas confirms death of former leader, believed to have died in May",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5e8434d0f0f9061543077b627a2dfc18?impolicy=wcms_crop_resize&amp;cropH=1192&amp;cropW=2118&amp;xPos=1226&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "In a statement, the Palestinian militant group also confirmed the death of spokesman Abu Ubaida.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/hamas-confirms-deaths-of-mohammed-sinwar-and-abu-ubaida/106185808"
+    },
+    {
+      "published_datetime": "2025-12-29T14:04:51.000000Z",
+      "title": "US offers Ukraine 15-year security guarantee as part of peace plan",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/df10486f1d11c2adf5fbb746dde3883c?impolicy=wcms_crop_resize&amp;cropH=1233&amp;cropW=2192&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Ukrainian President Volodymyr Zelenskyy has held talks with US President Donald Trump, and says he would prefer a commitment of 50 years.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/us-ukraine-peace-plan-15-year-security-trump-zelenskyy/106185584"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8f648533-1b6e-4825-8532-19c34c38b514",
       "published_datetime": "2025-12-29T10:37:26.663319",
       "title": "SoftBank nears deal to acquire DigitalBridge data center firm",
@@ -38,15 +56,6 @@
       },
       "description": "The ICC has handed down their verdict on the controversial MCG pitch which led to this year's Boxing Day Test wrapping up after just two days.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-29/mcg-boxing-day-test-pitch-icc-verdict-unsatisfactory/106185382"
-    },
-    {
-      "published_datetime": "2025-12-29T08:26:41.000000Z",
-      "title": "Protesters unite for 'stinky display' against demersal fishing ban",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/69596ee42dd72efab597c55d736073c8?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
-      },
-      "description": "Hundreds of kilograms of shark heads have been left dumped outside the WA Fisheries minister's office in Margaret River, just three days before a permanent commercial demersal fishing ban comes into effect.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-29/shark-heads-dumped-outside-jackie-jarvis-office-fisheries/106184674"
     },
     {
       "published_datetime": "2025-12-29T05:53:37.000000Z",
@@ -229,15 +238,6 @@
       "page_content_url": "https://abcnews.go.com/International"
     },
     {
-      "published_datetime": "2025-12-28T19:33:37.000000Z",
-      "title": "Zelenskyy says progress made on peace deal, but Trump says 'thorny issues' remain",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/128c9938e931e0d9d0153305bef43d3c?impolicy=wcms_crop_resize&amp;cropH=2402&amp;cropW=4271&amp;xPos=0&amp;yPos=222&amp;width=862&amp;height=485"
-      },
-      "description": "Volodymyr Zelenskyy says a security guarantee between Ukraine and the US as part of a peace deal is \"100 per cent agreed\", while Donald Trump says there are still one or two \"thorny issues\" to finalise in the deal.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-29/trump-meets-zelenskyy-to-discuss-ukraine-peace-plan/106183658"
-    },
-    {
       "published_datetime": "2025-12-28T19:00:00.000000Z",
       "title": "Russia sends 3 Iranian satellites into orbit",
       "featured_image": {
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-29T15:30:23.916415"
+  "merged_at": "2025-12-29T16:16:25.627704"
 }
