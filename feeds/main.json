@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-29T08:26:41.000000Z",
+      "title": "Protesters unite for 'stinky display' against demersal fishing ban",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/69596ee42dd72efab597c55d736073c8?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+      },
+      "description": "Hundreds of kilograms of shark heads have been left dumped outside the WA Fisheries minister's office in Margaret River, just three days before a permanent commercial demersal fishing ban comes into effect.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-29/shark-heads-dumped-outside-jackie-jarvis-office-fisheries/106184674"
+    },
+    {
       "published_datetime": "2025-12-29T05:53:37.000000Z",
       "title": "'You're levitating': Sailors tell of 'horrendous' ordeal in yacht race",
       "featured_image": {
@@ -116,15 +125,6 @@
       },
       "description": "This year saw economies survive tariff shocks and markets burst through record highs, but it doesn't feel like a party because so many people aren't invited.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-29/end-of-year-economics-analysis-wrap/106176480"
-    },
-    {
-      "published_datetime": "2025-12-28T19:47:19.000000Z",
-      "title": "'Pesky Aussie laws' comment sparks scrutiny of weight-loss treatment marketing",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2b04e9e43d90704c0cafed6de6214f89?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Eating disorder bodies are raising concerns about weight-loss treatments being prescribed by telehealth companies, one of which ran a Black Friday sale to promote its services.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-29/juniper-telehealth-concerns-weight-loss-treatment-glp1/106114626"
     },
     {
       "published_datetime": "2025-12-28T19:33:37.000000Z",
@@ -335,5 +335,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 10,
-  "merged_at": "2025-12-29T08:40:08.833576"
+  "merged_at": "2025-12-29T09:22:28.449074"
 }
