@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/37757a1a-4735-4b4e-b9b7-47334eee3171",
+      "published_datetime": "2025-12-29T17:04:23.415323",
+      "title": "Zelensky seeks 50-year US security guarantees",
+      "featured_image": {
+        "url": "https://www.nytimes.com/2025/12/28/us/politics/trump-zelensky-peace-ukraine-putin.html",
+        "name": "Trump and Zelensky Meet to Iron Out Peace Plan, but Deal Remains Elusive",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--DA2I9lZ5--/t_limit/https://static01.nyt.com/images/2025/12/28/us/politics/28dc-PREXY/28TrumpZelensky-facebookJumbo.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Qq3DYd8L--/t_thumbnail/https://static01.nyt.com/images/2025/12/28/us/politics/28dc-PREXY/28TrumpZelensky-facebookJumbo.jpg"
+      },
+      "description": "Ukrainian President Volodymyr Zelensky on Monday requested US security guarantees lasting up to 50 years, arguing that Ukraine needs longer-term commitments than the 15-year guarantee currently proposed in peace plan discussions with President Donald Trump.\n\nFollowing their December 28 meeting at Mar-a-Lago, Zelensky told reporters that while draft documents include \"strong\" US security guarantees for 15 years with the possibility of extension, he pressed Trump to consider a significantly longer timeframe[1][2][3][4]. \"I told him that we are already at war and it has been going on for almost 15 years,\" Zelensky said in a WhatsApp message to journalists, referencing the conflict that began with Russia's 2014 annexation of Crimea and support for separatists in eastern Ukraine[4][5][6]. \"I told him that we would really like to consider the possibility of 30, 40, 50 years,\" he added[1][7][6].\n\nTrump responded that he would \"think about\" the proposal, according to Zelensky[8][7][9]. The president offered no immediate commitment, though both leaders described the two-hour meeting as productive and suggested progress toward ending the nearly four-year full-scale war.",
+      "audio_url": "",
+      "url": "zelensky-seeks-50-year-us-secu-iXn_NMhRSXyuZkQhxmsEDw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-29T16:23:15.000000Z",
       "title": "Russia claims Ukraine targeted Putin residence with drones",
       "featured_image": {
@@ -316,21 +331,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7b76d0f6-f806-44bf-841e-140e9dd7f1e2",
-      "published_datetime": "2025-12-28T17:37:44.146839",
-      "title": "Thwaites Glacier retreating faster than expected, study warns",
-      "featured_image": {
-        "url": "https://news.mongabay.com/2025/09/scientists-weigh-giant-sea-curtain-to-shield-doomsday-glacier-from-melting/",
-        "name": "Scientists weigh giant sea curtain to shield 'Doomsday Glacier' from ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--EfQJTt3s--/t_limit/https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/09/23122921/Thwaites_Glacier.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--GfdLHbpT--/t_thumbnail/https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/09/23122921/Thwaites_Glacier.jpg"
-      },
-      "description": "Antarctica's Thwaites Glacier is retreating faster than anticipated, with new research revealing fractures and underwater erosion that threaten to destabilize the massive ice sheet and trigger catastrophic sea-level rise affecting hundreds of millions of coastal residents worldwide.\n\nScientists from the International Thwaites Glacier Collaboration released findings in their 2025 report showing the glacier's retreat \"has accelerated considerably over the past 40 years\"[1]. While a full collapse is unlikely to occur in the next few decades, the glacier \"is set to retreat further, and faster, through the 21st and 22nd centuries,\" potentially leading to a general collapse of the West Antarctic Ice Sheet by the 23rd century[1][2].",
-      "audio_url": "",
-      "url": "thwaites-doomsday-glacier-coll-rkdCkRYARO6qzSrMmOBssQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-28T17:00:00.000000Z",
       "title": "Knife attack near Suriname\u2019s capital Paramaribo kills at least 9 people",
       "featured_image": {
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-29T17:12:34.619114"
+  "merged_at": "2025-12-29T17:24:49.295059"
 }
