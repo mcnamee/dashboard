@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-29T21:42:18.000000Z",
+      "title": "'Hell to pay' if Hamas doesn't disarm, Trump says after Netanyahu meeting",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1771a9029b0c27573c945250f227250b?impolicy=wcms_crop_resize&amp;cropH=2498&amp;cropW=4441&amp;xPos=0&amp;yPos=110&amp;width=862&amp;height=485"
+      },
+      "description": "The US president has been hosting Israeli Prime Minister Benjamin Netanyahu at his residence in Florida for talks on Gaza and several other issues.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/donald-trump-calls-hamas-disarm-netanyahu-meeting/106186218"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9917d852-5a4c-4883-b035-92f56b9ad97b",
       "published_datetime": "2025-12-29T20:46:39.174651",
       "title": "Trump warns Iran against rebuilding nuclear program",
@@ -17,7 +26,7 @@
     },
     {
       "published_datetime": "2025-12-29T20:32:19.000000Z",
-      "title": "Jessica could use her cochlear implant, but decided not to",
+      "title": "Jessica could have a cochlear implant, but decided not to. Here's why",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2e17f37c647b874d44b0fba705043989?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -128,7 +137,7 @@
     },
     {
       "published_datetime": "2025-12-29T18:56:41.000000Z",
-      "title": "Josh Burns to take rare extendend parental leave from parliament next year",
+      "title": "Josh Burns to take rare extended parental leave from parliament next year",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ebfbfd9ef0b8f99db9b404281b36be09?impolicy=wcms_crop_resize&amp;cropH=2807&amp;cropW=4991&amp;xPos=0&amp;yPos=63&amp;width=862&amp;height=485"
       },
@@ -161,15 +170,6 @@
       },
       "description": "Battery uptake is booming since the federal government rebate came into effect in July. Here's what you need to know if you are thinking of joining the thousands of Australians adding a battery to their home solar systems.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/home-battery-uptake-soars-due-to-government-subsidy/106120730"
-    },
-    {
-      "published_datetime": "2025-12-29T18:48:10.000000Z",
-      "title": "What happened when we tested a new therapy chatbot",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ccb2adfc59d064a3ae1d2b11d435af4f?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
-      },
-      "description": "Is it possible to make a \"safe\" AI therapy bot? We tested the limits of a new Australian-designed chatbot that's been carefully designed not to hallucinate or be your best friend.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/safe-mental-health-artificial-intelligence-chatgpt/106136202"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/aa39351f-b48a-4a16-a086-824524b6c0a4",
@@ -218,7 +218,7 @@
     },
     {
       "published_datetime": "2025-12-29T16:23:15.000000Z",
-      "title": "Zelenskyy denies drone attack of Putin residence amid peace negotiations",
+      "title": "Zelenskyy denies drone attack on Putin residence amid peace negotiations",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85455069cd87d1ca0610fdf046ccc671?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
       },
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-29T21:25:19.017213"
+  "merged_at": "2025-12-29T22:13:09.501296"
 }
