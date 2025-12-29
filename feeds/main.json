@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9eb809f1-b9ca-4ab3-9919-8523390b358f",
+      "published_datetime": "2025-12-29T17:32:21.351970",
+      "title": "Search for missing Malaysia Airlines Flight MH370 to resume",
+      "featured_image": {
+        "url": "https://www.kongsberg.com/maritime/news-and-events/news-archive/2022/HUGIN-AUV-to-Ocean-Infinity/",
+        "name": "HUGIN AUV to Ocean Infinity - Kongsberg Maritime",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--XLAd_qnZ--/t_limit/https://www.kongsberg.com/contentassets/b198e9d44c914774977c45bd9fee3290/hugin_auv.jpg%3Fwidth%3D1000%26rxy%3D0.5%252C0.5",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0hWOnegI--/t_thumbnail/https://www.kongsberg.com/contentassets/b198e9d44c914774977c45bd9fee3290/hugin_auv.jpg%3Fwidth%3D1000%26rxy%3D0.5%252C0.5"
+      },
+      "description": "The hunt for Malaysia Airlines flight MH370 will recommence on December 30, more than 11 years after the aircraft vanished with 239 people on board, Malaysian authorities announced this month, reigniting hopes that one of aviation's most enduring mysteries may finally be solved[1][2][3].\n\nUK and US-based marine robotics company Ocean Infinity will lead the renewed effort, conducting a 55-day intermittent search of a targeted 15,000-square-kilometer area in the southern Indian Ocean[1][2][4]. The operation will deploy autonomous underwater vehicles capable of reaching depths exceeding 6,000 meters\u2014technology unavailable during earlier search efforts[5][6].\n\nThe Boeing 777 disappeared from radar on March 8, 2014, during a routine flight from Kuala Lumpur to Beijing[1][2][4]. The aircraft carried 227 passengers, predominantly Chinese nationals, along with 12 Malaysian crew members[5][2][3]. Military radar later revealed the plane had deviated sharply from its flight path, turning back over northern Malaysia before heading into the Andaman Sea and then southward, after which all contact was lost[5][7][3].",
+      "audio_url": "",
+      "url": "search-for-missing-malaysia-ai-bNKKtvkyTJykyeLpVMxL.Q",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/37757a1a-4735-4b4e-b9b7-47334eee3171",
       "published_datetime": "2025-12-29T17:04:23.415323",
       "title": "Zelensky seeks 50-year US security guarantees",
@@ -316,21 +331,6 @@
       "page_content_url": "https://abcnews.go.com/International"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7dd0461a-8729-4c3b-ba91-060adf030ca6",
-      "published_datetime": "2025-12-28T17:47:52.720317",
-      "title": "Zelenskyy to present updated 20-point peace plan in meeting with Trump",
-      "featured_image": {
-        "url": "https://www.nbcnews.com/world/ukraine/trump-zelenskyy-meeting-florida-kyiv-hopes-rcna251195",
-        "name": "As Trump and Zelenskyy meet in Florida, Kyiv hopes this time will be different",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--wVaHhYU9--/t_limit/https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630%2Cf_auto%2Cq_auto:best/rockcms/2025-08/250818-donald-trump-volodymyr-zelenskyy-se-432p-995bd6.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--naL8ooT5--/t_thumbnail/https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630%2Cf_auto%2Cq_auto:best/rockcms/2025-08/250818-donald-trump-volodymyr-zelenskyy-se-432p-995bd6.jpg"
-      },
-      "description": "Ukrainian President Volodymyr Zelenskyy arrived in Florida on Sunday to meet with President Donald Trump at Mar-a-Lago, presenting a revised 20-point peace proposal aimed at ending nearly four years of war with Russia[1][2][3][4][5]. The meeting, scheduled for 1 p.m. local time, comes one day after Russia unleashed a massive attack on Kyiv using approximately 500 drones and 40 missiles, killing at least two people and leaving a third of the capital without heating[1][6][7][8][9].\n\nZelenskyy described the plan as \"about 90% ready,\" signaling what both Ukrainian and U.S. officials characterized as substantial progress in negotiations[4][5][10][11]. The proposal includes NATO-style security guarantees modeled on Article 5, provisions for demilitarized zones in eastern Ukraine, and arrangements for disputed territories[12][13][14][15]. However, Trump emphasized his final authority over any agreement, telling Politico on Friday: \"He doesn't have anything until I approve it. So we'll see what he's got\"[16][4][5].",
-      "audio_url": "",
-      "url": "zelenskyy-to-present-updated-2-1LZOxFnsRhuxeFQg9gM4dQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-28T17:00:00.000000Z",
       "title": "Knife attack near Suriname\u2019s capital Paramaribo kills at least 9 people",
       "featured_image": {
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-29T18:20:18.007176"
+  "merged_at": "2025-12-29T18:39:03.951622"
 }
