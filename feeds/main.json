@@ -1,12 +1,21 @@
 {
   "items": [
     {
-      "published_datetime": "2025-12-30T04:52:03.000000Z",
-      "title": "Breaking: Massive factory blaze in Sydney's west puts properties at risk",
+      "published_datetime": "2025-12-30T05:49:08.000000Z",
+      "title": "Darwin chef sentenced over role as 'Uber driver' for people smugglers",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/47b3aeb1e27cfdbc2577afea2d911699?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/749c3d1cd0378341498a35ddbc40801d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Dozens of firefighters are battling a massive factory fire in Sydney's west.",
+      "description": "A brazen example of people smuggling has been recounted in the Northern Territory Supreme Court, after three Chinese nationals made it into Darwin Harbour on a small wooden fishing boat.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/nt-darwin-chef-sentenced-over-people-smuggling-peration/106186976"
+    },
+    {
+      "published_datetime": "2025-12-30T04:52:03.000000Z",
+      "title": "Massive factory blaze in Sydney puts properties at risk",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d141c30a7c75f6cd97773d98023904a9?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Dozens of firefighters are battling a massive factory fire in Sydney's south-west.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/nsw-greenacre-firefighters-battle-flooring-factory-blaze/106188018"
     },
     {
@@ -35,21 +44,12 @@
     },
     {
       "published_datetime": "2025-12-30T04:06:51.000000Z",
-      "title": "MH370 vanished in 2014 but a new search aims to solve the baffling puzzle",
+      "title": "A plane vanished without trace in 2014. Now new tech is looking for MH370",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/264fcafa969ba9db4900f8ca20c10239?impolicy=wcms_crop_resize&amp;cropH=620&amp;cropW=1103&amp;xPos=0&amp;yPos=71&amp;width=862&amp;height=485"
       },
       "description": "Malaysia Airlines missing flight MH370, which vanished in 2014, remains one of aviation's enduring mysteries. A new search, beginning today, is aiming to provide answers.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/mh370-search-resumes-for-malaysia-airlines-missing-plane/106186962"
-    },
-    {
-      "published_datetime": "2025-12-30T03:40:43.000000Z",
-      "title": "'Threatened with a huge axe': Police search for carjacker who broke into Victorian home",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c8c13f7dbaeaaa683fec10a24993754?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=62&amp;width=862&amp;height=485"
-      },
-      "description": "Police are combing eastern Victorian bushland for a man they allege broke into a house with an axe and stole multiple cars in the Latrobe Valley.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/carjacking-theft-breaking-entry-axe-moondarra/106187634"
     },
     {
       "published_datetime": "2025-12-30T03:39:11.000000Z",
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-30T05:30:25.846869"
+  "merged_at": "2025-12-30T06:21:24.571330"
 }
