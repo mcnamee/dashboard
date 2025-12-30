@@ -19,7 +19,7 @@
       "published_datetime": "2025-12-30T08:06:01.000000Z",
       "title": "Yacht on brink of historic Sydney Hobart victory subject to protest",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d1657ccfe1d33a6030ab860e6bade985?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=98&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/73f05a9046341ad6f724e3a1ce4dfe3d?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=82&amp;width=862&amp;height=485"
       },
       "description": "The two-person crewed yacht on the brink of winning the prestigious overall handicap prize in the Sydney to Hobart race is the subject of a protest by a rival, which could potentially deny it victory.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/protest-lodged-against-bnc-by-min-river/106188442"
@@ -38,6 +38,15 @@
       "audio_url": "",
       "url": "2025-marked-by-record-heat-and-HPUnsm0eRiytlOrF5JYuMA",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2025-12-30T06:15:14.000000Z",
+      "title": "An Australian cruise ship ran aground in PNG. Here's what we know",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f5fa31ddb507ed672b7ba9d0401db6fe?impolicy=wcms_crop_resize&amp;cropH=392&amp;cropW=698&amp;xPos=68&amp;yPos=267&amp;width=862&amp;height=485"
+      },
+      "description": "The Coral Adventurer was carrying 80 tourists into the remote reaches of Papua New Guinea when it came to an abrupt halt on a reef off the Pacific nation's coast.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/coral-adventurer-ran-aground-papua-new-guinea-explainer/106187276"
     },
     {
       "published_datetime": "2025-12-30T05:49:08.000000Z",
@@ -122,15 +131,6 @@
       "audio_url": "",
       "url": "2025-breaks-paris-agreement-te-FcF8u_mhRUmPu9Ayvzxonw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-30T02:32:35.000000Z",
-      "title": "Australian cruise ship detained after being stranded, as passengers journey home",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e7fc3ac0442046b1ace3094be6cce56b?impolicy=wcms_crop_resize&amp;cropH=459&amp;cropW=816&amp;xPos=102&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Passengers of an Australian cruise ship that ran aground off the coast of Papua New Guinea have begun their journey home, as efforts to free the ship remain unsuccessful.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/coral-adventurer-passengers-begin-journey-home/106187482"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/15093a49-83f0-4974-af61-77884978648c",
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-30T08:37:26.379147"
+  "merged_at": "2025-12-30T09:18:05.080802"
 }
