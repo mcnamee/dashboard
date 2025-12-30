@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4bd60066-93fd-4548-a535-0ac97bfa11e6",
+      "published_datetime": "2025-12-30T16:13:25.365752",
+      "title": "UAE to withdraw troops from Yemen after Saudi ultimatum",
+      "featured_image": {
+        "url": "https://www.nytimes.com/2025/12/30/world/middleeast/yemen-saudi-strike-uae.html",
+        "name": "Saudis Say Airstrike in Yemen Targeted Arms From U.A.E.",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--uQaQbcVH--/t_limit/https://static01.nyt.com/images/2025/12/30/multimedia/30int-yemen-strike-gvlk/30int-yemen-strike-gvlk-facebookJumbo.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--SjOp0H47--/t_thumbnail/https://static01.nyt.com/images/2025/12/30/multimedia/30int-yemen-strike-gvlk/30int-yemen-strike-gvlk-facebookJumbo.jpg"
+      },
+      "description": "The United Arab Emirates announced Tuesday it will withdraw its remaining military forces from Yemen, hours after Saudi Arabia bombed a Yemeni port and issued an ultimatum demanding Emirati troops leave within 24 hours, marking the most serious confrontation between the two Gulf allies in decades[1][2][3].\n\nThe escalation unfolded after Saudi-led coalition forces struck Mukalla port early Tuesday morning, targeting what Riyadh described as weapons shipments from the UAE intended for southern separatists. Yemen's Presidential Leadership Council head, Rashad al-Alimi, subsequently cancelled a joint defense agreement with Abu Dhabi and declared a 90-day state of emergency[4][5][6].",
+      "audio_url": "",
+      "url": "uae-to-withdraw-troops-from-ye-NSYZ57wTTBibWwNPDWuAzQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9bf1fcdb-6dab-41c9-bbc7-5b9c27a35bd0",
       "published_datetime": "2025-12-30T14:52:00.123084",
       "title": "CIA conducted first drone strike inside Venezuela",
@@ -244,21 +259,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/protest-lodged-against-bnc-by-min-river/106188442"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dea7ed33-d293-4605-9f74-5e08ac88ea2b",
-      "published_datetime": "2025-12-30T06:42:46.589225",
-      "title": "2025 ties for second-hottest year as extreme weather kills thousands",
-      "featured_image": {
-        "url": "https://www.reuters.com/sustainability/cop/european-heatwave-caused-2300-deaths-scientists-estimate-2025-07-09/",
-        "name": "European heatwave caused 2,300 deaths, scientists estimate",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--uW94MKNo--/t_limit/https://www.reuters.com/resizer/v2/NYCYJPXJKNIBDMHLVSPAMNCQQU.jpg%3Fauth%3D551377d815e9491070f08d5f73206686008e9dadbbb4e702df0ec7855e149ded%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--WVhc8TVk--/t_thumbnail/https://www.reuters.com/resizer/v2/NYCYJPXJKNIBDMHLVSPAMNCQQU.jpg%3Fauth%3D551377d815e9491070f08d5f73206686008e9dadbbb4e702df0ec7855e149ded%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Scientists confirmed Tuesday that 2025 ranks as one of the three hottest years on record, with human-caused climate change driving deadly extreme weather events across the globe that killed thousands and displaced millions. The year's global average temperature reached 1.48\u00b0C above pre-industrial levels\u2014marking the first time a three-year average has exceeded the critical 1.5\u00b0C threshold set by the 2015 Paris Agreement[1][2][3].\n\nThe findings from World Weather Attribution researchers show that 2025 will tie with 2023 as the second-hottest year, trailing only 2024[4][5]. Temperatures remained exceptionally high despite La Ni\u00f1a conditions\u2014a natural cooling pattern\u2014underscoring the dominant role of fossil fuel emissions in warming the planet[4][6].",
-      "audio_url": "",
-      "url": "2025-marked-by-record-heat-and-HPUnsm0eRiytlOrF5JYuMA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T04:06:51.000000Z",
       "title": "A plane vanished without trace in 2014. Now new tech is looking for MH370",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 7,
-  "merged_at": "2025-12-30T16:17:27.617453"
+  "merged_at": "2025-12-30T16:36:04.017699"
 }
