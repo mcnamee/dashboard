@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/nsw-greenacre-firefighters-battle-flooring-factory-blaze/106188018"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cd824a96-380e-4cea-9568-3ca0b618f130",
+      "published_datetime": "2025-12-30T04:50:42.813853",
+      "title": "Taiwan's Lai vows no escalation as China drills enter second day",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/asia-pacific/taiwan-president-rallies-troops-ahead-possible-chinese-drills-2025-05-16/",
+        "name": "Taiwan president rallies the troops ahead of possible Chinese drills",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--plIX33e8--/t_limit/https://www.reuters.com/resizer/v2/UMX4HIT4HJP6PAM7III72WANR4.jpg%3Fauth%3D7c44982046459b549f54260d08456cc0d2c664f52b54e5d89187b94dcad300c0%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--R9UsVfzf--/t_thumbnail/https://www.reuters.com/resizer/v2/UMX4HIT4HJP6PAM7III72WANR4.jpg%3Fauth%3D7c44982046459b549f54260d08456cc0d2c664f52b54e5d89187b94dcad300c0%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Taiwan President Lai Ching-te pledged Tuesday that his government would \"act responsibly, without escalating the conflict or provoking disputes\" as China conducted a second day of major military drills around the self-ruled island[1][2]. The statement came as Beijing deployed what Taiwan's defense ministry described as 14 naval ships, 89 military aircraft, and an amphibious strike force in exercises designed to simulate a blockade[3].\n\n\"The Chinese Communist Party's escalation of military pressure is not the conduct expected from a responsible power,\" Lai said in a social media statement Tuesday morning, adding that Taiwan's military and national security team would \"do their utmost to ensure the safety of the nation\"[4]. Presidential Office spokesperson Karen Kuo condemned China's actions as \"military intimidation\" that \"undermine the stability and security of the Taiwan Strait and Indo-Pacific region\"[5][6][7].",
+      "audio_url": "",
+      "url": "taiwan-president-lai-addresses-LvNCQS72RJa4xk78RqB6ZA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-30T04:46:20.000000Z",
       "title": "Attacking Putin's home would be 'stupid' move by Ukraine, say experts",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9917d852-5a4c-4883-b035-92f56b9ad97b",
-      "published_datetime": "2025-12-29T20:46:39.174651",
-      "title": "Trump warns Iran against rebuilding nuclear program",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2025/12/29/trump-says-us-would-back-strikes-against-irans-missile-programme",
-        "name": "Trump says US would back strikes against Iran\u2019s missile programme",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--3dL2Ls94--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-29T184534Z_382127940_RC2IQIAN933K_RTRMADP_3_ISRAEL-PALESTINIANS-TRUMP-NETANYAHU-1767034012.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ivfx7oJi--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-29T184534Z_382127940_RC2IQIAN933K_RTRMADP_3_ISRAEL-PALESTINIANS-TRUMP-NETANYAHU-1767034012.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "President Donald Trump threatened renewed military action against Iran on Monday if Tehran attempts to rebuild its nuclear capabilities, declaring the United States would \"knock the hell out of them\" during a meeting with Israeli Prime Minister Benjamin Netanyahu at Mar-a-Lago[1][2][3].\n\nSpeaking alongside Netanyahu, Trump claimed joint U.S.-Israeli operations had already destroyed Iran's nuclear program and fundamentally shifted the Middle East balance of power. \"We just won a big war together,\" Trump said. \"If we didn't beat Iran, you wouldn't have had peace in the Middle East. We wiped it out\"[1][3].\n\nWhen pressed on whether he would support further Israeli military strikes if Iran continues advancing its missile or nuclear programs, Trump responded affirmatively. \"If they continue with the missiles \u2014 yes,\" he said. \"The nuclear \u2014 absolutely\"[1][2][3].",
-      "audio_url": "",
-      "url": "trump-warns-iran-against-rebui-4kz.lKoZStylUvFRmZYOYw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-29T03:27:00.000000Z",
       "title": "Trump spoke with Russian President Vladimir Putin by phone on Sunday",
       "featured_image": {
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-30T05:18:18.013426"
+  "merged_at": "2025-12-30T05:30:25.846869"
 }
