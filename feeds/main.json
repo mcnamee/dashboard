@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-30T13:57:22.000000Z",
+      "title": "Exhausted passengers arrive home after luxury cruise liner runs aground",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a3c2811046f90471ee13b04db2b96460?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Around 80 passengers on the Coral Adventurer have been flown home after the cruise ship ran aground on a reef off Papua New Guinea.\u00a0\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-31/christmas-cruise-png-passengers-return-coral-adventurer/106186660"
+    },
+    {
       "published_datetime": "2025-12-30T12:55:49.000000Z",
       "title": "Breaking: Eurostar cancellations wreck havoc on winter travel, New Year's Eve celebrations",
       "featured_image": {
@@ -86,11 +95,11 @@
     },
     {
       "published_datetime": "2025-12-30T09:16:07.000000Z",
-      "title": "Destructive winds, heavy rain as Tropical Cyclone Hayley crosses Kimberley coast",
+      "title": "Destructive winds, heavy rain as Tropical Cyclone Hayley crosses coast",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6d4280b2350a55729fb49b837559aed9?impolicy=wcms_crop_resize&amp;cropH=368&amp;cropW=654&amp;xPos=0&amp;yPos=57&amp;width=862&amp;height=485"
       },
-      "description": "Tropical Cyclone Hayley brings severe winds and heavy rain to parts of the north-west Kimberley as it crosses the coast as a category three system.",
+      "description": "Severe Tropical Cyclone Hayley has been downgraded, after bringing severe winds and heavy rain to parts of the north-west Kimberley.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/severe-tropical-cyclone-hayley-crosses-kimberley-coast/106187730"
     },
     {
@@ -157,15 +166,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-30T06:15:14.000000Z",
-      "title": "An Australian cruise ship ran aground in PNG. Here's what we know",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f5fa31ddb507ed672b7ba9d0401db6fe?impolicy=wcms_crop_resize&amp;cropH=392&amp;cropW=698&amp;xPos=68&amp;yPos=267&amp;width=862&amp;height=485"
-      },
-      "description": "The Coral Adventurer was carrying 80 tourists into the remote reaches of Papua New Guinea when it came to an abrupt halt on a reef off the Pacific nation's coast.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/coral-adventurer-ran-aground-papua-new-guinea-explainer/106187276"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cd824a96-380e-4cea-9568-3ca0b618f130",
       "published_datetime": "2025-12-30T04:50:42.813853",
       "title": "Taiwan's Lai vows no escalation as China drills enter second day",
@@ -186,7 +186,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/264fcafa969ba9db4900f8ca20c10239?impolicy=wcms_crop_resize&amp;cropH=620&amp;cropW=1103&amp;xPos=0&amp;yPos=71&amp;width=862&amp;height=485"
       },
-      "description": "Malaysia Airlines missing flight MH370, which vanished in 2014, remains one of aviation's enduring mysteries. A new search, beginning today, is aiming to provide answers.",
+      "description": "Malaysia Airlines missing flight MH370, which vanished in 2014, remains one of aviation's enduring mysteries. A new search \u00a0is aiming to provide answers.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/mh370-search-resumes-for-malaysia-airlines-missing-plane/106186962"
     },
     {
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-30T13:41:37.165113"
+  "merged_at": "2025-12-30T14:14:32.868543"
 }
