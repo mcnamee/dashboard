@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-30T00:20:18.000000Z",
+      "title": "Police with long-arm weapons to patrol Sydney's NYE celebrations",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29551ebeae1880475eb7052cc302436b?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=159&amp;width=862&amp;height=485"
+      },
+      "description": "More than 2,500 police officers will be out in force at New Year's Eve celebrations in Sydney in a bid to bolster revellers' confidence in the wake of the Bondi terror attack.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/nsw-police-increase-presence-at-new-years-eve-post-bondi-attack/106185980"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/eea40b37-ea05-4a25-ad1a-04b5fad9f05e",
       "published_datetime": "2025-12-29T23:01:16.146000",
       "title": "Study suggests dark energy may be weakening, universe could collapse",
@@ -55,6 +64,15 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/donald-trump-calls-hamas-disarm-netanyahu-meeting/106186218"
     },
     {
+      "published_datetime": "2025-12-29T20:57:36.000000Z",
+      "title": "Facebook Marketplace and Gumtree are full of scammers. Here is how to avoid them",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c0fb0315596a09ec3002081c86b69111?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Savannah thought she had taken all the right steps to protect herself while selling items on Facebook Marketplace \u2014 but that did not stop her from being scammed. Here is what you need to know when buying and selling via online marketplaces.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/how-to-protect-against-marketplace-scams/106118280"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9917d852-5a4c-4883-b035-92f56b9ad97b",
       "published_datetime": "2025-12-29T20:46:39.174651",
       "title": "Trump warns Iran against rebuilding nuclear program",
@@ -70,15 +88,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-29T20:32:19.000000Z",
-      "title": "Jessica could have a cochlear implant but decided not to. Here's why",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2e17f37c647b874d44b0fba705043989?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Cochlear implants can be a life-changing tool for people with hearing loss, but some Deaf people argue their use risks compromising their community's identity.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/cochlear-implants-debate-in-the-deaf-community/106044156"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ca316524-28da-4254-9aeb-fc8a5bd17a22",
       "published_datetime": "2025-12-29T20:31:05.299527",
       "title": "Kazakhstan oil output falls 6% after Ukraine hits Russia export terminal",
@@ -92,15 +101,6 @@
       "audio_url": "",
       "url": "kazakhstan-oil-output-drops-6-vcbpsS4dS_WJWppQzdGZQQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-29T20:17:26.000000Z",
-      "title": "Trump says US 'knocked out' a 'big facility' in Venezuela",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bd6a4207235a9b7e96eab7bd124ee7d5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
-      },
-      "description": "A US strike on Venezuelan soil would be the first known land attack in the country since the Trump administration began ratcheting up pressure on its ruling regime, which Donald Trump accuses of \"narco-terrorism\".\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/trump-says-us-knocked-out-big-facility-in-venezuela/106186078"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/61ea7a9b-058f-4348-9608-48f7946b2230",
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-29T23:25:56.147602"
+  "merged_at": "2025-12-30T01:01:50.787475"
 }
