@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-30T12:55:49.000000Z",
+      "title": "Breaking: Eurostar cancellations wreck havoc on winter travel, New Year's Eve celebrations",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/71301ac882a096714a6f1fffbf828f26?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "A disruption on Tuesday prompted the rail company to request train customers postpone their journeys until another time.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/eurostar-trains-to-paris-london-brussels-amsterdam-cancelled/106188734"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/40e27a35-6c9b-4766-861a-c84f065d1027",
       "published_datetime": "2025-12-30T12:20:56.955147",
       "title": "China condemns record US arms sale as Taiwan drills escalate",
@@ -81,7 +90,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6d4280b2350a55729fb49b837559aed9?impolicy=wcms_crop_resize&amp;cropH=368&amp;cropW=654&amp;xPos=0&amp;yPos=57&amp;width=862&amp;height=485"
       },
-      "description": "Severe Tropical Cyclone Hayley brings severe winds and heavy rain to parts of the north-west Kimberley as it crosses the coast as a category three system.",
+      "description": "Tropical Cyclone Hayley brings severe winds and heavy rain to parts of the north-west Kimberley as it crosses the coast as a category three system.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/severe-tropical-cyclone-hayley-crosses-kimberley-coast/106187730"
     },
     {
@@ -155,15 +164,6 @@
       },
       "description": "The Coral Adventurer was carrying 80 tourists into the remote reaches of Papua New Guinea when it came to an abrupt halt on a reef off the Pacific nation's coast.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/coral-adventurer-ran-aground-papua-new-guinea-explainer/106187276"
-    },
-    {
-      "published_datetime": "2025-12-30T04:52:03.000000Z",
-      "title": "Sydney factory destroyed as dozens of firefighters battle huge blaze",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d141c30a7c75f6cd97773d98023904a9?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "More than 60 firefighters with 20 trucks were called to a factory in Greenacre just before 3pm on Tuesday.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/nsw-greenacre-firefighters-battle-flooring-factory-blaze/106188018"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cd824a96-380e-4cea-9568-3ca0b618f130",
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-30T12:57:46.148555"
+  "merged_at": "2025-12-30T13:31:14.865884"
 }
