@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/53e90860-aa49-424b-a594-04714569514a",
+      "published_datetime": "2025-12-30T19:28:36.979669",
+      "title": "Harvard physicist says interstellar object may be alien tech",
+      "featured_image": {
+        "url": "https://www.primetimer.com/features/hubble-observes-unusual-twin-jets-from-interstellar-object-3i-atlas-as-it-leaves-the-solar-system",
+        "name": "Hubble observes unusual twin jets from interstellar object 3I/ATLAS as it leaves the solar system",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_ONJqLOk--/t_limit/https://d1rldr9jdodfaa.cloudfront.net/images/01KDM45R1HGZ5XTPV8WR2W98FE/20251229_035931_1435410826.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Lvikn8le--/t_thumbnail/https://d1rldr9jdodfaa.cloudfront.net/images/01KDM45R1HGZ5XTPV8WR2W98FE/20251229_035931_1435410826.webp"
+      },
+      "description": "Harvard physicist Avi Loeb has intensified his claim that the interstellar visitor 3I/ATLAS may be an alien spacecraft, citing new Hubble Space Telescope images that reveal an unusual dual-jet structure as the object speeds away from Earth.\n\nObservations captured on December 12 and 27 show two distinct jets of material streaming from the object's nucleus, with one pointing toward the Sun and a weaker jet extending in the opposite direction[1][2][3]. As one jet brightens, the other fades in what Loeb describes as a \"clean, repeatable and geometrically consistent swap\"[4].\n\nLoeb, a Harvard astrophysicist who leads the Galileo Project, has ranked 3I/ATLAS a \"four\" on his personal scale of zero to ten, where zero represents a natural comet and ten signifies an active alien threat[5][6]. \"You can't just say, 'I know the answer' and ignore the anomalies. That's not viable,\" Loeb said[5][6].\n\n3I/ATLAS, discovered on July 1, 2025, is only the third confirmed interstellar object to visit our solar system, following 'Oumuamua in 2017 and 2I/Borisov in 2019[7][8]. The object passed Earth on December 19 at a safe distance of roughly 170 million miles and is now heading toward Jupiter, where it will make its closest approach on March 16, 2026[5][9].",
+      "audio_url": "",
+      "url": "harvard-scientist-suggests-3ia-Aal2iuUvTK6g1CXNPVURFQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-30T19:07:35.000000Z",
       "title": "Denmark becomes first country in world to end letter delivery",
       "featured_image": {
@@ -271,21 +286,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4fce7077-43a6-45e6-83ea-188674b2f21f",
-      "published_datetime": "2025-12-30T09:34:21.535056",
-      "title": "China orders chipmakers to use 50% domestic equipment",
-      "featured_image": {
-        "url": "https://www.marketscreener.com/news/china-mandates-50-domestic-equipment-rule-for-chipmakers-sources-say-ce7e59dbd088f720",
-        "name": "China mandates 50% domestic equipment rule for chipmakers, sources\u00a0say",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--wuLOwQTq--/t_limit/https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2025-12/2025-12-30T090850Z_1_LYNXMPELBT0AQ_RTROPTP_4_CHINA-METALS.JPG",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--dOmaikwc--/t_thumbnail/https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2025-12/2025-12-30T090850Z_1_LYNXMPELBT0AQ_RTROPTP_4_CHINA-METALS.JPG"
-      },
-      "description": "China has mandated that semiconductor manufacturers use at least 50 percent domestically produced equipment when expanding production capacity, according to three people familiar with the matter, marking one of Beijing's most significant measures to reduce dependence on foreign technology[1][2][3].\n\nThe unpublicized rule, communicated to chipmakers by government officials in recent months, requires companies seeking state approval for new or expanded facilities to demonstrate through procurement tenders that at least half their equipment will be Chinese-made[1][2][4]. Applications that fail to meet this threshold are typically rejected, though authorities grant flexibility depending on supply constraints[1][2].",
-      "audio_url": "",
-      "url": "china-orders-chipmakers-to-use-v4gbfVtUTICJBFw0RZ1ktw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T09:16:07.000000Z",
       "title": "Destructive winds and heavy rain as Tropical Cyclone Hayley crosses coast",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 7,
-  "merged_at": "2025-12-30T20:15:08.818345"
+  "merged_at": "2025-12-30T20:30:54.567593"
 }
