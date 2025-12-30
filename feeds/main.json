@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-30T09:16:07.000000Z",
+      "title": "Destructive winds, heavy rain as Tropical Cyclone Hayley crosses Kimberley coast",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6d4280b2350a55729fb49b837559aed9?impolicy=wcms_crop_resize&amp;cropH=368&amp;cropW=654&amp;xPos=0&amp;yPos=57&amp;width=862&amp;height=485"
+      },
+      "description": "Severe Tropical Cyclone Hayley brings severe winds and heavy rain to parts of the north-west Kimberley as it crosses the coast as a category three system.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/severe-tropical-cyclone-hayley-crosses-kimberley-coast/106187730"
+    },
+    {
+      "published_datetime": "2025-12-30T09:09:30.000000Z",
+      "title": "Man dies in floodwaters in north west Queensland",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d1b5b3095c8131d0fd05126a6ee8825f?impolicy=wcms_crop_resize&amp;cropH=653&amp;cropW=1161&amp;xPos=32&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Police were called to a vehicle submerged in floodwaters near Normanton where they found the man aged in his 70s.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/qld-flood-death-normanton-/106188576"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d4e96df6-206c-4197-9fda-20a31ad93ad3",
       "published_datetime": "2025-12-30T08:38:12.148584",
       "title": "US grants Samsung, SK Hynix annual chip export licenses",
@@ -32,7 +50,7 @@
     },
     {
       "published_datetime": "2025-12-30T08:06:01.000000Z",
-      "title": "Yacht on brink of historic Sydney Hobart victory subject to protest",
+      "title": "Shock protest against yacht on brink of historic Sydney Hobart victory",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/73f05a9046341ad6f724e3a1ce4dfe3d?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=82&amp;width=862&amp;height=485"
       },
@@ -64,15 +82,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/coral-adventurer-ran-aground-papua-new-guinea-explainer/106187276"
     },
     {
-      "published_datetime": "2025-12-30T05:49:08.000000Z",
-      "title": "Darwin chef sentenced over role as 'Uber driver' for people smugglers",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/749c3d1cd0378341498a35ddbc40801d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "A brazen example of people smuggling has been recounted in the Northern Territory Supreme Court, after three Chinese nationals made it into Darwin Harbour on a small wooden fishing boat.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/nt-darwin-chef-sentenced-over-people-smuggling-operation/106186976"
-    },
-    {
       "published_datetime": "2025-12-30T04:52:03.000000Z",
       "title": "Sydney factory destroyed as dozens of firefighters battle huge blaze",
       "featured_image": {
@@ -95,15 +104,6 @@
       "audio_url": "",
       "url": "taiwan-president-lai-addresses-LvNCQS72RJa4xk78RqB6ZA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-30T04:46:20.000000Z",
-      "title": "Attacking Putin's home would be 'stupid' move by Ukraine, say experts",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/02ff9365104eeebca2e38960a53a6995?impolicy=wcms_crop_resize&amp;cropH=2050&amp;cropW=3645&amp;xPos=0&amp;yPos=190&amp;width=862&amp;height=485"
-      },
-      "description": "A defence analyst tells the ABC an attack on the Russian President's state residence would be \"technically\" possible but would not make sense strategically for Ukraine.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/putin-drone-strike-ukraine-experts-say-no-evidence-russia/106187456"
     },
     {
       "published_datetime": "2025-12-30T04:06:51.000000Z",
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-30T09:32:25.208162"
+  "merged_at": "2025-12-30T10:15:15.390844"
 }
