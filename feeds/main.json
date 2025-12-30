@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-30T08:06:01.000000Z",
+      "title": "Yacht on brink of historic Sydney Hobart victory subject to protest",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d1657ccfe1d33a6030ab860e6bade985?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=98&amp;width=862&amp;height=485"
+      },
+      "description": "The two-person crewed yacht on the brink of winning the prestigious overall handicap prize in the Sydney to Hobart race is the subject of a protest by a rival, which could potentially deny it victory.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/protest-lodged-against-bnc-by-min-river/106188442"
+    },
+    {
       "published_datetime": "2025-12-30T05:49:08.000000Z",
       "title": "Darwin chef sentenced over role as 'Uber driver' for people smugglers",
       "featured_image": {
@@ -52,15 +61,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/mh370-search-resumes-for-malaysia-airlines-missing-plane/106186962"
     },
     {
-      "published_datetime": "2025-12-30T03:39:11.000000Z",
-      "title": "How the early Boxing Day Test finish spread far beyond the MCG",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/63c15967c7d7ac5fdfeff2943ebe964e?impolicy=wcms_crop_resize&amp;cropH=1550&amp;cropW=2754&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The economic and social impact of the Boxing Day Test reaches far past the pitch and the repercussions of the two-day finish rippled all across Melbourne.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/mcg-pitch-boxing-day-test-two-days-losses/106184878"
-    },
-    {
       "published_datetime": "2025-12-30T03:01:31.000000Z",
       "title": "Women wearing hijabs targeted in anti-Muslim abuse since Bondi attack",
       "featured_image": {
@@ -95,7 +95,7 @@
     },
     {
       "published_datetime": "2025-12-30T02:32:35.000000Z",
-      "title": "Passengers begin journey home as cruise ship remains stuck on PNG reef",
+      "title": "Australian cruise ship detained after being stranded, as passengers journey home",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e7fc3ac0442046b1ace3094be6cce56b?impolicy=wcms_crop_resize&amp;cropH=459&amp;cropW=816&amp;xPos=102&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-30T07:28:40.007467"
+  "merged_at": "2025-12-30T08:19:16.711728"
 }
