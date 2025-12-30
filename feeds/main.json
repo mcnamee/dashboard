@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-30T20:25:50.000000Z",
+      "title": "Floodwaters rise in outback Queensland as heavy rainfall continues in the north",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a1ab37f56c03ba35eda90f70022231b8?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Bureau of Meteorology predicts more rain in the state's north over the coming days, as graziers brace for stock losses and a man is found dead in a flooded vehicle at Normanton.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-31/major-flood-warnings-in-north-west-queensland-towns-isolated/106186966"
+    },
+    {
+      "published_datetime": "2025-12-30T20:09:10.000000Z",
+      "title": "JFK's granddaughter Tatiana Schlossberg dies aged 35",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3d20ae233071a522f44cc83c293b9ec6?impolicy=wcms_crop_resize&amp;cropH=2249&amp;cropW=3999&amp;xPos=0&amp;yPos=91&amp;width=862&amp;height=485"
+      },
+      "description": "Ms Schlossberg revealed in an essay published in November that she had a rare form of terminal leukaemia.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-31/jfk-granddaughter-tatiana-schlossberg-dies-aged-35/106189118"
+    },
+    {
+      "published_datetime": "2025-12-30T20:05:59.000000Z",
+      "title": "ASX ends 'stressful' year with value of gold and lithium stocks soaring",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8b5b7764f19ea53fd28e6b5fe7b85e85?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Several gold, lithium and other mining stocks have seen their share price double, and even triple, in 2025 as Australia's share market has had a much better than expected year despite tariffs, economic uncertainty and Donald Trump's ongoing unpredictability.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-31/asx-ends-stressful-year-with-gold-and-lithium-stocks-surging/106188730"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/53e90860-aa49-424b-a594-04714569514a",
       "published_datetime": "2025-12-30T19:28:36.979669",
       "title": "Harvard physicist says interstellar object may be alien tech",
@@ -23,24 +50,6 @@
       },
       "description": "After 401 years, the Danish postal service has ended letter deliveries as the country fully embraces the digital age.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-31/denmark-postal-service-ends-letter-delivery/106188988"
-    },
-    {
-      "published_datetime": "2025-12-30T19:06:57.000000Z",
-      "title": "How to survive a sudden act of mass violence",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3b4b9479b7dff3239b1dcb6f3f489a5c?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
-      },
-      "description": "The mass shooting in Bondi and other incidents of mass violence around the world have highlighted that violence can strike anywhere. Here are some expert tips on how to escape, hide, and stay safe.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-31/what-should-you-do-violent-mass-attack/106179978"
-    },
-    {
-      "published_datetime": "2025-12-30T18:44:32.000000Z",
-      "title": "Sportsbet pressured key watchdog into 'watering down' public statement",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/54923be329c350e88cbb6529ad4f7e54?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Gambling giant Sportsbet pressured the Australian Communications and Media Authority into \"watering down\" enforcement announcement, the ABC can reveal.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-31/sportsbet-pressure-acma-enforcement-announcement/106137264"
     },
     {
       "published_datetime": "2025-12-30T18:42:04.000000Z",
@@ -293,20 +302,11 @@
       },
       "description": "The storm has been downgraded after bringing severe winds and heavy rain to parts of the north-west Kimberley.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/severe-tropical-cyclone-hayley-crosses-kimberley-coast/106187730"
-    },
-    {
-      "published_datetime": "2025-12-30T09:09:30.000000Z",
-      "title": "Man dies in floodwaters in north west Queensland",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d1b5b3095c8131d0fd05126a6ee8825f?impolicy=wcms_crop_resize&amp;cropH=653&amp;cropW=1161&amp;xPos=32&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Police were called to a vehicle submerged in floodwaters near Normanton where they found the man aged in his 70s.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/qld-flood-death-normanton-/106188576"
     }
   ],
   "total_items": 27,
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 7,
-  "merged_at": "2025-12-30T20:30:54.567593"
+  "merged_at": "2025-12-30T21:12:47.674214"
 }
