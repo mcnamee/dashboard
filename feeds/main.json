@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d4e96df6-206c-4197-9fda-20a31ad93ad3",
+      "published_datetime": "2025-12-30T08:38:12.148584",
+      "title": "US grants Samsung, SK Hynix annual chip export licenses",
+      "featured_image": {
+        "url": "https://www.gettyimages.com/detail/news-photo/the-illuminated-samsung-corporate-logo-is-displayed-at-the-news-photo/2253183591",
+        "name": "Samsung King's Cross Brand Showcase At Coal Drops Yard In London",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1767080320/getty_uploads/2253183591_ts5vnk.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1767080320/getty_uploads/2253183591_ts5vnk.jpg"
+      },
+      "description": "The US government has granted annual licenses to Samsung Electronics and SK Hynix allowing them to ship chipmaking equipment to their Chinese factories in 2026, according to sources familiar with the matter on Tuesday[1][2][3]. The approval offers temporary relief to the South Korean memory chip manufacturers as they navigate tightening US export controls on semiconductor technology to China.\n\nThe licenses replace a fast-track export privilege known as \"validated end user\" status that expires December 31, 2025[1][2][3]. Under the new system, the companies must seek approval annually for restricted equipment, parts, and materials in specific quantities[4][5], marking a shift from the indefinite authorizations they previously enjoyed under the Biden administration.",
+      "audio_url": "",
+      "url": "us-grants-samsung-and-sk-hynix-r.NmWZy5Sl.P7MWHc7ikpg",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b54a18b6-6ef7-4f4a-ac33-41b316556db3",
       "published_datetime": "2025-12-30T08:07:30.955884",
       "title": "2025 among three hottest years despite no El Ni\u00f1o",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/eea40b37-ea05-4a25-ad1a-04b5fad9f05e",
-      "published_datetime": "2025-12-29T23:01:16.146000",
-      "title": "Study suggests dark energy may be weakening, universe could collapse",
-      "featured_image": {
-        "url": "https://sites.utdallas.edu/news/science-technology/desi-results-dark-energy-2025/",
-        "name": "Evidence Mounts for Evolving Dark Energy, DESI Results Find",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--pJcJODsz--/t_limit/https://sites.utdallas.edu/news/files/2025/03/iotw2025a-2000.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--wfGc9pwr--/t_thumbnail/https://sites.utdallas.edu/news/files/2025/03/iotw2025a-2000.jpg"
-      },
-      "description": "Astronomers have ignited controversy with findings suggesting dark energy could be weakening over time, potentially setting the stage for a cosmic reversal that would see the universe collapse back into itself.\n\nThe research, published in November in the Monthly Notices of the Royal Astronomical Society, challenges decades of scientific consensus that the universe will expand forever[1][2][3]. Professor Young-Wook Lee of Yonsei University in Seoul and his team discovered what they describe as a fundamental error in how astronomers have been measuring cosmic expansion, one that has masked dramatic changes in dark energy[4][5].\n\n\"The fate of the Universe will change,\" Professor Lee told the BBC in an interview published December 27[1][6]. \"If dark energy is not constant and it's getting weakened, this will change the whole paradigm of modern cosmology.\"",
-      "audio_url": "",
-      "url": "study-finds-universe-may-end-i-KVOb_8nMQZuVy0q_uavcxg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-29T03:27:00.000000Z",
       "title": "Trump spoke with Russian President Vladimir Putin by phone on Sunday",
       "featured_image": {
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-30T09:18:05.080802"
+  "merged_at": "2025-12-30T09:32:25.208162"
 }
