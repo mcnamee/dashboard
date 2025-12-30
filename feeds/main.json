@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-30T04:52:03.000000Z",
+      "title": "Breaking: Massive factory blaze in Sydney's west puts properties at risk",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/47b3aeb1e27cfdbc2577afea2d911699?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Dozens of firefighters are battling a massive factory fire in Sydney's west.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/nsw-greenacre-firefighters-battle-flooring-factory-blaze/106188018"
+    },
+    {
+      "published_datetime": "2025-12-30T04:46:20.000000Z",
+      "title": "Attacking Putin's home would be 'stupid' move by Ukraine, say experts",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/02ff9365104eeebca2e38960a53a6995?impolicy=wcms_crop_resize&amp;cropH=2050&amp;cropW=3645&amp;xPos=0&amp;yPos=190&amp;width=862&amp;height=485"
+      },
+      "description": "A defence analyst tells the ABC an attack on the Russian President's state residence would be \"technically\" possible but would not make sense strategically for Ukraine.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-30/putin-drone-strike-ukraine-experts-say-no-evidence-russia/106187456"
+    },
+    {
       "published_datetime": "2025-12-30T04:06:51.000000Z",
-      "title": "New search for MH370, which vanished in 2014, is set to begin today",
+      "title": "MH370 vanished in 2014 but a new search aims to solve the baffling puzzle",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/264fcafa969ba9db4900f8ca20c10239?impolicy=wcms_crop_resize&amp;cropH=620&amp;cropW=1103&amp;xPos=0&amp;yPos=71&amp;width=862&amp;height=485"
       },
@@ -11,11 +29,11 @@
     },
     {
       "published_datetime": "2025-12-30T03:40:43.000000Z",
-      "title": "Police search for alleged carjacker who broke into Victorian home with axe",
+      "title": "'Threatened with a huge axe': Police search for carjacker who broke into Victorian home",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/35012a1f5839648598a8eb35624ce9a5?impolicy=wcms_crop_resize&amp;cropH=961&amp;cropW=1708&amp;xPos=76&amp;yPos=69&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c8c13f7dbaeaaa683fec10a24993754?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=62&amp;width=862&amp;height=485"
       },
-      "description": "Police are combing eastern Victorian bushland for a man they allege broke into a house with an axe and stole multiple cars in the Latrobe Valley.",
+      "description": "Police are combing eastern Victorian bushland for a man they allege broke into a house with an axe and stole multiple cars in the Latrobe Valley.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/carjacking-theft-breaking-entry-axe-moondarra/106187634"
     },
     {
@@ -223,24 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2025-12-29T18:56:41.000000Z",
-      "title": "Josh Burns to take rare extended parental leave from parliament next year",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ebfbfd9ef0b8f99db9b404281b36be09?impolicy=wcms_crop_resize&amp;cropH=2807&amp;cropW=4991&amp;xPos=0&amp;yPos=63&amp;width=862&amp;height=485"
-      },
-      "description": "In a broad-ranging interview for the Politics Now podcast, the rising Labor star reveals he plans to take extended leave to care for his baby daughter.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/josh-burns-baby-federal-parliament-georgie-purcell-antisemitism/106162418"
-    },
-    {
-      "published_datetime": "2025-12-29T18:50:48.000000Z",
-      "title": "'Gone off like a rocket': Households cash in on battery rebate",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/378c5bea912b8f000dcbe17cec4faf99?impolicy=wcms_crop_resize&amp;cropH=1827&amp;cropW=3248&amp;xPos=0&amp;yPos=627&amp;width=862&amp;height=485"
-      },
-      "description": "Battery uptake is booming since the federal government rebate came into effect in July. Here's what you need to know if you are thinking of joining the thousands of Australians adding a battery to their home solar systems.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/home-battery-uptake-soars-due-to-government-subsidy/106120730"
-    },
-    {
       "published_datetime": "2025-12-29T03:27:00.000000Z",
       "title": "Trump spoke with Russian President Vladimir Putin by phone on Sunday",
       "featured_image": {
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-30T04:32:41.438640"
+  "merged_at": "2025-12-30T05:18:18.013426"
 }
