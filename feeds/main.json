@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-30T19:07:35.000000Z",
+      "title": "Denmark becomes first country in world to end letter delivery",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6d65f9aad218a581222fa0598a2ac852?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
+      },
+      "description": "After 401 years, the Danish postal service has ended letter deliveries as the country fully embraces the digital age.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-31/denmark-postal-service-ends-letter-delivery/106188988"
+    },
+    {
+      "published_datetime": "2025-12-30T19:06:57.000000Z",
+      "title": "How to survive a sudden act of mass violence",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3b4b9479b7dff3239b1dcb6f3f489a5c?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
+      },
+      "description": "The mass shooting in Bondi and other incidents of mass violence around the world have highlighted that violence can strike anywhere. Here are some expert tips on how to escape, hide, and stay safe.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-31/what-should-you-do-violent-mass-attack/106179978"
+    },
+    {
       "published_datetime": "2025-12-30T18:44:32.000000Z",
       "title": "Sportsbet pressured key watchdog into 'watering down' public statement",
       "featured_image": {
@@ -29,7 +47,7 @@
     },
     {
       "published_datetime": "2025-12-30T18:37:47.000000Z",
-      "title": "How illegal gambling sites are benefiting from a network of illegitimate regulators",
+      "title": "How illegitimate regulators operate in the name of a tiny African island",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/86247162db935a5f64903f5de219daaf?impolicy=wcms_crop_resize&amp;cropH=520&amp;cropW=924&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -126,7 +144,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a3c2811046f90471ee13b04db2b96460?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Around 80 passengers on the Coral Adventurer have been flown home after the cruise ship ran aground on a reef off Papua New Guinea.\u00a0\u00a0",
+      "description": "About 80 passengers on the Coral Adventurer have been flown home after the cruise ship ran aground on a reef off Papua New Guinea.\u00a0\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2025-12-31/christmas-cruise-png-passengers-return-coral-adventurer/106186660"
     },
     {
@@ -269,11 +287,11 @@
     },
     {
       "published_datetime": "2025-12-30T09:16:07.000000Z",
-      "title": "Destructive winds, heavy rain as Tropical Cyclone Hayley crosses coast",
+      "title": "Destructive winds and heavy rain as Tropical Cyclone Hayley crosses coast",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6d4280b2350a55729fb49b837559aed9?impolicy=wcms_crop_resize&amp;cropH=368&amp;cropW=654&amp;xPos=0&amp;yPos=57&amp;width=862&amp;height=485"
+        "thumbnail": ""
       },
-      "description": "Severe Tropical Cyclone Hayley has been downgraded, after bringing severe winds and heavy rain to parts of the north-west Kimberley.",
+      "description": "The storm has been downgraded after bringing severe winds and heavy rain to parts of the north-west Kimberley.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/severe-tropical-cyclone-hayley-crosses-kimberley-coast/106187730"
     },
     {
@@ -284,29 +302,11 @@
       },
       "description": "Police were called to a vehicle submerged in floodwaters near Normanton where they found the man aged in his 70s.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-30/qld-flood-death-normanton-/106188576"
-    },
-    {
-      "published_datetime": "2025-12-30T04:06:51.000000Z",
-      "title": "A plane vanished without trace in 2014. Now new tech is looking for MH370",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/264fcafa969ba9db4900f8ca20c10239?impolicy=wcms_crop_resize&amp;cropH=620&amp;cropW=1103&amp;xPos=0&amp;yPos=71&amp;width=862&amp;height=485"
-      },
-      "description": "Malaysia Airlines missing flight MH370, which vanished in 2014, remains one of aviation's enduring mysteries. A new search \u00a0is aiming to provide answers.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/mh370-search-resumes-for-malaysia-airlines-missing-plane/106186962"
-    },
-    {
-      "published_datetime": "2025-12-30T01:17:21.000000Z",
-      "title": "AFP believes Bondi attack gunmen operated alone",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/03eb877d73896053fe67d4f54793db62?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "AFP Commissioner Krissy Barrett says there is no evidence the men were instructed to carry out the attack, which left 15 people dead.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-30/bondi-attack-gunmen-operated-alone-afp/106186662"
     }
   ],
   "total_items": 27,
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 7,
-  "merged_at": "2025-12-30T19:22:02.298672"
+  "merged_at": "2025-12-30T20:15:08.818345"
 }
