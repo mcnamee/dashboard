@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4fce7077-43a6-45e6-83ea-188674b2f21f",
+      "published_datetime": "2025-12-30T09:34:21.535056",
+      "title": "China orders chipmakers to use 50% domestic equipment",
+      "featured_image": {
+        "url": "https://www.marketscreener.com/news/china-mandates-50-domestic-equipment-rule-for-chipmakers-sources-say-ce7e59dbd088f720",
+        "name": "China mandates 50% domestic equipment rule for chipmakers, sources\u00a0say",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--wuLOwQTq--/t_limit/https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2025-12/2025-12-30T090850Z_1_LYNXMPELBT0AQ_RTROPTP_4_CHINA-METALS.JPG",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--dOmaikwc--/t_thumbnail/https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2025-12/2025-12-30T090850Z_1_LYNXMPELBT0AQ_RTROPTP_4_CHINA-METALS.JPG"
+      },
+      "description": "China has mandated that semiconductor manufacturers use at least 50 percent domestically produced equipment when expanding production capacity, according to three people familiar with the matter, marking one of Beijing's most significant measures to reduce dependence on foreign technology[1][2][3].\n\nThe unpublicized rule, communicated to chipmakers by government officials in recent months, requires companies seeking state approval for new or expanded facilities to demonstrate through procurement tenders that at least half their equipment will be Chinese-made[1][2][4]. Applications that fail to meet this threshold are typically rejected, though authorities grant flexibility depending on supply constraints[1][2].",
+      "audio_url": "",
+      "url": "china-orders-chipmakers-to-use-v4gbfVtUTICJBFw0RZ1ktw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-30T09:16:07.000000Z",
       "title": "Destructive winds, heavy rain as Tropical Cyclone Hayley crosses Kimberley coast",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1befc208-80f5-4bf7-9659-3ffeee6ffe4c",
-      "published_datetime": "2025-12-30T00:40:54.401436",
-      "title": "SoftBank, Alphabet spend $9B on AI data centers",
-      "featured_image": {
-        "url": "https://www.nytimes.com/2025/12/22/technology/google-intersect-data-centers.html",
-        "name": "Google Buys Data Center Company for $4.75 Billion",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--TQL-0aq9--/t_limit/https://static01.nyt.com/images/2025/12/22/multimedia/22biz-google-ai-jptw/22biz-google-ai-jptw-facebookJumbo.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--HLkVR520--/t_thumbnail/https://static01.nyt.com/images/2025/12/22/multimedia/22biz-google-ai-jptw/22biz-google-ai-jptw-facebookJumbo.jpg"
-      },
-      "description": "Two major technology companies announced acquisitions totaling nearly $9 billion this week to bolster their artificial intelligence infrastructure, underscoring intensifying competition for the computing power needed to develop next-generation AI systems.\n\nSoftBank Group revealed Monday it will acquire DigitalBridge Group for approximately $4 billion, including debt, paying $16 per share in cash[1][2][3]. The Japanese conglomerate's CEO Masayoshi Son framed the deal as essential to AI's future, stating, \"As AI transforms industries worldwide, we need more compute, connectivity, power, and scalable infrastructure\"[1][2].\n\nThe acquisition comes one week after Alphabet, Google's parent company, announced plans to purchase data center and energy infrastructure developer Intersect for $4.75 billion in cash plus the assumption of debt[4][5][6]. Alphabet CEO Sundar Pichai said Intersect will help the company \"expand capacity, operate more nimbly in building new power generation in lockstep with new data center load, and reimagine energy solutions to drive US innovation and leadership\"[5].",
-      "audio_url": "",
-      "url": "google-and-softbank-make-major-b2tFjaeKTbaKmZ6cKo_ZxQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-29T03:27:00.000000Z",
       "title": "Trump spoke with Russian President Vladimir Putin by phone on Sunday",
       "featured_image": {
@@ -380,5 +380,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 15,
-  "merged_at": "2025-12-30T10:15:15.390844"
+  "merged_at": "2025-12-30T10:31:31.036912"
 }
