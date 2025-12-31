@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/688a8ea2-d044-43c2-bea7-242868274fe7",
+      "published_datetime": "2025-12-31T14:05:54.725126",
+      "title": "Iran replaces central bank chief as protests spread nationwide",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2025/12/31/protests-in-iran-spread-amid-deep-discontent-over-economic-duress",
+        "name": "Protests in Iran spread amid deep discontent over economic duress",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--pnRoMRbh--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/12/AFP__20251229__898K4ZR__v1__HighRes__IranPoliticsEconomyDemo-1767163693.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--yflcvPMJ--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/12/AFP__20251229__898K4ZR__v1__HighRes__IranPoliticsEconomyDemo-1767163693.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "Demonstrations erupted across Iran for the fourth consecutive day on Tuesday as the national currency collapsed to historic lows, prompting President Masoud Pezeshkian to replace his central bank governor and pledge government action to address mounting economic grievances[1][2][3].\n\nThe protests began Sunday when merchants in Tehran's Grand Bazaar shuttered their shops after the rial plunged to approximately 1.42 million against the U.S. dollar, compared to 820,000 a year earlier[1][2]. By Monday, strikes had spread beyond the capital to Isfahan, Shiraz, Kermanshah, Yazd, Zanjan, and Hamadan, with security forces deploying tear gas and, according to unverified reports, live ammunition to disperse crowds[4][5][6].\n\nUniversity students joined the demonstrations Tuesday, with protests reported at more than ten campuses nationwide[1][3][7]. Videos circulating on social media showed students chanting \"Death to the dictator,\" referring to Supreme Leader Ayatollah Ali Khamenei, while others tore down signs representing his office at Beheshti University[2][7][8]. The Guild Council of the University of Tehran said six students were detained but later released[4].",
+      "audio_url": "",
+      "url": "iran-faces-widespread-protests-Bmt5nI.tRaiIlEZxIkBDgA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-31T13:16:26.000000Z",
       "title": "Efforts to mitigate 'homegrown' extremism revealed in cabinet documents",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/40e27a35-6c9b-4766-861a-c84f065d1027",
-      "published_datetime": "2025-12-30T12:20:56.955147",
-      "title": "China condemns record US arms sale as Taiwan drills escalate",
-      "featured_image": {
-        "url": "https://dfa.co.za/news/2025-12-30-what-to-know-about-chinas-drills-around-taiwan-as-rockets-fired-on-second-day/",
-        "name": "What to know about China's drills around Taiwan as rockets fired on ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--g0OEuNi3--/t_limit/https://iol-prod.appspot.com/image/f257dd80696753c3a5ca763ccdfaa0bb4b447608/1000/jpeg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--LD3jpmG2--/t_thumbnail/https://iol-prod.appspot.com/image/f257dd80696753c3a5ca763ccdfaa0bb4b447608/1000/jpeg"
-      },
-      "description": "China's foreign minister condemned a record US arms sale to Taiwan on Tuesday as Beijing conducted a second day of military exercises encircling the island, firing rockets closer to Taiwan's main landmass than in previous drills.\n\nForeign Minister Wang Yi said China must \"firmly oppose and forcefully counter\" the large-scale US arms sales to Taiwan during an annual diplomatic symposium in Beijing[1][2]. His comments marked the most senior Chinese official response to the $11 billion weapons package announced by the US State Department earlier this month[3][4].",
-      "audio_url": "",
-      "url": "china-condemns-us-taiwan-arms-KWyJ8WGgQ5u6u3Mgk8sAqA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 7,
-  "merged_at": "2025-12-31T14:13:31.915779"
+  "merged_at": "2025-12-31T14:27:04.871977"
 }
