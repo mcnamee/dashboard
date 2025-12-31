@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8780d3f0-ca77-45f4-9edf-8dcb371178dc",
+      "published_datetime": "2025-12-31T20:37:31.651676",
+      "title": "US, Ukraine, European allies hold peace talks",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/europe/us-held-talks-with-ukraine-european-countries-next-steps-ending-ukraine-war-2025-12-31/",
+        "name": "US held talks with Ukraine, European countries on next steps in ending Ukraine war, Witkoff says",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--nkGWH0FY--/t_limit/https://www.reuters.com/resizer/v2/GKPFOWTLX5LJ3FVAODKEEGMQYE.jpg%3Fauth%3Df315347f4e9a676528d58b9eb282a8b5d04fb77977eaffec4a8a37edfe62eb9a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--SN8hOK-5--/t_thumbnail/https://www.reuters.com/resizer/v2/GKPFOWTLX5LJ3FVAODKEEGMQYE.jpg%3Fauth%3Df315347f4e9a676528d58b9eb282a8b5d04fb77977eaffec4a8a37edfe62eb9a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "President Donald Trump's advisors held telephone discussions on December 31 with Ukrainian President Volodymyr Zelenskiy and national security advisors from the United Kingdom, France, and Germany to strategize on next steps in ending Russia's war in Ukraine, according to U.S. special envoy Steve Witkoff[1][2][3].\n\nThe talks, which included U.S. Secretary of State Marco Rubio, Trump's son-in-law Jared Kushner, and Ukraine's chief negotiator Rustem Umerov, focused on strengthening security guarantees, developing deconfliction mechanisms, and advancing a \"prosperity package\" for Ukraine's post-war recovery[1][2][4]. French President Emmanuel Macron announced that many European states and allies will make concrete commitments to protect Ukraine at a meeting in Paris on January 6[5][5].\n\n\"We focused on how to move the discussions forward in a practical way on behalf of @POTUS' peace process, including strengthening security guarantees and developing effective deconfliction mechanisms to help end the war and ensure it does not restart,\" Witkoff wrote on social media[2][4].",
+      "audio_url": "",
+      "url": "us-holds-talks-with-ukraine-an-KecyEs5qT0SJRPQwY3qmeA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-31T20:23:10.000000Z",
       "title": "High-dose MDMA warning for New Year's Day music festival in Sydney",
       "featured_image": {
@@ -208,21 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/146b405d-204b-4b7f-8b42-e8fe9bfb9154",
-      "published_datetime": "2025-12-31T14:49:28.721880",
-      "title": "Finland seizes cargo ship after undersea cables damaged",
-      "featured_image": {
-        "url": "https://news.err.ee/1609898537/finland-detains-vessel-after-cables-damaged-between-tallinn-and-helsinki",
-        "name": "Finland detains vessel after cables damaged between Tallinn ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--E0kDgfNP--/t_limit/https://s.err.ee/photo/crop/2025/12/31/3142235h8a53t46.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--c6BzKo2W--/t_thumbnail/https://s.err.ee/photo/crop/2025/12/31/3142235h8a53t46.jpg"
-      },
-      "description": "Finnish authorities seized a cargo vessel on Wednesday after two telecommunications cables connecting Helsinki and Tallinn were damaged in the Gulf of Finland, marking the latest incident in a series of suspected sabotage attacks on critical Baltic Sea infrastructure.\n\nThe Finnish Border Guard intercepted the cargo ship Fitburg after telecoms provider Elisa detected a fault in one of its submarine cables early Wednesday morning[1][2]. The vessel, which departed Saint Petersburg on December 30 and was en route to Israel, was found operating with its anchor chain deployed in Finland's exclusive economic zone[1][2]. The actual damage to the cables occurred in Estonia's economic zone[1][3][2].\n\n\"Finland is prepared for a range of security challenges and will respond as required,\" President Alexander Stubb said in a statement on social media[1]. Prime Minister Petteri Orpo confirmed that state agencies are working together to determine the cause and extent of the damage[1].\n\nThe Fitburg, flying the flag of Saint Vincent and the Grenadines, was ordered to raise its anchor and proceed to Finnish territorial waters where it remains under state control[1]. Helsinki Police Department is investigating the incident as aggravated criminal damage, attempted aggravated criminal damage, and aggravated interference with telecommunications[1][3][2]. The inquiry is being conducted in cooperation with Finnish Defence Forces, Customs, and Estonian authorities[1].",
-      "audio_url": "",
-      "url": "finland-seizes-ship-suspected-KUcRwpIFQn65fVQKA5kZSQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-31T13:16:26.000000Z",
       "title": "Efforts to mitigate 'homegrown' extremism revealed in cabinet documents",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 7,
-  "merged_at": "2025-12-31T21:12:14.828332"
+  "merged_at": "2025-12-31T21:25:05.072889"
 }
