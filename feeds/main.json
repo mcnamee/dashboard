@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/08717a37-a0a6-4e2f-81ca-5539dc732ccf",
+      "published_datetime": "2025-12-31T16:42:28.308611",
+      "title": "Big Four firms deploy thousands of AI agents in 2025",
+      "featured_image": {
+        "url": "https://finance.yahoo.com/news/big-four-betting-ai-agents-134303480.html",
+        "name": "Big Four bet on AI agents that can do all the work and 'liberate' staff",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--R-qxYTGe--/t_limit/https://media.zenfs.com/en/business_insider_articles_888/2408211dfb6cc287dc54ea05572be03c",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--yUzvcRHe--/t_thumbnail/https://media.zenfs.com/en/business_insider_articles_888/2408211dfb6cc287dc54ea05572be03c"
+      },
+      "description": "As 2025 draws to a close, artificial intelligence has fundamentally reshaped professional services and management roles, with the workforce racing to adapt through intensive reskilling as organizations prepare for even deeper transformation in 2026.\n\nThe Big Four professional services firms\u2014Deloitte, EY, PwC, and KPMG\u2014have deployed thousands of AI agents this year, setting a blueprint for how businesses worldwide will operate[1][2][3]. EY advanced 1,000 AI agents into development or production in 2025, with plans to scale to 100,000 by 2028[3][4]. PwC deployed 25,000 intelligent agents across client operations[4], while Deloitte's Zora AI platform reduced finance team costs by 25% and increased productivity by 40%[5][6].",
+      "audio_url": "",
+      "url": "ai-transforms-work-and-skills-yyRlwwn5S_.sg3V4hHL_Ww",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0854b3e6-bf53-4157-a2b4-32d0bedeff04",
       "published_datetime": "2025-12-31T16:06:01.067342",
       "title": "Harvard scientist defends alien probe theory despite new images",
@@ -226,21 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-31/2026-new-rules-laws-regulations-come-into-effect/106186738"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/53e90860-aa49-424b-a594-04714569514a",
-      "published_datetime": "2025-12-30T19:28:36.979669",
-      "title": "Harvard physicist says interstellar object may be alien tech",
-      "featured_image": {
-        "url": "https://www.primetimer.com/features/hubble-observes-unusual-twin-jets-from-interstellar-object-3i-atlas-as-it-leaves-the-solar-system",
-        "name": "Hubble observes unusual twin jets from interstellar object 3I/ATLAS as it leaves the solar system",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_ONJqLOk--/t_limit/https://d1rldr9jdodfaa.cloudfront.net/images/01KDM45R1HGZ5XTPV8WR2W98FE/20251229_035931_1435410826.webp",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Lvikn8le--/t_thumbnail/https://d1rldr9jdodfaa.cloudfront.net/images/01KDM45R1HGZ5XTPV8WR2W98FE/20251229_035931_1435410826.webp"
-      },
-      "description": "Harvard physicist Avi Loeb has intensified his claim that the interstellar visitor 3I/ATLAS may be an alien spacecraft, citing new Hubble Space Telescope images that reveal an unusual dual-jet structure as the object speeds away from Earth.\n\nObservations captured on December 12 and 27 show two distinct jets of material streaming from the object's nucleus, with one pointing toward the Sun and a weaker jet extending in the opposite direction[1][2][3]. As one jet brightens, the other fades in what Loeb describes as a \"clean, repeatable and geometrically consistent swap\"[4].\n\nLoeb, a Harvard astrophysicist who leads the Galileo Project, has ranked 3I/ATLAS a \"four\" on his personal scale of zero to ten, where zero represents a natural comet and ten signifies an active alien threat[5][6]. \"You can't just say, 'I know the answer' and ignore the anomalies. That's not viable,\" Loeb said[5][6].\n\n3I/ATLAS, discovered on July 1, 2025, is only the third confirmed interstellar object to visit our solar system, following 'Oumuamua in 2017 and 2I/Borisov in 2019[7][8]. The object passed Earth on December 19 at a safe distance of roughly 170 million miles and is now heading toward Jupiter, where it will make its closest approach on March 16, 2026[5][9].",
-      "audio_url": "",
-      "url": "harvard-scientist-suggests-3ia-Aal2iuUvTK6g1CXNPVURFQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 7,
-  "merged_at": "2025-12-31T17:12:03.563151"
+  "merged_at": "2025-12-31T17:24:09.292373"
 }
