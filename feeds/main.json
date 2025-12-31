@@ -28,6 +28,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-01/australia-2026-economy-predictions-and-questions/106187042"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/515e5d07-9071-483f-8de5-22ce6287d994",
+      "published_datetime": "2025-12-31T18:27:47.734172",
+      "title": "Search for Malaysia Airlines Flight 370 resumes in Indian Ocean",
+      "featured_image": {
+        "url": "https://www.kongsberg.com/maritime/news-and-events/news-archive/2022/HUGIN-AUV-to-Ocean-Infinity/",
+        "name": "HUGIN AUV to Ocean Infinity - Kongsberg Maritime",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--XLAd_qnZ--/t_limit/https://www.kongsberg.com/contentassets/b198e9d44c914774977c45bd9fee3290/hugin_auv.jpg%3Fwidth%3D1000%26rxy%3D0.5%252C0.5",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0hWOnegI--/t_thumbnail/https://www.kongsberg.com/contentassets/b198e9d44c914774977c45bd9fee3290/hugin_auv.jpg%3Fwidth%3D1000%26rxy%3D0.5%252C0.5"
+      },
+      "description": "A search vessel equipped with advanced underwater robots arrived in the Indian Ocean on Wednesday to resume the hunt for Malaysia Airlines Flight 370, marking the first major effort in years to solve one of aviation's most enduring mysteries[1][2][3].\n\nMalaysia's Transport Ministry confirmed that the Armada 86 05 reached a designated search area with two autonomous underwater vehicles, reviving hopes of finally locating the Boeing 777 that vanished with 239 people on board on March 8, 2014[1][2][4]. The ministry did not disclose the exact location of the search zone, but stated the vessel prepared for operations at Fremantle Port in Western Australia[1][2].",
+      "audio_url": "",
+      "url": "deep-sea-search-for-malaysia-a-bc0ogtSDSr6yvlyDIgkkpA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-31T18:16:32.000000Z",
       "title": "Cabinet documents from one of Victoria's most influential governments released",
       "featured_image": {
@@ -190,21 +205,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/efc6fffc-1673-4073-8952-95d18f3ad880",
-      "published_datetime": "2025-12-31T12:03:48.233278",
-      "title": "NASA sets February 2026 for first crewed moon mission in 50 years",
-      "featured_image": {
-        "url": "https://abcnews.go.com/Technology/nasa-launch-historic-artemis-ii-mission-moon-early/story?id=125895412",
-        "name": "NASA could launch historic Artemis II mission around the moon as early as February 2026",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--QnLfuvk---/t_limit/https://i.abcnewsfe.com/a/751337ea-dbb7-4ae0-b002-af6a735f1c76/artemis-4-ht-gmh-250924_1758726314230_hpMain_16x9.jpg%3Fw%3D1600",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--aWXzDobj--/t_thumbnail/https://i.abcnewsfe.com/a/751337ea-dbb7-4ae0-b002-af6a735f1c76/artemis-4-ht-gmh-250924_1758726314230_hpMain_16x9.jpg%3Fw%3D1600"
-      },
-      "description": "For the first time in more than half a century, humans will venture beyond low-Earth orbit when NASA launches its Artemis II mission as early as February 5, 2026[1][2][3][4]. Just months later, in November, the European and Japanese BepiColombo spacecraft will begin its detailed scientific study of Mercury after an eight-year journey through the solar system[5][6][7][8].\n\nThe twin milestones mark a renewed era of deep space exploration, with Artemis II paving the way for lunar landings and BepiColombo promising to unlock secrets of the solar system's smallest and least understood planet.",
-      "audio_url": "",
-      "url": "nasa-artemis-ii-and-bepicolomb-BRzYH1IeQSaMYEqunU8xWw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-31T07:07:45.000000Z",
       "title": "Man charged with making threatening phone call to Melbourne journalist",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 7,
-  "merged_at": "2025-12-31T19:10:19.655572"
+  "merged_at": "2025-12-31T19:21:12.650447"
 }
