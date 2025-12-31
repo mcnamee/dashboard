@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2025-12-31T12:18:17.000000Z",
+      "title": "Female MPs in Japan want more toilets in parliament",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/10b92fa531e0bf87e77304a536083f21?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "There are just two toilets for women near the main hall in Japan's parliament, with nearly 60 MPs calling for changes to the building to match growing female representation.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-31/female-mps-in-japan-call-for-more-toilets-in-parliament/106191034"
+    },
+    {
+      "published_datetime": "2025-12-31T11:39:28.000000Z",
+      "title": "'I am so happy': Crowd celebrates Thailand's release of Cambodian soldiers",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3fc709757b46980e20f0794da1c2c3e2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=463&amp;width=862&amp;height=485"
+      },
+      "description": "The release is a key part of a ceasefire deal struck to bring peace to the border between the two countries.",
+      "page_content_url": "https://www.abc.net.au/news/2025-12-31/thailand-releases-cambodian-soldiers-as-part-of-ceasefire-deal/106190984"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dc05d5dc-9309-4d3d-b2a8-c36517a02c79",
       "published_datetime": "2025-12-31T09:33:40.002313",
       "title": "Gold and copper cap historic year with record gains",
@@ -43,15 +61,6 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-31/explainer-how-bnc-lost-sydney-to-hobart-overall-prize/106189890"
     },
     {
-      "published_datetime": "2025-12-31T04:20:38.000000Z",
-      "title": "Some Australian Muslims sleeping overnight in mosques after Bondi massacre",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cacf9c8831f27a6a495704f8f65d6684?impolicy=wcms_crop_resize&amp;cropH=1206&amp;cropW=2144&amp;xPos=239&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A rise in Islamophobic incidents prompts warnings from Muslim organisations that their communities are at risk of \"retribution\" and \"collective punishment\" following the mass shooting.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-31/islamophobic-attacks-surge-after-bondi-mass-shooting/106187910"
-    },
-    {
       "published_datetime": "2025-12-31T02:50:46.000000Z",
       "title": "'Disgraceful' acts of looting in bushfire-ravaged community",
       "featured_image": {
@@ -70,21 +79,12 @@
       "page_content_url": "https://www.abc.net.au/news/2025-12-31/crown-casino-melbourne-workers-strike-new-years-eve/106189942"
     },
     {
-      "published_datetime": "2025-12-31T01:09:40.000000Z",
-      "title": "Calls for critics to 'grow up' after outcry over period mention on BBC",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6f1a96528f7157ff8659a6891f24910?impolicy=wcms_crop_resize&amp;cropH=2533&amp;cropW=4503&amp;xPos=0&amp;yPos=81&amp;width=862&amp;height=485"
-      },
-      "description": "Alex Hartley says she was stunned by the reaction to her talking about her period during the BBC's radio commentary of the third Ashes Test.",
-      "page_content_url": "https://www.abc.net.au/news/2025-12-31/alex-hartley-period-chat-bbc-cricket-ashes-commentary/106189540"
-    },
-    {
       "published_datetime": "2025-12-31T00:54:36.000000Z",
-      "title": "Revellers gather at sites across Australia for NYE celebrations",
+      "title": "Fireworks light up across Australia while NYE celebrations face heightened security",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/827904bfe22766b9abbdaa3b17522d82?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Revellers are gathering to farewell 2025 at various sites across Australia's major cities, including Sydney where there is a heavy police presence in the wake of the Bondi terror attack earlier this month.",
+      "description": "Revellers are gathering to welcome in 2026 at various sites across Australia's major cities, including Sydney where there is a heavy police presence in the wake of the Bondi terror attack earlier this month.",
       "page_content_url": "https://www.abc.net.au/news/2025-12-31/new-years-eve-revellers-celebrate-across-australia/106189124"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 7,
-  "merged_at": "2025-12-31T11:24:38.509031"
+  "merged_at": "2025-12-31T12:25:51.479631"
 }
