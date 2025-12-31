@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e9a8194e-86bc-4a11-9b2a-370bf3afab14",
+      "published_datetime": "2025-12-31T17:44:17.244950",
+      "title": "Nvidia in talks to acquire AI21 Labs for up to $3B",
+      "featured_image": {
+        "url": "https://www.gettyimages.com/detail/news-photo/in-this-photo-illustration-a-nvidia-logo-is-seen-displayed-news-photo/2253153677",
+        "name": "In this photo illustration, a NVIDIA logo is seen displayed...",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1767201447/getty_uploads/2253153677_sso41c.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1767201447/getty_uploads/2253153677_sso41c.jpg"
+      },
+      "description": "Nvidia is positioning itself to capitalize on surging AI demand through two major transactions announced this week: a planned $14 billion chip purchase from ByteDance and the potential acquisition of Israeli AI startup AI21 Labs for up to $3 billion.\n\nThe dual deals underscore the chipmaker's aggressive expansion strategy as competition intensifies in artificial intelligence infrastructure, though both transactions face regulatory hurdles that could determine their ultimate success.",
+      "audio_url": "",
+      "url": "nvidia-eyes-14-billion-bytedan-6LLEkPcqTM.hczESDLDgxQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/08717a37-a0a6-4e2f-81ca-5539dc732ccf",
       "published_datetime": "2025-12-31T16:42:28.308611",
       "title": "Big Four firms deploy thousands of AI agents in 2025",
@@ -163,21 +178,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dc05d5dc-9309-4d3d-b2a8-c36517a02c79",
-      "published_datetime": "2025-12-31T09:33:40.002313",
-      "title": "Gold and copper cap historic year with record gains",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2025/07/09/trump-says-50percent-tariff-on-copper-will-begin-aug-1.html",
-        "name": "Trump says 50% tariff on copper will begin Aug. 1",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--JjPMVvlh--/t_limit/https://image.cnbcfm.com/api/v1/image/108169197-1752008031727-gettyimages-2214478458-SCRAP_COPPER_TARIFFS.jpeg%3Fv%3D1752108090%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--O7-kc990--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108169197-1752008031727-gettyimages-2214478458-SCRAP_COPPER_TARIFFS.jpeg%3Fv%3D1752108090%26w%3D1920%26h%3D1080"
-      },
-      "description": "Gold and copper closed out 2025 with their strongest annual performances in decades, as a convergence of monetary policy shifts, surging industrial demand, and geopolitical uncertainty propelled the metals to unprecedented heights.\n\nGold climbed more than 64% this year to trade around $4,330 per ounce on Tuesday, marking its largest annual gain since 1979, when the Iranian revolution sent prices soaring[1][2][3]. Copper notched a 41% rise on the London Metal Exchange, its best performance since 2009[4][5], as electrification and artificial intelligence infrastructure drove demand to record levels.",
-      "audio_url": "",
-      "url": "gold-and-copper-post-record-an-MIT.f9lvQv.37XcwtXyK7Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-31T07:07:45.000000Z",
       "title": "Man charged with making threatening phone call to Melbourne journalist",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 7,
-  "merged_at": "2025-12-31T18:19:33.547886"
+  "merged_at": "2025-12-31T18:38:13.256659"
 }
