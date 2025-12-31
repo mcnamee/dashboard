@@ -19,6 +19,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-01/australia-rings-in-2026/106190882"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/33c6f926-42da-4ecb-9775-0b0b2fee628f",
+      "published_datetime": "2025-12-31T12:20:46.400294",
+      "title": "Global stocks surge as emerging markets outpace US",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/economy/2025/12/31/from-the-us-to-china-2025-a-blockbuster-year-for-stock-markets",
+        "name": "From the US to China, 2025 a blockbuster year for stock markets",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--zVn5fFwg--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/12/AP25364046574448-1767175887.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--oEu6geFi--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/12/AP25364046574448-1767175887.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "Stock markets worldwide capped 2025 with robust gains, as emerging markets outpaced developed peers for the first time in five years and artificial intelligence infrastructure spending drove a shift in technology sector leadership beyond the usual giants.\n\nThe MSCI All Country World Index, tracking over 2,500 stocks across developed and emerging markets, rose more than 21% through late December to reach record highs[1][2]. Even more striking, the MSCI ACWI Ex-US index achieved its best performance since the 2009 global financial crisis, climbing approximately 30% as investors diversified away from concentrated U.S. positions[3][4]. By comparison, the S&P 500 gained 18.7% for the year, marking its third consecutive annual advance[5][6].\n\nSouth Korea's KOSPI index led all major global markets with a stunning 75.6% gain, its strongest annual performance since 1999[7][8]. The rally was powered by semiconductor manufacturers SK Hynix and Samsung Electronics, whose shares surged approximately 280% and 125% respectively on surging demand for high-bandwidth memory chips used in AI systems[7][9].\n\nLatin America emerged as an unexpected star, with Colombia's equity market skyrocketing over 91% to claim the top spot globally, according to data compiled by Morningstar for CNBC[1]. Chile, Peru, Mexico, and Brazil all posted gains exceeding 45%, establishing the region as a standout performer[1]. Analysts attributed Colombia's rally to low initial valuations, improving investor sentiment ahead of presidential elections, and a Colombian peso that appreciated nearly 15% against the dollar[1].",
+      "audio_url": "",
+      "url": "global-stock-markets-surge-in-U8ThR6FXRbeLXKGXz_gY2g",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2025-12-31T12:18:17.000000Z",
       "title": "Female MPs in Japan want more toilets in parliament",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/393dbb9f-4374-4d54-a455-ec381f449f42",
-      "published_datetime": "2025-12-30T12:08:57.434957",
-      "title": "Iran president orders talks with protesters over economic crisis",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/middle-east/irans-government-offers-dialogue-protesters-2025-12-30",
-        "name": "Iran's government offers dialogue to protesters",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--x-Lj1uD2--/t_limit/https://www.reuters.com/resizer/v2/D5GIYHP3RFJ3HJD3P4L5BJ7P5M.jpg%3Fauth%3Dba13dffb9667083fde771a67f0d3efc294220926d1557f3c3ef96bd962cc0baa%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--D0hWHQuw--/t_thumbnail/https://www.reuters.com/resizer/v2/D5GIYHP3RFJ3HJD3P4L5BJ7P5M.jpg%3Fauth%3Dba13dffb9667083fde771a67f0d3efc294220926d1557f3c3ef96bd962cc0baa%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Iranian President Masoud Pezeshkian called on his government to address the \"legitimate demands\" of protesters Tuesday, following two days of demonstrations in Tehran sparked by the national currency's collapse to a historic low and soaring inflation that has pushed the country toward an economic crisis[1][2][3][4].\n\nThe rial plunged to 1.42 million against the U.S. dollar on Sunday before recovering slightly to 1.38 million on Monday, according to multiple reports[5][6][7]. The currency has lost more than two-thirds of its value since 2022, when it traded at approximately 430,000 to the dollar[5]. Annual inflation reached 42.2 percent in December, with food prices surging 72 percent year-over-year, according to Iran's Statistical Center[5][8][9].",
-      "audio_url": "",
-      "url": "iran-president-urges-response-DAZ93nyrTqqpKHBFHgBIkQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 12,
   "perplexity_search_items": 7,
-  "merged_at": "2025-12-31T13:27:40.025393"
+  "merged_at": "2025-12-31T13:37:53.565060"
 }
