@@ -68,9 +68,7 @@ jobs:
                   fe.media.content(
                       url=image_url,
                       medium="image",
-                      type="image/jpeg",
-                      width=800,
-                      height=400
+                      type="image/jpeg"
                   )
 
               pub_dt = parse_aware(obj.get('published_datetime'))
