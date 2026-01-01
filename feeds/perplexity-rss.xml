@@ -3,17 +3,22 @@
   <channel>
     <title>Perplexity Discover</title>
     <link>https://perplexity.ai/discover</link>
-    <description>RSS generated from JSON</description>
+    <description>Perplexity's Discover News Feed.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jan 2026 04:24:11 +0000</lastBuildDate>
+    <image>
+      <url>https://docs.perplexity.ai/favicon.png</url>
+      <title>Perplexity Discover</title>
+      <link>https://perplexity.ai/discover</link>
+    </image>
+    <lastBuildDate>Thu, 01 Jan 2026 04:35:28 +0000</lastBuildDate>
     <item>
       <title>Iran suspends work in 21 provinces as protests spread</title>
       <link>https://perplexity.ai/discover/you/iran-protests-enter-third-day-G_7oU6npR1i8aCLhCBWWLA</link>
       <description>Demonstrations across Iran escalated on Tuesday as university students joined shopkeepers and bazaar merchants in protests sparked by the Iranian rial plunging to a record low of 1.42 million per dollar and inflation surging to 42.2%[1][2][3][4][5]. The unrest, now in its third consecutive day, prompted the government to suspend official work in 21 of the country's 31 provinces[2] and offer a 20-point economic plan[6] in a notable departure from the regime's typically harsh response to dissent.</description>
       <pubDate>Tue, 30 Dec 2025 17:43:06 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--E2C31q1_--/t_limit/https://static01.nyt.com/images/2025/12/29/multimedia/29int-iran-economy-sub-photo-vhmk/29int-iran-economy-sub-photo-vhmk-facebookJumbo.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--7JmY6ySc--/t_thumbnail/https://static01.nyt.com/images/2025/12/29/multimedia/29int-iran-economy-sub-photo-vhmk/29int-iran-economy-sub-photo-vhmk-facebookJumbo.jpg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -28,7 +33,7 @@ Loeb, a Harvard astrophysicist who leads the Galileo Project, has ranked 3I/ATLA
 3I/ATLAS, discovered on July 1, 2025, is only the third confirmed interstellar object to visit our solar system, following 'Oumuamua in 2017 and 2I/Borisov in 2019[7][8]. The object passed Earth on December 19 at a safe distance of roughly 170 million miles and is now heading toward Jupiter, where it will make its closest approach on March 16, 2026[5][9].</description>
       <pubDate>Tue, 30 Dec 2025 19:28:36 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--_ONJqLOk--/t_limit/https://d1rldr9jdodfaa.cloudfront.net/images/01KDM45R1HGZ5XTPV8WR2W98FE/20251229_035931_1435410826.webp" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--Lvikn8le--/t_thumbnail/https://d1rldr9jdodfaa.cloudfront.net/images/01KDM45R1HGZ5XTPV8WR2W98FE/20251229_035931_1435410826.webp" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -39,7 +44,7 @@ Loeb, a Harvard astrophysicist who leads the Galileo Project, has ranked 3I/ATLA
 Gold climbed more than 64% this year to trade around $4,330 per ounce on Tuesday, marking its largest annual gain since 1979, when the Iranian revolution sent prices soaring[1][2][3]. Copper notched a 41% rise on the London Metal Exchange, its best performance since 2009[4][5], as electrification and artificial intelligence infrastructure drove demand to record levels.</description>
       <pubDate>Wed, 31 Dec 2025 09:33:40 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--JjPMVvlh--/t_limit/https://image.cnbcfm.com/api/v1/image/108169197-1752008031727-gettyimages-2214478458-SCRAP_COPPER_TARIFFS.jpeg%3Fv%3D1752108090%26w%3D1920%26h%3D1080" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--O7-kc990--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108169197-1752008031727-gettyimages-2214478458-SCRAP_COPPER_TARIFFS.jpeg%3Fv%3D1752108090%26w%3D1920%26h%3D1080" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -50,7 +55,7 @@ Gold climbed more than 64% this year to trade around $4,330 per ounce on Tuesday
 The twin milestones mark a renewed era of deep space exploration, with Artemis II paving the way for lunar landings and BepiColombo promising to unlock secrets of the solar system's smallest and least understood planet.</description>
       <pubDate>Wed, 31 Dec 2025 12:03:48 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--QnLfuvk---/t_limit/https://i.abcnewsfe.com/a/751337ea-dbb7-4ae0-b002-af6a735f1c76/artemis-4-ht-gmh-250924_1758726314230_hpMain_16x9.jpg%3Fw%3D1600" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--aWXzDobj--/t_thumbnail/https://i.abcnewsfe.com/a/751337ea-dbb7-4ae0-b002-af6a735f1c76/artemis-4-ht-gmh-250924_1758726314230_hpMain_16x9.jpg%3Fw%3D1600" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -65,7 +70,7 @@ South Korea's KOSPI index led all major global markets with a stunning 75.6% gai
 Latin America emerged as an unexpected star, with Colombia's equity market skyrocketing over 91% to claim the top spot globally, according to data compiled by Morningstar for CNBC[1]. Chile, Peru, Mexico, and Brazil all posted gains exceeding 45%, establishing the region as a standout performer[1]. Analysts attributed Colombia's rally to low initial valuations, improving investor sentiment ahead of presidential elections, and a Colombian peso that appreciated nearly 15% against the dollar[1].</description>
       <pubDate>Wed, 31 Dec 2025 12:20:46 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--zVn5fFwg--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/12/AP25364046574448-1767175887.jpg%3Fresize%3D1920%252C1440" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--oEu6geFi--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/12/AP25364046574448-1767175887.jpg%3Fresize%3D1920%252C1440" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -78,7 +83,7 @@ The protests began Sunday when merchants in Tehran's Grand Bazaar shuttered thei
 University students joined the demonstrations Tuesday, with protests reported at more than ten campuses nationwide[1][3][7]. Videos circulating on social media showed students chanting "Death to the dictator," referring to Supreme Leader Ayatollah Ali Khamenei, while others tore down signs representing his office at Beheshti University[2][7][8]. The Guild Council of the University of Tehran said six students were detained but later released[4].</description>
       <pubDate>Wed, 31 Dec 2025 14:05:54 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--pnRoMRbh--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/12/AFP__20251229__898K4ZR__v1__HighRes__IranPoliticsEconomyDemo-1767163693.jpg%3Fresize%3D1920%252C1440" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--yflcvPMJ--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/12/AFP__20251229__898K4ZR__v1__HighRes__IranPoliticsEconomyDemo-1767163693.jpg%3Fresize%3D1920%252C1440" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -93,7 +98,7 @@ The Finnish Border Guard intercepted the cargo ship Fitburg after telecoms provi
 The Fitburg, flying the flag of Saint Vincent and the Grenadines, was ordered to raise its anchor and proceed to Finnish territorial waters where it remains under state control[1]. Helsinki Police Department is investigating the incident as aggravated criminal damage, attempted aggravated criminal damage, and aggravated interference with telecommunications[1][3][2]. The inquiry is being conducted in cooperation with Finnish Defence Forces, Customs, and Estonian authorities[1].</description>
       <pubDate>Wed, 31 Dec 2025 14:49:28 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--E0kDgfNP--/t_limit/https://s.err.ee/photo/crop/2025/12/31/3142235h8a53t46.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--c6BzKo2W--/t_thumbnail/https://s.err.ee/photo/crop/2025/12/31/3142235h8a53t46.jpg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -106,7 +111,7 @@ The Russian assault on Odesa damaged four apartment buildings and struck two ene
 "Another proof that Russia is targeting civilians," Serhii Lysak, head of Odesa City Military Administration, wrote on social media[7]. The Ukrainian Energy Ministry reported that emergency repair work was underway, though restoration efforts have been hampered by the extent of damage to critical infrastructure[8][9][10].</description>
       <pubDate>Wed, 31 Dec 2025 15:04:27 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--Io8nR3e2--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/03/AFP__20250319__376Q2B7__v1__HighRes__UkraineRussiaConflictWar-1742915824.jpg%3Fresize%3D1920%252C1440" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--HLd_gTOz--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/03/AFP__20250319__376Q2B7__v1__HighRes__UkraineRussiaConflictWar-1742915824.jpg%3Fresize%3D1920%252C1440" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -117,7 +122,7 @@ The Russian assault on Odesa damaged four apartment buildings and struck two ene
 The remarks came one day after China's People's Liberation Army announced it had "successfully completed" Justice Mission 2025, a two-day military exercise that encircled Taiwan with warships, fighter jets, and missile forces[1][2][4]. Senior Captain Li Xi, spokesperson for the PLA's Eastern Theater Command, said the drills "fully tested the integrated joint operations capabilities" of Chinese troops[1][4].</description>
       <pubDate>Wed, 31 Dec 2025 15:06:12 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--mZBSIjQM--/t_limit/https://media.zenfs.com/en/dpa_international_526/c91765623f386e10db4d425447915c0c" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--h3ee3Gex--/t_thumbnail/https://media.zenfs.com/en/dpa_international_526/c91765623f386e10db4d425447915c0c" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -132,7 +137,7 @@ The year-end rally turned turbulent in late December when CME Group raised margi
 Silver plunged nearly 9% on Monday, December 29, to just above $73 per ounce after briefly exceeding $84 over the weekend[13]. Gold dropped more than 4% to around $4,355[13]. Both metals staged recoveries on Tuesday before falling again Wednesday, with silver declining more than 8% and gold slipping approximately 0.75%[13][14].</description>
       <pubDate>Wed, 31 Dec 2025 15:34:53 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--qafb8bWe--/t_limit/https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630%2Cf_auto%2Cq_auto:best/rockcms/2025-12/251230-gold-bars-ch-0915-44803a.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--r6bMcTxj--/t_thumbnail/https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630%2Cf_auto%2Cq_auto:best/rockcms/2025-12/251230-gold-bars-ch-0915-44803a.jpg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -143,7 +148,7 @@ Silver plunged nearly 9% on Monday, December 29, to just above $73 per ounce aft
 Fresh observations from the Hubble Space Telescope captured on December 12 and 27 reveal a stable double-jet structure streaming from the comet's nucleus, while separate imaging shows the object's outer coma is thinning naturally rather than through any intentional cloaking mechanism, according to International Business Times UK[1][2]. The object made its closest approach to Earth on December 19 at approximately 168 million miles, offering astronomers a final window to study the third confirmed interstellar visitor to our solar system[3][2].</description>
       <pubDate>Wed, 31 Dec 2025 16:06:01 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--ncfCdTy1--/t_limit/https://cdn.mos.cms.futurecdn.net/d2LiKKEwjMSne83325vDGE-1920-80.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--1JDjvnv5--/t_thumbnail/https://cdn.mos.cms.futurecdn.net/d2LiKKEwjMSne83325vDGE-1920-80.jpg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -154,7 +159,7 @@ Fresh observations from the Hubble Space Telescope captured on December 12 and 2
 The Big Four professional services firms—Deloitte, EY, PwC, and KPMG—have deployed thousands of AI agents this year, setting a blueprint for how businesses worldwide will operate[1][2][3]. EY advanced 1,000 AI agents into development or production in 2025, with plans to scale to 100,000 by 2028[3][4]. PwC deployed 25,000 intelligent agents across client operations[4], while Deloitte's Zora AI platform reduced finance team costs by 25% and increased productivity by 40%[5][6].</description>
       <pubDate>Wed, 31 Dec 2025 16:42:28 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--R-qxYTGe--/t_limit/https://media.zenfs.com/en/business_insider_articles_888/2408211dfb6cc287dc54ea05572be03c" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--yUzvcRHe--/t_thumbnail/https://media.zenfs.com/en/business_insider_articles_888/2408211dfb6cc287dc54ea05572be03c" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -165,7 +170,7 @@ The Big Four professional services firms—Deloitte, EY, PwC, and KPMG—have de
 The dual deals underscore the chipmaker's aggressive expansion strategy as competition intensifies in artificial intelligence infrastructure, though both transactions face regulatory hurdles that could determine their ultimate success.</description>
       <pubDate>Wed, 31 Dec 2025 17:44:17 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/upload/t_limit/v1767201447/getty_uploads/2253153677_sso41c.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1767201447/getty_uploads/2253153677_sso41c.jpg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -176,7 +181,7 @@ The dual deals underscore the chipmaker's aggressive expansion strategy as compe
 Malaysia's Transport Ministry confirmed that the Armada 86 05 reached a designated search area with two autonomous underwater vehicles, reviving hopes of finally locating the Boeing 777 that vanished with 239 people on board on March 8, 2014[1][2][4]. The ministry did not disclose the exact location of the search zone, but stated the vessel prepared for operations at Fremantle Port in Western Australia[1][2].</description>
       <pubDate>Wed, 31 Dec 2025 18:27:47 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--XLAd_qnZ--/t_limit/https://www.kongsberg.com/contentassets/b198e9d44c914774977c45bd9fee3290/hugin_auv.jpg%3Fwidth%3D1000%26rxy%3D0.5%252C0.5" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--0hWOnegI--/t_thumbnail/https://www.kongsberg.com/contentassets/b198e9d44c914774977c45bd9fee3290/hugin_auv.jpg%3Fwidth%3D1000%26rxy%3D0.5%252C0.5" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -187,7 +192,7 @@ Malaysia's Transport Ministry confirmed that the Armada 86 05 reached a designat
 Once operational, CHIEF1900 will surpass all existing hypergravity centrifuges worldwide, including its predecessor CHIEF1300, which began operations in September with a capacity of 1,300 gravity-tonnes[1][3]. The previous world record was held by the U.S. Army Corps of Engineers facility in Vicksburg, Mississippi, with a capacity of approximately 1,200 gravity-tonnes[1][4].</description>
       <pubDate>Wed, 31 Dec 2025 19:48:00 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--86wfKNsW--/t_limit/https://cms.interestingengineering.com/wp-content/uploads/2025/12/C1300.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--KZSpeLmL--/t_thumbnail/https://cms.interestingengineering.com/wp-content/uploads/2025/12/C1300.jpg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -198,7 +203,7 @@ Once operational, CHIEF1900 will surpass all existing hypergravity centrifuges w
 The public rebuke came hours before Putin delivered his annual New Year's address vowing victory in Ukraine, telling troops "we believe in you and our victory"[4][5]. The dueling messages highlighted the difficulties facing U.S.-led efforts to broker an end to the nearly four-year conflict, despite Trump's recent optimism that a deal may be within reach.</description>
       <pubDate>Wed, 31 Dec 2025 20:08:22 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--m-uCyag6--/t_limit/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJeoaqDiNPTA/v2/-1x-1.webp" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--6L0aijcV--/t_thumbnail/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJeoaqDiNPTA/v2/-1x-1.webp" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -211,7 +216,7 @@ The talks, which included U.S. Secretary of State Marco Rubio, Trump's son-in-la
 "We focused on how to move the discussions forward in a practical way on behalf of @POTUS' peace process, including strengthening security guarantees and developing effective deconfliction mechanisms to help end the war and ensure it does not restart," Witkoff wrote on social media[2][4].</description>
       <pubDate>Wed, 31 Dec 2025 20:37:31 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--nkGWH0FY--/t_limit/https://www.reuters.com/resizer/v2/GKPFOWTLX5LJ3FVAODKEEGMQYE.jpg%3Fauth%3Df315347f4e9a676528d58b9eb282a8b5d04fb77977eaffec4a8a37edfe62eb9a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--SN8hOK-5--/t_thumbnail/https://www.reuters.com/resizer/v2/GKPFOWTLX5LJ3FVAODKEEGMQYE.jpg%3Fauth%3Df315347f4e9a676528d58b9eb282a8b5d04fb77977eaffec4a8a37edfe62eb9a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -220,7 +225,7 @@ The talks, which included U.S. Secretary of State Marco Rubio, Trump's son-in-la
       <description>The US Department of Commerce has issued an annual export license to Taiwan Semiconductor Manufacturing, allowing the chipmaker to continue importing American manufacturing equipment to its facility in Nanjing, China, the company announced Thursday[1][2]. The approval, granted just before a longstanding waiver system expired on December 31, marks a shift from blanket permissions to tighter, year-by-year controls[1][2].</description>
       <pubDate>Wed, 31 Dec 2025 21:50:51 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--bWSt6Vsz--/t_limit/https://blazetrends.com/wp-content/uploads/2025/04/Taiwan-to-Restrict-TSMC-Advanced-Tech-Exports-Amid-Rising-China.png" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--IldZak_d--/t_thumbnail/https://blazetrends.com/wp-content/uploads/2025/04/Taiwan-to-Restrict-TSMC-Advanced-Tech-Exports-Amid-Rising-China.png" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -231,7 +236,7 @@ The talks, which included U.S. Secretary of State Marco Rubio, Trump's son-in-la
 The Artemis II mission is scheduled to launch no earlier than February 5, 2026, with launch windows open through the end of April, according to NASA officials[1][2][3]. The 10-day mission will send four astronauts—NASA's Reid Wiseman, Victor Glover and Christina Koch, along with Canadian Space Agency astronaut Jeremy Hansen—on a lunar flyby[4][5]. The crew will become the first people to travel beyond low-Earth orbit since Apollo 17 in December 1972[1][4]. Glover will be the first Black man, Koch the first woman, and Hansen the first non-American to venture this far from Earth[6].</description>
       <pubDate>Wed, 31 Dec 2025 22:07:35 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--F1aG38b2--/t_limit/https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w%2Cf_auto%2Cq_auto:best/rockcms/2025-12/251224-Artemis-II-gk-179dcb.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--1xt_y1fH--/t_thumbnail/https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w%2Cf_auto%2Cq_auto:best/rockcms/2025-12/251224-Artemis-II-gk-179dcb.jpg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -244,7 +249,7 @@ The assessment, backed by the Central Intelligence Agency, found no evidence Ukr
 Russia claimed on Monday that Ukraine launched 91 long-range attack drones at Putin's Valdai residence in the Novgorod region, calling it a "terrorist attack"[6][7][8]. Russian Foreign Minister Sergey Lavrov said all drones were intercepted and warned Moscow would revise its negotiating position[7][9][8]. However, Ukrainian President Volodymyr Zelenskyy swiftly dismissed the allegations as "another lie" intended to sabotage diplomatic progress[9][10].</description>
       <pubDate>Wed, 31 Dec 2025 22:11:52 +0000</pubDate>
       <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/upload/t_limit/v1767218913/getty_uploads/2253168763_g7rfjo.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1767218913/getty_uploads/2253168763_g7rfjo.jpg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>
