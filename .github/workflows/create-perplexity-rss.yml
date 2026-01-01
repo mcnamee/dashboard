@@ -52,11 +52,11 @@ jobs:
           fg.load_extension('media')
           fg.title('Perplexity Discover')
           fg.link(href='https://perplexity.ai/discover', rel='alternate')
-          fg.description('Perplexity's Discover News Feed.')
+          fg.description('Perplexity\'s Discover News Feed.')
           fg.image(
-              url='https://www.perplexity.ai/favicon.png',
+              url='https://docs.perplexity.ai/favicon.png',
               title='Perplexity Discover',
-              link='https://perplexity.ai/discover',
+              link='https://perplexity.ai/discover'
           )
 
           for obj in items:
