@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-01T08:13:32.000000Z",
+      "title": "Breaking: Several killed in New Year's Eve fire at Swiss ski resort bar",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/19781b017b92fdd271eda764b9e219de?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Local media reports the blaze was sparked by an explosion, with more than 100 people believed to have been inside the bar at the time.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-01/several-killed-new-years-eve-blaze-at-ski-resort-bar-switzerland/106193118"
+    },
+    {
+      "published_datetime": "2026-01-01T07:53:13.000000Z",
+      "title": "'I need revenge': Sabalenka targets Kyrgios rematch",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/578488ba33622c22f60325375ff8acbe?impolicy=wcms_crop_resize&amp;cropH=2712&amp;cropW=4821&amp;xPos=0&amp;yPos=149&amp;width=862&amp;height=485"
+      },
+      "description": "Aryna Sabalenka does not want her \"Battle of the Sexes\" clash with Nick Kyrgios to be the last and insists exhibitions have a vital role to play in tennis.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-01/i-need-revenge-sabalenka-targets-kyrgios-rematch/106193082"
+    },
+    {
       "published_datetime": "2026-01-01T05:10:02.000000Z",
       "title": "Banged-up Millennium Falcon the last boat to finish Sydney to Hobart",
       "featured_image": {
@@ -44,15 +62,6 @@
       },
       "description": "Hundreds of coin collectors forwent the late-night revelry of New Year's Eve in favour of an early morning visit to the Royal Australian Mint in Canberra, hoping to get their hands on the highly sought-after first coin of the year.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-01/royal-australian-mint-ballot-first-coin-2026/106192014"
-    },
-    {
-      "published_datetime": "2026-01-01T01:00:40.000000Z",
-      "title": "Australian meat body warns new China beef tariff impact will be 'severe'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef08860d3a56df67c28ee69b5735e409?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Meat Industry Council says it is \"extremely disappointed\" as China imposes a tariff on Australian beef imports that could cost $1 billion.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-01/china-hits-australian-beef-industry-with-tariff/106191726"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c751b5ff-12ad-4c92-a6a5-a8d39b2a20d1",
@@ -107,15 +116,6 @@
       "audio_url": "",
       "url": "us-grants-tsmc-annual-license-w3byXfPhSOKd2WTH0V5qBg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2025-12-31T21:19:19.000000Z",
-      "title": "Case file of last woman hanged in Australia released after 75 years",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/06058aee81edbcd4162d19cd6f7e5154?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
-      },
-      "description": "Jean Lee and her two co-accused were executed for murder in 1950. Handwritten letters from the trio are among items publicly available for the first time since their trial captured the nation's attention.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-01/last-woman-executed-in-australia-jean-lee-melbourne/106186652"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8780d3f0-ca77-45f4-9edf-8dcb371178dc",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-01T08:19:27.044214"
+  "merged_at": "2026-01-01T09:17:51.861331"
 }
