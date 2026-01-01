@@ -21,13 +21,23 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies 🐍
-        run: pip install feedgen
+        run: pip install feedgen python-dateutil
 
       - name: Create RSS feed ⛘
         run: |
           python << 'PYCODE'
           import json
           from feedgen.feed import FeedGenerator
+          from datetime import timezone
+          from dateutil import parser
+
+          def parse_aware(dt_str):
+              if not dt_str:
+                  return None
+              dt = parser.parse(dt_str)
+              if dt.tzinfo is None:
+                  dt = dt.replace(tzinfo=timezone.utc)
+              return dt
 
           # Load JSON from file or API
           try:
@@ -55,7 +65,11 @@ jobs:
                   )
               else:
                   fe.description(obj.get('description', ''))
-              fe.pubDate(obj.get('published_datetime', ''))
+              
+              pub_dt = parse_aware(obj.get('published_datetime'))
+              if pub_dt:
+                  fe.pubDate(pub_dt)
+
 
           rss_str = fg.rss_str(pretty=True)
           with open("feeds/perplexity-rss.xml", "wb") as f:
