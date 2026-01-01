@@ -63,7 +63,7 @@ jobs:
               fe = fg.add_entry()
               fe.title(obj.get('title', 'No title'))
               
-              fe.link(href=link_url, 'https://perplexity.ai/discover'))
+              fe.link(href=link_url, 'https://perplexity.ai/discover')
               fe.description(desc)
 
               # Full HTML body in content:encoded
