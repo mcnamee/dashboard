@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-01T13:00:56.000000Z",
+      "title": "More than 120 business leaders call for Bondi attack royal commission",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/11521d73bc54160515f976b36e3ef8a1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Former Reserve Bank governors and CEOs are among 125 business leaders now calling for a Commonwealth royal commission in the wake of the Bondi Beach terror attack.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-02/125-business-leaders-call-for-bondi-attack-royal-commission/106193032"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b65d1743-b0aa-4970-b02a-c423d6dd56a1",
       "published_datetime": "2026-01-01T10:21:17.345058",
       "title": "Satellites to enable seamless global 5G and 6G by 2030",
@@ -14,15 +23,6 @@
       "audio_url": "",
       "url": "satellites-to-boost-global-5g-r492TWx_RkmX_o1inKqDjg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-01T09:15:46.000000Z",
-      "title": "Man, 34, charged with 66 offences after police hunt in Latrobe Valley",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed1fa5764e0ece20a1d66585fcc193dc?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Police charge a man after a two-day pursuit that resulted in a police officer being injured and multiple police vehicles being rammed.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-01/man-charged-following-alleged-crime-spree-in-latrobe-valley/106193160"
     },
     {
       "published_datetime": "2026-01-01T08:13:32.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-01T12:26:20.952238"
+  "merged_at": "2026-01-01T13:28:51.790653"
 }
