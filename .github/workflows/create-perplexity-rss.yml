@@ -60,9 +60,9 @@ jobs:
               fe.title(obj.get('title', 'No title'))
               fe.link(href=obj.get('page_content_url', 'https://example.com'))
               if image_url:
-                  fe.description(
-                      f'<img src="{image_url}" alt="featured"><p>{obj.get("description", "")}</p>'
-                  )
+                  html = f'<p><img src="{image_url}" alt="featured"></p><p>{obj.get("description", "")}</p>'
+                  fe.content(content=html, type='CDATA')
+                  fe.enclosure(url=image_url, type='image/jpeg')
               else:
                   fe.description(obj.get('description', ''))
               
