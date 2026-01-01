@@ -8,7 +8,7 @@ on:
     branches: [main]
 
 jobs:
-  merge-feeds:
+  create-rss:
     runs-on: ubuntu-latest
     
     steps:
@@ -25,17 +25,17 @@ jobs:
 
       - name: Create RSS feed ⛘
         run: |
-          python -c "
+          python << 'PYCODE'
           import json
           from feedgen.feed import FeedGenerator
 
           # Load JSON from file or API
           try:
               with open('feeds/perplexity.json', 'r') as f:
-                 json_feed = json.load(f)
+                  json_feed = json.load(f)
           except FileNotFoundError:
               json_feed = {'items': []}
-          
+
           items = json_feed.get('items', [])
 
           fg = FeedGenerator()
@@ -50,7 +50,9 @@ jobs:
               fe.title(obj.get('title', 'No title'))
               fe.link(href=obj.get('page_content_url', 'https://example.com'))
               if image_url:
-                  fe.description(f'<img src="{image_url}" alt="featured"><p>{obj.get("description", "")}</p>')
+                  fe.description(
+                      f'<img src="{image_url}" alt="featured"><p>{obj.get("description", "")}</p>'
+                  )
               else:
                   fe.description(obj.get('description', ''))
               fe.pubDate(obj.get('published_datetime', ''))
@@ -58,7 +60,7 @@ jobs:
           rss_str = fg.rss_str(pretty=True)
           with open("feeds/perplexity-rss.xml", "wb") as f:
               f.write(rss_str)
-          "
+          PYCODE
 
       - name: Generate commit message 📆
         id: date
