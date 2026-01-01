@@ -30,8 +30,13 @@ jobs:
           from feedgen.feed import FeedGenerator
 
           # Load JSON from file or API
-          with open("feeds/perplexity.json") as f:
-              items = json.load(f)
+          try:
+              with open('feeds/perplexity.json', 'r') as f:
+                 json_feed = json.load(f)
+          except FileNotFoundError:
+              json_feed = {'items': []}
+          
+          items = json_feed.get('items', [])
 
           fg = FeedGenerator()
           fg.title('Perplexity Discover RSS Feed')
@@ -51,7 +56,7 @@ jobs:
               fe.pubDate(obj.get('published_datetime', ''))
 
           rss_str = fg.rss_str(pretty=True)
-          with open("perplexity-rss.xml", "wb") as f:
+          with open("feeds/perplexity-rss.xml", "wb") as f:
               f.write(rss_str)
           "
 
