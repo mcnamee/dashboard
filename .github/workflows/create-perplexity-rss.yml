@@ -50,17 +50,20 @@ jobs:
 
           fg = FeedGenerator()
           fg.load_extension('media')
-          fg.title('Perplexity Discover RSS Feed')
+          fg.title('Perplexity Discover')
           fg.link(href='https://perplexity.ai/discover', rel='alternate')
           fg.description('RSS generated from JSON')
 
           for obj in items:
               image_url = (obj.get("featured_image") or {}).get("image", "")
               desc = obj.get("description", "")
+              slug = obj.get('url', '')
+              link_url = f"https://perplexity.ai/discover/you/{slug}"
 
               fe = fg.add_entry()
               fe.title(obj.get('title', 'No title'))
-              fe.link(href=obj.get('page_content_url', 'https://example.com'))
+              
+              fe.link(href=link_url, 'https://perplexity.ai/discover'))
               fe.description(desc)
 
               # Full HTML body in content:encoded
