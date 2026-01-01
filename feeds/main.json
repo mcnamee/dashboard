@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-01-01T08:13:32.000000Z",
-      "title": "Breaking: Several killed in New Year's Eve fire at Swiss ski resort bar",
+      "published_datetime": "2026-01-01T09:15:46.000000Z",
+      "title": "Man, 34, charged with 66 offences after police hunt in Latrobe Valley",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/19781b017b92fdd271eda764b9e219de?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed1fa5764e0ece20a1d66585fcc193dc?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Local media reports the blaze was sparked by an explosion, with more than 100 people believed to have been inside the bar at the time.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-01/several-killed-new-years-eve-blaze-at-ski-resort-bar-switzerland/106193118"
+      "description": "Police charge a man after a two-day pursuit that resulted in a police officer being injured and multiple police vehicles being rammed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-01/man-charged-following-alleged-crime-spree-in-latrobe-valley/106193160"
+    },
+    {
+      "published_datetime": "2026-01-01T08:13:32.000000Z",
+      "title": "Breaking: Dozens killed in New Year's Eve fire at Swiss ski resort bar",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/95e9c588844596460fa2f494e5806dbf?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Dozens of people are feared to have been killed and around 100 others injured after a fire tore through a crowded bar during a New Year's Eve party in a luxury ski resort town.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-01/dozens-killed-new-years-eve-blaze-at-ski-resort-bar-switzerland/106193118"
     },
     {
       "published_datetime": "2026-01-01T07:53:13.000000Z",
@@ -55,15 +64,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-01/teen-72yo-killed-in-separate-new-years-eve-crashes/106191780"
     },
     {
-      "published_datetime": "2026-01-01T01:20:14.000000Z",
-      "title": "World's first coin of 2026 celebrates 60 years of decimal currency in Australia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e984579bc8e0f970b1e2bfc71ec592c?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=3840&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Hundreds of coin collectors forwent the late-night revelry of New Year's Eve in favour of an early morning visit to the Royal Australian Mint in Canberra, hoping to get their hands on the highly sought-after first coin of the year.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-01/royal-australian-mint-ballot-first-coin-2026/106192014"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c751b5ff-12ad-4c92-a6a5-a8d39b2a20d1",
       "published_datetime": "2025-12-31T22:11:52.875643",
       "title": "US says Ukraine did not target Putin in drone strike",
@@ -97,9 +97,9 @@
       "published_datetime": "2025-12-31T21:54:31.000000Z",
       "title": "Three drownings at NSW beaches in 'terrible' start to new year",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5fa39e1f0af1f93827b027fac7e14899?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0680c9509c4d17d3caf9dbe2470b7549?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Two women and a man have died and two people are missing as a result of four separate incidents in NSW waters in the past 24 hours.",
+      "description": "A man and two women have died and two people are missing following four separate incidents on Sydney waters over the past 48 hours.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-01/woman-dies-at-maroubra-beach-while-two-others-missing-in-sydney/106191480"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-01T09:17:51.861331"
+  "merged_at": "2026-01-01T10:14:50.430512"
 }
