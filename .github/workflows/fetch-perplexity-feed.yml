@@ -18,7 +18,7 @@ jobs:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
         run: |
           mkdir -p feeds
-          curl --location 'https://api.perplexity.ai/discover/feed?limit=12&offset=0&version=2.18&source=default' \
+          curl --location 'https://api.perplexity.ai/discover/feed?limit=20&offset=0&version=2.18&source=default' \
             --header "Authorization: Bearer $PERPLEXITY_API_KEY" \
             --header 'Content-Type: application/json' \
             --output feeds/perplexity.json
