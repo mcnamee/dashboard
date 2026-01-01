@@ -23,8 +23,9 @@ jobs:
       - name: Install dependencies 🐍
         run: pip install feedgen
 
-      - name: Merge JSON feeds ⛘
+      - name: Create RSS feed ⛘
         run: |
+          python -c "
           import json
           from feedgen.feed import FeedGenerator
 
