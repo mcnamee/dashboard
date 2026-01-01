@@ -52,20 +52,25 @@ jobs:
           fg.load_extension('media')
           fg.title('Perplexity Discover')
           fg.link(href='https://perplexity.ai/discover', rel='alternate')
-          fg.description('RSS generated from JSON')
+          fg.description('Perplexity's Discover News Feed.')
+          fg.image(
+              url='https://www.perplexity.ai/favicon.png',
+              title='Perplexity Discover',
+              link='https://perplexity.ai/discover',
+          )
 
           for obj in items:
-              image_url = (obj.get("featured_image") or {}).get("image", "")
+              image_url = (obj.get("featured_image") or {}).get("thumbnail", "")
               desc = obj.get("description", "")
               slug = obj.get('url', '')
               link_url = f"https://perplexity.ai/discover/you/{slug}"
+              pub_dt = parse_aware(obj.get('published_datetime'))
 
               fe = fg.add_entry()
               fe.title(obj.get('title', 'No title'))
               fe.link(href=link_url)
               fe.description(desc)
 
-              # Full HTML body in content:encoded
               if image_url:
                   fe.media.content(
                       url=image_url,
@@ -73,7 +78,6 @@ jobs:
                       type="image/jpeg"
                   )
 
-              pub_dt = parse_aware(obj.get('published_datetime'))
               if pub_dt:
                   fe.pubDate(pub_dt)
 
