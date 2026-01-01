@@ -54,7 +54,7 @@ jobs:
           fg.description('RSS generated from JSON')
 
           for obj in items:
-              image_url = (obj.get("featured_image") or {}).get("url", "")
+              image_url = (obj.get("featured_image") or {}).get("image", "")
 
               fe = fg.add_entry()
               fe.title(obj.get('title', 'No title'))
