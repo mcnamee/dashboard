@@ -59,17 +59,21 @@ jobs:
               fe = fg.add_entry()
               fe.title(obj.get('title', 'No title'))
               fe.link(href=obj.get('page_content_url', 'https://example.com'))
+              fe.description(obj.get('description', ''))
+
+              # Full HTML body in content:encoded
               if image_url:
-                  html = f'<p><img src="{image_url}" class="webfeedsFeaturedVisual" width="800" height="450" alt="featured" /></p><p>{obj.get("description", "")}</p>'
-                  fe.content(content=html, type='CDATA')
+                  html = (
+                      f'<p><img class="webfeedsFeaturedVisual" '
+                      f'src="{image_url}" alt="featured" width="800" height="450" /></p>'
+                      f'<p>{obj.get('description', '')}</p>'
+                  )
+                  fe.content(content=html, type='CDATA')  # becomes <content:encoded><![CDATA[...]]></content:encoded>
                   fe.enclosure(url=image_url, type='image/jpeg')
-              else:
-                  fe.description(obj.get('description', ''))
-              
+
               pub_dt = parse_aware(obj.get('published_datetime'))
               if pub_dt:
                   fe.pubDate(pub_dt)
-
 
           rss_str = fg.rss_str(pretty=True)
           with open("feeds/perplexity-rss.xml", "wb") as f:
