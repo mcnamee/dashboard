@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b65d1743-b0aa-4970-b02a-c423d6dd56a1",
+      "published_datetime": "2026-01-01T10:21:17.345058",
+      "title": "Satellites to enable seamless global 5G and 6G by 2030",
+      "featured_image": {
+        "url": "https://www.pcmag.com/news/ast-spacemobile-launches-its-most-powerful-direct-to-cell-satellite-yet",
+        "name": "AST SpaceMobile Launches Its Most Powerful Direct-to-Cell ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--5zbSjsUS--/t_limit/https://i.pcmag.com/imagery/articles/07mbmX8T9kEQVkUtJgaAWX7-1.fit_lim.size_1200x630.v1766597255.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--73Z1N38k--/t_thumbnail/https://i.pcmag.com/imagery/articles/07mbmX8T9kEQVkUtJgaAWX7-1.fit_lim.size_1200x630.v1766597255.jpg"
+      },
+      "description": "Satellite communication systems are poised to integrate with terrestrial mobile networks by 2030, eliminating dead zones and delivering the next generation of wireless connectivity to billions of smartphones worldwide, according to a comprehensive analysis published this week in the journal Engineering.\n\nThe article, \"Evolution of Satellite Communication Systems Toward 5G/6G for 2030 and Beyond,\" reviews how satellites at various orbital altitudes will combine with ground-based infrastructure to form a unified 5G and 6G communications platform[1][2][3]. The International Telecommunication Union has designated 2030 as the target for deploying IMT-2030\u2014the official designation for 6G\u2014which aims to deliver peak speeds of 1 terabit per second, a hundredfold increase over current 5G networks[4][5].",
+      "audio_url": "",
+      "url": "satellites-to-boost-global-5g-r492TWx_RkmX_o1inKqDjg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-01T09:15:46.000000Z",
       "title": "Man, 34, charged with 66 offences after police hunt in Latrobe Valley",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0854b3e6-bf53-4157-a2b4-32d0bedeff04",
-      "published_datetime": "2025-12-31T16:06:01.067342",
-      "title": "Harvard scientist defends alien probe theory despite new images",
-      "featured_image": {
-        "url": "https://www.space.com/astronomy/comets/interstellar-comet-3i-atlas-caught-on-camera-in-new-images-from-hubble-space-telescope-and-juice-jupiter-probe",
-        "name": "Interstellar comet 3I/ATLAS caught on camera in new ... - Space",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ncfCdTy1--/t_limit/https://cdn.mos.cms.futurecdn.net/d2LiKKEwjMSne83325vDGE-1920-80.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--1JDjvnv5--/t_thumbnail/https://cdn.mos.cms.futurecdn.net/d2LiKKEwjMSne83325vDGE-1920-80.jpg"
-      },
-      "description": "As interstellar visitor 3I/ATLAS speeds away from the inner solar system, Harvard astrophysicist Avi Loeb continues to argue the object exhibits too many anomalies to dismiss extraterrestrial origins, even as new telescope images debunk viral theories that it was deliberately hiding itself.\n\nFresh observations from the Hubble Space Telescope captured on December 12 and 27 reveal a stable double-jet structure streaming from the comet's nucleus, while separate imaging shows the object's outer coma is thinning naturally rather than through any intentional cloaking mechanism, according to International Business Times UK[1][2]. The object made its closest approach to Earth on December 19 at approximately 168 million miles, offering astronomers a final window to study the third confirmed interstellar visitor to our solar system[3][2].",
-      "audio_url": "",
-      "url": "harvard-scientist-suggests-3ia-lA.6.dHRQLG09bSQEBTWCw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-01T11:12:07.303448"
+  "merged_at": "2026-01-01T12:26:20.952238"
 }
