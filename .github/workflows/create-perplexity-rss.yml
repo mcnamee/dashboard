@@ -1,0 +1,68 @@
+name: Create Perplexity RSS Feed
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Fetch Perplexity Discover Feed"]
+    types: [completed]
+    branches: [main]
+
+jobs:
+  merge-feeds:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v6
+        
+      - name: Setup Python 🐍
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies 🐍
+        run: pip install feedgen
+
+      - name: Merge JSON feeds ⛘
+        run: |
+          import json
+          from feedgen.feed import FeedGenerator
+
+          # Load JSON from file or API
+          with open("feeds/perplexity.json") as f:
+              items = json.load(f)
+
+          fg = FeedGenerator()
+          fg.title('Perplexity Discover RSS Feed')
+          fg.link(href='https://perplexity.ai/discover', rel='alternate')
+          fg.description('RSS generated from JSON')
+
+          for obj in items:
+              image_url = (obj.get("featured_image") or {}).get("url", "")
+
+              fe = fg.add_entry()
+              fe.title(obj.get('title', 'No title'))
+              fe.link(href=obj.get('page_content_url', 'https://example.com'))
+              if image_url:
+                  fe.description(f'<img src="{image_url}" alt="featured"><p>{obj.get("description", "")}</p>')
+              else:
+                  fe.description(obj.get('description', ''))
+              fe.pubDate(obj.get('published_datetime', ''))
+
+          rss_str = fg.rss_str(pretty=True)
+          with open("perplexity-rss.xml", "wb") as f:
+              f.write(rss_str)
+          "
+
+      - name: Generate commit message 📆
+        id: date
+        run: echo "commit_message=Perplexity RSS Feed Created - $(TZ=Australia/Sydney date '+%Y-%m-%d %H:%M %Z')" >> $GITHUB_ENV
+
+      - name: Commit changes 🚀
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: ${{ env.commit_message }}
+          file_pattern: feeds/perplexity-rss.xml
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
+          push_options: --force
