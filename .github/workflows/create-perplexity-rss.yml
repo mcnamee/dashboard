@@ -49,6 +49,7 @@ jobs:
           items = json_feed.get('items', [])
 
           fg = FeedGenerator()
+          fg.load_extension('media')
           fg.title('Perplexity Discover RSS Feed')
           fg.link(href='https://perplexity.ai/discover', rel='alternate')
           fg.description('RSS generated from JSON')
@@ -64,13 +65,11 @@ jobs:
 
               # Full HTML body in content:encoded
               if image_url:
-                  html = (
-                      f'<p><img class="webfeedsFeaturedVisual" '
-                      f'src="{image_url}" alt="featured" width="800" height="450" /></p>'
-                      f'<p>{desc}</p>'
+                  fe.media.content(
+                      url=image_url,
+                      medium="image",
+                      type="image/jpeg"
                   )
-                  fe.content(content=html, type='CDATA')  # becomes <content:encoded><![CDATA[...]]></content:encoded>
-                  fe.enclosure(url=image_url, type='image/jpeg')
 
               pub_dt = parse_aware(obj.get('published_datetime'))
               if pub_dt:
