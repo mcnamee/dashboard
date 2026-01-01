@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-01T13:31:07.000000Z",
+      "title": "Australian property market hits first snag in years",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d00453aae97cec731196bb3df117ce55?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=748&amp;width=862&amp;height=485"
+      },
+      "description": "The red-hot Australian housing market is showing the first signs of easing since interest rates started rising back in May 2022.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-02/national-house-price-hit-speed-bump-property-market/106185196"
+    },
+    {
+      "published_datetime": "2026-01-01T13:26:07.000000Z",
+      "title": "Russia says 20 killed in Ukrainian strike in occupied Kherson region",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f586cd1002c0c22967e94207a5f50953?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485"
+      },
+      "description": "It comes as Ukrainian President Volodymyr Zelenskyy says Russia is bringing the conflict \"into the new year\" with a barrage of drone strikes on the country's energy infrastructure.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-02/russia-says-ukrainian-strike-kills-20-in-occupied-region/106193226"
+    },
+    {
       "published_datetime": "2026-01-01T13:00:56.000000Z",
       "title": "More than 120 business leaders call for Bondi attack royal commission",
       "featured_image": {
@@ -52,15 +70,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-01/banged-up-millennium-falcon-last-in-sydney-to-hobart/106192678"
     },
     {
-      "published_datetime": "2026-01-01T03:09:11.000000Z",
-      "title": "Australian K-pop idol Danielle dropped from NewJeans and sued by label",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c90217dc36a4ea1878420af24e45c435?impolicy=wcms_crop_resize&amp;cropH=752&amp;cropW=1336&amp;xPos=0&amp;yPos=401&amp;width=862&amp;height=485"
-      },
-      "description": "An Australian K-pop idol caught up in a bitter dispute with her former record label is sued for more than $44 million and dropped from her group.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-01/danielle-dropped-from-newjeans-and-sued-for-more-than-44-million/106192180"
-    },
-    {
       "published_datetime": "2026-01-01T03:05:52.000000Z",
       "title": "Amyl and the Sniffers singer sues photographer over fine art prints",
       "featured_image": {
@@ -68,15 +77,6 @@
       },
       "description": "Punk rocker Amy Taylor has filed a lawsuit against an American photographer, alleging that photos taken for a magazine photo shoot are being sold against her wishes and without her permission.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-01/amyl-and-the-sniffers-photos-lawsuit/106191940"
-    },
-    {
-      "published_datetime": "2026-01-01T02:22:49.000000Z",
-      "title": "Teen dies after e-bike crashes into pole on New Year's Eve",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/35c0a7a76e21319db890c91b0aa43cd6?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A 15-year-old boy has died in an e-bike crash on New Year's Eve, described by Tasmanian police as \"tragic\" and prompting a call for riders to comply with the law.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-01/teen-72yo-killed-in-separate-new-years-eve-crashes/106191780"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c751b5ff-12ad-4c92-a6a5-a8d39b2a20d1",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-01T13:28:51.790653"
+  "merged_at": "2026-01-01T14:13:08.582322"
 }
