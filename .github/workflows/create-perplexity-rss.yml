@@ -55,18 +55,19 @@ jobs:
 
           for obj in items:
               image_url = (obj.get("featured_image") or {}).get("image", "")
+              desc = obj.get("description", "")
 
               fe = fg.add_entry()
               fe.title(obj.get('title', 'No title'))
               fe.link(href=obj.get('page_content_url', 'https://example.com'))
-              fe.description(obj.get('description', ''))
+              fe.description(desc)
 
               # Full HTML body in content:encoded
               if image_url:
                   html = (
                       f'<p><img class="webfeedsFeaturedVisual" '
                       f'src="{image_url}" alt="featured" width="800" height="450" /></p>'
-                      f'<p>{obj.get('description', '')}</p>'
+                      f'<p>{desc}</p>'
                   )
                   fe.content(content=html, type='CDATA')  # becomes <content:encoded><![CDATA[...]]></content:encoded>
                   fe.enclosure(url=image_url, type='image/jpeg')
