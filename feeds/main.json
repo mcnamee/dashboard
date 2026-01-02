@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a609d25b-1562-48b7-8160-89d9f8aa2624",
+      "published_datetime": "2026-01-02T10:28:02.658915",
+      "title": "Scientists create self-powered quantum maser with stable microwave signals",
+      "featured_image": {
+        "url": "https://phys.org/news/2025-12-quantum-technology-lab-life-widespread.html",
+        "name": "Quantum technology moves from lab to life, but widespread use ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--2TfGFOnF--/t_limit/https://scx2.b-cdn.net/gfx/news/hires/2025/when-will-quantum-tech.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--qfuREws5--/t_thumbnail/https://scx2.b-cdn.net/gfx/news/hires/2025/when-will-quantum-tech.jpg"
+      },
+      "description": "Scientists at TU Wien and the Okinawa Institute of Science and Technology have demonstrated the first self-induced superradiant quantum maser, a discovery that could reshape precision technologies from GPS navigation to medical imaging.\n\nPublished in Nature Physics, the research shows how quantum particles can spontaneously cooperate to generate stable, long-lived microwave signals without external power, overturning previous assumptions about how quantum systems behave[1][2][3]. The team coupled nitrogen-vacancy centers in diamond\u2014tiny atomic defects containing electron spins\u2014to a microwave cavity, where they observed an unexpected phenomenon: after an initial burst of energy, the system produced a sustained train of coherent microwave pulses lasting up to a millisecond[2][4].\n\n\"What's remarkable is that the seemingly messy interactions between spins actually fuel the emission,\" said Dr. Wenzel Kersten, first author of the study, in a press statement. \"The system organizes itself, producing an extremely coherent microwave signal from the very disorder that usually destroys it\"[1][3].",
+      "audio_url": "",
+      "url": "researchers-achieve-first-self-60RiJS.UT0WWCstx3c7Y1g",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f16e2c9e-b813-45aa-9728-6d2c262c5a6d",
       "published_datetime": "2026-01-02T09:42:48.959692",
       "title": "Eurozone manufacturing hits nine-month low on German decline",
@@ -217,21 +232,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-02/usman-khawaja-to-retire-after-scg-ashes-test/106193812"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ffd15b9f-dc64-41ab-99d5-276f27afc3d6",
-      "published_datetime": "2026-01-01T20:06:08.997906",
-      "title": "Chinese tokamak exceeds density limit in fusion advance",
-      "featured_image": {
-        "url": "https://newatlas.com/energy/china-east-fusion-endurance-record-1000-seconds/",
-        "name": "China sets new fusion endurance record of over a thousand seconds",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--YWUuLblV--/t_limit/https://assets.newatlas.com/dims4/default/2420eea/2147483647/strip/true/crop/999x524%2B0%2B71/resize/1200x630%21/quality/90/%3Furl%3Dhttps%253A%252F%252Fnewatlas-brightspot.s3.amazonaws.com%252F40%252Fdf%252F8aa713a44455aea0d2f42c0dd6a9%252Fcf2.jpg%26na.image_optimisation%3D0",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--1uo3cpDX--/t_thumbnail/https://assets.newatlas.com/dims4/default/2420eea/2147483647/strip/true/crop/999x524%2B0%2B71/resize/1200x630%21/quality/90/%3Furl%3Dhttps%253A%252F%252Fnewatlas-brightspot.s3.amazonaws.com%252F40%252Fdf%252F8aa713a44455aea0d2f42c0dd6a9%252Fcf2.jpg%26na.image_optimisation%3D0"
-      },
-      "description": "Researchers at China's Experimental Advanced Superconducting Tokamak have achieved stable plasma operation at densities far exceeding a long-standing empirical limit, marking a potential breakthrough in the decades-long pursuit of practical fusion energy.\n\nThe team demonstrated plasma densities ranging from 1.3 to 1.65 times the Greenwald limit, an empirical threshold above which tokamaks typically experience disruptive instabilities[1][2][3]. The achievement, detailed in recent research, represents the first experimental verification of a theorized \"density-free regime\" predicted by plasma-wall self-organization theory[1][3].\n\nThe research, co-led by Prof. Zhu Ping from Huazhong University of Science and Technology and Associate Prof. Yan Ning from the Hefei Institutes of Physical Science, addresses a fundamental challenge in fusion energy development[1][2][3]. Fusion power scales with the square of fuel density, making high-density operation crucial for achieving the energy output needed for commercial viability[1][3].",
-      "audio_url": "",
-      "url": "china-s-east-tokamak-surpasses-_osJ86x.QfyYnk0iPjHhwg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-01T18:36:05.000000Z",
       "title": "Easter Island researchers say giant statues 'walked' into position",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-02T11:12:39.881775"
+  "merged_at": "2026-01-02T12:25:18.897596"
 }
