@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-02T08:06:53.000000Z",
+      "title": "Remote NT town in power limbo amid rolling blackouts since New Years Eve",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4eb5fb9bd04a10e75be82400c3184a86?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=126&amp;width=862&amp;height=485"
+      },
+      "description": "The remote Northern Territory town of Jabiru has faced rolling blackouts since New Year's Eve, with no clear indication of when power will be properly restored.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-02/jabiru-power-rolling-blackouts-new-years-eve/106195350"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8173a51b-ae8d-4b62-a737-49bfa177b32c",
+      "published_datetime": "2026-01-02T06:05:46.741243",
+      "title": "Google, SpaceX plan AI data centers in orbit",
+      "featured_image": {
+        "url": "https://www.latimes.com/business/story/2025-12-16/spacex-plans-blockbuster-public-offering-amid-ai-data-center-boom",
+        "name": "SpaceX eyes possible record IPO. What's behind the hype",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--DNytRcMr--/t_limit/https://ca-times.brightspotcdn.com/dims4/default/35c703c/2147483647/strip/true/crop/3158x1658%2B0%2B223/resize/1200x630%21/quality/75/%3Furl%3Dhttps%253A%252F%252Fcalifornia-times-brightspot.s3.amazonaws.com%252F90%252Fb7%252Ffd7d88874911822c6124129725c9%252Fap25066118935545.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--gFzQYyWw--/t_thumbnail/https://ca-times.brightspotcdn.com/dims4/default/35c703c/2147483647/strip/true/crop/3158x1658%2B0%2B223/resize/1200x630%21/quality/75/%3Furl%3Dhttps%253A%252F%252Fcalifornia-times-brightspot.s3.amazonaws.com%252F90%252Fb7%252Ffd7d88874911822c6124129725c9%252Fap25066118935545.jpg"
+      },
+      "description": "Google, SpaceX, and a host of technology leaders are pursuing an ambitious vision to establish data centers in orbit, aiming to solve artificial intelligence's insatiable appetite for energy while sidestepping earthbound constraints.\n\nGoogle announced Project Suncatcher in November, with plans to launch two prototype satellites in early 2027 that will test AI hardware powered by continuous solar energy[1][2][3]. CEO Sundar Pichai told Fox News that building extraterrestrial data centers will be \"normal\" within a decade[1][4]. Meanwhile, startup Starcloud made history in December by successfully training an AI model\u2014Google's Gemma\u2014aboard its satellite, marking the first time a large language model operated in space[5][6].\n\nSpaceX confirmed in December it is preparing for a possible 2026 initial public offering that could raise more than $30 billion, with proceeds earmarked for \"AI data centers in space,\" according to chief financial officer Bret Johnsen[7][8][9]. At an $800 billion valuation, the company is positioning itself as a key player in orbital computing infrastructure[8][10]. Tesla CEO Elon Musk has said space data centers would be \"the cheapest way to train AI\" within five years[1][2].",
+      "audio_url": "",
+      "url": "tech-giants-plan-space-data-ce-QUB_g4STTAGnPbfRT.gPjQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-02T05:58:17.000000Z",
       "title": "What we learned from Donald Trump's wide-ranging health interview",
       "featured_image": {
@@ -121,15 +145,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-01T23:34:50.000000Z",
-      "title": "Lachie Neale apologises for actions that led to marriage breakdown",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6ef84f24e56942c782c5563fd0c1562?impolicy=wcms_crop_resize&amp;cropH=2233&amp;cropW=3970&amp;xPos=0&amp;yPos=175&amp;width=862&amp;height=485"
-      },
-      "description": "The club said the 32-year-old had made the decision following a \"challenging personal period\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-02/qld-lachie-neale-steps-down-as-brisbane-lions-co-captain/106194176"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/10af8768-91e9-4e07-a6e3-543f718fdc9b",
       "published_datetime": "2026-01-01T23:25:08.137516",
       "title": "SpaceX plans to lower 4,400 satellites in 2026 for safety",
@@ -155,11 +170,11 @@
     },
     {
       "published_datetime": "2026-01-01T23:00:17.000000Z",
-      "title": "'Everybody knows her': Sydney mother one of three drowning victims",
+      "title": "'Everybody knows her': Sydney mother one of four drowning victims",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f86e9a8515d1ffbe3fe71f853027c6eb?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The identity of one of three people who died in a cluster of drownings on the New South Wales coast in recent days has been confirmed as a Sydney hairdresser and mother.",
+      "description": "The identity of one of four people who died in a cluster of drownings on the New South Wales coast in recent days has been confirmed as a Sydney hairdresser and mother.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-02/nsw-sydney-beaches-search-missing-teenager-resumes-rescue/106193732"
     },
     {
@@ -223,21 +238,6 @@
       "description": "Violent clashes between protesters and security forces left several people dead across Iran on January 1, marking the most deadly escalation yet in demonstrations that erupted four days earlier over soaring inflation and a collapsing currency[1][2][3][4]. The unrest represents the largest wave of protests in Iran since 2022, when the death of Mahsa Amini sparked nationwide demonstrations[1][2][3].\n\nSemi-official media and rights groups reported multiple fatalities in at least three provinces. Fars news agency said two people were killed in Lordegan, a city in western Iran, during clashes between security services and protesters[5][6][7]. The human rights organization Hengaw corroborated deaths in Lordegan, saying security forces opened fire on demonstrators[8][5][9]. Another death was reported in Isfahan province in central Iran[5][6][7].\n\nAuthorities confirmed one person killed in Kuhdasht, a western city, though accounts of the incident diverged sharply. State media identified the deceased as Amirhossam Khodayari Fard, a 21-year-old member of the Basij paramilitary unit[2][5][10][7]. The Revolutionary Guards said 13 other militia members were wounded and accused demonstrators of \"taking advantage of the atmosphere of popular protests\"[7][5]. However, Hengaw said Khodayari Fard was a protester killed by security forces[5][6][7]. Reuters could not independently verify the reports[7][4].",
       "audio_url": "",
       "url": "several-killed-as-iran-protest-RQ9jdFysQjiW_RhJGKgYqg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dc3a1b27-d21a-4089-af70-13ccfbb7e6d1",
-      "published_datetime": "2026-01-01T15:43:07.482792",
-      "title": "Interstellar object traced to Milky Way core; no alien signals detected",
-      "featured_image": {
-        "url": "https://www.gadgets360.com/science/news/most-sensitive-radio-search-finds-no-technosignature-evidence-from-interstellar-object-3i-atlas-10134107",
-        "name": "Rare Interstellar Object 3I/ATLAS Fails Alien Test, Scientists Say",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--88ObZFsS--/t_limit/https://i.gadgets360cdn.com/large/technosignature_full_1767168040526.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--FfajaO3B--/t_thumbnail/https://i.gadgets360cdn.com/large/technosignature_full_1767168040526.jpg"
-      },
-      "description": "The interstellar visitor 3I/ATLAS has been traced to the violent heart of the Milky Way, while the most sensitive radio search ever conducted on such an object found no evidence of artificial technology, scientists reported in late December 2025.\n\nDiscovered on July 1, 2025, by the Asteroid Terrestrial-impact Last Alert System in Chile, 3I/ATLAS is only the third confirmed object from another star system to enter our solar neighborhood[1][2][3][4]. Recent observations have pinpointed its origin to the direction of Sagittarius, a corridor leading to the galaxy's turbulent core roughly 26,000 light-years away[2][3][5].\n\n\"It has been approaching from the general direction of the constellation Sagittarius, which is where the central region of our galaxy, the Milky Way, is located,\" NASA confirmed[5]. The object's trajectory and hyperbolic excess velocity of approximately 58 kilometers per second suggest it was ejected from a high-energy environment marked by intense radiation and dense stellar traffic[1][2][3].",
-      "audio_url": "",
-      "url": "3iatlas-traced-to-milky-way-co-ygod7mZ1TfiRWCumbaVK.Q",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-02T07:18:20.342738"
+  "merged_at": "2026-01-02T08:19:39.634780"
 }
