@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/253ee642-0079-4ffc-b79a-63ad2ff6cd5a",
+      "published_datetime": "2026-01-02T12:13:08.189148",
+      "title": "87 runaway stars mapped to trace Milky Way's dark matter",
+      "featured_image": {
+        "url": "https://www.gadgets360.com/science/news/runaway-stars-help-astronomers-trace-dark-matter-distribution-across-the-milky-way-galaxy-10198660",
+        "name": "Runaway Stars Help Astronomers Trace Dark Matter Distribution ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--GsPvrDqo--/t_limit/https://i.gadgets360cdn.com/large/map_dark_matter_full_1767350053075.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--S4lPQ0JW--/t_thumbnail/https://i.gadgets360cdn.com/large/map_dark_matter_full_1767350053075.jpg"
+      },
+      "description": "Astronomers from China have identified 87 hypervelocity stars racing through the Milky Way fast enough to escape the galaxy's gravitational pull, offering a new method to map the distribution of dark matter across our cosmic home. The research, published in The Astrophysical Journal and announced this week, uses these stellar runaways as tracers to probe the galaxy's invisible structure[1][2][3][4].\n\nThe team, led by Haozhu Fu of Peking University, focused on RR Lyrae stars, ancient pulsating giants that serve as reliable distance indicators due to their predictable brightness patterns[1][3]. By analyzing data from the Sloan Digital Sky Survey, the Chinese LAMOST telescope, and the European Space Agency's Gaia satellite, researchers sifted through more than 135,000 candidate stars before identifying the most reliable hypervelocity examples[1][3].\n\nSeven of the discovered stars are moving at tangential velocities exceeding 800 kilometers per second\u2014well above the roughly 550 km/s needed to break free from the Milky Way at the sun's position[1][3][5]. According to Phys.org, all 87 stars exceed the galaxy's escape velocity in their tangential component, suggesting many will eventually drift into intergalactic space[1][2].",
+      "audio_url": "",
+      "url": "astronomers-use-runaway-stars-r8jqTSbrQ7yPZLGSUPH5Vw",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a609d25b-1562-48b7-8160-89d9f8aa2624",
       "published_datetime": "2026-01-02T10:28:02.658915",
       "title": "Scientists create self-powered quantum maser with stable microwave signals",
@@ -190,21 +205,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/10af8768-91e9-4e07-a6e3-543f718fdc9b",
-      "published_datetime": "2026-01-01T23:25:08.137516",
-      "title": "SpaceX plans to lower 4,400 satellites in 2026 for safety",
-      "featured_image": {
-        "url": "https://www.telecomstechnews.com/news/spacex-buys-spectrum-starlink-direct-to-cell-mobile-service/",
-        "name": "SpaceX buys spectrum for Starlink 'Direct to Cell' mobile service",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IKDR-p28--/t_limit/https://www.telecomstechnews.com/wp-content/uploads/2025/09/spacex-starlink-direct-to-cell-mobile-service-network-spectrum-rural-connectivity.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--UI_JS6LY--/t_thumbnail/https://www.telecomstechnews.com/wp-content/uploads/2025/09/spacex-starlink-direct-to-cell-mobile-service-network-spectrum-rural-connectivity.jpg"
-      },
-      "description": "The telecommunications industry is racing to integrate satellite and terrestrial networks by 2030, with major carriers rolling out direct-to-cell services and researchers mapping the technical roadmap for seamless global coverage.\n\nA comprehensive study published December 29 in the journal Engineering outlines how satellite communication systems will become integral to 5G and future 6G networks, enabling smartphones to automatically switch between cell towers and orbiting satellites[1][2]. The research, authored by Afang Yuan, Zhihua Yang, and Zhili Sun, identifies key technical challenges including managing handoffs between fast-moving satellites, preventing orbital collisions, and coordinating radio frequencies[3][1].\n\nThe International Telecommunication Union has designated 2030 as the target for 6G deployment, with specifications requiring not just faster speeds but seamless integration between ground-based infrastructure and satellites orbiting at various altitudes[3][1]. While today's 5G networks deliver peak speeds of 10 gigabits per second, the upcoming 6G standard aims for 1 terabit per second[3].",
-      "audio_url": "",
-      "url": "satellites-to-expand-5g-and-6g-UXdpnUC7Q1WLmRX4HlwLYA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-01T23:01:02.000000Z",
       "title": "Khawaja's on-field brilliance pales in comparison to his true impact",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-02T12:25:18.897596"
+  "merged_at": "2026-01-02T13:27:47.007271"
 }
