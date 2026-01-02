@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-02T20:00:04.000000Z",
+      "title": "'B\u00e1nh m\u00ec lover': Vietnamese bakeries go viral on social media",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c75ea4ef34f835835ea727667219bcf?impolicy=wcms_crop_resize&amp;cropH=2477&amp;cropW=4404&amp;xPos=0&amp;yPos=230&amp;width=862&amp;height=485"
+      },
+      "description": "A humble b\u00e1nh m\u00ec appreciation group created by a Sydneysider has played a pivotal role in reinvigorating Australia's love for Vietnamese baguettes.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-03/sydneys-banh-mi-obsession-bakeries-go-viral-on-social-media/105884842"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/130a8724-1ecc-4516-9afd-e5c9363f4c5e",
+      "published_datetime": "2026-01-02T19:40:20.137792",
+      "title": "Wall Street stumbles as European markets hit records",
+      "featured_image": {
+        "url": "https://news.sky.com/story/ftse-100-breaks-10-000-points-mark-for-the-first-time-13489592",
+        "name": "FTSE 100 breaks 10,000 points mark for the first time",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--o8EB99ns--/t_limit/https://e3.365dm.com/25/12/1600x900/skynews-stock-exchange-london_7114201.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--m_pU9_hV--/t_thumbnail/https://e3.365dm.com/25/12/1600x900/skynews-stock-exchange-london_7114201.jpg"
+      },
+      "description": "Wall Street opened the first trading day of 2026 with optimism but quickly reversed course, with major U.S. indexes closing lower despite strong gains in semiconductor stocks[1][2]. European markets, meanwhile, surged to record highs as Britain's FTSE 100 crossed the symbolic 10,000-point threshold for the first time[3][4].\n\nThe S&P 500 fell 0.7% to close at 6,845.50 points, while the Nasdaq Composite declined 0.8% to 23,241.99[5][6]. The Dow Jones Industrial Average dropped 0.6% to 48,063.29, with 26 of its 30 components ending in negative territory[5]. The losses marked a fifth consecutive session in the red for the S&P 500 and Nasdaq, ending hopes for a traditional \"Santa Claus rally\"[1][7].\n\nEarly gains were driven by semiconductor stocks, with Micron Technology jumping nearly 8% and Intel rising approximately 7%[8][9]. The Philadelphia SE Semiconductor index climbed 3.4% during the session[1]. However, weakness in consumer discretionary stocks, including Amazon, which fell as Tesla shares declined 1.6% after the electric vehicle maker reported annual sales fell for a second consecutive year[1][10].",
+      "audio_url": "",
+      "url": "wall-street-and-global-markets-1Ozme5X8Qsm7rDSKzQAG1A",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5eb786a4-cb1d-4db0-bbda-71b3435a7062",
+      "published_datetime": "2026-01-02T19:38:44.964909",
+      "title": "Seven-million-year-old fossil shows evidence of ancient upright walking",
+      "featured_image": {
+        "url": "https://www.newscientist.com/article/2335079-human-ancestors-may-have-walked-on-two-legs-7-million-years-ago/",
+        "name": "Sahelanthropus tchadensis: Early hominin may have walked on ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--a0dkslVg--/t_limit/https://images.newscientist.com/wp-content/uploads/2022/08/24140224/SEI_120877127.jpg%3Fcrop%3D16:9%2Csmart%26width%3D1200%26height%3D675%26upscale%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Aiv6uwUA--/t_thumbnail/https://images.newscientist.com/wp-content/uploads/2022/08/24140224/SEI_120877127.jpg%3Fcrop%3D16:9%2Csmart%26width%3D1200%26height%3D675%26upscale%3Dtrue"
+      },
+      "description": "A seven-million-year-old fossil from central Africa has provided fresh evidence that one of humanity's earliest potential ancestors walked upright, according to research published this week in Science Advances. The findings suggest that bipedalism \u2014 a defining feature of the human lineage \u2014 emerged far earlier than many scientists previously believed.\n\nThe study, led by Scott Williams, an associate professor at New York University, reexamined limb bones from *Sahelanthropus tchadensis*, a species discovered in Chad's Djurab Desert in the early 2000s. Using high-resolution 3D analysis, Williams and his team identified a small projection on the thigh bone called a femoral tubercle, which serves as the attachment point for the iliofemoral ligament[1][2][3]. Until now, this feature had been documented only in bipedal hominins.\n\n\"Our analysis of these fossils offers direct evidence that *Sahelanthropus tchadensis* could walk on two legs, demonstrating that bipedalism evolved early in our lineage and from an ancestor that looked most similar to today's chimpanzees and bonobos,\" Williams said[1][4].",
+      "audio_url": "",
+      "url": "sahelanthropus-fossil-shows-ea-GCA3bzPpTeG76SZIr1oNfg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-02T19:29:19.000000Z",
       "title": "Flooded Qld graziers to get $2m support as pilots muster stranded livestock",
       "featured_image": {
@@ -11,7 +50,7 @@
     },
     {
       "published_datetime": "2026-01-02T19:12:22.000000Z",
-      "title": "Tailed by security, the ABC takes you inside Myanmar for its elections",
+      "title": "The parts of Myanmar the military junta don't want you to see",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a28afd976ddf072387f1d8ba243abe60?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=168&amp;width=862&amp;height=485"
       },
@@ -20,7 +59,7 @@
     },
     {
       "published_datetime": "2026-01-02T19:04:52.000000Z",
-      "title": "Red and yellow flags can be dangerously confusing. Is it time to change them?",
+      "title": "Red and yellow flags can be confusing. Is it time to change them?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/adbbed486188e682129e2d63cdf9ca20?impolicy=wcms_crop_resize&amp;cropH=394&amp;cropW=700&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -29,7 +68,7 @@
     },
     {
       "published_datetime": "2026-01-02T18:46:56.000000Z",
-      "title": "World-first organ donation as mum self-administers VAD medication",
+      "title": "World-first organ donation after mum self-administers VAD medication",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c58fcb2fd1befcebac3506f74416c171?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=283&amp;width=862&amp;height=485"
       },
@@ -46,13 +85,19 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-03/crans-montana-le-constellation-fire-safety-probe-continues/106195680"
     },
     {
-      "published_datetime": "2026-01-02T18:30:00.000000Z",
-      "title": "Are reading goals helpful or performative? How to read more in the new year",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/456097a2-3054-433a-a7ea-96b6365c9b33",
+      "published_datetime": "2026-01-02T18:31:22.052232",
+      "title": "Fountain candles on champagne bottles started Swiss fire that killed 40, prosecutor says",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6459eac82dd4ddcdf6efebebd84f168?impolicy=wcms_crop_resize&amp;cropH=1501&amp;cropW=2668&amp;xPos=0&amp;yPos=1043&amp;width=862&amp;height=485"
+        "url": "https://www.the-independent.com/news/world/europe/switzerland-fire-crans-montana-ski-resort-bar-explosion-latest-news-b2893326.html",
+        "name": "Switzerland fire latest: Sparkler candles on champagne bottles revealed as likely cause of deadly blaze",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--DnL4ZwOe--/t_limit/https://static.the-independent.com/2026/01/01/12/54/TOPSHOT-SWITZERLAND-ACCIDENT-EXPLOSION-TOURISM-POLICE-phbl8137.jpeg%3Ftrim%3D0%252C0%252C0%252C0%26width%3D1200%26height%3D800%26crop%3D1200%253A800",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--x6Nb-Pih--/t_thumbnail/https://static.the-independent.com/2026/01/01/12/54/TOPSHOT-SWITZERLAND-ACCIDENT-EXPLOSION-TOURISM-POLICE-phbl8137.jpeg%3Ftrim%3D0%252C0%252C0%252C0%26width%3D1200%26height%3D800%26crop%3D1200%253A800"
       },
-      "description": "While some people might find goal setting motivating \u2014 such as reading X number of books each year or pages each day \u2014 there is a risk of turning what is supposed to be a pleasurable activity into a chore.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-03/how-to-read-more-in-the-new-year/105977668"
+      "description": "Swiss authorities announced Friday that fountain candles attached to champagne bottles likely ignited the devastating New Year's Eve fire that killed 40 people and injured more than 100 at a ski resort bar in Crans-Montana[1][2][3]. Prosecutor Beatrice Pilloud said initial investigations point to bar staff holding the sparkling candles too close to the ceiling, triggering a rapid conflagration that engulfed the packed venue in seconds.\n\n\"Everything suggests that the fire started from the burning candles or 'Bengal lights' that had been attached to champagne bottles,\" Pilloud told a news conference Friday[1][2][3]. \"These went too close to the ceiling. From there, a rapid, very rapid and widespread conflagration ensued.\"",
+      "audio_url": "",
+      "url": "swiss-prosecutor-says-fountain-Wm.lTha1TPSe50l3fpYvuA",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-02T18:00:00.000000Z",
@@ -65,7 +110,7 @@
     },
     {
       "published_datetime": "2026-01-02T18:00:00.000000Z",
-      "title": "Two truths and a lie: inside the China-Taiwan-US triangle",
+      "title": "Two truths and a lie: Inside the China-Taiwan-US triangle",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/acb3c50eebe66ae612d7c0d11a23c270?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=234&amp;width=862&amp;height=485"
       },
@@ -187,51 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9dec4659-4152-4421-b020-3d52f6e01e5c",
-      "published_datetime": "2026-01-02T14:25:00.410574",
-      "title": "Trump warns US response if Iran kills protesters",
-      "featured_image": {
-        "url": "https://www.foxnews.com/politics/trump-says-us-intervene-iran-starts-killing-protesters-locked-loaded",
-        "name": "Trump says US will intervene if Iran starts killing protesters: \u2018Locked and  loaded\u2019",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--DDguyDxd--/t_limit/https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/1200/675/donald-trump-dec-2025.jpg%3Fve%3D1%26tl%3D1",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--HIB1jFwF--/t_thumbnail/https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/1200/675/donald-trump-dec-2025.jpg%3Fve%3D1%26tl%3D1"
-      },
-      "description": "President Donald Trump issued a stark warning to Iran early Friday morning, declaring the United States is \"locked and loaded\" to respond if Tehran uses lethal force against protesters, as economic demonstrations that erupted six days ago have evolved into the Islamic Republic's most significant unrest since 2022[1][2][3].\n\n\"If Iran shoots and violently kills peaceful protesters, which is their custom, the United States of America will come to their rescue,\" Trump wrote on Truth Social around 3 a.m. Washington time[1][2]. \"We are locked and loaded and ready to go.\"\n\nThe warning comes as protests that began December 28 over a currency collapse have spread to dozens of cities and claimed at least seven lives[2][4][5]. What started as merchants closing shops in Tehran's Grand Bazaar has transformed into open calls for regime change, with demonstrators chanting pro-monarchy slogans even in Qom, the clerical establishment's ideological stronghold[2][6][7].",
-      "audio_url": "",
-      "url": "trump-warns-us-response-if-ira-JaxMz2IZSBajBq7rfNzd5A",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/95df1dbb-f868-4e1d-bb7e-a9503e830467",
-      "published_datetime": "2026-01-02T13:59:57.323436",
-      "title": "Hypervelocity stars help astronomers map dark matter",
-      "featured_image": {
-        "url": "https://www.reuters.com/technology/space/fast-moving-stars-reveal-supermassive-black-hole-inside-nearby-galaxy-2025-03-06/",
-        "name": "Fast-moving stars reveal supermassive black hole inside nearby ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--3Dkd-cdJ--/t_limit/https://www.reuters.com/resizer/v2/N74ITSK3NFOH3PJ54KKV6U2JGM.jpg%3Fauth%3D8b95a08939ade3fadcaef00be8080b54ad3d6475796e97ce7d8c290e71b9db4a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--nyZ4vPNS--/t_thumbnail/https://www.reuters.com/resizer/v2/N74ITSK3NFOH3PJ54KKV6U2JGM.jpg%3Fauth%3D8b95a08939ade3fadcaef00be8080b54ad3d6475796e97ce7d8c290e71b9db4a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Two breakthrough research efforts published in late December are giving astronomers powerful new tools to map and detect the Milky Way's elusive dark matter, which comprises roughly 95% of the galaxy's mass yet remains invisible to conventional observation methods.\n\nIn one study published December 31 in The Astrophysical Journal, a team led by Haozhu Fu of Peking University identified 87 hypervelocity stars\u2014runaway stars traveling fast enough to escape the Milky Way's gravitational pull\u2014that can serve as tracers for dark matter distribution[1][2][3]. Meanwhile, researchers from the University of Tokyo and Chuo University introduced a quantum sensor technique in Physical Review Letters on December 9 that can track the velocity and direction of light dark matter particles[4][5][6].",
-      "audio_url": "",
-      "url": "astronomers-use-runaway-stars-hTFOggS4QoeKY3m6lImEvA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5f520a57-8cb8-44b2-a3f0-3b10f3a75d68",
-      "published_datetime": "2026-01-02T13:49:46.548355",
-      "title": "Yemen airport shut down amid Saudi-UAE rift",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2026/1/2/yemeni-province-launches-operation-to-take-bases-back-from-separatist-stc",
-        "name": "Yemen\u2019s separatist STC accuses Saudi Arabia of bombing forces along border",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--MRtcJhMi--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/01/ap_69578d5b388b5-1767345499.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ObJdXNCf--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/01/ap_69578d5b388b5-1767345499.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "Yemen's Aden International Airport shut down on Thursday as escalating tensions between Saudi Arabia and the United Arab Emirates spilled into civil aviation, stranding hundreds of passengers and underscoring a deepening crisis between the Gulf powers[1][2][3]. The closure came amid a broader confrontation over control of Yemen's resource-rich eastern provinces, where Saudi-backed forces launched military operations on Friday that killed at least seven people[4][5][6].\n\nAir traffic at the airport\u2014Yemen's main international gateway outside Houthi control\u2014was halted after Yemen's internationally recognized government, backed by Riyadh, imposed new restrictions on flights to and from the UAE[1][2]. Rather than comply, Yemen's transport minister, aligned with the UAE-backed Southern Transitional Council, ordered a complete shutdown[1][2]. Passengers crowded the terminal awaiting updates, with some traveling for urgent medical treatment left in limbo[7][8].\n\nThe aviation dispute reflects a wider rift that has fractured the Saudi-led coalition fighting in Yemen. On Friday, Saudi warplanes conducted seven airstrikes on an STC military camp in Hadramout province's Al-Khasah area, killing at least seven and wounding more than 20, according to STC officials[4][5][6]. The strikes came as Saudi-backed forces launched what they termed a \"peaceful operation\" to retake positions seized by the STC during its December offensive[9][10].",
-      "audio_url": "",
-      "url": "yemen-airport-shut-down-amid-s-NNip56Z0Rh2jzvGyqGu9Rw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-02T13:20:59.000000Z",
       "title": "Trump says US will 'come to their rescue' if Iran kills protesters",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-02T20:14:41.384348"
+  "merged_at": "2026-01-02T21:10:41.649934"
 }
