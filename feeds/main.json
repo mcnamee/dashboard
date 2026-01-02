@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-03/volodymyr-zelenskyy-names-kyrylo-budanov-as-top-aide/106195996"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/06cc7ec4-0bd9-4cbf-b20c-a77504682a08",
+      "published_datetime": "2026-01-02T16:33:36.736625",
+      "title": "China taxes contraceptives as births plummet",
+      "featured_image": {
+        "url": "https://www.newsweek.com/china-makes-condoms-more-expensive-boost-birth-rates-11141456",
+        "name": "China Makes Condoms More Expensive To Boost Birth Rates",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--98SvpnOZ--/t_limit/https://assets.newsweek.com/wp-content/uploads/2025/12/GettyImages-1127267.jpg%3Fw%3D1200crop%253D1",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ImkOdTV3--/t_thumbnail/https://assets.newsweek.com/wp-content/uploads/2025/12/GettyImages-1127267.jpg%3Fw%3D1200crop%253D1"
+      },
+      "description": "China imposed a 13% value-added tax on condoms and contraceptive pills beginning January 1, ending a three-decade-old exemption as Beijing intensifies efforts to reverse a demographic crisis threatening the world's second-largest economy[1][2][3].\n\nThe policy shift, which removes tax breaks that existed since 1994, comes as China's population fell for the third consecutive year in 2024, declining by 1.39 million to 1.408 billion[4][5]. The country recorded 9.54 million births last year\u2014a modest uptick from 9.02 million in 2023, but roughly half the number born a decade ago[6][5].",
+      "audio_url": "",
+      "url": "china-ends-30-year-tax-exempti-saUyOAmETzmJYoIA40nqhQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-02T16:17:50.000000Z",
       "title": "Kim Jong Un's daughter visits state mausoleum, fueling heir speculation",
       "featured_image": {
@@ -163,21 +178,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/97d2e1e4-70f5-4fb1-8631-2bd7e77e81cd",
-      "published_datetime": "2026-01-02T07:11:22.393209",
-      "title": "Dollar starts 2026 weak after worst year since 2017",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/asia-pacific/dollar-makes-soft-start-2026-after-sharpest-drop-8-years-2026-01-02/",
-        "name": "Dollar makes a soft start to 2026 after sharpest drop in 8 ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--JOEHbkP4--/t_limit/https://www.reuters.com/resizer/v2/6XA6WNHI6ZLRJBPVVVEE4BSWF4.jpg%3Fauth%3D067253f07a67fd94f283f6d885eb92f1f811a54ae0c0eb8e9ea62e61ec62c88c%26width%3D1920%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--DetAnOUT--/t_thumbnail/https://www.reuters.com/resizer/v2/6XA6WNHI6ZLRJBPVVVEE4BSWF4.jpg%3Fauth%3D067253f07a67fd94f283f6d885eb92f1f811a54ae0c0eb8e9ea62e61ec62c88c%26width%3D1920%26quality%3D80"
-      },
-      "description": "The U.S. dollar opened 2026 on a feeble note Friday, struggling near multi-month lows after posting its sharpest annual decline in eight years, as narrowing interest rate differentials and mounting uncertainty about Federal Reserve leadership weigh on the currency.\n\nThe dollar index, which measures the greenback against six major currencies, traded at 98.2 on the first trading day of the year after registering a 9.4% decline in 2025\u2014its steepest drop since 2017[1][2][3]. The euro held steady at $1.1752 following a 13.5% surge last year, while sterling traded at $1.3474 after climbing 7.7% in 2025[1][4]. Both currencies posted their strongest annual gains since 2017[1][4].",
-      "audio_url": "",
-      "url": "dollar-starts-2026-weak-after-hUy6qRFqSQGK8kyNUPUG0Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-02T05:58:17.000000Z",
       "title": "What we learned from Donald Trump's wide-ranging health interview",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-02T17:11:52.616987"
+  "merged_at": "2026-01-02T18:19:35.066989"
 }
