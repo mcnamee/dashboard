@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f16e2c9e-b813-45aa-9728-6d2c262c5a6d",
+      "published_datetime": "2026-01-02T09:42:48.959692",
+      "title": "Eurozone manufacturing hits nine-month low on German decline",
+      "featured_image": {
+        "url": "https://www.reuters.com/business/german-manufacturing-sector-faces-sharp-decline-new-orders-pmi-shows-2025-12-01/",
+        "name": "German manufacturing sector faces sharp decline in new orders, PMI shows",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--vHfECbJu--/t_limit/https://www.reuters.com/resizer/v2/7SQ3SDEMGJMHBKJIPBMGL6NL7Y.jpg%3Fauth%3D824a11aaa68e552651fe75f59a6d1b583b9bb74f5656352fbb058022d154238c%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--RUr8QMy6--/t_thumbnail/https://www.reuters.com/resizer/v2/7SQ3SDEMGJMHBKJIPBMGL6NL7Y.jpg%3Fauth%3D824a11aaa68e552651fe75f59a6d1b583b9bb74f5656352fbb058022d154238c%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "The eurozone's manufacturing sector closed 2025 on a downbeat note, with activity contracting at the sharpest pace in nine months as Germany's industrial woes spread across the currency bloc, according to final data released Friday.\n\nThe HCOB Eurozone Manufacturing Purchasing Managers' Index, compiled by S&P Global, fell to 48.8 in December from 49.6 in November, marking the deepest contraction since March and signaling deteriorating factory conditions across the region[1][2][3]. A reading below 50 indicates contraction. After nine consecutive months of growth, production volumes declined for the first time since February, while new orders dropped at their fastest pace in almost a year[4][2].",
+      "audio_url": "",
+      "url": "eurozone-manufacturing-contrac-vlEd5_L7QZi5gYwpbpPisw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-02T08:22:23.000000Z",
       "title": "Rescue operations underway after coal mine collapse",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d6dece9c-c8c4-4818-bc84-010a423b292d",
-      "published_datetime": "2026-01-01T19:21:09.923324",
-      "title": "Astronomers measure mass of Saturn-sized rogue planet",
-      "featured_image": {
-        "url": "https://www.newscientist.com/article/2509858-rare-saturn-sized-rogue-planet-is-first-to-have-its-mass-measured",
-        "name": "Rare Saturn-sized rogue planet is first to have its mass measured",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--naEWCs_---/t_limit/https://images.newscientist.com/wp-content/uploads/2025/12/31120044/SEI_279227541.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--8JfByzDC--/t_thumbnail/https://images.newscientist.com/wp-content/uploads/2025/12/31120044/SEI_279227541.jpg"
-      },
-      "description": "Astronomers have achieved a milestone in planetary science by measuring the mass of a free-floating planet for the first time, using observations from both ground-based and space telescopes. The Saturn-sized world, designated KMT-2024-BLG-0792, represents a breakthrough in understanding these enigmatic objects that drift through the galaxy without a parent star[1][2].\n\nThe international research team, led by Subo Dong of Peking University, published their findings in the journal Science on January 1[3][1][4]. By observing a brief microlensing event simultaneously from Earth's surface and the European Space Agency's Gaia space telescope, they determined the planet has a mass roughly 0.7 times that of Saturn\u2014or about 22 percent of Jupiter's mass\u2014and lies approximately 10,000 light-years from Earth[3][1][5][6].\n\n\"What's really great about this work, and really noteworthy, is that it's the first time we've got a mass for these objects,\" said Gavin Coleman, a postdoctoral researcher at Queen Mary University of London who authored a related commentary in Science[4]. Previous detections of rogue planets could only estimate masses indirectly, leaving much about these solitary worlds speculative[3].",
-      "audio_url": "",
-      "url": "astronomers-measure-mass-of-ra-7jEbgkuoQSiNleUM8cY_4Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-01T18:36:05.000000Z",
       "title": "Easter Island researchers say giant statues 'walked' into position",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-02T10:14:29.209667"
+  "merged_at": "2026-01-02T11:12:39.881775"
 }
