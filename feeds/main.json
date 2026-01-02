@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5f520a57-8cb8-44b2-a3f0-3b10f3a75d68",
+      "published_datetime": "2026-01-02T13:49:46.548355",
+      "title": "Yemen airport shut down amid Saudi-UAE rift",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2026/1/2/yemeni-province-launches-operation-to-take-bases-back-from-separatist-stc",
+        "name": "Yemen\u2019s separatist STC accuses Saudi Arabia of bombing forces along border",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--MRtcJhMi--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/01/ap_69578d5b388b5-1767345499.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ObJdXNCf--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/01/ap_69578d5b388b5-1767345499.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "Yemen's Aden International Airport shut down on Thursday as escalating tensions between Saudi Arabia and the United Arab Emirates spilled into civil aviation, stranding hundreds of passengers and underscoring a deepening crisis between the Gulf powers[1][2][3]. The closure came amid a broader confrontation over control of Yemen's resource-rich eastern provinces, where Saudi-backed forces launched military operations on Friday that killed at least seven people[4][5][6].\n\nAir traffic at the airport\u2014Yemen's main international gateway outside Houthi control\u2014was halted after Yemen's internationally recognized government, backed by Riyadh, imposed new restrictions on flights to and from the UAE[1][2]. Rather than comply, Yemen's transport minister, aligned with the UAE-backed Southern Transitional Council, ordered a complete shutdown[1][2]. Passengers crowded the terminal awaiting updates, with some traveling for urgent medical treatment left in limbo[7][8].\n\nThe aviation dispute reflects a wider rift that has fractured the Saudi-led coalition fighting in Yemen. On Friday, Saudi warplanes conducted seven airstrikes on an STC military camp in Hadramout province's Al-Khasah area, killing at least seven and wounding more than 20, according to STC officials[4][5][6]. The strikes came as Saudi-backed forces launched what they termed a \"peaceful operation\" to retake positions seized by the STC during its December offensive[9][10].",
+      "audio_url": "",
+      "url": "yemen-airport-shut-down-amid-s-NNip56Z0Rh2jzvGyqGu9Rw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-02T13:20:59.000000Z",
       "title": "Trump says US will 'come to their rescue' if Iran kills protesters",
       "featured_image": {
@@ -190,21 +205,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-02/china-beef-import-tariffs-australian-trade-industry-economy/106192982"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d0b5be16-9ccc-4fca-9815-0e4f233e3de8",
-      "published_datetime": "2026-01-02T00:17:14.786858",
-      "title": "Russia hands US alleged drone evidence as CIA rejects Putin attack claim",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/in-this-pool-photograph-distributed-by-the-russian-state-news-photo/2253169012",
-        "name": "RUSSIA-UKRAINE-CONFLICT",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1767312750/getty_uploads/2253169012_absski.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1767312750/getty_uploads/2253169012_absski.jpg"
-      },
-      "description": "Russia delivered what it described as physical evidence to the United States on Thursday, claiming it proves Ukraine targeted President Vladimir Putin's residence in a drone attack, even as the CIA and Western officials have flatly rejected Moscow's account as disinformation[1][2][3].\n\nAdmiral Igor Kostyukov, head of Russia's military intelligence agency, handed a U.S. military attache a navigation controller recovered from a downed drone, according to video footage released by Russia's Defense Ministry[1][4][5]. Russian officials asserted that decoded data from the device confirms the intended target was Putin's residence in the Novgorod region during an alleged December 29 attack involving 91 drones[1][3][6].",
-      "audio_url": "",
-      "url": "russia-hands-us-alleged-eviden-.ViEUUPKR7i4FYO.lM4Hdg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-01T23:01:02.000000Z",
       "title": "Khawaja's on-field brilliance pales in comparison to his true impact",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-02T14:13:47.002468"
+  "merged_at": "2026-01-02T15:13:56.844864"
 }
