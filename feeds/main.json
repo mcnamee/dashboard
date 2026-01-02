@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-01T23:53:07.000000Z",
+      "title": "Breaking: Helen Burnet quits Tasmanian Greens to sit on crossbench",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7693f46ae11bce3ec461ee60a60ddd1b?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=155&amp;width=862&amp;height=485"
+      },
+      "description": "The Clark MP says she knows the decision \"will be disappointing for some\" but is necessary for her to be \"effective\" in parliament.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-02/clark-mp-helen-burnet-quits-tasmanian-greens/106194134"
+    },
+    {
+      "published_datetime": "2026-01-01T23:34:50.000000Z",
+      "title": "Lachie Neale steps down as Brisbane Lions co-captain",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6ef84f24e56942c782c5563fd0c1562?impolicy=wcms_crop_resize&amp;cropH=2233&amp;cropW=3970&amp;xPos=0&amp;yPos=175&amp;width=862&amp;height=485"
+      },
+      "description": "The club said the 32-year-old had made the decision following a \"challenging personal period\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-02/qld-lachie-neale-steps-down-as-brisbane-lions-co-captain/106194176"
+    },
+    {
       "published_datetime": "2026-01-01T23:01:02.000000Z",
-      "title": "Khawaja did it all his own way and retires as an Australian great",
+      "title": "Khawaja's on-field brilliance pales in comparison to his true impact",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2d6a06a6d35a36f5b52507e7015900d2?impolicy=wcms_crop_resize&amp;cropH=1060&amp;cropW=1885&amp;xPos=0&amp;yPos=197&amp;width=862&amp;height=485"
       },
@@ -20,7 +38,7 @@
     },
     {
       "published_datetime": "2026-01-01T22:50:18.000000Z",
-      "title": "Sanders swears in Mamdani as New York mayor with a warning",
+      "title": "Bernie Sanders swears in Zohran Mamdani with a word of warning",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94a0e0f558b6f56f4effd6d6f806a910?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
       },
@@ -33,17 +51,8 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b834baf14dc5fefdc881e238417f0231?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=209&amp;width=862&amp;height=485"
       },
-      "description": "Australia batter Usman Khawaja will retire after the fifth and final Ashes Test at the SCG, which starts on Sunday.",
+      "description": "Australia batter Usman Khawaja announces he will retire from international cricket after the fifth and final Ashes Test at the SCG, which starts on Sunday.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-02/usman-khawaja-to-retire-after-scg-ashes-test/106193812"
-    },
-    {
-      "published_datetime": "2026-01-01T21:18:03.000000Z",
-      "title": "Are modular homes the key to solving the ACT's housing crisis?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3470b86c9ed4dcb0d51457ea027d4863?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Fast to build, eco-friendly and affordable: modular and pre-fabricated homes have been touted as a possible solution to Australia's housing crisis, but manufacturers and suppliers say changes are needed to reduce costs and meet demand.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-02/are-modular-homes-the-key-to-solving-the-acts-housing-crisis/106170130"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ffd15b9f-dc64-41ab-99d5-276f27afc3d6",
@@ -59,15 +68,6 @@
       "audio_url": "",
       "url": "china-s-east-tokamak-surpasses-_osJ86x.QfyYnk0iPjHhwg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-01T19:31:04.000000Z",
-      "title": "This crowded house sits on a huge property, but a second home is not allowed",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ca151aa2ece0ab0fb46a65c7130e0fa2?impolicy=wcms_crop_resize&amp;cropH=1913&amp;cropW=3401&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The days when New South Wales councils decide if a second home or a granny flat is built on the state's largest properties could be numbered.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-02/nsw-inquiry-examines-reforms-to-allow-second-homes-on-rural-land/106174822"
     },
     {
       "published_datetime": "2026-01-01T19:26:43.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-01T23:13:20.734786"
+  "merged_at": "2026-01-02T01:03:12.493179"
 }
