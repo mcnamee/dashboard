@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-02T19:29:19.000000Z",
+      "title": "Flooded Qld graziers to get $2m support as pilots muster stranded livestock",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a808c36f3bc25c329f2d3c880ff7dfdf?impolicy=wcms_crop_resize&amp;cropH=677&amp;cropW=1204&amp;xPos=0&amp;yPos=153&amp;width=862&amp;height=485"
+      },
+      "description": "Floodwaters remain in outback Queensland as graziers start to tally up livestock losses. Major flooding is possible in the north-west, with king tides forecast on the east coast.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-03/outback-queensland-flood-funding-announced-graziers/106194300"
+    },
+    {
+      "published_datetime": "2026-01-02T19:12:22.000000Z",
+      "title": "Tailed by security, the ABC takes you inside Myanmar for its elections",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a28afd976ddf072387f1d8ba243abe60?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=168&amp;width=862&amp;height=485"
+      },
+      "description": "Myanmar's military is holding its first elections since overthrowing a democratically elected government in 2021. But as it aims to portray a sense of normality, signs of the junta's menacing presence are everywhere.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-03/inside-myanmar-during-military-junta-sham-election-voting/106190364"
+    },
+    {
+      "published_datetime": "2026-01-02T19:04:52.000000Z",
+      "title": "Red and yellow flags can be dangerously confusing. Is it time to change them?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/adbbed486188e682129e2d63cdf9ca20?impolicy=wcms_crop_resize&amp;cropH=394&amp;cropW=700&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Every summer in Australia, millions of people head to the beach, and every year, thousands are rescued by lifeguards or Surf Life Savers and even surfers or other bystanders.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-03/red-yellow-flags-drowning-rescue-lifeguards-rip/106195120"
+    },
+    {
       "published_datetime": "2026-01-02T18:46:56.000000Z",
       "title": "World-first organ donation as mum self-administers VAD medication",
       "featured_image": {
@@ -214,33 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-03/trump-says-us-will-come-to-their-rescue-if-iran-kills-protesters/106195678"
     },
     {
-      "published_datetime": "2026-01-02T05:58:17.000000Z",
-      "title": "What we learned from Donald Trump's wide-ranging health interview",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/72642eac48060d92ec7e736b927640ee?impolicy=wcms_crop_resize&amp;cropH=2341&amp;cropW=4161&amp;xPos=0&amp;yPos=175&amp;width=862&amp;height=485"
-      },
-      "description": "US President Donald Trump says he regrets undergoing advanced imagery on his heart and abdomen because of the \"ammunition\" it handed his critics, but has once more defended his \"perfect\" health.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-02/donald-trumps-health-key-points-from-wsj-interview/106194812"
-    },
-    {
-      "published_datetime": "2026-01-02T00:59:08.000000Z",
-      "title": "China's anti-pollution crusade linked to Australian bushfires",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/084ad4307e08b6dabd3312b6ff54758c?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "As China caps off a historic clean-up of its smog and air pollution, the clearer air is helping temperatures rise to new records. Now, researchers are linking that change to hotter and drier conditions in Australia.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-02/china-smog-cleanup-affects-global-warming-australian-rain-heat/106177394"
-    },
-    {
-      "published_datetime": "2026-01-01T21:22:22.000000Z",
-      "title": "Khawaja hits out at 'racial stereotypes' as he announces Test retirement",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b834baf14dc5fefdc881e238417f0231?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=209&amp;width=862&amp;height=485"
-      },
-      "description": "Australia batter Usman Khawaja takes aim at his critics one last time as he announces his retirement from international cricket.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-02/usman-khawaja-to-retire-after-scg-ashes-test/106193812"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-02T19:18:24.010452"
+  "merged_at": "2026-01-02T20:14:41.384348"
 }
