@@ -37,6 +37,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-04/australian-brands-still-dealing-with-trump-tariffs-more-in-2026/106194486"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/22099452-65fe-46ee-a3d7-a3a8b5ea10d4",
+      "published_datetime": "2026-01-03T18:47:38.287790",
+      "title": "US capture of Maduro draws international condemnation",
+      "featured_image": {
+        "url": "https://www.npr.org/2026/01/03/nx-s1-5665659/venezuela-us-strikes-maduro",
+        "name": "U.S. strikes on Venezuela spark alarm across Latin America and beyond",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ytbsGrOj--/t_limit/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5842x3286%2B0%2B304/resize/1400/quality/100/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fb7%252F1f%252F022981374aaf951ffe13654ed8e2%252Fap26003462413795.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ZbXpktLQ--/t_thumbnail/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5842x3286%2B0%2B304/resize/1400/quality/100/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fb7%252F1f%252F022981374aaf951ffe13654ed8e2%252Fap26003462413795.jpg"
+      },
+      "description": "World leaders expressed deep concern and sharp divisions over the US military operation in Venezuela on Saturday, with the United Nations and major powers condemning the strikes as a dangerous violation of international law while some regional allies celebrated the capture of President Nicol\u00e1s Maduro.\n\nUN Secretary-General Ant\u00f3nio Guterres said he was \"deeply alarmed\" by the overnight operation, warning that \"these developments constitute a dangerous precedent,\" according to his spokesperson St\u00e9phane Dujarric[1][2]. Guterres emphasized \"the importance of full respect\u2014by all\u2014of international law, including the UN Charter\" and expressed concern that \"the rules of international law have not been respected\"[1][3]. Venezuela has requested an emergency meeting of the UN Security Council[1][2].",
+      "audio_url": "",
+      "url": "us-capture-of-maduro-draws-int-z4ZXJLnGTLKLIwO34uWrPw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-03T18:45:02.000000Z",
       "title": "Foreign oyster shuckers key to revitalising aging Japanese island",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b9524a54-cc5a-46a5-a6f8-da7ad10127be",
-      "published_datetime": "2026-01-02T20:38:51.936211",
-      "title": "Maduro offers US open oil investment as economy reels",
-      "featured_image": {
-        "url": "https://abcnews.go.com/International/wireStory/maduro-open-us-talks-drug-trafficking-silent-cia-128838239",
-        "name": "Maduro open to US talks on drug trafficking, but silent on CIA strike",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Qy2nAk-g--/t_limit/https://s.abcnews.com/images/US/wirestory_7fd22f8cbd3bb79ab79ee51699a24842_16x9_992.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--HRsERIYA--/t_thumbnail/https://s.abcnews.com/images/US/wirestory_7fd22f8cbd3bb79ab79ee51699a24842_16x9_992.jpg"
-      },
-      "description": "Venezuelan President Nicol\u00e1s Maduro extended a rare conciliatory offer to the Trump administration on January 1, proposing US oil investments \"whenever, wherever, and however they want\" in a state television interview recorded on New Year's Eve. The unprecedented overture comes as Venezuela's economy buckles under an American blockade that has slashed oil production and sparked the first confirmed US strike on Venezuelan territory.\n\nIn the interview with Spanish journalist Ignacio Ramonet, Maduro declared that \"if they want Venezuela's oil, Venezuela is ready to accept US investments like those of Chevron, when, where and how they want to make them,\" according to Reuters[1][2]. He also proposed \"serious\" talks on drug trafficking and migration, telling the American people that Venezuela is \"a brother country\" with \"a friendly government\"[1][3].\n\nThe softened rhetoric marks a stark departure for Maduro, who has spent recent weeks condemning what he calls US attempts to seize Venezuela's resources. The shift coincides with intensifying economic pain from President Trump's December 16 declaration of a \"total and complete blockade\" on sanctioned oil tankers[4][5], which has paralyzed exports and forced Venezuela to begin shutting oil wells.",
-      "audio_url": "",
-      "url": "maduro-offers-oil-investment-d-TH79JCw.Tc.2YExM7WmuYw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-03T20:14:17.230424"
+  "merged_at": "2026-01-03T20:29:39.720175"
 }
