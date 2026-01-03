@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-03T21:20:54.000000Z",
+      "title": "How you're already relying on AI, even if you think you're not",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8defeb6a1da07a836b3597ed3438dba9?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Artificial intelligence is a controversial subject, but as the debate rages it is already being used by ACT government departments, doctors and the people running firefighting operations.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-04/how-act-government-is-using-ai-across-services/106137618"
+    },
+    {
       "published_datetime": "2026-01-03T20:17:08.000000Z",
       "title": "A station and infamous murders: What happened to Sydney's Macdonaldtown?",
       "featured_image": {
@@ -71,7 +80,7 @@
     },
     {
       "published_datetime": "2026-01-03T18:45:02.000000Z",
-      "title": "Foreign oyster shuckers key to revitalising aging Japanese island",
+      "title": "Amid a population crisis, this island needs migrants to keep its industry alive",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c6876e3cb90648bcea586f077d07985e?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=9&amp;width=862&amp;height=485"
       },
@@ -119,7 +128,7 @@
     },
     {
       "published_datetime": "2026-01-03T14:57:41.000000Z",
-      "title": "Venezuela hit in US strikes",
+      "title": "Trump says US 'will run' Venezuela after strikes",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ee91fc1df27abb284aa5bc6105943132?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
       },
@@ -200,15 +209,6 @@
       "audio_url": "",
       "url": "experts-predict-uncertainty-fo-keCoAev0T.a_9mLH8.4F5A",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-03T00:48:29.000000Z",
-      "title": "Worker dies in Central Queensland mine following roof collapse",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a4200177e40697453bb03ac744c5c564?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=473&amp;width=862&amp;height=485"
-      },
-      "description": "A worker has died after a roof collapse at the Curragh mining complex in Central Queensland.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-03/qld-curragh-mine-mammoth-underground-collapse-rescue/106196192"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a0b22d49-4701-4190-95a1-cc96dc38d6ee",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-03T21:11:43.251127"
+  "merged_at": "2026-01-03T22:12:20.244641"
 }
