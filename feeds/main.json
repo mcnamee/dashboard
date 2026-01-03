@@ -1,10 +1,19 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-03T02:55:30.000000Z",
+      "title": "Grok under fire over complaints it let users undress minors in photos",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d0123a07a49ed7c602e143c9e34b6a3a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
+      },
+      "description": "The generative AI chatbot integrated with X is under international scrutiny after reports it was filling the social media platform with sexually explicit images of children and women.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-03/reports-xai-grok-undressed-minors-in-photos-on-x/106196308"
+    },
+    {
       "published_datetime": "2026-01-03T00:48:29.000000Z",
       "title": "Race to rescue missing worker after Queensland mine collapse",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9f8f4e0fd5872eb19e6ddc8760f7b2ff?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a4200177e40697453bb03ac744c5c564?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=473&amp;width=862&amp;height=485"
       },
       "description": "A man remains unaccounted-for after a roof collapse at the Curragh mining complex in Central Queensland.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-03/qld-curragh-mine-mammoth-underground-collapse-rescue/106196192"
@@ -134,15 +143,6 @@
       "audio_url": "",
       "url": "sahelanthropus-fossil-shows-ea-GCA3bzPpTeG76SZIr1oNfg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-02T19:10:11.000000Z",
-      "title": "Skies to light up with extra large wolf moon tonight",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f514870d356095c4ba6bd49dce2d4590?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Stargazers will be treated with a supersized wolf moon for the first weekend of the year. Here's what to know.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-03/how-to-see-wolf-moon-2026/106194794"
     },
     {
       "published_datetime": "2026-01-02T18:46:56.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-03T02:50:29.259916"
+  "merged_at": "2026-01-03T03:52:23.823410"
 }
