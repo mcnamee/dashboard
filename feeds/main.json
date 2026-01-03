@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-03T20:17:08.000000Z",
+      "title": "A station and infamous murders: What happened to Sydney's Macdonaldtown?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/15c58efcdce58c48c4f895efa505218b?impolicy=wcms_crop_resize&amp;cropH=3282&amp;cropW=5834&amp;xPos=0&amp;yPos=83&amp;width=862&amp;height=485"
+      },
+      "description": "It's the suburb in Sydney that no longer exists \u2014 except for a train station \u2014 but did it disappear because of scandalous murders or was it just to increase property prices?",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-04/sydney-macdonaldtown-history-the-baby-farmer-urban-legend/106114232"
+    },
+    {
+      "published_datetime": "2026-01-03T19:57:02.000000Z",
+      "title": "Tourists stranded, dozens of roads closed as showers continue in outback Queensland",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/efdc693bd24ff5e1d4d73f17ac98c9e8?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Tourists are stranded in towns dotted across north-west Queensland as rain continues to keep major rivers in flood.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-04/tourists-stranded-dozens-of-roads-closed-by-queensland-flooding/106196556"
+    },
+    {
       "published_datetime": "2026-01-03T19:17:38.000000Z",
       "title": "Hindus 'living in fear' after man's public lynching for alleged blasphemy",
       "featured_image": {
@@ -76,17 +94,8 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-03T18:30:00.000000Z",
-      "title": "Is butter, margarine or nut spread the best choice?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/65d367fbb763d1986dc931df2d5b51d8?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=42&amp;width=862&amp;height=485"
-      },
-      "description": "You might have a personal preference for which spread you use at home, but experts say there are health considerations for which one you use. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-04/butter-margarine-nut-spreads-which-is-best/106010740"
-    },
-    {
       "published_datetime": "2026-01-03T18:00:00.000000Z",
-      "title": "Trump has big plans for America's 250th birthday \u2014 but not everyone is invited",
+      "title": "America's 250th birthday party will serve up a toxic brew of exceptionalism",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/021b6dfae93d4b67688b3e5d97f9c593?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
       },
@@ -114,7 +123,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ee91fc1df27abb284aa5bc6105943132?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
       },
-      "description": "The US has \"captured\" Venezuelan President Nicolas Maduro and his wife during an early-morning raid, which saw US military strike targets within the capital Caracas and in several other states. Follow live.\u00a0",
+      "description": "The US has \"captured\" Venezuelan President Nicol\u00e1s Maduro and his wife during an early-morning raid, which saw US military strike targets within the capital Caracas and in several other states. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-04/venezuela-trump-says-maduro-on-way-to-new-york/106197080"
     },
     {
@@ -191,15 +200,6 @@
       "audio_url": "",
       "url": "experts-predict-uncertainty-fo-keCoAev0T.a_9mLH8.4F5A",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-03T04:39:24.000000Z",
-      "title": "Man dies after ferocious fire at disability support home in south-west Sydney",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5c7d1099e6b511aad3a1036159c5f31a?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A man dies and two people are hospitalised after a fire at a home in Sydney's south-west overnight.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-03/man-dies-fire-at-group-home-spring-farm-near-camden-nsw/106196438"
     },
     {
       "published_datetime": "2026-01-03T00:48:29.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-03T20:29:39.720175"
+  "merged_at": "2026-01-03T21:11:43.251127"
 }
