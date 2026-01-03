@@ -1,8 +1,23 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/467ce587-abaf-4ee6-88c9-3777ef82c5f2",
+      "published_datetime": "2026-01-03T07:55:11.973842",
+      "title": "Trump orders US military strikes on Venezuela",
+      "featured_image": {
+        "url": "https://www.newsweek.com/us-flexes-military-muscles-venezuela-maduro-trump-11086015",
+        "name": "US Flexes Military Muscles at Venezuela",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Y8eOH8jO--/t_limit/https://assets.newsweek.com/wp-content/uploads/2025/11/2935776.jpg%3Fw%3D1200crop%253D1",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--cDyqC4T4--/t_thumbnail/https://assets.newsweek.com/wp-content/uploads/2025/11/2935776.jpg%3Fw%3D1200crop%253D1"
+      },
+      "description": "Multiple explosions rocked Venezuela's capital Caracas in the early hours of Saturday as President Trump ordered military strikes on Venezuelan military facilities, marking a dramatic escalation in Washington's pressure campaign against the Maduro regime[1][2][3].\n\nAt least seven explosions were heard around 2 a.m. local time, accompanied by low-flying aircraft and power outages in several neighborhoods, according to witnesses and international reporting[4][5][3]. The strikes targeted key military installations including Fuerte Tiuna, Venezuela's largest military complex, and La Carlota Air Base in eastern Caracas[5][6][7]. Reports also indicated strikes on El Libertador Air Force Base in Maracay, a strategic hub for Venezuela's air force[6][8].",
+      "audio_url": "",
+      "url": "trump-orders-us-military-strik-.bzAR1eyS_OEhQ_OLFvhAA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-03T06:55:33.000000Z",
-      "title": "Live: Explosions rock Venezuela as Maduro accuses US of attack",
+      "title": "Live: Trump says US forces have captured Nicolas Maduro",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1e48734c41700b4d3156555b848d68e1?impolicy=wcms_crop_resize&amp;cropH=2132&amp;cropW=3791&amp;xPos=0&amp;yPos=197&amp;width=862&amp;height=485"
       },
@@ -226,21 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-03/2026-labor-government-albanese-inflation-housing-chalmers/106156690"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a1101fdc-2e02-413b-a65b-9f3313df66a7",
-      "published_datetime": "2026-01-02T17:21:33.171119",
-      "title": "Quadrantid meteor shower peaks amid Wolf supermoon",
-      "featured_image": {
-        "url": "https://www.discovermagazine.com/wolf-supermoon-fiery-meteors-and-a-planet-parade-make-early-2026-an-astronomical-feast-48463",
-        "name": "Wolf Supermoon, Fiery Meteors, and a Planet Parade ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--JpByzapT--/t_limit/https://cdn.discovermagazine.com/assets/image/58184/supermoon-wolf-moon-x.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--F8_rpOwH--/t_thumbnail/https://cdn.discovermagazine.com/assets/image/58184/supermoon-wolf-moon-x.jpg"
-      },
-      "description": "The new year has arrived with a celestial spectacle that sets the stage for what space enthusiasts are calling one of the most ambitious years in modern space exploration. Skywatchers in the Northern Hemisphere are witnessing the Quadrantid meteor shower, coinciding with January's full Wolf supermoon, as space agencies worldwide prepare for historic lunar and planetary missions.\n\nThe Quadrantid meteor shower reached its peak between Friday, January 2, and Saturday, January 3, according to the American Meteor Society[1][2][3]. Under ideal conditions, the shower typically produces around 25 meteors per hour, with some years seeing up to 120 meteors per hour[1][4]. However, this year's viewing conditions are far from ideal. The full Wolf supermoon, which officially reached peak illumination at 5:03 a.m. EST on January 3, has washed out all but the brightest streaking meteors[5][6][7]. \"The biggest enemy of enjoying a meteor shower is the full moon,\" Mike Shanahan, planetarium director at Liberty Science Center, told the Associated Press[8].\n\nThe Quadrantids are unusual among meteor showers because they originate from an asteroid rather than a comet. Astronomers traced the shower's source to asteroid 2003 EH1, which orbits the sun every 5.5 years[9][3]. The shower is named after Quadrans Muralis, a constellation identified in 1795 that was later removed from the official list in 1922[9][10].",
-      "audio_url": "",
-      "url": "major-space-events-and-meteor-lytg1F3GSBCuuGPlZrux_w",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-03T09:13:30.431962"
+  "merged_at": "2026-01-03T10:13:24.017928"
 }
