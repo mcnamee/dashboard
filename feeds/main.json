@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/92e0c000-dd7e-4030-8986-af7d4e1e47e7",
+      "published_datetime": "2026-01-03T17:29:50.451724",
+      "title": "Trump says US will govern Venezuela after Maduro capture",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/liveblog/2026/1/3/live-loud-noises-heard-in-venezuelas-capital-amid-us-tensions",
+        "name": "Live: Trump says US will run Venezuela after Maduro's 'capture'",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--PPXiJvVo--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/01/AP26003246538765-1767424202.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--AK37nCEP--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/01/AP26003246538765-1767424202.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "President Donald Trump declared Saturday that the United States would govern Venezuela until a safe transition could be organized, marking an unprecedented assertion of American control over a sovereign nation in the Western Hemisphere following a dramatic overnight military operation that captured Venezuelan President Nicol\u00e1s Maduro[1][2][3].\n\n\"We're going to run the country until such time as we can do a safe, proper and judicious transition,\" Trump said at a press conference at his Mar-a-Lago estate in Florida[1][3]. \"So we don't want to be involved with having somebody else get in, and we have the same situation that we had for the last long period of years.\"",
+      "audio_url": "",
+      "url": "trump-announces-us-will-run-ve-IcRpWNQOSCiqOC3vGubQAg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-03T14:57:41.000000Z",
       "title": "Live: Trump says US 'will run' Venezuela after Maduro 'captured' in daring raid",
       "featured_image": {
@@ -208,21 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/130a8724-1ecc-4516-9afd-e5c9363f4c5e",
-      "published_datetime": "2026-01-02T19:40:20.137792",
-      "title": "Wall Street stumbles as European markets hit records",
-      "featured_image": {
-        "url": "https://news.sky.com/story/ftse-100-breaks-10-000-points-mark-for-the-first-time-13489592",
-        "name": "FTSE 100 breaks 10,000 points mark for the first time",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--o8EB99ns--/t_limit/https://e3.365dm.com/25/12/1600x900/skynews-stock-exchange-london_7114201.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--m_pU9_hV--/t_thumbnail/https://e3.365dm.com/25/12/1600x900/skynews-stock-exchange-london_7114201.jpg"
-      },
-      "description": "Wall Street opened the first trading day of 2026 with optimism but quickly reversed course, with major U.S. indexes closing lower despite strong gains in semiconductor stocks[1][2]. European markets, meanwhile, surged to record highs as Britain's FTSE 100 crossed the symbolic 10,000-point threshold for the first time[3][4].\n\nThe S&P 500 fell 0.7% to close at 6,845.50 points, while the Nasdaq Composite declined 0.8% to 23,241.99[5][6]. The Dow Jones Industrial Average dropped 0.6% to 48,063.29, with 26 of its 30 components ending in negative territory[5]. The losses marked a fifth consecutive session in the red for the S&P 500 and Nasdaq, ending hopes for a traditional \"Santa Claus rally\"[1][7].\n\nEarly gains were driven by semiconductor stocks, with Micron Technology jumping nearly 8% and Intel rising approximately 7%[8][9]. The Philadelphia SE Semiconductor index climbed 3.4% during the session[1]. However, weakness in consumer discretionary stocks, including Amazon, which fell as Tesla shares declined 1.6% after the electric vehicle maker reported annual sales fell for a second consecutive year[1][10].",
-      "audio_url": "",
-      "url": "wall-street-and-global-markets-1Ozme5X8Qsm7rDSKzQAG1A",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-02T18:46:56.000000Z",
       "title": "World-first organ donation after mum self-administers VAD medication",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-03T18:18:09.424115"
+  "merged_at": "2026-01-03T18:36:59.124282"
 }
