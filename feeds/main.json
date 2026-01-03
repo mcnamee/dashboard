@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b4abf300-951a-4a53-8a7f-dc2033381525",
+      "published_datetime": "2026-01-03T06:05:43.560508",
+      "title": "2025 ranked among three hottest years on record",
+      "featured_image": {
+        "url": "https://abcnews.go.com/Health/wireStory/2025-hottest-years-record-scientists-128765235",
+        "name": "2025 was one of three hottest years on record, scientists say",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--7zsmmwTn--/t_limit/https://i.abcnewsfe.com/a/8299dc8f-6930-4967-bba6-7b2f3bbe8fb8/wirestory_1e9028da87e518382482e21fef3cfeee_16x9.jpg%3Fw%3D1600",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--7ORIpCxy--/t_thumbnail/https://i.abcnewsfe.com/a/8299dc8f-6930-4967-bba6-7b2f3bbe8fb8/wirestory_1e9028da87e518382482e21fef3cfeee_16x9.jpg%3Fw%3D1600"
+      },
+      "description": "Scientists confirmed Friday that 2025 was among the three hottest years ever recorded globally while the United Kingdom experienced its warmest and sunniest year since measurements began, marking a milestone in the accelerating climate crisis as the three-year temperature average exceeded the Paris Agreement's 1.5\u00b0C warming threshold for the first time[1][2][3][4][5].\n\nThe Met Office reported the UK's mean temperature reached 10.09\u00b0C in 2025, surpassing the previous record of 10.03\u00b0C set in 2022[3][4][5]. The reading makes 2025 only the second year since 1884 that the UK's annual temperature has topped 10\u00b0C, and places four of the last five years in the top five warmest on record[3][4][5]. The UK also recorded 1648.5 hours of sunshine, 61.4 hours more than the previous record set in 2003[4][6].\n\nGlobally, 2025 ranked as one of the three hottest years recorded, joining 2023 and trailing 2024, which the World Meteorological Organization confirmed in January as the warmest year at 1.55\u00b0C above pre-industrial levels[2][7][8]. More concerning to climate scientists, the three-year period from 2023 to 2025 marked the first time the running temperature average broke through the 1.5\u00b0C threshold established in the 2015 Paris Agreement[2][9][10][11].",
+      "audio_url": "",
+      "url": "2025-breaks-global-and-uk-heat-9jmfwDZRTWGa2f_retn5uA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/49958602-604d-4d3f-b615-f4dcca29422a",
       "published_datetime": "2026-01-03T04:53:24.206730",
       "title": "Gold surges as Trump warns Iran amid 2026 market uncertainty",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bc2b0f22-5792-4c0f-8501-b98ff245d5c3",
-      "published_datetime": "2026-01-02T17:00:16.582683",
-      "title": "Hubble captures glowing gas plume from distant galaxy",
-      "featured_image": {
-        "url": "https://www.gadgets360.com/science/news/hubble-captures-gas-escaping-sideways-spiral-galaxy-ngc-4388-in-virgo-cluster-9855412",
-        "name": "Hubble Captures Gas Escaping Sideways Spiral Galaxy NGC 4388 ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--seqm0dzL--/t_limit/https://i.gadgets360cdn.com/large/Galactic_Gas_full_1_1766242164724.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--lW-tCN6u--/t_thumbnail/https://i.gadgets360cdn.com/large/Galactic_Gas_full_1_1766242164724.jpg"
-      },
-      "description": "NASA's space telescopes have captured extraordinary views of previously unseen cosmic events in recent weeks, providing scientists with fresh insights into galactic evolution and exotic planetary systems.\n\nThe Hubble Space Telescope on January 1 released new imagery of NGC 4388, a spiral galaxy 60 million light-years away in the Virgo constellation, revealing a luminous plume of gas streaming from the galaxy's nucleus[1]. The phenomenon, invisible in previous Hubble observations from 2016, occurs as NGC 4388 plunges through the intracluster medium\u2014hot wisps of gas occupying the space between galaxies in the Virgo cluster[1][2].\n\nAs the galaxy moves through this medium, pressure from the hot gas strips material from NGC 4388's disk, causing it to trail behind in a glowing tail[1]. Researchers suspect a supermassive black hole at the galaxy's center provides some of the ionizing energy that causes the gas cloud to glow, while shock waves may be responsible for ionizing filaments farther out[1][3].",
-      "audio_url": "",
-      "url": "hubble-and-webb-reveal-new-cos-MCKYrjDuTc6DEXmOALksJw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-03T06:20:11.460328"
+  "merged_at": "2026-01-03T07:13:30.016607"
 }
