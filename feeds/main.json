@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-03T12:42:53.000000Z",
+      "title": "Donald Trump's 'capture' of Nicol\u00e1s Maduro has been months in the making",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8e8d94997fb0c408910e1b92de1a5f0b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=103&amp;width=862&amp;height=485"
+      },
+      "description": "While Mr Maduro remained publicly defiant in the face of US pressure to step down, in private he was taking measures to dodge a potential US strike, and even reportedly negotiating with American officials over a possible managed exit.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-03/united-states-captures-nicolas-maduro-explainer/106196798"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/467ce587-abaf-4ee6-88c9-3777ef82c5f2",
       "published_datetime": "2026-01-03T07:55:11.973842",
       "title": "Trump orders US military strikes on Venezuela",
@@ -232,15 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-02T18:00:00.000000Z",
-      "title": "Political outlook 'dramatically shifted' after Bondi",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a1bee32f5e84ed7d436185d6b24f9253?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "What are you watching in Australian politics in 2026? That's the question we put to the ABC's political journalists and columnists.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-03/2026-labor-government-albanese-inflation-housing-chalmers/106156690"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-03T13:33:32.693795"
+  "merged_at": "2026-01-03T14:12:06.146525"
 }
