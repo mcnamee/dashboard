@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-04T14:47:27.000000Z",
+      "title": "Death toll rises in Iran as anti-government protests spread",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/977ef6438a36fb1c9fc2b9638a9711a3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "At least 16 people have been killed in a week of demonstrations fuelled by the rising cost of living.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-05/iran-protests-spread-death-toll-rises/106198320"
+    },
+    {
+      "published_datetime": "2026-01-04T14:25:19.000000Z",
+      "title": "Live: Maduro in custody in New York awaiting court as aftermath of strikes revealed",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28016eaa138c7b89dd9b882ef9889827?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Deposed Venezuelan President Nicol\u00e1s Maduro is in New York awaiting a court appearance as more damage of US strikes in Venezuela is revealed. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-05/venezuela-maduro-in-custody-blog-january-5/106198380"
+    },
+    {
       "published_datetime": "2026-01-04T08:57:18.000000Z",
       "title": "Damien Martyn awakes from coma in 'some sort of miracle', thanks public",
       "featured_image": {
@@ -145,15 +163,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-04T01:33:59.000000Z",
-      "title": "US makes 'bold' grab for oil as markets brace for Monday",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6a5114bf67a96f8743f2ac0fdeff30fd?impolicy=wcms_crop_resize&amp;cropH=1238&amp;cropW=2200&amp;xPos=0&amp;yPos=115&amp;width=862&amp;height=485"
-      },
-      "description": "Oil futures do not trade until Monday, Australian time, and financial market participants are divided over whether there will be a spike or correction in the price of oil in Asian trade.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-04/us-intervention-in-venezuela-impact-on-oil-prices-unclear/106197522"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/94918475-f094-49a1-b332-4c24d70c7882",
       "published_datetime": "2026-01-04T01:06:21.951744",
       "title": "US military captures Maduro in Venezuela operation",
@@ -232,15 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-04/on-its-250th-birthday-america-is-being-america/106193418"
     },
     {
-      "published_datetime": "2026-01-03T14:57:41.000000Z",
-      "title": "Live: First image of deposed Maduro inside New York law enforcement offices",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cabce0c3c633eee7b7b8b835b44109af?impolicy=wcms_crop_resize&amp;cropH=456&amp;cropW=810&amp;xPos=0&amp;yPos=435&amp;width=862&amp;height=485"
-      },
-      "description": "Deposed Venezuelan President Nicol\u00e1s Maduro is now in New York after he was captured in an early-morning US raid on the nation. Follow live.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-04/venezuela-trump-says-maduro-on-way-to-new-york/106197080"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-04T14:11:47.264470"
+  "merged_at": "2026-01-04T15:12:33.271067"
 }
