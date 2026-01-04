@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-04T20:42:47.000000Z",
+      "title": "Lower crime rates in Alice Springs leave many optimistic, others worried",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d031093a093212215731d00d2de5b1c9?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=487&amp;width=862&amp;height=485"
+      },
+      "description": "After years of negative headlines, crime rates in Alice Springs are showing signs of turning a corner but some locals remain worried the change could be short-lived.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-05/alice-springs-crime-rates-down-long-term-solutions/106177896"
+    },
+    {
+      "published_datetime": "2026-01-04T20:17:25.000000Z",
+      "title": "Japan's sacred 'forbidden island' completely off limits to women",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/19897d93d1de844eb9c150b0ceda4c3b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=182&amp;width=862&amp;height=485"
+      },
+      "description": "Boasting thousands of years of history and a World Heritage listing, Okinoshima is Japan's very own treasure island. It's also completely off limits to women.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-05/okinoshima-island-world-heritage-listed-gender-ban/106017014"
+    },
+    {
       "published_datetime": "2026-01-04T19:45:32.000000Z",
       "title": "Maduro's allies now ruling Venezuela reject US claims they will 'comply'",
       "featured_image": {
@@ -29,7 +47,7 @@
     },
     {
       "published_datetime": "2026-01-04T18:30:00.000000Z",
-      "title": "Inflation, interest rates, EVs: What the ABC's business experts are watching in 2026",
+      "title": "Inflation, tariffs, EVs: What the ABC's business experts are watching in 2026",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bcc4c97f6adba683c933668c29fc8bdb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -109,15 +127,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212"
     },
     {
-      "published_datetime": "2026-01-04T06:46:21.000000Z",
-      "title": "Weary Australia eyes Ashes finish line as England senses opportunity",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/55539572084b256b217f76e8fb9b9c62?impolicy=wcms_crop_resize&amp;cropH=2577&amp;cropW=4581&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Only the rain could slow England's progress on day one in Sydney, as a weary Australia reflected its coach's claims the series really ended in Adelaide.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-04/ashes-fifth-test-day-one-weary-australia-eyes-ashes-finish-line/106197850"
-    },
-    {
       "published_datetime": "2026-01-04T05:23:38.000000Z",
       "title": "Man found in car boot tied up, stabbed, burnt and beaten",
       "featured_image": {
@@ -155,15 +164,6 @@
       "audio_url": "",
       "url": "european-security-advisers-bac-ksB8o.81RIeExswinURsYw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-04T03:10:38.000000Z",
-      "title": "'I could have been where they are': Aussie teen loses friend in Swiss bar fire",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/607d3fbf36cabc02373e3aac2f43a3e3?impolicy=wcms_crop_resize&amp;cropH=2003&amp;cropW=3562&amp;xPos=251&amp;yPos=72&amp;width=862&amp;height=485"
-      },
-      "description": "Yaron Lavy, from Melbourne, says he had planned to join friends at the Le Constellation bar on New Year's Eve but stopped to get water \u2014 a decision that may have saved his life.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-04/homicide-by-negligence-over-swiss-fire/106197298"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e5db4f5f-1b50-4e9e-b112-16acb84a189a",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-04T20:14:40.506449"
+  "merged_at": "2026-01-04T21:11:50.584823"
 }
