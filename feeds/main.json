@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-05/kyneton-womens-fc-report-league-president-to-afl-integrity-unit/106190264"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bd4dbdfb-8841-492a-96e1-32b57493082e",
+      "published_datetime": "2026-01-04T21:48:49.666187",
+      "title": "Rubio softens Trump claim US will 'run' Venezuela",
+      "featured_image": {
+        "url": "https://www.nytimes.com/2026/01/04/world/americas/rubio-military-quarantine-venezuela-oil.html",
+        "name": "U.S. Oil 'Quarantine' of Venezuela Will Remain, and Troops ...",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1767563098/url_uploads/04us-venezuela-rubio-comments-1-tzbf-videoSixteenByNineJumbo1600_emjxlf.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1767563098/url_uploads/04us-venezuela-rubio-comments-1-tzbf-videoSixteenByNineJumbo1600_emjxlf.jpg"
+      },
+      "description": "President Donald Trump announced Saturday that the United States would temporarily \"run\" Venezuela following the capture of President Nicol\u00e1s Maduro in a dramatic overnight military operation, but Secretary of State Marco Rubio appeared to soften that stance on Sunday, suggesting Washington would use oil leverage rather than govern the country directly[1][2].\n\nMaduro and his wife, Cilia Flores, were seized from their home in Caracas early Saturday during a raid by U.S. special forces and transported to New York, where they are being held at the Metropolitan Detention Center in Brooklyn ahead of a Monday court appearance on narco-terrorism charges[3][4]. Trump told reporters the U.S. would \"run the country until such time as we can do a safe, proper and judicious transition\"[3][1].\n\nYet on Sunday morning talk shows, Rubio walked back those assertions. \"People keep fixating on that,\" he told NBC's \"Meet the Press,\" clarifying that the U.S. would continue enforcing an oil quarantine to press for policy changes rather than governing Venezuela day-to-day[1][2]. \"We expect to see changes in Venezuela,\" Rubio said, adding the U.S. would use control of sanctioned oil as \"tremendous leverage\"[2].",
+      "audio_url": "",
+      "url": "trump-says-us-will-run-venezue-gRCQ.cW.TI2QlpSFHioqwg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-04T20:42:47.000000Z",
       "title": "Lower crime rates in Alice Springs leave many optimistic, others worried",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f79262ef-1ced-402f-b3ab-b41f816e22c0",
-      "published_datetime": "2026-01-04T02:35:21.487563",
-      "title": "Venezuela oil exports halt amid U.S. blockade, Maduro capture",
-      "featured_image": {
-        "url": "https://www.reuters.com/business/energy/venezuelas-oil-exports-fall-sharply-after-us-tanker-seizure-only-chevron-ships-2025-12-12/",
-        "name": "Venezuela's oil exports fall sharply after US tanker seizure as only Chevron ships sail - sources, data",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--R_VeP_ix--/t_limit/https://www.reuters.com/resizer/v2/6MTDJNCXZZMJ3GAZ6O6YDTBA6U.jpg%3Fauth%3D8dd81d68c6cc47f9ae7855252d9e44b9a8007e67804a1f8e065aa2a61f24d270%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--uND62ot9--/t_thumbnail/https://www.reuters.com/resizer/v2/6MTDJNCXZZMJ3GAZ6O6YDTBA6U.jpg%3Fauth%3D8dd81d68c6cc47f9ae7855252d9e44b9a8007e67804a1f8e065aa2a61f24d270%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Venezuela's oil exports have come to a near standstill as tankers avoid the South American nation amid an escalating U.S. naval blockade and the dramatic capture of President Nicol\u00e1s Maduro on Saturday. The paralysis threatens to further cripple the economy of a country sitting atop the world's largest proven oil reserves.\n\nFollowing weeks of mounting pressure, including vessel seizures and sanctions, oil shipments from Venezuela have effectively ceased, with only tankers chartered by Chevron continuing operations under special U.S. authorization. More than 11 million barrels of crude remain stranded on vessels in Venezuelan waters, while the country's storage facilities have filled to capacity, forcing state oil company PDVSA to shut in wells across its main production region[1][2][3].",
-      "audio_url": "",
-      "url": "venezuela-halts-oil-exports-am-U0AvODpQRey9p54ll5evCw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-04T22:12:51.153151"
+  "merged_at": "2026-01-04T22:26:47.074166"
 }
