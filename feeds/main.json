@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-04T08:57:18.000000Z",
+      "title": "Damien Martyn awakes from coma in 'some sort of miracle', thanks public",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5d1fd8c3b32c81e3b2aab3dae5f52373?impolicy=wcms_crop_resize&amp;cropH=1350&amp;cropW=2400&amp;xPos=293&amp;yPos=184&amp;width=862&amp;height=485"
+      },
+      "description": "Former Australian Test batsman Damien Martyn is awake and talking after being in an induced coma for several days.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212"
+    },
+    {
+      "published_datetime": "2026-01-04T06:46:21.000000Z",
+      "title": "Weary Australia eyes Ashes finish line as England senses opportunity",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/55539572084b256b217f76e8fb9b9c62?impolicy=wcms_crop_resize&amp;cropH=2577&amp;cropW=4581&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Only the rain could slow England's progress on day one in Sydney, as a weary Australia reflected its coach's claims the series really ended in Adelaide.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-04/ashes-fifth-test-day-one-weary-australia-eyes-ashes-finish-line/106197850"
+    },
+    {
       "published_datetime": "2026-01-04T05:23:38.000000Z",
       "title": "Man found in car boot tied up, stabbed, burnt and beaten",
       "featured_image": {
@@ -166,24 +184,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-03T23:12:24.000000Z",
-      "title": "'National crisis': Sports stars call for Bondi federal royal commission",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/15b9691437be94aadba430046f6ef7cf?impolicy=wcms_crop_resize&amp;cropH=2652&amp;cropW=4714&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Ian Thorpe, Jess Fox and Lleyton Hewitt are among more than 60 Australian sports stars joining public calls for a Commonwealth royal commission into the Bondi terror attack.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-04/sport-stars-call-for-federal-royal-commission/106197406"
-    },
-    {
-      "published_datetime": "2026-01-03T22:50:49.000000Z",
-      "title": "'It's just poor': Controversial bad light call prematurely halts English charge",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1f772bde7b1803ecba75b37c93422491?impolicy=wcms_crop_resize&amp;cropH=2608&amp;cropW=4637&amp;xPos=0&amp;yPos=68&amp;width=862&amp;height=485"
-      },
-      "description": "The top two men's Test batters in the world make hay against a spinless Australian attack, only to be stopped by the weather.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-04/live-updates-ashes-australia-vs-england-fifth-test-day-one/106197464"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b02aed11-3233-4da4-8d08-5b48a1a20bdb",
       "published_datetime": "2026-01-03T22:39:25.673737",
       "title": "Caracas residents hunker down after US captures Maduro",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-04T09:12:52.184686"
+  "merged_at": "2026-01-04T10:13:08.008094"
 }
