@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-04T19:45:32.000000Z",
+      "title": "Maduro's allies now ruling Venezuela reject US claims they will 'comply'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9bfbb8acbd32d1f744b5814f8c4e663?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=130&amp;width=862&amp;height=485"
+      },
+      "description": "The Trump administration insists Venezuela's leaders will now comply with American demands after the extraordinary capture of president Nicol\u00e1s Maduro \u2014 but his allies are resisting US pressure.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-05/nicolas-maduro-allies-take-power-in-venezuela/106198570"
+    },
+    {
       "published_datetime": "2026-01-04T18:50:05.000000Z",
       "title": "Were the US actions in Venezuela legal under international law?",
       "featured_image": {
@@ -85,7 +94,7 @@
       "published_datetime": "2026-01-04T14:25:19.000000Z",
       "title": "Live: Maduro security team killed in US attack, Venezuelan defence minister says",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28016eaa138c7b89dd9b882ef9889827?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0dbe00cd06ff77b60f42a34ee22877d1?impolicy=wcms_crop_resize&amp;cropH=474&amp;cropW=842&amp;xPos=0&amp;yPos=43&amp;width=862&amp;height=485"
       },
       "description": "Deposed Venezuelan President Nicol\u00e1s Maduro is in New York awaiting a court appearance as more damage of US strikes in Venezuela is revealed. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-05/venezuela-maduro-in-custody-blog-january-5/106198380"
@@ -155,15 +164,6 @@
       },
       "description": "Yaron Lavy, from Melbourne, says he had planned to join friends at the Le Constellation bar on New Year's Eve but stopped to get water \u2014 a decision that may have saved his life.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-04/homicide-by-negligence-over-swiss-fire/106197298"
-    },
-    {
-      "published_datetime": "2026-01-04T02:52:20.000000Z",
-      "title": "Relief, fear and uncertainty for Venezuelan community in Australia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/997bc5de17d5aa794819af86af8f2ef3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=469&amp;width=862&amp;height=485"
-      },
-      "description": "Australia's small but tight-knit community of Venezuelan-born residents is gathering to discuss the unfolding situation in their home country after the US captured Venezuelan President Nicol\u00e1s Maduro.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-04/venezuela-australian-reaction-after-us-military-strike-maduro/106197558"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e5db4f5f-1b50-4e9e-b112-16acb84a189a",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-04T19:10:19.056850"
+  "merged_at": "2026-01-04T20:14:40.506449"
 }
