@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-05T19:35:23.000000Z",
+      "title": "Live: 'I am the president': Deposed Venezuelan leader Maduro, wife enter pleas in New York",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e0793881d654af9fa78138a8ab2eea82?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=7&amp;width=862&amp;height=485"
+      },
+      "description": "Nicol\u00e1s Maduro and his wife face court in New York for the first time since being captured by US forces, as an emergency meeting of the UN Security Council gets underway. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-06/venezuela-maduro-in-court-new-york-live-blog-january-6/106201828"
+    },
+    {
+      "published_datetime": "2026-01-05T19:11:45.000000Z",
+      "title": "Here's what to expect from the RBA this year with rate hikes on the table",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/455a4f5b392c122198e73dcc7e4381b1?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "Mortgage borrowers and savers may have used the new year as an excuse to get their financial affairs in order, but things may be set to change within a matter of months.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-06/what-to-expect-from-rba-interest-rates-in-2026-hikes-on-table/106200132"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/92348f35-e127-44b7-b47d-c24e01bd8271",
+      "published_datetime": "2026-01-05T19:02:16.892129",
+      "title": "AI capabilities doubling every 8 months, UK safety institute finds",
+      "featured_image": {
+        "url": "https://www.ndtvprofit.com/technology/ai-models-show-notable-skill-in-aiding-development-of-potentially-hazardous-chemical-biological-processes",
+        "name": "AI Models Show Notable Skill In Aiding Development Of Potentially ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_ZH62Adw--/t_limit/https://media.assettype.com/bloombergquint%252F2024-09-19%252Fidf4ebay%252Fai-71118021280.jpg%3Frect%3D0%252C14%252C1280%252C672%26w%3D1200%26auto%3Dformat%252Ccompress%26ogImage%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--EKGjs07y--/t_thumbnail/https://media.assettype.com/bloombergquint%252F2024-09-19%252Fidf4ebay%252Fai-71118021280.jpg%3Frect%3D0%252C14%252C1280%252C672%26w%3D1200%26auto%3Dformat%252Ccompress%26ogImage%3Dtrue"
+      },
+      "description": "A leading AI safety researcher has cautioned that rapid advances in artificial intelligence may outpace humanity's ability to implement adequate safeguards, warning that society could be \"sleepwalking\" into an era where machines control critical infrastructure before proper oversight is established.\n\nDavid Dalrymple, a program director at the UK's Advanced Research and Invention Agency, told The Guardian that the world \"may not have time\" to prepare for safety risks posed by cutting-edge AI systems[1][2][3][4]. His warnings come as new data from Britain's AI Security Institute reveals that AI capabilities are advancing at an exponential pace, with performance in certain domains doubling every eight months[5][6][7].",
+      "audio_url": "",
+      "url": "experts-warn-world-unprepared-pE5Ys7SESZWgez8HB5iJYg",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-01-05T19:01:01.000000Z",
+      "title": "UN chief warns US operation in Venezuela sets dangerous precedent",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/09b0867e5c46d7d549a45c3d846d80a8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The warning by the UN chief comes during an emergency session of the United Nations Security Council, just blocks from where Nicol\u00e1s Maduro and his wife Cilia Flores are facing a Manhattan judge.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-06/un-security-council-meets-to-discuss-us-attack-on-venezuela/106201850"
+    },
+    {
+      "published_datetime": "2026-01-05T18:52:00.000000Z",
+      "title": "Towns facing temperatures above 45C as extreme heatwave blasts Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/13e459110e23e5e63247413ad64e99eb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+      },
+      "description": "The \"most significant\" heatwave south-eastern Australia has seen in six years is likely to trigger an extreme fire danger alongside searing hot temperatures.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-06/australia-heatwave-most-significant-in-six-years/106200088"
+    },
+    {
+      "published_datetime": "2026-01-05T18:48:14.000000Z",
+      "title": "Trump's historic oil grab a brazen push for extraordinary power",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9142b088e0b5e2f67cc238bd01122090?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "In a world awash with oil, US President Donald Trump's takeover of Venezuela seems to be more about power than production.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-06/venezuela-oil-donald-trump-power-grab/106200092"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6b1cf0c1-b284-4bf4-9699-951ad8c176f9",
       "published_datetime": "2026-01-05T18:19:29.782832",
       "title": "Sheinbaum rejects Trump military threats after Venezuela raid",
@@ -14,6 +74,15 @@
       "audio_url": "",
       "url": "sheinbaum-rejects-trump-threat-sWfinrG0QpW1g3m6fZOqEA",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-01-05T18:02:45.000000Z",
+      "title": "Tree by tree, this new suburb is dodging baking heat in summer",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/932de3faed4bfe18b8b35f8c6140a1d9?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Thousands of young trees dot the streets and front gardens of this outer Melbourne suburb as part of a neighbourhood-wide push to create more shade and curb the urban heat island effect.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-06/clyde-tree-canopy-requirement-casey-council/106174988"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fbfe5ce3-6663-489e-afa5-75d32fbda51e",
@@ -44,15 +113,6 @@
       "audio_url": "",
       "url": "us-arrests-maduro-markets-reac-FGxtZzUWTgWI1mi7XdLhhg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-05T17:12:42.000000Z",
-      "title": "Deposed Venezuelan leader and his wife plead not guilty in New York court",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8a0023fdb361214dbffc9d1cb13683fe?impolicy=wcms_crop_resize&amp;cropH=753&amp;cropW=1338&amp;xPos=0&amp;yPos=32&amp;width=862&amp;height=485"
-      },
-      "description": "Nicol\u00e1s Maduro and Cilia Flores, who were captured in Caracas at the weekend, face multiple charges.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-06/venezuelan-leader-nicol%C3%A1s-maduro-appears-in-new-york-court/106201846"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/581c5d4b-79fa-40f2-97e2-a3a3e6e4f8f3",
@@ -145,21 +205,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5c26af76-42b5-43f1-a67e-da1459d3fe6d",
-      "published_datetime": "2026-01-05T12:15:02.498528",
-      "title": "Investors shift to value stocks amid AI inflation fears",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/",
-        "name": "AI-driven inflation is 2026's most overlooked risk ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--l2cmZ_JV--/t_limit/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/L7MQGNFG3FDHPNXGWN4X46VY34.JPG",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--zmiS1L_j--/t_thumbnail/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/L7MQGNFG3FDHPNXGWN4X46VY34.JPG"
-      },
-      "description": "As global stock markets enter 2026 riding high on artificial intelligence enthusiasm, a growing chorus of investors and strategists warn that surging AI-related spending could reignite inflation and derail the rally, prompting a strategic shift toward undervalued assets.\n\nMoney managers are increasingly concerned that the multi-trillion-dollar race among tech giants Microsoft, Meta, and Alphabet to build AI data centers is driving up costs for chips and energy, creating inflationary pressures that markets may be underestimating. Deutsche Bank projects AI data center capital expenditure could reach $4 trillion by 2030[1][2][3], while Morgan Stanley strategist Andrew Sheets notes that \"costs are going up not down in our forecast, because there's inflation in chip costs and inflation in power costs\"[1][2][4].\n\n\"What keeps us awake at night is that inflation risk has resurfaced,\" said Julius Bendikas, European head of economics and dynamic asset allocation at Mercer, which manages $683 billion in assets[1][2]. Trevor Greetham, head of multi-asset at Royal London Asset Management, warned that while he continues holding tech stocks for now, he \"would not be surprised to see inflation booming worldwide by the end of 2026\"[5][2].",
-      "audio_url": "",
-      "url": "investors-shift-focus-amid-202-BU7v.4w0TFmaUZD6s9mlKQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-05T12:02:37.000000Z",
       "title": "Bruce Lehrmann launches High Court appeal in latest defamation battle round",
       "featured_image": {
@@ -178,24 +223,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-05/10-charged-for-cyberbullying-brigitte-macron/106201796"
     },
     {
-      "published_datetime": "2026-01-05T11:11:57.000000Z",
-      "title": "Manchester United sacks head coach Ruben Amorim",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9bdfafd77a0f24ee9d34a0ac406a9a56?impolicy=wcms_crop_resize&amp;cropH=2380&amp;cropW=4231&amp;xPos=0&amp;yPos=67&amp;width=862&amp;height=485"
-      },
-      "description": "It comes less than a day after the club drew one-all with Leeds United and a testy post-match press conference in which Amorim questioned his own role and the club's management.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-05/manchester-united-sacks-coach-ruben-amorim/106201814"
-    },
-    {
-      "published_datetime": "2026-01-05T10:37:17.000000Z",
-      "title": "Former Labor politicians urge Albanese to call Bondi federal royal commission",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bd6fe53255a9696a83b45774b9ebd7ee?impolicy=wcms_crop_resize&amp;cropH=3215&amp;cropW=5716&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "A group of former Labor MPs, senators and party officials have signed an open letter asking Anthony Albanese to call a national royal commission into the Bondi terror attack.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-05/former-labor-politicians-plead-albanese-royal-commission-bondi/106201744"
-    },
-    {
       "published_datetime": "2026-01-05T07:33:49.000000Z",
       "title": "Batting class prevails for Head and Root on a fiery day in Sydney",
       "featured_image": {
@@ -205,24 +232,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-05/batting-class-prevails-for-head-and-root-ashes-scg-day-two/106200104"
     },
     {
-      "published_datetime": "2026-01-05T07:21:24.000000Z",
-      "title": "How a 'ruthless' energy company went after a pensioner for money he didn't owe",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e5a0ef9d0b0a2e825fe6bc28a2dc3fa3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Australia's energy prices continue to soar as questions continue to be raised about the actions of providers, including by this pensioner who was overcharged and then had debt collectors chasing him. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-05/engie-energy-makes-mistake-sends-debt-collectors-after-pensioner/106132388"
-    },
-    {
-      "published_datetime": "2026-01-05T07:01:15.000000Z",
-      "title": "Inside the 'disgusting' jail where Nicol\u00e1s Maduro has joined high-profile inmates",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/16e772c1591218fd32aa21804da6f400?impolicy=wcms_crop_resize&amp;cropH=2756&amp;cropW=4900&amp;xPos=0&amp;yPos=173&amp;width=862&amp;height=485"
-      },
-      "description": "The facility where detained Venezuelan President Nicol\u00e1s Maduro has been taken is a notorious New York jail that has held a string of high-profile and celebrity criminals, from drug cartel leaders to hip-hop stars.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-05/nicol%C3%A1s-maduro-in-the-new-york-metropolitan-detention-center/106199184"
-    },
-    {
       "published_datetime": "2026-01-05T05:38:48.000000Z",
       "title": "Denmark tells Trump to stop Greenland 'threats'",
       "featured_image": {
@@ -230,15 +239,6 @@
       },
       "description": "The leaders of Denmark and Greenland have urged US President Donald Trump to stop threatening to take over Greenland.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-05/denmark-rejects-us-trump-threats-greenland/106199700"
-    },
-    {
-      "published_datetime": "2026-01-05T01:43:03.000000Z",
-      "title": "Trump gambles on MAGA base backing his new imperialism",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/26aa9a7257d9c42fc92d8bbde86da280?impolicy=wcms_crop_resize&amp;cropH=1713&amp;cropW=3046&amp;xPos=0&amp;yPos=158&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump has long defied political gravity but whether his followers in Congress and the MAGA movement will follow him into a new colonialism is a big gamble.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-05/donald-trump-venezuela-foreign-policy-honduras/106199368"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-05T19:15:29.279983"
+  "merged_at": "2026-01-05T20:16:24.711509"
 }
