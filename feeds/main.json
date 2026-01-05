@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5c26af76-42b5-43f1-a67e-da1459d3fe6d",
+      "published_datetime": "2026-01-05T12:15:02.498528",
+      "title": "Investors shift to value stocks amid AI inflation fears",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/asia-pacific/ai-driven-inflation-is-2026s-most-overlooked-risk-investors-say-2026-01-05/",
+        "name": "AI-driven inflation is 2026's most overlooked risk ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--l2cmZ_JV--/t_limit/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/L7MQGNFG3FDHPNXGWN4X46VY34.JPG",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--zmiS1L_j--/t_thumbnail/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/L7MQGNFG3FDHPNXGWN4X46VY34.JPG"
+      },
+      "description": "As global stock markets enter 2026 riding high on artificial intelligence enthusiasm, a growing chorus of investors and strategists warn that surging AI-related spending could reignite inflation and derail the rally, prompting a strategic shift toward undervalued assets.\n\nMoney managers are increasingly concerned that the multi-trillion-dollar race among tech giants Microsoft, Meta, and Alphabet to build AI data centers is driving up costs for chips and energy, creating inflationary pressures that markets may be underestimating. Deutsche Bank projects AI data center capital expenditure could reach $4 trillion by 2030[1][2][3], while Morgan Stanley strategist Andrew Sheets notes that \"costs are going up not down in our forecast, because there's inflation in chip costs and inflation in power costs\"[1][2][4].\n\n\"What keeps us awake at night is that inflation risk has resurfaced,\" said Julius Bendikas, European head of economics and dynamic asset allocation at Mercer, which manages $683 billion in assets[1][2]. Trevor Greetham, head of multi-asset at Royal London Asset Management, warned that while he continues holding tech stocks for now, he \"would not be surprised to see inflation booming worldwide by the end of 2026\"[5][2].",
+      "audio_url": "",
+      "url": "investors-shift-focus-amid-202-BU7v.4w0TFmaUZD6s9mlKQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-05T12:02:37.000000Z",
       "title": "Bruce Lehrmann launches High Court appeal in latest defamation battle round",
       "featured_image": {
@@ -208,21 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f80ffc1b-2fbe-449b-8037-cf6e364918f9",
-      "published_datetime": "2026-01-05T03:22:50.628977",
-      "title": "Venezuela's acting president proposes US cooperation",
-      "featured_image": {
-        "url": "https://www.aninews.in/news/world/us/venezuela-supreme-court-names-delcy-rodriguez-acting-president-after-maduros-removal20260104104132",
-        "name": "Venezuela Supreme Court names Delcy Rodriguez acting president ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IbfjXYZQ--/t_limit/https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20260104051120.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Qbq7ga4S--/t_thumbnail/https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20260104051120.jpg"
-      },
-      "description": "Venezuelan acting President Delcy Rodriguez made a notable shift in tone on Sunday, extending an invitation to the United States for a \"cooperation agenda\" just one day after condemning Washington's military operation that captured President Nicol\u00e1s Maduro.\n\nRodriguez, who was named acting president by Venezuela's Supreme Court on Saturday following Maduro's detention, called for a \"balanced and respectful relationship\" between the two nations in a statement posted on Telegram[1][2][3]. \"We extend an invitation to the US government to work together on an agenda for cooperation that is aimed toward shared development,\" she wrote, emphasizing that such cooperation should occur \"within the framework of international law.\"[4][5]\n\nAddressing President Donald Trump directly, Rodriguez said Venezuelans \"deserve peace and dialogue, not war,\" adding that \"this has always been the principle championed by President Maduro.\"[6][7][8] The statement marked a dramatic departure from her televised address on Saturday, when she surrounded herself with military leaders and declared \"there is only one president in this country, and his name is Nicol\u00e1s Maduro,\" while condemning the US operation as \"barbaric.\"[9][10][11]",
-      "audio_url": "",
-      "url": "venezuela-rodriguez-shifts-ton-Uj8huSpzS9a22RVjSk4.sw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-05T01:43:03.000000Z",
       "title": "Trump gambles on MAGA base backing his new imperialism",
       "featured_image": {
@@ -233,9 +233,9 @@
     },
     {
       "published_datetime": "2026-01-04T14:25:19.000000Z",
-      "title": "Live: Trump doubles down on oil plans for Venezuela, floats US operation in Colombia",
+      "title": "Live: Maduro arrives at Manhattan court, Trump doubles down on oil plans for Venezuela",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c0d34ba6b21d864e8cb549fdac1e79a?impolicy=wcms_crop_resize&amp;cropH=2132&amp;cropW=3790&amp;xPos=0&amp;yPos=6&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eb3f8d7ae73a6bdcb4fba141ce014808?impolicy=wcms_crop_resize&amp;cropH=849&amp;cropW=1509&amp;xPos=45&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "It comes as US Secretary of State Marco Rubio says discussions of Venezuela holding elections following Nicol\u00e1s Maduro's ouster are \"premature\", with Washington focused on ensuring Caracas now carries out policy changes.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-05/venezuela-maduro-in-custody-blog-january-5/106198380"
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-05T12:28:48.945499"
+  "merged_at": "2026-01-05T13:36:06.230874"
 }
