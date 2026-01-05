@@ -193,6 +193,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-01-05T05:38:48.000000Z",
+      "title": "Denmark tells Trump to stop Greenland 'threats'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d39bc5c3859fecef34b96e0345e0c37f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The leaders of Denmark and Greenland have urged US President Donald Trump to stop threatening to take over Greenland.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-05/denmark-rejects-us-trump-threats-greenland/106199700"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8667ffb2-a42b-4310-8a12-690cf8ff32c2",
       "published_datetime": "2026-01-05T05:20:45.713222",
       "title": "Samsung warns memory chip shortage to raise tech prices",
@@ -230,15 +239,6 @@
       },
       "description": "Donald Trump has long defied political gravity but whether his followers in Congress and the MAGA movement will follow him into a new colonialism is a big gamble.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-05/donald-trump-venezuela-foreign-policy-honduras/106199368"
-    },
-    {
-      "published_datetime": "2026-01-04T14:25:19.000000Z",
-      "title": "Maduro arrives at Manhattan court, Trump doubles down on oil plans \u2014 as it happened",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eb3f8d7ae73a6bdcb4fba141ce014808?impolicy=wcms_crop_resize&amp;cropH=849&amp;cropW=1509&amp;xPos=45&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Deposed Venezuelan President\u00a0Nicol\u00e1s Maduro and his wife have been transferred to a New York courthouse as Donald Trump doubles down on oil plans for Venezuela \u2014 as it happened.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-05/venezuela-maduro-in-custody-blog-january-5/106198380"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-05T14:17:39.650319"
+  "merged_at": "2026-01-05T15:16:38.787936"
 }
