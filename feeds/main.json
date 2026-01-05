@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-05T05:03:32.000000Z",
+      "title": "Key points to unpack US attacks on Venezuela",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0dea8605e5682334dcc8a7f3398b81fd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=258&amp;width=862&amp;height=485"
+      },
+      "description": "These are the key points to get up to speed with what we know about the US strikes on Venezuela and the current state of play after its president was ousted and removed from the country.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-05/what-happened-us-strikes-venezuela-maduro-captured-what-next/106198900"
+    },
+    {
+      "published_datetime": "2026-01-05T04:48:13.000000Z",
+      "title": "Why did Venezuelan rally go ahead in Sydney despite protest restrictions?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8cfd55d859fac0d34aa63d6105edc683?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=52&amp;width=862&amp;height=485"
+      },
+      "description": "New laws restricting protests were recently passed in NSW, yet close to 300 people took to the streets of Sydney after the US attack on Venezuela.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-05/nsw-explainer-protest-ban-bondi-as-venezuelans-rally-in-sydney/106199170"
+    },
+    {
       "published_datetime": "2026-01-05T04:43:11.000000Z",
       "title": "Prison escapee attacks Victorian farm worker",
       "featured_image": {
@@ -71,15 +89,6 @@
       },
       "description": "Blisteringly high temperatures are expected throughout Victoria and in parts of South Australia and New South Wales.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-05/worst-heatwave-conditions-since-black-summer/106197780"
-    },
-    {
-      "published_datetime": "2026-01-05T02:08:24.000000Z",
-      "title": "'We want to get that money back to you': $300m of unclaimed cash in NSW",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8442fa50576925a0794d5a1ecd0692e4?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=129&amp;width=862&amp;height=485"
-      },
-      "description": "Almost $300 million in refunds, dividends and cheques remain unclaimed by households and businesses across New South Wales, with locals urged to take action to secure the money they are owed.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-05/about-300-million-in-unclaimed-money-in-nsw/106199820"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/20f43808-fdfd-4c13-9da1-71ca7554fc94",
@@ -176,11 +185,11 @@
     },
     {
       "published_datetime": "2026-01-04T22:42:16.000000Z",
-      "title": "Live: England spills early chances as Head gets Australia off to another flyer",
+      "title": "Live: Stokes removes Weatherald after solid opening partnership",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/36d3734b47c3932600e833faaffe8700?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2d7c8137780cb49ff411b86b7c898768?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Travis Head gets Australia off to a fast start as Jake Weatherald is dropped twice in the space of two overs. Follow live.\u00a0",
+      "description": "Jake Weatherald fails to capitalise on two dropped chances as Ben Stokes strikes after the first drinks break in the final session. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-05/ashes-cricket-scg-test-day-two-live-blog/106199006"
     },
     {
@@ -221,15 +230,6 @@
       "audio_url": "",
       "url": "trump-reaffirms-greenland-anne-.SkSv3inRRWdO8mYSm97Tw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-04T19:45:32.000000Z",
-      "title": "Maduro allies now ruling Venezuela reject US claims they will 'comply'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9bfbb8acbd32d1f744b5814f8c4e663?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=130&amp;width=862&amp;height=485"
-      },
-      "description": "The Trump administration insists Venezuela's leaders will now comply with American demands after the extraordinary capture of president Nicol\u00e1s Maduro \u2014 but his allies are resisting US pressure.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-05/nicolas-maduro-allies-take-power-in-venezuela/106198570"
     },
     {
       "published_datetime": "2026-01-04T14:25:19.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-05T04:50:41.710680"
+  "merged_at": "2026-01-05T05:30:02.212469"
 }
