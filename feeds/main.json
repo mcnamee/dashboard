@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/20f43808-fdfd-4c13-9da1-71ca7554fc94",
+      "published_datetime": "2026-01-05T01:43:23.329477",
+      "title": "Trump says military operation against Colombia 'sounds good'",
+      "featured_image": {
+        "url": "https://www.gettyimages.com/detail/news-photo/president-donald-trump-addresses-the-media-alongside-u-s-news-photo/2254496060",
+        "name": "President Trump Holds News Conference After US Captures Venezuelan President Maduro",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1767573254/getty_uploads/2254496060_roj4nj.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1767573254/getty_uploads/2254496060_roj4nj.jpg"
+      },
+      "description": "U.S. President Donald Trump told reporters aboard Air Force One on Sunday that a military operation against Colombia \"sounds good to me,\" hours after threatening the country's leader to \"watch his ass\" following the capture of Venezuelan President Nicol\u00e1s Maduro[1][2][3][4].\n\nThe remarks, made as Trump returned from Florida, represent an escalation of tensions with Colombian President Gustavo Petro and raised alarm across Latin America that Washington's military intervention in the region may expand beyond Venezuela. Secretary of State Marco Rubio separately suggested Cuba could be the next target, describing the Cuban government as \"a huge problem\" and saying they are \"in a lot of trouble\"[5][6][7].",
+      "audio_url": "",
+      "url": "trump-threatens-military-opera-jUCIrsEkQreCs.BO2is5kw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f4e5ec6f-aa35-42ec-a62c-ed081200c7b9",
+      "published_datetime": "2026-01-05T01:21:12.660009",
+      "title": "AI safety experts warn systems outpace safeguards",
+      "featured_image": {
+        "url": "https://www.nbcnews.com/tech/tech-news/top-ai-companies-safety-practices-fall-short-says-new-report-rcna246143",
+        "name": "Leading AI companies' safety practices are falling short, new report says",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--lK-Qk2Yh--/t_limit/https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630%2Cf_auto%2Cq_auto:best/rockcms/2025-10/251001-open-ai-vl-119p-115a9c.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--OuA9t89B--/t_thumbnail/https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630%2Cf_auto%2Cq_auto:best/rockcms/2025-10/251001-open-ai-vl-119p-115a9c.jpg"
+      },
+      "description": "A chorus of AI safety experts and industry leaders is warning that the world may lack the time and infrastructure to manage the rapidly escalating risks posed by artificial intelligence, as new autonomous systems outpace existing safeguards.\n\nDavid Dalrymple, an AI safety expert at the UK government's Advanced Research and Invention Agency, told The Guardian this week that AI development is moving \"really fast\" and that it cannot be assumed these \"systems are reliable\"[1]. His warning echoes concerns from OpenAI CEO Sam Altman, who stated in early January that AI is becoming increasingly \"dangerous\" not because it is inherently malicious, but because its capabilities are advancing faster than the systems designed to control them[2][3].",
+      "audio_url": "",
+      "url": "experts-warn-world-unprepared-XYIFtTycSaKLZXLaB_UVDw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3f86a04a-d30e-4b5d-b210-bdc2bdbbf1ab",
+      "published_datetime": "2026-01-04T23:24:14.914912",
+      "title": "Venezuelan oil exports frozen after US captures Maduro",
+      "featured_image": {
+        "url": "https://finance.yahoo.com/news/oil-prices-likely-move-higher-191443551.html",
+        "name": "Oil prices likely to move higher on Venezuelan turmoil, ample supply ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--GAV7rylp--/t_limit/https://media.zenfs.com/en/reuters.com/719ea41cf999607c280491e2c4051953",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--dwCrePG7--/t_thumbnail/https://media.zenfs.com/en/reuters.com/719ea41cf999607c280491e2c4051953"
+      },
+      "description": "In an operation President Donald Trump described as a display of overwhelming military power, US forces captured Venezuelan President Nicol\u00e1s Maduro and his wife early Saturday morning in Caracas, marking one of the most dramatic military interventions in recent American history[1][2]. The raid, dubbed Operation Absolute Resolve, has effectively paralyzed Venezuela's oil exports while raising questions about the lengthy timeline to revitalize the country's energy infrastructure.",
+      "audio_url": "",
+      "url": "us-captures-venezuelan-preside-2kpkqp5OSySY11wixyWG6g",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f2ca3252-6758-4ab5-b64c-5ef0276ec695",
       "published_datetime": "2026-01-04T23:23:52.428163",
       "title": "Oil prices dip modestly after US captures Venezuelan leader",
@@ -187,36 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/95cee11a-297e-4e7e-a46d-ee1dd42a0bb9",
-      "published_datetime": "2026-01-04T16:11:08.803933",
-      "title": "Iran protests enter second week with 16 dead, 580 arrested",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/1/1/demonstrations-turn-deadly-in-iran-over-rising-living-costs",
-        "name": "Demonstrations turn deadly in Iran over rising living costs",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--LdBjbdHP--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/01/image-1767300177.jpg%3Fresize%3D730%252C410%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--afWlnJkr--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/01/image-1767300177.jpg%3Fresize%3D730%252C410%26quality%3D80"
-      },
-      "description": "Nationwide demonstrations over Iran's economic crisis intensified into their second week, with at least 16 people killed and more than 580 arrests reported across the country, according to the U.S.-based Human Rights Activists News Agency[1][2]. The protests, which began December 28 among bazaar merchants in Tehran, have spread to over 170 locations across 25 of Iran's 31 provinces as of January 4[1][3].\n\nIran's Supreme Leader Ayatollah Ali Khamenei addressed the unrest Saturday, calling protesters' economic concerns \"valid\" while warning that \"rioters must be put in their place\"[4][5]. His remarks followed President Trump's Friday statement on Truth Social pledging U.S. support if Iran \"violently kills peaceful protesters,\" declaring Washington was \"locked and loaded and ready to go\"[6][7]. Iranian officials immediately warned against any U.S. interference, with a senior advisor to Khamenei stating that \"the hand that comes to Iran's interior under any pretext will be cut off before it can act\"[7].",
-      "audio_url": "",
-      "url": "iran-protests-escalate-over-so-XBd6Fap1SAuYXld9vHJF6g",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6c50de3a-ed5c-4736-8abe-edfeca5f57b8",
-      "published_datetime": "2026-01-04T16:06:17.029398",
-      "title": "Rubio says oil embargo to remain after Maduro capture",
-      "featured_image": {
-        "url": "https://www.cbsnews.com/news/marco-rubio-secretary-of-state-face-the-nation-transcript-01-04-2026/",
-        "name": "Transcript: Secretary of State Marco Rubio on \"Face the Nation with Margaret Brennan,\" Jan. 4, 2026",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_D80tP51--/t_limit/https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/05/24951bef-13f5-47af-a48c-1a7e362c5bec/thumbnail/1200x630/694dd8acb497de34dbca6f40a2412ba7/1005-ftn-rubio.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--9hLZfONi--/t_thumbnail/https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/05/24951bef-13f5-47af-a48c-1a7e362c5bec/thumbnail/1200x630/694dd8acb497de34dbca6f40a2412ba7/1005-ftn-rubio.jpg"
-      },
-      "description": "Elite US special forces seized Venezuelan President Nicol\u00e1s Maduro and his wife early Saturday morning in a dramatic operation that has drawn international condemnation and raised questions about Venezuela's political future. Secretary of State Marco Rubio said Sunday that an oil \"quarantine\" will remain the primary tool to pressure the country's new leadership.\n\nThe operation, codenamed \"Operation Absolute Resolve,\" began around 2:01 a.m. local time Saturday when Delta Force commandos raided Maduro's heavily fortified compound in Caracas[1][2][3]. More than 150 aircraft from 20 bases supported the mission, which transported Maduro to New York where he faces drug trafficking charges dating to 2020[2][4][5].\n\nAt least 40 people were killed in the strikes, including civilians and military personnel, according to a Venezuelan official who spoke to The New York Times[6][7]. President Trump said several US service members were injured but none were killed[8][6].",
-      "audio_url": "",
-      "url": "us-military-operation-captures-x70cOzE7SZeBvcvezHVtlg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-04T14:25:19.000000Z",
       "title": "Live: Trump says Venezuela's acting president must 'do what's right' or pay 'bigger price' than Maduro",
       "featured_image": {
@@ -224,21 +239,6 @@
       },
       "description": "It comes as US Secretary of State Marco Rubio says discussions of Venezuela holding elections following Nicol\u00e1s Maduro's ouster are \"premature\", with Washington focused on ensuring Caracas now carries out policy changes.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-05/venezuela-maduro-in-custody-blog-january-5/106198380"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5c658380-44ab-4c4b-9f39-356594d1795a",
-      "published_datetime": "2026-01-04T04:24:53.511897",
-      "title": "No alien signals found from 3I/ATLAS interstellar object",
-      "featured_image": {
-        "url": "https://www.yahoo.com/news/articles/scientists-announce-results-scanning-3i-130000221.html",
-        "name": "Scientists Announce Results After Scanning 3I/ATLAS for Alien Signals",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--qdXMV8tn--/t_limit/https://s.yimg.com/ny/api/res/1.2/9Su_TQooIvR2jdjJaDuRrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzA7Y2Y9d2VicA--/https://media.zenfs.com/en/futurism_981/3cf62feeb4b6e6eb2782650b079ca99b",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--FNrg9Ina--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/9Su_TQooIvR2jdjJaDuRrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzA7Y2Y9d2VicA--/https://media.zenfs.com/en/futurism_981/3cf62feeb4b6e6eb2782650b079ca99b"
-      },
-      "description": "The world's most sensitive radio telescope has found no evidence of artificial signals from 3I/ATLAS, the largest interstellar object ever detected, according to results published this week by the Breakthrough Listen program[1][2][3]. Yet the mysterious visitor continues to captivate astronomers with unusual features that challenge conventional understanding of comets.\n\nOn December 18, one day before the object's closest approach to Earth, the 100-meter Green Bank Telescope in West Virginia scanned 3I/ATLAS across radio frequencies from 1 to 12 gigahertz[3][4][5]. The search, conducted by a team led by astronomer Ben Jacobson-Bell of the University of California, Berkeley, initially flagged 471,198 potential signals[4][6]. After filtering out interference, nine candidates remained\u2014all of which were traced to human-made radio noise on Earth[2][4].\n\n\"No artificial radio emission localized to 3I/ATLAS was detected,\" the Search for Extraterrestrial Intelligence Institute confirmed[1][2][7]. The telescope was sensitive enough to detect transmitters as weak as 100 milliwatts, roughly the power of a mobile phone[8][3].",
-      "audio_url": "",
-      "url": "3iatlas-shows-no-alien-signals-NWipmojZQVSoH6aGU.P.TQ",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-05T01:08:44.123494"
+  "merged_at": "2026-01-05T02:27:29.896042"
 }
