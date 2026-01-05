@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dcf9070f-7774-4dbb-8d90-5c407f09aa2e",
+      "published_datetime": "2026-01-05T07:50:44.799527",
+      "title": "Asian stocks hit record highs as tech rally continues",
+      "featured_image": {
+        "url": "https://finance.yahoo.com/news/markets-show-mixed-reaction-us-020252137.html",
+        "name": "Markets show mixed reaction after US capture of Venezuelan leader",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--9n_-itWG--/t_limit/https://s.yimg.com/ny/api/res/1.2/21HbWItgJ4mP7qblsf.zhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/8f16639fe7ff8aa412498215bf177b2b",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--xg3vtbXn--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/21HbWItgJ4mP7qblsf.zhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/8f16639fe7ff8aa412498215bf177b2b"
+      },
+      "description": "Asian stock markets climbed to record highs Monday, led by a powerful rally in technology shares, as investors largely looked past geopolitical turmoil following the weekend US capture of Venezuelan President Nicol\u00e1s Maduro. Gold prices surged while oil fluctuated in early trading.\n\nSouth Korea's Kospi jumped 3.43% to close at 4,457.52 points, breaking through 4,400 for the first time[1]. Japan's Nikkei 225 soared 2.97% to near its record high[1], while Taiwan's benchmark rose 2.57% past 30,000 points for the first time[1]. The rallies extended last year's artificial intelligence boom, with MSCI's Asia-Pacific stock index climbing as much as 1.7% to an all-time high[2].\n\nSamsung Electronics led gains with a 7.47% surge[1], while Taiwan Semiconductor Manufacturing rocketed more than 5% after Goldman Sachs raised its price target by 35%[3]. SK Hynix climbed 2.81%[1]. US stock futures rose modestly, with S&P 500 futures up 0.1%[4][5].",
+      "audio_url": "",
+      "url": "markets-react-to-us-capture-of-f2ByDZg.RjuelkDt5uliaQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-05T07:33:49.000000Z",
       "title": "Batting class prevails for Head and Root on a fiery day in Sydney",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3f86a04a-d30e-4b5d-b210-bdc2bdbbf1ab",
-      "published_datetime": "2026-01-04T23:24:14.914912",
-      "title": "Venezuelan oil exports frozen after US captures Maduro",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/news/oil-prices-likely-move-higher-191443551.html",
-        "name": "Oil prices likely to move higher on Venezuelan turmoil, ample supply ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--GAV7rylp--/t_limit/https://media.zenfs.com/en/reuters.com/719ea41cf999607c280491e2c4051953",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--dwCrePG7--/t_thumbnail/https://media.zenfs.com/en/reuters.com/719ea41cf999607c280491e2c4051953"
-      },
-      "description": "In an operation President Donald Trump described as a display of overwhelming military power, US forces captured Venezuelan President Nicol\u00e1s Maduro and his wife early Saturday morning in Caracas, marking one of the most dramatic military interventions in recent American history[1][2]. The raid, dubbed Operation Absolute Resolve, has effectively paralyzed Venezuela's oil exports while raising questions about the lengthy timeline to revitalize the country's energy infrastructure.",
-      "audio_url": "",
-      "url": "us-captures-venezuelan-preside-2kpkqp5OSySY11wixyWG6g",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-04T14:25:19.000000Z",
       "title": "Live: Trump doubles down on oil plans for Venezuela, floats US operation in Colombia",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-05T08:22:11.672512"
+  "merged_at": "2026-01-05T08:42:22.717377"
 }
