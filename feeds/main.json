@@ -16,6 +16,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-01-04T23:09:45.000000Z",
+      "title": "Deputy Victorian Opposition Leader Sam Groth won't contest next election",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a47a971dcf9865885829b420d22dc3d1?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=30&amp;width=862&amp;height=485"
+      },
+      "description": "Sam Groth, the deputy leader of the Victorian Liberal Party, has announced he will not contest the upcoming state election in November, saying he made his decision after realising that some recent negative public pressure had come from within his own party.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-05/sam-groth-victorian-liberal-party-deputy-leader-exit-politics/106199004"
+    },
+    {
       "published_datetime": "2026-01-04T22:58:03.000000Z",
       "title": "Djokovic quits players body he co-founded over transparency concerns",
       "featured_image": {
@@ -41,20 +50,20 @@
     },
     {
       "published_datetime": "2026-01-04T22:42:16.000000Z",
-      "title": "Live: Australia desperate for wickets as Root, Brook resume mammoth partnership",
+      "title": "Live: Aussie blunders gift England lives after Root brings up another century",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7fdded60080fef81cac5d39fffd7ddb6?impolicy=wcms_crop_resize&amp;cropH=2214&amp;cropW=3936&amp;xPos=0&amp;yPos=205&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bebaa5f191a2d3c2a4af62ef9feff253?impolicy=wcms_crop_resize&amp;cropH=822&amp;cropW=1461&amp;xPos=3&amp;yPos=43&amp;width=862&amp;height=485"
       },
-      "description": "England builds towards an imposing first-innings total on day two of the SCG Ashes Test after rain and bad light brought an early end to day one. Follow live.",
+      "description": "Jamie Smith avoids getting out in successive deliveries thanks to a no ball and a missed catch after Joe Root scores his second century of the series on day two at the SCG. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-05/ashes-cricket-scg-test-day-two-live-blog/106199006"
     },
     {
       "published_datetime": "2026-01-04T22:14:55.000000Z",
-      "title": "Live: Oil prices on watch after US strikes on Venezuela",
+      "title": "Live: Oil prices rebound after US strikes on Venezuela, ASX flat",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ae9278e857e912d22cbf91b13ce2aec?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
       },
-      "description": "Australian shares are set to edge higher at open, with energy stocks expected to be in focus after the US strike on Venezuela sparked concerns about oil supplies.\u00a0Follow the latest updates in our live blog.",
+      "description": "Australian shares are trading fairly flat on Monday, while oil prices rebound following the US strike on Venezuela that sparked concerns about oversupply. Follow the latest updates in our live blog.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-05/asx-markets-business-live-news-jan05-2026/106198892"
     },
     {
@@ -217,15 +226,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-05/venezuela-maduro-in-custody-blog-january-5/106198380"
     },
     {
-      "published_datetime": "2026-01-04T08:57:18.000000Z",
-      "title": "Damien Martyn awakes from coma in 'some sort of miracle', thanks public",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5d1fd8c3b32c81e3b2aab3dae5f52373?impolicy=wcms_crop_resize&amp;cropH=1350&amp;cropW=2400&amp;xPos=293&amp;yPos=184&amp;width=862&amp;height=485"
-      },
-      "description": "Former Australian Test batsman Damien Martyn is awake and talking after being in an induced coma for several days.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5c658380-44ab-4c4b-9f39-356594d1795a",
       "published_datetime": "2026-01-04T04:24:53.511897",
       "title": "No alien signals found from 3I/ATLAS interstellar object",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-04T23:26:29.003854"
+  "merged_at": "2026-01-05T01:08:44.123494"
 }
