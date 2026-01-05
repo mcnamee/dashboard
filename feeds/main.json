@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-05T07:02:22.000000Z",
+      "title": "Bondi Beach gunman moved to Goulburn Supermax prison",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/72924d9b129058e4c5b1aff5833e2399?impolicy=wcms_crop_resize&amp;cropH=484&amp;cropW=861&amp;xPos=0&amp;yPos=228&amp;width=862&amp;height=485"
+      },
+      "description": "The ABC understands Naveed Akram was moved earlier on Monday from Sydney's Long Bay jail hospital where he has been for the past fortnight.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-05/bondi-beach-gunman-naveed-akram-moved-goulburn-supermax-prison/106201450"
+    },
+    {
+      "published_datetime": "2026-01-05T07:01:15.000000Z",
+      "title": "Nicol\u00e1s Maduro the latest high-profile inmate of NY jail branded \u2018hell on earth\u2019",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/16e772c1591218fd32aa21804da6f400?impolicy=wcms_crop_resize&amp;cropH=2756&amp;cropW=4900&amp;xPos=0&amp;yPos=173&amp;width=862&amp;height=485"
+      },
+      "description": "The facility where detained Venezuelan President Nicol\u00e1s Maduro has been taken is a notorious New York jail that has held a string of high-profile and celebrity criminals, from drug cartel leaders to hip-hop stars.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-05/nicol%C3%A1s-maduro-in-the-new-york-metropolitan-detention-center/106199184"
+    },
+    {
       "published_datetime": "2026-01-05T05:38:48.000000Z",
       "title": "Denmark tells Trump to stop Greenland 'threats'",
       "featured_image": {
@@ -25,15 +43,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-05T05:03:32.000000Z",
-      "title": "US say it now 'runs' Venezuela. Here's the key points to unpack",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0dea8605e5682334dcc8a7f3398b81fd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=258&amp;width=862&amp;height=485"
-      },
-      "description": "These are the key points to get up to speed with what we know about the US strikes on Venezuela and the current state of play after its president was ousted and removed from the country.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-05/what-happened-us-strikes-venezuela-maduro-captured-what-next/106198900"
-    },
-    {
       "published_datetime": "2026-01-05T04:48:13.000000Z",
       "title": "Why did Venezuelan rally go ahead in Sydney despite protest restrictions?",
       "featured_image": {
@@ -50,15 +59,6 @@
       },
       "description": "A farm worker says he was threatened by a man who escaped from Langi Kal Kal prison near Ballarat.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-05/prison-escapee-attacks-farm-worker-langi-kal-kal/106199880"
-    },
-    {
-      "published_datetime": "2026-01-05T03:48:13.000000Z",
-      "title": "Cause of woman's death in custody still 'undetermined' after autopsy",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f282bfb23bb1ed943b128a61383e1ced?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=253&amp;width=862&amp;height=485"
-      },
-      "description": "Police say the cause of a woman's death in a Northern Territory police watch house last month remains \"undetermined\" following a post-mortem examination conducted on Friday.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-05/nt-tennant-creek-watch-house-death-in-custody-post-mortem-result/106199844"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/aa26af17-2e82-402e-a7d2-8b5ad1816596",
@@ -209,11 +209,11 @@
     },
     {
       "published_datetime": "2026-01-04T22:42:16.000000Z",
-      "title": "Live: Stokes removes Weatherald after solid opening partnership",
+      "title": "Live: Stokes strikes after testy clash with Labuschagne to end day two at SCG",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6bc91deac673273d67d91284a1c7ee3b?impolicy=wcms_crop_resize&amp;cropH=2233&amp;cropW=3969&amp;xPos=0&amp;yPos=83&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ab85264379b84cd97a8d4a6af0d1fa4?impolicy=wcms_crop_resize&amp;cropH=1489&amp;cropW=2647&amp;xPos=0&amp;yPos=122&amp;width=862&amp;height=485"
       },
-      "description": "Jake Weatherald fails to capitalise on two dropped chances as Ben Stokes strikes after the first drinks break in the final session. Follow live.\u00a0",
+      "description": "Marnus Labuschagne falls two runs short of a Test half-century, nicking off to Ben Stokes immediately after clashing with the England captain. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-05/ashes-cricket-scg-test-day-two-live-blog/106199006"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-05T06:26:46.169561"
+  "merged_at": "2026-01-05T07:22:35.510707"
 }
