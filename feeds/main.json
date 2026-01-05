@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-05T08:56:53.000000Z",
+      "title": "'Completely false': Trump's claims about stolen oil refuted",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ab79944680fb68d074dda4814791bd6d?impolicy=wcms_crop_resize&amp;cropH=2226&amp;cropW=3958&amp;xPos=457&amp;yPos=1017&amp;width=862&amp;height=485"
+      },
+      "description": "US President Donald Trump has said Venezuela stole United States oil assets. The truth experts say is much more complex than that.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-05/why-venezuelan-oil-is-not-stolen-from-the-united-states/106200804"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dcf9070f-7774-4dbb-8d90-5c407f09aa2e",
       "published_datetime": "2026-01-05T07:50:44.799527",
       "title": "Asian stocks hit record highs as tech rally continues",
@@ -26,7 +35,7 @@
     },
     {
       "published_datetime": "2026-01-05T07:21:24.000000Z",
-      "title": "How a 'ruthless' energy company went after a pensioner for $10k he didn't owe",
+      "title": "How a 'ruthless' energy company went after a pensioner for money he didn't owe",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e5a0ef9d0b0a2e825fe6bc28a2dc3fa3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -110,15 +119,6 @@
       "audio_url": "",
       "url": "samsung-warns-unprecedented-me-J3To0bdKTSSQn95ADXOw9w",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-05T04:48:13.000000Z",
-      "title": "Why did Venezuelan rally go ahead in Sydney despite protest restrictions?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8cfd55d859fac0d34aa63d6105edc683?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=52&amp;width=862&amp;height=485"
-      },
-      "description": "New laws restricting protests were recently passed in NSW, yet close to 300 people took to the streets of Sydney after the US attack on Venezuela.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-05/nsw-explainer-protest-ban-bondi-as-venezuelans-rally-in-sydney/106199170"
     },
     {
       "published_datetime": "2026-01-05T04:43:11.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-05T08:42:22.717377"
+  "merged_at": "2026-01-05T09:24:31.363049"
 }
