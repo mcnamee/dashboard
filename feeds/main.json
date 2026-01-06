@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-06T09:50:37.000000Z",
+      "title": "Clark denies confrontation with CA boss after interview ban",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7bb31c86908b5b5fbf7208ef4b458c31?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
+      },
+      "description": "Stuart Clark opens up on his conversation with Cricket Australia chief Todd Greenberg after his stinging criticism.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-06/cricket-stuart-clark-todd-greenberg-controversial-comments/106205010"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c4ca4d4f-21b8-4863-b8c0-3791299542be",
       "published_datetime": "2026-01-06T08:08:11.175883",
       "title": "AMD unveils AI chips, gaming processors at CES",
@@ -65,7 +74,7 @@
     },
     {
       "published_datetime": "2026-01-06T06:14:30.000000Z",
-      "title": "Ben Austin's death rocked Australia. His parents speak for the first time",
+      "title": "'It wasn't your fault': Ben Austin's parents offer support for other boy involved in cricket tragedy",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cd5af69e1dc0ef9c60e8df65a7d8f30d?impolicy=wcms_crop_resize&amp;cropH=2384&amp;cropW=4238&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -143,15 +152,6 @@
       },
       "description": "The US capture of Venezuelan President Nicol\u00e1s Maduro left the country with an uncertain future, sparked concern among regional neighbours and could embolden other countries in territorial disputes, some experts say.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-06/what-could-happen-in-venezuela-next-after-maduro-capture/106199800"
-    },
-    {
-      "published_datetime": "2026-01-06T01:49:56.000000Z",
-      "title": "EU, Britain condemn sexualised deepfake images spreading on X",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c7fc1754a75e147a009d3160b877a308?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=450&amp;width=862&amp;height=485"
-      },
-      "description": "A digital undressing spree on Elon Musk's social media site has prompted investigations from countries including France, India and Malaysia.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-06/eu-britain-join-condemnation-of-grok-ai-sexual-images/106203054"
     },
     {
       "published_datetime": "2026-01-06T01:30:24.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-06T09:33:43.498325"
+  "merged_at": "2026-01-06T10:15:25.362014"
 }
