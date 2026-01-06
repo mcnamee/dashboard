@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-06T07:16:49.000000Z",
+      "title": "Smith treats Sydney to a Smudge Day, in all its weird and wonderful glory",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98c832aaf6d34793876e31638687b934?impolicy=wcms_crop_resize&amp;cropH=2091&amp;cropW=3718&amp;xPos=0&amp;yPos=284&amp;width=862&amp;height=485"
+      },
+      "description": "Steve Smith was at his bizarre best on day three in Sydney, grinding England into the dust with his scintillating strokeplay and trademark oddness.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-06/ashes-fifth-test-day-three-steve-smiths-smudge-day/106203528"
+    },
+    {
       "published_datetime": "2026-01-06T06:51:59.000000Z",
-      "title": "Calls for a royal commission into Bondi are an untenable political distraction",
+      "title": "Calls for a royal commission into Bondi an untenable political distraction",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/33cfc2f222803726f44ad66579652966?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=112&amp;width=862&amp;height=485"
       },
@@ -163,15 +172,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-05T22:24:04.000000Z",
-      "title": "Sparkling Smith guides Australia to dominant position at the SCG",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/06c10c030a4a80a6d3ab9548260099ff?impolicy=wcms_crop_resize&amp;cropH=1740&amp;cropW=3094&amp;xPos=0&amp;yPos=85&amp;width=862&amp;height=485"
-      },
-      "description": "Australia leads England by 134 first-innings runs after a dominant day three at the SCG, puntuated by centuries to Travis Head and Steve Smith.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-06/ashes-live-scg-test-day-three-australia-england/106202206"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9aad95b3-981d-48cc-b297-d1211f6d258a",
       "published_datetime": "2026-01-05T21:22:52.232900",
       "title": "Hyundai to mass-produce Boston Dynamics Atlas robot",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-06T07:19:52.996332"
+  "merged_at": "2026-01-06T08:20:14.743019"
 }
