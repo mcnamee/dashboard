@@ -1,8 +1,65 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-06T22:35:55.000000Z",
+      "title": "Live: Smith and Webster looking to go big as Ashes nears its end",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f7d00540a710d3b4c1a685bc23d36176?impolicy=wcms_crop_resize&amp;cropH=2570&amp;cropW=4569&amp;xPos=0&amp;yPos=48&amp;width=862&amp;height=485"
+      },
+      "description": "Steve Smith and Beau Webster are trying to take Australia's lead into insurmountable territory on day four of the fifth and final Ashes Test at the SCG. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-07/ashes-live-scg-fifth-test-australia-england/106205818"
+    },
+    {
+      "published_datetime": "2026-01-06T22:05:08.000000Z",
+      "title": "Surprise proposal at school leaves WA teacher in shock",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4694a118c11c1401f3a2ee35fca4e760?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=108&amp;width=862&amp;height=485"
+      },
+      "description": "Students at one of Western Australia's most remote schools help play a part in a special proposal for two of their teachers.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-07/wyndham-teachers-proposal-kimberley-school-engagement/106173942"
+    },
+    {
+      "published_datetime": "2026-01-06T22:04:54.000000Z",
+      "title": "Live: Heatwave warnings for large parts of Australia as bushfire risk soars",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9e0f616c038540a157c1704ac1efe71?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Large areas of Australia, from Western Australia's north-west to Tasmania's north-east, have been issued with severe to extreme heatwave warnings from Wednesday to Saturday. Follow our live blog.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-07/australia-heatwave-victoria-sa-fire-risk-january-7/106205674"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0d6e7dfc-1fd5-4c05-8793-744ca5799e46",
+      "published_datetime": "2026-01-06T21:34:18.653676",
+      "title": "Robot vacuums climb stairs as CES showcases physical AI",
+      "featured_image": {
+        "url": "https://www.theverge.com/tech/852121/roborock-saros-rover-stair-climbing-robot-vacuum-ces-2026",
+        "name": "Roborock's Rover walks, jumps, and vacuums your stairs - The Verge",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--hOygev2R--/t_limit/https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC01392.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%252C10.806933475316%252C100%252C78.386133049368%26w%3D1200",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--MI4IpjLn--/t_thumbnail/https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC01392.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%252C10.806933475316%252C100%252C78.386133049368%26w%3D1200"
+      },
+      "description": "The world's largest technology showcase opened its doors in Las Vegas on Monday with a decisive pivot toward \"physical AI\"\u2014systems that move, navigate, and operate in real-world environments rather than just processing data on screens. Chipmakers Nvidia, AMD, and Intel unveiled next-generation processors designed to power this shift, while robot manufacturers demonstrated machines that can finally tackle one of home automation's last frontiers: climbing stairs.\n\nNvidia CEO Jensen Huang kicked off the show by announcing the Vera Rubin platform, a next-generation AI superchip architecture now in full production that the company claims offers more than triple the speed of its current Blackwell chips[1][2]. The platform, named after astronomer Vera Rubin, combines six chips into what Nvidia calls \"one AI supercomputer,\" with products expected to roll out from partners in the second half of 2026[2][3].\n\n\"The moment for physical AI has arrived\u2014when machines start to comprehend, reason, and operate in the real world,\" Huang said during his keynote[4]. He also unveiled Alpamayo, an AI model for autonomous vehicles that uses vision-language-action models to handle unfamiliar driving scenarios[2][5]. Mercedes-Benz CEO Ola K\u00e4llenius reported testing the Nvidia-powered system on public roads, driving for more than an hour through heavy traffic, with the vehicles expected to launch in the first quarter of 2026[2].\n\nAMD CEO Lisa Su showcased the company's Ryzen AI 400 series processors for PCs, claiming 1.3 times faster multitasking and 1.7 times quicker content creation compared to competitors[6][7]. The company also detailed its forthcoming MI500 series data center GPUs, asserting they will deliver up to a 1,000-fold enhancement in AI performance compared to the MI300X GPUs[7]. Intel announced its Panther Lake processors, branded as Core Ultra Series 3, featuring up to 180 platform TOPS (trillions of operations per second) for AI acceleration and claiming more than 50% faster CPU and graphics performance versus the previous generation[8]",
+      "audio_url": "",
+      "url": "ai-and-robotics-dominate-ces-2-2KxChDY0QNylWFkNsPdcnw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/21f7370c-398b-4f0f-baef-948eadeb50ec",
+      "published_datetime": "2026-01-06T21:22:35.367651",
+      "title": "Europa may lack energy to support life, study says",
+      "featured_image": {
+        "url": "https://www.space.com/15498-europa-sdcmp.html",
+        "name": "Europa: A guide to Jupiter's icy moon | Space",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--fjnr90EO--/t_limit/https://cdn.mos.cms.futurecdn.net/sAY6F2ycuhXAfU39JVcrHF-1920-80.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--uK2UXhW0--/t_thumbnail/https://cdn.mos.cms.futurecdn.net/sAY6F2ycuhXAfU39JVcrHF-1920-80.jpg"
+      },
+      "description": "A new study published this week suggests that Jupiter's moon Europa\u2014long considered one of the most promising places to search for extraterrestrial life\u2014may lack the underwater geological activity necessary to sustain organisms in its vast subsurface ocean[1][2][3][4].\n\nResearchers led by Paul Byrne, an associate professor of Earth, environmental, and planetary sciences at Washington University in St. Louis, calculated that Europa's seafloor is likely too quiet to support life today[2][3][5]. The study, published January 5 in Nature Communications, concludes that the moon probably lacks tectonic motion, warm hydrothermal vents, or other underwater geologic activity that would provide energy for potential life forms[1][2]",
+      "audio_url": "",
+      "url": "study-finds-europa-unlikely-to-u6zNYOMrSxedPdayP9PYQA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-06T21:19:49.000000Z",
-      "title": "Ukraine secures pledge for security guarantees from European allies",
+      "title": "Europe, US and NATO leaders agree to provide security guarantees to Ukraine",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1a66236352b201a48ce705e10300b3e5?impolicy=wcms_crop_resize&amp;cropH=2093&amp;cropW=3720&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -10,21 +67,12 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/ukraine-european-leaders-security-guarantee-agreement/106205560"
     },
     {
-      "published_datetime": "2026-01-06T19:46:18.000000Z",
-      "title": "Australians trapped on Yemeni island after flare-up between Saudis and UAE",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/96d84a8a1e359ce6dbcb95d02d024818?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=182&amp;width=862&amp;height=485"
-      },
-      "description": "Australians are among hundreds of tourists scrambling to leave a remote Yemeni island, as a crisis on the mainland between Saudi Arabia and the United Arab Emirates causes travel chaos.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-07/australians-trapped-socotra-island-yemen-saudi-arabia-uae/106205342"
-    },
-    {
       "published_datetime": "2026-01-06T19:46:08.000000Z",
       "title": "'High volume' response after application for QVB windows to be made clear",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0834f4c7c39f292c41fb7caff6690442?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=72&amp;width=862&amp;height=485"
       },
-      "description": "Dozens of people have expressed opposition against a proposal to remove some of Queen Victoria Building's iconic coloured glass windows, after a development application stated they were not \"fit for purpose in the eyes of global retail brands\".",
+      "description": "Dozens of people express opposition against a proposal to remove some of Queen Victoria Building's iconic coloured glass windows, after a development application stated they were not \"fit for purpose in the eyes of global retail brands\".",
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/nsw-sydney-queen-victoria-building-coloured-glass-clear-proposal/106200064"
     },
     {
@@ -106,24 +154,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/venezuela-us-maduro-mission-kills-dozens-live-blog-january-7/106205158"
     },
     {
-      "published_datetime": "2026-01-06T19:07:56.000000Z",
-      "title": "A missing mother, the desolate desert and a $500k reward",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18741243d1495f2b246fcc8250742d3a?impolicy=wcms_crop_resize&amp;cropH=2895&amp;cropW=5147&amp;xPos=0&amp;yPos=538&amp;width=862&amp;height=485"
-      },
-      "description": "Angie Fuller has been missing for three years. Police are offering an equal record reward for information into what they believe is a suspected outback murder.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-07/angie-fuller-missing-reward-tanami-highway-suspected-murder/105996614"
-    },
-    {
-      "published_datetime": "2026-01-06T18:56:29.000000Z",
-      "title": "Day-by-day guide to most severe southern Australia heatwave in years",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fabe1c4e15c160fa4d8129562a86b344?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=365&amp;width=862&amp;height=485"
-      },
-      "description": "Southern Australia will collectively bake this week through the most intense spell of heat in years as temperatures soar up to 15 degrees Celsius above the mid-summer average.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-07/weather-heatwave-southern-australia-day-by-day-temperatures/106204522"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c6e8265a-f666-4904-a18b-ce51fc7b7a57",
       "published_datetime": "2026-01-06T18:29:43.807819",
       "title": "Israel opens bidding for West Bank settlement to split territory",
@@ -194,42 +224,12 @@
     },
     {
       "published_datetime": "2026-01-06T17:27:37.000000Z",
-      "title": "European leaders rally behind Greenland amid threats of Trump takeover",
+      "title": "US discussing possible military options in pursuit of acquiring Greenland",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3ee390ce6dde876b4ebe7a395c59e996?impolicy=wcms_crop_resize&amp;cropH=2037&amp;cropW=3621&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "The US president and his officials are continuing to push for an American takeover of the Danish territory in the wake of their successful Venezuela operation, saying the island is needed for national security.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/european-leaders-back-greenland-after-trump-threats/106205394"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0159359c-e04c-4a93-a51c-e21cb4dac5cd",
-      "published_datetime": "2026-01-06T16:47:56.287305",
-      "title": "Japanese teams advance quantum computing with error correction breakthrough",
-      "featured_image": {
-        "url": "https://newsroom.ibm.com/2025-06-23-ibm-and-riken-unveil-first-ibm-quantum-system-two-outside-of-the-u-s",
-        "name": "IBM and RIKEN Unveil First IBM Quantum System Two Outside of ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--aWPTt7qS--/t_limit/https://newsroom.ibm.com/image/IBM-Quantum_System-Two_Riken__social.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--kb0kb9y7--/t_thumbnail/https://newsroom.ibm.com/image/IBM-Quantum_System-Two_Riken__social.jpg"
-      },
-      "description": "Japanese research teams are making parallel strides in quantum computing, with scientists at Institute of Science Tokyo achieving near-theoretical performance in error correction while RIKEN develops software to merge quantum computers with supercomputers.\n\nA team led by Associate Professor Kenta Kasai at Institute of Science Tokyo has developed quantum error-correction codes that approach the theoretical limit known as the hashing bound, according to research published in npj Quantum Information[1][2][3][4]. The codes achieved a frame error rate as low as 10\u207b\u2074 for systems with hundreds of thousands of qubits, with decoding complexity that scales proportionally to the number of physical qubits\u2014addressing a major barrier to practical quantum computing[1][2].\n\nTraditional quantum error-correction methods hit an accuracy ceiling far below theoretical limits, requiring heavy computation that made large-scale systems impractical[1][2]. Kasai and Master's student Daiki Komoto constructed low-density parity-check codes defined over non-binary finite fields that handle both bit-flip and phase-flip errors simultaneously[3][5]. \"Our quantum error-correcting code has a greater than 1/2 code rate, targeting hundreds of thousands of logical qubits,\" Kasai said[3][4]. The breakthrough could enable quantum computers to scale to millions of logical qubits, potentially advancing drug discovery, cryptography and climate prediction[1][6].",
-      "audio_url": "",
-      "url": "japanese-teams-advance-quantum-tGtyiBrCRUOwSua_r_tj_g",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d3ee51fd-a40e-4e17-bdb4-8c554c4d037d",
-      "published_datetime": "2026-01-06T16:08:34.382934",
-      "title": "One in five solar panels degrades twice as fast as expected, UNSW study finds",
-      "featured_image": {
-        "url": "https://www.exponent.com/article/shedding-light-solar-panel-degradation",
-        "name": "Shedding Light on Solar Panel Degradation - Exponent",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--0HotazJT--/t_limit/https://www.exponent.com/sites/default/files/styles/og_image/public/media/images/GettyImages-1170098138%25281%2529.jpg%3Fitok%3DHEPmV6pk",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--M5NbVlVw--/t_thumbnail/https://www.exponent.com/sites/default/files/styles/og_image/public/media/images/GettyImages-1170098138%25281%2529.jpg%3Fitok%3DHEPmV6pk"
-      },
-      "description": "Researchers at the University of New South Wales have uncovered a troubling pattern in solar panel performance, finding that approximately 20% of panels examined degrade much more rapidly than industry expectations, potentially lasting only half their anticipated 25-year lifespan.\n\nThe study, published in IEEE and released January 5, analyzed data from nearly 11,000 photovoltaic systems worldwide to investigate what scientists call the \"long tail\" problem\u2014where a subset of panels fails far more quickly than the average degradation rate[1][2][3].\n\n\"Most solar systems are designed to last around 25 years, based on their warranty period,\" said Yang Tang, a PhD student at UNSW's School of Photovoltaic and Renewable Energy Engineering and co-author of the paper[1][3][4]. \"For the entire dataset, we observed that system performance typically declines by around 0.9% per year. However, at least one in five systems degrade at least 1.5 times faster than this typical rate, and roughly one in 12 degrade twice as fast.\"\n\nFor operators of solar farms where hundreds of thousands of panels are installed, the findings represent a hidden financial risk that challenges the economic models underpinning the industry's growth[1][2][3].",
-      "audio_url": "",
-      "url": "unsw-study-finds-20-percent-of-n5ni8eJ0T8uzqEg5PEng1Q",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-06T06:51:59.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-06T22:13:54.892337"
+  "merged_at": "2026-01-06T23:13:30.172687"
 }
