@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a4a0babc-cb3d-4987-b232-dba487fce268",
+      "published_datetime": "2026-01-06T10:23:18.221360",
+      "title": "NASA's Artemis II to roll out to launch pad within two weeks",
+      "featured_image": {
+        "url": "https://www.yahoo.com/news/articles/artemis-ii-rollout-less-two-225631811.html",
+        "name": "Artemis II rollout 'less than two weeks away,' launch window opens ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--xpdEkulK--/t_limit/https://media.zenfs.com/en/whnt_huntsville_articles_930/caba5b2f2989c52485f59b52b5b1b034",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--tQ63ystR--/t_thumbnail/https://media.zenfs.com/en/whnt_huntsville_articles_930/caba5b2f2989c52485f59b52b5b1b034"
+      },
+      "description": "NASA announced Friday that its Artemis II mission is less than two weeks away from rolling out to the launch pad, marking the first step toward returning astronauts to lunar orbit after more than five decades[1]. The announcement signals the beginning of what industry observers are calling an unprecedented year for moon missions, with at least five commercial lunar landers also targeting 2026 launches alongside NASA's flagship program[2].\n\nNASA Press Secretary Bethany Stevens confirmed that the agency's Space Launch System rocket will move to the launch pad by mid-January, with a launch window opening February 6 and extending through April[1][3]. The mission will send four astronauts\u2014NASA's Reid Wiseman, Victor Glover, and Christina Koch, along with the Canadian Space Agency's Jeremy Hansen\u2014on a roughly 10-day journey around the moon[4][5]. It will mark the first time humans have traveled beyond low-Earth orbit since Apollo 17 in 1972[5][6].",
+      "audio_url": "",
+      "url": "2026-sees-surge-in-moon-missio-KxFVzVCWTPKr3236RDepbg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-06T09:50:37.000000Z",
       "title": "Clark denies confrontation with CA boss after interview ban",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9aad95b3-981d-48cc-b297-d1211f6d258a",
-      "published_datetime": "2026-01-05T21:22:52.232900",
-      "title": "Hyundai to mass-produce Boston Dynamics Atlas robot",
-      "featured_image": {
-        "url": "https://www.theverge.com/news/853973/hyundai-boston-dynamics-atlas-robot-factory-2028",
-        "name": "Boston Dynamics\u2019 Tesla Bot rival Atlas will start building Hyundai cars in 2028",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--UhOqGkoD--/t_limit/https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/YT-Pre-Launch-Thumbnail.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%252C3.4613147178592%252C100%252C93.077370564282%26w%3D1200",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--JLPo8PKs--/t_thumbnail/https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/YT-Pre-Launch-Thumbnail.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%252C3.4613147178592%252C100%252C93.077370564282%26w%3D1200"
-      },
-      "description": "Hyundai Motor Group announced Monday at CES 2026 in Las Vegas that it will mass-produce Boston Dynamics' Atlas humanoid robot, with plans to manufacture 30,000 units annually by 2028 and deploy them across its manufacturing facilities[1][2][3][4].\n\nThe South Korean automaker revealed the production-ready version of Atlas during its keynote presentation, marking the first public demonstration of the all-electric humanoid robot outside of carefully edited videos[1][5]. The announcement signals a major shift in industrial automation, as one of the world's most advanced humanoid robots transitions from research prototype to commercial product.",
-      "audio_url": "",
-      "url": "hyundai-to-mass-produce-boston-DbNbUhuHRd6orYdkezDDhQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-05T19:35:23.000000Z",
       "title": "Live: Trump accused of lying about reason for Venezuela attack",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-06T11:12:44.630078"
+  "merged_at": "2026-01-06T12:27:53.179132"
 }
