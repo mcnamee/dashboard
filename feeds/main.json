@@ -1,17 +1,26 @@
 {
   "items": [
     {
-      "published_datetime": "2026-01-05T22:52:40.000000Z",
-      "title": "LA-like fires could hit Australian capital cities, report warns",
+      "published_datetime": "2026-01-06T00:13:20.000000Z",
+      "title": "Doctors slam US cut to vaccines recommended for children",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4481da82208647386ac8e67c82c6ef29?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/09c5a552749d8b0a5a49be6dd39ace0f?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Australia's capital cities are increasingly at risk of being affected by a major fire like the one that ravaged Los Angeles last year, according to a new climate report.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-06/bushfire-risk-australia-climate-council-report/106199356"
+      "description": "The US government has taken the unprecedented step of cutting the number of vaccines it recommends for every child, a move long sought by Health Secretary Robert F Kennedy Jr. But medical groups say it undermines protections against diseases. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-06/us-changes-vaccine-advice-for-children/106202478"
+    },
+    {
+      "published_datetime": "2026-01-05T23:47:20.000000Z",
+      "title": "Dragons sign star Rabbitohs forward on massive five-year deal",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1838030502ee5628247f26d84a28646d?impolicy=wcms_crop_resize&amp;cropH=1399&amp;cropW=2487&amp;xPos=0&amp;yPos=215&amp;width=862&amp;height=485"
+      },
+      "description": "Dragons supporters will have to wait until 2027 to see Keaon Koloamatangi wearing the Red V, but the club describes his signing as the \"biggest\" in their recent history.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-06/nrl-keaon-koloamatangi-signs-with-dragons-from-rabbitohs/106202500"
     },
     {
       "published_datetime": "2026-01-05T22:43:41.000000Z",
-      "title": "Trump move on Greenland would mean end of NATO, says Danish leader",
+      "title": "Trump attack on Greenland would mean end of NATO, says Danish leader",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2dbbd093130e5b104d844f391c96e92b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -19,12 +28,42 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-06/trump-move-on-greenland-would-mean-end-of-nato-danish-leader/106202286"
     },
     {
-      "published_datetime": "2026-01-05T22:24:04.000000Z",
-      "title": "Live: Travis Head nearing another Ashes ton to start day three at SCG",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e5db2d28-bdf3-4fcf-be77-3a573a1d1240",
+      "published_datetime": "2026-01-05T22:41:45.975169",
+      "title": "Nvidia, AMD CEOs unveil AI roadmaps as CES 2026 opens",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/242e2d19eb5a1bba967a8d92241c8620?impolicy=wcms_crop_resize&amp;cropH=1361&amp;cropW=2419&amp;xPos=0&amp;yPos=808&amp;width=862&amp;height=485"
+        "url": "https://www.marketscreener.com/news/nvidia-ceo-huang-touts-automotive-ai-at-ces-talk-as-competition-mounts-ce7e59dedf80f52d",
+        "name": "Nvidia CEO Huang touts automotive AI at CES talk as competition mounts",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Xakd-Y3y--/t_limit/https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2026-01/2026-01-05T220947Z_1_LYNXMPEM0416L_RTROPTP_4_TECH-CES-NVIDIA.JPG",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--MeB1pmYM--/t_thumbnail/https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2026-01/2026-01-05T220947Z_1_LYNXMPEM0416L_RTROPTP_4_TECH-CES-NVIDIA.JPG"
       },
-      "description": "Australia is in a strong position to start day three of the fifth and final Ashes Test at the SCG, with Travis Head nearing his third century of the series. Follow live.",
+      "description": "The annual Consumer Electronics Show opened Monday in Las Vegas with artificial intelligence and robotics dominating the event's first day, as Nvidia and AMD CEOs outlined their visions for AI's future while manufacturers unveiled a new generation of home robots designed to handle everyday household tasks.\n\nNvidia CEO Jensen Huang kicked off the show's keynote presentations at 1 p.m. PT, focusing on what he called the \"Physical AI\" era\u2014artificial intelligence that can understand and operate in the real world[1][2][3][4]. The company unveiled Alpamayo, an open-source autonomous driving platform featuring a 10-billion parameter vision language action model designed to help self-driving cars reason through complex scenarios[2][3][4]. \"The ChatGPT moment for physical AI is here, when machines begin to understand, reason and act in the real world,\" Huang said during his presentation[3][5].\n\nLater Monday evening, AMD CEO Lisa Su took the stage at 6:30 p.m. PT to present her company's roadmap for delivering AI solutions \"from cloud to enterprise, edge and devices\"[6][7][8]. The keynote, held at the Palazzo Ballroom at the Venetian, highlighted AMD's position in the competitive AI chip market as the company works to challenge Nvidia's dominance[9][8].",
+      "audio_url": "",
+      "url": "ces-2026-opens-with-ai-and-rob-sRTuki20QiCQNjt5uNF7HQ",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/83af6ab3-8d61-48c5-ba6e-856d3d77ad11",
+      "published_datetime": "2026-01-05T22:30:43.283256",
+      "title": "Lula contacts Venezuela's interim leader after US captures Maduro",
+      "featured_image": {
+        "url": "https://www.gettyimages.com/detail/news-photo/on-december-18-in-brasilia-brazil-the-president-of-brazil-news-photo/2251924836",
+        "name": "President Of Brazil Lula Da Silva Holds A Press Conference",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1767652131/getty_uploads/2251924836_bngajm.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1767652131/getty_uploads/2251924836_bngajm.jpg"
+      },
+      "description": "Brazilian President Luiz In\u00e1cio Lula da Silva spoke with Venezuela's interim President Delcy Rodriguez on Saturday, hours after a US military operation captured and removed Venezuelan leader Nicol\u00e1s Maduro from power, according to Brazil's presidency[1][2][3].\n\nLula called Rodriguez to confirm media reports about the US military action that resulted in Maduro's detention, a Brazilian government source said[2][4][3]. The Brazilian presidency did not provide further details about the call, which marked one of the first high-level diplomatic contacts following the dramatic overnight operation[1][3].",
+      "audio_url": "",
+      "url": "lula-speaks-with-venezuela-s-i-GRIct75fSsGyvMnOonmExA",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-01-05T22:24:04.000000Z",
+      "title": "Live: Neser finally out after Head dropped twice in horror session for England",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/03a25655970b841a618375c9afc756ed?impolicy=wcms_crop_resize&amp;cropH=1336&amp;cropW=2375&amp;xPos=0&amp;yPos=228&amp;width=862&amp;height=485"
+      },
+      "description": "Australia is in a strong position to start day three of the fifth and final Ashes Test at the SCG, with Travis Head having completed his third century of the series. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-06/ashes-live-scg-test-day-three-australia-england/106202206"
     },
     {
@@ -35,6 +74,21 @@
       },
       "description": "With the Australian Open on the horizon, Novak Djokovic does not feel he is well enough prepared to contest next week's Adelaide International.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-06/australian-open-novak-djokovic-out-of-adelaide-international/106202328"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9aad95b3-981d-48cc-b297-d1211f6d258a",
+      "published_datetime": "2026-01-05T21:22:52.232900",
+      "title": "Hyundai to mass-produce Boston Dynamics Atlas robot",
+      "featured_image": {
+        "url": "https://www.theverge.com/news/853973/hyundai-boston-dynamics-atlas-robot-factory-2028",
+        "name": "Boston Dynamics\u2019 Tesla Bot rival Atlas will start building Hyundai cars in 2028",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--UhOqGkoD--/t_limit/https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/YT-Pre-Launch-Thumbnail.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%252C3.4613147178592%252C100%252C93.077370564282%26w%3D1200",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--JLPo8PKs--/t_thumbnail/https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/YT-Pre-Launch-Thumbnail.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%252C3.4613147178592%252C100%252C93.077370564282%26w%3D1200"
+      },
+      "description": "Hyundai Motor Group announced Monday at CES 2026 in Las Vegas that it will mass-produce Boston Dynamics' Atlas humanoid robot, with plans to manufacture 30,000 units annually by 2028 and deploy them across its manufacturing facilities[1][2][3][4].\n\nThe South Korean automaker revealed the production-ready version of Atlas during its keynote presentation, marking the first public demonstration of the all-electric humanoid robot outside of carefully edited videos[1][5]. The announcement signals a major shift in industrial automation, as one of the world's most advanced humanoid robots transitions from research prototype to commercial product.",
+      "audio_url": "",
+      "url": "hyundai-to-mass-produce-boston-DbNbUhuHRd6orYdkezDDhQ",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-05T21:09:42.000000Z",
@@ -62,20 +116,20 @@
     },
     {
       "published_datetime": "2026-01-05T20:17:28.000000Z",
-      "title": "Live: ASX set to rise as oil price jumps after strike on Venezuela",
+      "title": "Live: ASX opens in the green as BlueScope jumps to the top",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a9d47382af189dcd80dd34342d48bb28?impolicy=wcms_crop_resize&amp;cropH=2811&amp;cropW=4997&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bc14cb52aeb0a2229561d402432e1faa?impolicy=wcms_crop_resize&amp;cropH=253&amp;cropW=450&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Australian shares are set to jump as the price of oil makes a comeback. Follow the day's events and insights from our business reporters on the ABC News live markets blog. \u00a0",
+      "description": "Australian shares open higher as steel producer BlueScope gains nearly 18 per cent at the open. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-06/asx-markets-business-news-live-updates-tuesday-6-january/106202082"
     },
     {
       "published_datetime": "2026-01-05T19:35:23.000000Z",
-      "title": "Live: 'I am the president': Deposed Venezuelan leader Maduro, wife enter pleas in New York",
+      "title": "Live: Trump accused of 'lying to the American people' about reason for Venezuela attack",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e0793881d654af9fa78138a8ab2eea82?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=7&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6c8e8c785f150f5aa1eb1c1d5e8cf46a?impolicy=wcms_crop_resize&amp;cropH=2610&amp;cropW=4640&amp;xPos=0&amp;yPos=10&amp;width=862&amp;height=485"
       },
-      "description": "Nicol\u00e1s Maduro and his wife face court in New York for the first time since being captured by US forces, as an emergency meeting of the UN Security Council gets underway. Follow live.",
+      "description": "As Nicol\u00e1s Maduro and his wife face court in New York after being captured by US forces, House Democrats leader Hakeem Jeffries has accused US President Donald Trump of lying to the American people about the reason for the attack. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-06/venezuela-maduro-in-court-new-york-live-blog-january-6/106201828"
     },
     {
@@ -148,15 +202,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-05T17:12:42.000000Z",
-      "title": "Maduro tells judge he has been 'kidnapped'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e0793881d654af9fa78138a8ab2eea82?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=7&amp;width=862&amp;height=485"
-      },
-      "description": "Nicol\u00e1s Maduro and Cilia Flores, who were captured in Caracas at the weekend, face multiple drugs and weapons charges.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-06/venezuelan-leader-nicol%C3%A1s-maduro-appears-in-new-york-court/106201846"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/581c5d4b-79fa-40f2-97e2-a3a3e6e4f8f3",
       "published_datetime": "2026-01-05T17:12:30.194907",
       "title": "Galaxy cluster burns five times hotter than predicted",
@@ -187,58 +232,13 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d3482e9a-a43f-42f8-b8e2-0a4f4ba17ec0",
-      "published_datetime": "2026-01-05T16:41:29.191671",
-      "title": "Iran protests death toll hits 20 as crackdown enters ninth day",
+      "published_datetime": "2026-01-05T10:37:17.000000Z",
+      "title": "Prominent Labor figures join calls for antisemitism royal commission",
       "featured_image": {
-        "url": "https://www.npr.org/2026/01/01/g-s1-104241/iran-protests-deaths-economy",
-        "name": "Deaths reported during widening protests in Iran sparked by ailing economy",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Mdv708rZ--/t_limit/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3078%2B0%2B103/resize/1400/quality/100/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fc8%252F1a%252Fe2564b484bd49e0d0fb79bd9284e%252Fap25363522315836.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--SENUHeju--/t_thumbnail/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3078%2B0%2B103/resize/1400/quality/100/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fc8%252F1a%252Fe2564b484bd49e0d0fb79bd9284e%252Fap25363522315836.jpg"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bd6fe53255a9696a83b45774b9ebd7ee?impolicy=wcms_crop_resize&amp;cropH=3215&amp;cropW=5716&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
-      "description": "Nationwide demonstrations in Iran have entered a ninth consecutive day, with at least 20 protesters killed and nearly 1,000 arrested as what began as economic grievances has evolved into broader calls for regime change.\n\nUnrest has been recorded at 222 locations across 78 cities in 26 provinces, according to the U.S.-based Human Rights Activists News Agency[1][2][3]. The protests, initially sparked by Tehran bazaar merchants on December 28, have spread to universities and provincial cities, with demonstrators chanting \"Death to the Dictator\" and \"Death to Khamenei\"[4][5]. Security forces have responded with live ammunition, tear gas, and mass arrests, marking the largest demonstrations since the 2022 protests following Mahsa Amini's death[6][7].",
-      "audio_url": "",
-      "url": "iran-protests-enter-second-wee-KV46_hRbThi3pj22aJT2jw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/90bab6b3-db25-46e3-ad77-274652acbb7f",
-      "published_datetime": "2026-01-05T16:09:14.434254",
-      "title": "Netanyahu vows to block Iran's missile program rebuild",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/israeli-prime-minister-benjamin-netanyahu-holds-a-press-news-photo/2253970255",
-        "name": "President Trump Meets With Israeli PM Netanyahu At His Palm Beach Estate",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1767628607/getty_uploads/2253970255_tiawh6.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1767628607/getty_uploads/2253970255_tiawh6.jpg"
-      },
-      "description": "Israeli Prime Minister Benjamin Netanyahu declared Monday that Israel will not permit Iran to rebuild its ballistic missile industry, stating he and President Donald Trump are aligned on preventing Tehran from reconstituting weapons programs damaged during last year's conflict[1][1].\n\nSpeaking during a Knesset debate, Netanyahu said he and Trump \"will not allow Iran to rebuild its ballistic missile industry, and we certainly won't let it renew its nuclear program,\" emphasizing their shared position that Iran must have zero enrichment capability[1][1]. The statement follows Netanyahu's late December meeting with Trump at Mar-a-Lago, where the two leaders discussed the possibility of launching additional strikes on Iran in 2026[2][3].",
-      "audio_url": "",
-      "url": "netanyahu-vows-israel-will-not-FbrYTuqiTcWg3HhZLGb_og",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d70a199c-e038-4d0e-bf24-54b26fcf08d4",
-      "published_datetime": "2026-01-05T15:57:20.051984",
-      "title": "Bitcoin climbs above $92,000 as whales return",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/news/bitcoins-92k-breakout-spurs-whale-142737903.html",
-        "name": "Bitcoin's $92K Breakout Spurs Whale Activity, But Analysts Temper 2026 Expectations",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Fv08whlA--/t_limit/https://s.yimg.com/ny/api/res/1.2/PIFUeAXchweNl.VUnJ8zBA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/ed263d878990672315ba2a665fbb0664",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--djWZjEwP--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/PIFUeAXchweNl.VUnJ8zBA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/ed263d878990672315ba2a665fbb0664"
-      },
-      "description": "Bitcoin climbed above $92,000 on Monday, signaling a potential shift in momentum as cryptocurrency markets shake off a difficult end to 2025 with renewed institutional interest and a surge in large-holder activity.\n\nThe world's largest cryptocurrency rose as much as 2.3% to $93,323 in early Asian trading, its highest level in three weeks, according to Bloomberg[1]. The rally pushed the total cryptocurrency market capitalization back above $3 trillion[2][3], marking a sharp reversal from the fourth quarter sell-off that saw Bitcoin fall roughly 35% from its October peak above $126,000[4][2].",
-      "audio_url": "",
-      "url": "bitcoin-surges-past-92000-to-s-OmuIs0XyRzK8dV1ttlPuUw",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-05T12:02:37.000000Z",
-      "title": "Bruce Lehrmann launches High Court appeal in latest defamation battle round",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a755ee54d5c3cbaf62c92fecafcf7619?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=109&amp;width=862&amp;height=485"
-      },
-      "description": "Former Liberal staffer Bruce Lehrmann takes his appeal to the High Court against the findings that he, on the balance of probabilities, raped Brittany Higgins in 2019.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-05/bruce-lehrmann-launches-high-court-appeal/106201754"
+      "description": "A group of former Labor MPs, senators and party officials have signed an open letter asking Anthony Albanese to call a national royal commission into the Bondi terror attack.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-05/former-labor-politicians-plead-albanese-royal-commission-bondi/106201744"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-05T23:13:14.817112"
+  "merged_at": "2026-01-06T01:03:06.750964"
 }
