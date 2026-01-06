@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-06T06:51:59.000000Z",
+      "title": "Calls for a royal commission into Bondi are an untenable political distraction",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/33cfc2f222803726f44ad66579652966?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=112&amp;width=862&amp;height=485"
+      },
+      "description": "Whether or not Anthony Albanese believes a federal royal commission is necessary, or even the best use of resources, is now politically irrelevant.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-06/bondi-terror-attack-royal-commission-anthony-albanese/106202808"
+    },
+    {
       "published_datetime": "2026-01-06T06:14:30.000000Z",
-      "title": "'Knew straight away': Ben Austin's parents reflect on the cricket tragedy that shattered their family",
+      "title": "Ben Austin's death rocked Australia. His parents speak for the first time",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cd5af69e1dc0ef9c60e8df65a7d8f30d?impolicy=wcms_crop_resize&amp;cropH=2384&amp;cropW=4238&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -26,7 +35,7 @@
     },
     {
       "published_datetime": "2026-01-06T04:42:45.000000Z",
-      "title": "Buoyed by Maduro's capture, Trump names four places he could hit next",
+      "title": "'It's going down': Trump names four places he could hit next",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/566aa4a0984c9a2dc26109d77545e573?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=624&amp;width=862&amp;height=485"
       },
@@ -92,11 +101,11 @@
     },
     {
       "published_datetime": "2026-01-06T01:30:24.000000Z",
-      "title": "Man arrested in connection to alleged Hanukkah car arson in Melbourne",
+      "title": "Man charged in connection to alleged Hanukkah car arson in Melbourne",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b4bd5980a3d44411e28337f9ebf7f87?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "A man is arrested in connection to an alleged arson attack on a vehicle with a Hanukkah decoration on Christmas morning in Melbourne's south-east.",
+      "description": "A man is charged after an alleged arson attack on a vehicle with a Hanukkah decoration on Christmas morning in Melbourne's south-east.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-06/hanukkah-car-alleged-arson-arrest-st-kilda-east/106203066"
     },
     {
@@ -122,15 +131,6 @@
       "audio_url": "",
       "url": "astronomers-uncover-early-univ-n5Oz8Og7QOCsbDo2Ei5O4Q",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-06T00:13:20.000000Z",
-      "title": "Doctors slam US cut to vaccines recommended for children",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/09c5a552749d8b0a5a49be6dd39ace0f?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The US government takes the unprecedented step of cutting the number of vaccines it recommends for every child, a move long sought by Health Secretary Robert F Kennedy Jr. But medical groups say it undermines protections against diseases. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-06/us-changes-vaccine-advice-for-children/106202478"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e5db2d28-bdf3-4fcf-be77-3a573a1d1240",
@@ -164,11 +164,11 @@
     },
     {
       "published_datetime": "2026-01-05T22:24:04.000000Z",
-      "title": "Live: Steve Smith notches vital century as Australia takes control of SCG Test",
+      "title": "Sparkling Smith guides Australia to dominant position at the SCG",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/06c10c030a4a80a6d3ab9548260099ff?impolicy=wcms_crop_resize&amp;cropH=1740&amp;cropW=3094&amp;xPos=0&amp;yPos=85&amp;width=862&amp;height=485"
       },
-      "description": "The runs are flowing and the quirks are in full effect as Steve Smith's first Ashes ton on home soil since 2017 guides Australia into a first-innings lead on the third day of the SCG Test. Follow live.",
+      "description": "Australia leads England by 134 first-innings runs after a dominant day three at the SCG, puntuated by centuries to Travis Head and Steve Smith.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-06/ashes-live-scg-test-day-three-australia-england/106202206"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-06T06:21:43.590457"
+  "merged_at": "2026-01-06T07:19:52.996332"
 }
