@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3b9b9f11-4ed7-41a2-8bb1-69c729460962",
+      "published_datetime": "2026-01-06T00:17:10.373542",
+      "title": "Massive early galaxies took different paths, astronomers find",
+      "featured_image": {
+        "url": "https://www.sciencedaily.com/releases/2025/08/250819072201.htm",
+        "name": "Mysterious \u201clittle red dots\u201d could reveal how the first ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--U9Si_q7k--/t_limit/https://www.sciencedaily.com/images/1920/distant-red-galaxies-black-hole-stars.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ab7oZDAb--/t_thumbnail/https://www.sciencedaily.com/images/1920/distant-red-galaxies-black-hole-stars.webp"
+      },
+      "description": "Astronomers have discovered that the universe's most massive galaxies followed strikingly different evolutionary paths in their infancy, with some shutting down star formation early while others remained vigorously active but cloaked in dust.\n\nThe findings, presented today at the 247th meeting of the American Astronomical Society in Phoenix, reveal that ultramassive galaxies containing more than 100 billion stars exhibited diverse behaviors less than 2 billion years after the Big Bang[1][2]. The research challenges assumptions that galaxy evolution proceeded uniformly in the early universe.\n\n\"What is striking is not just that we can detect hidden activity, but that we see such diversity among galaxies with similar masses at the same epoch,\" said Gillian Wilson, vice chancellor for research at UC Merced and professor of physics, who mentored the study[1]. \"That tells us that the shutdown of star formation in the most massive galaxies was neither uniform nor simple.\"",
+      "audio_url": "",
+      "url": "astronomers-uncover-early-univ-n5Oz8Og7QOCsbDo2Ei5O4Q",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-06T00:13:20.000000Z",
       "title": "Doctors slam US cut to vaccines recommended for children",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dcc3f1a4-298b-4bc7-a7dc-4fcd8b253b35",
-      "published_datetime": "2026-01-05T16:50:55.399354",
-      "title": "Trump sets two-month timeline for Greenland as Denmark warns of NATO collapse",
-      "featured_image": {
-        "url": "https://www.pbs.org/newshour/world/were-going-to-get-greenland-trump-said-in-his-address-prime-minister-says-island-isnt-for-sale",
-        "name": "'We're going to get' Greenland, Trump said in his address ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--yIwQeiro--/t_limit/https://d3i6fh83elv35t.cloudfront.net/static/2025/03/GettyImages-2203426391-768x500.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--s79PKcQ3--/t_thumbnail/https://d3i6fh83elv35t.cloudfront.net/static/2025/03/GettyImages-2203426391-768x500.jpg"
-      },
-      "description": "US President Donald Trump escalated threats to seize Greenland on Sunday, telling reporters aboard Air Force One that America \"needs\" the Danish territory for national security and setting a timeline of roughly two months to address the issue[1][2][3]. The declaration followed a military operation in Venezuela that captured President Nicol\u00e1s Maduro, raising alarm that Greenland could be Trump's next target[4][5].\n\nDanish Prime Minister Mette Frederiksen delivered her strongest rebuke yet, stating that \"it makes absolutely no sense to talk about the need for the United States to take over Greenland\"[1][2]. According to Bloomberg, she warned that a US attack on the NATO ally would spell the end of the alliance itself[6]. \"The US has no right to annex any of the three nations in the Danish kingdom,\" Frederiksen said, urging Washington to \"stop the threats against a historically close ally\"[7][8].",
-      "audio_url": "",
-      "url": "trump-threatens-greenland-anne-QYrJ7VuPRgetT_eYY72UBA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-05T10:37:17.000000Z",
       "title": "Prominent Labor figures join calls for antisemitism royal commission",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-06T01:03:06.750964"
+  "merged_at": "2026-01-06T02:11:16.686194"
 }
