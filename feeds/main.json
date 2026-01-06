@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-06T14:55:16.000000Z",
+      "title": "Swiss bar missed years of fire safety inspections before deadly blaze",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0bc9259c9828bae371870469ee0f74c8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "Swiss authorities admitted that fire safety inspections hadn't been carried out since 2019 at Crans-Montana bar where 40 people died on New Year's Eve.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-07/fire-safety-inspections-lapsed-for-years-at-swiss-bar/106205302"
+    },
+    {
+      "published_datetime": "2026-01-06T14:55:14.000000Z",
+      "title": "US set to back Ukrainian defence coalition if peace deal made with Russia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/46b22e91e1b905f8d02b0ea0dcd609fb?impolicy=wcms_crop_resize&amp;cropH=1501&amp;cropW=2668&amp;xPos=0&amp;yPos=83&amp;width=862&amp;height=485"
+      },
+      "description": "A draft statement outlines what Ukraine's allies could commit to if Russia attacks its neighbour again in the future.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-07/coalition-of-the-willing-paris-ceasefire-defence-coalition-us/106205340"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a2c38392-bfdb-44a1-bac3-2cbaf8c78152",
       "published_datetime": "2026-01-06T12:56:29.538982",
       "title": "Boston Dynamics unveils Atlas robot, partners with Google DeepMind",
@@ -223,24 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-06/what-could-happen-in-venezuela-next-after-maduro-capture/106199800"
     },
     {
-      "published_datetime": "2026-01-06T01:30:24.000000Z",
-      "title": "Man charged in connection to alleged Hanukkah car arson in Melbourne",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b4bd5980a3d44411e28337f9ebf7f87?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A man is charged after an alleged arson attack on a vehicle with a Hanukkah decoration on Christmas morning in Melbourne's south-east.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-06/hanukkah-car-alleged-arson-arrest-st-kilda-east/106203066"
-    },
-    {
-      "published_datetime": "2026-01-06T01:30:21.000000Z",
-      "title": "Tributes flow for National Party stalwart after death at home overnight",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fa2d1852f37c83c0a11cbb292079b1ad?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=77&amp;width=862&amp;height=485"
-      },
-      "description": "Known as \"Bozzie\" to his mates and colleagues, Mr Boswell's political career spanned three decades.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-06/former-queensland-senator-ron-boswell-nationals/100104534"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-06T14:15:33.731211"
+  "merged_at": "2026-01-06T15:14:45.371603"
 }
