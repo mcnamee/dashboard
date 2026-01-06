@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0ae75bd3-9a7e-49b5-a62b-f659557f3d9b",
+      "published_datetime": "2026-01-06T11:14:53.176828",
+      "title": "Nikkei 225 closes at record high in historic Asian rally",
+      "featured_image": {
+        "url": "https://finance.yahoo.com/news/ai-bubble-fears-policy-splits-000000063.html",
+        "name": "AI Bubble Fears and Policy Splits Loom Over Asia Stocks in 2026",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--1dYpiBsl--/t_limit/https://s.yimg.com/ny/api/res/1.2/Wxyy4oHYdZ3TeZx7CSq8Uw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/e75cf85e8232b9a5cd0f592c3ca7ffca",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--NkaPhkwb--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/Wxyy4oHYdZ3TeZx7CSq8Uw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/e75cf85e8232b9a5cd0f592c3ca7ffca"
+      },
+      "description": "Tokyo's benchmark Nikkei 225 closed at a record high on Tuesday, capping a historic opening to 2026 for Asian equities as investors pivoted away from U.S. markets toward regional tech stocks and AI-related investments[1][2].\n\nThe Nikkei 225 gained 1.3% to close at 52,518.08, surpassing its previous record set on October 31[1][3]. The rally was led by technology-related shares, including precision tools maker Disco Corp., which surged 6.1%[1]. The broader TOPIX index also reached an all-time high[4][5].",
+      "audio_url": "",
+      "url": "nikkei-225-hits-record-high-as-HQFGoKSlR0mY866tfmo.gw",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a4a0babc-cb3d-4987-b232-dba487fce268",
       "published_datetime": "2026-01-06T10:23:18.221360",
       "title": "NASA's Artemis II to roll out to launch pad within two weeks",
@@ -217,27 +232,12 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/83af6ab3-8d61-48c5-ba6e-856d3d77ad11",
-      "published_datetime": "2026-01-05T22:30:43.283256",
-      "title": "Lula contacts Venezuela's interim leader after US captures Maduro",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/on-december-18-in-brasilia-brazil-the-president-of-brazil-news-photo/2251924836",
-        "name": "President Of Brazil Lula Da Silva Holds A Press Conference",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1767652131/getty_uploads/2251924836_bngajm.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1767652131/getty_uploads/2251924836_bngajm.jpg"
-      },
-      "description": "Brazilian President Luiz In\u00e1cio Lula da Silva spoke with Venezuela's interim President Delcy Rodriguez on Saturday, hours after a US military operation captured and removed Venezuelan leader Nicol\u00e1s Maduro from power, according to Brazil's presidency[1][2][3].\n\nLula called Rodriguez to confirm media reports about the US military action that resulted in Maduro's detention, a Brazilian government source said[2][4][3]. The Brazilian presidency did not provide further details about the call, which marked one of the first high-level diplomatic contacts following the dramatic overnight operation[1][3].",
-      "audio_url": "",
-      "url": "lula-speaks-with-venezuela-s-i-GRIct75fSsGyvMnOonmExA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-05T19:35:23.000000Z",
-      "title": "Live: Trump accused of lying about reason for Venezuela attack",
+      "title": "Venezuelan opposition demands release of all political prisoners \u2014 as it happened",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a52a32c58be55c02791aaa7b0948659f?impolicy=wcms_crop_resize&amp;cropH=1306&amp;cropW=2322&amp;xPos=84&amp;yPos=261&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7056bfd69c8d8d0916fbe5ac2ccda2f2?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "As Nicol\u00e1s Maduro and his wife face court in New York after being captured by US forces, House Democrats leader Hakeem Jeffries has accused US President Donald Trump of lying to the American people about the reason for the attack. Follow live.",
+      "description": "Nicol\u00e1s Maduro and his wife face court in New York after being captured by US forces as House Democrats leader Hakeem Jeffries accuses US President Donald Trump of lying to the American people about the reason for the attack \u2014 as it happened.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-06/venezuela-maduro-in-court-new-york-live-blog-january-6/106201828"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-06T12:27:53.179132"
+  "merged_at": "2026-01-06T13:32:13.396739"
 }
