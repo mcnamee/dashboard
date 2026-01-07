@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-07T07:03:56.000000Z",
+      "title": "Ex-CIA agent convicted of spying for Soviets dies in prison",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/540169c105b0416622d74f12cfe5be88?impolicy=wcms_crop_resize&amp;cropH=1164&amp;cropW=2069&amp;xPos=0&amp;yPos=108&amp;width=862&amp;height=485"
+      },
+      "description": "Aldrich Ames, who was 84, betrayed Western intelligence assets to the Soviet Union and Russia in one of the most damaging intelligence breaches in US history.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-07/cia-turncoat-aldrich-ames-who-sold-us-secrets-to-the-soviets-die/106207464"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e72079d8-ce4f-41aa-a09b-2cb4a69440e0",
+      "published_datetime": "2026-01-07T05:19:28.030888",
+      "title": "Webb telescope finds unexpected dust in primitive galaxy",
+      "featured_image": {
+        "url": "https://www.bbc.com/news/science-environment-64249978",
+        "name": "James Webb telescope traces arcs of dusty star formation",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--2NvIpaZk--/t_limit/https://c.files.bbci.co.uk/DC7F/production/_128274465_weic2301d-1.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--rj7NnLlq--/t_thumbnail/https://c.files.bbci.co.uk/DC7F/production/_128274465_weic2301d-1.jpg"
+      },
+      "description": "NASA's James Webb Space Telescope has detected unexpected types of dust in one of the most chemically primitive galaxies near the Milky Way, upending long-held assumptions about how planets and stars formed in the early universe[1][2][3].\n\nAstronomers using Webb found metallic iron dust and silicon carbide produced by aging stars in the dwarf galaxy Sextans A, along with tiny clumps of complex carbon-based molecules[2][4]. The discoveries, presented at the 247th meeting of the American Astronomical Society in Phoenix, show that even when heavy elements were scarce, stars improvised to forge solid dust grains[5].",
+      "audio_url": "",
+      "url": "webb-telescope-discovers-rare-h6PLHBu2S6ugVtyEbbKWtQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-07T04:10:25.000000Z",
       "title": "Aboriginal artist Bobbi Lockyer in tears as Australia Post loses $4k painting",
       "featured_image": {
@@ -28,7 +52,7 @@
       "published_datetime": "2026-01-07T03:22:41.000000Z",
       "title": "Why does Trump want Greenland and why is it so important?",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/785036cb5cc7cdca9e9b02f483ea3100?impolicy=wcms_crop_resize&amp;cropH=2698&amp;cropW=4796&amp;xPos=0&amp;yPos=40&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3ee390ce6dde876b4ebe7a395c59e996?impolicy=wcms_crop_resize&amp;cropH=2037&amp;cropW=3621&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Donald Trump's continued interest in Greenland is part of his \"America First\" agenda to dominate the Western Hemisphere and contain China's interests in the region.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/why-does-trump-want-greenland-and-why-is-it-so-important/106203650"
@@ -145,6 +169,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/aavegotchi-artificial-intelligence-hallucinations-analysis/106169730"
     },
     {
+      "published_datetime": "2026-01-06T23:21:27.000000Z",
+      "title": "Men charged over alleged international theft syndicate targeting Toyota 4WDs",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c229b7f0eafe7e61774b44cc846a1e64?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=740&amp;width=862&amp;height=485"
+      },
+      "description": "Queensland Police say 60 Toyota LandCruisers and Prados were stolen across Brisbane between October 20 and December 1.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-07/men-charged-toyota-landcruisers-prados-stolen-brisbane/106205532"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ec29e220-d3dd-4764-a574-6b30c38f09ba",
       "published_datetime": "2026-01-06T22:58:17.586023",
       "title": "Nvidia, AMD, Intel unveil AI chip platforms at CES",
@@ -161,11 +194,11 @@
     },
     {
       "published_datetime": "2026-01-06T22:35:55.000000Z",
-      "title": "Live: Webster scores double blow straight after Bethell's first Test century",
+      "title": "Live: Webster lights up SCG as England young gun arrives on Test scene",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/916df138d1009594c53f4eb0f9f1d328?impolicy=wcms_crop_resize&amp;cropH=1320&amp;cropW=2346&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "England is in the driver's seat of the final Ashes Test on the back of 22-year-old Jacob Bethell's maiden first-class century in just his sixth Test match, but a two-wicket Beau Webster over injects life into Australia. Follow live.",
+      "description": "England ends day four with a 119-run lead after a sparkling century to 22-year-old Jacob Bethell. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/ashes-live-scg-fifth-test-australia-england/106205818"
     },
     {
@@ -206,39 +239,6 @@
       "audio_url": "",
       "url": "ai-and-robotics-dominate-ces-2-2KxChDY0QNylWFkNsPdcnw",
       "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/21f7370c-398b-4f0f-baef-948eadeb50ec",
-      "published_datetime": "2026-01-06T21:22:35.367651",
-      "title": "Europa may lack energy to support life, study says",
-      "featured_image": {
-        "url": "https://www.space.com/15498-europa-sdcmp.html",
-        "name": "Europa: A guide to Jupiter's icy moon | Space",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--fjnr90EO--/t_limit/https://cdn.mos.cms.futurecdn.net/sAY6F2ycuhXAfU39JVcrHF-1920-80.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--uK2UXhW0--/t_thumbnail/https://cdn.mos.cms.futurecdn.net/sAY6F2ycuhXAfU39JVcrHF-1920-80.jpg"
-      },
-      "description": "A new study published this week suggests that Jupiter's moon Europa\u2014long considered one of the most promising places to search for extraterrestrial life\u2014may lack the underwater geological activity necessary to sustain organisms in its vast subsurface ocean[1][2][3][4].\n\nResearchers led by Paul Byrne, an associate professor of Earth, environmental, and planetary sciences at Washington University in St. Louis, calculated that Europa's seafloor is likely too quiet to support life today[2][3][5]. The study, published January 5 in Nature Communications, concludes that the moon probably lacks tectonic motion, warm hydrothermal vents, or other underwater geologic activity that would provide energy for potential life forms[1][2]",
-      "audio_url": "",
-      "url": "study-finds-europa-unlikely-to-u6zNYOMrSxedPdayP9PYQA",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-06T20:42:10.000000Z",
-      "title": "Live: ASX adds to gains as inflation slows more than expected",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4408c5d8d3ec25476ceca9f1fbcac56a?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The CPI rose 3.4 per cent in the 12 months to November 2025, according to the latest ABS data \u2014 down from 3.8 per cent in October and below economists' expectations. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-07/asx-markets-business-news-live-updates/106205112"
-    },
-    {
-      "published_datetime": "2026-01-06T17:27:37.000000Z",
-      "title": "US discussing possible military options in pursuit of acquiring Greenland",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3ee390ce6dde876b4ebe7a395c59e996?impolicy=wcms_crop_resize&amp;cropH=2037&amp;cropW=3621&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The US president and his officials are continuing to push for an American takeover of the Danish territory in the wake of their successful Venezuela operation, saying the island is needed for national security.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-07/european-leaders-back-greenland-after-trump-threats/106205394"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-07T06:22:16.692793"
+  "merged_at": "2026-01-07T07:19:30.443649"
 }
