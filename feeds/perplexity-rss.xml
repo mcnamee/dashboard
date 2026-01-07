@@ -11,18 +11,7 @@
       <title>Perplexity Discover</title>
       <link>https://perplexity.ai/discover</link>
     </image>
-    <lastBuildDate>Wed, 07 Jan 2026 15:33:25 +0000</lastBuildDate>
-    <item>
-      <title>Nvidia, AMD, Intel unveil AI chip platforms at CES</title>
-      <link>https://perplexity.ai/discover/you/ces-2026-highlights-major-ai-a-Ky6J4eSiSs2h21OT8jpUXA</link>
-      <description>The world's leading semiconductor companies unveiled their latest artificial intelligence innovations at CES 2026 in Las Vegas this week, with Nvidia, AMD, and Intel all announcing new chip platforms designed to power the next generation of AI applications[1][2][3].
-
-Nvidia CEO Jensen Huang kicked off the show Monday with a keynote focused on "physical AI"—artificial intelligence models trained in virtual environments that can control real-world machines[1][2]. Huang announced the Vera Rubin platform, now in full production, which features six separate chips and can deliver five times the AI computing performance of previous generations[4][2]. The company also introduced Cosmos, a foundational model for simulating physical environments, and Alpamayo, an AI model specifically designed for autonomous vehicles that will be integrated into the new Mercedes-Benz CLA later this year[2]</description>
-      <pubDate>Tue, 06 Jan 2026 22:58:17 +0000</pubDate>
-      <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1767738146/getty_uploads/2254217725_khrhkw.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 07 Jan 2026 16:38:49 +0000</lastBuildDate>
     <item>
       <title>UK, France pledge troops to Ukraine after ceasefire</title>
       <link>https://perplexity.ai/discover/you/uk-france-pledge-troops-to-ukr-E4Qt4FWPSDmHSSLlKcberw</link>
@@ -238,6 +227,19 @@ The operation was conducted by US special operations forces using MH-6 Little Bi
       <pubDate>Wed, 07 Jan 2026 15:05:21 +0000</pubDate>
       <media:group>
         <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--EOEK64FQ--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108248430-17676476452026-01-05t210851z_1141386342_rc25viabdpif_rtrmadp_0_usa-venezuela.jpeg%3Fv%3D1767647717%26w%3D1920%26h%3D1080" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Chinese software flags possible B-21 bomber flaws</title>
+      <link>https://perplexity.ai/discover/you/china-finds-flaws-in-us-b-21-b-te_hNXqcQWe69BWf1pn.XA</link>
+      <description>Chinese researchers have developed advanced simulation software that suggests potential aerodynamic and stability shortcomings in publicly available designs of the United States' B-21 Raider stealth bomber, according to a study published last month in a peer-reviewed aerospace journal.
+
+The software system, called PADJ-X, was detailed in December 2025 by researchers led by Huang Jiangtao from the China Aerodynamics Research and Development Centre in a paper published in Acta Aeronautica et Astronautica Sinica[1][2][3][4]. Using the platform to analyze a B-21-type configuration with 288 parameters, the team found that aerodynamic optimization could increase the aircraft's lift-to-drag ratio by approximately 15 percent and improve the pitching moment from -0.2 to nearly zero, suggesting the current design may not achieve optimal stability for level flight[1][2][4].
+
+The research comes as the B-21 Raider, built by Northrop Grumman, undergoes intensive flight testing at Edwards Air Force Base in California[4][5][6]. A second test aircraft joined the program in September 2025, marking what Air Force Secretary Troy Meink called "substantial momentum" for the sixth-generation stealth bomber[5][6][7].</description>
+      <pubDate>Wed, 07 Jan 2026 15:51:04 +0000</pubDate>
+      <media:group>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--iox-2cWw--/t_thumbnail/https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/01/06/0190ad0b-5172-44f6-b4be-0ff692ce86d5_44821b34.jpg%3Fitok%3DA2OBQgKX%26v%3D1767686387" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>
