@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-07T21:27:34.000000Z",
+      "title": "ICE agent fatally shoots woman amid immigration crackdown",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/38c61dde61b400e48cced0d723e142a6?impolicy=wcms_crop_resize&amp;cropH=1933&amp;cropW=3436&amp;xPos=0&amp;yPos=114&amp;width=862&amp;height=485"
+      },
+      "description": "The mayor of Minneapolis says the Trump administration's claim the incident was self-defence is not true and told Immigration and Customs Enforcement to get out of the city.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-08/us-immigration-agent-fatally-shoots-woman/106208464"
+    },
+    {
       "published_datetime": "2026-01-07T20:21:38.000000Z",
       "title": "Live: ASX to slip, as gold and oil prices trade lower",
       "featured_image": {
@@ -8,24 +17,6 @@
       },
       "description": "The Aussie market is set to open lower as the price of gold and oil drop. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-08/asx-markets-business-news-live-updates-thursday-8-january/106208416"
-    },
-    {
-      "published_datetime": "2026-01-07T19:56:30.000000Z",
-      "title": "NSW police storm house, fatally shoot man after six-hour seige",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/73768e1510a61a8e924f033e53db257a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=77&amp;width=862&amp;height=485"
-      },
-      "description": "Tactical Operations police burst into the Central Coast house and opened fire on a 49-year-old armed with a sharp object who tried to set fire to an officer using an aerosol can, police say.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-08/fatal-police-shooting-siege-nsw-central-coast/106208372"
-    },
-    {
-      "published_datetime": "2026-01-07T19:16:44.000000Z",
-      "title": "A derailed freight train has shut a key railway line. Here's what we know",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/335aa55526bbb5e129f3753e16684c40?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=188&amp;width=862&amp;height=485"
-      },
-      "description": "The derailment of a freight train on a key section of railway in South Australia is affecting all transcontinental train services as heatwave conditions in the area impact the pace of recovery works.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-08/train-derailment-affects-key-south-australian-rail-line/106205992"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/52bd5676-125b-44b7-8d46-561500fb4861",
@@ -59,6 +50,15 @@
       },
       "description": "Paul Silva says he plans to defy NSW's new protest restrictions to rally against Indigenous deaths in custody.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-08/nsw-first-nations-rally-organiser-protest-laws-david-dungay-jr/106207676"
+    },
+    {
+      "published_datetime": "2026-01-07T19:07:04.000000Z",
+      "title": "The latest threat to NATO comes from within",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f4fc8c3e6677e750ccc2393504737302?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump has made it clear he's departing from decades of US foreign policy norms, and once-close allies are now questioning what it could mean for them.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-08/natos-latest-threat-could-be-coming-from-within-donald-trump/106205214"
     },
     {
       "published_datetime": "2026-01-07T19:01:53.000000Z",
@@ -232,13 +232,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/reports-of-man-with-firearm-in-wa-town-mullewa/106208060"
     },
     {
-      "published_datetime": "2026-01-07T08:15:59.000000Z",
-      "title": "UK citizen described as 'good friend' by White Australia movement to be deported",
+      "published_datetime": "2026-01-07T07:33:05.000000Z",
+      "title": "England's brightest hope and biggest blunder sets up Sydney finale",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/532c8cc3aaf735ea6b10a3531f4603a1?impolicy=wcms_crop_resize&amp;cropH=1689&amp;cropW=3000&amp;xPos=0&amp;yPos=68&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/07e20166d619630fb54b7c43f15999aa?impolicy=wcms_crop_resize&amp;cropH=1481&amp;cropW=2633&amp;xPos=0&amp;yPos=271&amp;width=862&amp;height=485"
       },
-      "description": "A foreign national has his visa cancelled and is facing deportation from Australia, amid claims of links to the \"White Australia\" movement.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-07/uk-citizen-suspected-far-right-links-set-to-be-deported/106207522"
+      "description": "Jacob Bethell's brilliant maiden Test century sets up an intriguing finish in Sydney, but leaves everyone bemused as to where this precocious young player has been all summer.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-07/jacob-bethell-englands-hope-sets-up-sydney-finale-day-four-scg/106206644"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-07T21:13:13.899391"
+  "merged_at": "2026-01-07T22:13:30.572596"
 }
