@@ -1,12 +1,21 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-07T20:21:38.000000Z",
+      "title": "Live: ASX to slip, as gold and oil prices trade lower",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/934d18c2d098dc5d193569679b6aff87?impolicy=wcms_crop_resize&amp;cropH=2615&amp;cropW=4650&amp;xPos=0&amp;yPos=243&amp;width=862&amp;height=485"
+      },
+      "description": "The Aussie market is set to open lower as the price of gold and oil drop. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-08/asx-markets-business-news-live-updates-thursday-8-january/106208416"
+    },
+    {
       "published_datetime": "2026-01-07T19:56:30.000000Z",
-      "title": "Man fatally shot by NSW Police after stand-off lasting almost six hours",
+      "title": "NSW police storm house, fatally shoot man after six-hour seige",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/73768e1510a61a8e924f033e53db257a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=77&amp;width=862&amp;height=485"
       },
-      "description": "A 49-year-old man has died after being shot by police during a siege on the NSW Central Coast overnight.\u00a0",
+      "description": "Tactical Operations police burst into the Central Coast house and opened fire on a 49-year-old armed with a sharp object who tried to set fire to an officer using an aerosol can, police say.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-08/fatal-police-shooting-siege-nsw-central-coast/106208372"
     },
     {
@@ -77,21 +86,12 @@
     },
     {
       "published_datetime": "2026-01-07T18:19:46.000000Z",
-      "title": "Emergency warnings remain for multiple bushfires across Victoria",
+      "title": "Reports of property losses as bushfires burn out of control in Victoria",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6128671e6ec88d1541c703a3942b6ef4?impolicy=wcms_crop_resize&amp;cropH=435&amp;cropW=773&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Emergency warnings remain in place as out-of-control blazes continue to burn in Victoria ahead of \"catastrophic\" fire conditions on Friday.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-08/warnings-bushfire-victoria-longwood-mt-lawson-state-park/106207942"
-    },
-    {
-      "published_datetime": "2026-01-07T18:12:39.000000Z",
-      "title": "Forced adoption survivor says Tas compensation figure 'totally inadequate'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29b4e37745e620bfa4c5f8934a2a0bb1?impolicy=wcms_crop_resize&amp;cropH=5346&amp;cropW=9504&amp;xPos=0&amp;yPos=697&amp;width=862&amp;height=485"
-      },
-      "description": "A Tasmanian woman who was forced to give up her newborn daughter in 1969 says decisions about a planned redress scheme, made ahead of consultation, have made her feel worthless.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-08/concerns-about-forced-adoption-redress-scheme-tasmania/106203340"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dd76f9db-d1a8-49e9-a549-ea34ccf72d8d",
@@ -215,11 +215,11 @@
     },
     {
       "published_datetime": "2026-01-07T13:27:37.000000Z",
-      "title": "US forces seize Russian-flagged oil tanker with Venezuela links",
+      "title": "US seizes more tankers as it lays out three-phase plan for Venezuela",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/536d1ef672f7016096ed62cf88dcbdcc?impolicy=wcms_crop_resize&amp;cropH=2304&amp;cropW=4096&amp;xPos=0&amp;yPos=412&amp;width=862&amp;height=485"
       },
-      "description": "The tanker has been evading an American blockade of sanctioned vessels linked to Venezuela's oil industry since December.",
+      "description": "Russia says one of the Venezuela-linked tankers is \"our vessel\" and demands the quick release of its citizens, as the US pledges to continue seizing ships and keep the pressure on Venezuela's interim leaders.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-08/us-intercepts-bella-1-venezuelan-oil-tanker-russia-sub/106208100"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-07T20:33:10.854081"
+  "merged_at": "2026-01-07T21:13:13.899391"
 }
