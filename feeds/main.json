@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-07T07:33:05.000000Z",
+      "title": "England's brightest hope and biggest blunder sets up Sydney finale",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/07e20166d619630fb54b7c43f15999aa?impolicy=wcms_crop_resize&amp;cropH=1481&amp;cropW=2633&amp;xPos=0&amp;yPos=271&amp;width=862&amp;height=485"
+      },
+      "description": "Jacob Bethell's brilliant maiden Test century sets up an intriguing finish in Sydney, but leaves everyone bemused as to where this precocious young player has been all summer.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-07/jacob-bethell-englands-hope-sets-up-sydney-finale-day-four-scg/106206644"
+    },
+    {
       "published_datetime": "2026-01-07T07:03:56.000000Z",
       "title": "Ex-CIA agent convicted of spying for Soviets dies in prison",
       "featured_image": {
@@ -47,15 +56,6 @@
       "audio_url": "",
       "url": "researchers-turn-grain-crops-i-8QcaBCFlSF2uO8rCiBJs1A",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-07T03:22:41.000000Z",
-      "title": "Why does Trump want Greenland and why is it so important?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3ee390ce6dde876b4ebe7a395c59e996?impolicy=wcms_crop_resize&amp;cropH=2037&amp;cropW=3621&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump's continued interest in Greenland is part of his \"America First\" agenda to dominate the Western Hemisphere and contain China's interests in the region.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-07/why-does-trump-want-greenland-and-why-is-it-so-important/106203650"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e726eb3d-496c-4b5f-b099-554653e2621d",
@@ -193,15 +193,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-06T22:35:55.000000Z",
-      "title": "Live: Webster lights up SCG as England young gun arrives on Test scene",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/916df138d1009594c53f4eb0f9f1d328?impolicy=wcms_crop_resize&amp;cropH=1320&amp;cropW=2346&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "England ends day four with a 119-run lead after a sparkling century to 22-year-old Jacob Bethell. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-07/ashes-live-scg-fifth-test-australia-england/106205818"
-    },
-    {
       "published_datetime": "2026-01-06T22:04:54.000000Z",
       "title": "Live: Emergency warnings for fires in Victoria as heatwave sweeps across southern Australia",
       "featured_image": {
@@ -239,6 +230,15 @@
       "audio_url": "",
       "url": "ai-and-robotics-dominate-ces-2-2KxChDY0QNylWFkNsPdcnw",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-01-06T19:07:56.000000Z",
+      "title": "A vast expanse, a missing woman, and doubt she\u2019s even out there at all",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1b351f5fac78d2bf103d44f3b7562b0d?impolicy=wcms_crop_resize&amp;cropH=1151&amp;cropW=2047&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Angie Fuller has been missing for three years. Police are offering an equal record reward for information into what they believe is a suspected outback murder.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-07/angie-fuller-missing-reward-tanami-highway-suspected-murder/105996614"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-07T07:19:30.443649"
+  "merged_at": "2026-01-07T08:19:57.428783"
 }
