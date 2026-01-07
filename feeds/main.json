@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/03bf7929-36ae-43a3-bb18-52ebed5ee0ea",
+      "published_datetime": "2026-01-07T10:00:41.461533",
+      "title": "Rice team reveals catalyst behavior for cleaner vinyl acetate production",
+      "featured_image": {
+        "url": "https://www.miragenews.com/catalyst-breakthrough-may-slash-emissions-1598068/",
+        "name": "Catalyst Breakthrough May Slash Emissions, Stabilize Supply",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_bOVUzMq--/t_limit/https://cdn1.miragenews.com/tmp_cache%3Fcdn%3Dimages.unsplash.com%252Fphoto-1532619675605-1ede6c2ed2b0%253Fixlib%253Drb-4.0.3%2526amp%253Bixid%253DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%2526amp%253Bauto%253Dformat%2526amp%253Bfit%253Dcrop%2526amp%253Bw%253D1170%2526amp%253Bq%253D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Emojxsok--/t_thumbnail/https://cdn1.miragenews.com/tmp_cache%3Fcdn%3Dimages.unsplash.com%252Fphoto-1532619675605-1ede6c2ed2b0%253Fixlib%253Drb-4.0.3%2526amp%253Bixid%253DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%2526amp%253Bauto%253Dformat%2526amp%253Bfit%253Dcrop%2526amp%253Bw%253D1170%2526amp%253Bq%253D80"
+      },
+      "description": "Researchers at Rice University have revealed how molecular structures in industrial catalysts behave during the production of vinyl acetate monomer, findings that could reduce emissions and improve supply chains for materials used in everyday products from adhesives to packaging. The study, published in Nature Communications, was announced on January 5, 2026[1][2].\n\nThe research team, led by Michael Wong, professor of chemical and biomolecular engineering at Rice, demonstrated how palladium-acetate trimers and dimers transform under reaction conditions to control catalyst performance in VAM manufacturing[1]. VAM serves as a core ingredient in adhesives, paints, coatings, packaging, textiles and numerous other consumer products[3][1].",
+      "audio_url": "",
+      "url": "rice-university-unveils-cataly-OgZnHE7ATgmahNX15iW6xA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-07T08:34:49.000000Z",
       "title": "Hottest day in years recorded as bushfire warnings remain",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/96f4d5ef-7039-49d2-b82f-a08e0cdf17df",
-      "published_datetime": "2026-01-06T21:54:13.094966",
-      "title": "Interstellar comet 3I/ATLAS shows no alien signals",
-      "featured_image": {
-        "url": "https://phys.org/news/2025-10-rapid-brightening-interstellar-comet-3iatlas.html",
-        "name": "Rapid brightening of interstellar comet 3I/ATLAS as it nears ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--DuadqskM--/t_limit/https://scx1.b-cdn.net/csz/news/800a/2025/rapid-brightening-of-i.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--6GZFx_Qo--/t_thumbnail/https://scx1.b-cdn.net/csz/news/800a/2025/rapid-brightening-of-i.jpg"
-      },
-      "description": "Astronomers scanning the rare interstellar comet 3I/ATLAS for signs of extraterrestrial technology have found nothing but natural astrophysical processes at work, according to findings released this week by the Breakthrough Listen project[1][2]. The search, which included the most sensitive radio observations ever conducted on an interstellar object, ruled out any continuous radio transmitters stronger than approximately 0.1 watts at the comet's location[1][3][4].\n\nThe 100-meter Green Bank Telescope observed 3I/ATLAS on December 18, 2025, one day before its closest approach to Earth[5][1][6]. Initial scans flagged roughly 470,000 candidate signals, but all were eventually traced to human-made radio interference[2][4]. \"In the end, there were no surprises,\" lead researcher Benjamin Jacobson-Bell told Space.com[5]. Similar searches using the Allen Telescope Array, MeerKAT in South Africa, and other facilities worldwide reached the same conclusion[1][6]",
-      "audio_url": "",
-      "url": "3iatlas-interstellar-comet-sur-RjAfa6v7TGqvF5A5wE6kjg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-06T19:07:56.000000Z",
       "title": "A vast expanse, a missing woman, and doubt she's even out there at all",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-07T10:16:13.579146"
+  "merged_at": "2026-01-07T11:13:53.847045"
 }
