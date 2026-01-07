@@ -11,20 +11,7 @@
       <title>Perplexity Discover</title>
       <link>https://perplexity.ai/discover</link>
     </image>
-    <lastBuildDate>Wed, 07 Jan 2026 07:31:45 +0000</lastBuildDate>
-    <item>
-      <title>Japanese teams advance quantum computing with error correction breakthrough</title>
-      <link>https://perplexity.ai/discover/you/japanese-teams-advance-quantum-tGtyiBrCRUOwSua_r_tj_g</link>
-      <description>Japanese research teams are making parallel strides in quantum computing, with scientists at Institute of Science Tokyo achieving near-theoretical performance in error correction while RIKEN develops software to merge quantum computers with supercomputers.
-
-A team led by Associate Professor Kenta Kasai at Institute of Science Tokyo has developed quantum error-correction codes that approach the theoretical limit known as the hashing bound, according to research published in npj Quantum Information[1][2][3][4]. The codes achieved a frame error rate as low as 10⁻⁴ for systems with hundreds of thousands of qubits, with decoding complexity that scales proportionally to the number of physical qubits—addressing a major barrier to practical quantum computing[1][2].
-
-Traditional quantum error-correction methods hit an accuracy ceiling far below theoretical limits, requiring heavy computation that made large-scale systems impractical[1][2]. Kasai and Master's student Daiki Komoto constructed low-density parity-check codes defined over non-binary finite fields that handle both bit-flip and phase-flip errors simultaneously[3][5]. "Our quantum error-correcting code has a greater than 1/2 code rate, targeting hundreds of thousands of logical qubits," Kasai said[3][4]. The breakthrough could enable quantum computers to scale to millions of logical qubits, potentially advancing drug discovery, cryptography and climate prediction[1][6].</description>
-      <pubDate>Tue, 06 Jan 2026 16:47:56 +0000</pubDate>
-      <media:group>
-        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--kb0kb9y7--/t_thumbnail/https://newsroom.ibm.com/image/IBM-Quantum_System-Two_Riken__social.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 07 Jan 2026 08:39:56 +0000</lastBuildDate>
     <item>
       <title>China bans dual-use exports to Japanese military</title>
       <link>https://perplexity.ai/discover/you/china-bans-dual-use-exports-to-hzuw16VBSXSA8AcsUrevzQ</link>
@@ -256,6 +243,17 @@ Astronomers using Webb found metallic iron dust and silicon carbide produced by 
       <pubDate>Wed, 07 Jan 2026 05:19:28 +0000</pubDate>
       <media:group>
         <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--rj7NnLlq--/t_thumbnail/https://c.files.bbci.co.uk/DC7F/production/_128274465_weic2301d-1.jpg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Korean researchers develop cheaper alternative to nickel superalloys</title>
+      <link>https://perplexity.ai/discover/you/jbnu-kims-develop-cost-effecti-hyg4MWSEQEihjc3NPHNPmA</link>
+      <description>Researchers in South Korea have developed alumina-forming ferritic alloys that match the performance of costly nickel-based superalloys, potentially transforming how power plants and advanced energy systems source critical materials.
+
+The collaborative study between Jeonbuk National University and Korea Institute of Materials Science, published January 1, 2026, in the journal Corrosion Science, demonstrates that the new alloys maintain exceptional oxidation resistance even under prolonged exposure to extreme heat and steam[1][2][3][4][5][6][7].</description>
+      <pubDate>Wed, 07 Jan 2026 07:41:06 +0000</pubDate>
+      <media:group>
+        <media:content url="https://pplx-res.cloudinary.com/image/fetch/s--1LWdm_P3--/t_thumbnail/https://i.ytimg.com/vi/7DUWJnXF2Bg/maxresdefault.jpg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>
