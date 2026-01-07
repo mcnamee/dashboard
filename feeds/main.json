@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-07T04:10:25.000000Z",
+      "title": "Aboriginal artist Bobbi Lockyer in tears as Australia Post loses $4k painting",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9de73ed2650641301a989035ad52797c?impolicy=wcms_crop_resize&amp;cropH=415&amp;cropW=738&amp;xPos=0&amp;yPos=782&amp;width=862&amp;height=485"
+      },
+      "description": "Indigenous artist Bobbi Lockyer has been left frustrated after she sent a $4,000 custom artwork of the Pilbara to a buyer in Queensland, only for an empty cardboard sleeve to be delivered.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-07/auspost-loses-4000-dollar-bobbi-lockyer-artwork-before-xmas/106206356"
+    },
+    {
       "published_datetime": "2026-01-07T03:22:41.000000Z",
       "title": "Why does Trump want Greenland and why is it so important?",
       "featured_image": {
@@ -97,15 +106,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/inflation-abs-monthly-cpi-for-november/106205848"
     },
     {
-      "published_datetime": "2026-01-07T00:12:49.000000Z",
-      "title": "Bayer's Monsanto sues COVID vaccine makers for alleged mRNA infringement",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40e0ef87ac13802c6095fd86901d305c?impolicy=wcms_crop_resize&amp;cropH=1354&amp;cropW=2407&amp;xPos=0&amp;yPos=485&amp;width=862&amp;height=485"
-      },
-      "description": "Bayer's Monsanto has sued Pfizer, BioNTech and Moderna for allegedly misusing its messenger RNA technology in COVID vaccines.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-07/monsanto-sues-pfizer-biontech-moderna-over-covid-vaccines/106206038"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/56ed3cf5-b97b-40fa-aca7-c433ca247fa8",
       "published_datetime": "2026-01-07T00:04:02.582305",
       "title": "UK, France pledge troops to Ukraine after ceasefire",
@@ -146,16 +146,16 @@
     },
     {
       "published_datetime": "2026-01-06T22:35:55.000000Z",
-      "title": "Live: England on the verge of erasing deficit as Bethell nears century",
+      "title": "Live: Jacob Bethell scores first Test century as England takes lead at SCG",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1028406ca39d353647d39c3bbbf04c2d?impolicy=wcms_crop_resize&amp;cropH=2543&amp;cropW=4520&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c3137440efedf5fe4f2943d04dfa90d9?impolicy=wcms_crop_resize&amp;cropH=1567&amp;cropW=2785&amp;xPos=0&amp;yPos=145&amp;width=862&amp;height=485"
       },
-      "description": "Jacob Bethell notches a half century but Joe Root is dismissed cheaply as England fights to stay afloat at the SCG. Follow live.",
+      "description": "England is suddenly in the driver's seat of the final Ashes Test on the back of 22-year-old Jacob Bethell's maiden first-class century in just his sixth Test match. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/ashes-live-scg-fifth-test-australia-england/106205818"
     },
     {
       "published_datetime": "2026-01-06T22:04:54.000000Z",
-      "title": "Live: Evacuation warning issued for fire in Victoria as heatwave sweeps across southern Australia",
+      "title": "Live: Emergency warnings for fires in Victoria as heatwave sweeps across southern Australia",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3dc751a630e0aa0eefe7b3a3625250af?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-07T04:33:33.193233"
+  "merged_at": "2026-01-07T05:19:33.160404"
 }
