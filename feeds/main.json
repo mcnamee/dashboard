@@ -1,17 +1,71 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-07T03:22:41.000000Z",
+      "title": "Why does Trump want Greenland and why is it so important?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/785036cb5cc7cdca9e9b02f483ea3100?impolicy=wcms_crop_resize&amp;cropH=2698&amp;cropW=4796&amp;xPos=0&amp;yPos=40&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump's continued interest in Greenland is part of his \"America First\" agenda to dominate the Western Hemisphere and contain China's interests in the region.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-07/why-does-trump-want-greenland-and-why-is-it-so-important/106203650"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e726eb3d-496c-4b5f-b099-554653e2621d",
+      "published_datetime": "2026-01-07T03:13:16.121870",
+      "title": "Ukraine, US discuss territorial ideas at Paris peace talks",
+      "featured_image": {
+        "url": "https://www.npr.org/2026/01/06/g-s1-104730/progress-ukraine-talks-paris-uncertain",
+        "name": "Ukraine allies agree to security guarantees in peace plan - NPR",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--mbaQG959--/t_limit/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5315x2990%2B0%2B278/resize/1400/quality/100/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F83%252F75%252F2f7e257f480b8f4fa68ffbadadfa%252Fap26006541253818.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--IdXz1dYB--/t_thumbnail/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5315x2990%2B0%2B278/resize/1400/quality/100/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F83%252F75%252F2f7e257f480b8f4fa68ffbadadfa%252Fap26006541253818.jpg"
+      },
+      "description": "US and Ukrainian officials discussed \"some ideas\" to resolve territorial disputes in peace talks held in Paris on Tuesday, with President Volodymyr Zelenskiy identifying the issue as the biggest remaining obstacle to ending Russia's war against Ukraine.\n\n\"The biggest issue that needs to be worked on is the territorial issue. We discussed some ideas that might help,\" Zelenskiy said following a meeting with more than 30 allies in the French capital[1][2]. White House special envoy Steve Witkoff confirmed that land options were discussed during the talks and that consultations would continue[1].\n\nThe territorial question centers on the eastern Donetsk region, where Russia is demanding Ukraine surrender remaining areas under its control. Ukraine previously said the US proposed creating a \"free economic zone\" if Kyiv withdraws from parts of Donetsk still held by Ukrainian forces[1][3]. The proposal would establish a demilitarized area, though uncertainty remains over who would govern the territory[3]",
+      "audio_url": "",
+      "url": "us-and-ukraine-discuss-territo-RocDA.BgQtKGp0Kwe.Jvfw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/73809d32-a6b4-43d4-bda4-41a9a6c42a59",
+      "published_datetime": "2026-01-07T02:32:36.101001",
+      "title": "Nvidia, AMD, Intel unveil competing AI chips at CES",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/01/06/jensen-huang-ces-keynote-ignites-analyst-optimism-on-nvidias-future.html",
+        "name": "Jensen Huang CES keynote ignites analyst optimism on ... - CNBC",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Fa572FqW--/t_limit/https://image.cnbcfm.com/api/v1/image/108248734-1767708572744-gettyimages-2254217333-AFP_89PZ9WR.jpeg%3Fv%3D1767708650%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s---SikYrnv--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108248734-1767708572744-gettyimages-2254217333-AFP_89PZ9WR.jpeg%3Fv%3D1767708650%26w%3D1920%26h%3D1080"
+      },
+      "description": "The world's leading chipmakers showcased next-generation processors and AI platforms at CES 2026 this week, marking an industry-wide shift toward \"physical AI\" systems designed to power robots, autonomous vehicles, and smart factories rather than just data centers[1][2][3][4][5].\n\nNvidia CEO Jensen Huang opened CES on Monday with the surprise announcement that the company's Vera Rubin computing platform is already in full production, months ahead of its previously projected late-2026 timeline[3][6][7]. The six-chip system, which includes the Rubin GPU and new Vera CPU, delivers up to five times more AI training power than the current Blackwell architecture while reducing inference token costs by roughly one-tenth, according to Nvidia[3][6][8].\n\nHuang also unveiled Alpamayo, an open-source family of AI models designed specifically for autonomous vehicles[9][10]. The system uses chain-of-thought reasoning to help self-driving cars navigate complex scenarios and explain their decisions. Mercedes-Benz plans to integrate Alpamayo into its upcoming CLA model, set to arrive at U.S. dealerships in the first quarter of 2026[11]",
+      "audio_url": "",
+      "url": "nvidia-amd-and-intel-unveil-ai-b4_cawS7RXueh8JZ_5ldww",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a398391a-9a8d-4bed-943b-7f90f10209a4",
+      "published_datetime": "2026-01-07T02:16:35.731334",
+      "title": "Iran raids hospitals to detain injured protesters",
+      "featured_image": {
+        "url": "https://abcnews.go.com/International/iran-protests-continue-29-killed-1200-detained-activists/story?id=128939632",
+        "name": "Iran protests continue with at least 29 killed, 1,200 detained, activists ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--8QlxLAy4--/t_limit/https://i.abcnewsfe.com/a/eecc7447-6175-4a63-9c57-f164e354ab85/iran-protest-1-gty-gmh-260106_1767719621150_hpMain_16x9.jpg%3Fw%3D1600",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--d5l-2u5n--/t_thumbnail/https://i.abcnewsfe.com/a/eecc7447-6175-4a63-9c57-f164e354ab85/iran-protest-1-gty-gmh-260106_1767719621150_hpMain_16x9.jpg%3Fw%3D1600"
+      },
+      "description": "Iran's government announced a $7 monthly stipend for citizens as nationwide protests entered their tenth day, with at least 36 people killed and security forces raiding hospitals to detain injured demonstrators\u2014marking the most severe unrest since the 2022 Mahsa Amini uprising.\n\nThe protests, which began December 28 in Tehran's Grand Bazaar, have spread to 27 of Iran's 31 provinces as the country's currency collapsed to a record low of 1.47 million rials to the dollar and inflation reached 42% in December[1][2]. Government spokesperson Fatemeh Mohajerani announced Monday that approximately 80 million Iranians would receive monthly payments of 10 million rials\u2014about $7\u2014starting January 10, redirecting $10 billion previously allocated for import subsidies[3]",
+      "audio_url": "",
+      "url": "iran-faces-largest-protests-si-_mBKQ0WWR1OpoMzrE.4aFA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-07T01:53:32.000000Z",
       "title": "'It feels wrong': Final Bondi terror attack funeral held in Sydney",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4623a1a75b8b954f85e6e15e3c436ac3?impolicy=wcms_crop_resize&amp;cropH=218&amp;cropW=388&amp;xPos=16&amp;yPos=66&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4114cbb96f711fd623025bd1c41c2bc3?impolicy=wcms_crop_resize&amp;cropH=678&amp;cropW=1206&amp;xPos=0&amp;yPos=73&amp;width=862&amp;height=485"
       },
       "description": "A retired detective has been remembered as an \"incredibly moral and honest man\" at a funeral service three weeks after he was killed in the Bondi terror attack.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/funeral-for-bondi-attack-victim-ex-nsw-police-peter-meagher/106205580"
     },
     {
       "published_datetime": "2026-01-07T01:42:04.000000Z",
-      "title": "US forces captured Nicol\u00e1s Maduro. They're still after 'the prince'",
+      "title": "The US may have Nicol\u00e1s Maduro but 'the prince' remains in Caracas",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cd292f6e5fe97270170856bee094524d?impolicy=wcms_crop_resize&amp;cropH=2136&amp;cropW=3797&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
       },
@@ -35,9 +89,9 @@
     },
     {
       "published_datetime": "2026-01-07T00:40:46.000000Z",
-      "title": "Inflation cools but February 'remains in play' for an RBA rate hike",
+      "title": "'Very pleasant surprise': inflation cools but remains above RBA target",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d5e9302ecd54bc597d119f9559da637b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=563&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3720bdd572b096bf25cba281b4222edf?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=100&amp;width=862&amp;height=485"
       },
       "description": "Inflation cooled in November, with the consumer price index rising 3.4 per cent over the year, down from 3.8 per cent a month earlier. Some economists continue to forecast a February rate hike, however.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/inflation-abs-monthly-cpi-for-november/106205848"
@@ -48,7 +102,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40e0ef87ac13802c6095fd86901d305c?impolicy=wcms_crop_resize&amp;cropH=1354&amp;cropW=2407&amp;xPos=0&amp;yPos=485&amp;width=862&amp;height=485"
       },
-      "description": "Bayer's Monsanto has sued Pfizer, BioNTech and Moderna, for allegedly misusing its messenger RNA technology in COVID vaccines.\u00a0",
+      "description": "Bayer's Monsanto has sued Pfizer, BioNTech and Moderna for allegedly misusing its messenger RNA technology in COVID vaccines.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/monsanto-sues-pfizer-biontech-moderna-over-covid-vaccines/106206038"
     },
     {
@@ -92,18 +146,18 @@
     },
     {
       "published_datetime": "2026-01-06T22:35:55.000000Z",
-      "title": "Live: Young England star reaches milestone as Australia toils on day four",
+      "title": "Live: England on the verge of erasing deficit as Bethell nears century",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ca1e16c874fbda2e12d8948bc42a2a2e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=72&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1028406ca39d353647d39c3bbbf04c2d?impolicy=wcms_crop_resize&amp;cropH=2543&amp;cropW=4520&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Jacob Bethell reaches another Test half-century as England fights to erase a deficit and give itself a chance to win the final Ashes Test. Follow live.",
+      "description": "Jacob Bethell notches a half century but Joe Root is dismissed cheaply as England fights to stay afloat at the SCG. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/ashes-live-scg-fifth-test-australia-england/106205818"
     },
     {
       "published_datetime": "2026-01-06T22:04:54.000000Z",
       "title": "Live: Evacuation warning issued for fire in Victoria as heatwave sweeps across southern Australia",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9e0f616c038540a157c1704ac1efe71?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3dc751a630e0aa0eefe7b3a3625250af?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Large areas of Australia, from Western Australia's north-west to Tasmania's north-east, have been issued with severe to extreme heatwave warnings from Wednesday to Saturday. Follow our live blog.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/australia-heatwave-victoria-sa-fire-risk-january-7/106205674"
@@ -176,60 +230,6 @@
       "audio_url": "",
       "url": "colombia-s-petro-defies-trump-lzahViXqRi2JamTGdX8rgg",
       "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b0610385-754a-446d-85be-9d287e346e27",
-      "published_datetime": "2026-01-06T19:39:04.553047",
-      "title": "Nvidia, AMD and Intel unveil AI chip platforms at CES",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/news/nvidia-launches-vera-rubin-its-next-major-ai-platform-at-ces-2026-230045205.html",
-        "name": "Nvidia launches Vera Rubin, its next major AI platform, at CES 2026",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--PtyfE3Lg--/t_limit/https://s.yimg.com/ny/api/res/1.2/j9lPl7M6mN1KFXSBI9g4qw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTU-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/383fce90-ea7e-11f0-aeff-6052c506946d",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--TBWtN6SU--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/j9lPl7M6mN1KFXSBI9g4qw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTU-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/383fce90-ea7e-11f0-aeff-6052c506946d"
-      },
-      "description": "The world's leading chipmakers converged on Las Vegas this week to unveil their latest artificial intelligence computing platforms at CES 2026, with Nvidia CEO Jensen Huang declaring the arrival of \"physical AI\"\u2014artificial intelligence that can understand and act in the real world[1][2][3].\n\nNvidia announced its Vera Rubin platform, a six-chip AI supercomputer now in full production and expected to ship in the second half of 2026[2][4][5]. The platform claims to deliver five times more AI training performance than its Blackwell predecessor while reducing inference token costs by tenfold[6][7]. Huang also introduced Alpamayo, an open-source autonomous driving AI model trained on 1,700 hours of driving data, which Mercedes-Benz will integrate into its upcoming CLA model[3][8][9].\n\nAMD, not to be outdone, showcased its massive Helios rack-scale platform at CEO Lisa Su's keynote. The system weighs 7,000 pounds\u2014equivalent to two compact cars\u2014and houses 72 MI455X GPUs delivering up to 2.9 exaflops of AI inference performance[10][11][12]. The company also unveiled its Ryzen AI 400 series processors for laptops, featuring up to 60 TOPS of AI computing power and set to launch in the first quarter of 2026[10][13][14].\n\nIntel countered with its Core Ultra Series 3 processors, branded Panther Lake, marking the first AI PC platform built on the company's 18A process technology and manufactured in the United States[15][16][17]. The chips will power over 200 PC designs from global partners, with consumer laptops available starting January 27[15][16]. Intel claims up to 180 platform TOPS and promises more than 50 percent faster CPU performance compared to previous generations[16][18].",
-      "audio_url": "",
-      "url": "nvidia-amd-and-intel-unveil-ai-3dghzqUTR7mEJkJ8BFWUDg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a07d597f-16c8-4641-902a-de7b2a29b82b",
-      "published_datetime": "2026-01-06T19:38:12.392050",
-      "title": "Israel and Syria establish intelligence hotline under U.S. supervision",
-      "featured_image": {
-        "url": "https://www.axios.com/2026/01/04/israel-syria-talks-security-agreement-barrack",
-        "name": "Scoop: Israel-Syria talks planned in Paris with U.S. mediating",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--UAcyqTfZ--/t_limit/https://images.axios.com/G3zbBULAx0q_T-86uwhQcytLjyo%3D/0x0:2555x1437/1366x768/2026/01/04/1767546541714.jpeg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--yBXCoRZm--/t_thumbnail/https://images.axios.com/G3zbBULAx0q_T-86uwhQcytLjyo%3D/0x0:2555x1437/1366x768/2026/01/04/1767546541714.jpeg"
-      },
-      "description": "Israel, Syria, and the United States announced Tuesday they have established a joint \"fusion mechanism\" for intelligence sharing and diplomatic coordination, marking a rare moment of formal cooperation between the longtime adversaries. The agreement, reached following the fifth round of U.S.-mediated talks in Paris, also includes plans to expand discussions into civilian areas such as energy, medicine, and agriculture[1][2][3][4].\n\nThe mechanism will function as a standing communication channel supervised by the United States to handle security exchanges, military de-escalation, and commercial opportunities between Jerusalem and Damascus, according to a statement[1][3][4]. U.S. officials pledged the system will \"address disputes promptly\" to prevent misunderstandings[1][4].",
-      "audio_url": "",
-      "url": "israel-and-syria-agree-on-inte-O.jIovNKTwagN_ulUUaQxg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/209d0856-a26b-4ac5-b716-bef3a68076cf",
-      "published_datetime": "2026-01-06T19:36:23.932232",
-      "title": "Iran offers $7 stipend amid protests over economic crisis",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/young-iranian-woman-walks-in-a-shopping-center-in-northern-news-photo/2253536167",
-        "name": "Daily Life In Tehran Following The Latest Unrest In Iran",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1767727905/getty_uploads/2253536167_jtpjkr.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1767727905/getty_uploads/2253536167_jtpjkr.jpg"
-      },
-      "description": "Iran's government announced Monday it will distribute a monthly payment of approximately $7 to citizens in an attempt to quell nationwide protests that have left at least 35 people dead and sparked warnings from President Donald Trump.\n\nGovernment spokesperson Fatemeh Mohajerani said the payments, worth one million tomans, would begin January 10 and aim to \"preserve households' purchasing power, curb inflation, and ensure food security\"[1][2]. The stipend represents a shift from $10 billion in annual import subsidies toward direct cash assistance, though the amount can buy only about 100 eggs, one kilogram of red meat, or several kilograms of rice at current prices[3][4].",
-      "audio_url": "",
-      "url": "iran-offers-7-monthly-stipend-I22jl64aTAC8StrEWfYlRw",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-06T19:21:34.000000Z",
-      "title": "Live: Trump has no Venezuela plan, Schumer says after 'troubling' classified briefing",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/52e1078c867c252f49fb3e4deae6ff78?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Democrats' Senate leader, Chuck Schumer, says he has received a classified briefing from the White House on Donald Trump's plans for Venezuela \u2014 and he's dismayed by the lack of detail. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-07/venezuela-us-maduro-mission-kills-dozens-live-blog-january-7/106205158"
     },
     {
       "published_datetime": "2026-01-06T17:27:37.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-07T03:23:06.620080"
+  "merged_at": "2026-01-07T04:33:33.193233"
 }
