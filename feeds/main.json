@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e7c6e050-cc9d-48e1-8260-1d7b9effd7c3",
+      "published_datetime": "2026-01-07T11:59:20.628188",
+      "title": "AI-powered gadgets steal spotlight at CES 2026",
+      "featured_image": {
+        "url": "https://www.theverge.com/tech/852121/roborock-saros-rover-stair-climbing-robot-vacuum-ces-2026",
+        "name": "Roborock\u2019s Rover walks, jumps, and vacuums your stairs",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--hOygev2R--/t_limit/https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC01392.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%252C10.806933475316%252C100%252C78.386133049368%26w%3D1200",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--MI4IpjLn--/t_thumbnail/https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC01392.jpg%3Fquality%3D90%26strip%3Dall%26crop%3D0%252C10.806933475316%252C100%252C78.386133049368%26w%3D1200"
+      },
+      "description": "Artificial intelligence took center stage at CES 2026 in Las Vegas this week, with major technology companies unveiling AI-powered innovations spanning entertainment, robotics, and health monitoring that aim to reshape how people work and play.\n\nThe four-day consumer electronics showcase, which opened Tuesday, featured demonstrations across 2.6 million square feet of exhibit space, drawing thousands of exhibitors eager to display products planned for store shelves this year[1].",
+      "audio_url": "",
+      "url": "ces-2026-highlights-ai-innovat-K5XDnDH5SRy4pLjlp4h02g",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/488f8cc6-0dfb-47f9-b49d-fc52d351e0df",
       "published_datetime": "2026-01-07T10:55:44.442579",
       "title": "Euro zone inflation hits ECB target at 2.0%",
@@ -217,21 +232,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-07/inflation-abs-monthly-cpi-for-november/106205848"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/56ed3cf5-b97b-40fa-aca7-c433ca247fa8",
-      "published_datetime": "2026-01-07T00:04:02.582305",
-      "title": "UK, France pledge troops to Ukraine after ceasefire",
-      "featured_image": {
-        "url": "https://abcnews.go.com/International/france-uk-commit-deploying-troops-ukraine-ceasefire-agreed/story?id=128958047",
-        "name": "France and UK commit to deploying troops to Ukraine if ceasefire is agreed with Russia",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--AJeF1G9W--/t_limit/https://i.abcnewsfe.com/a/f053cc74-13fa-4cfd-b247-7123ebeac45f/zelenskyy-1-epa-gmh-260106_1767731664437_hpMain_16x9.jpg%3Fw%3D1600",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--6kbZnqN---/t_thumbnail/https://i.abcnewsfe.com/a/f053cc74-13fa-4cfd-b247-7123ebeac45f/zelenskyy-1-epa-gmh-260106_1767731664437_hpMain_16x9.jpg%3Fw%3D1600"
-      },
-      "description": "The United Kingdom and France signed a historic declaration on Tuesday committing to deploy military forces to Ukraine in the event of a peace deal with Russia, marking the most concrete security guarantee yet offered to Kyiv by Western allies.\n\nBritish Prime Minister Keir Starmer and French President Emmanuel Macron announced at a Coalition of the Willing summit in Paris that their countries would establish military hubs across Ukraine and build protected facilities for weapons and equipment to support Ukrainian defense operations[1][2][3][4]. The agreement, signed alongside Ukrainian President Volodymyr Zelensky, was backed by representatives from 35 countries, including US envoys Steve Witkoff and Jared Kushner[1][4][5].\n\n\"Following a ceasefire, the UK and France will establish military hubs across Ukraine and build protected facilities for weapons and military equipment to support Ukraine's defensive needs,\" Starmer said at a joint press conference[1][2]. The declaration establishes the legal framework for British, French, and partner forces to operate on Ukrainian territory, securing airspace and waters while rebuilding Ukraine's military",
-      "audio_url": "",
-      "url": "uk-france-pledge-troops-to-ukr-E4Qt4FWPSDmHSSLlKcberw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-06T19:07:56.000000Z",
       "title": "A vast expanse, a missing woman, and doubt she's even out there at all",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-07T12:28:20.676993"
+  "merged_at": "2026-01-07T13:34:12.082500"
 }
