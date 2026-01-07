@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8ff98f4b-ef6f-49dd-bb39-adb9aea36b4a",
+      "published_datetime": "2026-01-07T15:51:04.451427",
+      "title": "Chinese software flags possible B-21 bomber flaws",
+      "featured_image": {
+        "url": "https://www.scmp.com/news/china/science/article/3338902/chinas-stealth-design-software-padj-x-finds-potential-flaws-b-21-bomber-configuration",
+        "name": "China's stealth design software PADJ-X finds potential flaws in B-21 bomber configuration",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ccG4vWYp--/t_limit/https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/01/06/0190ad0b-5172-44f6-b4be-0ff692ce86d5_44821b34.jpg%3Fitok%3DA2OBQgKX%26v%3D1767686387",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--iox-2cWw--/t_thumbnail/https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/01/06/0190ad0b-5172-44f6-b4be-0ff692ce86d5_44821b34.jpg%3Fitok%3DA2OBQgKX%26v%3D1767686387"
+      },
+      "description": "Chinese researchers have developed advanced simulation software that suggests potential aerodynamic and stability shortcomings in publicly available designs of the United States' B-21 Raider stealth bomber, according to a study published last month in a peer-reviewed aerospace journal.\n\nThe software system, called PADJ-X, was detailed in December 2025 by researchers led by Huang Jiangtao from the China Aerodynamics Research and Development Centre in a paper published in Acta Aeronautica et Astronautica Sinica[1][2][3][4]. Using the platform to analyze a B-21-type configuration with 288 parameters, the team found that aerodynamic optimization could increase the aircraft's lift-to-drag ratio by approximately 15 percent and improve the pitching moment from -0.2 to nearly zero, suggesting the current design may not achieve optimal stability for level flight[1][2][4].\n\nThe research comes as the B-21 Raider, built by Northrop Grumman, undergoes intensive flight testing at Edwards Air Force Base in California[4][5][6]. A second test aircraft joined the program in September 2025, marking what Air Force Secretary Troy Meink called \"substantial momentum\" for the sixth-generation stealth bomber[5][6][7].",
+      "audio_url": "",
+      "url": "china-finds-flaws-in-us-b-21-b-te_hNXqcQWe69BWf1pn.XA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1b7452c7-01ec-4a18-ac18-2022804ccdbb",
       "published_datetime": "2026-01-07T15:05:21.555545",
       "title": "Venezuela stocks surge on Maduro ouster, US oil deal",
@@ -142,21 +157,6 @@
       "description": "Artificial intelligence took center stage at CES 2026 in Las Vegas this week, with major technology companies unveiling AI-powered innovations spanning entertainment, robotics, and health monitoring that aim to reshape how people work and play.\n\nThe four-day consumer electronics showcase, which opened Tuesday, featured demonstrations across 2.6 million square feet of exhibit space, drawing thousands of exhibitors eager to display products planned for store shelves this year[1].",
       "audio_url": "",
       "url": "ces-2026-highlights-ai-innovat-K5XDnDH5SRy4pLjlp4h02g",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/488f8cc6-0dfb-47f9-b49d-fc52d351e0df",
-      "published_datetime": "2026-01-07T10:55:44.442579",
-      "title": "Euro zone inflation hits ECB target at 2.0%",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/01/07/euro-zone-inflation-hits-2percent-in-december-in-line-with-forecasts.html",
-        "name": "Euro zone inflation hits 2% in December, in line with forecasts",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--YXdh2G7T--/t_limit/https://image.cnbcfm.com/api/v1/image/108248623-1767693301611-gettyimages-2212947782-_dsh7421-3.jpeg%3Fv%3D1767693342%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--jkWuMzAB--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108248623-1767693301611-gettyimages-2212947782-_dsh7421-3.jpeg%3Fv%3D1767693342%26w%3D1920%26h%3D1080"
-      },
-      "description": "Inflation in the euro zone eased to 2.0% in December 2025, reaching the European Central Bank's target, while the Czech Republic's inflation held steady at 2.1%, according to flash estimates released Wednesday by Eurostat and the Czech Statistical Office[1][2][3][4]. The convergence signals stable price growth across Central Europe as policymakers maintain current interest rates.\n\nEuro area consumer prices rose 2.0% year-over-year in December, down from 2.1% in November and matching economists' expectations[1][5][6][7]. Core inflation, which excludes volatile food and energy costs, slowed to 2.3% from 2.4% the previous month[6][7]. The deceleration was driven primarily by falling energy prices, which dropped 1.9% compared to a 0.5% decline in November[1].\n\nServices inflation, a key concern for ECB policymakers, eased to 3.4% from 3.5%, while food, alcohol, and tobacco prices rose 2.6%, up from 2.4% the prior month[1][6]. Country variations remained wide, with Estonia and Slovakia recording the highest rates at 4.1%, while Cyprus posted just 0.1% and France 0.8%[1].",
-      "audio_url": "",
-      "url": "euro-zone-and-czech-december-i-MLrM5VneTlWOUEY7AEb.Yg",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-07T16:19:59.169898"
+  "merged_at": "2026-01-07T17:19:36.727099"
 }
