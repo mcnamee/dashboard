@@ -2,12 +2,21 @@
   "items": [
     {
       "published_datetime": "2026-01-08T19:19:03.000000Z",
-      "title": "Live: Town of Ruffy 'severely' impacted by bushfire, CFA confirms, as thousands lose power across Victoria",
+      "title": "Live: 'Absolutely devastating' fires in central Victoria destroy properties, livestock",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bdfe96af4b31dcf5e7413d4eec9d99ef?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=211&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6d01a12dc7632f9748de9d50bccd0320?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=150&amp;width=862&amp;height=485"
       },
-      "description": "Victorian and South Australian authorities are bracing for \"catastrophic\" and \"extreme\" fire conditions as Australia continues to swelter through a heatwave. Follow live.",
+      "description": "Multiple out-of-control bushfires are threatening dozens of towns in central and north-eastern Victoria, with hot temperatures and strong winds resulting in \"catastrophic\" fire conditions. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/fire-weather-heatwave-live-blog-victoria-sa-nsw/106212116"
+    },
+    {
+      "published_datetime": "2026-01-08T18:29:34.000000Z",
+      "title": "Weather system brews 'perfect storm' for abnormally intense heatwave",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c3b17d0bd480ad7fb19e8ed95d92df26?impolicy=wcms_crop_resize&amp;cropH=3395&amp;cropW=6035&amp;xPos=0&amp;yPos=314&amp;width=862&amp;height=485"
+      },
+      "description": "Southern states continue to sweat through one of the most intense heatwaves on record, and for many regions, including Melbourne and Sydney, the hottest weather is still to come.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-09/heatwave-fire-threat-peaking-as-temps-hit-record-high/106211144"
     },
     {
       "published_datetime": "2026-01-08T19:01:56.000000Z",
@@ -19,6 +28,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/solar-powers-australia-through-heatwave-conditions/106211394"
     },
     {
+      "published_datetime": "2026-01-08T07:25:33.000000Z",
+      "title": "Study finds link between room temperature and sleep stress for elderly",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/81e0945721f627d9cfd477e48f485dd8?impolicy=wcms_crop_resize&amp;cropH=717&amp;cropW=1272&amp;xPos=0&amp;yPos=109&amp;width=862&amp;height=485"
+      },
+      "description": "The study by Griffith University in Brisbane finds that a room temperature while sleeping of more than 24 degrees Celsius increases heart rate variability and physiological stress.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-08/study-room-temperature-24-degrees-reduces-sleep-stress-elderly/106210362"
+    },
+    {
       "published_datetime": "2026-01-08T18:57:40.000000Z",
       "title": "What landlords are obliged to do to cool your rental",
       "featured_image": {
@@ -26,24 +44,6 @@
       },
       "description": "With the nation gripped by a heatwave, renters will be looking at their rights for cooling their homes. Here's what they can do.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/what-rental-landlords-are-obliged-to-do-to-cool-homes/106209220"
-    },
-    {
-      "published_datetime": "2026-01-08T18:55:45.000000Z",
-      "title": "Antisemitism inquiry welcomed, but some say it was called too late",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/65b0188a298bbea5e0adfb21ac4a0d00?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Community groups that lobbied for a national inquiry into antisemitism have mostly welcomed the prime minister's announcement of a royal commission.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-09/bondi-victim-families-react-to-antisemitism-royal-commission-/106211654"
-    },
-    {
-      "published_datetime": "2026-01-08T18:00:00.000000Z",
-      "title": "As she turns 44, Princess Catherine is quietly reshaping royal life",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ecb375130d254d78d4fb77eb57d418ab?impolicy=wcms_crop_resize&amp;cropH=2367&amp;cropW=4208&amp;xPos=0&amp;yPos=13&amp;width=862&amp;height=485"
-      },
-      "description": "Catherine turns 44 today as she resets royal life with fewer public appearances, tighter boundaries and a strong emphasis on family life — a choice shaped by loss, illness and the pressure of being next in line.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-09/princess-catherine-wales-birthday-44-reset-normal-royal-life/106206914"
     },
     {
       "published_datetime": "2026-01-08T18:48:14.000000Z",
@@ -64,15 +64,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/senate-votes-to-limit-trump-war-powers/106212508"
     },
     {
-      "published_datetime": "2026-01-08T21:45:08.000000Z",
-      "title": "Inside Maduro's network of alleged drug traffickers wanted by the US",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fc35b1183af576642f8616f9afd7852f?impolicy=wcms_crop_resize&amp;cropH=2132&amp;cropW=3791&amp;xPos=0&amp;yPos=311&amp;width=862&amp;height=485"
-      },
-      "description": "The deposed Venezuelan president allegedly oversaw a network of associates to facilitate the flow of illegal drugs into the US, aided by false passports, a guerilla training school, jets and grenade launchers.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-09/us-nicolas-maduro-indictment-associates-list/106209272"
-    },
-    {
       "published_datetime": "2026-01-08T18:56:52.000000Z",
       "title": "In Greenland, Trump's talk of annexation is stirring up a dark past",
       "featured_image": {
@@ -91,6 +82,33 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/matildas-star-cooney-cross-returns-home-to-face-family-tragedy/106212710"
     },
     {
+      "published_datetime": "2026-01-08T18:00:00.000000Z",
+      "title": "As she turns 44, Princess Catherine is quietly reshaping royal life",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ecb375130d254d78d4fb77eb57d418ab?impolicy=wcms_crop_resize&amp;cropH=2367&amp;cropW=4208&amp;xPos=0&amp;yPos=13&amp;width=862&amp;height=485"
+      },
+      "description": "Catherine turns 44 today as she resets royal life with fewer public appearances, tighter boundaries and a strong emphasis on family life — a choice shaped by loss, illness and the pressure of being next in line.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-09/princess-catherine-wales-birthday-44-reset-normal-royal-life/106206914"
+    },
+    {
+      "published_datetime": "2026-01-08T21:47:31.000000Z",
+      "title": "'Airport brain': The weird things Aussie travellers leave behind every year",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/270ed44c7458772e7771840a338d4837?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "From tablets, headphones and laptops, to prams, vacuum cleaners and even a prosthetic leg — these are the items being left behind each year at major airports.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-09/airport-lost-luggage-auctions/106078890"
+    },
+    {
+      "published_datetime": "2026-01-08T18:59:32.000000Z",
+      "title": "How the internet reacted to the fifth Ashes Test",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c339f53f333f309c9a6f49c353503062?impolicy=wcms_crop_resize&amp;cropH=2176&amp;cropW=3869&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The internet went wild as Australia dominated with the bat, led by Travis Head and Steve Smith, and England crumbled in the dying embers of the Ashes.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-09/how-the-internet-reacted-to-the-fifth-ashes-test/106198770"
+    },
+    {
       "published_datetime": "2026-01-08T20:44:17.000000Z",
       "title": "Live: Mega mining company back on cards as Glencore confirms Rio Tinto talks",
       "featured_image": {
@@ -101,39 +119,12 @@
     },
     {
       "published_datetime": "2026-01-08T20:04:30.000000Z",
-      "title": "RBA plays the long game on inflation, so a rate rise could still be some way off",
+      "title": "The RBA is done cutting rates, but it might not be in a rush to raise them",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/698752a35a73e9b7acadaa847268b2f5?impolicy=wcms_crop_resize&amp;cropH=2408&amp;cropW=4280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "The Reserve Bank says inflation is \"too high\", but that doesn't mean it will necessarily rush to raise interest rates next month. ",
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/rba-deputy-governor-andrew-hauser-interest-rates-inflation-janda/106210128"
-    },
-    {
-      "published_datetime": "2026-01-08T21:47:31.000000Z",
-      "title": "'Airport brain': The weird things Aussie travellers left behind this year",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/270ed44c7458772e7771840a338d4837?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "From tablets, headphones and laptops, to prams, vacuum cleaners and even a prosthetic leg — these are the items being left behind each year at major airports.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-09/airport-lost-luggage-auctions/106078890"
-    },
-    {
-      "published_datetime": "2026-01-08T21:35:51.000000Z",
-      "title": "MP accused of assault says home detention makes him 'more wedded' to electorate",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c0b8c1e474377d857cff4fe58746056a?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "South Australian MP Nick McBride, who has been charged with aggravated assault, says home detention will make him \"more focused\" on his electorate ahead of the SA election in March.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-09/sa-assault-accused-mcbride-speaks-about-home-detention/106211188"
-    },
-    {
-      "published_datetime": "2026-01-08T20:42:20.000000Z",
-      "title": "Secret documents reveal NT clubs' pokies profits staying in-house",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e98b478429515fbbe9b3a692615fce6d?impolicy=wcms_crop_resize&amp;cropH=391&amp;cropW=700&amp;xPos=182&amp;yPos=20&amp;width=862&amp;height=485"
-      },
-      "description": "Previously secret documents released under Freedom of Information laws have revealed how the Northern Territory's pokies clubs' community contributions are really being spent.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-09/nt-pokies-community-contributions-member-perks-renovations-foi/106084120"
     },
     {
       "published_datetime": "2026-01-08T19:31:29.000000Z",
@@ -145,13 +136,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/kings-forest-for-sale-after-land-banking-saga/106207042"
     },
     {
-      "published_datetime": "2026-01-08T19:54:49.000000Z",
-      "title": "Moderate chance of tropical cyclone developing off Qld's north-east coast",
+      "published_datetime": "2026-01-08T18:55:45.000000Z",
+      "title": "Antisemitism inquiry welcomed, but some say it was called too late",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/97ff95aa195e90b8d56a0b9021c0a803?impolicy=wcms_crop_resize&amp;cropH=291&amp;cropW=517&amp;xPos=0&amp;yPos=3&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/65b0188a298bbea5e0adfb21ac4a0d00?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "A tropical low off the Coral Coast could have the potential to become a tropical cyclone over the weekend, as residents across the far North Coast prepare for heavy rainfall. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-09/tropical-low-to-hit-far-north-queensland-late-friday/106211562"
+      "description": "Community groups that lobbied for a national inquiry into antisemitism have mostly welcomed the prime minister's announcement of a royal commission.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-09/bondi-victim-families-react-to-antisemitism-royal-commission-/106211654"
     },
     {
       "published_datetime": "2026-01-08T19:28:04.000000Z",
@@ -163,13 +154,40 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/qld-bug-hunt-insects-photos-research-citizen-scientists/106171252"
     },
     {
-      "published_datetime": "2026-01-08T07:55:37.000000Z",
-      "title": "Victim flown to Perth as search for Midwest shooter escalates",
+      "published_datetime": "2026-01-08T20:42:20.000000Z",
+      "title": "Secret documents reveal NT clubs' pokies profits staying in-house",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7472e17419dd5a8e98e49a5d55d7202a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=469&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e98b478429515fbbe9b3a692615fce6d?impolicy=wcms_crop_resize&amp;cropH=391&amp;cropW=700&amp;xPos=182&amp;yPos=20&amp;width=862&amp;height=485"
       },
-      "description": "Police have issued a \"personal plea\" for Kenneth John Giles to turn himself in, almost 24 hours after a shooting in Mullewa.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-08/mullewa-shooting-manhunt-continues-kenneth-giles/106209978"
+      "description": "Previously secret documents released under Freedom of Information laws have revealed how the Northern Territory's pokies clubs' community contributions are really being spent.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-09/nt-pokies-community-contributions-member-perks-renovations-foi/106084120"
+    },
+    {
+      "published_datetime": "2026-01-08T19:54:49.000000Z",
+      "title": "Moderate chance of tropical cyclone developing off Qld's north-east coast",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/97ff95aa195e90b8d56a0b9021c0a803?impolicy=wcms_crop_resize&amp;cropH=291&amp;cropW=517&amp;xPos=0&amp;yPos=3&amp;width=862&amp;height=485"
+      },
+      "description": "A tropical low off the Coral Coast could have the potential to become a tropical cyclone over the weekend, as residents across the far North Coast prepare for heavy rainfall. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-09/tropical-low-to-hit-far-north-queensland-late-friday/106211562"
+    },
+    {
+      "published_datetime": "2026-01-08T21:59:39.000000Z",
+      "title": "Routine flight home to WA mining town leaves man facing life-or-death scenario",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0a544abc00cb5404075317e69ba7d9fc?impolicy=wcms_crop_resize&amp;cropH=899&amp;cropW=1599&amp;xPos=0&amp;yPos=83&amp;width=862&amp;height=485"
+      },
+      "description": "Pilbara resident Andrew Rawle found himself 30,000 feet in the air, unable to breathe due to anaphylactic shock, but was saved by the crew and the selfless act of another passenger.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-09/selfless-act-saves-man-anaphylactic-shock-on-wa-virgin-flight/106209770"
+    },
+    {
+      "published_datetime": "2026-01-08T21:35:51.000000Z",
+      "title": "MP accused of assault says home detention makes him 'more wedded' to electorate",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c0b8c1e474377d857cff4fe58746056a?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "South Australian MP Nick McBride, who has been charged with aggravated assault, says home detention will make him \"more focused\" on his electorate ahead of the SA election in March.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-09/sa-assault-accused-mcbride-speaks-about-home-detention/106211188"
     },
     {
       "published_datetime": "2026-01-08T01:33:39.000000Z",
@@ -179,15 +197,6 @@
       },
       "description": "Isaac James Martin, 31, says he has not \"bothered\" to get legal representation, telling a Brisbane court he \"killed old mate because he's a child molester\".",
       "page_content_url": "https://www.abc.net.au/news/2026-01-08/qld-maryborough-prison-murder-confession/106209376"
-    },
-    {
-      "published_datetime": "2026-01-08T18:59:32.000000Z",
-      "title": "How the internet reacted to the fifth Ashes Test",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c339f53f333f309c9a6f49c353503062?impolicy=wcms_crop_resize&amp;cropH=2176&amp;cropW=3869&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The internet went wild as Australia dominated with the bat, led by Travis Head and Steve Smith, and England crumbled in the dying embers of the Ashes.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-09/how-the-internet-reacted-to-the-fifth-ashes-test/106198770"
     },
     {
       "published_datetime": "2026-01-08T09:01:48.000000Z",
@@ -215,15 +224,6 @@
       },
       "description": "The \"swift action\" of members of the public has been praised in the rescue of a 74-year-old man who became separated from his boat.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-08/public-rescue-of-man-overboard-in-ulverstone-tasmania/106209052"
-    },
-    {
-      "published_datetime": "2026-01-08T15:46:24.000000Z",
-      "title": "Last Aussie out of Brisbane International after Hijikata suffers three-set loss",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f0ae49ce9e1a67c07bad8b4f8b6db8a3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=139&amp;width=862&amp;height=485"
-      },
-      "description": "Rinky Hijikata's three-set loss to big-serving Frenchman Giovanni Mpetshi Perricard means there are no Australians left in the Brisbane International singles.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-09/hijikata-mpetshi-perricard-brisbane-international-quarter-finals/106212468"
     }
   ]
 }
