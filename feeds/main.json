@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/01fa5376-6566-4765-9f6a-37527d6aa10f",
+      "published_datetime": "2026-01-08T09:26:00.922119",
+      "title": "Russian drone strike leaves 800,000 without power",
+      "featured_image": {
+        "url": "https://www.opb.org/article/2024/12/25/russia-targets-ukrainian-energy-infrastructure-on-christmas-day/",
+        "name": "Russia targets Ukrainian energy infrastructure on Christmas ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--JsSE39Iz--/t_limit/https://cloudfront-us-east-1.images.arcpublishing.com/opb/44O2EWPTKFMVVOC5QWVDYUBTNI.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--c-ZA-QQb--/t_thumbnail/https://cloudfront-us-east-1.images.arcpublishing.com/opb/44O2EWPTKFMVVOC5QWVDYUBTNI.jpg"
+      },
+      "description": "A large-scale Russian drone attack late on January 7 left nearly 800,000 consumers without electricity in Ukraine's Dnipropetrovsk region and more than one million people without water and heating as temperatures dropped below freezing[1][2][3].\n\nThe strikes on energy infrastructure knocked out power almost entirely in both Dnipropetrovsk and Zaporizhzhia regions, according to Ukraine's Energy Ministry[4][5]. Acting Energy Minister Artem Nekrasov said repair work was underway as of the morning of January 8, with social and critical infrastructure facilities partially supplied with power[2][6].",
+      "audio_url": "",
+      "url": "russian-strikes-leave-800000-w-7n4U6JwxSfmSsJA0aq8sgQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-08T09:01:48.000000Z",
       "title": "'Like a movie': The brazen airport heist that stunned a Pacific nation",
       "featured_image": {
@@ -74,7 +89,7 @@
     },
     {
       "published_datetime": "2026-01-08T07:00:08.000000Z",
-      "title": "Who is the woman charged with running antisemitism royal commission?",
+      "title": "Who is the woman charged with running the antisemitism royal commission?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0629a47e3e9b9b09757a7ea6ac5607db?impolicy=wcms_crop_resize&amp;cropH=1436&amp;cropW=2553&amp;xPos=1555&amp;yPos=507&amp;width=862&amp;height=485"
       },
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/52bd5676-125b-44b7-8d46-561500fb4861",
-      "published_datetime": "2026-01-07T19:15:11.571141",
-      "title": "60,000-year-old poisoned arrows found in South Africa",
-      "featured_image": {
-        "url": "https://www.iflscience.com/palaeolithic-hunters-may-have-used-poison-arrows-54000-years-ago-75972",
-        "name": "Palaeolithic Hunters May Have Used Poison Arrows 54,000 ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--yRqZEpzt--/t_limit/https://assets.iflscience.com/assets/articleNo/75972/aImg/78893/poison-arrow-o.webp",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--HiEbumiQ--/t_thumbnail/https://assets.iflscience.com/assets/articleNo/75972/aImg/78893/poison-arrow-o.webp"
-      },
-      "description": "Researchers have identified poison residues on 60,000-year-old arrowheads from South Africa, marking the earliest direct evidence of humans using poisoned weapons and pushing back this hunting practice by more than 50,000 years, according to a study published Tuesday in Science Advances[1][2][3].\n\nThe discovery at Umhlatuzana Rock Shelter in KwaZulu-Natal province reveals that early *Homo sapiens* possessed sophisticated knowledge of plant toxins and advanced cognitive abilities far earlier than previously documented[1][2][3]. Before this finding, the oldest confirmed poisoned arrows dated to approximately 7,000 years ago during the mid-Holocene period[1][4][5].",
-      "audio_url": "",
-      "url": "60000-year-old-poisoned-arrows-Eq1C4uFaRD2XgeOIM18rcQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-08T10:16:21.177464"
+  "merged_at": "2026-01-08T11:14:32.747864"
 }
