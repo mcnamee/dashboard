@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/hijikata-mpetshi-perricard-brisbane-international-quarter-finals/106212468"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fb29f9eb-0cc4-48c6-a58d-b5a3a020639d",
+      "published_datetime": "2026-01-08T15:17:31.737866",
+      "title": "Arctic sees surge in unprecedented extreme weather events",
+      "featured_image": {
+        "url": "https://www.yahoo.com/news/articles/scientists-issue-warning-dangerous-phenomenon-031500698.html",
+        "name": "Scientists issue warning about dangerous phenomenon escalating ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IuPDrDwd--/t_limit/https://s.yimg.com/ny/api/res/1.2/E08fPsSeFwAFE8PjPHzobQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/429ca205e01bc31ad03b5c9beec61698",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--08OKc3Uw--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/E08fPsSeFwAFE8PjPHzobQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/429ca205e01bc31ad03b5c9beec61698"
+      },
+      "description": "The Arctic recorded its hottest year since measurements began 125 years ago, while a new study reveals the region has entered an unprecedented era of extreme weather events that threaten ecosystems and communities across the polar north.\n\nTemperatures from October 2024 through September 2025 were the warmest in the Arctic since 1900, according to the National Oceanic and Atmospheric Administration's annual Arctic Report Card released in December[1][2][3]. The past decade represents the 10 warmest years on record for the region[1][2][3]. In March 2025, Arctic winter sea ice reached its lowest annual maximum extent in the 47-year satellite record[1][4][5].\n\nResearch published this week in the journal Science Advances documents a sharp increase in extreme weather events across the Arctic over the past 30 years[6][7][8]. The study, led by the Finnish Meteorological Institute with an international team including the University of Sheffield, found that approximately one-third of the Arctic land area has recently begun experiencing extreme weather events that had not occurred there previously[6][7][8].",
+      "audio_url": "",
+      "url": "arctic-records-hottest-year-an-kWOng5ujQgiquRM2n01mQg",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/35f1bd69-cab3-4da6-942a-a4c578b6f8a3",
       "published_datetime": "2026-01-08T14:51:52.994154",
       "title": "Scientists map Milky Way neutrino flow to Earth",
@@ -154,21 +169,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-08/trump-says-us-oversight-of-venezuela-could-last-for-years/106211978"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/01fa5376-6566-4765-9f6a-37527d6aa10f",
-      "published_datetime": "2026-01-08T09:26:00.922119",
-      "title": "Russian drone strike leaves 800,000 without power",
-      "featured_image": {
-        "url": "https://www.opb.org/article/2024/12/25/russia-targets-ukrainian-energy-infrastructure-on-christmas-day/",
-        "name": "Russia targets Ukrainian energy infrastructure on Christmas ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--JsSE39Iz--/t_limit/https://cloudfront-us-east-1.images.arcpublishing.com/opb/44O2EWPTKFMVVOC5QWVDYUBTNI.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--c-ZA-QQb--/t_thumbnail/https://cloudfront-us-east-1.images.arcpublishing.com/opb/44O2EWPTKFMVVOC5QWVDYUBTNI.jpg"
-      },
-      "description": "A large-scale Russian drone attack late on January 7 left nearly 800,000 consumers without electricity in Ukraine's Dnipropetrovsk region and more than one million people without water and heating as temperatures dropped below freezing[1][2][3].\n\nThe strikes on energy infrastructure knocked out power almost entirely in both Dnipropetrovsk and Zaporizhzhia regions, according to Ukraine's Energy Ministry[4][5]. Acting Energy Minister Artem Nekrasov said repair work was underway as of the morning of January 8, with social and critical infrastructure facilities partially supplied with power[2][6].",
-      "audio_url": "",
-      "url": "russian-strikes-leave-800000-w-7n4U6JwxSfmSsJA0aq8sgQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-08T09:01:48.000000Z",
       "title": "'Like a movie': The brazen airport heist that stunned a Pacific nation",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-08T16:19:15.674542"
+  "merged_at": "2026-01-08T17:20:50.021276"
 }
