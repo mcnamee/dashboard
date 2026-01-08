@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-08/rajwinder-singh-lodges-appeal-murder-toyah-cordingley-cairns/106199494"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dc46d658-b74e-4ec7-99ee-6afd2e28c369",
+      "published_datetime": "2026-01-08T07:02:41.578326",
+      "title": "Oil prices rise on surprise US inventory drop",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/01/08/oil-prices-gain-on-us-inventory-draw-venezuela-in-focus.html",
+        "name": "Oil prices gain on U.S. inventory draw, Venezuela in focus - CNBC",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--EohIH3co--/t_limit/https://image.cnbcfm.com/api/v1/image/108234888-1764640978236-gettyimages-1291793738-366223737.jpeg%3Fv%3D1767843943%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--e0svcPka--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108234888-1764640978236-gettyimages-1291793738-366223737.jpeg%3Fv%3D1767843943%26w%3D1920%26h%3D1080"
+      },
+      "description": "Oil prices rebounded on Thursday after a larger-than-expected drop in US crude inventories and developments in the Trump administration's efforts to control Venezuelan oil sales, though analysts warned that persistent oversupply concerns could cap further gains.\n\nBrent crude futures rose 38 cents, or 0.6%, to $60.34 a barrel by early trading, while US West Texas Intermediate crude gained 37 cents, or 0.7%, to $56.36 a barrel, according to Reuters[1][2]. Both benchmarks had fallen more than 1% for two consecutive days earlier in the week.\n\nThe price uptick came after the US Energy Information Administration reported that commercial crude inventories fell by 3.8 million barrels to 419.1 million barrels in the week ended January 2, defying analysts' expectations for a 447,000-barrel increase[1][2][3][4]. The draw marked the largest decline since late October[5].",
+      "audio_url": "",
+      "url": "oil-prices-rise-on-us-inventor-BIRkYxN8Qy6rxHszibUs2w",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-08T07:00:08.000000Z",
       "title": "Who is the woman charged with running antisemitism royal commission?",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7276b8a6-2c8b-4b37-ac0c-a1f7fff22b3c",
-      "published_datetime": "2026-01-07T17:10:25.510074",
-      "title": "AI home robots and autonomous cars debut at CES 2026",
-      "featured_image": {
-        "url": "https://www.engadget.com/transportation/evs/sony-honda-mobilitys-afeela-prototype-2026-puts-an-suv-spin-on-its-too-familiar-sedan-at-ces-043927882.html",
-        "name": "Sony Honda Mobility's Afeela Prototype 2026 puts an SUV spin on ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--yf0mEfBG--/t_limit/https://s.yimg.com/ny/api/res/1.2/iv.Avvt2mFJu43EEqo.Xaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2026_CES_Sony_Honda_Mobility_006.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--no6MHHX2--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/iv.Avvt2mFJu43EEqo.Xaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2026_CES_Sony_Honda_Mobility_006.jpg"
-      },
-      "description": "Artificial intelligence dominated CES 2026 as tech giants unveiled home robots, entertainment-focused electric vehicles, and autonomous driving systems during the four-day event that opened January 6 in Las Vegas[1]. NVIDIA CEO Jensen Huang declared at Monday's keynote that AI is \"scaling into every domain and every device,\" signaling a shift from data centers to physical applications in daily life[2].",
-      "audio_url": "",
-      "url": "ces-2026-showcases-ai-innovati-VyY3GQvIQKiu6_IlFwlfTQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-08T08:19:49.401361"
+  "merged_at": "2026-01-08T08:39:37.864318"
 }
