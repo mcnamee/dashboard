@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/460866ee-22d6-4947-a20d-1adaa4172dfa",
+      "published_datetime": "2026-01-08T15:50:04.444540",
+      "title": "Shell shares drop on weak trading, chemicals losses",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2025/01/30/shell-earnings-full-year-and-q4-2024.html",
+        "name": "Shell posts weaker-than-expected full-year profit on lower ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s---C1sOS_q--/t_limit/https://image.cnbcfm.com/api/v1/image/108094052-1738158569863-gettyimages-2151322364-01-bb1_2324-_a8y3vjph.jpeg%3Fv%3D1750866394%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--dZ9jpUYj--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108094052-1738158569863-gettyimages-2151322364-01-bb1_2324-_a8y3vjph.jpeg%3Fv%3D1750866394%26w%3D1920%26h%3D1080"
+      },
+      "description": "Shell shares dropped as much as 2.6% Thursday after the energy giant warned of weaker fourth-quarter trading results and losses in its chemicals division, raising doubts about whether the company can maintain its $3.5 billion quarterly share buyback program[1][2][3][4].\n\nThe London-based company said trading results for the fourth quarter of 2025 would be \"significantly lower\" than the previous three months, with its chemicals and products segment expected to swing to an adjusted loss[1][5][3][6]. Oil trading represents a major portion of Shell's trading operations, alongside refined products such as diesel and gasoline[1][3][7].",
+      "audio_url": "",
+      "url": "shell-shares-fall-after-weak-q-zO.pyuJ0Rs.UFCqWVEXRHQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-08T15:46:24.000000Z",
       "title": "Last Aussie out of Brisbane International after Hijikata suffers three-set loss",
       "featured_image": {
@@ -142,21 +157,6 @@
       "description": "Nvidia is requiring Chinese customers to pay in full for its H200 artificial intelligence chips before shipment, shifting financial risk away from the company as Beijing deliberates whether to approve imports of the advanced processors[1][2][3].\n\nThe chipmaker has imposed strict terms that prohibit cancellations, refunds, or configuration changes after orders are placed, according to two people familiar with the matter who spoke to Reuters[1][2][3]. In special circumstances, customers may provide commercial insurance or asset collateral instead of cash, one person said[2]. The policy marks a departure from Nvidia's previous practice of allowing Chinese clients to place deposits rather than full payment upfront[2][3].\n\nThe stringent payment requirements come as China plans to approve some H200 imports as soon as this quarter for select commercial use, Bloomberg reported[4][5]. Chinese officials are preparing to allow domestic companies to buy the chips while barring them from military applications, sensitive government agencies, critical infrastructure, and state-owned enterprises on security grounds[4][6][5].\n\nChinese technology companies have placed orders for more than 2 million H200 chips priced at around $27,000 each, exceeding Nvidia's inventory of 700,000 units, Reuters reported last month[1][2][3]. The H200 delivers roughly six times the performance of the now-blocked H20 chip that Nvidia had designed specifically for the Chinese market[2][3][7].",
       "audio_url": "",
       "url": "nvidia-requires-upfront-paymen-pom4n1jGQP62CT9h_yYfvg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ab37e2d3-4dcc-40ef-a1f5-575e4018f534",
-      "published_datetime": "2026-01-08T10:37:08.833217",
-      "title": "Microplastics disrupt atmosphere and oceans, weakening climate defenses",
-      "featured_image": {
-        "url": "https://www.earth.com/news/microplastics-found-in-clouds-may-be-affecting-the-weather/",
-        "name": "Microplastics found in clouds may be affecting the weather ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--iWxe1BaY--/t_limit/https://cff2.earth.com/uploads/2023/11/15105125/Cloud-microplastics-scaled.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--WfwyzFzD--/t_thumbnail/https://cff2.earth.com/uploads/2023/11/15105125/Cloud-microplastics-scaled.jpg"
-      },
-      "description": "New research reveals microscopic plastic particles are accumulating in the atmosphere and oceans at far higher levels than previously estimated, disrupting critical natural systems that regulate Earth's climate.\n\nTwo studies published this week show microplastics are forming clouds over major cities and weakening the ocean's ability to absorb carbon dioxide, potentially accelerating global warming.",
-      "audio_url": "",
-      "url": "microplastics-threaten-atmosph-lFy1vmYWRk.vA5uS_yOCdw",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-08T17:20:50.021276"
+  "merged_at": "2026-01-08T18:18:31.908192"
 }
