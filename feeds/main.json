@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-08T09:01:48.000000Z",
+      "title": "'Like a movie': The brazen airport heist that stunned a Pacific nation",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c945247b5309995366d3371e6768dd8c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=308&amp;width=862&amp;height=485"
+      },
+      "description": "A brazen heist at Port Vila International Airport has stunned Vanuatu and become the talk of a nation unused to such overtly public acts of crime.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-08/vanuatu-robbery-port-vila-airport/106206412"
+    },
+    {
+      "published_datetime": "2026-01-08T08:38:28.000000Z",
+      "title": "Victorian properties feared lost as bushfires, heatwave persist",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5081217180e67674ede61103321c3f65?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=125&amp;width=862&amp;height=485"
+      },
+      "description": "Multiple properties are feared lost to an out-of-control bushfire in central Victoria, as Australia's first heatwave of the year continued to bring high temperatures across the country.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-08/bushfire-victoria-south-australia-heatwave-australia/106210436"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f48deff7-6f59-4f99-b96c-8d90d2c75895",
+      "published_datetime": "2026-01-08T08:34:21.491074",
+      "title": "Scientists locate gamma-ray source in solar flares",
+      "featured_image": {
+        "url": "https://phys.org/news/2026-01-solar-physicists-hidden-source-gamma.html",
+        "name": "Solar physicists discover long-hidden source of gamma rays ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--NEu05w6w--/t_limit/https://scx2.b-cdn.net/gfx/news/hires/2026/njit-researchers-disco.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--vgnpeJxE--/t_thumbnail/https://scx2.b-cdn.net/gfx/news/hires/2026/njit-researchers-disco.jpg"
+      },
+      "description": "Researchers at the New Jersey Institute of Technology have identified a previously unknown source of intense gamma radiation produced during the sun's most powerful eruptions, solving a puzzle that has persisted for decades. The findings, published in Nature Astronomy on January 7, could improve space weather forecasting and enhance understanding of how solar flares unleash their extreme energy[1][2][3].\n\nThe discovery pinpoints a newly identified class of high-energy particles in the solar corona\u2014the sun's upper atmosphere\u2014as the origin of gamma-ray signals observed during major solar flare events. These particles, measured at energies of several million electron volts, are hundreds to thousands of times more energetic than typical flare particles and move near the speed of light[1][2][3].",
+      "audio_url": "",
+      "url": "njit-scientists-identify-hidde-msg.ik4ZR9a8Yopzxy0dQA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/42d2cbf5-67bf-4d62-ac87-de52726c597c",
+      "published_datetime": "2026-01-08T08:09:36.967854",
+      "title": "Australian drill extracts first deep Antarctic ice core",
+      "featured_image": {
+        "url": "https://www.antarctica.gov.au/science/climate-processes-and-change/antarctic-palaeoclimate/million-year-ice-core/",
+        "name": "Million year ice core \u2013 Australian Antarctic Program",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--emHzZufP--/t_limit/https://www.antarctica.gov.au/site/assets/files/54688/2025-01-14_derry_removes_core_from_barrel_with_etienne_loosening_chips_jackmcleod.1200x0.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--qKSl3aTn--/t_thumbnail/https://www.antarctica.gov.au/site/assets/files/54688/2025-01-14_derry_removes_core_from_barrel_with_etienne_loosening_chips_jackmcleod.1200x0.jpg"
+      },
+      "description": "A custom-built Australian drill has successfully extracted its first deep ice core from Antarctica, marking a pivotal milestone in a project to unlock climate secrets dating back more than one million years. The Australian Antarctic Division announced the achievement on January 7, following the extraction of a nearly one-meter core from 151 meters depth at a remote drilling site 1,200 kilometers inland from Casey research station[1][2][3].\n\nThe breakthrough comes after seven years of designing, building, and testing the 8.4-meter drill, which is engineered to operate in extreme conditions including temperatures as low as minus 55 degrees Celsius and pressures up to 300 kilograms per square centimeter[1][2][4]. The drill, adapted from a Danish design by Australian Antarctic Division scientists and engineers, is designed to ultimately reach ice more than 3,000 meters deep at the bedrock[2][3][4].",
+      "audio_url": "",
+      "url": "australian-antarctic-drill-rec-FhgFwEJeRa.1ZhNioE6dnQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-08T07:04:41.000000Z",
       "title": "Man convicted of Toyah Cordingley's murder files appeal",
       "featured_image": {
@@ -178,15 +226,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-07T22:25:24.000000Z",
-      "title": "Live: Fire-fuelled thunderstorms form in north-east Victoria as residents urged to leave",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6128671e6ec88d1541c703a3942b6ef4?impolicy=wcms_crop_resize&amp;cropH=435&amp;cropW=773&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A heatwave stretching across southern Australia is in its second day, with properties feared lost in an out-of-control bushfire in central Victoria.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-08/fire-weather-heatwave-live-blog-victoria-sa-nsw/106208762"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/52bd5676-125b-44b7-8d46-561500fb4861",
       "published_datetime": "2026-01-07T19:15:11.571141",
       "title": "60,000-year-old poisoned arrows found in South Africa",
@@ -199,45 +238,6 @@
       "description": "Researchers have identified poison residues on 60,000-year-old arrowheads from South Africa, marking the earliest direct evidence of humans using poisoned weapons and pushing back this hunting practice by more than 50,000 years, according to a study published Tuesday in Science Advances[1][2][3].\n\nThe discovery at Umhlatuzana Rock Shelter in KwaZulu-Natal province reveals that early *Homo sapiens* possessed sophisticated knowledge of plant toxins and advanced cognitive abilities far earlier than previously documented[1][2][3]. Before this finding, the oldest confirmed poisoned arrows dated to approximately 7,000 years ago during the mid-Holocene period[1][4][5].",
       "audio_url": "",
       "url": "60000-year-old-poisoned-arrows-Eq1C4uFaRD2XgeOIM18rcQ",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-07T19:07:04.000000Z",
-      "title": "Why Trump's threat to Greenland hinges on NATO's Article 5",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f4fc8c3e6677e750ccc2393504737302?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump has made it clear he's departing from decades of US foreign policy norms and once-close allies are now questioning what it could mean for them.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-08/natos-latest-threat-could-be-coming-from-within-donald-trump/106205214"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/996de2f4-8b67-416e-8bef-242c9342516c",
-      "published_datetime": "2026-01-07T18:40:44.640458",
-      "title": "EU to suspend fertiliser tariffs and carbon levy",
-      "featured_image": {
-        "url": "https://www.yahoo.com/news/articles/italy-seeks-carbon-border-tax-122326555.html",
-        "name": "Italy seeks carbon border tax freeze on fertilizers, raising stakes for ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--WqzHHtl2--/t_limit/https://media.zenfs.com/en/euronews_us_articles_576/88bd3f07c97a00b0c7e20de429707cf9",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--VrDcdNhq--/t_thumbnail/https://media.zenfs.com/en/euronews_us_articles_576/88bd3f07c97a00b0c7e20de429707cf9"
-      },
-      "description": "The European Commission announced measures Wednesday to temporarily suspend tariffs and carbon levies on fertiliser imports following pressure from France and Italy to ease costs for struggling farmers.\n\nEU Trade Commissioner Maros Sefcovic told agriculture ministers at a meeting in Brussels that the Commission will propose to temporarily suspend remaining most favored nation tariffs on ammonia, urea and other fertilisers[1][2]. The tariffs currently stand at 6.5% for ammonia and 5.5% for urea[1]. Additionally, the Commission will issue guidance allowing temporary suspension of the Carbon Border Adjustment Mechanism on fertilisers, retroactive to January 1, 2026[3][4][5].\n\n\"Keeping fertilisers affordable is vital for farmers' incomes and Europe's food security,\" Sefcovic said at a press conference[1]. \"While prices have stabilised, fertiliser costs remain around 60% higher than in 2020 and that is simply not sustainable.\"[1]",
-      "audio_url": "",
-      "url": "eu-considers-tariff-changes-an-Vf75zFH_SACVvNvIAugkCw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dd76f9db-d1a8-49e9-a549-ea34ccf72d8d",
-      "published_datetime": "2026-01-07T17:11:26.918542",
-      "title": "Over 30 nations pledge Ukraine security guarantees at Paris summit",
-      "featured_image": {
-        "url": "https://www.lemonde.fr/en/international/article/2026/01/06/ukraine-western-allies-agree-on-key-security-guarantees-in-paris_6749151_4.html",
-        "name": "Ukraine's Western allies agree on key security guarantees in Paris",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--wpeyB1H---/t_limit/https://img.lemde.fr/2026/01/06/1/0/6978/4652/1440/960/60/0/65d3359_ftp-1-1apt7ehyu5wu-2caa8964198a4822a42e5e29b0b66dff-0-335456495c7647b3862ebec0947a0692.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--DWlOq_KM--/t_thumbnail/https://img.lemde.fr/2026/01/06/1/0/6978/4652/1440/960/60/0/65d3359_ftp-1-1apt7ehyu5wu-2caa8964198a4822a42e5e29b0b66dff-0-335456495c7647b3862ebec0947a0692.jpg"
-      },
-      "description": "Ukrainian President Volodymyr Zelenskyy hailed \"concrete results\" from a historic Paris summit where over 30 nations agreed to provide robust security guarantees in the event of a ceasefire with Russia, though critical issues including territorial disputes remain unresolved[1][2][3][4].\n\nAt Tuesday's Coalition of the Willing meeting, France and the United Kingdom signed a declaration committing to deploy troops and establish military hubs across Ukraine if a peace deal is reached[2][5][6]. French President Emmanuel Macron announced that Paris could deploy \"several thousand\" troops to monitor the Russia-Ukraine border and help regenerate Ukrainian armed forces, emphasizing these would not be combat forces[7][8][9].\n\nThe summit marked the first time the United States directly backed the coalition's security framework, with US envoy Steve Witkoff declaring that President Donald Trump \"strongly, strongly stands behind security protocols\"[2][10][11]. The American delegation, which included Trump's son-in-law Jared Kushner and Gen. Alexus Grynkewich, reported \"significant progress on several critical workstreams, including our bilateral security guarantee framework\"[1][12][13].",
-      "audio_url": "",
-      "url": "coalition-of-willing-summit-pr-dT_oHcNmTy.wbgf00yb_ww",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-08T09:21:26.253951"
+  "merged_at": "2026-01-08T10:16:21.177464"
 }
