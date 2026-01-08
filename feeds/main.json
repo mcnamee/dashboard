@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-08T21:45:08.000000Z",
+      "title": "Inside Maduro's network of alleged drug traffickers wanted by the US",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fc35b1183af576642f8616f9afd7852f?impolicy=wcms_crop_resize&amp;cropH=2132&amp;cropW=3791&amp;xPos=0&amp;yPos=311&amp;width=862&amp;height=485"
+      },
+      "description": "The deposed Venezuelan president allegedly oversaw a network of associates to facilitate the flow of illegal drugs into the US, aided by false passports, a guerilla training school, jets and grenade launchers.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-09/us-nicolas-maduro-indictment-associates-list/106209272"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b844dfa4-cd93-41d6-8ff4-e95bcf31bd28",
+      "published_datetime": "2026-01-08T20:50:57.618002",
+      "title": "Chinese study finds urban air contains millions of microplastic particles per cubic meter",
+      "featured_image": {
+        "url": "https://ca.news.yahoo.com/scientists-detect-hidden-plastic-clouds-083152375.html",
+        "name": "Scientists detect hidden plastic clouds hovering over Chinese cities",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--gt9zKagC--/t_limit/https://media.zenfs.com/en/the_independent_635/0c9cdd11020c9e1300e0f33e9a641433",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Rv6Ojerm--/t_thumbnail/https://media.zenfs.com/en/the_independent_635/0c9cdd11020c9e1300e0f33e9a641433"
+      },
+      "description": "Researchers in China have identified urban atmospheres as primary reservoirs for microplastic and nanoplastic pollution, finding concentrations up to a million times higher than previously detected using traditional methods.\n\nA study published in Science Advances on January 7 by scientists from the Institute of Earth Environment of the Chinese Academy of Sciences revealed that microplastics and nanoplastics accumulate in city air at levels ranging from 140,000 to 180,000 particles per cubic meter in the two Chinese megacities of Guangzhou and Xi'an[1][2][3]. The research marks the first detection of nanoplastics as small as 200 nanometers in complex environmental samples[4][1][2].",
+      "audio_url": "",
+      "url": "scientists-find-microplastics-8wtfXcjNSKO6RMHJfJwuwg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/45c20940-e9c3-4ffd-96b7-b7bb324eaee0",
+      "published_datetime": "2026-01-08T20:28:32.845237",
+      "title": "Iran protest death toll hits 45 as internet blackout imposed",
+      "featured_image": {
+        "url": "https://www.nytimes.com/2026/01/07/world/middleeast/iran-protest-crackdown.html",
+        "name": "Protests Spread in Iran, and Crackdowns Escalate",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--1VY4TEXC--/t_limit/https://static01.nyt.com/images/2026/01/07/multimedia/07int-iran-protests-zghc/07int-iran-protests-zghc-facebookJumbo.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--5K8qBVEE--/t_thumbnail/https://static01.nyt.com/images/2026/01/07/multimedia/07int-iran-protests-zghc/07int-iran-protests-zghc-facebookJumbo.jpg"
+      },
+      "description": "At least 45 protesters, including eight minors, have been killed during 12 days of nationwide demonstrations in Iran, with Wednesday marking the deadliest single day of unrest as security forces killed 13 people, according to Norway-based Iran Human Rights[1]. The protests, which began in Tehran's Grand Bazaar on December 28 over economic grievances, have now spread to all 31 of Iran's provinces and evolved into broader calls for regime change[2][1].\n\nInternet monitoring group NetBlocks reported a nationwide internet blackout on Thursday as authorities intensified efforts to suppress the demonstrations[3][4]. \"The evidence shows that the scope of crackdown is becoming more violent and more extensive every day,\" said Iran Human Rights director Mahmood Amiry-Moghaddam, adding that hundreds more have been wounded and over 2,000 arrested[1].",
+      "audio_url": "",
+      "url": "iran-protests-death-toll-climb-LHeuOupaQnODBIz4QdqEYQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-08T20:24:04.000000Z",
       "title": "'Our world changed': Matildas star returns home to face family tragedy",
       "featured_image": {
@@ -8,15 +47,6 @@
       },
       "description": "Arsenal's Australia international Kyra Cooney-Cross flies back to Australia to be with her mother, who has been diagnosed with stage-four cancer.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/matildas-star-cooney-cross-returns-home-to-face-family-tragedy/106212710"
-    },
-    {
-      "published_datetime": "2026-01-08T20:04:30.000000Z",
-      "title": "RBA plays the long game on inflation, so a rate rise could still be some way off",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/698752a35a73e9b7acadaa847268b2f5?impolicy=wcms_crop_resize&amp;cropH=2408&amp;cropW=4280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Reserve Bank says inflation is \"too high\", but that doesn't mean it will necessarily rush to raise interest rates next month.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-09/rba-deputy-governor-andrew-hauser-interest-rates-inflation-janda/106210128"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/19965c85-a37e-4b64-a60b-01c8667cabca",
@@ -72,7 +102,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/be1dd99a019bb1619b6ce42acb697b3d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=469&amp;width=862&amp;height=485"
       },
-      "description": "For so long, the pounding sunshine of an Australian heatwave was the grid's biggest threat. It has now become its greatest asset.",
+      "description": "For so long, the pounding sunshine of an Australian heatwave was the grid's biggest threat. It has now become its greatest asset.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/solar-powers-australia-through-heatwave-conditions/106211394"
     },
     {
@@ -81,7 +111,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4f024cd94151cee89cb9e1518be98345?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "As the nation becomes gripped in a heatwave this week, renters will be looking at their rights for cooling down their homes. Here's what they can do.",
+      "description": "With the nation gripped by a heatwave, renters will be looking at their rights for cooling their homes. Here's what they can do.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/what-rental-landlords-are-obliged-to-do-to-cool-homes/106209220"
     },
     {
@@ -211,36 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fd2cfd26-9a62-499b-ac45-58a383c41d02",
-      "published_datetime": "2026-01-08T14:35:49.994484",
-      "title": "China to approve Nvidia H200 chip imports this quarter",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/news/china-approve-nvidia-h200-purchases-072350213.html",
-        "name": "China to Approve Nvidia H200 Buying as Soon as This Quarter",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--jFAAZqFR--/t_limit/https://s.yimg.com/ny/api/res/1.2/IXAiUsqSzxqpEgN7vRo12A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/61816f94205de33bb058cae624bc3fb7",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--YAfeL6GX--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/IXAiUsqSzxqpEgN7vRo12A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/61816f94205de33bb058cae624bc3fb7"
-      },
-      "description": "China is preparing to authorize imports of Nvidia's H200 artificial intelligence chips as soon as this quarter, according to people familiar with the matter, marking a significant reopening of a market that has been largely cut off from the world's leading AI chip maker for more than two years[1][2][3].\n\nChinese officials are readying approval for domestic companies to purchase the chips for select commercial applications, the people said[1][2][4]. However, the military, sensitive government agencies, critical infrastructure operators, and state-owned enterprises will remain barred from using the H200 due to security concerns[1][2][4][5]\u2014restrictions similar to those Beijing has previously imposed on products from Apple and Micron Technology[4][3].\n\nTech giants Alibaba and ByteDance have privately indicated interest in ordering more than 200,000 H200 units each once approval is granted, according to a person familiar with the matter[4][3][6]. The companies, along with Chinese AI startups including DeepSeek, are racing to upgrade their models to compete with OpenAI and other U.S. rivals[4][7][8].",
-      "audio_url": "",
-      "url": "china-expected-to-approve-nvid-xRQ9cQpaS4ms_hbWnxh8ew",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/884376cb-aeba-49fc-b3b1-a1b7f8b5849c",
-      "published_datetime": "2026-01-08T14:31:06.311088",
-      "title": "China restricts rare earth exports to Japan despite civilian-use pledges",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/asia-pacific/china-curbs-rare-earth-exports-japanese-companies-after-dual-use-ban-wsj-reports-2026-01-08/",
-        "name": "China curbs rare earth exports to Japanese companies after ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--TyYGMWvu--/t_limit/https://www.reuters.com/resizer/v2/FCQDEFFE4FJ5LGGLTLRYDJQT7U.jpg%3Fauth%3D3ba4908ceabf9dd3be7bbc6cdec475d0817af2f4047240c94b71cacc7043d715%26width%3D1920%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--iI8tJcR_--/t_thumbnail/https://www.reuters.com/resizer/v2/FCQDEFFE4FJ5LGGLTLRYDJQT7U.jpg%3Fauth%3D3ba4908ceabf9dd3be7bbc6cdec475d0817af2f4047240c94b71cacc7043d715%26width%3D1920%26quality%3D80"
-      },
-      "description": "China has begun restricting rare earth exports to Japanese companies despite official assurances that civilian users would remain unaffected, escalating a dispute triggered by Prime Minister Sanae Takaichi's comments on Taiwan.\n\nOn Thursday, Chinese commerce ministry spokesperson He Yadong said the export ban on dual-use items to Japan would only impact military firms and that \"civilian users will not be affected\"[1][2][3]. However, The Wall Street Journal reported that China has started restricting exports of heavy rare earths and magnets broadly across Japanese industries since Tuesday, contradicting Beijing's official stance[4][5].\n\nJapan lodged a formal protest Thursday when Vice Foreign Minister Takehiro Funakoshi met with Chinese Ambassador Wu Jianghao in Tokyo, demanding China withdraw the measures[6][7][8]. Wu rejected the protest, according to the Chinese embassy[1][9].",
-      "audio_url": "",
-      "url": "china-restricts-rare-earth-exp-wdzmjqI9ThexrpPYnszrxA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-08T21:13:59.143530"
+  "merged_at": "2026-01-08T22:13:48.774800"
 }
