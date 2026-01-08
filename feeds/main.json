@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-08T07:04:41.000000Z",
+      "title": "Man convicted of Toyah Cordingley's murder files appeal",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9dfa0342e681709624f2f92e974d5e1b?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=960&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "In December, a Supreme Court jury convicted former Innisfail nurse Rajwinder Singh of murdering the 24-year-old at Wangetti Beach, north of Cairns.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-08/rajwinder-singh-lodges-appeal-murder-toyah-cordingley-cairns/106199494"
+    },
+    {
+      "published_datetime": "2026-01-08T07:00:08.000000Z",
+      "title": "Who is the woman charged with running antisemitism royal commission?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f8e23431fb40304b9d82510314d0d3e?impolicy=wcms_crop_resize&amp;cropH=867&amp;cropW=1549&amp;xPos=83&amp;yPos=228&amp;width=862&amp;height=485"
+      },
+      "description": "Former High Court judge Virginia Bell will lead the inquiry into antisemitism. But who is the new commissioner?",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-08/virginia-bell-antisemitism-royal-commission/106211026"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/87437d2c-59c4-4307-9103-1c408a49b23d",
+      "published_datetime": "2026-01-08T06:23:19.510287",
+      "title": "Giant embryonic cells use ratchet mechanism to divide",
+      "featured_image": {
+        "url": "https://phys.org/news/2026-01-mechanical-ratchet-mechanism-cell-division.html",
+        "name": "The mechanical ratchet: Research uncovers a new mechanism of cell division",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--v9swpDJj--/t_limit/https://scx1.b-cdn.net/gfx/video_tmb/2026/the-mechanical-ratchet.mp4.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--lq7DlqQk--/t_thumbnail/https://scx1.b-cdn.net/gfx/video_tmb/2026/the-mechanical-ratchet.mp4.jpg"
+      },
+      "description": "Researchers at TUD Dresden University of Technology have unveiled a new mechanism of cell division that challenges a long-held principle in developmental biology, according to a study published January 6 in Nature[1][2][3]. The discovery explains how embryonic cells in zebrafish and other egg-laying species\u2014including sharks, birds, reptiles, and platypuses\u2014divide despite lacking the complete contractile ring traditionally considered essential for the process[4][5][1].",
+      "audio_url": "",
+      "url": "scientists-uncover-mechanical-DSlwGQ5sRpSLYpn6GFwqLQ",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b79d8429-b5a2-4c02-9432-79144cbd1057",
+      "published_datetime": "2026-01-08T06:12:55.909187",
+      "title": "Icebreaker reaches Thwaites Glacier to begin urgent drilling mission",
+      "featured_image": {
+        "url": "https://www.bbc.com/news/science-environment-47030057",
+        "name": "Major expedition targets Thwaites Glacier",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--tbnriW8e--/t_limit/https://c.files.bbci.co.uk/1325C/production/_105382487_20e11cc8-a6a1-41a3-ae52-d75c9bbee4fb.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s---KaswR0t--/t_thumbnail/https://c.files.bbci.co.uk/1325C/production/_105382487_20e11cc8-a6a1-41a3-ae52-d75c9bbee4fb.jpg"
+      },
+      "description": "After navigating through unusually thick sea ice that threatened to derail the mission, the South Korean icebreaker Araon reached Antarctica's Thwaites Glacier on Wednesday, launching a critical scientific expedition to study one of the world's most vulnerable ice formations[1][1]. Nearly 40 international researchers are now racing against time to complete fieldwork that could reveal how quickly this Florida-sized glacier might contribute to global sea-level rise[1][2][3].\n\nThe 12-day voyage from New Zealand proceeded smoothly until Monday evening, when the vessel encountered an unexpectedly dense barrier of sea ice surrounding the Antarctic continent[1][4][1]. For hours, Captain Kim Gwang-heon and his crew maneuvered the 360-foot icebreaker through the frozen landscape, frequently reversing course when passages became blocked[1][3][1]. The ship groaned and shook as it collided with ice formations, creating sounds that resembled \"being inside a washing machine,\" according to The New York Times[1][1]. Captain Kim, who remained awake for more than 30 hours navigating the treacherous conditions, expressed relief when the thickest ice finally dissipated around midnight Wednesday[1][5][1]. \"We all possible for predicting conditions, it doesn't always go as planned,\" he said[1][1].",
+      "audio_url": "",
+      "url": "icebreaker-araon-reaches-thwai-nsXsAOVISSiC9C69tU0q1g",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-08T06:00:00.000000Z",
       "title": "An ICE shooting was filmed from multiple angles. No-one agrees on what happened",
       "featured_image": {
@@ -20,7 +68,7 @@
     },
     {
       "published_datetime": "2026-01-08T05:24:44.000000Z",
-      "title": "Live: PM announces royal commission into antisemitism after Bondi terror attack",
+      "title": "Live: NSW scraps its royal commission after PM announces federal inquiry into antisemitism",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bd6fe53255a9696a83b45774b9ebd7ee?impolicy=wcms_crop_resize&amp;cropH=3215&amp;cropW=5716&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -85,15 +133,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-08/rba-deputy-andrew-hauser-inflation-interest-rates/106208716"
     },
     {
-      "published_datetime": "2026-01-08T01:33:39.000000Z",
-      "title": "'I killed old mate': Prisoner confesses to killing 'child molester' inmate",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/56be5f803226ea43b2b0b9460d5da163?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=227&amp;width=862&amp;height=485"
-      },
-      "description": "Isaac James Martin, 31, says he has not \"bothered\" to get legal representation, telling a Brisbane court he \"killed old mate because he's a child molester\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-08/qld-maryborough-prison-murder-confession/106209376"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/56c7df57-f592-4444-99a5-8fc1a5695d82",
       "published_datetime": "2026-01-08T01:06:41.305949",
       "title": "Trump admin weighs military option for Greenland purchase",
@@ -107,15 +146,6 @@
       "audio_url": "",
       "url": "trump-eyes-greenland-for-strat-aQjZf2usTdu9GKQLXdW1ng",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-08T00:26:36.000000Z",
-      "title": "China has given Latin America billions. That will not save Maduro",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6f3b350481630a4d35643fde3ca82a33?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Despite being one of the strongest critics of Donald Trump's move to capture Nicol\u00e1s Maduro, Beijing has not moved beyond condemnation of Washington.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-08/china-close-ties-with-venezuela-inaction-since-maduro-capture/106205836"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b622c278-572d-433f-b20a-687055bc50a6",
@@ -211,36 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/81491f80-3c18-4b01-bfa6-d6dd7a161ac4",
-      "published_datetime": "2026-01-07T16:45:28.049414",
-      "title": "Interstellar comet releases water far from sun",
-      "featured_image": {
-        "url": "https://www.newscientist.com/article/2507335-comet-3i-atlas-from-beyond-solar-system-carries-key-molecule-for-life/",
-        "name": "Comet 3I/ATLAS from beyond solar system carries key molecule ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--OtxCTcYn--/t_limit/https://images.newscientist.com/wp-content/uploads/2025/12/05135917/SEI_276769933.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--uB5GG23d--/t_thumbnail/https://images.newscientist.com/wp-content/uploads/2025/12/05135917/SEI_276769933.jpg"
-      },
-      "description": "Astronomers have confirmed that the rare interstellar visitor 3I/ATLAS is a natural comet, not an alien spacecraft, following the most comprehensive radio signal search ever conducted on an object from beyond the solar system. The confirmation comes as new observations reveal the comet is releasing water at extraordinary rates and may be among the oldest objects ever observed, potentially dating back 7 to 14 billion years[1][2][3].\n\nResults published this week from the Breakthrough Listen initiative show that multiple radio telescopes, including the Green Bank Telescope, detected no artificial signals during observations conducted as the comet made its closest approach to Earth on December 19, 2025[1][4]. The Green Bank facility, the world's largest fully-steerable radio telescope, ruled out transmitters down to 0.1 watts\u2014ten times weaker than a typical cell phone\u2014during observations on December 18[1][5][6].",
-      "audio_url": "",
-      "url": "interstellar-comet-3iatlas-sho-b4ndjZ_ERcijL3zxnRaB9A",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1fe4c1f6-e1a3-492e-bb66-87a83331bed5",
-      "published_datetime": "2026-01-07T16:40:45.545005",
-      "title": "Study finds aviation emissions could be cut by up to 75%",
-      "featured_image": {
-        "url": "https://www.greenairnews.com/?p=6899",
-        "name": "Aviation likely to be the UK's leading emitter by 2040 ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--KLO4hKfv--/t_limit/https://www.greenairnews.com/wp-content/uploads/2023/02/Heathrow-Airport-aircraft-landing-hi-res.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--_QSXtN26--/t_thumbnail/https://www.greenairnews.com/wp-content/uploads/2023/02/Heathrow-Airport-aircraft-landing-hi-res.jpg"
-      },
-      "description": "Global aviation emissions could be reduced by 50 to 75 percent through three efficiency strategies already within reach: deploying the most fuel-efficient aircraft, eliminating premium cabin seating, and filling more seats on each flight, according to a study published Tuesday in Nature Communications Earth & Environment[1][2][3].\n\nThe research, co-led by the University of Oxford and Linnaeus University, analyzed more than 27 million commercial flights in 2023, revealing that airlines could achieve an 11 percent reduction in emissions immediately by better allocating their existing efficient aircraft on routes they already operate[1][2][3].\n\n\"Our results clearly show that efficiency-focused policy could swiftly reduce aviation emissions by more than half, without reducing flight numbers or waiting for future fuels,\" said co-author Dr. Milan Kl\u00f6wer of Oxford's Department of Physics[2][3]. \"These are tools that we can use right now.\"",
-      "audio_url": "",
-      "url": "study-finds-aviation-emissions-q2uwe4JlSWipY0MS5WqrQw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-08T06:22:10.648725"
+  "merged_at": "2026-01-08T07:19:22.426425"
 }
