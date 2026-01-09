@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-09T04:58:12.000000Z",
+      "title": "Emergency departments, doctors deal with surge in heat-related illness",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dbeb5e944489072ca719a3e2d5174e8c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=55&amp;width=862&amp;height=485"
+      },
+      "description": "Emergency departments, medical centres and first responders are dealing with a surge in heat-related illness across Australia's south-east as temperatures soar to near record levels.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-09/heat-illness-emergency-presentations-surge-heatwave/106213074"
+    },
+    {
       "published_datetime": "2026-01-09T04:19:22.000000Z",
-      "title": "Palestinian author calls for apology over Adelaide Writers' Week axing",
+      "title": "Palestinian author calls for apology as dozens pull out of Adelaide Writers' Week",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/69ccaf380413bb5058c4ae1d96ef663b?impolicy=wcms_crop_resize&amp;cropH=411&amp;cropW=730&amp;xPos=0&amp;yPos=65&amp;width=862&amp;height=485"
       },
@@ -214,19 +223,10 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-08T20:04:30.000000Z",
-      "title": "'How rude can I be?' RBA deputy gets candid on inflation and rates",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/698752a35a73e9b7acadaa847268b2f5?impolicy=wcms_crop_resize&amp;cropH=2408&amp;cropW=4280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Reserve Bank says inflation is \"too high\", but that doesn't mean it will necessarily rush to raise interest rates next month.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-09/rba-deputy-governor-andrew-hauser-interest-rates-inflation-janda/106210128"
-    },
-    {
       "published_datetime": "2026-01-08T19:19:03.000000Z",
       "title": "Live: More evacuations ordered as Victorian firefighters confront catastrophic conditions",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/06b8b48cc224c9b65f24b1dd7bd54d2c?impolicy=wcms_crop_resize&amp;cropH=270&amp;cropW=480&amp;xPos=0&amp;yPos=45&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8fe2a7e182c2108aba685ab723b406cd?impolicy=wcms_crop_resize&amp;cropH=980&amp;cropW=1742&amp;xPos=137&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Multiple out-of-control bushfires are threatening dozens of towns in central and north-eastern Victoria, with hot temperatures and strong winds resulting in \"catastrophic\" fire conditions. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/fire-weather-heatwave-live-blog-victoria-sa-nsw/106212116"
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-09T04:33:03.207490"
+  "merged_at": "2026-01-09T05:18:41.317626"
 }
