@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/50061060-8ca5-4645-9931-e6d2049b0989",
+      "published_datetime": "2026-01-09T12:14:12.470522",
+      "title": "Hebrew University develops color-tunable solar windows",
+      "featured_image": {
+        "url": "https://www.sculpteo.com/blog/2018/01/24/3d-printed-solar-panels-meet-the-renewable-energy-revolution/",
+        "name": "Revolutionizing Energy: 3D Printed Solar Panels",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--L7Hx6eDP--/t_limit/https://www.sculpteo.com/blog/wp-content/uploads/2018/01/flexpost.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--4xClKSY2--/t_thumbnail/https://www.sculpteo.com/blog/wp-content/uploads/2018/01/flexpost.jpg"
+      },
+      "description": "Researchers at the Hebrew University of Jerusalem have developed a semi-transparent, color-tunable solar cell that could transform windows and building facades into electricity generators without sacrificing aesthetics. The technology, announced this week, uses 3D-printed microscopic pillars to control light transmission while maintaining power output[1][2][3].",
+      "audio_url": "",
+      "url": "hebrew-university-unveils-3d-p-_7TdFyqnQGG2TN4AjIsnXA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/18c97e99-60b6-4806-8974-a7a32140ac9a",
       "published_datetime": "2026-01-09T11:12:24.440821",
       "title": "China rejects Japan appeal to lift export controls",
@@ -190,21 +205,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/us-withdrawal-trump-united-nations-organisations/106210134"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fe4578d6-e8c1-435e-9894-d45ad37ac958",
-      "published_datetime": "2026-01-09T03:08:15.891129",
-      "title": "Ancient humans may have met at Indonesian cave 40,000 years ago",
-      "featured_image": {
-        "url": "https://newatlas.com/history/humans-hominins-sulawesi/",
-        "name": "Humans and ancient hominins shared Indonesian cave - New Atlas",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--HPKJ1hMX--/t_limit/https://assets.newatlas.com/dims4/default/1540573/2147483647/strip/true/crop/6000x3150%2B0%2B425/resize/1200x630%21/quality/90/%3Furl%3Dhttps%253A%252F%252Fnewatlas-brightspot.s3.amazonaws.com%252F1b%252F44%252Ff81515ee4790971f804215a05053%252Fcave.jpeg%26na.image_optimisation%3D0",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--8iIKflWm--/t_thumbnail/https://assets.newatlas.com/dims4/default/1540573/2147483647/strip/true/crop/6000x3150%2B0%2B425/resize/1200x630%21/quality/90/%3Furl%3Dhttps%253A%252F%252Fnewatlas-brightspot.s3.amazonaws.com%252F1b%252F44%252Ff81515ee4790971f804215a05053%252Fcave.jpeg%26na.image_optimisation%3D0"
-      },
-      "description": "A deep excavation in Indonesia has uncovered evidence that modern humans and an extinct hominin species may have overlapped at the same cave site more than 40,000 years ago, according to research published Wednesday by an international archaeological team led by Griffith University.\n\nThe findings from Leang Bulu Bettue, a limestone cave in southern Sulawesi, reveal a dramatic shift in the archaeological record around 40,000 years ago that researchers believe marks the arrival of Homo sapiens and the possible replacement of archaic hominins who had occupied the island for over a million years[1][2][3][4].\n\n\"The depth and continuity of the cultural sequence at Leang Bulu Bettue now positions this cave as a flagship site for investigating whether these two human lineages overlapped in time,\" said Basran Burhan, a Griffith PhD candidate who led the study published in PLOS ONE[2][4].",
-      "audio_url": "",
-      "url": "sulawesi-cave-dig-reveals-anci-qTUPoZqXRr.pHu4ubLJ8zg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-09T03:06:30.000000Z",
       "title": "Australia's population forecast to reach 28 million this year",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-09T13:33:04.276310"
+  "merged_at": "2026-01-09T14:16:39.046718"
 }
