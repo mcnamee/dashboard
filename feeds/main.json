@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2702bdcc-85da-4a8e-952b-4230df25e1bd",
+      "published_datetime": "2026-01-09T16:53:09.424124",
+      "title": "DeepSeek plans February launch for advanced coding AI model",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2025/05/29/chinas-deepseek-releases-upgraded-r1-ai-model-in-openai-competition.html",
+        "name": "China's DeepSeek quietly releases upgraded R1 AI model, ramping up competition with OpenAI",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_rhKELTG--/t_limit/https://image.cnbcfm.com/api/v1/image/108095038-1738260179056-gettyimages-2196070561-AI_DEEPSEEK.jpeg%3Fv%3D1748500865%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--DK4lkXuL--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108095038-1738260179056-gettyimages-2196070561-AI_DEEPSEEK.jpeg%3Fv%3D1748500865%26w%3D1920%26h%3D1080"
+      },
+      "description": "Chinese AI startup DeepSeek plans to launch its next-generation V4 model in mid-February, according to a report from The Information, as the company extends its reach in developing nations despite security concerns from Western governments[1][2][3][4].\n\nInternal tests by DeepSeek employees suggest V4 could outperform rivals including Anthropic's Claude and OpenAI's GPT series in coding tasks, The Information reported Friday, citing people familiar with the matter[1][2][4]. The model has also achieved breakthroughs in processing extremely long coding prompts, potentially offering developers working on complex software projects a new advantage[1][3][4].",
+      "audio_url": "",
+      "url": "deepseek-to-launch-advanced-v4-z_M9O_q2S3WdlRxai2VTPQ",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fb000841-cf5a-47c6-b871-8efa832baef9",
+      "published_datetime": "2026-01-09T16:41:00.191537",
+      "title": "Pakistan nears $1.5B weapons deal with Sudan",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2026/1/9/why-is-pakistan-selling-its-jf-17-fighter-jets-to-bangladesh-and-others",
+        "name": "Why is Pakistan selling its JF-17 fighter jets to Bangladesh and others?",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--eGY5kDsE--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/01/AP25323288920911-1767838925.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Q4IGifdW--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/01/AP25323288920911-1767838925.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "Pakistan is in the final stages of a $1.5 billion weapons deal with Sudan, sources said Thursday, marking another major defense export for Islamabad as the cash-strapped nation seeks to leverage its growing arms industry. The agreement would supply jets, drones, and advanced air defense systems to Sudan's army as it battles paramilitary forces in a civil war that has created the world's worst humanitarian crisis.\n\nThe deal encompasses 10 Karakoram-8 light attack aircraft, more than 200 drones for reconnaissance and strike missions, and air defense systems, according to three sources with knowledge of the matter who spoke on condition of anonymity[1][2][3][4]. Aamir Masood, a retired Pakistani air marshal who continues to be briefed on air force matters, described the agreement as a \"done deal\"[1][2][3][4].\n\nThe weapons package may also include Super Mushshak training aircraft and possibly JF-17 fighters developed jointly with China, though Masood did not provide figures or a delivery schedule[1][2][4]. Pakistan's military and defense ministry did not immediately respond to requests for comment, nor did a spokesman for Sudan's army[1][4].",
+      "audio_url": "",
+      "url": "pakistan-nears-1-5-billion-arm-yXTpA.MLTCCwEQVvyQrMPg",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8fd6e967-3f00-4f2e-b8d5-cb2bc8580f79",
       "published_datetime": "2026-01-09T15:42:07.150034",
       "title": "Iran's Khamenei vows no retreat as crackdown kills 42",
@@ -127,36 +157,6 @@
       "description": "Asian markets rose on Friday as investors braced for critical US jobs data and a potential Supreme Court decision that could reshape President Donald Trump's tariff policy.\n\nJapan's Nikkei 225 surged 1.61% to close at 51,939.89, powered by a dramatic rally in Fast Retailing, the parent company of Uniqlo, which jumped 10.6% after reporting a 34% surge in quarterly operating profit and raising its annual earnings forecast[1][2]. Hong Kong's Hang Seng Index gained 0.3% to 26,231.79, while the Shanghai Composite rose 0.9% to 4,120.43[1]. South Korea's Kospi added 0.8%, though Australia's S&P/ASX 200 dipped slightly as Rio Tinto shares fell more than 6% following news of preliminary merger talks with Glencore[1].",
       "audio_url": "",
       "url": "asian-stocks-mixed-as-investor-_jfzrqWgRKqIkReN1LvpEg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1a0f0551-936b-4091-8598-19f7e9cf23aa",
-      "published_datetime": "2026-01-09T10:00:01.197024",
-      "title": "Chemify says chemistry stuck in 'dark ages,' needs AI",
-      "featured_image": {
-        "url": "https://uk.news.yahoo.com/chemistry-stuck-dark-ages-chemputation-125444539.html",
-        "name": "Chemistry is stuck in the dark ages \u2013 'chemputation' can bring it into ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--xyt32Hw8--/t_limit/https://media.zenfs.com/en/the_conversation_464/5ee0299a18accfed54967c915220d0cf",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--xbaZ_-g0--/t_thumbnail/https://media.zenfs.com/en/the_conversation_464/5ee0299a18accfed54967c915220d0cf"
-      },
-      "description": "A Glasgow-based chemistry startup is pioneering a digital revolution in molecular synthesis, arguing that chemistry remains trapped in manual methods while other sciences have embraced automation and artificial intelligence.\n\nIn an article published Wednesday, Chemify founder and CEO Lee Cronin declared that \"chemistry is stuck in the dark ages\" and needs a programmable language to bring it into the digital era[1][2][3]. The University of Glasgow professor argues that while AI can design thousands of hypothetical drug molecules overnight, each still requires human chemists to manually synthesize them\u2014creating a bottleneck that prevents chemistry from matching the speed of computational design[1][2].",
-      "audio_url": "",
-      "url": "chemify-advances-digital-chemp-w6nRbmj3TpOl3R9KUI1VRA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f18f6774-8319-431b-9cfa-54dd2b4046f9",
-      "published_datetime": "2026-01-09T08:30:10.667474",
-      "title": "Astronomers discover hottest early galaxy cluster, starless dark matter cloud",
-      "featured_image": {
-        "url": "https://www.nytimes.com/2026/01/08/science/cloud-9-starless-dark-galaxy.html",
-        "name": "Scientists Discover Cloud-9, a Starless 'Galaxy That Wasn't'",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--tm4WOCoy--/t_limit/https://static01.nyt.com/images/2026/01/13/multimedia/08HS-sci-cloud-9-clph/08HS-sci-cloud-9-clph-facebookJumbo.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--e7BUA9yb--/t_thumbnail/https://static01.nyt.com/images/2026/01/13/multimedia/08HS-sci-cloud-9-clph/08HS-sci-cloud-9-clph-facebookJumbo.jpg"
-      },
-      "description": "Two extraordinary discoveries presented this week at the American Astronomical Society meeting in Phoenix are challenging fundamental assumptions about galaxy formation and the nature of dark matter, offering astronomers rare glimpses into the universe's earliest epochs.\n\nResearchers announced the identification of the earliest and hottest galaxy cluster ever observed, alongside the first confirmed detection of a starless dark matter cloud\u2014a \"failed galaxy\" that has existed unchanged for billions of years[1][2][3].",
-      "audio_url": "",
-      "url": "astronomers-discover-unusual-e-U7M73nkqTvmDOqH.FJ7jSw",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-09T17:17:12.367213"
+  "merged_at": "2026-01-09T18:20:29.447161"
 }
