@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8fd6e967-3f00-4f2e-b8d5-cb2bc8580f79",
+      "published_datetime": "2026-01-09T15:42:07.150034",
+      "title": "Iran's Khamenei vows no retreat as crackdown kills 42",
+      "featured_image": {
+        "url": "https://www.bloomberg.com/news/articles/2025-06-17/what-to-know-about-iran-supreme-leader-ali-khamenei-revolutionary-guards-corps",
+        "name": "What to Know About Iran Supreme Leader Ali Khamenei ...",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1767973135/url_uploads/-1x-1_kqszpr.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1767973135/url_uploads/-1x-1_kqszpr.jpg"
+      },
+      "description": "Iran's Supreme Leader Ayatollah Ali Khamenei declared Friday that the government will not back down against nationwide protests, accusing demonstrators of destroying public property to satisfy U.S. President Donald Trump as the regime tightened its crackdown on dissent[1][2][3][4][5].\n\n\"They are ruining their own streets to make the president of another country happy,\" Khamenei said in a televised address, dismissing Trump as having hands \"stained with the blood of Iranians\" while supporters chanted \"Death to America\"[1][2][3][6][5]. His defiant stance came as Iran's judiciary chief Gholamhossein Mohseni-Ejei separately warned that punishment for protesters \"will be decisive, maximum and without any legal leniency\"[1][7][5][8].\n\nAt least 42 people have been killed and more than 2,270 detained since demonstrations erupted December 28 over Iran's economic crisis, according to the U.S.-based Human Rights Activists News Agency[1][9][3][10][5][11]. The death toll includes 29 protesters, eight security personnel, and five minors[11][12]. Rights groups warned the actual numbers could be higher due to a nationwide internet and phone blackout imposed Thursday[9][13][10][6].",
+      "audio_url": "",
+      "url": "iran-supreme-leader-vows-no-ba-AAj2NnNmSauLbrpZKQS4kA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/50d703a3-4b2f-40ab-8678-17c1a83ed906",
       "published_datetime": "2026-01-09T14:36:51.535108",
       "title": "X restricts Grok AI tool after deepfake backlash",
@@ -142,21 +157,6 @@
       "description": "Two extraordinary discoveries presented this week at the American Astronomical Society meeting in Phoenix are challenging fundamental assumptions about galaxy formation and the nature of dark matter, offering astronomers rare glimpses into the universe's earliest epochs.\n\nResearchers announced the identification of the earliest and hottest galaxy cluster ever observed, alongside the first confirmed detection of a starless dark matter cloud\u2014a \"failed galaxy\" that has existed unchanged for billions of years[1][2][3].",
       "audio_url": "",
       "url": "astronomers-discover-unusual-e-U7M73nkqTvmDOqH.FJ7jSw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/84325877-b7b6-445f-b0d9-eccd90811fb7",
-      "published_datetime": "2026-01-09T08:20:54.359906",
-      "title": "Oceans set heat record in 2025 for ninth straight year",
-      "featured_image": {
-        "url": "https://www.geomar.de/en/news/article/der-ozean-als-waechter-der-erderwaermung",
-        "name": "The Ocean: Guardian of Global Warming",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--J4ynDsd_--/t_limit/https://www.geomar.de/fileadmin/_processed_/e/4/csm__GEO0151_2025-11-05_Petersenpreis_Gruppenfoto-select-Karina-von-Schuckmann_Sarah-Uphoff_d2a1eea917.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--16UIXWLT--/t_thumbnail/https://www.geomar.de/fileadmin/_processed_/e/4/csm__GEO0151_2025-11-05_Petersenpreis_Gruppenfoto-select-Karina-von-Schuckmann_Sarah-Uphoff_d2a1eea917.jpg"
-      },
-      "description": "Earth's oceans absorbed a record-breaking amount of heat in 2025, marking the ninth consecutive year of unprecedented warming and intensifying concerns about extreme weather, rising seas, and collapsing marine ecosystems, according to research published Friday by an international team of scientists.\n\nThe upper 2,000 meters of the world's oceans absorbed 23 zettajoules more energy than in 2024\u2014an amount equivalent to roughly 37 years of global energy consumption\u2014according to the study in Advances in Atmospheric Sciences[1][2][3][4][5]. The research involved more than 50 scientists from 31 institutions across three continents[3][4].\n\n\"Every year, we are witnessing an increase in global temperatures\u2014setting new records has become a recurring theme,\" said Prof. John Abraham from the University of St. Thomas, who co-authored the study[2]. \"Global warming equates to ocean warming. To understand how much the Earth has warmed or how quickly we may warm in the future, we must look to the oceans\"[2].",
-      "audio_url": "",
-      "url": "oceans-absorbed-record-heat-in-47VXWjTkTQaAGSz8NhyJ6A",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-09T16:17:22.211679"
+  "merged_at": "2026-01-09T16:37:11.752721"
 }
