@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f18f6774-8319-431b-9cfa-54dd2b4046f9",
+      "published_datetime": "2026-01-09T08:30:10.667474",
+      "title": "Astronomers discover hottest early galaxy cluster, starless dark matter cloud",
+      "featured_image": {
+        "url": "https://www.nytimes.com/2026/01/08/science/cloud-9-starless-dark-galaxy.html",
+        "name": "Scientists Discover Cloud-9, a Starless 'Galaxy That Wasn't'",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--tm4WOCoy--/t_limit/https://static01.nyt.com/images/2026/01/13/multimedia/08HS-sci-cloud-9-clph/08HS-sci-cloud-9-clph-facebookJumbo.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--e7BUA9yb--/t_thumbnail/https://static01.nyt.com/images/2026/01/13/multimedia/08HS-sci-cloud-9-clph/08HS-sci-cloud-9-clph-facebookJumbo.jpg"
+      },
+      "description": "Two extraordinary discoveries presented this week at the American Astronomical Society meeting in Phoenix are challenging fundamental assumptions about galaxy formation and the nature of dark matter, offering astronomers rare glimpses into the universe's earliest epochs.\n\nResearchers announced the identification of the earliest and hottest galaxy cluster ever observed, alongside the first confirmed detection of a starless dark matter cloud\u2014a \"failed galaxy\" that has existed unchanged for billions of years[1][2][3].",
+      "audio_url": "",
+      "url": "astronomers-discover-unusual-e-U7M73nkqTvmDOqH.FJ7jSw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/84325877-b7b6-445f-b0d9-eccd90811fb7",
+      "published_datetime": "2026-01-09T08:20:54.359906",
+      "title": "Oceans set heat record in 2025 for ninth straight year",
+      "featured_image": {
+        "url": "https://www.geomar.de/en/news/article/der-ozean-als-waechter-der-erderwaermung",
+        "name": "The Ocean: Guardian of Global Warming",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--J4ynDsd_--/t_limit/https://www.geomar.de/fileadmin/_processed_/e/4/csm__GEO0151_2025-11-05_Petersenpreis_Gruppenfoto-select-Karina-von-Schuckmann_Sarah-Uphoff_d2a1eea917.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--16UIXWLT--/t_thumbnail/https://www.geomar.de/fileadmin/_processed_/e/4/csm__GEO0151_2025-11-05_Petersenpreis_Gruppenfoto-select-Karina-von-Schuckmann_Sarah-Uphoff_d2a1eea917.jpg"
+      },
+      "description": "Earth's oceans absorbed a record-breaking amount of heat in 2025, marking the ninth consecutive year of unprecedented warming and intensifying concerns about extreme weather, rising seas, and collapsing marine ecosystems, according to research published Friday by an international team of scientists.\n\nThe upper 2,000 meters of the world's oceans absorbed 23 zettajoules more energy than in 2024\u2014an amount equivalent to roughly 37 years of global energy consumption\u2014according to the study in Advances in Atmospheric Sciences[1][2][3][4][5]. The research involved more than 50 scientists from 31 institutions across three continents[3][4].\n\n\"Every year, we are witnessing an increase in global temperatures\u2014setting new records has become a recurring theme,\" said Prof. John Abraham from the University of St. Thomas, who co-authored the study[2]. \"Global warming equates to ocean warming. To understand how much the Earth has warmed or how quickly we may warm in the future, we must look to the oceans\"[2].",
+      "audio_url": "",
+      "url": "oceans-absorbed-record-heat-in-47VXWjTkTQaAGSz8NhyJ6A",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-09T08:14:26.000000Z",
       "title": "Alleged cybercrime 'mastermind' goes from billionaire to black bag over the head",
       "featured_image": {
@@ -8,6 +38,21 @@
       },
       "description": "Accused scam boss Chen Zhi is extradited to China from Cambodia after being indicted by the United States over an alleged multi-billion-dollar fraud.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/accused-scam-kingpin-chen-zhi-extradited-china-cambodia/106213664"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0b9f6b5c-236e-48f9-93a9-de5980a957dd",
+      "published_datetime": "2026-01-09T08:09:51.428620",
+      "title": "Oil prices climb on Venezuela, Iran supply concerns",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/01/08/oil-prices-gain-on-us-inventory-draw-venezuela-in-focus.html",
+        "name": "Oil prices rise over 3% as market focuses on Venezuela, supply ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--EohIH3co--/t_limit/https://image.cnbcfm.com/api/v1/image/108234888-1764640978236-gettyimages-1291793738-366223737.jpeg%3Fv%3D1767843943%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--e0svcPka--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108234888-1764640978236-gettyimages-1291793738-366223737.jpeg%3Fv%3D1767843943%26w%3D1920%26h%3D1080"
+      },
+      "description": "Oil prices climbed for a second consecutive day Friday as traders weighed potential supply disruptions from Venezuela and escalating unrest in Iran, pushing Brent crude to $62.43 per barrel and West Texas Intermediate to $58.15[1][2][3].\n\nThe gains followed a sharp rally Thursday when both benchmarks surged more than 3%\u2014the largest single-day increase since October\u2014after two days of declines[1][2][4]. Brent is on track to climb 2.7% for the week, while WTI has gained 1.4%[1][2].",
+      "audio_url": "",
+      "url": "oil-prices-rise-on-venezuela-a-vkELzgtcQsyI8gVqy1LlzQ",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-09T07:14:54.000000Z",
@@ -187,51 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/32373bf6-3f27-488d-9566-951cca938bb2",
-      "published_datetime": "2026-01-08T21:26:25.409516",
-      "title": "UN says US must pay dues despite Trump order to quit 66 groups",
-      "featured_image": {
-        "url": "https://www.dw.com/en/trump-withdraws-us-from-66-international-organizations/a-75427108",
-        "name": "Trump withdraws US from 66 international organizations \u2013 DW ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--WLwNEDL9--/t_limit/https://static.dw.com/image/75427171_605.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Q7R0RGyr--/t_thumbnail/https://static.dw.com/image/75427171_605.jpg"
-      },
-      "description": "The United Nations said Thursday the United States has a legal obligation to continue funding U.N. agencies, one day after President Donald Trump signed an order withdrawing from 66 international organizations, including 31 affiliated with the world body[1][2][3].\n\nSecretary-General Antonio Guterres expressed regret over the decision and stressed that assessed contributions to the U.N. regular budget and peacekeeping operations \"are a legal obligation under the UN Charter for all Member States, including the United States,\" according to spokesman Stephane Dujarric[1][4][5]. The statement came as U.N. officials said they learned of the withdrawal through news reports and White House social media posts Wednesday, with no formal notification from the Trump administration[1][2].\n\nThe executive order, which followed a yearlong review, targets organizations the White House says promote \"radical climate policies, global governance, and ideological programs that conflict with U.S. sovereignty and economic strength\"[6][7][8]. Among the 31 U.N. entities are the U.N. Population Fund, which provides reproductive health services in more than 150 countries, and UN Women, which promotes gender equality[1][2][9]. The order also directs withdrawal from the U.N. Framework Convention on Climate Change, the 1992 treaty that underpins the Paris climate agreement[6][1][2].\n\nSecretary of State Marco Rubio defended the move in a statement, saying the Trump administration determined the organizations were \"redundant, mismanaged, unnecessary, wasteful, poorly run\" or advancing agendas inconsistent with U.S. interests[10][11][12]. The White House said the withdrawals would end American taxpayer funding for entities \"that advance globalist agendas over U.S. priorities\"[6][13][9].",
-      "audio_url": "",
-      "url": "un-urges-us-to-fund-agencies-a-KZ8P45JBSLKF1HPy0q5MvQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b844dfa4-cd93-41d6-8ff4-e95bcf31bd28",
-      "published_datetime": "2026-01-08T20:50:57.618002",
-      "title": "Chinese study finds urban air contains millions of microplastic particles per cubic meter",
-      "featured_image": {
-        "url": "https://ca.news.yahoo.com/scientists-detect-hidden-plastic-clouds-083152375.html",
-        "name": "Scientists detect hidden plastic clouds hovering over Chinese cities",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--gt9zKagC--/t_limit/https://media.zenfs.com/en/the_independent_635/0c9cdd11020c9e1300e0f33e9a641433",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Rv6Ojerm--/t_thumbnail/https://media.zenfs.com/en/the_independent_635/0c9cdd11020c9e1300e0f33e9a641433"
-      },
-      "description": "Researchers in China have identified urban atmospheres as primary reservoirs for microplastic and nanoplastic pollution, finding concentrations up to a million times higher than previously detected using traditional methods.\n\nA study published in Science Advances on January 7 by scientists from the Institute of Earth Environment of the Chinese Academy of Sciences revealed that microplastics and nanoplastics accumulate in city air at levels ranging from 140,000 to 180,000 particles per cubic meter in the two Chinese megacities of Guangzhou and Xi'an[1][2][3]. The research marks the first detection of nanoplastics as small as 200 nanometers in complex environmental samples[4][1][2].",
-      "audio_url": "",
-      "url": "scientists-find-microplastics-8wtfXcjNSKO6RMHJfJwuwg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/45c20940-e9c3-4ffd-96b7-b7bb324eaee0",
-      "published_datetime": "2026-01-08T20:28:32.845237",
-      "title": "Iran protest death toll hits 45 as internet blackout imposed",
-      "featured_image": {
-        "url": "https://www.nytimes.com/2026/01/07/world/middleeast/iran-protest-crackdown.html",
-        "name": "Protests Spread in Iran, and Crackdowns Escalate",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--1VY4TEXC--/t_limit/https://static01.nyt.com/images/2026/01/07/multimedia/07int-iran-protests-zghc/07int-iran-protests-zghc-facebookJumbo.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--5K8qBVEE--/t_thumbnail/https://static01.nyt.com/images/2026/01/07/multimedia/07int-iran-protests-zghc/07int-iran-protests-zghc-facebookJumbo.jpg"
-      },
-      "description": "At least 45 protesters, including eight minors, have been killed during 12 days of nationwide demonstrations in Iran, with Wednesday marking the deadliest single day of unrest as security forces killed 13 people, according to Norway-based Iran Human Rights[1]. The protests, which began in Tehran's Grand Bazaar on December 28 over economic grievances, have now spread to all 31 of Iran's provinces and evolved into broader calls for regime change[2][1].\n\nInternet monitoring group NetBlocks reported a nationwide internet blackout on Thursday as authorities intensified efforts to suppress the demonstrations[3][4]. \"The evidence shows that the scope of crackdown is becoming more violent and more extensive every day,\" said Iran Human Rights director Mahmood Amiry-Moghaddam, adding that hundreds more have been wounded and over 2,000 arrested[1].",
-      "audio_url": "",
-      "url": "iran-protests-death-toll-climb-LHeuOupaQnODBIz4QdqEYQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-08T19:19:03.000000Z",
       "title": "Live: Three still missing, residents told to flee as 'catastrophic' fires race across Victoria",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-09T09:20:29.619397"
+  "merged_at": "2026-01-09T09:35:02.427681"
 }
