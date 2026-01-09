@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1a0f0551-936b-4091-8598-19f7e9cf23aa",
+      "published_datetime": "2026-01-09T10:00:01.197024",
+      "title": "Chemify says chemistry stuck in 'dark ages,' needs AI",
+      "featured_image": {
+        "url": "https://uk.news.yahoo.com/chemistry-stuck-dark-ages-chemputation-125444539.html",
+        "name": "Chemistry is stuck in the dark ages \u2013 'chemputation' can bring it into ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--xyt32Hw8--/t_limit/https://media.zenfs.com/en/the_conversation_464/5ee0299a18accfed54967c915220d0cf",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--xbaZ_-g0--/t_thumbnail/https://media.zenfs.com/en/the_conversation_464/5ee0299a18accfed54967c915220d0cf"
+      },
+      "description": "A Glasgow-based chemistry startup is pioneering a digital revolution in molecular synthesis, arguing that chemistry remains trapped in manual methods while other sciences have embraced automation and artificial intelligence.\n\nIn an article published Wednesday, Chemify founder and CEO Lee Cronin declared that \"chemistry is stuck in the dark ages\" and needs a programmable language to bring it into the digital era[1][2][3]. The University of Glasgow professor argues that while AI can design thousands of hypothetical drug molecules overnight, each still requires human chemists to manually synthesize them\u2014creating a bottleneck that prevents chemistry from matching the speed of computational design[1][2].",
+      "audio_url": "",
+      "url": "chemify-advances-digital-chemp-w6nRbmj3TpOl3R9KUI1VRA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f18f6774-8319-431b-9cfa-54dd2b4046f9",
       "published_datetime": "2026-01-09T08:30:10.667474",
       "title": "Astronomers discover hottest early galaxy cluster, starless dark matter cloud",
@@ -65,11 +80,11 @@
     },
     {
       "published_datetime": "2026-01-09T07:11:00.000000Z",
-      "title": "Russia hits Ukraine with Oreshnik hypersonic missile: defence ministry",
+      "title": "Russia hits Ukraine with hypersonic missile, Qatari embassy damaged",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0364c2648999eb6e05b7902abb7bb1ba?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Russia's defence ministry says it has carried out a massive overnight strike on energy facilities and drone manufacturing sites in the Ukraine.",
+      "description": "A \"massive\" Russian night-time attack on Ukraine damaged 20 residential buildings in Kyiv and its suburbs, as well as Qatar's embassy, President Volodymyr Zelenskyy says.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/russia-says-it-hit-ukraine-with-oreshnik-hypersonic-missile/106214842"
     },
     {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fbd6961e-e314-4470-90a1-6b42a4f63042",
-      "published_datetime": "2026-01-08T21:38:13.461328",
-      "title": "Chinese scientists extract 98% of gold from e-waste in 20 minutes",
-      "featured_image": {
-        "url": "https://sustainability-news.net/sustainability-news/breakthrough-composite-material-boosts-gold-recovery-from-e-waste-by-10-x/",
-        "name": "Breakthrough composite boosts gold recovery from e-waste by 10x",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--6EOXzfeo--/t_limit/https://sustainability-news.net/wp-content/uploads/2024/10/Breakthrough-composite-material-boosts-gold-recovery-from-e-waste-by-10x-1536x1024.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Gk-Zf4ie--/t_thumbnail/https://sustainability-news.net/wp-content/uploads/2024/10/Breakthrough-composite-material-boosts-gold-recovery-from-e-waste-by-10x-1536x1024.jpg"
-      },
-      "description": "Researchers from China have developed a rapid and environmentally-friendly technique to extract more than 98 percent of gold from electronic waste in under 20 minutes, offering a potentially lucrative solution to the global e-waste crisis as gold prices hover near record highs.\n\nThe breakthrough method, developed by scientists at the Guangzhou Institute of Energy Conversion, part of the Chinese Academy of Sciences, and South China University of Technology, uses a simple chemical solution that operates at room temperature without the need for toxic substances like cyanide[1][2][3]. The findings were published in the journal Angewandte Chemie International Edition[1][4][3].",
-      "audio_url": "",
-      "url": "chinese-scientists-unveil-fast-0d0Nbo7LSDSQHPdnDL78Xw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-08T19:19:03.000000Z",
       "title": "Live: Wind change set to hamper efforts to contain multiple out-of-control Victorian fires",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-09T10:15:16.813520"
+  "merged_at": "2026-01-09T11:13:04.194211"
 }
