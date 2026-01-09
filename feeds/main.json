@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-09T13:17:55.000000Z",
+      "title": "State of disaster declared in Victoria as out-of-control fires continue to burn",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bddd250cee14a11a87f3478043f0a095?impolicy=wcms_crop_resize&amp;cropH=912&amp;cropW=1621&amp;xPos=56&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Three people remain missing and Victoria's premier has declared a state of disaster as fast-moving bushfires threaten dozens of towns.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-10/bushfires-victoria-homes-razed-people-missing/106214638"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/50061060-8ca5-4645-9931-e6d2049b0989",
       "published_datetime": "2026-01-09T12:14:12.470522",
       "title": "Hebrew University develops color-tunable solar windows",
@@ -232,15 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/us-federal-agents-shot-two-people-in-portland-police-say/106213350"
     },
     {
-      "published_datetime": "2026-01-08T19:19:03.000000Z",
-      "title": "Live: Almost 40,000 homes without power as authorities battle out-of-control Victorian fires",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8fe2a7e182c2108aba685ab723b406cd?impolicy=wcms_crop_resize&amp;cropH=609&amp;cropW=1083&amp;xPos=798&amp;yPos=371&amp;width=862&amp;height=485"
-      },
-      "description": "Multiple out-of-control bushfires are threatening dozens of towns in central and north-eastern Victoria, with hot temperatures and strong winds resulting in \"catastrophic\" fire conditions. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-09/fire-weather-heatwave-live-blog-victoria-sa-nsw/106212116"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-09T14:16:39.046718"
+  "merged_at": "2026-01-09T15:14:56.601030"
 }
