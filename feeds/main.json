@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-09T21:11:04.000000Z",
+      "title": "Mums who drank during pregnancy call for universal alcohol warnings",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f9c82fc692ff61bbd9cd076f36c8ce3?impolicy=wcms_crop_resize&amp;cropH=2088&amp;cropW=3712&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "New research shows thousands of alcohol products remain on Australian shelves without mandated pregnancy warning labels.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-10/mums-drank-pregnancy-alcohol-warning-labels/106154908"
+    },
+    {
+      "published_datetime": "2026-01-09T20:31:00.000000Z",
+      "title": "The daily struggle continues in Caracas as Venezuelans dare to hope for change",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/57990d82f252468fa4e5752fbe52c783?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
+      },
+      "description": "The ABC hears from residents of Venezuela's capital, Caracas, about the struggles of daily life and their hopes and fears after American intervention.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-10/inside-venezuela-daily-struggle-continues-in-caracas/106215776"
+    },
+    {
       "published_datetime": "2026-01-09T20:19:05.000000Z",
       "title": "North Queensland braces for tropical cyclone likely to form today",
       "featured_image": {
@@ -29,7 +47,7 @@
     },
     {
       "published_datetime": "2026-01-09T19:54:26.000000Z",
-      "title": "Live: Emergency-level fires rage out of control across Victoria",
+      "title": "Live: Bushfire disaster declared in Victoria as heatwave intensifies across NSW",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9339a727e745a8f49e70991ea135db4f?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
       },
@@ -214,24 +232,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/iranian-leader-defiant-amid-nationwide-protests/106215570"
     },
     {
-      "published_datetime": "2026-01-09T07:11:00.000000Z",
-      "title": "Russia hits Ukraine with hypersonic missile, Qatari embassy damaged",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0364c2648999eb6e05b7902abb7bb1ba?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "A \"massive\" Russian night-time attack on Ukraine damaged 20 residential buildings in Kyiv and its suburbs, as well as Qatar's embassy, President Volodymyr Zelenskyy says.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-09/russia-says-it-hit-ukraine-with-oreshnik-hypersonic-missile/106214842"
-    },
-    {
-      "published_datetime": "2026-01-09T04:19:22.000000Z",
-      "title": "Palestinian author calls for apology as dozens quit Adelaide Writers' Week",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/69ccaf380413bb5058c4ae1d96ef663b?impolicy=wcms_crop_resize&amp;cropH=411&amp;cropW=730&amp;xPos=0&amp;yPos=65&amp;width=862&amp;height=485"
-      },
-      "description": "Palestinian author Randa Abdel-Fattah has called for her appearance at Adelaide Writers' Week to be reinstated after it was axed, but SA's Premier has continued to back the decision, as dozens of authors cancel their appearances.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-09/sa-palestinian-author-calls-for-apology-over-writers-week-axing/106212878"
-    },
-    {
       "published_datetime": "2026-01-09T03:59:28.000000Z",
       "title": "Donald Trump withdraws the US from 66 international organisations",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-09T21:14:00.639319"
+  "merged_at": "2026-01-09T22:13:35.316701"
 }
