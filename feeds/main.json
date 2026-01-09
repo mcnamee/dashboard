@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-09T05:30:04.000000Z",
+      "title": "Zone RV director faces litigation over $21 million insolvent trading claim",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98d2c4781357f2675a5887569dafce8c?impolicy=wcms_crop_resize&amp;cropH=2213&amp;cropW=3934&amp;xPos=98&amp;yPos=572&amp;width=862&amp;height=485"
+      },
+      "description": "Administrators of the collapsed luxury caravan manufacturer have threatened to sue David Biggar, whose company owes customers millions of dollars.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-09/zone-rv-insolvent-trading-creditors-report/106206468"
+    },
+    {
       "published_datetime": "2026-01-09T04:58:12.000000Z",
       "title": "Emergency departments, doctors deal with surge in heat-related illness",
       "featured_image": {
@@ -83,15 +92,6 @@
       },
       "description": "When a Telegram message landed on her phone, Diana knew she had to flee Venezuela. It was from someone close to Nicol\u00e1s Maduro, and she says she would have been jailed, or worse.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-09/nicolas-maduros-regime-came-for-these-women-who-fled-to-colombia/106207412"
-    },
-    {
-      "published_datetime": "2026-01-09T00:50:34.000000Z",
-      "title": "Trump warns Iran will 'pay hell' if protesters are killed amid internet outage",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/08ea4f5cee93c7959b419d2e1dcab221?impolicy=wcms_crop_resize&amp;cropH=2295&amp;cropW=4080&amp;xPos=0&amp;yPos=382&amp;width=862&amp;height=485"
-      },
-      "description": "Human rights groups say more than 40 people have been killed in protest-related violence since last month.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-09/internet-blackout-imposed-in-iran-amid-nationwide-protests/106213246"
     },
     {
       "published_datetime": "2026-01-09T00:17:08.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-09T05:18:41.317626"
+  "merged_at": "2026-01-09T06:22:00.266500"
 }
