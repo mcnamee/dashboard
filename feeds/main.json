@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-10T02:47:05.000000Z",
+      "title": "Switzerland holds national day of mourning for fatal ski bar fire",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c41ef6d1a8063076358b27d441e1adad?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Forty people died and 116 people were injured in the fire at the Swiss ski bar on January 1.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-10/switerland-holds-national-day-of-mourning-bar-fire/106216232"
+    },
+    {
+      "published_datetime": "2026-01-10T02:35:59.000000Z",
+      "title": "New concern brews for NSW firefighters after heatwave peak",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b87e022b3ad76fe96f193eda034aaf0?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1501&amp;xPos=0&amp;yPos=222&amp;width=862&amp;height=485"
+      },
+      "description": "More than 600 firefighters have been deployed and conditions are being closely monitored, but a southerly change forecast on Saturday afternoon is a concern among authorities.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-10/fire-danger-heatwave-winds-expected-across-nsw/106215426"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/55dd65b8-8dbc-46eb-85ea-471530881d53",
+      "published_datetime": "2026-01-10T00:43:55.430087",
+      "title": "France reschedules G7 summit to avoid Trump UFC party",
+      "featured_image": {
+        "url": "https://sports.yahoo.com/articles/ufc-white-house-dana-white-001821722.html",
+        "name": "UFC White House Update: Dana White Unveils More Details",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--XKQqvhei--/t_limit/https://media.zenfs.com/en/athlon_sports_articles_610/9df7f13f465287ed44be820f4f73c45a",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--OnsWoKfc--/t_thumbnail/https://media.zenfs.com/en/athlon_sports_articles_610/9df7f13f465287ed44be820f4f73c45a"
+      },
+      "description": "France has postponed this year's Group of Seven summit by one day to prevent a scheduling conflict with a mixed martial arts event at the White House on June 14, which coincides with President Donald Trump's 80th birthday[1][2][3][4].\n\nThe annual gathering of world leaders in Evian-les-Bains, originally scheduled for June 14-16, will now take place June 15-17, according to two officials familiar with the G7's arrangements[1][2][5]. The date change was first reported by Politico on Friday and has been updated on the G7's official website[6][3][5].\n\nJune 14 marks Flag Day in the United States, Trump's milestone birthday, and the date he announced in October for a \"big UFC fight\" on the White House grounds as part of the nation's 250th anniversary celebrations[7][8][9]. UFC CEO Dana White confirmed to CBS News this week that preparations are complete, with approximately 5,000 spectators expected on the South Lawn and up to 85,000 more at a public viewing area on the nearby Ellipse[10][11].",
+      "audio_url": "",
+      "url": "france-delays-g7-summit-to-avo-w2.bzEaRS22wDVjrEXkVmg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-09T23:28:55.000000Z",
       "title": "New video emerges of ICE agent shooting woman in Minneapolis",
       "featured_image": {
@@ -79,15 +112,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-09T20:31:00.000000Z",
-      "title": "'Rich have become poor': Venezuelans describe their daily struggle",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/57990d82f252468fa4e5752fbe52c783?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
-      },
-      "description": "The ABC hears from residents of Venezuela's capital, Caracas, about the struggles of daily life and their hopes and fears after American intervention.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-10/inside-venezuela-daily-struggle-continues-in-caracas/106215776"
-    },
-    {
       "published_datetime": "2026-01-09T20:19:05.000000Z",
       "title": "North Queensland braces for tropical cyclone likely to form today",
       "featured_image": {
@@ -95,15 +119,6 @@
       },
       "description": "North Queensland residents are readying themselves as a tropical low is likely to become a category one cyclone later today.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/queensland-tropical-low-expected-to-intensify-into-cyclone-koji/106213662"
-    },
-    {
-      "published_datetime": "2026-01-09T20:10:55.000000Z",
-      "title": "Weekend brings fire threat to NSW with maximums to hit 44C",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f24b23373d7b570b535d7df4d6552bc9?impolicy=wcms_crop_resize&amp;cropH=2194&amp;cropW=3901&amp;xPos=0&amp;yPos=732&amp;width=862&amp;height=485"
-      },
-      "description": "The heatwave, which has engulfed southern Australia this week, has become one of the most intense on record.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-10/australia-weather-weekend-fire-threat-nsw-possible-cyclone-qld/106214346"
     },
     {
       "published_datetime": "2026-01-09T19:54:26.000000Z",
@@ -116,7 +131,7 @@
     },
     {
       "published_datetime": "2026-01-09T19:45:25.000000Z",
-      "title": "Hopes Beijing may lift soft ban on South Korea pop culture as ties thaw",
+      "title": "The Korean Wave may splash back into China amid thawing ties",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c435cdf81d38afc2b3577fee93c0f9be?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cd739a6e-720b-40de-8776-d125b025a5ec",
-      "published_datetime": "2026-01-09T17:49:12.483261",
-      "title": "Greenland official wants talks with US without Denmark",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/greenland-wants-more-out-us-defence-agreement-minister-says-2025-05-15/",
-        "name": "Greenland wants more out of US defence agreement, minister ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--p5BXrnmo--/t_limit/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3QSYBM33YVJ57B2WO2GESFGBKA.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--zSg_rn9r--/t_thumbnail/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3QSYBM33YVJ57B2WO2GESFGBKA.jpg"
-      },
-      "description": "Greenland's foreign minister suggested that the Arctic territory should meet with the United States independently without Denmark present, signaling that American pressure tactics may be driving a wedge between Copenhagen and Nuuk as President Donald Trump continues to pursue his ambitions to acquire the island.\n\nVivian Motzfeldt told Danish broadcaster DR on Friday that Greenland should \"take the lead\" in discussions with Washington[1][2]. \"When it comes to Greenland, it should be Greenland that takes the lead and speaks with the United States,\" she said[2]. \"What would be wrong with us holding meetings with the United States on our own?\"[1][2]\n\nThe comments come ahead of a scheduled meeting next week between US Secretary of State Marco Rubio and officials from both Denmark and Greenland, marking the first significant three-way dialogue since Trump intensified his push to gain control of the territory[1][3][4]. While Motzfeldt acknowledged that the upcoming meeting would include Denmark and that Greenland still lacks authority over its own foreign policy, her remarks underscore growing tensions over how the semi-autonomous territory should navigate US pressure[1][2].",
-      "audio_url": "",
-      "url": "greenland-floats-meeting-trump-j3Nef8qJQfOfXxcUS2IYpQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-09T14:35:36.000000Z",
       "title": "Iran's leader accuses protesters of trying to 'please' Trump",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-10T01:01:37.720731"
+  "merged_at": "2026-01-10T03:17:58.049903"
 }
