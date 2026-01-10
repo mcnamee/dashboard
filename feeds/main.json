@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-10T05:19:40.000000Z",
+      "title": "Harcourt community reeling after fire levels homes and businesses",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a036a37f5bc2d8c4e738cdd56eeb82fc?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Harcourt residents describe their devastation and gratitude in the wake of a massive blaze that swept through the town.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-10/harcourt-residents-assessing-fire-damage-50-structures-destroyed/106216128"
+    },
+    {
       "published_datetime": "2026-01-10T05:06:05.000000Z",
       "title": "Former Adelaide Festival leaders label Palestinian author's exclusion 'grave mistake'",
       "featured_image": {
@@ -13,10 +22,40 @@
       "published_datetime": "2026-01-10T04:50:46.000000Z",
       "title": "Thousands affected as suspected copper thieves cut cables in cyclone warning zone",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c18bfb2a51852f4d70d289c72bf1e613?impolicy=wcms_crop_resize&amp;cropH=1034&amp;cropW=1838&amp;xPos=41&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5eac218e3ef065fc0038dbfccaef555b?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=106&amp;width=862&amp;height=485"
       },
       "description": "Thousands of North Queensland residents within a cyclone warning zone are without telecommunications services after suspected copper thieves cut cables.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/north-queensland-copper-thieves-cut-phone-internet-services/106216478"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ade6638e-585a-44cd-9cb9-51b405c1a098",
+      "published_datetime": "2026-01-10T04:41:04.246327",
+      "title": "Iran cuts internet as protests enter 13th day",
+      "featured_image": {
+        "url": "https://sg.news.yahoo.com/news/articles/why-iranians-protesting-does-mean-163353215.html",
+        "name": "Why are Iranians protesting and what does it mean for the regime?",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--KUoxJnEk--/t_limit/https://media.zenfs.com/en/cnn_articles_875/4f45475976ea48a2ae0940d53efa9d22",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s---AswpJEg--/t_thumbnail/https://media.zenfs.com/en/cnn_articles_875/4f45475976ea48a2ae0940d53efa9d22"
+      },
+      "description": "Iran plunged into a nationwide internet blackout on Thursday as anti-government protests entered their thirteenth day, with authorities responding to the most significant unrest since the 2022 \"Woman, Life, Freedom\" movement[1][2][3]. Human rights groups report at least 42 people have been killed and more than 2,300 arrested since demonstrations erupted across all 31 provinces[4][5][6].\n\nThe internet shutdown came after exiled Crown Prince Reza Pahlavi called for coordinated demonstrations at 8 p.m. local time on Thursday and Friday evenings[7][8]. Monitoring organization NetBlocks confirmed connectivity had dropped to 1% of normal levels by Friday, hampering communication and masking the scale of the crackdown[9][10].",
+      "audio_url": "",
+      "url": "iran-faces-widespread-protests-yLTgiCI_Tta7T53YN3GJBA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/079d67f7-6fed-4232-a240-0391521a789a",
+      "published_datetime": "2026-01-10T04:28:27.097851",
+      "title": "Superheavy rockets could slash space telescope costs",
+      "featured_image": {
+        "url": "https://www.npr.org/2025/10/13/nx-s1-5573520/space-x-eleventh-test-flight-starship",
+        "name": "SpaceX launches 11th test flight of its mega Starship rocket ... - NPR",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--pIBfj3_0--/t_limit/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6729x3785%2B0%2B213/resize/1400/quality/100/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fa4%252F3d%252F856cef7b4f20a74daca0af657f07%252Fap25286855934720.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--y-iHY-mg--/t_thumbnail/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6729x3785%2B0%2B213/resize/1400/quality/100/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fa4%252F3d%252F856cef7b4f20a74daca0af657f07%252Fap25286855934720.jpg"
+      },
+      "description": "Recent successful launches of SpaceX's Starship and Blue Origin's New Glenn rockets are raising hopes among astronomers that a new generation of more affordable space telescopes could arrive years ahead of schedule, potentially ending a looming gap in space-based observations.\n\nThe two superheavy-lift vehicles achieved major milestones in late 2025\u2014Starship's fully successful Flight 11 test on October 13 and New Glenn's second flight on November 13, which deployed NASA's ESCAPADE Mars mission and successfully landed its booster[1][2][3]. These achievements come as NASA faces an expected decade-long wait until 2045 or later for its next flagship observatory, creating what Martin Elvis, a senior astrophysicist at the Smithsonian Institution, calls \"a forbidding timeline\"[4][5].",
+      "audio_url": "",
+      "url": "spacex-starship-and-blue-origi-G8zcylDmS5yC6zmLVZhDyg",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-10T04:11:31.000000Z",
@@ -193,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6f6da633-e9ac-4b07-8561-e0c7680a7410",
-      "published_datetime": "2026-01-09T18:57:07.540412",
-      "title": "Venezuela, US launch talks to restore diplomatic ties",
-      "featured_image": {
-        "url": "https://www.dailysabah.com/world/americas/venezuela-says-in-exploratory-talks-with-us-on-restoring-diplomatic-ties",
-        "name": "Venezuela says in exploratory talks with US on restoring ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--3bl-Hb6---/t_limit/https://idsb.tmgrup.com.tr/ly/uploads/images/2026/01/09/420960.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--lRW6VHm4--/t_thumbnail/https://idsb.tmgrup.com.tr/ly/uploads/images/2026/01/09/420960.jpg"
-      },
-      "description": "Venezuela announced Friday it has launched an \"exploratory\" diplomatic process with the United States aimed at restoring relations and reopening embassies that were severed in 2019, marking a significant diplomatic thaw less than a week after US forces captured President Nicolas Maduro[1][2][3][4][5][6].\n\nUS State Department officials traveled to Caracas on Friday to assess a potential phased resumption of embassy operations, while Venezuela confirmed it would send a reciprocal delegation to Washington[1][2][3][7]. The visit represents the first US diplomatic presence in Venezuela since Maduro's capture in a military operation on January 3, 2026[7][8].",
-      "audio_url": "",
-      "url": "venezuela-initiates-talks-to-r-eoik9CYZQYqv8coX2FI43Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-09T18:30:00.000000Z",
       "title": "The rhetoric of the Trump administration has taken a chilling turn",
       "featured_image": {
@@ -215,30 +239,6 @@
       },
       "description": "There have been plenty of examples of the Trump administration's contempt for legalities, diplomacy and alliances, but this week Trump and his lieutenants went further.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/trump-power-venezuela-greenland-international-law-morality/106214406"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a8fd78b3-f806-4629-8d34-76e52844f3f5",
-      "published_datetime": "2026-01-09T17:50:26.141821",
-      "title": "CES wraps with AI optimism, solar breakthroughs",
-      "featured_image": {
-        "url": "https://mashable.com/article/jackery-solar-gazebo-mars-rober-bot-explorer-1500-ultra-ces-2026",
-        "name": "Jackery debuts trio of products at CES, including 2 surprises",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--4RIOKRM5--/t_limit/https://helios-i.mashable.com/imagery/articles/075TqrECNg76BC4pEs3tI7m/hero-image.fill.size_1200x675.v1767684053.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--bJEuTBRU--/t_thumbnail/https://helios-i.mashable.com/imagery/articles/075TqrECNg76BC4pEs3tI7m/hero-image.fill.size_1200x675.v1767684053.jpg"
-      },
-      "description": "The annual Consumer Electronics Show wrapped up in Las Vegas this week with a markedly different tone than previous years, as industry leaders expressed renewed confidence about artificial intelligence while showcasing a wave of solar energy breakthroughs that extend far beyond traditional rooftop panels.\n\n\"The ChatGPT moment for physical AI is here,\" declared Nvidia CEO Jensen Huang during his keynote address, capturing the prevailing sentiment at CES 2026[1][2][3]. The show featured humanoid robots navigating exhibition floors, AI-powered chips reaching production at unprecedented speeds, and a pervasive sense that the technology industry had moved past last year's existential anxieties about AI's impact[4].",
-      "audio_url": "",
-      "url": "ces-2026-showcases-ai-optimism-FUvP4qXlT1eXW1vPOONEow",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-09T14:35:36.000000Z",
-      "title": "Iran's leader accuses protesters of trying to 'please' Trump",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dd284a2c9d8bb05d745c3f6e4490ca11?impolicy=wcms_crop_resize&amp;cropH=2139&amp;cropW=3802&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
-      },
-      "description": "Iran's supreme leader Ayatollah Ali Khamenei has remained defiant amid nationwide protests, saying his regime would not back down in the \"face of saboteurs.\"",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-10/iranian-leader-defiant-amid-nationwide-protests/106215570"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-10T05:15:28.892640"
+  "merged_at": "2026-01-10T06:19:26.758994"
 }
