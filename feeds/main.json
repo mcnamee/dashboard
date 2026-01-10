@@ -1,22 +1,31 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-10T05:06:05.000000Z",
+      "title": "Former Adelaide Festival leaders label Palestinian author's exclusion 'grave mistake'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98379758f7df1561747b3515b5af2c74?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Nearly a dozen former leaders of the Adelaide Festival are calling for Randa Abdel-Fattah to be reinvited to Writers' Week, adding to a mounting crisis over the Palestinian-Australian author's exclusion from the literary festival.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-10/adelaide-writers-week-board-letter/106216140"
+    },
+    {
+      "published_datetime": "2026-01-10T04:50:46.000000Z",
+      "title": "Thousands affected as suspected copper thieves cut cables in cyclone warning zone",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c18bfb2a51852f4d70d289c72bf1e613?impolicy=wcms_crop_resize&amp;cropH=1034&amp;cropW=1838&amp;xPos=41&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Thousands of North Queensland residents within a cyclone warning zone are without telecommunications services after suspected copper thieves cut cables.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-10/north-queensland-copper-thieves-cut-phone-internet-services/106216478"
+    },
+    {
       "published_datetime": "2026-01-10T04:11:31.000000Z",
-      "title": "'Just rubble': Ravenswood man shares heartbreak after 'catastrophic' fire damage",
+      "title": "'Catman' shares heartbreak after 'catastrophic' bushfire damage",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12acc7a1243cc6b5cb250846d630f5be?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=417&amp;width=862&amp;height=485"
       },
       "description": "Approximately 50 structures have so far been destroyed in the Ravenswood and Harcourt bushfire, according to emergency services.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/ravenswood-bushfire-catman-damage/106216450"
-    },
-    {
-      "published_datetime": "2026-01-10T03:48:57.000000Z",
-      "title": "Sabalenka crushes Muchov\u00e1 to reach Brisbane final",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7bc8d67029a1533cda41d6a3d05a89e8?impolicy=wcms_crop_resize&amp;cropH=1558&amp;cropW=2770&amp;xPos=325&amp;yPos=92&amp;width=862&amp;height=485"
-      },
-      "description": "Aryna Sabalenka needed less than an hour and a half to power past Karol\u00edna Muchov\u00e1 to reach a third consecutive Brisbane International final.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-10/brisbane-international-semi-finals/106216472"
     },
     {
       "published_datetime": "2026-01-10T02:47:05.000000Z",
@@ -29,7 +38,7 @@
     },
     {
       "published_datetime": "2026-01-10T02:35:59.000000Z",
-      "title": "New concern brews for NSW firefighters after heatwave peak",
+      "title": "New concern brews for NSW firefighters during heatwave peak",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b87e022b3ad76fe96f193eda034aaf0?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1501&amp;xPos=0&amp;yPos=222&amp;width=862&amp;height=485"
       },
@@ -106,15 +115,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-09T21:11:04.000000Z",
-      "title": "Mums who drank during pregnancy call for universal alcohol warnings",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f9c82fc692ff61bbd9cd076f36c8ce3?impolicy=wcms_crop_resize&amp;cropH=2088&amp;cropW=3712&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "New research shows thousands of alcohol products remain on Australian shelves without mandated pregnancy warning labels.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-10/mums-drank-pregnancy-alcohol-warning-labels/106154908"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6a003dd7-9863-445b-bd0b-1f521db6a312",
       "published_datetime": "2026-01-09T20:42:02.482415",
       "title": "Gates warns AI could enable bioterror attacks",
@@ -142,7 +142,7 @@
       "published_datetime": "2026-01-09T19:54:26.000000Z",
       "title": "Total fire ban extended for Victoria, as heatwave intensifies across NSW",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9339a727e745a8f49e70991ea135db4f?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/24c0796f04dc7a1cf01c25ce3fb2a523?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=395&amp;width=862&amp;height=485"
       },
       "description": "Emergency-level bushfires continue to rage across Victoria after a state of disaster was declared by Victorian Premier Jacinta Allen. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/state-of-disaster-declared-bushfires-victoria/106215462"
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-10T04:42:26.037076"
+  "merged_at": "2026-01-10T05:15:28.892640"
 }
