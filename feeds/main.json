@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-09T23:28:55.000000Z",
+      "title": "New video emerges of ICE agent shooting woman in Minneapolis",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/15dc927dd40e438c0c126aa8bde4553a?impolicy=wcms_crop_resize&amp;cropH=347&amp;cropW=617&amp;xPos=15&amp;yPos=279&amp;width=862&amp;height=485"
+      },
+      "description": "The new footage, reposted by the White House on social media, was recorded by the agent involved, and reveals the confrontation that led to the shooting as well as him swearing at her immediately afterwards.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-10/new-video-shows-renee-good-shooting-ice-agent/106216052"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/96c68e6d-82f8-44f1-b03e-c8796111b556",
       "published_datetime": "2026-01-09T22:12:14.267839",
       "title": "Trump vows U.S. will take Greenland 'whether they like it or not'",
@@ -44,15 +53,6 @@
       "audio_url": "",
       "url": "iran-shuts-down-internet-amid-wVdZ4PwfRXOxYPUN7KS1Sw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-09T21:23:22.000000Z",
-      "title": "Greta Beach should be pristine. Instead, it's choking on a tsunami of plastic waste",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5cac9638cddd95e5070627cb6d6899bf?impolicy=wcms_crop_resize&amp;cropH=1114&amp;cropW=1980&amp;xPos=0&amp;yPos=1425&amp;width=862&amp;height=485"
-      },
-      "description": "A beach on a remote island, and home to nesting turtles, is annually overwhelmed by tonnes of plastic garbage. Christmas Island is doing what it can to help stem the never-ending tide of pollution.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-10/christmas-island-turtles-battle-plastic-pollution/106092234"
     },
     {
       "published_datetime": "2026-01-09T21:11:04.000000Z",
@@ -106,22 +106,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/australia-weather-weekend-fire-threat-nsw-possible-cyclone-qld/106214346"
     },
     {
-      "published_datetime": "2026-01-09T20:08:42.000000Z",
-      "title": "The Bondi royal commission is due to report in April. Here's what we know",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4842939127bd3de84a9a478e9d814ed5?impolicy=wcms_crop_resize&amp;cropH=809&amp;cropW=1439&amp;xPos=0&amp;yPos=25&amp;width=862&amp;height=485"
-      },
-      "description": "After growing calls for a royal commission into the Bondi terror attack, the prime minister has finally announced it would take place, saying it \"was what Australia needs\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-10/nsw-bondi-beach-terror-attack-royal-commission-explainer/106214222"
-    },
-    {
       "published_datetime": "2026-01-09T19:54:26.000000Z",
-      "title": "Live: Bushfire disaster declared in Victoria as heatwave intensifies across NSW",
+      "title": "Live: Trio missing in Victorian fires found safe, as heatwave intensifies across NSW",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9339a727e745a8f49e70991ea135db4f?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
       },
-      "description": "Three emergency-level bushfires continue to rage across Victoria after a state of disaster was declared by Victorian Premier Jacinta Allen. Follow live.\u00a0",
+      "description": "Emergency-level bushfires continue to rage across Victoria after a state of disaster was declared by Victorian Premier Jacinta Allen. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/state-of-disaster-declared-bushfires-victoria/106215462"
+    },
+    {
+      "published_datetime": "2026-01-09T19:45:25.000000Z",
+      "title": "Hopes Beijing may lift soft ban on South Korea pop culture as ties thaw",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c435cdf81d38afc2b3577fee93c0f9be?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "China has restricted access to South Korean pop culture since 2016, when Seoul received US anti-missile technology. Warmer bilateral ties are spurring optimism that will change.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-10/china-ban-south-korean-pop-culture-could-lift-amid-warmer-ties/106205780"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2a770f21-dea8-4309-b5ca-6c8534a0c187",
@@ -198,7 +198,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ee4bb4d58153429513c172e66dbe0ff4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=316&amp;width=862&amp;height=485"
       },
-      "description": "There have been plenty of examples of the Trump administration's contempt for legalities, diplomacy and alliances but this week Trump and his lieutenants went further.",
+      "description": "There have been plenty of examples of the Trump administration's contempt for legalities, diplomacy and alliances, but this week Trump and his lieutenants went further.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/trump-power-venezuela-greenland-international-law-morality/106214406"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-09T23:13:20.917701"
+  "merged_at": "2026-01-10T01:01:37.720731"
 }
