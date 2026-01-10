@@ -115,6 +115,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/brisbane-international-semi-finals/106216472"
     },
     {
+      "published_datetime": "2026-01-10T03:25:48.000000Z",
+      "title": "Evacuations ordered as out-of-control fires burn in Victoria's Otways",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ad3894fd8093d66e5766ed6f47b1eada?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=150&amp;width=862&amp;height=485"
+      },
+      "description": "Fires in the Otway National Park are moving towards the town border of Colac, as firefighters continue to battle blazes across the state.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-10/bushfires-victoria-otways-harcourt-ravenswood-evacuation-orders/106216316"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/55dd65b8-8dbc-46eb-85ea-471530881d53",
       "published_datetime": "2026-01-10T00:43:55.430087",
       "title": "France reschedules G7 summit to avoid Trump UFC party",
@@ -208,15 +217,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/queensland-tropical-low-expected-to-intensify-into-cyclone-koji/106213662"
     },
     {
-      "published_datetime": "2026-01-09T19:54:26.000000Z",
-      "title": "Live: Conditions 'drier' than past bad fire years as blazes continue to rip through Victoria",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/24c0796f04dc7a1cf01c25ce3fb2a523?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=395&amp;width=862&amp;height=485"
-      },
-      "description": "Emergency-level bushfires continue to rage across Victoria after a state of disaster was declared by Victorian Premier Jacinta Allen. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-10/state-of-disaster-declared-bushfires-victoria/106215462"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2a770f21-dea8-4309-b5ca-6c8534a0c187",
       "published_datetime": "2026-01-09T19:25:42.972106",
       "title": "US, India clash over stalled trade deal",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-10T14:12:13.075090"
+  "merged_at": "2026-01-10T15:12:18.426418"
 }
