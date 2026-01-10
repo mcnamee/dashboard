@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-10T04:11:31.000000Z",
+      "title": "'Just rubble': Ravenswood man shares heartbreak after 'catastrophic' fire damage",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12acc7a1243cc6b5cb250846d630f5be?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=417&amp;width=862&amp;height=485"
+      },
+      "description": "Approximately 50 structures have so far been destroyed in the Ravenswood and Harcourt bushfire, according to emergency services.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-10/ravenswood-bushfire-catman-damage/106216450"
+    },
+    {
+      "published_datetime": "2026-01-10T03:48:57.000000Z",
+      "title": "Sabalenka crushes Muchov\u00e1 to reach Brisbane final",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7bc8d67029a1533cda41d6a3d05a89e8?impolicy=wcms_crop_resize&amp;cropH=1558&amp;cropW=2770&amp;xPos=325&amp;yPos=92&amp;width=862&amp;height=485"
+      },
+      "description": "Aryna Sabalenka needed less than an hour and a half to power past Karol\u00edna Muchov\u00e1 to reach a third consecutive Brisbane International final.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-10/brisbane-international-semi-finals/106216472"
+    },
+    {
       "published_datetime": "2026-01-10T02:47:05.000000Z",
       "title": "Switzerland holds national day of mourning for fatal ski bar fire",
       "featured_image": {
@@ -113,30 +131,21 @@
     },
     {
       "published_datetime": "2026-01-09T20:19:05.000000Z",
-      "title": "North Queensland braces for tropical cyclone likely to form today",
+      "title": "Tropical low off north Queensland forecast to reach category two strength",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/daa0b102962474cf4d1c1682588fe043?impolicy=wcms_crop_resize&amp;cropH=3238&amp;cropW=5757&amp;xPos=0&amp;yPos=300&amp;width=862&amp;height=485"
       },
-      "description": "North Queensland residents are readying themselves as a tropical low is likely to become a category one cyclone later today.\u00a0",
+      "description": "North Queensland residents are readying themselves as a tropical low is likely to become a category two cyclone later today.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/queensland-tropical-low-expected-to-intensify-into-cyclone-koji/106213662"
     },
     {
       "published_datetime": "2026-01-09T19:54:26.000000Z",
-      "title": "Live: Trio missing in Victorian fires found safe, as heatwave intensifies across NSW",
+      "title": "Total fire ban extended for Victoria, as heatwave intensifies across NSW",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9339a727e745a8f49e70991ea135db4f?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
       },
       "description": "Emergency-level bushfires continue to rage across Victoria after a state of disaster was declared by Victorian Premier Jacinta Allen. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/state-of-disaster-declared-bushfires-victoria/106215462"
-    },
-    {
-      "published_datetime": "2026-01-09T19:45:25.000000Z",
-      "title": "The Korean Wave may splash back into China amid thawing ties",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c435cdf81d38afc2b3577fee93c0f9be?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "China has restricted access to South Korean pop culture since 2016, when Seoul received US anti-missile technology. Warmer bilateral ties are spurring optimism that will change.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-10/china-ban-south-korean-pop-culture-could-lift-amid-warmer-ties/106205780"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2a770f21-dea8-4309-b5ca-6c8534a0c187",
@@ -197,15 +206,6 @@
       "audio_url": "",
       "url": "venezuela-initiates-talks-to-r-eoik9CYZQYqv8coX2FI43Q",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-09T18:56:12.000000Z",
-      "title": "Elon Musk limits X's AI image generator over non-consensual sexual imagery",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a5fa8340039586d061d731ca73ca258?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "For more than a week, X's AI bot Grok has been generating sexual images of women and children at the request of other users, even when they ask it not to.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-10/grok-ai-undressing-australia-women-children/106213644"
     },
     {
       "published_datetime": "2026-01-09T18:30:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-10T03:17:58.049903"
+  "merged_at": "2026-01-10T04:27:48.622506"
 }
