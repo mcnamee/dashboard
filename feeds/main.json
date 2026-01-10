@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-10T07:47:19.000000Z",
+      "title": "When will Tropical Cyclone Koji hit the Australian coastline?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e0cb4dcf104a33cc8648a2b11a5948ee?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Track the path of Tropical Cyclone Koji and monitor wind speeds as the system moves towards the coast.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-10/tropical-cyclone-koji-tracker-north-queensland/106213640"
+    },
+    {
       "published_datetime": "2026-01-10T05:19:40.000000Z",
       "title": "Harcourt community reeling after fire levels homes and businesses",
       "featured_image": {
@@ -24,7 +33,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5eac218e3ef065fc0038dbfccaef555b?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=106&amp;width=862&amp;height=485"
       },
-      "description": "Thousands of North Queensland residents within a cyclone warning zone are without telecommunications services after suspected copper thieves cut cables.\u00a0",
+      "description": "Thousands of North Queensland residents within a cyclone warning zone were without telecommunications services after suspected copper thieves cut cables.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/north-queensland-copper-thieves-cut-phone-internet-services/106216478"
     },
     {
@@ -74,15 +83,6 @@
       },
       "description": "Marta Kostyuk crushed world number six Jessica Pegula in less than an hour after Aryna Sabalenka powered past Karol\u00edna Muchov\u00e1 to reach a third consecutive Brisbane International final.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/brisbane-international-semi-finals/106216472"
-    },
-    {
-      "published_datetime": "2026-01-10T02:35:59.000000Z",
-      "title": "New concern brews for NSW firefighters during heatwave peak",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b87e022b3ad76fe96f193eda034aaf0?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1501&amp;xPos=0&amp;yPos=222&amp;width=862&amp;height=485"
-      },
-      "description": "More than 600 firefighters have been deployed and conditions are being closely monitored, but a southerly change forecast on Saturday afternoon is a concern among authorities.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-10/fire-danger-heatwave-winds-expected-across-nsw/106215426"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/55dd65b8-8dbc-46eb-85ea-471530881d53",
@@ -179,7 +179,7 @@
     },
     {
       "published_datetime": "2026-01-09T19:54:26.000000Z",
-      "title": "Total fire ban extended for Victoria, as North Queensland awaits category two cyclone",
+      "title": "Live: Conditions 'drier' than past bad fire years as blazes continue to rip through Victoria",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/24c0796f04dc7a1cf01c25ce3fb2a523?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=395&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-10T09:13:33.497520"
+  "merged_at": "2026-01-10T10:13:17.320662"
 }
