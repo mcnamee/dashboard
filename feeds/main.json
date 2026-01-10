@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a9ae2bc4-60a2-4476-bdab-37e5a0c038db",
+      "published_datetime": "2026-01-10T14:42:15.869446",
+      "title": "Greenland parliament unites to reject Trump acquisition threats",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/europe/greenland-must-quickly-form-broad-coalition-show-unity-face-trump-pressure-2025-03-14/",
+        "name": "Greenland's Democrats want broad coalition to show unity in face of Trump pressure",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--r78YY7ix--/t_limit/https://www.reuters.com/resizer/v2/UZTICYNXBBLUHI4XUZIYVQG3ZE.jpg%3Fauth%3D85cab42f28b495f34e51c2519ab2715befb43d49855bf3ec52763ceb7cdd0080%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--CSVlAw2h--/t_thumbnail/https://www.reuters.com/resizer/v2/UZTICYNXBBLUHI4XUZIYVQG3ZE.jpg%3Fauth%3D85cab42f28b495f34e51c2519ab2715befb43d49855bf3ec52763ceb7cdd0080%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "President Donald Trump intensified his push to acquire Greenland on Friday, declaring the United States will \"do something on Greenland whether they like it or not,\" as the world's largest island becomes a flashpoint for geopolitical tensions over its vast mineral wealth and strategic Arctic position[1][2][3].\n\nAll five political parties in Greenland's parliament issued a unified rejection hours later. \"We do not want to be Americans, we do not want to be Danes, we want to be Greenlanders,\" the leaders stated in a rare joint declaration, announcing an expedited parliamentary session to address the escalating U.S. threats[2][4]. The island's 57,000 residents have consistently rejected Trump's overtures, with Prime Minister Jens-Frederik Nielsen reiterating that \"Greenland is not for sale\"[1][3].",
+      "audio_url": "",
+      "url": "greenland-s-natural-resources-iMBm0oduROCZPBtraTk5.Q",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8cf9a62b-ee1c-4754-aef0-c1aa5901fd31",
       "published_datetime": "2026-01-10T12:45:46.280290",
       "title": "Richest 1% exhausted 2026 carbon budget in 10 days, Oxfam says",
@@ -217,21 +232,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/queensland-tropical-low-expected-to-intensify-into-cyclone-koji/106213662"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2a770f21-dea8-4309-b5ca-6c8534a0c187",
-      "published_datetime": "2026-01-09T19:25:42.972106",
-      "title": "US, India clash over stalled trade deal",
-      "featured_image": {
-        "url": "https://www.freemalaysiatoday.com/category/business/2026/01/09/india-us-trade-deal-stalled-after-modi-did-not-call-trump-says-lutnick",
-        "name": "India-US trade deal stalled after Modi did not call Trump ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_UbwOhvS--/t_limit/https://www.freemalaysiatoday.com/cdn-cgi/image/quality%3D80%2Cformat%3Dauto%2Cfit%3Dcover%2Cdpr%3D1%2Cwidth%3D1600%2Cheight%3D900/https://media.freemalaysiatoday.com/wp-content/uploads/2025/02/68d5556d-narendra-modi-1.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--lfo4E_N3--/t_thumbnail/https://www.freemalaysiatoday.com/cdn-cgi/image/quality%3D80%2Cformat%3Dauto%2Cfit%3Dcover%2Cdpr%3D1%2Cwidth%3D1600%2Cheight%3D900/https://media.freemalaysiatoday.com/wp-content/uploads/2025/02/68d5556d-narendra-modi-1.jpg"
-      },
-      "description": "A diplomatic rift has emerged between the United States and India over the reasons behind stalled trade negotiations, with Washington and New Delhi offering sharply different accounts of why a bilateral agreement remains elusive.\n\nUS Commerce Secretary Howard Lutnick claimed Thursday that a trade deal collapsed because Indian Prime Minister Narendra Modi failed to personally telephone President Donald Trump to finalize the agreement. Speaking on the All-In Podcast, Lutnick said India was given \"three Fridays\" to seal the deal but proved \"uncomfortable\" arranging the call[1][2][3][4]. \"I said \u2014 You need to have Modi; it's all arranged. Modi must call the president. Yet, they were hesitant to do it,\" Lutnick said. \"Consequently, Modi did not make the call\"[1].\n\nIndia swiftly rejected the characterization. Ministry of External Affairs spokesperson Randhir Jaiswal told reporters Friday that the two leaders spoke eight times during 2025 and that both nations have been \"close to a deal\" on multiple occasions[1][5][6]. \"The characterization of these discussions in the reported remarks is not accurate,\" Jaiswal said, adding that India remains \"interested in a mutually beneficial trade deal\"[7][2][6].\n\nThe White House has not responded to Lutnick's comments[3][8].",
-      "audio_url": "",
-      "url": "usindia-trade-deal-stalls-over-Zh3IIy_SRtmSM1EHOQzw8w",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-09T18:30:00.000000Z",
       "title": "The rhetoric of the Trump administration has taken a chilling turn",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-10T15:12:18.426418"
+  "merged_at": "2026-01-10T16:14:47.830831"
 }
