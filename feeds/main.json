@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-11T12:54:08.000000Z",
+      "title": "Former UK diplomat says he did not know about Epstein abuse",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/61e311761a2f82ac03257dc977327ac3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=125&amp;width=862&amp;height=485"
+      },
+      "description": "Peter Mandelson, who was fired as the UK's ambassador in Washington DC over his ties to the convicted sex offender, has apologised to victims of Jeffrey Epstein \"for a system that refused to hear their voices\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/peter-mandelson-jeffrey-epstein-apology-abuse-bbc/106218564"
+    },
+    {
       "published_datetime": "2026-01-11T11:29:26.000000Z",
       "title": "Victoria's bushfire crisis turns deadly as conditions ease",
       "featured_image": {
@@ -17,15 +26,6 @@
       },
       "description": "Daniil Medvedev enjoys Australian Open warm up with first Brisbane International crown.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/daniil-medvedev-vs-brandon-nakashima-brisbane-international/106218054"
-    },
-    {
-      "published_datetime": "2026-01-11T10:14:03.000000Z",
-      "title": "20yo rookie, underdog win national cycling championships",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12be64aeed553b1e8942e6ff7081875b?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
-      },
-      "description": "Under 23 neo-pro Mackenzie Coupland and unheralded rider Pat Eddy have stunned the elite peloton to claim brilliant victories in the AusCycling road nationals in Perth.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/auscycling-road-nationals-perth/106218174"
     },
     {
       "published_datetime": "2026-01-11T10:07:46.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-11T13:25:12.955711"
+  "merged_at": "2026-01-11T14:12:17.344581"
 }
