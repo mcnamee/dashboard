@@ -1,22 +1,31 @@
 {
   "items": [
     {
-      "published_datetime": "2026-01-11T06:01:16.000000Z",
-      "title": "'Use your nose': Health warnings as winds push Victorian bushfire smoke north",
+      "published_datetime": "2026-01-11T06:51:13.000000Z",
+      "title": "Sydney daycare first to be shut by new regulator over safety breaches",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b33b4aa1a93ef07cb823bd24298d4bf1?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d40349e7d4cfbb3d8513e0e1e649411b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=450&amp;width=862&amp;height=485"
       },
-      "description": "Health experts and authorities are urging people living north of Victoria's bushfires to limit their time outdoors as a weather system pushes bushfire smoke across the state and into New South Wales.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/smoke-and-air-quality-warnings-health-bushfires/106217952"
+      "description": "Fun2Learn in Rosehill is the first centre to have its doors forcibly shut by the new child care regulator after it uncovered 41 breaches.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/fun2learn-childcare-shut-after-decade-safety-breaches/106217916"
     },
     {
       "published_datetime": "2026-01-11T05:51:00.000000Z",
-      "title": "Volunteer firefighter's home burns while he battles Victorian bushfires",
+      "title": "'Mate, let's go again': Firefighter continues shift after home burns",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f1c0ef0e7d793aaadf940fc9c1c633b7?impolicy=wcms_crop_resize&amp;cropH=388&amp;cropW=690&amp;xPos=0&amp;yPos=234&amp;width=862&amp;height=485"
       },
       "description": "CFA volunteer Michael Harper discovers through the truck radio while on shift that his home is under threat.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/cfa-volunteer-firefighter-discovers-burnt-home-during-shift/106217532"
+    },
+    {
+      "published_datetime": "2026-01-11T04:20:12.000000Z",
+      "title": "Property saved with mops, mates and rakes after fire encircles home",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/05e685acd1be24ca9835f2105196926c?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Everywhere you look around the Irvines' farm near Alexandra are signs of the fire that surrounded their home and burnt right up to the front porch.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/acheron-longwood-fire-locals-save-family-home/106217756"
     },
     {
       "published_datetime": "2026-01-11T01:51:53.000000Z",
@@ -89,15 +98,6 @@
       },
       "description": "Four years after the Taliban's return to power, security is no longer the defining issue in Afghanistan. Instead, one of the world's worst humanitarian crises is exacerbated by a series of overlapping disasters.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/life-for-women-and-girls-under-taliban-rule/106115402"
-    },
-    {
-      "published_datetime": "2026-01-10T20:11:29.000000Z",
-      "title": "Six dead, including child, in Mississippi shootings, suspect charged",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ada73204ef1b4cab2adb6c33784bc28d?impolicy=wcms_crop_resize&amp;cropH=338&amp;cropW=601&amp;xPos=122&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A man is charged with murder after six people from the same family were killed in a series of shootings.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/mississippi-shootings-leave-family-members-dead/106217418"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ef685c2b-7c2d-4bb0-843b-e95c468d508e",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-11T06:20:32.757821"
+  "merged_at": "2026-01-11T07:15:30.813600"
 }
