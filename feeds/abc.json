@@ -2,7 +2,7 @@
   "items": [
     {
       "published_datetime": "2026-01-10T19:45:49.000000Z",
-      "title": "Live: 300 structures confirmed lost in Victorian bushfires, as government weighs bringing in overseas help",
+      "title": "Live: One person killed in Victorian bushfires, as 300 structures confirmed lost",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a48b4d327985b4b5a0cc5dceba623a4f?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=225&amp;width=862&amp;height=485"
       },
@@ -10,22 +10,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/bushfires-victoria-nsw-heatwave-live-coverage/106217152"
     },
     {
+      "published_datetime": "2026-01-11T04:20:12.000000Z",
+      "title": "'We had a job to do': Family saves home after fire encircles property",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/05e685acd1be24ca9835f2105196926c?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Everywhere you look around the Irvines' farm near Alexandra are signs of the fire that surrounded their home and burnt right up to the front porch.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/acheron-longwood-fire-locals-save-family-home/106217756"
+    },
+    {
       "published_datetime": "2026-01-11T00:59:23.000000Z",
-      "title": "Live: Ex-Cyclone Koji crosses coast, bringing 150mm of rain in 2 hours",
+      "title": "Live: Nearly 22,000 homes without power after ex-Cyclone Koji crosses coast",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/231ff4028e0a4a7564be4e8f400ebe7c?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Ex-Tropical Cyclone Koji makes landfall in north Queensland bringing heavy rain and damaging winds. Follow live.",
+      "description": "Ex-Tropical Cyclone Koji makes landfall in north Queensland as a tropical low, bringing heavy rain and damaging winds. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/live-updates-tropical-cyclone-koji-north-queensland-bom/106212666"
-    },
-    {
-      "published_datetime": "2026-01-10T19:39:46.000000Z",
-      "title": "Intense rainfall follows ex-Tropical Cyclone Koji in sodden north Queensland",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a05c4f2313573fd19c867d3ba0e4e3f6?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=276&amp;width=862&amp;height=485"
-      },
-      "description": "The category one system hits inland from Ayr, bringing gusts up to 100km/h and rainfall totals of 150mm in just two hours along its southern flank.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/cyclone-koji-north-queensland-coast-warnings-flood/106216534"
     },
     {
       "published_datetime": "2026-01-10T18:30:00.000000Z",
@@ -100,15 +100,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/lack-of-services-leaving-nt-lipoedema-patient-without-care/106187588"
     },
     {
-      "published_datetime": "2026-01-11T01:12:08.000000Z",
-      "title": "Grateful Dead founding member Bob Weir dies at 78",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/50eafd1d044236c46b8f21c7da128b3f?impolicy=wcms_crop_resize&amp;cropH=2435&amp;cropW=4328&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
-      },
-      "description": "Bob Weir's death was announced on Saturday in a statement on his Instagram page.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/grateful-dead-founding-member-bob-weir-dies-at-78/106217686"
-    },
-    {
       "published_datetime": "2026-01-11T02:23:33.000000Z",
       "title": "Violence reported across Iran as government signals crackdown on protests",
       "featured_image": {
@@ -118,6 +109,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/iran-protesters-chant-anti-government-messages/106217578"
     },
     {
+      "published_datetime": "2026-01-11T01:12:08.000000Z",
+      "title": "Grateful Dead founding member Bob Weir dies at 78",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/50eafd1d044236c46b8f21c7da128b3f?impolicy=wcms_crop_resize&amp;cropH=2435&amp;cropW=4328&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
+      },
+      "description": "Bob Weir's death was announced on Saturday in a statement on his Instagram page.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/grateful-dead-founding-member-bob-weir-dies-at-78/106217686"
+    },
+    {
       "published_datetime": "2026-01-11T02:04:21.000000Z",
       "title": "Farm kids gifted champion's puppies to secure a skilled future",
       "featured_image": {
@@ -125,6 +125,15 @@
       },
       "description": "In small towns scattered around Australia, five kids have hit the jackpot. They've each been given a puppy from a champion muster dog.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/muster-dogs-next-generation/106076694"
+    },
+    {
+      "published_datetime": "2026-01-11T05:00:38.000000Z",
+      "title": "Brawl contained, fireworks cancelled due to fire ban as Summernats ends",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c911a5c0e874a95ed0e5c47233b963b7?impolicy=wcms_crop_resize&amp;cropH=2823&amp;cropW=5018&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's largest car festival draws to a close in Canberra, with record cars, championship wins, and a brawl that police are investigating.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/summernats-car-festival-ends/106217896"
     },
     {
       "published_datetime": "2026-01-10T21:14:53.000000Z",
@@ -154,15 +163,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/fa-cup-champions-crystal-place-beaten-by-macclesfield/106217706"
     },
     {
-      "published_datetime": "2026-01-10T10:58:29.000000Z",
-      "title": "Khawaja stars as Heat thrash Thunder, Warner injured",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3bc96cb2cabaa1870329237561e4ed1d?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=82&amp;width=862&amp;height=485"
-      },
-      "description": "Usman Khawaja's international career may be over, but he showed he is far from a spent force by stroking a fine 78 to help the Brisbane Heat to a BBL victory.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-10/bbl-brisbane-heat-beat-sydney-thunder-usman-khawaja-stars/106217066"
-    },
-    {
       "published_datetime": "2026-01-10T18:30:00.000000Z",
       "title": "'Let them smoke and die': How Aussies reacted to smoking cancer link in 1964",
       "featured_image": {
@@ -170,6 +170,15 @@
       },
       "description": "How did Australians in 1964 react to a major scientific report showing the deadly dangers of cigarettes?",
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/today-in-history-january-11-smoking-cancer-link-/106185276"
+    },
+    {
+      "published_datetime": "2026-01-10T10:58:29.000000Z",
+      "title": "Khawaja stars as Heat thrash Thunder, Warner injured",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3bc96cb2cabaa1870329237561e4ed1d?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=82&amp;width=862&amp;height=485"
+      },
+      "description": "Usman Khawaja's international career may be over, but he showed he is far from a spent force by stroking a fine 78 to help the Brisbane Heat to a BBL victory.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-10/bbl-brisbane-heat-beat-sydney-thunder-usman-khawaja-stars/106217066"
     },
     {
       "published_datetime": "2026-01-10T21:14:24.000000Z",
@@ -181,6 +190,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/floodwater-brings-narriearra-caryapundy-swamp-to-life/106136450"
     },
     {
+      "published_datetime": "2026-01-11T05:10:16.000000Z",
+      "title": "Being bored in the Perth suburbs inspired this Oscar-winning writer",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/51d5de3f1464c94353573b54ece86532?impolicy=wcms_crop_resize&amp;cropH=960&amp;cropW=1707&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Writer Shaun Tan highlighted the magic and whimsy of everyday Australia in his book Tales from Outer Suburbia. He talks about finding inspiration in the mundane, and what it was like turning his tales into TV. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/shaun-tan-tales-from-outer-suburbia/106159172"
+    },
+    {
       "published_datetime": "2026-01-10T19:57:21.000000Z",
       "title": "'Predator-free' fence project praised for restoring Kangaroo Island's native wildlife",
       "featured_image": {
@@ -188,24 +206,6 @@
       },
       "description": "Five years after feral cats were removed from inside the Western River Refuge on Kangaroo Island, populations of endangered species have boomed.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/kangaroo-island-native-animal-populations-bounce-back/106209894"
-    },
-    {
-      "published_datetime": "2026-01-10T20:28:38.000000Z",
-      "title": "'I would look like an alien': The rise of the 'Barbie nose' trend",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c0ad477badb4477ec800b4a220b0bc61?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
-      },
-      "description": "Tiny, sloped rhinoplasties are dominating pop culture. But some plastic surgery experts say \"trend-associated\" procedures like these are a concern.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/barbie-nose-trend-social-media/105967608"
-    },
-    {
-      "published_datetime": "2026-01-10T22:19:16.000000Z",
-      "title": "Hull anchors Australia to World Cross Country Championships gold",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8f50b6c3ad74f8ff03a78a62b2275aea?impolicy=wcms_crop_resize&amp;cropH=607&amp;cropW=1080&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
-      },
-      "description": "Olympic medallist Jessica Hull guides Australia home in the mixed relay event at the world titles in Florida.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/australia-wins-cross-country-gold-medal-mixed-relay/106217508"
     },
     {
       "published_datetime": "2026-01-10T03:48:57.000000Z",
@@ -217,13 +217,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-10/brisbane-international-semi-finals/106216472"
     },
     {
-      "published_datetime": "2026-01-10T20:43:39.000000Z",
-      "title": "Is spin bowling a dying art in Australian cricket?",
+      "published_datetime": "2026-01-10T22:19:16.000000Z",
+      "title": "Hull anchors Australia to World Cross Country Championships gold",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f071f6138e5dcfc6da95b99fe9815a98?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=204&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8f50b6c3ad74f8ff03a78a62b2275aea?impolicy=wcms_crop_resize&amp;cropH=607&amp;cropW=1080&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
       },
-      "description": "After an Ashes series dominated by pace bowlers, what does the future hold for young spinners wanting to play Test cricket for Australia?",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/future-of-spin-bowling-in-australian-cricket/106213212"
+      "description": "Olympic medallist Jessica Hull guides Australia home in the mixed relay event at the world titles in Florida.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/australia-wins-cross-country-gold-medal-mixed-relay/106217508"
     }
   ]
 }
