@@ -1,13 +1,31 @@
 {
   "items": [
     {
-      "published_datetime": "2026-01-11T07:29:58.000000Z",
-      "title": "Frosty finish as ice-cold Sabalenka soars to second-successive Brisbane title",
+      "published_datetime": "2026-01-11T10:28:39.000000Z",
+      "title": "Medvedev claims Brisbane International crown",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c83a2a220cf669865c4a43a3ef9c26c?impolicy=wcms_crop_resize&amp;cropH=1470&amp;cropW=2613&amp;xPos=0&amp;yPos=225&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cc237231fe6b41a7b5ab27f2ac95d5d4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=119&amp;width=862&amp;height=485"
       },
-      "description": "Aryna Sabalenka has claimed her second-straight Brisbane International title, beating Marta Kostyuk 6-4, 6-3.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/aryna-sabalenka-vs-marta-kostyuk-brisbane-international-final/106218052"
+      "description": "Daniil Medvedev enjoys Australian Open warm up with first Brisbane International crown.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/daniil-medvedev-vs-brandon-nakashima-brisbane-international/106218054"
+    },
+    {
+      "published_datetime": "2026-01-11T10:14:03.000000Z",
+      "title": "20yo rookie wins national cycling championships",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12be64aeed553b1e8942e6ff7081875b?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
+      },
+      "description": "Under 23 neo-pro Mackenzie Coupland has stunned the women's peloton to claim a brilliant solo win in the AusCycling women's road nationals in Perth.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/auscycling-road-nationals-perth/106218174"
+    },
+    {
+      "published_datetime": "2026-01-11T10:07:46.000000Z",
+      "title": "Iran vows to strike back if US attacks over anti-regime protests",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d96d5b655210955789287808ba07ef2e?impolicy=wcms_crop_resize&amp;cropH=2139&amp;cropW=3802&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
+      },
+      "description": "As the death toll has risen, a further 2,600 others have been detained, according to the US-based Human Rights Activists News Agency, and Donald Trump has threatened to intervene.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/iran-vows-to-strike-back-if-us-attacks/106218450"
     },
     {
       "published_datetime": "2026-01-11T07:21:35.000000Z",
@@ -32,15 +50,6 @@
       "audio_url": "",
       "url": "spacex-launches-nasa-s-pandora-v7UG4o3ARY.8frPFd25WPQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-11T06:51:13.000000Z",
-      "title": "Sydney daycare first to be shut by new regulator over safety breaches",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d40349e7d4cfbb3d8513e0e1e649411b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=450&amp;width=862&amp;height=485"
-      },
-      "description": "Fun2Learn in Rosehill is the first centre to have its doors forcibly shut by the new child care regulator after it uncovered 41 breaches.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/fun2learn-childcare-shut-after-decade-safety-breaches/106217916"
     },
     {
       "published_datetime": "2026-01-11T05:51:00.000000Z",
@@ -146,15 +155,6 @@
       },
       "description": "Ex-Tropical Cyclone Koji has crossed the north Queensland coast between the towns of Ayr and Bowen and has weakened into a tropical low pressure system.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/cyclone-koji-north-queensland-coast-warnings-flood/106216534"
-    },
-    {
-      "published_datetime": "2026-01-10T19:31:31.000000Z",
-      "title": "Christian sect investigated by the FBI under pressure to reveal wealth",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a3b89fdfbab165382d6e3bddd25f223a?impolicy=wcms_crop_resize&amp;cropH=709&amp;cropW=1260&amp;xPos=0&amp;yPos=17&amp;width=862&amp;height=485"
-      },
-      "description": "Survivors of a secretive Christian sect, under investigation by the FBI, say it is hiding wealth through trusts, blocking access to abuse compensation.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/two-by-twos-christian-sect-child-sex-abuse-compensation-redress/106160220"
     },
     {
       "published_datetime": "2026-01-10T18:30:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-11T10:13:17.327360"
+  "merged_at": "2026-01-11T11:11:15.665424"
 }
