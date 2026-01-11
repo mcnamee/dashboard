@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-01-11T04:20:12.000000Z",
-      "title": "'We had a job to do': Family saves home after fire encircles property",
+      "published_datetime": "2026-01-11T06:01:16.000000Z",
+      "title": "'Use your nose': Health warnings as winds push Victorian bushfire smoke north",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/05e685acd1be24ca9835f2105196926c?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b33b4aa1a93ef07cb823bd24298d4bf1?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Everywhere you look around the Irvines' farm near Alexandra are signs of the fire that surrounded their home and burnt right up to the front porch.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/acheron-longwood-fire-locals-save-family-home/106217756"
+      "description": "Health experts and authorities are urging people living north of Victoria's bushfires to limit their time outdoors as a weather system pushes bushfire smoke across the state and into New South Wales.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/smoke-and-air-quality-warnings-health-bushfires/106217952"
+    },
+    {
+      "published_datetime": "2026-01-11T05:51:00.000000Z",
+      "title": "Volunteer firefighter's home burns while he battles Victorian bushfires",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f1c0ef0e7d793aaadf940fc9c1c633b7?impolicy=wcms_crop_resize&amp;cropH=388&amp;cropW=690&amp;xPos=0&amp;yPos=234&amp;width=862&amp;height=485"
+      },
+      "description": "CFA volunteer Michael Harper discovers through the truck radio while on shift that his home is under threat.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/cfa-volunteer-firefighter-discovers-burnt-home-during-shift/106217532"
     },
     {
       "published_datetime": "2026-01-11T01:51:53.000000Z",
@@ -41,15 +50,6 @@
       "audio_url": "",
       "url": "us-launches-large-scale-airstr-.cxRCee4RnqztYsxh4iWhQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-10T23:29:33.000000Z",
-      "title": "WA towns look to tackle overtourism as 'crazy' crowds pack car parks, beaches",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cc0c68426e844907da696a0242a465ba?impolicy=wcms_crop_resize&amp;cropH=974&amp;cropW=1732&amp;xPos=0&amp;yPos=88&amp;width=862&amp;height=485"
-      },
-      "description": "As WA's tourist towns experience an influx of summer visitors, some locals are worried their hometowns could become too crowded unless visitor numbers are controlled.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/busy-beaches-southern-wa/106211286"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4d89ba31-c01c-4d40-b53f-60dbc678fe2b",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-11T05:19:26.484237"
+  "merged_at": "2026-01-11T06:20:32.757821"
 }
