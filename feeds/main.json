@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-11T07:29:58.000000Z",
+      "title": "Breaking: Sabalenka soars to second-successive Brisbane title",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c83a2a220cf669865c4a43a3ef9c26c?impolicy=wcms_crop_resize&amp;cropH=1470&amp;cropW=2613&amp;xPos=0&amp;yPos=225&amp;width=862&amp;height=485"
+      },
+      "description": "Aryna Sabalenka has claimed her second-straight Brisbane International title, beating Marta Kostyuk 6-4, 6-3.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/aryna-sabalenka-vs-marta-kostyuk-brisbane-international-final/106218052"
+    },
+    {
+      "published_datetime": "2026-01-11T07:21:35.000000Z",
+      "title": "Adelaide Festival board members, chair quit after author's cancellation from Writers' Week",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/69ccaf380413bb5058c4ae1d96ef663b?impolicy=wcms_crop_resize&amp;cropH=411&amp;cropW=730&amp;xPos=0&amp;yPos=65&amp;width=862&amp;height=485"
+      },
+      "description": "The Adelaide Festival board's decision to cancel the appearance of Palestinian-Australian author Randa Abdel-Fattah from this year's Adelaide Writers' Week has prompted further fallout, with several board members stepping down.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/fallout-amid-writers-week-cancellation-of-randa-abdel-fattah/106217646"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b8b0508f-e91d-49d6-87e8-9114ef04ae00",
+      "published_datetime": "2026-01-11T07:05:09.895093",
+      "title": "SpaceX launches NASA's Pandora to study exoplanet atmospheres",
+      "featured_image": {
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-nasas-pandora-exoplanet-studying-satellite-on-jan-11",
+        "name": "Watch SpaceX launch NASA's Pandora exoplanet-studying ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Wt3ldf0r--/t_limit/https://cdn.mos.cms.futurecdn.net/xbHtcdhwi8hRvXYVtZNbbh-840-80.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--VQCpYIcn--/t_thumbnail/https://cdn.mos.cms.futurecdn.net/xbHtcdhwi8hRvXYVtZNbbh-840-80.jpg"
+      },
+      "description": "SpaceX launched NASA's Pandora satellite Sunday morning from Vandenberg Space Force Base in California, sending the first mission of NASA's Astrophysics Pioneers program to study the atmospheres of distant exoplanets[1][2][3].\n\nThe 716-pound satellite lifted off at 5:19 a.m. PST aboard a Falcon 9 rocket carrying about 40 payloads on the inaugural Twilight rideshare mission to sun-synchronous orbit[1][4][5]. The launch marked a new approach to exoplanet research, with Pandora designed to disentangle signals from planetary atmospheres and their host stars using simultaneous observations in visible and infrared light[2][6].",
+      "audio_url": "",
+      "url": "spacex-launches-nasa-s-pandora-v7UG4o3ARY.8frPFd25WPQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-11T06:51:13.000000Z",
       "title": "Sydney daycare first to be shut by new regulator over safety breaches",
       "featured_image": {
@@ -26,24 +59,6 @@
       },
       "description": "Everywhere you look around the Irvines' farm near Alexandra are signs of the fire that surrounded their home and burnt right up to the front porch.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/acheron-longwood-fire-locals-save-family-home/106217756"
-    },
-    {
-      "published_datetime": "2026-01-11T01:51:53.000000Z",
-      "title": "Thousands protest against ICE after fatal shooting of Renee Nicole Good",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9963775385be87c6eadff0d9c0f87cc2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The protests come after Renee Nicole Good was fatally shot by an immigration officer in Minneapolis.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/anti-ice-protesters-gather-around-the-us/106217540"
-    },
-    {
-      "published_datetime": "2026-01-11T00:59:23.000000Z",
-      "title": "Live: Nearly 22,000 homes without power after ex-Cyclone Koji crosses coast",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/231ff4028e0a4a7564be4e8f400ebe7c?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Ex-Tropical Cyclone Koji makes landfall in north Queensland as a tropical low, bringing heavy rain and damaging winds. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/live-updates-tropical-cyclone-koji-north-queensland-bom/106212666"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/31b46f36-fab6-4192-b8c6-b740ca4bacf1",
@@ -124,6 +139,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/bushfires-victoria-nsw-heatwave-live-coverage/106217152"
     },
     {
+      "published_datetime": "2026-01-10T19:39:46.000000Z",
+      "title": "Intense rainfall follows ex-Tropical Cyclone Koji in sodden north Queensland",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a05c4f2313573fd19c867d3ba0e4e3f6?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=276&amp;width=862&amp;height=485"
+      },
+      "description": "Ex-Tropical Cyclone Koji has crossed the north Queensland coast between the towns of Ayr and Bowen and has weakened into a tropical low pressure system.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/cyclone-koji-north-queensland-coast-warnings-flood/106216534"
+    },
+    {
       "published_datetime": "2026-01-10T19:31:31.000000Z",
       "title": "Christian sect investigated by the FBI under pressure to reveal wealth",
       "featured_image": {
@@ -131,15 +155,6 @@
       },
       "description": "Survivors of a secretive Christian sect, under investigation by the FBI, say it is hiding wealth through trusts, blocking access to abuse compensation.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/two-by-twos-christian-sect-child-sex-abuse-compensation-redress/106160220"
-    },
-    {
-      "published_datetime": "2026-01-10T18:57:56.000000Z",
-      "title": "Has Trump landed a dud with his Venezuelan oil play?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1a695c9094f393cf3be4075580103264?impolicy=wcms_crop_resize&amp;cropH=2096&amp;cropW=3727&amp;xPos=0&amp;yPos=194&amp;width=862&amp;height=485"
-      },
-      "description": "While debate rages over the legality and the potential fallout from America's incursion, there's been a quiet acceptance that it is all about oil.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/has-trump-landed-a-dud-with-his-venezuelan-oil-play/106214900"
     },
     {
       "published_datetime": "2026-01-10T18:30:00.000000Z",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/55dd65b8-8dbc-46eb-85ea-471530881d53",
-      "published_datetime": "2026-01-10T00:43:55.430087",
-      "title": "France reschedules G7 summit to avoid Trump UFC party",
-      "featured_image": {
-        "url": "https://sports.yahoo.com/articles/ufc-white-house-dana-white-001821722.html",
-        "name": "UFC White House Update: Dana White Unveils More Details",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--XKQqvhei--/t_limit/https://media.zenfs.com/en/athlon_sports_articles_610/9df7f13f465287ed44be820f4f73c45a",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--OnsWoKfc--/t_thumbnail/https://media.zenfs.com/en/athlon_sports_articles_610/9df7f13f465287ed44be820f4f73c45a"
-      },
-      "description": "France has postponed this year's Group of Seven summit by one day to prevent a scheduling conflict with a mixed martial arts event at the White House on June 14, which coincides with President Donald Trump's 80th birthday[1][2][3][4].\n\nThe annual gathering of world leaders in Evian-les-Bains, originally scheduled for June 14-16, will now take place June 15-17, according to two officials familiar with the G7's arrangements[1][2][5]. The date change was first reported by Politico on Friday and has been updated on the G7's official website[6][3][5].\n\nJune 14 marks Flag Day in the United States, Trump's milestone birthday, and the date he announced in October for a \"big UFC fight\" on the White House grounds as part of the nation's 250th anniversary celebrations[7][8][9]. UFC CEO Dana White confirmed to CBS News this week that preparations are complete, with approximately 5,000 spectators expected on the South Lawn and up to 85,000 more at a public viewing area on the nearby Ellipse[10][11].",
-      "audio_url": "",
-      "url": "france-delays-g7-summit-to-avo-w2.bzEaRS22wDVjrEXkVmg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-11T07:15:30.813600"
+  "merged_at": "2026-01-11T08:17:13.859537"
 }
