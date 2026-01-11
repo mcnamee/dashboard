@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-11T11:29:26.000000Z",
+      "title": "Victoria's bushfire crisis turns deadly as conditions ease",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5ce3225af36661db6258d70fbb63be7a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "On Sunday afternoon, emergency services discovered the body of a person in Central Victoria. The fatal turn comes as firefighters use favourable conditions to contain more than 20 blazes across the state.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/vic-bushfires-turn-deadly-conditions-ease/106218116"
+    },
+    {
       "published_datetime": "2026-01-11T10:28:39.000000Z",
-      "title": "Medvedev claims Brisbane International crown",
+      "title": "Relaxed Medvedev claims Brisbane International crown",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cc237231fe6b41a7b5ab27f2ac95d5d4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=119&amp;width=862&amp;height=485"
       },
@@ -11,11 +20,11 @@
     },
     {
       "published_datetime": "2026-01-11T10:14:03.000000Z",
-      "title": "20yo rookie wins national cycling championships",
+      "title": "20yo rookie, underdog win national cycling championships",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12be64aeed553b1e8942e6ff7081875b?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
       },
-      "description": "Under 23 neo-pro Mackenzie Coupland has stunned the women's peloton to claim a brilliant solo win in the AusCycling women's road nationals in Perth.",
+      "description": "Under 23 neo-pro Mackenzie Coupland and unheralded rider Pat Eddy have stunned the elite peloton to claim brilliant victories in the AusCycling road nationals in Perth.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/auscycling-road-nationals-perth/106218174"
     },
     {
@@ -137,15 +146,6 @@
       "audio_url": "",
       "url": "astronomers-discover-mysteriou-FcFCo.KQS1GhHlS0CS6RIw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-10T19:45:49.000000Z",
-      "title": "Live: One death recorded as four emergency bushfires burn across Victoria",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/30e017f21cff5176a953430aa20d24fb?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=354&amp;width=862&amp;height=485"
-      },
-      "description": "Several fires have been downgraded to watch and act but authorities are still battling to control many of the blazes that have claimed one life and destroyed hundreds of structures. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/bushfires-victoria-nsw-heatwave-live-coverage/106217152"
     },
     {
       "published_datetime": "2026-01-10T19:39:46.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-11T11:22:59.415838"
+  "merged_at": "2026-01-11T12:24:57.664458"
 }
