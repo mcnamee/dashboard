@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-11T20:32:01.000000Z",
+      "title": "Heavy rainfall batters north Qld as Ex-Cyclone Koji moves inland",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8a0b17f9b7399cbef0107ab6d85a001?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
+      },
+      "description": "A severe weather warning for \"locally intense rainfall\" is in place for Mackay to Gladstone and inland areas after several people were rescued from floodwaters.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/heavy-rainfall-north-queensland-ex-cyclone-koji/106218210"
+    },
+    {
+      "published_datetime": "2026-01-11T19:56:56.000000Z",
+      "title": "'Lazy' festival-goers continue to abandon truckloads of camping gear",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6d6b7e0fe108b8bb7e0e38df230974be?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "With campsite trash accounting for more than half of the rubbish accumulated at music festivals, there are calls for a \"cultural shift\" in the behaviour of those attending.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/camping-gear-abandoned-at-festivals-causing-huge-waste-problem/106210328"
+    },
+    {
       "published_datetime": "2026-01-11T19:38:45.000000Z",
-      "title": "Live: Fight to contain deadly Victorian blazes rages on with 300 buildings lost",
+      "title": "Live: Fight to contain deadly Victorian blazes rages on with 300 buildings lost, one dead",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ceff129e54624c7d3f1e2b667d7d2756?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -11,7 +29,7 @@
     },
     {
       "published_datetime": "2026-01-11T19:26:54.000000Z",
-      "title": "A Taliban leader sat before me while millions of women remained unseen",
+      "title": "In a rare interview with the Taliban, a clear philosophy emerged",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4281db2bef9a5ad8d97fe4f501ffb574?impolicy=wcms_crop_resize&amp;cropH=1066&amp;cropW=1895&amp;xPos=9&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -26,15 +44,6 @@
       },
       "description": "More than 2,000 people attended a vigil for the Bondi shooting victim at the Bondi Pavilion, marking the end of the Jewish period of mourning.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-12/bondi-attack-mourners-vigil-at-pavilion/106218946"
-    },
-    {
-      "published_datetime": "2026-01-11T19:00:30.000000Z",
-      "title": "Ozempic-like drug to be listed on PBS for people with severe obesity",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/758c0317a94a2c89613865fb7d0ad2e1?impolicy=wcms_crop_resize&amp;cropH=2808&amp;cropW=4992&amp;xPos=0&amp;yPos=526&amp;width=862&amp;height=485"
-      },
-      "description": "The cost of weight loss drug Wegovy will soon be massively subsidised for Australians with severe obesity who have had a stroke or heart attack.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/wegovy-to-be-added-to-pbs/106218104"
     },
     {
       "published_datetime": "2026-01-11T19:00:00.000000Z",
@@ -146,15 +155,6 @@
       "audio_url": "",
       "url": "pezeshkian-promises-economic-r-3lSIY0PpSwy_z0zF4_ilMA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-11T11:29:26.000000Z",
-      "title": "Victoria's bushfire crisis turns deadly as conditions ease",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5ce3225af36661db6258d70fbb63be7a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Emergency services discovered the body of a person in Central Victoria on Sunday afternoon. The fatal turn comes as firefighters use favourable conditions to contain more than 20 blazes across the state.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/vic-bushfires-turn-deadly-conditions-ease/106218116"
     },
     {
       "published_datetime": "2026-01-11T10:07:46.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-11T20:14:53.920823"
+  "merged_at": "2026-01-11T21:11:51.940109"
 }
