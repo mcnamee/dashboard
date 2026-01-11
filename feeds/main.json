@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-11T04:20:12.000000Z",
+      "title": "'We had a job to do': Family saves home after fire encircles property",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/05e685acd1be24ca9835f2105196926c?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Everywhere you look around the Irvines' farm near Alexandra are signs of the fire that surrounded their home and burnt right up to the front porch.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-11/acheron-longwood-fire-locals-save-family-home/106217756"
+    },
+    {
       "published_datetime": "2026-01-11T01:51:53.000000Z",
       "title": "Thousands protest against ICE after fatal shooting of Renee Nicole Good",
       "featured_image": {
@@ -11,11 +20,11 @@
     },
     {
       "published_datetime": "2026-01-11T00:59:23.000000Z",
-      "title": "Live: Ex-Cyclone Koji crosses coast, bringing 150mm of rain in 2 hours",
+      "title": "Live: Nearly 22,000 homes without power after ex-Cyclone Koji crosses coast",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/231ff4028e0a4a7564be4e8f400ebe7c?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Ex-Tropical Cyclone Koji makes landfall in north Queensland bringing heavy rain and damaging winds. Follow live.",
+      "description": "Ex-Tropical Cyclone Koji makes landfall in north Queensland as a tropical low, bringing heavy rain and damaging winds. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/live-updates-tropical-cyclone-koji-north-queensland-bom/106212666"
     },
     {
@@ -107,21 +116,12 @@
     },
     {
       "published_datetime": "2026-01-10T19:45:49.000000Z",
-      "title": "Live: 300 structures confirmed lost in Victorian bushfires, as government weighs bringing in overseas help",
+      "title": "Live: One person killed in Victorian bushfires, as 300 structures confirmed lost",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a48b4d327985b4b5a0cc5dceba623a4f?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=225&amp;width=862&amp;height=485"
       },
       "description": "Authorities are continuing to battle out-of-control bushfires across Victoria, which have already claimed dozens of properties. Meanwhile, extreme heatwave warnings remain in place for NSW, ACT and WA. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-11/bushfires-victoria-nsw-heatwave-live-coverage/106217152"
-    },
-    {
-      "published_datetime": "2026-01-10T19:39:46.000000Z",
-      "title": "Intense rainfall follows ex-Tropical Cyclone Koji in sodden north Queensland",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a05c4f2313573fd19c867d3ba0e4e3f6?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=276&amp;width=862&amp;height=485"
-      },
-      "description": "The category one system hits inland from Ayr, bringing gusts up to 100km/h and rainfall totals of 150mm in just two hours along its southern flank.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-11/cyclone-koji-north-queensland-coast-warnings-flood/106216534"
     },
     {
       "published_datetime": "2026-01-10T19:31:31.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-11T04:41:21.601983"
+  "merged_at": "2026-01-11T05:19:26.484237"
 }
