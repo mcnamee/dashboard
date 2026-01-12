@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-12T09:09:47.000000Z",
+      "title": "More than 350 structures lost to Vic bushfires as locals assess damage",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/162ffc065413189922228fc8bb7bcf26?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=852&amp;width=862&amp;height=485"
+      },
+      "description": "More than 350 structures have been destroyed by several bushfires burning across Victoria, authorities say, as residents return home to take stock of the devastation.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/victorian-bushfires-longwood-walwa-harcourt-properties-destroyed/106221236"
+    },
+    {
+      "published_datetime": "2026-01-12T08:35:03.000000Z",
+      "title": "Rubber bullets to 'machine guns': Why Iranians fear the aftermath of an internet blackout",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9958365be4053dd7760da3503c656b52?impolicy=wcms_crop_resize&amp;cropH=806&amp;cropW=1432&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Iranians have endured a blackout but for many the fears of atrocities committed by the Khamenei regime are real and based on reports of machine guns being used.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/iran-is-in-blackout-reza-pahlavi-is-waiting-to-return-a-dynasty/106221764"
+    },
+    {
       "published_datetime": "2026-01-12T07:24:47.000000Z",
       "title": "Imam thanks police after alleged roadside assault in Melbourne",
       "featured_image": {
@@ -74,15 +92,6 @@
       },
       "description": "This year's Golden Globes saw hits and misses for Australia, last-minute snubs and a humbled Timoth\u00e9e Chalamet.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-12/golden-globes-key-moments-2026/106217878"
-    },
-    {
-      "published_datetime": "2026-01-12T01:37:50.000000Z",
-      "title": "What 1979 tells us about the protests in Iran",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/770467bfc35190847981b3856d79f153?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Understanding how events unfold in Iran requires understanding how its society and economy have reconfigured in the 47 years since the Islamic revolution.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/iran-history-protests-bazaaris-economy-revolution/106219578"
     },
     {
       "published_datetime": "2026-01-12T01:10:42.000000Z",
@@ -161,15 +170,6 @@
       "audio_url": "",
       "url": "iran-protest-death-toll-surpas-6eC6wnoFT3m42FcYcb3hqg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-11T19:38:45.000000Z",
-      "title": "Live: Major fires in Victoria destroy hundreds of structures, stock losses exceed 15,000",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ceff129e54624c7d3f1e2b667d7d2756?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Firefighters continue to battle fires across the state after the grim news that a person had been found dead and at least 390,000 hectares burnt. Follow live. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/victorian-bushfires-live-updates-crews-battle-emergency-blazes/106218614"
     },
     {
       "published_datetime": "2026-01-11T19:26:54.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-12T08:21:20.572363"
+  "merged_at": "2026-01-12T09:24:21.341345"
 }
