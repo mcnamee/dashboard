@@ -10,8 +10,23 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-12/victorian-bushfires-longwood-walwa-harcourt-properties-destroyed/106221236"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2718983e-0c3d-4ede-8f38-c2faae73b18a",
+      "published_datetime": "2026-01-12T08:35:28.627226",
+      "title": "Gold hits record high amid Fed probe, Iran unrest",
+      "featured_image": {
+        "url": "https://economymiddleeast.com/news/gold-prices-hit-record-high-past-4600-amid-powell-trump-tensions-safe-haven-rush/",
+        "name": "Gold prices hit record high past $4,600 amid Powell-Trump ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--wrWjeVTD--/t_limit/https://economymiddleeast.com/wp-content/uploads/2026/01/Gold-prices-1.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Lgu5pZJQ--/t_thumbnail/https://economymiddleeast.com/wp-content/uploads/2026/01/Gold-prices-1.jpeg"
+      },
+      "description": "Gold surged past $4,600 per ounce for the first time on Monday, as investors rushed into safe-haven assets following the U.S. Justice Department's criminal investigation into Federal Reserve Chair Jerome Powell and escalating violence from protests in Iran.\n\nSpot gold jumped as much as 1.7% to reach a record high of $4,600.33 per ounce in Asian trading, according to Reuters[1][2]. Silver also climbed to an all-time high of $84.60 per ounce before settling around $83-84, extending a rally that has seen the white metal gain nearly 150% over the past year[3][4].\n\n\"So, between events in Iran, and potential U.S. involvement, and the (Fed) chair being the focus of a criminal probe... U.S. futures turned lower on the Powell news, which was a green light for gold to take a run higher,\" said Tim Waterer, chief market analyst at KCM Trade[1].",
+      "audio_url": "",
+      "url": "gold-hits-record-4600-amid-fed-RP4SHOI.S9KVBIFp_GnkbA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-12T08:35:03.000000Z",
-      "title": "Rubber bullets to 'machine guns': Why Iranians fear the aftermath of an internet blackout",
+      "title": "If Iran is 'done with this regime' could the son of the former Shah return?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9958365be4053dd7760da3503c656b52?impolicy=wcms_crop_resize&amp;cropH=806&amp;cropW=1432&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/69e83fd3-5cf0-42be-9ff8-80835d383425",
-      "published_datetime": "2026-01-11T16:11:29.889688",
-      "title": "Iran warns US bases, Israel are 'legitimate targets'",
-      "featured_image": {
-        "url": "https://www.aa.com.tr/en/middle-east/iran-warns-israel-us-military-and-shipping-centers-would-be-legitimate-targets-if-washington-attacks/3796222",
-        "name": "Iran warns Israel, US military and shipping centers would be ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--V0knFUEZ--/t_limit/https://cdnuploads.aa.com.tr/uploads/Contents/2026/01/11/thumbs_b_c_2ad1953901a110db49ba74a6effb33e2.jpg%3Fv%3D121505",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--g0ou7S66--/t_thumbnail/https://cdnuploads.aa.com.tr/uploads/Contents/2026/01/11/thumbs_b_c_2ad1953901a110db49ba74a6effb33e2.jpg%3Fv%3D121505"
-      },
-      "description": "Iran's parliament speaker issued a stark warning Sunday that American military bases across the Middle East and Israel would be considered \"legitimate targets\" if the United States launches strikes against the Islamic Republic, as President Donald Trump weighs military options to support anti-government protesters.\n\nMohammad Baqer Qalibaf, speaking during a heated parliamentary session broadcast on state television, told lawmakers that Tehran would not limit itself to retaliatory strikes. \"In the event of an attack on Iran, both the occupied territory and all American military centers, bases and ships in the region will be our legitimate targets,\" he said, using Iran's term for Israel[1][2][3]. \"We do not consider ourselves limited to reacting after the action and will act based on any objective signs of a threat.\"\n\nAs Qalibaf spoke, lawmakers rushed the parliament dais chanting \"Death to America,\" marking a sharp escalation in tensions[1][4].",
-      "audio_url": "",
-      "url": "iran-warns-us-and-israel-of-re-wldX4LVOT0CCnz.HUyzhfA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-12T09:24:21.341345"
+  "merged_at": "2026-01-12T10:17:54.809890"
 }
