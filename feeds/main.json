@@ -35,21 +35,12 @@
     },
     {
       "published_datetime": "2026-01-12T03:01:21.000000Z",
-      "title": "PM recalls parliament to debate laws on hate speech, guns",
+      "title": "PM recalls parliament to introduce hate speech and gun laws",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c75d15d671aba22166328e7f24a6c9e?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=49&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1deb55bdd2fe42cd466c826426bf42a1?impolicy=wcms_crop_resize&amp;cropH=2553&amp;cropW=4538&amp;xPos=0&amp;yPos=237&amp;width=862&amp;height=485"
       },
       "description": "Anthony Albanese has recalled parliament early to deal with sweeping hate speech and gun laws in the wake of the Bondi terror attack.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-12/anthony-albanese-recalls-parliament-hate-speech-gun-laws/106220636"
-    },
-    {
-      "published_datetime": "2026-01-12T02:58:46.000000Z",
-      "title": "Federal minister backs axing of Palestinian author from writers' festival",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/431a83e7d83b7e3b1dd50b863f2fcdd1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
-      },
-      "description": "Resources Minister Madeleine King's comments come amid a growing furore over the decision that has led several board members to resign and dozens of writers to withdraw from the Adelaide literary event.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/minister-backs-adelaide-writers-festival-decision-to-axe-author/106217558"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/11d327ab-1ec3-49b5-bc7b-6d1a803a341f",
@@ -146,6 +137,15 @@
       "audio_url": "",
       "url": "von-der-leyen-backs-iranian-pr-1rr_3k6ZRV.v4VG2jYJeBg",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-01-11T20:48:45.000000Z",
+      "title": "Man fronts court over duct taped vest near Bondi Beach",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0fe68ed4e52570b4dd3045e00742ccb5?impolicy=wcms_crop_resize&amp;cropH=649&amp;cropW=1153&amp;xPos=0&amp;yPos=635&amp;width=862&amp;height=485"
+      },
+      "description": "A man allegedly carrying a vest covered in duct-taped objects in Bondi has been arrested and charged by NSW Police, with his vest examined by the bomb disposal unit and deemed safe.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/man-charged-with-offensive-behaviour-bondi-wore-duct-tape-vest/106219114"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/688c232e-feba-40fc-ab71-289dae8c2af9",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-12T06:24:52.670868"
+  "merged_at": "2026-01-12T07:21:14.008014"
 }
