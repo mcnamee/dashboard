@@ -1,13 +1,31 @@
 {
   "items": [
     {
-      "published_datetime": "2026-01-12T03:01:21.000000Z",
-      "title": "PM recalls parliament to debate laws on hate speech, guns",
+      "published_datetime": "2026-01-11T19:38:45.000000Z",
+      "title": "Live: Major fires in Victoria destroy hundreds of structures, stock losses exceed 15,000",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c75d15d671aba22166328e7f24a6c9e?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=49&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ceff129e54624c7d3f1e2b667d7d2756?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Firefighters continue to battle fires across the state after the grim news that a person had been found dead and at least 390,000 hectares burnt. Follow live.  ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/victorian-bushfires-live-updates-crews-battle-emergency-blazes/106218614"
+    },
+    {
+      "published_datetime": "2026-01-12T03:01:21.000000Z",
+      "title": "PM recalls parliament to introduce hate speech and gun laws",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1deb55bdd2fe42cd466c826426bf42a1?impolicy=wcms_crop_resize&amp;cropH=2553&amp;cropW=4538&amp;xPos=0&amp;yPos=237&amp;width=862&amp;height=485"
       },
       "description": "Anthony Albanese has recalled parliament early to deal with sweeping hate speech and gun laws in the wake of the Bondi terror attack. ",
       "page_content_url": "https://www.abc.net.au/news/2026-01-12/anthony-albanese-recalls-parliament-hate-speech-gun-laws/106220636"
+    },
+    {
+      "published_datetime": "2026-01-12T06:09:35.000000Z",
+      "title": "Adelaide Writers' Week 'hangs in the balance' as Jacinda Ardern joins list of authors boycotting event",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/69ccaf380413bb5058c4ae1d96ef663b?impolicy=wcms_crop_resize&amp;cropH=411&amp;cropW=730&amp;xPos=0&amp;yPos=65&amp;width=862&amp;height=485"
+      },
+      "description": "The future of Adelaide Writers' Week (AWW) remains unclear as Palestinian Australian author Randa Abdel-Fattah says she is considering her legal options. Former New Zealand prime minister Jacinda Ardern is among those who will no longer appear at the event.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/future-of-adelaide-writers-week-hangs-in-balance/106219462"
     },
     {
       "published_datetime": "2026-01-12T01:10:42.000000Z",
@@ -28,33 +46,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-12/danish-pm-comments-on-trump-greenland-remarks/106220382"
     },
     {
-      "published_datetime": "2026-01-11T19:38:45.000000Z",
-      "title": "Live: Major fires in Victoria destroy hundreds of structures, stock losses exceed 15,000",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ceff129e54624c7d3f1e2b667d7d2756?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Firefighters continue to battle fires across the state after the grim news that a person had been found dead and at least 390,000 hectares burnt. Follow live.  ",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/victorian-bushfires-live-updates-crews-battle-emergency-blazes/106218614"
-    },
-    {
-      "published_datetime": "2026-01-12T06:09:35.000000Z",
-      "title": "Adelaide Writers' Week 'hangs in the balance' as Jacinda Ardern joins list of authors boycotting event",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/69ccaf380413bb5058c4ae1d96ef663b?impolicy=wcms_crop_resize&amp;cropH=411&amp;cropW=730&amp;xPos=0&amp;yPos=65&amp;width=862&amp;height=485"
-      },
-      "description": "The future of Adelaide Writers' Week (AWW) remains unclear as Palestinian Australian author Randa Abdel-Fattah says she is considering her legal options. Former New Zealand prime minister Jacinda Ardern is among those who will no longer appear at the event.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/future-of-adelaide-writers-week-hangs-in-balance/106219462"
-    },
-    {
-      "published_datetime": "2026-01-12T02:58:46.000000Z",
-      "title": "Federal minister backs axing of Palestinian author from writers' festival",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/431a83e7d83b7e3b1dd50b863f2fcdd1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
-      },
-      "description": "Resources Minister Madeleine King's comments come amid a growing furore over the decision that has led several board members to resign and dozens of writers to withdraw from the Adelaide literary event. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/minister-backs-adelaide-writers-festival-decision-to-axe-author/106217558"
-    },
-    {
       "published_datetime": "2026-01-12T01:37:50.000000Z",
       "title": "What 1979 tells us about the protests in Iran",
       "featured_image": {
@@ -62,24 +53,6 @@
       },
       "description": "Understanding how events unfold in Iran requires understanding how its society and economy have reconfigured in the 47 years since the Islamic revolution.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-12/iran-history-protests-bazaaris-economy-revolution/106219578"
-    },
-    {
-      "published_datetime": "2026-01-11T19:26:54.000000Z",
-      "title": "More than the US and UK, the Taliban has an issue with Australia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4281db2bef9a5ad8d97fe4f501ffb574?impolicy=wcms_crop_resize&amp;cropH=1066&amp;cropW=1895&amp;xPos=9&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Taliban's chief spokesman agreed to an unscripted, sit-down interview with me, there was just one non-negotiable condition, writes Meghna Bali. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/interview-with-taliban-spokesman-in-kabul/106210452"
-    },
-    {
-      "published_datetime": "2026-01-12T02:33:06.000000Z",
-      "title": "Golden Globes key moments: Chalamet bests Dicaprio, Rose Byrne shouts out her bearded dragon",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b7e814e79ee8fca634557dca373bcd02?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=95&amp;width=862&amp;height=485"
-      },
-      "description": "This year's Golden Globes saw hits and misses for Australia, last-minute snubs and a humbled Timothée Chalamet. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/golden-globes-key-moments-2026/106217878"
     },
     {
       "published_datetime": "2026-01-12T00:20:05.000000Z",
@@ -91,6 +64,33 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-12/police-inspector-amy-scott-bondi-junction-hero-cancer-diagnosis/106219590"
     },
     {
+      "published_datetime": "2026-01-11T20:48:45.000000Z",
+      "title": "Man fronts court over duct taped vest near Bondi Beach",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0fe68ed4e52570b4dd3045e00742ccb5?impolicy=wcms_crop_resize&amp;cropH=649&amp;cropW=1153&amp;xPos=0&amp;yPos=635&amp;width=862&amp;height=485"
+      },
+      "description": "A man allegedly carrying a vest covered in duct-taped objects in Bondi has been arrested and charged by NSW Police, with his vest examined by the bomb disposal unit and deemed safe.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/man-charged-with-offensive-behaviour-bondi-wore-duct-tape-vest/106219114"
+    },
+    {
+      "published_datetime": "2026-01-12T02:33:06.000000Z",
+      "title": "Golden Globes key moments: Chalamet bests Dicaprio, Rose Byrne shouts out her bearded dragon",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b7e814e79ee8fca634557dca373bcd02?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=95&amp;width=862&amp;height=485"
+      },
+      "description": "This year's Golden Globes saw hits and misses for Australia, last-minute snubs and a humbled Timothée Chalamet. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/golden-globes-key-moments-2026/106217878"
+    },
+    {
+      "published_datetime": "2026-01-11T19:26:54.000000Z",
+      "title": "More than the US and UK, the Taliban has an issue with Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4281db2bef9a5ad8d97fe4f501ffb574?impolicy=wcms_crop_resize&amp;cropH=1066&amp;cropW=1895&amp;xPos=9&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The Taliban's chief spokesman agreed to an unscripted, sit-down interview with me, there was just one non-negotiable condition, writes Meghna Bali. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/interview-with-taliban-spokesman-in-kabul/106210452"
+    },
+    {
       "published_datetime": "2026-01-11T18:47:14.000000Z",
       "title": "Why Minneapolis was the place where ICE launched its largest operation yet",
       "featured_image": {
@@ -98,24 +98,6 @@
       },
       "description": "Minneapolis had been the target of a massive immigration enforcement operation in the weeks leading up to Renee Nicole Good's death. Now, the shooting has opened old wounds. ",
       "page_content_url": "https://www.abc.net.au/news/2026-01-12/minneapolis-targeted-in-largest-ice-operation-before-shooting/106218184"
-    },
-    {
-      "published_datetime": "2026-01-12T01:41:09.000000Z",
-      "title": "'It's not okay to not talk about it': Kostyuk explains handshake stance",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/70df380a904ce29aa9e16cc034a1a695?impolicy=wcms_crop_resize&amp;cropH=2207&amp;cropW=3924&amp;xPos=21&amp;yPos=210&amp;width=862&amp;height=485"
-      },
-      "description": "Marta Kostyuk explained that not shaking Aryna Sabalenka's hand and talking about Ukraine following her Brisbane International defeat was her duty, and to not highlight the issues at home would be \"inhumane\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/marta-kostyuk-aryna-sabalenka-handshake-brisbane-international/106219864"
-    },
-    {
-      "published_datetime": "2026-01-11T20:48:45.000000Z",
-      "title": "'It's extraordinary': Man fronts court over duct taped vest near Bondi Beach",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0fe68ed4e52570b4dd3045e00742ccb5?impolicy=wcms_crop_resize&amp;cropH=649&amp;cropW=1153&amp;xPos=0&amp;yPos=635&amp;width=862&amp;height=485"
-      },
-      "description": "A man allegedly carrying a vest covered in duct-taped objects in Bondi has been arrested and charged by NSW Police, with his vest examined by the bomb disposal unit and deemed safe.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/man-charged-with-offensive-behaviour-bondi-wore-duct-tape-vest/106219114"
     },
     {
       "published_datetime": "2026-01-12T05:23:24.000000Z",
@@ -127,6 +109,24 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-12/qld-buccan-death/106220552"
     },
     {
+      "published_datetime": "2026-01-11T19:16:36.000000Z",
+      "title": "Elite sportswomen have shared their stories, and these are the hard truths",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f32682dcbe8b6a82fb790f20539e46b4?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "Low pay, discrimination, disordered eating, sexism and online abuse are just a few of the prevalent issues ABC's Elite Athletes in Women's Sport Survey has revealed, despite recent progress in women's sport.   ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/abc-elite-athletes-womens-sport-survey-results/106100946"
+    },
+    {
+      "published_datetime": "2026-01-12T01:41:09.000000Z",
+      "title": "'It's not okay to not talk about it': Kostyuk explains handshake stance",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/70df380a904ce29aa9e16cc034a1a695?impolicy=wcms_crop_resize&amp;cropH=2207&amp;cropW=3924&amp;xPos=21&amp;yPos=210&amp;width=862&amp;height=485"
+      },
+      "description": "Marta Kostyuk explained that not shaking Aryna Sabalenka's hand and talking about Ukraine following her Brisbane International defeat was her duty, and to not highlight the issues at home would be \"inhumane\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/marta-kostyuk-aryna-sabalenka-handshake-brisbane-international/106219864"
+    },
+    {
       "published_datetime": "2026-01-12T05:03:35.000000Z",
       "title": "Perth woman suffers severe reaction after taking herbal remedy ArmaForce",
       "featured_image": {
@@ -136,13 +136,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-12/complementary-remedy-armaforce-causes-anaphylaxis-for-woman/106221004"
     },
     {
-      "published_datetime": "2026-01-12T05:51:35.000000Z",
-      "title": "Kaboom signals move to renewables as power station tower crashes down",
+      "published_datetime": "2026-01-11T18:58:57.000000Z",
+      "title": "Why there are no Michelin-starred restaurants in Australia",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/afefd5024ed6447ab29bcc401cd3179e?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=3840&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fbb45bb842a630d2c476c6d8d4e5f54a?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
       },
-      "description": "It took just 41 kilograms of explosives and less than a minute — a remnant of the 1970s fossil fuel age is blown to bits to make way for a methanol fuel plant.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/bell-bay-power-station-tower-explosives-demolition/106221046"
+      "description": "If you're a food lover, chances are you've heard of the Michelin Guide – you may have even dined at a Michelin-starred restaurant, but not here in Australia. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/should-australia-join-the-michelin-guide-for-restaurants/106206560"
     },
     {
       "published_datetime": "2026-01-12T02:31:42.000000Z",
@@ -163,24 +163,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-12/sydney-suburbs-fighting-fast-food-giants-kfc-mcdonalds/105979334"
     },
     {
-      "published_datetime": "2026-01-11T20:32:01.000000Z",
-      "title": "Flood Emergency Warning for central Qld town as ex-Cyclone Koji moves inland",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c1e8a4f2bcbdaeb356cce97e077146c4?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
-      },
-      "description": "Authorities have issued a Flood Emergency Warning for the central Queensland town of Clermont as large parts of the state are on flood watch in the wake of ex-Tropical Cyclone Koji.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/heavy-rainfall-north-queensland-ex-cyclone-koji/106218210"
-    },
-    {
-      "published_datetime": "2026-01-12T00:56:29.000000Z",
-      "title": "'Factories of hate': Overhaul aimed at shutting down illegal prayer halls",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/38d950f7c2e8631f2035b42d156c99a9?impolicy=wcms_crop_resize&amp;cropH=2274&amp;cropW=4042&amp;xPos=155&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Sydney councils would be granted greater powers to shut down illegal prayer halls under proposed reforms by the NSW government.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/nsw-shutdown-of-illegal-hate-preach-venues/106219528"
-    },
-    {
       "published_datetime": "2026-01-12T02:04:02.000000Z",
       "title": "Alleged home invasion ends with 17yo shot in the back",
       "featured_image": {
@@ -190,13 +172,31 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-12/17yo-shot-in-south-hobart-man-charged/106220370"
     },
     {
-      "published_datetime": "2026-01-11T18:58:57.000000Z",
-      "title": "Why there are no Michelin-starred restaurants in Australia",
+      "published_datetime": "2026-01-12T06:21:39.000000Z",
+      "title": "Labor pledges fertility treatment rebates ahead of election",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fbb45bb842a630d2c476c6d8d4e5f54a?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c03940aec2f93604819689c1c6385f4b?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "If you're a food lover, chances are you've heard of the Michelin Guide – you may have even dined at a Michelin-starred restaurant, but not here in Australia. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/should-australia-join-the-michelin-guide-for-restaurants/106206560"
+      "description": "Families will be able to access fertility treatment rebates of up to $2,000 per cycle for two cycles, under a Labor promise announced ahead of the upcoming state election. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/labor-ivf-fertility-rebate-election-pledge/106220664"
+    },
+    {
+      "published_datetime": "2026-01-11T20:32:01.000000Z",
+      "title": "Flood Emergency Warning for central Qld town as ex-Cyclone Koji moves inland",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c1e8a4f2bcbdaeb356cce97e077146c4?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
+      },
+      "description": "Authorities have issued a Flood Emergency Warning for the central Queensland town of Clermont as large parts of the state are on flood watch in the wake of ex-Tropical Cyclone Koji.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/heavy-rainfall-north-queensland-ex-cyclone-koji/106218210"
+    },
+    {
+      "published_datetime": "2026-01-12T02:58:46.000000Z",
+      "title": "Federal minister backs axing of Palestinian author from writers' festival",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/431a83e7d83b7e3b1dd50b863f2fcdd1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
+      },
+      "description": "Resources Minister Madeleine King's comments come amid a growing furore over the decision that has led several board members to resign and dozens of writers to withdraw from the Adelaide literary event. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/minister-backs-adelaide-writers-festival-decision-to-axe-author/106217558"
     },
     {
       "published_datetime": "2026-01-11T19:00:00.000000Z",
