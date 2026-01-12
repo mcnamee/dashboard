@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-12T07:24:47.000000Z",
+      "title": "Imam thanks police after alleged roadside assault in Melbourne",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d996c706935101a8f5cd8e7828c13dbd?impolicy=wcms_crop_resize&amp;cropH=2316&amp;cropW=4118&amp;xPos=882&amp;yPos=452&amp;width=862&amp;height=485"
+      },
+      "description": "An imam who was allegedly the victim of racial abuse during a roadside assault has thanked the police who helped him and his wife, and urged Australians to reject hate, Islamophobia and antisemitism.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-12/imam-thanks-police-after-alleged-roadside-assault-in-melbourne/106221398"
+    },
+    {
       "published_datetime": "2026-01-12T06:09:35.000000Z",
       "title": "Adelaide Writers' Week 'hangs in the balance' as Jacinda Ardern joins list of authors boycotting event",
       "featured_image": {
@@ -98,15 +107,6 @@
       "audio_url": "",
       "url": "iran-protests-intensify-with-d-WyJv6iZVQIWwXLS5YN3tzA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-12T00:20:05.000000Z",
-      "title": "'The hero of Bondi Junction' stabbing attack diagnosed with rare cancer",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5b7cab32101af4102af350831641fdf2?impolicy=wcms_crop_resize&amp;cropH=1708&amp;cropW=3036&amp;xPos=0&amp;yPos=695&amp;width=862&amp;height=485"
-      },
-      "description": "NSW Police Inspector Amy Scott, who was praised for bringing the Westfield Bondi Junction stabbing attack to an end, has been diagnosed with a rare and aggressive form of breast cancer.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-12/police-inspector-amy-scott-bondi-junction-hero-cancer-diagnosis/106219590"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/45f80625-f3bb-478a-a769-a68f8daa01d6",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-12T07:21:14.008014"
+  "merged_at": "2026-01-12T08:21:20.572363"
 }
