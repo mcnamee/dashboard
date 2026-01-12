@@ -1,12 +1,27 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/69fe91e2-3916-4bfc-b513-090f17df5ce5",
+      "published_datetime": "2026-01-12T09:53:17.163544",
+      "title": "Germany and India sign defense, AI deals to reduce China dependence",
+      "featured_image": {
+        "url": "https://www.ndtvprofit.com/economy-finance/indiagermany-partnership-gets-new-lift-as-pm-modi-chancellor-merz-sign-defence-and-tech-deals",
+        "name": "India\u2013Germany Partnership Gets New Lift As PM Modi, Chancellor ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--DwO0QNhC--/t_limit/https://media.assettype.com/bloombergquint%252F2026-01-12%252F20n2mm40%252FPTI01122026000221B.jpg%3Fw%3D1200%26auto%3Dformat%252Ccompress%26ogImage%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--hzSNdYoq--/t_thumbnail/https://media.assettype.com/bloombergquint%252F2026-01-12%252F20n2mm40%252FPTI01122026000221B.jpg%3Fw%3D1200%26auto%3Dformat%252Ccompress%26ogImage%3Dtrue"
+      },
+      "description": "German Chancellor Friedrich Merz and Indian Prime Minister Narendra Modi on Monday signed a series of agreements on defense, critical minerals, artificial intelligence, and education during Merz's first official visit to India, as both nations seek to reduce reliance on China and Russia amid shifting global alliances.\n\nThe two-day visit, taking place in Modi's home state of Gujarat, produced memorandums of understanding covering security cooperation, health sector collaboration, and the establishment of an AI innovation centre[1][2]. Modi announced visa-free transit for Indian citizens through Germany and invited German universities to open campuses in India as part of a new higher education roadmap[3][4].",
+      "audio_url": "",
+      "url": "merz-and-modi-deepen-india-ger-qZcXDrRbSL2nUtfFvUvhog",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-12T09:09:47.000000Z",
       "title": "More than 350 structures lost to Vic bushfires as locals assess damage",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/162ffc065413189922228fc8bb7bcf26?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=852&amp;width=862&amp;height=485"
       },
-      "description": "More than 350 structures have been destroyed by several bushfires burning across Victoria, authorities say, as residents return home to take stock of the devastation.",
+      "description": "Some residents have returned home to take stock of the devastation. Meanwhile, authorities believe the Longwood fire was started by a trailer throwing sparks on the Hume Freeway.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-12/victorian-bushfires-longwood-walwa-harcourt-properties-destroyed/106221236"
     },
     {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/209ee56c-6d7e-427d-bfcd-6352435d0fbb",
-      "published_datetime": "2026-01-11T17:26:35.319737",
-      "title": "Iran protest death toll exceeds 500 amid crackdown, rights group says",
-      "featured_image": {
-        "url": "https://www.lemonde.fr/en/international/article/2026/01/09/iran-cuts-internet-as-protest-movement-against-regime-grows_6749254_4.html",
-        "name": "Iran cuts internet as protest movement against regime grows",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--BuSAFit4--/t_limit/https://img.lemde.fr/2026/01/09/0/100/1080/720/1440/960/60/0/f6cbaa7_upload-1-wojk0mftvpoi-img-20260109-082102-389.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--G9ENihFK--/t_thumbnail/https://img.lemde.fr/2026/01/09/0/100/1080/720/1440/960/60/0/f6cbaa7_upload-1-wojk0mftvpoi-img-20260109-082102-389.jpg"
-      },
-      "description": "The death toll from two weeks of anti-government protests in Iran has climbed above 500, according to the U.S.-based Human Rights Activists News Agency, as authorities impose a nationwide internet blackout and threaten demonstrators with the death penalty.\n\nHRANA reported Sunday that 490 protesters and 48 security force members have been killed since demonstrations erupted on December 28, with approximately 10,000 people arrested[1][2][3][4]. Reuters could not independently verify the figures, and Iranian authorities have not released official casualty counts[1][2][3]. Some reports suggest the actual toll may be far higher, with one Tehran doctor telling TIME that at least 217 deaths had been recorded across six hospitals in the capital alone[5].\n\nMedical staff at hospitals in Tehran, Rasht, and Shiraz described facilities overwhelmed by the wounded and dead. A hospital worker in Tehran told the BBC that casualties were so numerous that \"there wasn't enough space in the morgue; the bodies were placed on top of one another\"[6][7]. Another medic reported security forces firing \"direct shots to the heads of the young people, to their hearts as well\"[6][7]. BBC Persian verified that approximately 70 bodies were brought to Poursina Hospital in Rasht on Friday night, exceeding morgue capacity[7][8].",
-      "audio_url": "",
-      "url": "iran-protest-death-toll-exceed-yb.PM.8xTOSlZI49JWD3xg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-12T10:17:54.809890"
+  "merged_at": "2026-01-12T11:13:40.797557"
 }
