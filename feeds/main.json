@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/51aa103b-716b-4d7f-a16f-db1c2f6b5f6d",
+      "published_datetime": "2026-01-12T13:16:35.473849",
+      "title": "Ancient galaxy was slowly strangled to death by its black hole",
+      "featured_image": {
+        "url": "https://www.newindianexpress.com/xplore/2024/Sep/18/supermassive-black-hole-starves-host-galaxy-to-death",
+        "name": "Supermassive black hole starves host galaxy to death",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--en5WKD2Q--/t_limit/https://media.newindianexpress.com/newindianexpress/2024-06/4fd4d94e-e026-4497-8363-236e5eab2517/ANI_20240610114636.jpg%3Fw%3D1200%26h%3D900%26auto%3Dformat%252Ccompress%26fit%3Dmax%26enlarge%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--vadzFbTp--/t_thumbnail/https://media.newindianexpress.com/newindianexpress/2024-06/4fd4d94e-e026-4497-8363-236e5eab2517/ANI_20240610114636.jpg%3Fw%3D1200%26h%3D900%26auto%3Dformat%252Ccompress%26fit%3Dmax%26enlarge%3Dtrue"
+      },
+      "description": "Astronomers have identified one of the earliest \"dead\" galaxies in the universe, revealing that its central supermassive black hole killed star formation not through a violent explosion but through repeated cycles of heating and expelling gas\u2014a process researchers describe as \"death by a thousand cuts.\"\n\nThe study, published January 11 in Nature Astronomy, used data from the James Webb Space Telescope (JWST) and the Atacama Large Millimeter Array (ALMA) to examine a galaxy designated GS-10578, nicknamed \"Pablo's Galaxy\" after the astronomer who first observed it in detail[1][2][3].",
+      "audio_url": "",
+      "url": "black-hole-starves-ancient-gal-YuAmvDzmQb.JMquXjFXvEQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-12T13:00:08.000000Z",
       "title": "Police post $1m reward 50 years after Eloise disappeared from bedroom",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/45f80625-f3bb-478a-a769-a68f8daa01d6",
-      "published_datetime": "2026-01-11T22:02:30.006575",
-      "title": "Exiled prince says he's preparing to return to Iran",
-      "featured_image": {
-        "url": "https://en.politis.com.cy/globe/globe-our-neighbourhood/979376/reza-pahlavi-seeks-to-re-emerge-as-a-reference-figure-amid-irans-new-turmoil",
-        "name": "Reza Pahlavi Seeks to Re-emerge as a Reference Figure Amid ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--L6_ag_ID--/t_limit/https://cdn.politis.com.cy/thumbnails/409001/conversions/reza_pahlavi-seo.webp",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--lpSKsfGI--/t_thumbnail/https://cdn.politis.com.cy/thumbnails/409001/conversions/reza_pahlavi-seo.webp"
-      },
-      "description": "Reza Pahlavi, the U.S.-based son of Iran's last shah, has declared he is \"preparing to return to Iran\" to lead a democratic transition as anti-regime protests enter their third week, marking a significant shift from passive supporter to active opposition leader attempting to direct a movement that has left at least 538 people dead[1][2][3].\n\nThe 63-year-old announced his readiness to return on January 10, telling Fox News he would lead the transition \"to make sure that in full transparency, people have an opportunity to elect their leaders freely and to decide their own future\"[4]. His calls for coordinated demonstrations at 8 p.m. local time on January 8 and 9 drew large crowds to the streets of Tehran and other cities, with protesters chanting \"Long live the shah\" and \"Pahlavi will return\"[5][6][7].\n\nPahlavi has moved beyond issuing statements from exile to providing tactical guidance, urging demonstrators to \"seize and hold city centers,\" stay together on main streets, and maintain discipline[6][7]. He has also called for nationwide strikes among energy and transportation workers, seeking to apply economic pressure on the Islamic Republic[8]. Videos verified by monitoring groups showed thousands responding to his appeals despite a nationwide internet blackout imposed by authorities[5][2].",
-      "audio_url": "",
-      "url": "exiled-crown-prince-reza-pahla-KYOfh8b_SVq9AfXhI0nl5Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-11T20:48:45.000000Z",
       "title": "Man fronts court over duct taped vest near Bondi Beach",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-12T14:18:19.265485"
+  "merged_at": "2026-01-12T15:18:07.917204"
 }
