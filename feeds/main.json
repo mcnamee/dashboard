@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-13T16:47:11.000000Z",
+      "title": "Prosecutors seek death penalty for ex-South Korean president Yoon Suk Yeol",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bca5d168d3fa9ac893a6833ca1377beb?impolicy=wcms_crop_resize&amp;cropH=694&amp;cropW=1234&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Yoon Suk Yeol faces several criminal charges related to his call to impose martial law and other criminal cases related to his time in office.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-14/prosecutors-seek-death-penalty-for-yoon-suk-yeol-in-south-korea/106226884"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fbd6c044-9af8-4115-bd6d-4674bf432540",
       "published_datetime": "2026-01-13T16:05:43.232822",
       "title": "Meta cuts 1,000 Reality Labs jobs, shifting focus to AI glasses",
@@ -122,15 +131,6 @@
       },
       "description": "Twelve central bankers, including Australia's Reserve Bank governor Michele Bullock, have signed a letter in support of Mr Powell, who is set to face a criminal investigation in the US.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-13/bank-chiefs-support-us-federal-reserve-chair-jerome-powell/106226728"
-    },
-    {
-      "published_datetime": "2026-01-13T11:07:10.000000Z",
-      "title": "Ukraine hit by almost 300 drones, Volodymyr Zelenskyy says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f81ccebb369a63edc8964906fa5f3558?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Four people have been killed in the latest strikes by Russia that have mainly targeted the power grid.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-13/russia-launches-another-major-attack-on-ukraine-power-grid/106226640"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/35cd1607-de10-459d-8259-b54eedb6b8c6",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-13T16:40:39.081713"
+  "merged_at": "2026-01-13T17:20:54.805316"
 }
