@@ -34,7 +34,7 @@ jobs:
 
           def clean_string(text):
               cleaned = re.sub(r'\[.*?\]', '', text) # Remove all text within [ and ], inclusive
-              cleaned = cleaned.replace('\n', '<br /><br />') # Replace \n with <br /><br />
+              cleaned = cleaned.replace('\n', '<br />') # Replace \n with <br /><br />
               return cleaned
 
           def parse_aware(dt_str):
