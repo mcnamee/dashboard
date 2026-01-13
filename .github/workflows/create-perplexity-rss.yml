@@ -30,6 +30,12 @@ jobs:
           from feedgen.feed import FeedGenerator
           from datetime import timezone
           from dateutil import parser
+          import re
+
+          def clean_string(text):
+              cleaned = re.sub(r'\[.*?\]', '', text) # Remove all text within [ and ], inclusive
+              cleaned = cleaned.replace('\n', '<br /><br />') # Replace \n with <br /><br />
+              return cleaned
 
           def parse_aware(dt_str):
               if not dt_str:
@@ -61,7 +67,7 @@ jobs:
 
           for obj in items:
               image_url = (obj.get("featured_image") or {}).get("thumbnail", "")
-              desc = obj.get("description", "")
+              desc = clean_string(obj.get("description", ""))
               slug = obj.get('url', '')
               link_url = f"https://perplexity.ai/discover/you/{slug}"
               pub_dt = parse_aware(obj.get('published_datetime'))
