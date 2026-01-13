@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-13T06:34:41.000000Z",
+      "title": "Online retailer accused of trying to profit from Bondi massacre",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/78d919a4e6676fc0c342fad9897f018c?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "An online fashion retailer accused of \"unconscionable conduct\" has been investigated for profiting off the Bondi terror attack.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-13/nsw-bondi-beach-terror-attack-online-store-scam/106224742"
+    },
+    {
       "published_datetime": "2026-01-13T05:15:04.000000Z",
       "title": "Author Craig Silvey not cooperating with authorities after arrest, court told",
       "featured_image": {
@@ -84,7 +93,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/522af0b172684890178f64b28f168e43?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The remaining members of the Adelaide Festival board will step down and this year's Writers' Week event has been cancelled, after days of furore regarding the decision to cancel a scheduled appearance by Palestinian-Australian author Randa Abdel-Fattah.",
+      "description": "The remaining members of the Adelaide Festival board will step down and this year's Writers' Week event has been cancelled, after days of furore regarding the decision to cancel a scheduled appearance by Palestinian Australian author Randa Abdel-Fattah.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-13/adelaide-writers-week-cancelled-randa-abdel-fattah-controversy/106225170"
     },
     {
@@ -95,15 +104,6 @@
       },
       "description": "The US Democratic senator alleges the president and defense secretary are trying to intimidate him into silence for comments he made in a video calling on serving troops to defy illegal orders.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-13/retired-us-navy-captain-mark-kelly-sues-pentagon-free-speech/106222928"
-    },
-    {
-      "published_datetime": "2026-01-13T02:34:32.000000Z",
-      "title": "Woman behind crepe attack on chief minister sentenced in court",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e88e469800d8056752e89fdcaae7550b?impolicy=wcms_crop_resize&amp;cropH=2471&amp;cropW=4393&amp;xPos=116&amp;yPos=242&amp;width=862&amp;height=485"
-      },
-      "description": "The woman who assaulted a former Northern Territory chief minister with a cream crepe is sentenced to 12 months imprisonment, fully suspended.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-13/nt-suzi-milgate-sentenced-for-crepe-attack-on-natasha-fyles/106223028"
     },
     {
       "published_datetime": "2026-01-13T01:58:55.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-13T06:22:03.158222"
+  "merged_at": "2026-01-13T07:19:21.604130"
 }
