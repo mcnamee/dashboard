@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-14/kazem-hamad-arrested-in-iraq/106227076"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fa94e069-4886-42c3-9f8a-32ace2ff2dfb",
+      "published_datetime": "2026-01-13T20:56:58.372119",
+      "title": "Space station research yields new weapon against drug-resistant infections",
+      "featured_image": {
+        "url": "https://gizmodo.com/scientists-watched-viruses-attack-bacteria-in-space-things-got-weird-2000709619",
+        "name": "Scientists Watched Viruses Attack Bacteria in Space. Things ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--rQJ0hlaU--/t_limit/https://gizmodo.com/app/uploads/2026/01/ISS-International-Space-Station-NASA-1200x675.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--WLsmPIwe--/t_thumbnail/https://gizmodo.com/app/uploads/2026/01/ISS-International-Space-Station-NASA-1200x675.jpg"
+      },
+      "description": "Viruses sent to the International Space Station evolved in unexpected ways that could help scientists develop new treatments for antibiotic-resistant infections on Earth, according to research published Tuesday in the journal PLOS Biology.\n\nResearchers at the University of Wisconsin-Madison found that microgravity aboard the ISS fundamentally reshapes how bacteriophages\u2014viruses that infect bacteria\u2014interact with their hosts. The findings suggest that space-based research could unlock new approaches to combating drug-resistant pathogens that threaten public health worldwide.",
+      "audio_url": "",
+      "url": "space-station-microgravity-alt-DWke2qr6RHSTmpMc9HYcsw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-13T20:21:26.000000Z",
       "title": "How Trump's White House is trying to run Venezuela through one woman",
       "featured_image": {
@@ -208,21 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1bf17706-13bc-4117-bb8b-3d1f1946b1ba",
-      "published_datetime": "2026-01-13T15:48:34.249904",
-      "title": "IOC considers rotating Winter Olympics among fixed venues",
-      "featured_image": {
-        "url": "https://www.cbc.ca/news/science/climate-change-threatens-future-winter-olympics-venues-1.2508146",
-        "name": "Climate change threatens future Winter Olympics venues | CBC ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ACMbkg-O--/t_limit/https://i.cbc.ca/ais/1.2508249%2C1390498375000/full/max/0/default.jpg%3Fim%3DCrop%252Crect%253D%25280%252C0%252C1180%252C663%2529%253B",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--IBnrnXJD--/t_thumbnail/https://i.cbc.ca/ais/1.2508249%2C1390498375000/full/max/0/default.jpg%3Fim%3DCrop%252Crect%253D%25280%252C0%252C1180%252C663%2529%253B"
-      },
-      "description": "As the Milan-Cortina Winter Olympics approach next month, growing evidence shows that climate change is reshaping the geography of where the Winter Games can be held. The International Olympic Committee is now considering rotating the Olympics among a permanent pool of suitable locations and moving events earlier in the season as warming temperatures diminish reliable winter conditions worldwide.",
-      "audio_url": "",
-      "url": "climate-change-threatens-futur-2td6cDZ2R.CLm.g5FGuz7g",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-13T14:07:14.000000Z",
       "title": "Trump tells Iranians 'help' on the way as reported death toll climbs into thousands",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-13T21:14:33.331837"
+  "merged_at": "2026-01-13T21:28:36.235281"
 }
