@@ -1,12 +1,27 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3468e15c-4dca-453f-9316-a40c2e0ab139",
+      "published_datetime": "2026-01-13T14:39:34.958924",
+      "title": "China urges Canada to break from U.S. ahead of Carney visit",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/china/canadian-prime-minister-visits-china-after-nearly-decade-tense-relations-2026-01-13/",
+        "name": "Canadian prime minister visits China after nearly a decade ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--xKCsGRnM--/t_limit/https://www.reuters.com/resizer/v2/7T2KRPQ2URJXJITUNT2PEOOSXE.jpg%3Fauth%3Df30c1cf1a1d232798f4b10883b0fde310e6b65f4a28a698fd8ac28d38a760342%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--hIMWSOSU--/t_thumbnail/https://www.reuters.com/resizer/v2/7T2KRPQ2URJXJITUNT2PEOOSXE.jpg%3Fauth%3Df30c1cf1a1d232798f4b10883b0fde310e6b65f4a28a698fd8ac28d38a760342%26width%3D1920%26quality%3D80"
+      },
+      "description": "Canadian Prime Minister Mark Carney arrives in Beijing on Wednesday for a four-day visit, the first by a Canadian leader in nearly a decade, as China's state media ramps up pressure on Ottawa to chart a foreign policy course independent of the United States[1][2][3].\n\nThe trip, scheduled for January 14-17, comes as Canada grapples with a trade war with its southern neighbor and the fallout from President Donald Trump's tariffs and repeated suggestions that Canada could become \"the 51st state\"[3][4]. China sees an opportunity to peel the longtime U.S. ally away from Washington, at least partially, through what Beijing calls \"strategic autonomy\"[2][5].",
+      "audio_url": "",
+      "url": "china-pressures-canada-to-shif-cWglMG_tTEO3fhAdmTrZiw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-13T14:07:14.000000Z",
-      "title": "Iran official claims 2,000 killed as Germany says regime in 'final weeks'",
+      "title": "Trump tells Iranians 'help is on its way' amid deadly protests",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/10e5bd9f3dd376051a2efdf50d621162?impolicy=wcms_crop_resize&amp;cropH=1914&amp;cropW=3402&amp;xPos=0&amp;yPos=177&amp;width=862&amp;height=485"
       },
-      "description": "The Iranian official blamed \"terrorists\" for the deaths, as residents inside the country report a heavy security presence on the streets of its capital Tehran.",
+      "description": "A human rights agency and an Iranian official both say around 2,000 people have been killed in protests against the country's ruling Islamic regime.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-14/iran-protests-death-toll-official-says-2000-killed/106226744"
     },
     {
@@ -163,21 +178,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1576acb8-c3b8-4eb2-9e3c-13f64c32b1ad",
-      "published_datetime": "2026-01-13T08:50:00.283157",
-      "title": "Mars shapes Earth's ice ages despite its small size, study finds",
-      "featured_image": {
-        "url": "https://knewz.com/news/scientists-reveal-mars-unexpected-role-in-earths-long-term-climate-cyclesaffecting-ice-ages-and-seasons/",
-        "name": "Scientists reveal Mars' unexpected role in Earth's long-term ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--5URYPte9--/t_limit/https://d4hal6uazahag.cloudfront.net/783397/uploads/92a3f8e0-d73a-11f0-80bf-5b2aa2b70a1e_1200_630.jpeg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--bJfVMW-o--/t_thumbnail/https://d4hal6uazahag.cloudfront.net/783397/uploads/92a3f8e0-d73a-11f0-80bf-5b2aa2b70a1e_1200_630.jpeg"
-      },
-      "description": "Despite being half the size of Earth and only one-tenth its mass, Mars exerts a measurable influence on our planet's long-term climate patterns, including the timing of ice ages, according to new research published this week.\n\nThe study, led by Stephen Kane, a professor of planetary astrophysics at the University of California, Riverside, used computer simulations to model how Earth's orbit and axial tilt would behave with and without Mars present in the solar system. The findings, published in Publications of the Astronomical Society of the Pacific, reveal that two major climate cycles vanish entirely when the red planet is removed from the equation.[1][2]",
-      "audio_url": "",
-      "url": "mars-gravitational-pull-influe-.jpDT2jEQMC0qQwzJa1Nzg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-13T08:35:57.000000Z",
       "title": "Louise Adler unloads over reputationally 'trashed' Adelaide Writers' Week",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-13T15:17:31.005639"
+  "merged_at": "2026-01-13T16:20:59.204964"
 }
