@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-14T08:40:35.000000Z",
+      "title": "Captured tobacco kingpin thought 'he was out of reach', says Burke",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f2e611d680844f46024bdca47f4cbb31?impolicy=wcms_crop_resize&amp;cropH=567&amp;cropW=1008&amp;xPos=365&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Home Affairs Minister Tony Burke says he believes tobacco kingpin Kaz Hamad thought he was \"out of reach\" of authorities before his arrest in Iraq.\u00a0 \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-14/tony-burke-on-kaz-hamad-arrest-his-power-structure/106229378"
+    },
+    {
+      "published_datetime": "2026-01-14T08:37:29.000000Z",
+      "title": "Search underway for missing French diver in Antarctica",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7116995e32719079296eb2ae3c176b5a?impolicy=wcms_crop_resize&amp;cropH=945&amp;cropW=1680&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Australian authorities say they are \"investigating all the options available\" to assist a search operation for a French diver missing in Antarctica.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-14/search-for-missing-french-diver-in-antarctica/106230320"
+    },
+    {
       "published_datetime": "2026-01-14T07:52:37.000000Z",
       "title": "Hackers access student emails, passwords in major school data breach",
       "featured_image": {
@@ -17,15 +35,6 @@
       },
       "description": "As the Adelaide Festival director reveals he had urged the festival's board not to cancel Palestinian Australian author Randa Abdel-Fattah, a former board member opens up about his very different concerns about the Adelaide Writers' Week program.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-14/festival-director-and-former-board-member-on-writers-week-saga/106227320"
-    },
-    {
-      "published_datetime": "2026-01-14T06:30:12.000000Z",
-      "title": "Cultural claim over key Brisbane Olympic site knocked back",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bfc071d37ee46095c871cf307a2b6d18?impolicy=wcms_crop_resize&amp;cropH=2869&amp;cropW=5102&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
-      },
-      "description": "Federal Environment Minister Murray Watt has rejected a cultural heritage claim on the site of Brisbane's Olympic stadium, and has appointed an independent facilitator to mediate between interested parties.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-14/qld-heritage-application-olympics-victoria-park-stadium/106229064"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6ed4a377-4ba2-490f-aa2e-354242a10c83",
@@ -232,15 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-13T19:06:54.000000Z",
-      "title": "Minns says Bondi bridge should be torn down, not become 'ghoulish reminder'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b4af10cc9529e51d6f033033746fb84c?impolicy=wcms_crop_resize&amp;cropH=809&amp;cropW=1439&amp;xPos=0&amp;yPos=76&amp;width=862&amp;height=485"
-      },
-      "description": "The Bondi Beach footbridge that some locals want removed following last month's terror attack was already going to need replacement for structural reasons.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-14/future-of-bondi-attack-site-debated-as-replacement-flagged/106225594"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-14T08:19:34.380314"
+  "merged_at": "2026-01-14T09:21:33.703376"
 }
