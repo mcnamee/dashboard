@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-15/fbi-raids-home-of-washington-post-reporter/106230658"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a4634be5-f814-443a-b06d-8aaca5bbecf3",
+      "published_datetime": "2026-01-14T15:42:06.086482",
+      "title": "Iran's judiciary chief vows swift trials and executions for protesters",
+      "featured_image": {
+        "url": "https://www.cnn.com/world/live-news/iran-protests-trump-01-14-26",
+        "name": "Live updates: Iran protests death toll soars, fears of Erfan ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--q2F5xnom--/t_limit/https://media.cnn.com/api/v1/images/stellar/prod/2026-01-12t181324z-496612350-rc2pziazzjov-rtrmadp-3-iran-economy-protests.jpg%3Fc%3Doriginal",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--rTgmjWaC--/t_thumbnail/https://media.cnn.com/api/v1/images/stellar/prod/2026-01-12t181324z-496612350-rc2pziazzjov-rtrmadp-3-iran-economy-protests.jpg%3Fc%3Doriginal"
+      },
+      "description": "Iran's chief of judiciary announced on Wednesday that rapid trials and possible executions will proceed for thousands of protesters detained during nationwide demonstrations, directly challenging President Donald Trump's warning that the United States would take \"very strong action\" if the Islamic Republic begins hanging dissidents.\n\nGholamhossein Mohseni-Ejei made the statement in a video broadcast by Iranian state television, emphasizing urgency: \"If we want to do a job, we should do it now. If we want to do something, we have to do it quickly. If it becomes late, two months, three months later, it doesn't have the same effect.\"[1][2][3]\n\nThe announcement came as human rights organizations reported that Erfan Soltani, a 26-year-old clothing seller from Fardis near Tehran, was scheduled to become the first protester executed in connection with the unrest. His fate remained uncertain Wednesday, with the Hengaw Organization for Human Rights unable to confirm whether the execution had been carried out amid Iran's ongoing communications blackout.[4][5]",
+      "audio_url": "",
+      "url": "iran-judiciary-signals-swift-t-6FCcQAEFQeeaaPPw3nVRPQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4ad405f2-ea7c-4db0-a562-46e38f2ee1eb",
       "published_datetime": "2026-01-14T14:52:54.504773",
       "title": "Chinese scientists develop 'soggy sand' battery that lasts 1,700 cycles",
@@ -190,21 +205,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-14/festival-director-and-former-board-member-on-writers-week-saga/106227320"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6ed4a377-4ba2-490f-aa2e-354242a10c83",
-      "published_datetime": "2026-01-14T06:06:45.054337",
-      "title": "China kicks off 2026 with back-to-back satellite launches",
-      "featured_image": {
-        "url": "https://www.china-in-space.com/p/wenchang-launch-begins-guowang-deployments",
-        "name": "Wenchang Launch Begins GuoWang Deployments in 2026 [Long ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--TUO91x00--/t_limit/https://substackcdn.com/image/fetch/%24s_%21AMvy%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto:good%2Cfl_progressive:steep%2Cg_auto/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fa553ea3d-6ca8-4bf5-9c8c-0041a0aea827_6149x3299.jpeg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--p7YF-aN3--/t_thumbnail/https://substackcdn.com/image/fetch/%24s_%21AMvy%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto:good%2Cfl_progressive:steep%2Cg_auto/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fa553ea3d-6ca8-4bf5-9c8c-0041a0aea827_6149x3299.jpeg"
-      },
-      "description": "China opened 2026 with a flurry of space activity on Monday, launching two separate satellite missions within hours of each other while recent filings reveal Beijing's intention to deploy an unprecedented 200,000 satellites, dramatically escalating the competition for low-Earth orbit dominance.",
-      "audio_url": "",
-      "url": "china-files-record-200000-sate-88iiBcmeSjSmrZFtAknWBg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-14T05:48:44.000000Z",
       "title": "'Just get rid of it': Call to scrap religious text carve-out in hate laws",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-14T16:20:08.083799"
+  "merged_at": "2026-01-14T17:21:48.458258"
 }
