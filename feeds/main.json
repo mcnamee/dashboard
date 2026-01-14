@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-14T13:51:37.000000Z",
+      "title": "X to change AI chatbot after outrage over sexual deepfake images",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/66a09fe40b6c234568d8a33f044409e7?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=101&amp;width=862&amp;height=485"
+      },
+      "description": "New laws in the UK that would outlaw the generation of sexual deepfakes are set to come into force this week.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-15/x-changes-ai-chatbot-sexual-deepfake-images/106230564"
+    },
+    {
+      "published_datetime": "2026-01-14T13:28:38.000000Z",
+      "title": "'Can't speak': Tennis battler beats the pros to take home $1 million jackpot",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9523d753d68a2c6337c78992eb75750?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=315&amp;width=862&amp;height=485"
+      },
+      "description": "Sydneysider Jordan Smith has beaten grand slam champion Jannik Sinner and dual grand slam finalist Amanda Anasimova to take home the prize in the novelty format.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-15/australian-open-one-point-slam-winner-jordan-smith/106230542"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9c456d7c-a3ed-4079-969f-3418ed1fb021",
       "published_datetime": "2026-01-14T12:53:51.670569",
       "title": "Scientists open ice sanctuary in Antarctica to preserve melting glaciers",
@@ -94,15 +112,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-14/tony-burke-on-kaz-hamad-arrest-his-power-structure/106229378"
     },
     {
-      "published_datetime": "2026-01-14T08:37:29.000000Z",
-      "title": "Search underway for missing diver in Antarctica",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7116995e32719079296eb2ae3c176b5a?impolicy=wcms_crop_resize&amp;cropH=945&amp;cropW=1680&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Australian authorities say they are \"investigating all the options available\" to assist a search operation for a diver missing in Antarctica.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-14/search-for-missing-diver-in-antarctica/106230320"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f68e7e29-3ce3-4fcc-8e59-21557758ea44",
       "published_datetime": "2026-01-14T08:08:59.856725",
       "title": "Fungal network researcher wins 'Nobel Prize for Environment'",
@@ -149,15 +158,6 @@
       "audio_url": "",
       "url": "china-files-record-200000-sate-88iiBcmeSjSmrZFtAknWBg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-14T05:55:51.000000Z",
-      "title": "Trump says US needs Greenland for purpose of national security",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d643679268b75c7d37673ab8ff94b930?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=466&amp;width=862&amp;height=485"
-      },
-      "description": "Greenlandic and Danish foreign ministers will meet US Vice-President JD Vance and Secretary of State Marco Rubio in Washington after the US renews threats to take control of the Arctic island.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-14/trump-says-us-needs-greenland-for-purpose-of-national-security/106229044"
     },
     {
       "published_datetime": "2026-01-14T05:48:44.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-14T13:35:18.532495"
+  "merged_at": "2026-01-14T14:18:20.279371"
 }
