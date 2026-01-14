@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-14T04:02:20.000000Z",
+      "title": "Sydney prayer hall linked to notorious preacher to close down",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6397eb65371899b743a21f25e7d96c06?impolicy=wcms_crop_resize&amp;cropH=867&amp;cropW=1541&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
+      },
+      "description": "A controversial prayer hall in south-west Sydney linked to notorious Islamic preacher Wisam Haddad has announced it will permanently close.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-14/bankstown-prayer-hall-linked-to-wisam-haddad-to-close/106228186"
+    },
+    {
       "published_datetime": "2026-01-14T03:03:43.000000Z",
-      "title": "Fires, floods and storms: Our changing climate in pics and graphs",
+      "title": "What life was like in 2025 across the planet in a changing climate",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/198f07da1fa3f37bf09ab4d4976a93fb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -35,15 +44,6 @@
       },
       "description": "Maddison Studdon is accused of harassing her ex-partner as their relationship broke down, culminating in 29 calls and an alleged \"throat-slitting\" gesture over cheating claims.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-14/nrlw-player-maddison-studdon-facing-domestic-violence-charges/106227908"
-    },
-    {
-      "published_datetime": "2026-01-13T23:44:50.000000Z",
-      "title": "Tom Silvagni files application to appeal rape conviction",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6bf17c8fe6d63b88d99533aee899be98?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4593&amp;xPos=401&amp;yPos=231&amp;width=862&amp;height=485"
-      },
-      "description": "Lawyers for convicted rapist Tom Silvagni, the son of AFL great Stephen Silvagni and TV personality Jo Silvagni, have filed an application for leave to appeal.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-14/tom-silvagni-files-application-to-appeal-rape-conviction/106227720"
     },
     {
       "published_datetime": "2026-01-13T23:28:03.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-14T03:30:02.440431"
+  "merged_at": "2026-01-14T04:40:45.181686"
 }
