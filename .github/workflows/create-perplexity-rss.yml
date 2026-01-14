@@ -45,6 +45,17 @@ jobs:
                   dt = dt.replace(tzinfo=timezone.utc)
               return dt
 
+          def strip_cloudinary_url(cloudinary_url):
+              match = re.search(r'https?://[^/]+/image/fetch/[^/]+/t_[^/]+/(.+)', cloudinary_url)
+              if match:
+                  original_url = match.group(1)
+                  # Unescape common URL encodings (e.g. %3F → ?, %26 → &)
+                  original_url = original_url.replace('%3F', '?').replace('%26', '&').replace('%3D', '=')
+                  return original_url
+              else:
+                  # If it doesn't look like a Cloudinary fetch URL, return as-is
+                  return cloudinary_url
+
           # Load JSON from file or API
           try:
               with open('feeds/perplexity.json', 'r') as f:
@@ -67,6 +78,7 @@ jobs:
 
           for obj in items:
               image_url = (obj.get("featured_image") or {}).get("thumbnail", "")
+              image_url = strip_cloudinary_url(image_url)
               desc = clean_string(obj.get("description", ""))
               slug = obj.get('url', '')
               link_url = f"https://perplexity.ai/discover/you/{slug}"
