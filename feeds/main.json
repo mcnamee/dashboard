@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a5440355-c3b7-4854-9ff7-5c911f427942",
+      "published_datetime": "2026-01-14T13:56:42.296382",
+      "title": "Global markets await U.S. inflation report",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/01/13/stock-market-today-live-updates.html",
+        "name": "Stock futures lose ground as traders weigh more bank earnings",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--frF_u1Ct--/t_limit/https://image.cnbcfm.com/api/v1/image/108248207-1767629784618-Traders-Photo-OB-MW-20260105-PRESS-6.jpg%3Fv%3D1767629845%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--DwyruoBZ--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108248207-1767629784618-Traders-Photo-OB-MW-20260105-PRESS-6.jpg%3Fv%3D1767629845%26w%3D1920%26h%3D1080"
+      },
+      "description": "Markets across Asia and Europe mostly advanced on Wednesday as investors awaited U.S. producer price and retail sales data, while Wall Street futures slipped ahead of another round of major bank earnings.\n\nJapan's benchmark Nikkei 225 surged 1.5% to 54,341.23, extending a record-breaking rally fueled by speculation that Prime Minister Sanae Takaichi may call early elections. The broader Topix also climbed to new highs. Elsewhere in Asia, Hong Kong's Hang Seng added 0.6% to 26,999.81, while China's Shanghai Composite shed 0.3% to 4,126.09.[1][2][3]",
+      "audio_url": "",
+      "url": "global-markets-rise-ahead-of-u-LZC.TLMRRUeSzMQupiYeUA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-14T13:51:37.000000Z",
       "title": "X to change AI chatbot after outrage over sexual deepfake images",
       "featured_image": {
@@ -185,7 +200,7 @@
     },
     {
       "published_datetime": "2026-01-14T05:18:50.000000Z",
-      "title": "At least 31 killed after crane falls on Thai passenger train",
+      "title": "At least 32 killed after crane falls on Thai passenger train",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db5b45d169b95766a02f20d8a7f2da2a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
       },
@@ -223,21 +238,6 @@
       "description": "The death toll from Iran's largest anti-government protests in decades climbed to an estimated 2,000 on Tuesday, according to the U.S.-based Human Rights Activists News Agency (HRANA), as President Donald Trump canceled diplomatic talks with Tehran and warned protesters that \"help is on its way.\"[1][2][3]\n\nThe casualty figures dwarf those from any previous unrest in the Islamic Republic since the 1979 revolution. HRANA reported that 1,847 protesters, 135 security personnel, and nine children were among the dead, with more than 16,700 people detained.[1] An Iranian official separately confirmed to Reuters that approximately 2,000 people have been killed.[4][5]",
       "audio_url": "",
       "url": "violent-crackdown-on-iran-prot-5t5NIpn4Q5aLE1ZD_QY_Zg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5baec4b8-5774-46cd-bbda-ce37c99fabee",
-      "published_datetime": "2026-01-13T22:57:33.426521",
-      "title": "Trump vows US will control Greenland 'one way or the other'",
-      "featured_image": {
-        "url": "https://www.npr.org/2025/01/26/nx-s1-5275375/trump-greenland-canada-israel-gaza",
-        "name": "Trump says he still wants to buy Greenland, suggests Canada ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s---_TixILd--/t_limit/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x5477%2B0%2B0/resize/1100/quality/50/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fe9%252F73%252F3b870c454d7fbc71bf9b17156a66%252Fgettyimages-2195369021.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--o4Zc_LiH--/t_thumbnail/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x5477%2B0%2B0/resize/1100/quality/50/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fe9%252F73%252F3b870c454d7fbc71bf9b17156a66%252Fgettyimages-2195369021.jpg"
-      },
-      "description": "President Donald Trump has intensified his campaign to acquire Greenland, asserting that the United States will take action \"one way or the other\" to control the Arctic territory. The renewed push has sparked a diplomatic row with NATO ally Denmark and drawn skepticism from experts who say the island's mineral wealth remains largely inaccessible despite estimates of 1.5 million tons of rare earth elements.[1][2]\n\n\"We are going to do something on Greenland whether they like it or not,\" Trump said Friday, arguing that U.S. control is necessary to prevent Russia or China from establishing a foothold in the region. The president has warned that without American intervention, Greenland would see \"Chinese destroyers and submarines all over the place\"\u2014claims that Nordic intelligence officials and defense analysts have dismissed as unfounded.[3][4][1]",
-      "audio_url": "",
-      "url": "trump-pushes-for-us-control-of-lMaFYss.TFKe566a5dkZDA",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-14T14:18:20.279371"
+  "merged_at": "2026-01-14T15:17:58.358711"
 }
