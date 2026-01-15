@@ -1,12 +1,66 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-15T11:30:21.000000Z",
+      "title": "Millions of accounts culled days after social media ban started, data shows",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/49f0556200e8ea76e35402e2566ed308?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "More than 4.7 million Australian social media accounts have been deactivated since laws banning children aged under 16 took effect in December, according to data released by the government.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-15/social-media-ban-data-millions-of-accounts-closed/106232768"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/efa9f7bd-e915-4b45-ad07-a32b36a6139d",
+      "published_datetime": "2026-01-15T10:30:40.265909",
+      "title": "Study finds ocean damage nearly doubles climate cost estimates",
+      "featured_image": {
+        "url": "https://today.ucsd.edu/story/study-finds-ocean-impacts-nearly-double-economic-cost-of-climate-change",
+        "name": "Study Finds Ocean Impacts Nearly Double Economic Cost of ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--r1hD8W3_--/t_limit/https://today.ucsd.edu/teaser_uploads/_social/Octavio_AburtoDJI_0966_DxO_%25283%2529.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--i3ZzhT7z--/t_thumbnail/https://today.ucsd.edu/teaser_uploads/_social/Octavio_AburtoDJI_0966_DxO_%25283%2529.jpeg"
+      },
+      "description": "The economic toll of climate change on the world's oceans has been vastly underestimated, according to new research that for the first time puts a price tag on marine ecosystem degradation\u2014findings that emerge alongside a separate study warning that proposed climate engineering solutions carry their own risks to ocean life.\n\nResearch published Wednesday in the journal Nature Climate Change by scientists at Scripps Institution of Oceanography at UC San Diego found that factoring ocean damage into climate calculations nearly doubles the global cost of carbon dioxide emissions. The study introduces what researchers call the \"blue\" social cost of carbon, adding $46.2 per ton of CO2 to existing estimates, bringing the total to $97.2 per ton\u2014a 91% increase.[1][2]",
+      "audio_url": "",
+      "url": "ocean-damage-doubles-climate-c-JbqmWa9lRcu9w4EAJ5OqMA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6d902965-ea0e-4a97-9298-2ff4d7a83a82",
+      "published_datetime": "2026-01-15T10:30:19.102971",
+      "title": "Denmark says White House talks failed to shift Trump's Greenland stance",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/europe/can-us-put-price-tag-greenland-2026-01-09/",
+        "name": "Can the US put a price tag on Greenland?",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_6xil5Z9--/t_limit/https://www.reuters.com/resizer/v2/2OTT6ITHEJKHLANKLGUJGNPN3A.jpg%3Fauth%3Ddd0487a03c448d02e7575305125368c4c67d9a59e316f1b9cf03408349468cea%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--pUR78RmG--/t_thumbnail/https://www.reuters.com/resizer/v2/2OTT6ITHEJKHLANKLGUJGNPN3A.jpg%3Fauth%3Ddd0487a03c448d02e7575305125368c4c67d9a59e316f1b9cf03408349468cea%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Despite President Donald Trump's intensifying push to gain control of Greenland, experts warn that the Arctic territory's severe climate, remote geography, and absent infrastructure pose obstacles that no change in sovereignty could overcome. The island's vast mineral wealth remains locked beneath ice and rock that have defied extraction efforts for decades.\n\n\"If you're going to go to Greenland for its minerals, you're talking billions upon billions upon billions of dollars and extremely long time before anything ever comes of it,\" mineral industry analyst Louis Marchese told Fortune, offering a sobering assessment of the mining reality.[1]",
+      "audio_url": "",
+      "url": "greenland-s-harsh-terrain-bloc-hMeP1MDfQT6CC0VTQa.l3A",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3e43f662-b2fc-4d65-9a65-645d8ad7fe2b",
+      "published_datetime": "2026-01-15T10:06:21.866502",
+      "title": "Amazon opens sovereign cloud in Germany to ease EU data fears",
+      "featured_image": {
+        "url": "https://www.telecoms.com/public-cloud/aws-seeks-to-allay-security-fears-with-new-european-sovereign-cloud-company",
+        "name": "AWS seeks to allay security fears with new European ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--H-NGC4j4--/t_limit/https://eu-images.contentstack.com/v3/assets/blt3d4d54955bda84c0/blte0590d16dc6b5044/684029e4a0396a587e543b72/aws_european_soveraign_cloud.jpg%3Fdisable%3Dupscale%26width%3D1200%26height%3D630%26fit%3Dcrop",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--bP37e4Ci--/t_thumbnail/https://eu-images.contentstack.com/v3/assets/blt3d4d54955bda84c0/blte0590d16dc6b5044/684029e4a0396a587e543b72/aws_european_soveraign_cloud.jpg%3Fdisable%3Dupscale%26width%3D1200%26height%3D630%26fit%3Dcrop"
+      },
+      "description": "Amazon on Thursday launched its AWS European Sovereign Cloud, a new independent cloud infrastructure designed specifically for Europe that is physically and legally separate from the company's other data centers worldwide. The move addresses growing European concerns about data sovereignty and the dominance of U.S. technology companies in the region's cloud computing market.\n\nThe first AWS Region of the sovereign cloud opened in the German state of Brandenburg, which surrounds Berlin. Amazon plans to invest more than \u20ac7.8 billion in the AWS European Sovereign Cloud in Germany through 2040, according to the company, with the investment expected to support an average of 2,800 full-time equivalent jobs annually and add approximately \u20ac17.2 billion to Germany's GDP.[1][2][3]",
+      "audio_url": "",
+      "url": "amazon-launches-aws-european-s-2T4Do5ojRo6UkSo.LKGmoQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-15T08:49:24.000000Z",
       "title": "Astronauts return to Earth in NASA\u2019s first medical evacuation",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8c965e020186c8362aad4c0e38f085a?impolicy=wcms_crop_resize&amp;cropH=759&amp;cropW=1349&amp;xPos=0&amp;yPos=64&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1915cef7af0bf82251610faa0f820fb7?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=104&amp;width=862&amp;height=485"
       },
-      "description": "Four International Space Station crew members have returned to Earth, after the first ever medical evacuation in the orbital lab's history.",
+      "description": "A capsule carrying four International Space Station crew members has splashed down in the Pacific, bringing their mission to an end more than a month early.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-15/four-astronauts-splashdown-to-earth-after-medical-evacuation/106234844"
     },
     {
@@ -163,15 +217,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-15T02:23:50.000000Z",
-      "title": "De Minaur to face former Aus Open semifinalist in brutal draw",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4db62c615c6aaf854d886850176cb699?impolicy=wcms_crop_resize&amp;cropH=2679&amp;cropW=4763&amp;xPos=0&amp;yPos=461&amp;width=862&amp;height=485"
-      },
-      "description": "In the first round, the world number six will face off against Matteo Berrettini, a former Australian Open semifinalist \u2014 a place De Minaur has never progressed to himself.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-15/australian-open-2026-main-draw-live/106227978"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8b6a2ea1-d444-4de1-95c1-ecae2a4918fb",
       "published_datetime": "2026-01-15T01:39:00.136431",
       "title": "Musk's xAI disables Grok's sexualized image feature amid global backlash",
@@ -184,51 +229,6 @@
       "description": "Elon Musk's xAI announced Wednesday it has disabled Grok's ability to create sexualized images of real people, following weeks of global outcry over the chatbot generating nonconsensual deepfakes of women and children. The policy shift comes as the Pentagon simultaneously moves to integrate Grok into military networks.\n\n\"We have implemented technological measures to prevent the Grok account from allowing the editing of images of real people in revealing clothing such as bikinis,\" X's safety team said in a statement. \"This restriction applies to all users, including paid subscribers.\"[1][2][3]",
       "audio_url": "",
       "url": "musk-restricts-grok-ai-after-b-gDWy3ZshQJ2GYbyY5hI5Tg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/02acdcbe-52d5-4498-b8e9-33687b67a2d2",
-      "published_datetime": "2026-01-15T01:25:14.520655",
-      "title": "Trump says Iran has stopped killing protesters, halted executions",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/middle-east/trump-says-he-has-been-told-killings-iran-are-stopping-2026-01-14/",
-        "name": "Trump says he has been told killings in Iran are stopping",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--mMjXZTS0--/t_limit/https://www.reuters.com/resizer/v2/5G723T74DNLNHIG3YVKJA4TGFQ.jpg%3Fauth%3D475b0a14384d6a466c677be9d01e183c49680e1205d1c971ae0b554fbf4469a9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--eimdcxYl--/t_thumbnail/https://www.reuters.com/resizer/v2/5G723T74DNLNHIG3YVKJA4TGFQ.jpg%3Fauth%3D475b0a14384d6a466c677be9d01e183c49680e1205d1c971ae0b554fbf4469a9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "President Donald Trump announced Wednesday that he received information suggesting Iran has ceased its violent crackdown on anti-government protesters and canceled planned executions, an apparent step back from the brink of military conflict between Washington and Tehran.\n\n\"We've been told that the killing in Iran is stopping. It has stopped, it's stopping, and there's no plan for executions or an execution or executions,\" Trump told reporters in the Oval Office on January 14. The president attributed the information to \"very important sources on the other side,\" though he acknowledged uncertainty, adding, \"I hope it's true. Who knows, right?\"[1][2]",
-      "audio_url": "",
-      "url": "trump-says-iran-stopped-killin-_JR4cF2STQ6.DuKVZD5ueA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c3f5a0ec-7a12-4124-bf17-6f84e9bc4664",
-      "published_datetime": "2026-01-15T00:29:31.084418",
-      "title": "OpenAI rehires key researchers who left for Thinking Machines Lab",
-      "featured_image": {
-        "url": "https://fortune.com/2025/03/21/open-ai-ceo-sam-altman-gen-z-grads-advice-ai-seven-figure-salary/",
-        "name": "OpenAI CEO Sam Altman reveals his 'obvious tactical' career ...",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1768436885/url_uploads/GettyImages-2198164367-e1742569013723_mwjpfw.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1768436885/url_uploads/GettyImages-2198164367-e1742569013723_mwjpfw.jpg"
-      },
-      "description": "OpenAI has secured the return of several high-profile researchers who departed the ChatGPT maker in 2024 to join former CTO Mira Murati's rival startup Thinking Machines Lab, according to industry reports. The move comes amid a significant shakeup at Murati's venture and as OpenAI continues to expand its research capabilities.",
-      "audio_url": "",
-      "url": "openai-rehires-key-researchers-5.ZUox1WTbOEJJwVg8oqOQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/adfd2aeb-17d9-489d-bd5f-6a3d9864e207",
-      "published_datetime": "2026-01-14T23:04:03.159719",
-      "title": "Iran shuts airspace as tensions with US escalate",
-      "featured_image": {
-        "url": "https://www.bssnews.net/international/282271",
-        "name": "Iran airspace closed 'until further notice': state media ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--f7DDDHvh--/t_limit/https://www.bssnews.net/assets/news_photos/2025/06/14/image-282271-1749890663.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--l62feYXE--/t_thumbnail/https://www.bssnews.net/assets/news_photos/2025/06/14/image-282271-1749890663.jpg"
-      },
-      "description": "Iran issued a NOTAM late on Wednesday night, shutting its airspace to all flights except international flights with special permission, as Western military officials warned that US military intervention could be imminent. The airspace closure, valid for just over two hours, sparked widespread flight diversions and cancellations across the Middle East amid escalating tensions between Washington and Tehran.\n\nFlightRadar24 announced on X that airspace over Iran began emptying rapidly before the notice was officially issued, with the flight-tracking platform noting: \"New NOTAM just issued by Iran closing airspace to all flights except international flights to/from Iran with permission.\"[1]",
-      "audio_url": "",
-      "url": "iran-closes-airspace-amid-fear-K_Illv8vTnml2PkC3.O7lA",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-15T11:13:40.021318"
+  "merged_at": "2026-01-15T12:27:41.729444"
 }
