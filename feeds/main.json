@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-15T06:19:02.000000Z",
+      "title": "Family remembers 'beautiful' three-year-old girl following horror truck crash",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/00910fa55a31abd796625d6d89e17885?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=541&amp;width=862&amp;height=485"
+      },
+      "description": "A three-year-old girl who suffered critical head injuries in a horrific multi-vehicle crash last week in regional Queensland has died in hospital, with her family remembering her as a \"beautiful spirit\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-15/three-year-old-ineza-king-dies-following-banya-truck-crash/106233596"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/aa06c9c0-4f1e-4fd6-9b8b-6b359c410c1d",
+      "published_datetime": "2026-01-15T05:48:04.693352",
+      "title": "Deadly poison may have sparked life's building blocks, study finds",
+      "featured_image": {
+        "url": "https://www.encyclopedie-environnement.org/en/life/once-upon-a-time-life-chemistry-in-earths-ocean-4-billion-years-ago-2/",
+        "name": "Once upon a time when life appeared: chemistry in the ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--jyvSEk2x--/t_limit/https://www.encyclopedie-environnement.org/app/uploads/2017/05/chimie-ocean-terrestre_couverture2.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--t9DZSxdI--/t_thumbnail/https://www.encyclopedie-environnement.org/app/uploads/2017/05/chimie-ocean-terrestre_couverture2.jpg"
+      },
+      "description": "A substance deadly to humans may have been instrumental in creating the very first ingredients for life on Earth. New computer simulations reveal that frozen hydrogen cyanide crystals possess highly reactive surface facets capable of triggering chemical reactions at extremely low temperatures, according to research published this week in ACS Central Science.[1][2][3]\n\nThe findings could reshape scientific understanding of how life's essential building blocks, including amino acids and components of DNA, might have formed in the frigid environments of early Earth or on distant icy worlds like Saturn's moon Titan.",
+      "audio_url": "",
+      "url": "frozen-hydrogen-cyanide-crysta-BwpvPcwVR.uYvRSYUUwnRg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-15T05:35:44.000000Z",
       "title": "United Employment collapse leaves disability workers $6 million short in missing entitlements",
       "featured_image": {
@@ -208,30 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/37da9de5-a57b-4c34-95f4-5e3411d80d50",
-      "published_datetime": "2026-01-14T21:30:11.268068",
-      "title": "Trump says Iran stopped killing protesters after his threats",
-      "featured_image": {
-        "url": "https://www.nbcnews.com/world/iran/trump-iran-negotiate-protest-crackdown-death-toll-rises-rcna253518",
-        "name": "Trump says Iran wants to negotiate as protest crackdown ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_tycQi2d--/t_limit/https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512%2Cf_auto%2Cq_auto:best/rockcms/2026-01/260112-iran-rs-a03ac1.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ziU2e1X0--/t_thumbnail/https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512%2Cf_auto%2Cq_auto:best/rockcms/2026-01/260112-iran-rs-a03ac1.jpg"
-      },
-      "description": "President Donald Trump announced Wednesday that he has received assurances Iran has ceased killing protesters, suggesting his warnings of military action may have prompted the regime to back down amid one of the deadliest crackdowns in the country's modern history.\n\n\"We've been told that the killing in Iran is stopping \u2014 it's stopped,\" Trump told reporters during an Oval Office bill signing. \"There's no plan for executions. I've been told that on good authority.\"[1][2]\n\nThe announcement came just hours before Iran was expected to carry out the execution of Erfan Soltani, a 26-year-old shopkeeper from Fardis, west of Tehran, who was detained on January 8 and sentenced to death without access to a lawyer or trial, according to human rights groups and the U.S. State Department. Trump did not specify who provided the assurances, though Iranian Foreign Minister Abbas Araghchi had been in contact with Trump's top aide Steve Witkoff over the weekend.[2][3][4]",
-      "audio_url": "",
-      "url": "trump-says-iran-protester-kill-g6oyA_joQO6rYJYCGgj2aQ",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-14T20:03:11.000000Z",
-      "title": "European nations send troops to Greenland as White House talks fail",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cbc95b010b69e54739fbafb075e41aba?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The United States and Denmark continue to disagree over the future of Greenland after a meeting at the White House amid ongoing threats from President Donald Trump threatening to seize the semi-autonomous Danish territory for national security reasons.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-15/greenland-denmark-us-meeting-on-territory-future/106230646"
-    },
-    {
       "published_datetime": "2026-01-14T19:00:43.000000Z",
       "title": "Risking her life, a young Iranian breaks through the blackout with a message for Trump",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-15T06:21:48.529673"
+  "merged_at": "2026-01-15T07:19:36.984773"
 }
