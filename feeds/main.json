@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5d967d60-cc46-4efc-ad46-4039867a0d19",
+      "published_datetime": "2026-01-15T16:02:56.337492",
+      "title": "Rice quantum simulator reveals how vibrations drive energy flow in molecules",
+      "featured_image": {
+        "url": "https://phys.org/news/2026-01-quantum-simulator-reveals-vibrations-energy.html",
+        "name": "Quantum simulator reveals how vibrations steer energy flow ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--4lQa5SVC--/t_limit/https://scx2.b-cdn.net/gfx/news/hires/2026/quantum-simulator-shed.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--9j9pm4kg--/t_thumbnail/https://scx2.b-cdn.net/gfx/news/hires/2026/quantum-simulator-shed.jpg"
+      },
+      "description": "Researchers at Rice University have built a quantum device capable of simulating molecular vibrations and directly observing how energy moves from one part of a molecule to another, findings that could deepen understanding of natural processes like photosynthesis and improve designs for solar energy technology.\n\nThe work, published Dec. 5 in Nature Communications, marks the first time scientists have used trapped-ion technology to simulate a two-mode molecular system while independently controlling energy loss to the environment, according to the research team.[1][2]",
+      "audio_url": "",
+      "url": "rice-quantum-simulator-tracks-sulyVHbeTuyV38HcGM2hPw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-15T15:47:29.000000Z",
       "title": "Trump threatens to invoke Insurrection Act over Minnesota anti-ICE protests",
       "featured_image": {
@@ -190,21 +205,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5e4438c7-7f9b-4551-b1f6-958a90988b61",
-      "published_datetime": "2026-01-15T07:15:53.392644",
-      "title": "China calls Carney visit a 'turning point' in relations",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/china/chinas-2025-canadian-trade-slump-remind-visiting-carney-economic-stakes-2026-01-14/",
-        "name": "China's 2025 Canadian import slump to remind visiting Carney of economic stakes",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--jBPjp7Wo--/t_limit/https://www.reuters.com/resizer/v2/VHIF5DCJBFIVFJJFUKV4HNQJMQ.jpg%3Fauth%3D2f4bded5ee3150cfe689c7e4cbcbf0cfb43e729d57348b60cdf7966b4dbf8831%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--QqRItQoL--/t_thumbnail/https://www.reuters.com/resizer/v2/VHIF5DCJBFIVFJJFUKV4HNQJMQ.jpg%3Fauth%3D2f4bded5ee3150cfe689c7e4cbcbf0cfb43e729d57348b60cdf7966b4dbf8831%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Canadian Prime Minister Mark Carney arrived in Beijing on Wednesday for a four-day state visit, marking the first trip by a Canadian leader to China since 2017 and signaling both nations' desire to repair ties strained by years of diplomatic tensions.",
-      "audio_url": "",
-      "url": "carney-visits-beijing-for-firs-jIN6zhUpScintsza_n9Qcw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-15T05:35:44.000000Z",
       "title": "Workers lose pay, super as NDIS provider collapses",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-15T17:26:08.056918"
+  "merged_at": "2026-01-15T18:25:44.526217"
 }
