@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-15T15:47:29.000000Z",
+      "title": "Trump threatens to invoke Insurrection Act over Minnesota anti-ICE protests",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e2cf7fa202f9c070aedb76560da6f30c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Such a move would allow the president to deploy troops to quell persistent protests in the city of Minneapolis, where two shootings connected to immigration crackdowns are fuelling public anger.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-16/trump-threatens-to-invoke-insurrection-act-on-ice-protests/106235416"
+    },
+    {
+      "published_datetime": "2026-01-15T15:35:03.000000Z",
+      "title": "Pulp agree to Adelaide Festival show after apology to Randa Abdel-Fattah",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/36dfe7271c609e38fb802d2ca9c69df8?impolicy=wcms_crop_resize&amp;cropH=2322&amp;cropW=4127&amp;xPos=470&amp;yPos=328&amp;width=862&amp;height=485"
+      },
+      "description": "Pulp had been among the acts prepared to boycott the festival over the cancellation of a slot with the Palestinian-Australian author at Adelaide Writers' Week.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-16/pulp-proceeds-adelaide-festival-show-board-apology-to-author/106235328"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2f668d47-b81a-4184-9ecf-eb51a187df9d",
       "published_datetime": "2026-01-15T14:33:36.505068",
       "title": "TSMC posts record profit as AI chip demand surges",
@@ -131,24 +149,6 @@
       "audio_url": "",
       "url": "amazon-launches-aws-european-s-2T4Do5ojRo6UkSo.LKGmoQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-15T08:49:24.000000Z",
-      "title": "Astronauts return to Earth in NASA\u2019s first medical evacuation",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1915cef7af0bf82251610faa0f820fb7?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=104&amp;width=862&amp;height=485"
-      },
-      "description": "A capsule carrying four International Space Station crew members has splashed down in the Pacific, bringing their mission to an end more than a month early.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-15/four-astronauts-splashdown-to-earth-after-medical-evacuation/106234844"
-    },
-    {
-      "published_datetime": "2026-01-15T08:38:08.000000Z",
-      "title": "Premier announces review into Victoria's disastrous bushfires",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64aa0de20496aa6c2845b6669e313f4f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=252&amp;width=862&amp;height=485"
-      },
-      "description": "Jacinta Allan vows to request a formal review of the state's disastrous bushfire season, following days of questions over issues like Country Fire Authority resourcing and the state's disaster preparedness.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-15/premier-jacinta-allan-announces-bushfire-diaster-review/106234788"
     },
     {
       "published_datetime": "2026-01-15T08:01:49.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-15T15:33:38.017077"
+  "merged_at": "2026-01-15T16:24:37.436543"
 }
