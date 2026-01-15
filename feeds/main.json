@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-15T04:59:45.000000Z",
+      "title": "'Men eager to violate women' behind Grok's mass digital undressing",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ddaca79a99c744598809675f7c8fddce?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The X AI is not creating sexually explicit images of women on its own, but the software \"facilitates their abuse\" acting on the requests of men \"eager to violate women\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-15/grok-x-ai-chatbot-sexual-deepfake-images/106227360"
+    },
+    {
       "published_datetime": "2026-01-15T04:22:03.000000Z",
       "title": "Greens won't support Labor's sweeping hate law changes in current form",
       "featured_image": {
@@ -74,15 +83,6 @@
       "audio_url": "",
       "url": "trump-says-iran-stopped-killin-_JR4cF2STQ6.DuKVZD5ueA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-15T01:05:37.000000Z",
-      "title": "'Heartbroken' farm workers chase $260,000 in unpaid wages",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e9d3b91ab105d625a254cb19b2a4cc1e?impolicy=wcms_crop_resize&amp;cropH=601&amp;cropW=1068&amp;xPos=0&amp;yPos=338&amp;width=862&amp;height=485"
-      },
-      "description": "According to court documents, at least 20 workers are owed money for the work they did in late 2023 on Corrigan's Farm in south-east Melbourne, which experts say is part of a bigger problem that sees tens of millions in missing cash disappear into the black economy.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-15/wage-theft-farm-workers-victoria-corrigans-farm-khmer-community/106208768"
     },
     {
       "published_datetime": "2026-01-15T00:44:26.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-15T04:33:30.792142"
+  "merged_at": "2026-01-15T05:20:20.302381"
 }
