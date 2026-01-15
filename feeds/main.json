@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2f668d47-b81a-4184-9ecf-eb51a187df9d",
+      "published_datetime": "2026-01-15T14:33:36.505068",
+      "title": "TSMC posts record profit as AI chip demand surges",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/china/tsmc-q4-profit-poised-soar-27-ai-demand-drives-growth-2026-01-12/",
+        "name": "TSMC Q4 profit poised to soar 27% as AI demand drives growth ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--WZCGYO9s--/t_limit/https://www.reuters.com/resizer/v2/QFTV3OC3TRJNFJM5EDSPXOGT5Y.jpg%3Fauth%3D50cdfedc9acba2c4977d1d2c379246cd2c2b230cf146b31a6dbd0eb304592af3%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--iAQ0oGeV--/t_thumbnail/https://www.reuters.com/resizer/v2/QFTV3OC3TRJNFJM5EDSPXOGT5Y.jpg%3Fauth%3D50cdfedc9acba2c4977d1d2c379246cd2c2b230cf146b31a6dbd0eb304592af3%26width%3D1920%26quality%3D80"
+      },
+      "description": "Taiwan Semiconductor Manufacturing Company, the world's largest contract chipmaker, reported record fourth-quarter results on Thursday, with net profit surging 35% year-over-year to NT$505.74 billion ($16 billion), exceeding analyst expectations and fueling a rally across global semiconductor stocks.\n\nThe Taiwanese chipmaker announced revenue of NT$1.046 trillion ($33.7 billion) for the quarter ending December 31, marking a 20.5% increase from the previous year. TSMC also revealed plans to substantially increase capital expenditure to between $52 billion and $56 billion in 2026, up from $40.9 billion last year, and projected approximately 30% revenue growth for the full year.[1][2][3][4]",
+      "audio_url": "",
+      "url": "tsmc-reports-record-q4-earning-UI_eIHdAQye11sAjPeCpIg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-15T13:43:30.000000Z",
       "title": "Hong Kong fire killed 168 people in total, authorities confirm",
       "featured_image": {
@@ -190,21 +205,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/aa06c9c0-4f1e-4fd6-9b8b-6b359c410c1d",
-      "published_datetime": "2026-01-15T05:48:04.693352",
-      "title": "Deadly poison may have sparked life's building blocks, study finds",
-      "featured_image": {
-        "url": "https://www.encyclopedie-environnement.org/en/life/once-upon-a-time-life-chemistry-in-earths-ocean-4-billion-years-ago-2/",
-        "name": "Once upon a time when life appeared: chemistry in the ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--jyvSEk2x--/t_limit/https://www.encyclopedie-environnement.org/app/uploads/2017/05/chimie-ocean-terrestre_couverture2.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--t9DZSxdI--/t_thumbnail/https://www.encyclopedie-environnement.org/app/uploads/2017/05/chimie-ocean-terrestre_couverture2.jpg"
-      },
-      "description": "A substance deadly to humans may have been instrumental in creating the very first ingredients for life on Earth. New computer simulations reveal that frozen hydrogen cyanide crystals possess highly reactive surface facets capable of triggering chemical reactions at extremely low temperatures, according to research published this week in ACS Central Science.[1][2][3]\n\nThe findings could reshape scientific understanding of how life's essential building blocks, including amino acids and components of DNA, might have formed in the frigid environments of early Earth or on distant icy worlds like Saturn's moon Titan.",
-      "audio_url": "",
-      "url": "frozen-hydrogen-cyanide-crysta-BwpvPcwVR.uYvRSYUUwnRg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-15T05:35:44.000000Z",
       "title": "Workers lose pay, super as NDIS provider collapses",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-15T15:17:13.191703"
+  "merged_at": "2026-01-15T15:33:38.017077"
 }
