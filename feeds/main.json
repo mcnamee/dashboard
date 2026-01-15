@@ -1,12 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-15T08:49:24.000000Z",
+      "title": "Breaking: Four astronauts splash down back to Earth after medical evacuation from ISS",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8c965e020186c8362aad4c0e38f085a?impolicy=wcms_crop_resize&amp;cropH=759&amp;cropW=1349&amp;xPos=0&amp;yPos=64&amp;width=862&amp;height=485"
+      },
+      "description": "A SpaceX capsule splashes down back to Earth carrying four astronauts from the International Space Station, after a medical issue prompted them to evacuate and cut their mission a month short.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-15/four-astronauts-splashdown-to-earth-after-medical-evacuation/106234844"
+    },
+    {
+      "published_datetime": "2026-01-15T08:38:08.000000Z",
+      "title": "Premier announces review into Victoria's disastrous bushfires",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64aa0de20496aa6c2845b6669e313f4f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=252&amp;width=862&amp;height=485"
+      },
+      "description": "Jacinta Allan vows to request a formal review of the state's disastrous bushfire season, following days of questions over issues like Country Fire Authority resourcing and the state's disaster preparedness.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-15/premier-jacinta-allan-announces-bushfire-diaster-review/106234788"
+    },
+    {
       "published_datetime": "2026-01-15T08:01:49.000000Z",
-      "title": "Negin wanted to be 'the voice of Iranians'. She was killed for it",
+      "title": "'Died in the hands of her father': Negin is one of thousands of Iranians killed",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4ed2f235d2899bdc072dca8625e17b67?impolicy=wcms_crop_resize&amp;cropH=658&amp;cropW=1170&amp;xPos=0&amp;yPos=428&amp;width=862&amp;height=485"
       },
-      "description": "Like so many Iranian-Australians, Morteza Khandani has been desperate for any news of his family in Iran. Two days ago he was able to confirm the worst. His niece, Negin Ghadimi, had been killed in anti-government protests.",
+      "description": "Like so many Iranian Australians, Morteza Khandani has been desperate for any news of his family in Iran. Two days ago, he was able to confirm the worst. His niece, Negin Ghadimi, had been killed in anti-government protests.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-15/iran-protests-negin-ghadimi-dies-speaking-out-blood-in-streets/106233624"
     },
     {
@@ -19,13 +37,49 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-15/second-crane-collapse-linked-to-same-thai-italian-company/106234382"
     },
     {
-      "published_datetime": "2026-01-15T06:19:02.000000Z",
-      "title": "Family remembers 'beautiful' three-year-old girl following horror truck crash",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2f7f508d-7f53-459b-947d-d27db14498f5",
+      "published_datetime": "2026-01-15T07:49:37.331666",
+      "title": "Climate report warns warming may hit catastrophic levels by 2050",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/00910fa55a31abd796625d6d89e17885?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=541&amp;width=862&amp;height=485"
+        "url": "https://ca.news.yahoo.com/world-warming-faster-forecast-pollution-050033154.html",
+        "name": "World warming faster than forecast as pollution cuts remove hidden ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--mW0YkM3T--/t_limit/https://s.yimg.com/os/en/euronews_ca_articles_409/7e8da80c62309a8a92cbe728b53ae17b",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--oAPO954B--/t_thumbnail/https://s.yimg.com/os/en/euronews_ca_articles_409/7e8da80c62309a8a92cbe728b53ae17b"
       },
-      "description": "A three-year-old girl who suffered critical head injuries in a horrific multi-vehicle crash last week in regional Queensland has died in hospital, with her family remembering her as a \"beautiful spirit\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-15/three-year-old-ineza-king-dies-following-banya-truck-crash/106233596"
+      "description": "Governments and financial institutions have underestimated climate change risks that could undermine the global economy, according to a new report warning that temperatures are rising faster than predicted and could hit catastrophic levels by 2050.\n\nThe Parasol Lost report, jointly produced by the Institute and Faculty of Actuaries (IFoA) and the University of Exeter, was released on Tuesday as new data from the European Union's Copernicus Climate Change Service confirmed 2025 was the third-warmest year on record. For the first time, the three-year average from 2023 to 2025 has exceeded 1.5\u00b0C above pre-industrial levels \u2014 the threshold nations pledged not to breach under the 2015 Paris Agreement.[1][2]",
+      "audio_url": "",
+      "url": "reports-warn-climate-change-ri-N.QCdjFCTvmgzLwET8ICLg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5e4438c7-7f9b-4551-b1f6-958a90988b61",
+      "published_datetime": "2026-01-15T07:15:53.392644",
+      "title": "China calls Carney visit a 'turning point' in relations",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/china/chinas-2025-canadian-trade-slump-remind-visiting-carney-economic-stakes-2026-01-14/",
+        "name": "China's 2025 Canadian import slump to remind visiting Carney of economic stakes",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--jBPjp7Wo--/t_limit/https://www.reuters.com/resizer/v2/VHIF5DCJBFIVFJJFUKV4HNQJMQ.jpg%3Fauth%3D2f4bded5ee3150cfe689c7e4cbcbf0cfb43e729d57348b60cdf7966b4dbf8831%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--QqRItQoL--/t_thumbnail/https://www.reuters.com/resizer/v2/VHIF5DCJBFIVFJJFUKV4HNQJMQ.jpg%3Fauth%3D2f4bded5ee3150cfe689c7e4cbcbf0cfb43e729d57348b60cdf7966b4dbf8831%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Canadian Prime Minister Mark Carney arrived in Beijing on Wednesday for a four-day state visit, marking the first trip by a Canadian leader to China since 2017 and signaling both nations' desire to repair ties strained by years of diplomatic tensions.",
+      "audio_url": "",
+      "url": "carney-visits-beijing-for-firs-jIN6zhUpScintsza_n9Qcw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/78cf246d-251a-4598-80af-af6c8dc7eef2",
+      "published_datetime": "2026-01-15T07:06:09.417098",
+      "title": "Oil prices fall as Trump signals pause on Iran military action",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/01/15/oil-prices-sink-more-than-2percent-as-trump-remarks-calm-concern-about-iran.html",
+        "name": "Oil prices sink more than 2% as Trump remarks calm concern about ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--7LfzV9mf--/t_limit/https://image.cnbcfm.com/api/v1/image/108252742-1768441771952-gettyimages-2072711942-935a53715.jpeg%3Fv%3D1768441780%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--g20HPAsY--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108252742-1768441771952-gettyimages-2072711942-935a53715.jpeg%3Fv%3D1768441780%26w%3D1920%26h%3D1080"
+      },
+      "description": "Oil prices fell for the first time in six trading sessions on Thursday after President Donald Trump indicated the United States would hold off on military action against Iran, easing fears of supply disruptions in the Middle East.\n\nBrent crude slid more than 3% to around $64 per barrel, while West Texas Intermediate dropped to approximately $60, erasing much of the 11% gain the benchmarks had accumulated over the previous week.[1][2][3]\n\nThe retreat came after Trump said Wednesday that he had received assurances Iran would cease killing anti-government protesters. \"The killing has stopped. The executions have stopped,\" Trump said from the Oval Office, without identifying the source of his information.[4][5]",
+      "audio_url": "",
+      "url": "oil-prices-drop-as-trump-pause-3mYZqtIgSkeTVnMzRc7VqA",
+      "partition_name": "partition1"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/aa06c9c0-4f1e-4fd6-9b8b-6b359c410c1d",
@@ -75,17 +129,8 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/05a5f9ddce709a2de2d107673aad134d?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=592&amp;width=862&amp;height=485"
       },
-      "description": "People in a popular holiday region have been issued with an emergency warning after a storm cell dumped more than 100 millimetres of rain, flooding campsites. Footage posted to social media shows up to three cars being swept to sea by floodwaters in Wye River, and one resident said weather-related damage had isolated them on their property. Separate social media clips show caravans being inundated by the Erskine River in Lorne, where the only supermarket was forced to close until further notice. SES crews are assessing the extent of flooding there.",
+      "description": "People in a popular holiday region have been issued with an emergency warning after a storm cell dumped more than 100 millimetres of rain, flooding campsites.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-15/wye-river-great-ocean-road-emergency-warning-flooding-rainfall/106232658"
-    },
-    {
-      "published_datetime": "2026-01-15T04:02:21.000000Z",
-      "title": "Australia making defence investments on the expected frontline of a China conflict",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6b78a9a1269ea9392694cec2e3315ed1?impolicy=wcms_crop_resize&amp;cropH=2531&amp;cropW=4500&amp;xPos=0&amp;yPos=66&amp;width=862&amp;height=485"
-      },
-      "description": "Experts say these agreements are clear signs of how important an ally the Philippines is becoming in the Indo-Pacific region amid jitters of US security guarantees.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-15/australia-defence-investment-bases-philippines-us-china/106220666"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/36831622-a605-47e0-ad43-be2d0d1bcd3a",
@@ -118,6 +163,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-01-15T02:23:50.000000Z",
+      "title": "De Minaur to face former Aus Open semifinalist in brutal draw",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4db62c615c6aaf854d886850176cb699?impolicy=wcms_crop_resize&amp;cropH=2679&amp;cropW=4763&amp;xPos=0&amp;yPos=461&amp;width=862&amp;height=485"
+      },
+      "description": "In the first round, the world number six will face off against Matteo Berrettini, a former Australian Open semifinalist \u2014 a place De Minaur has never progressed to himself.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-15/australian-open-2026-main-draw-live/106227978"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8b6a2ea1-d444-4de1-95c1-ecae2a4918fb",
       "published_datetime": "2026-01-15T01:39:00.136431",
       "title": "Musk's xAI disables Grok's sexualized image feature amid global backlash",
@@ -146,15 +200,6 @@
       "audio_url": "",
       "url": "trump-says-iran-stopped-killin-_JR4cF2STQ6.DuKVZD5ueA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-15T00:44:26.000000Z",
-      "title": "Adelaide Festival Corporation apologises to author Randa Abdel-Fattah",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/895b3dace7fcd0c6fc50e0d9db8636c1?impolicy=wcms_crop_resize&amp;cropH=485&amp;cropW=862&amp;xPos=0&amp;yPos=5&amp;width=862&amp;height=485"
-      },
-      "description": "The Adelaide Festival Corporation, which oversees Adelaide Writers' Week, has apologised to Palestinian Australian author Randa Abdel-Fattah and says she will be invited to speak at its next event in 2027.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-15/adelaide-festival-corporation-apology-randa-abdel-fattah/106231602"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c3f5a0ec-7a12-4124-bf17-6f84e9bc4664",
@@ -194,51 +239,6 @@
       },
       "description": "Federal Liberals are discovering the price of having been so brazen in their politicisation of the Bondi terror attack and many appear to have buyers' remorse.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-15/coalition-sussan-ley-bondi-terror-attack-nationals-gun-control/106231054"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5943d613-147d-4ec6-976b-8b73840fa216",
-      "published_datetime": "2026-01-14T22:42:15.857225",
-      "title": "Trump weighing Iran strike within 24 hours, officials say",
-      "featured_image": {
-        "url": "https://www.cnn.com/2026/01/14/politics/trump-iran-action-retaliation",
-        "name": "Trump feels obligated to take action on Iran as ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--KFMlxaSf--/t_limit/https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254867320.jpg%3Fc%3Doriginal%26q%3Dw_860%2Cc_fill",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--AhhVIgUF--/t_thumbnail/https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2254867320.jpg%3Fc%3Doriginal%26q%3Dw_860%2Cc_fill"
-      },
-      "description": "US military intervention in Iran could occur within the next 24 hours, two European officials told Reuters on Wednesday, as President Donald Trump appears poised to authorize strikes amid protests that have killed more than 2,500 people in what French Foreign Minister Jean-Noel Barrot called \"the most violent repression in Iran's contemporary history.\"[1][2]\n\nAn Israeli official also told Reuters that Trump appears to have decided to intervene, though the scope and timing remain unclear. A Washington source close to the administration told The Independent that strikes could be imminent. \"President Trump is ready to push the button on Iran,\" the source said. \"It will be a surgical removal of the regime.\"[3][4]",
-      "audio_url": "",
-      "url": "trump-weighs-iran-military-str-GVGF9t9wTWqEqEyRJFyhbQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b0a385a9-3e29-4334-910e-1b9d757f4dcc",
-      "published_datetime": "2026-01-14T22:33:43.301616",
-      "title": "Britain temporarily closes Tehran embassy after protest",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/members-of-the-basij-volunteer-islamic-militia-burn-us-and-news-photo/2255649562",
-        "name": "IRAN-PROTEST-RIGHTS",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1768423010/getty_uploads/2255649562_fvwprw.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1768423010/getty_uploads/2255649562_fvwprw.jpg"
-      },
-      "description": "The British government has temporarily closed its embassy in Tehran and shifted operations to remote mode following a protest by pro-regime activists outside the facility on Wednesday, as Western nations continue to respond to Iran's deadly crackdown on anti-government demonstrators.\n\n\"We have temporarily closed the British Embassy in Tehran, this will now operate remotely. Foreign Office travel advice has now been updated to reflect this consular change,\" a UK government spokesperson told Politico.[1][2][3]",
-      "audio_url": "",
-      "url": "britain-temporarily-closes-emb-R14q5ePkQyKg1ybwACYfhg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c301b077-cb3c-4aa4-9d7f-4eeb6dc3e9c8",
-      "published_datetime": "2026-01-14T21:34:05.521067",
-      "title": "Trump signs tariffs on semiconductors, critical minerals",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/president-donald-trump-speaks-to-journalists-after-signing-news-photo/2252601751",
-        "name": "President Trump Signs Executive Order Reclassifying Marijuana As Low Risk Drug",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1768426222/getty_uploads/2252601751_rwtl95.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1768426222/getty_uploads/2252601751_rwtl95.jpg"
-      },
-      "description": "President Donald Trump signed two executive orders Wednesday aimed at protecting domestic supply chains for semiconductors and critical minerals, invoking Section 232 of the Trade Expansion Act of 1962, the national-security clause that allows presidents to impose tariffs on imports deemed threats to U.S. security.\n\nAt a White House signing ceremony, Staff Secretary Will Scharf explained that the critical minerals order establishes \"a mechanism, a process by which the United States will seek to secure its international supply chain of critical minerals and critical mineral derived products.\" The moves represent the culmination of investigations launched by the Department of Commerce in April 2025 into whether imports of these strategic materials threaten U.S. national security.[1][2]",
-      "audio_url": "",
-      "url": "trump-orders-new-tariffs-on-se-D_MsavtnQU6toXblpjQ0Wg",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-15T08:20:22.879188"
+  "merged_at": "2026-01-15T09:20:23.756675"
 }
