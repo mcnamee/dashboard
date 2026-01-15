@@ -19,6 +19,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-16/pulp-proceeds-adelaide-festival-show-board-apology-to-author/106235328"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b10f6d7d-3558-4498-b7c5-31d7dc965bf8",
+      "published_datetime": "2026-01-15T15:09:55.283527",
+      "title": "Space economy markets forecast to double by 2030",
+      "featured_image": {
+        "url": "https://www.reuters.com/business/aerospace-defense/investors-pour-record-35-billion-into-space-investors-look-beyond-big-names-2025-10-10/",
+        "name": "Investors pour record $3.5 billion into space as investors ... - Reuters",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--FBqkopI7--/t_limit/https://www.reuters.com/resizer/v2/LIEYDAVLLZOYBDFKK3JW4UELVQ.jpg%3Fauth%3Df10d36d9c643805f579b9d8e1b7b4a030792ad83a170f3d47f42840251e238e9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--BGJi846P--/t_thumbnail/https://www.reuters.com/resizer/v2/LIEYDAVLLZOYBDFKK3JW4UELVQ.jpg%3Fauth%3Df10d36d9c643805f579b9d8e1b7b4a030792ad83a170f3d47f42840251e238e9%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Multiple sectors of the space economy are projected to surge over the next five years as governments and private investors pour unprecedented funding into satellite services, orbital manufacturing, space habitats, and rescue operations.\n\nNew market research reports released January 15, 2026, by ResearchAndMarkets.com detail growth trajectories across several emerging space economy segments. The space currency and economy market is forecast to grow from $1.91 billion in 2026 to $3.8 billion by 2030, while in-space manufacturing, servicing, and transportation is expected to expand from $2.6 billion to $5.23 billion during the same period. Space habitat development is projected to reach $11.54 billion by 2030, growing at a compound annual growth rate of 20.8%.[1][2][3]",
+      "audio_url": "",
+      "url": "space-economy-markets-set-for-Lvi9_e77TkudwdwHpt6Lvw",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2f668d47-b81a-4184-9ecf-eb51a187df9d",
       "published_datetime": "2026-01-15T14:33:36.505068",
       "title": "TSMC posts record profit as AI chip demand surges",
@@ -190,21 +205,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/78cf246d-251a-4598-80af-af6c8dc7eef2",
-      "published_datetime": "2026-01-15T07:06:09.417098",
-      "title": "Oil prices fall as Trump signals pause on Iran military action",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/01/15/oil-prices-sink-more-than-2percent-as-trump-remarks-calm-concern-about-iran.html",
-        "name": "Oil prices sink more than 2% as Trump remarks calm concern about ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--7LfzV9mf--/t_limit/https://image.cnbcfm.com/api/v1/image/108252742-1768441771952-gettyimages-2072711942-935a53715.jpeg%3Fv%3D1768441780%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--g20HPAsY--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108252742-1768441771952-gettyimages-2072711942-935a53715.jpeg%3Fv%3D1768441780%26w%3D1920%26h%3D1080"
-      },
-      "description": "Oil prices fell for the first time in six trading sessions on Thursday after President Donald Trump indicated the United States would hold off on military action against Iran, easing fears of supply disruptions in the Middle East.\n\nBrent crude slid more than 3% to around $64 per barrel, while West Texas Intermediate dropped to approximately $60, erasing much of the 11% gain the benchmarks had accumulated over the previous week.[1][2][3]\n\nThe retreat came after Trump said Wednesday that he had received assurances Iran would cease killing anti-government protesters. \"The killing has stopped. The executions have stopped,\" Trump said from the Oval Office, without identifying the source of his information.[4][5]",
-      "audio_url": "",
-      "url": "oil-prices-drop-as-trump-pause-3mYZqtIgSkeTVnMzRc7VqA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-15T05:35:44.000000Z",
       "title": "Workers lose pay, super as NDIS provider collapses",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-15T16:24:37.436543"
+  "merged_at": "2026-01-15T17:26:08.056918"
 }
