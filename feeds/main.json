@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-16T07:47:28.000000Z",
+      "title": "Live: Bad blood to boil over as Tszyu takes on Zerafa",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9c204ef70c460dcfc85743c9f603595f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=463&amp;width=862&amp;height=485"
+      },
+      "description": "Nikita Tszuy and Michael Zerafa are set to end years of bitter rivalry in a hotly anticipated middleweight fight at the Brisbane Entertainment Centre, with former NRL hard man Nelson Asofa-Solomona making his boxing debut. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-16/live-updates-nikita-tszyu-vs-michael-zerafa-nelson-asofa-solomon/106237528"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4df68bb0-6b13-4390-88ba-187b638963bd",
+      "published_datetime": "2026-01-16T06:41:33.045019",
+      "title": "MIT team cools trapped ions 10 times below standard limit",
+      "featured_image": {
+        "url": "https://qci.dlr.de/en/ion-traps/",
+        "name": "Ion traps \u2013 DLR Quantum Computing Initiative",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IdDVO9A1--/t_limit/https://qci.dlr.de/wp-content/uploads/2022/11/2025-10-01-Keyvisual-840-Toccata.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--aSomUNt3--/t_thumbnail/https://qci.dlr.de/wp-content/uploads/2022/11/2025-10-01-Keyvisual-840-Toccata.webp"
+      },
+      "description": "Two separate research efforts published this week are advancing the frontiers of quantum computing by solving distinct challenges: achieving efficient cooling for chip-based systems and discovering unexpected quantum states in exotic materials.\n\nResearchers at MIT and MIT Lincoln Laboratory announced Wednesday a technique for cooling trapped ions using integrated photonics that reaches temperatures about 10 times below the standard laser cooling limit, known as the Doppler limit. The method achieves this in approximately 100 microseconds, several times faster than existing approaches.[1][2][3]\n\nMeanwhile, scientists at TU Wien in Vienna and Rice University revealed Tuesday in Nature Physics that they observed an \"emergent topological semimetal\" \u2014 a quantum state previously considered impossible because it combines two phenomena thought to be incompatible.[4][5][6]",
+      "audio_url": "",
+      "url": "scientists-uncover-new-quantum-JDj0suPnTSKZI6Vk69Wafw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-16T06:36:34.000000Z",
       "title": "Foreign fishing vessel filmed 100m away from Queensland coast",
       "featured_image": {
@@ -11,12 +35,21 @@
     },
     {
       "published_datetime": "2026-01-16T06:09:52.000000Z",
-      "title": "Former South Korean president sentenced to jail over martial law declaration",
+      "title": "Former South Korean president jailed over martial law declaration",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/291d7a77bf78c5c5782ed31a9d4f2c14?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Former South Korean president Yoon Suk Yeol is sentenced to five years in jail over crimes relating to his failed attempt at imposing martial law in the country.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-16/former-south-korean-president-yoon-suk-yeol-sentenced/106229834"
+    },
+    {
+      "published_datetime": "2026-01-16T05:54:38.000000Z",
+      "title": "Cars floating out to sea, campers fleeing: Is this climate change in action?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d8f6197a65fd01996813c8d56f47de01?impolicy=wcms_crop_resize&amp;cropH=1361&amp;cropW=2420&amp;xPos=0&amp;yPos=227&amp;width=862&amp;height=485"
+      },
+      "description": "When it comes to extreme rainfall, it is hard for climate scientists to say what's natural and what's caused by climate change. But they do know the most extreme events are dropping more rain, more often. This is why.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-16/victoria-floods-climate-change-and-extreme-rainfall/106237516"
     },
     {
       "published_datetime": "2026-01-16T05:50:01.000000Z",
@@ -26,15 +59,6 @@
       },
       "description": "The man accused of assaulting former Labor strategist Tim Picton allegedly knocked another man unconscious two days prior.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-16/tim-picton-alleged-attacker-accused-of-separate-assault-/106184014"
-    },
-    {
-      "published_datetime": "2026-01-16T05:41:19.000000Z",
-      "title": "Jim Chalmers defends Fed boss Jerome Powell as Trump attacks",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/570b18fd9c94f78b1ac184bbe8ed3224?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
-      },
-      "description": "Treasurer Jim Chalmers defends US central bank boss Jerome Powell as professional and diligent after the Trump administration launched a criminal investigation into the Federal Reserve chair.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-16/jim-chalmers-defends-federal-boss-jerome-powell-as-trump-attacks/106238258"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d198df28-4f55-4592-b13a-618fc4ae733d",
@@ -71,7 +95,7 @@
     },
     {
       "published_datetime": "2026-01-16T03:55:00.000000Z",
-      "title": "Once top secret, Greenland's only US military base stirs trouble",
+      "title": "Once top secret, Greenland's only US military base is stirring trouble",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/51fcf414f6cc6ce3a8e6c12083283e5d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -122,15 +146,6 @@
       "audio_url": "",
       "url": "trump-announces-formation-of-g-V7.67.UuRC6JC7MIynN5LQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-16T02:42:58.000000Z",
-      "title": "What we know about the Great Ocean Road's unprecedented weather event",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/79d56b20567c3f58b2ffec0a7a7226e9?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Record-breaking rain fell on the popular holiday towns in the space of a mere few hours on Thursday, triggering flash flooding that swept away cars, caravans and tents. Here's what we know about the intense rain system.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-16/vic-what-caused-great-ocean-road-flash-flooding/106235904"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/44d855fc-cb4d-464d-88f0-14eec4296ce1",
@@ -226,21 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-16/donald-trump-meets-marina-machado-venezuela-opposition/106235644"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/59d02e8b-416f-4ef2-96e8-38a35d57e758",
-      "published_datetime": "2026-01-15T21:13:29.711678",
-      "title": "Venezuela's acting president proposes oil reforms to lure US investment",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/venezuelas-interim-president-delcy-rodr%C3%ADguez-speaks-during-news-photo/2256293841",
-        "name": "Delcy Rodriguez Addresses The Media Regarding The Release Of Prisoners In Venezuela",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1768511210/getty_uploads/2256293841_zaopbf.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1768511210/getty_uploads/2256293841_zaopbf.jpg"
-      },
-      "description": "Acting Venezuelan President Delcy Rodr\u00edguez has submitted a proposal to reform her country's hydrocarbon law, seeking to open doors to greater US investment in the oil-rich nation less than two weeks after US special forces captured former President Nicol\u00e1s Maduro in a surprise military operation.[1][2]\n\nRodr\u00edguez announced on Thursday that she was proposing the reforms to Venezuela's National Assembly, a move that addresses a key demand from major American oil companies who have described the country as \"uninvestable\" under current regulations. At her first press conference since Maduro's ouster, Rodr\u00edguez also declared Venezuela was entering a \"new political era\" marked by greater tolerance toward political rivals.[3][4][1]",
-      "audio_url": "",
-      "url": "venezuela-s-rodriguez-seeks-oi-3qsHYGXxQsaYGSeljzr_pg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-16T07:18:28.778341"
+  "merged_at": "2026-01-16T08:19:27.259801"
 }
