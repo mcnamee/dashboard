@@ -1,12 +1,27 @@
 {
   "items": [
     {
-      "published_datetime": "2026-01-16T07:47:28.000000Z",
-      "title": "Live: Tszyu and Zefara set for Brisbane blockbuster after NAS stuns on debut",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/648d9c32-9b9e-473f-827e-8ebb669c6a07",
+      "published_datetime": "2026-01-16T10:20:52.538810",
+      "title": "UN High Seas Treaty to take effect, protecting two-thirds of ocean",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9c204ef70c460dcfc85743c9f603595f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=463&amp;width=862&amp;height=485"
+        "url": "https://marine-conservation.org/on-the-tide/protecting-the-high-seas/",
+        "name": "Protecting the High Seas: Ensuring Strong, Effective MPAs Under ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--jIdkLg1S--/t_limit/https://marine-conservation.org/wp-content/uploads/2025/12/ocean-scaled.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--HpIjMswT--/t_thumbnail/https://marine-conservation.org/wp-content/uploads/2025/12/ocean-scaled.jpg"
       },
-      "description": "Nikita Tszyu and Michael Zerafa are set to end years of bitter rivalry in a hotly anticipated middleweight fight at the Brisbane Entertainment Centre, as former NRL hard man Nelson Asofa-Solomona makes a victorious start to his boxing career. Follow live.",
+      "description": "The United Nations High Seas Treaty, formally known as the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement, will officially enter into force on January 17, 2026, establishing the first legally binding international framework to protect marine biodiversity in nearly two-thirds of the world's ocean.[1][2][3]\n\nThe treaty becomes international law after Morocco became the 60th nation to ratify it on September 19, 2025, triggering a 120-day countdown to implementation. Currently, 82 countries have officially joined the agreement, and 145 of the UN's 193 member states have signed it.[2][4][5][1]",
+      "audio_url": "",
+      "url": "un-high-seas-treaty-takes-effe-qCgiZpOuSLS_2oeZL0.h5A",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-01-16T07:47:28.000000Z",
+      "title": "Live: Shock as Tszyu-Zefara grudge match called off after accidental headbutt",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/27530f9160b2ae444489e6f3442a8fef?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=452&amp;width=862&amp;height=485"
+      },
+      "description": "Nikita Tszyu and Michael Zerafa hotly anticipated fight is abandoned after the second round as the crowd vents its frustration at the Brisbane Entertainment Centre. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-16/live-updates-nikita-tszyu-vs-michael-zerafa-nelson-asofa-solomon/106237528"
     },
     {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d53f3774-6342-4ca8-8448-deb4d5010b90",
-      "published_datetime": "2026-01-15T21:35:53.113645",
-      "title": "Brazil's Bolsonaro ordered transferred to maximum-security prison",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/former-brazilian-president-jair-bolsonaro-leaves-the-df-news-photo/2234877459",
-        "name": "BRAZIL-POLITICS-JUSTICE-TRIAL-COUP",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1768512622/getty_uploads/2234877459_xx5kxq.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1768512622/getty_uploads/2234877459_xx5kxq.jpg"
-      },
-      "description": "Brazilian Supreme Court Justice Alexandre de Moraes ordered the transfer of former President Jair Bolsonaro to the Papuda Penitentiary Complex in Brasilia on Thursday, according to court documents released January 15, 2026. The move represents a stark shift in the conditions under which the 70-year-old far-right politician will serve his 27-year sentence for plotting a coup following his 2022 election defeat.[1][2][3]\n\nBolsonaro has been detained at the Federal Police Superintendency since his arrest in late November 2025, housed in a 12-square-meter room equipped with a bed, private bathroom, air conditioning, television, and desk. Under the new order, he will be relocated to a building within the Papuda complex, Brazil's largest maximum-security penitentiary facility in the capital.[4][5][6][7]",
-      "audio_url": "",
-      "url": "bolsonaro-ordered-transferred-80_sKSCLQ8KzhBuFTw.TaQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-15T21:35:33.000000Z",
       "title": "Trump accepts Nobel medal from Machado 'for the work I have done'",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-16T11:13:16.960443"
+  "merged_at": "2026-01-16T12:27:08.532559"
 }
