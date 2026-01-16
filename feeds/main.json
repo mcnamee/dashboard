@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-16T14:36:11.000000Z",
+      "title": "Children in Ukraine risk hypothermia after Russian attacks, aid groups say",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/060960d4e98409c14cd401c4d4734b3f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "International aid agencies say children across Ukraine risk hypothermia in freezing temperatures as emergency stocks of power generators run low following Russian attacks on energy infrastructure.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/children-ukraine-hypothermia-risk-russian-attacks-aid-agencies/106239612"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c71cc781-658d-4322-94c6-740bfb014353",
       "published_datetime": "2026-01-16T12:24:10.984464",
       "title": "Interstellar comet 3I/ATLAS makes final pass before leaving solar system",
@@ -199,15 +208,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-16/top-faith-leaders-call-on-pm-to-delay-hate-laws/106237526"
     },
     {
-      "published_datetime": "2026-01-16T03:55:00.000000Z",
-      "title": "Once top secret, Greenland's only US military base is stirring trouble",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/51fcf414f6cc6ce3a8e6c12083283e5d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Here is what we know about the US military footprint in Greenland, and how the increase of troops from Denmark and its allies stacks up.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-16/what-we-know-us-european-military-presence-greenland/106232762"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fc5e8334-35b0-434f-826d-5049f1de1d19",
       "published_datetime": "2026-01-16T03:54:56.909167",
       "title": "Israeli startup nT-Tao fires first plasma in compact fusion reactor",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-16T14:16:40.045151"
+  "merged_at": "2026-01-16T15:16:03.592129"
 }
