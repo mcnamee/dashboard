@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-16T16:35:59.000000Z",
+      "title": "Son of Iran's late shah says Islamic republic 'will fall' and vows to return",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a97138cbf8cf731800ca1975c5185f35?impolicy=wcms_crop_resize&amp;cropH=1488&amp;cropW=2645&amp;xPos=147&amp;yPos=65&amp;width=862&amp;height=485"
+      },
+      "description": "Reza Pahlavi says the mass protests gripping the country will topple the regime and has called for the international community to intervene.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/reza-pahlavi-says-iranian-regime-will-fall-due-to-protests/106239944"
+    },
+    {
+      "published_datetime": "2026-01-16T16:13:04.000000Z",
+      "title": "Trump threatens tariffs on countries who oppose US Greenland takeover",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0403f95c71677231700333e56b9613ee?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=638&amp;width=862&amp;height=485"
+      },
+      "description": "The US president insists America needs to acquire the territory of NATO partner Denmark for national security reasons.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/donald-trump-threatens-greenland-tariffs/106239964"
+    },
+    {
       "published_datetime": "2026-01-16T14:36:11.000000Z",
       "title": "Children in Ukraine risk hypothermia after Russian attacks, aid groups say",
       "featured_image": {
@@ -23,6 +41,15 @@
       "audio_url": "",
       "url": "canada-and-china-forge-new-str-PUW0WR_iR3GMkdJuV08EWA",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-01-16T14:16:32.000000Z",
+      "title": "Singer Julio Iglesias denies sexually assaulting two former employees",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/04ea532dafb438c6e75829c1f659aac3?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The Spanish recording artist is accused of sexually and physically assaulting two women who worked at his residences in the Dominican Republic and the Bahamas between January and October 2021.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/julio-iglesias-denies-sexual-assault-allegations/106239614"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c71cc781-658d-4322-94c6-740bfb014353",
@@ -154,24 +181,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-16T06:36:34.000000Z",
-      "title": "Foreign fishing vessel filmed 100m away from Queensland coast",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db2586169873e4409e006ba6b7f3c32e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Locals on Queensland's far north tip have shared their account after seeing an Indonesian fishing boat within a stone's throw of the mainland.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-16/abf-intercepts-foreign-fishing-vessel-queensland/106238252"
-    },
-    {
-      "published_datetime": "2026-01-16T06:09:52.000000Z",
-      "title": "Former South Korean president jailed over martial law declaration",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/291d7a77bf78c5c5782ed31a9d4f2c14?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Former South Korean president Yoon Suk Yeol is sentenced to five years in jail over crimes relating to his failed attempt at imposing martial law in the country.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-16/former-south-korean-president-yoon-suk-yeol-sentenced/106229834"
-    },
-    {
       "published_datetime": "2026-01-16T05:54:38.000000Z",
       "title": "Cars floating out to sea, campers fleeing: Is this all climate change in action?",
       "featured_image": {
@@ -212,15 +221,6 @@
       },
       "description": "While it can be gifted, refused or displayed, the Nobel Peace Prize itself \u2014 once awarded \u2014 belongs to its original recipient forever.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-16/nobel-peace-prize-cannot-be-revoked-or-transferred/106236160"
-    },
-    {
-      "published_datetime": "2026-01-16T03:58:16.000000Z",
-      "title": "Top faith leaders urge PM to scrap new racial hatred offence",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5b83510d908fd9309f6649cd6c1ee287?impolicy=wcms_crop_resize&amp;cropH=921&amp;cropW=1638&amp;xPos=0&amp;yPos=563&amp;width=862&amp;height=485"
-      },
-      "description": "A broad of coalition of Australia's most influential religious leaders have urged the prime minister to scrap Labor's proposal to outlaw the promotion of racial hatred.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-16/top-faith-leaders-call-on-pm-to-delay-hate-laws/106237526"
     },
     {
       "published_datetime": "2026-01-16T00:39:15.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-16T16:18:39.002348"
+  "merged_at": "2026-01-16T17:18:25.026192"
 }
