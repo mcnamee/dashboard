@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-16T06:36:34.000000Z",
+      "title": "Foreign fishing vessel filmed 100m away from Queensland coast",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db2586169873e4409e006ba6b7f3c32e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Locals on Queensland's far north tip have shared their account after seeing an Indonesian fishing boat within a stone's throw of the mainland.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-16/abf-intercepts-foreign-fishing-vessel-queensland/106238252"
+    },
+    {
       "published_datetime": "2026-01-16T06:09:52.000000Z",
-      "title": "Breaking: Former South Korean president sentenced to jail over martial law declaration",
+      "title": "Former South Korean president sentenced to jail over martial law declaration",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/291d7a77bf78c5c5782ed31a9d4f2c14?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-01-16T05:50:01.000000Z",
-      "title": "Breaking: Alleged attacker of WA Labor figure accused of separate 'unprovoked' assault",
+      "title": "Tim Picton's alleged attacker accused of another assault, posting it on Snapchat",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bf9c642c64648020bfbbdc994c0fd165?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -98,15 +107,6 @@
       "audio_url": "",
       "url": "new-research-reinterprets-worm-VkwZuU9hTYKcJNvizcHPsg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-16T03:33:54.000000Z",
-      "title": "Teen survives 80m mountain fall thanks to GPS locator and headphones",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1549f98da2042cafe5bb7c2cb9112f89?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=1156&amp;width=862&amp;height=485"
-      },
-      "description": "Jake McCollum's bluetooth headphones allowed him to receive calls through his otherwise unusable phone during the arduous wait for emergency services.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-16/teen-directs-rescuers-through-headphones-after-80m-cliff-fall/106227676"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/aee74528-7c83-44d1-881f-79c69aa56031",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-16T06:22:19.666654"
+  "merged_at": "2026-01-16T07:18:28.778341"
 }
