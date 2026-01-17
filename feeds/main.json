@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-17T11:59:57.000000Z",
+      "title": "Indonesian flight goes missing with 11 on board",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e8d71e6a6d46d454b13bb7028d7af5e2?impolicy=wcms_crop_resize&amp;cropH=556&amp;cropW=988&amp;xPos=370&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Search and rescue crews have been deployed to the mountainous area of Maros Regency to look for the plane.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/indonesian-flight-goes-missing-with-11-on-board/106241040"
+    },
+    {
       "published_datetime": "2026-01-17T08:17:07.000000Z",
       "title": "Calls for NSW police to end protest ban before First Nations Australia Day rallies",
       "featured_image": {
@@ -217,15 +226,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-16T16:13:04.000000Z",
-      "title": "Trump threatens tariffs on countries that oppose US Greenland takeover",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0403f95c71677231700333e56b9613ee?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=638&amp;width=862&amp;height=485"
-      },
-      "description": "The US president insists America needs to acquire the territory of NATO partner Denmark for national security reasons.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/donald-trump-threatens-greenland-tariffs/106239964"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4d08e181-228b-44ed-a5ee-e028d0337fb6",
       "published_datetime": "2026-01-16T15:52:37.449678",
       "title": "Former South Korean president sentenced to 5 years in prison",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-17T11:10:57.587444"
+  "merged_at": "2026-01-17T12:23:21.365298"
 }
