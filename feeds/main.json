@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-17T08:17:07.000000Z",
+      "title": "Calls for NSW police to end protest ban before First Nations Australia Day rallies",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/770edea23b00d7afd9ffa440046fa6ba?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=207&amp;width=862&amp;height=485"
+      },
+      "description": "Lawyers, human rights advocates and civil libertarians are urging the NSW Police Commissioner not to extend a ban on authorised public assemblies as January 26 approaches.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/legal-rights-groups-call-nsw-police-commissioner-end-protest-ban/106240338"
+    },
+    {
       "published_datetime": "2026-01-17T06:06:21.000000Z",
       "title": "Australians urged to light a candle for Bondi victims on day of mourning",
       "featured_image": {
@@ -13,7 +22,7 @@
       "published_datetime": "2026-01-17T05:16:26.000000Z",
       "title": "Woman dies after tree falls on her car as winds lash NSW coast",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/80debcf6765316dadca2db43aa021c03?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba6e038b2dbe0e2b7b9c4834c0a63cc5?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Emergency services were called to the Illawarra Highway near Clover Hill Road just before 4pm after a tree branch fell onto a passing vehicle on a busy road.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-17/woman-dies-tree-hits-car-at-macquarie-pass-winds-rain-lash-nsw/106240346"
@@ -83,15 +92,6 @@
       "audio_url": "",
       "url": "scientists-map-antarctica-and-TlthFNS0QMi8Nbn1WUnioQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-16T21:07:23.000000Z",
-      "title": "Renters swapping apartments for boats for inner-city living at $500 a week",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/87c95194625332a9160ecb22d2ac7900?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Living at Brisbane\u2019s Kangaroo Point overlooking the river would typically come with a hefty price tag, but some residents have found an alternative.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/brisbane-boat-living-marina-housing-costs/106224448"
     },
     {
       "published_datetime": "2026-01-16T19:06:26.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-17T08:16:50.142549"
+  "merged_at": "2026-01-17T09:13:07.271667"
 }
