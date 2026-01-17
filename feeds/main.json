@@ -1,12 +1,21 @@
 {
   "items": [
     {
-      "published_datetime": "2026-01-17T02:28:29.000000Z",
-      "title": "Greens join Coalition in rejecting government's 'divisive' hate speech laws",
+      "published_datetime": "2026-01-17T03:17:18.000000Z",
+      "title": "'I wish the house had burnt': Shepherd grieves deaths of llamas in fire",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1ee7cea6372dee648df7ed6d5a420707?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6248d0f79e7e1f10d4c1938d3bf6e2b5?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=720&amp;width=862&amp;height=485"
       },
-      "description": "The Greens say they will support Labor's proposed reforms targeting gun control, which are also included within the legislation, but not the hate speech reforms.",
+      "description": "Rita Soares says although she is grateful to still have a home, she would have sacrificed her house to save her llamas.",
+      "page_content_url": "https://www.abc.net.au/news/rural/2026-01-17/harcourt-campo-verde-shepherd-grieves-llamas-killed-in-fire/106237508"
+    },
+    {
+      "published_datetime": "2026-01-17T02:28:29.000000Z",
+      "title": "Labor splits gun and hate speech reforms after opposition from Coalition, Greens",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9059225e3cea6dd31f679f7325c8ccdf?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=93&amp;width=862&amp;height=485"
+      },
+      "description": "The Albanese government will separate laws tightening gun control from its proposed hate speech reforms after the omnibus bill failed to secure the support of the Coalition and the Greens.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-17/greens-wont-support-labor-hate-speech-reforms/106240440"
     },
     {
@@ -17,15 +26,6 @@
       },
       "description": "Minnesota Governor Tim Walz says the federal justice system is being weaponised to intimidate Donald Trump's perceived political enemies.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-17/us-justice-department-probing-minnesota-governor-walz-jacob-frey/106240436"
-    },
-    {
-      "published_datetime": "2026-01-17T02:06:31.000000Z",
-      "title": "Crowds flock to beach sculpture to see the sun set upside down",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ebd1c4279a0f45c3bc8b8f80781cf402?impolicy=wcms_crop_resize&amp;cropH=2214&amp;cropW=3936&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
-      },
-      "description": "Geraldton's Horizon Ball sculpture is drawing huge crowds of tourists after the spot gained international attention on social media.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/horizon-ball-geraldton-sculpture-tourism/105874130"
     },
     {
       "published_datetime": "2026-01-17T01:27:31.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-17T03:16:35.131793"
+  "merged_at": "2026-01-17T04:26:01.263751"
 }
