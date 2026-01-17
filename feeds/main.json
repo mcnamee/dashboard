@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-17T22:51:49.000000Z",
+      "title": "'Extremely wild weather': NSW coast battles heavy rainfall, flash flooding",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/549036bb7ee962b39d04f7bc63b2a2e8?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=960&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The State Emergency Service responds to more than 1,400 incidents and 20 flood rescues, most of which involve people driving through floodwaters.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-18/flooding-heavy-rainfall-severe-weather-nsw-coast/106241644"
+    },
+    {
       "published_datetime": "2026-01-17T21:20:37.000000Z",
-      "title": "'The grief is brutal': Battling the disease that took Abbey away",
+      "title": "None in family history, yet 'cancer still found us in the worst way'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3fbf775117466c4288f135cda8574b23?impolicy=wcms_crop_resize&amp;cropH=894&amp;cropW=1589&amp;xPos=0&amp;yPos=372&amp;width=862&amp;height=485"
       },
@@ -34,15 +43,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-18/victoria-bushfire-crisis-terip-terip-cfa-brigage/106231328"
     },
     {
-      "published_datetime": "2026-01-17T20:05:39.000000Z",
-      "title": "Interpreter makes more than 200 errors in Supreme Court trial",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/93dbc0860a1f0087a0cf44cecba3bbad?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
-      },
-      "description": "A Victorian Supreme Court trial is forging ahead with amended transcripts after an interpreter made more than 200 translation errors during a key witness' evidence.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/victorian-supreme-court-case-200-language-interpretation-errors/106173346"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/64fe3eba-a1da-4807-aec4-0a010971e81d",
       "published_datetime": "2026-01-17T19:48:19.631756",
       "title": "Iran's Khamenei admits thousands killed in protests blaming US",
@@ -63,7 +63,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3186b645d74b0391a72b2d27372ede01?impolicy=wcms_crop_resize&amp;cropH=568&amp;cropW=1010&amp;xPos=0&amp;yPos=15&amp;width=862&amp;height=485"
       },
-      "description": "Protesters are urging US President Donald Trump to help dismantle Iran's theocracy. If he answers the call, it won't be the first time the US government has toppled an Iranian government.\u00a0",
+      "description": "Protesters are urging US President Donald Trump to help dismantle Iran's theocracy. If he answers the call, it won't be the first time the US has toppled an Iranian government.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-18/us-cia-plotted-1953-iran-coup/106233952"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-17T22:12:40.857511"
+  "merged_at": "2026-01-17T23:12:45.196389"
 }
