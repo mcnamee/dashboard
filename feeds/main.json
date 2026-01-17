@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-17T06:06:21.000000Z",
+      "title": "Australians urged to light a candle for Bondi victims on day of mourning",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7ec3c3c5a8f1217a31453a9230d953f8?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=742&amp;width=862&amp;height=485"
+      },
+      "description": "Prime Minister Anthony Albanese unveils further details of the national day of mourning to be held on January 22 after last month's Bondi terrorist attack.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/bondi-terror-attack-national-day-of-mourning-light-candle/106240568"
+    },
+    {
       "published_datetime": "2026-01-17T04:49:55.000000Z",
       "title": "Venezuela's opposition leader bets on a future with Trump",
       "featured_image": {
@@ -74,15 +83,6 @@
       "audio_url": "",
       "url": "scientists-map-antarctica-and-TlthFNS0QMi8Nbn1WUnioQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-16T21:07:23.000000Z",
-      "title": "Renters swapping apartments for boats for inner-city living at $500 a week",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/87c95194625332a9160ecb22d2ac7900?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Living at Brisbane\u2019s Kangaroo Point overlooking the river would typically come with a hefty price tag, but some residents have found an alternative.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/brisbane-boat-living-marina-housing-costs/106224448"
     },
     {
       "published_datetime": "2026-01-16T19:06:26.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-17T06:19:43.552646"
+  "merged_at": "2026-01-17T07:13:28.488129"
 }
