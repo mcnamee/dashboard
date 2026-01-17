@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ab82de0d-e748-45a5-a961-3f8963b2c0a5",
+      "published_datetime": "2026-01-17T14:06:20.329868",
+      "title": "China breaks ground on world's first hybrid nuclear plant for petrochemicals",
+      "featured_image": {
+        "url": "https://world-nuclear-news.org/articles/china-starts-construction-of-innovative-nuclear-project",
+        "name": "China starts construction of innovative nuclear project ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--sn7GcR59--/t_limit/https://www.world-nuclear-news.org/images/articles/Xuwei_1_FCD_-_1_%28CNNP%29_4735e09c.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s---CrU-jAe--/t_thumbnail/https://www.world-nuclear-news.org/images/articles/Xuwei_1_FCD_-_1_%28CNNP%29_4735e09c.jpg"
+      },
+      "description": "China has begun construction of the world's first large-scale nuclear power plant designed to directly supply industrial steam to the petrochemical sector, marking a new approach to decarbonizing heavy industry.\n\nOn Friday, workers poured the first concrete for the nuclear island of Unit 1 at the Xuwei Nuclear Heating and Power Plant in Lianyungang, Jiangsu Province, according to China National Nuclear Corporation (CNNC), the state-owned developer. The project is the first nuclear power unit to break ground in the opening year of China's 15th Five-Year Plan, which runs from 2026 to 2030.[1][2][3]",
+      "audio_url": "",
+      "url": "china-builds-world-s-first-hyb-E6llUp7iTNacG8zC7n7kNw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-17T13:46:27.000000Z",
       "title": "Iran's leader Khamenei blames Trump for inciting deadly protests",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4d08e181-228b-44ed-a5ee-e028d0337fb6",
-      "published_datetime": "2026-01-16T15:52:37.449678",
-      "title": "Former South Korean president sentenced to 5 years in prison",
-      "featured_image": {
-        "url": "https://www.bostonglobe.com/2025/03/07/world/south-korea-yoon-suk-yeol-jail-release-court-order/",
-        "name": "Court orders South Korean President Yoon released from jail ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--uCJWCVVe--/t_limit/https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/ZC4NJADG47UCPXX3QTLVEMV6WU.jpg%3Fauth%3D08bbd4b3a5567d94674841a7c2a238a6ad047b6ab7b4c16a210264041514c04d%26width%3D1200%26height%3D672",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s---fpWUJbw--/t_thumbnail/https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/ZC4NJADG47UCPXX3QTLVEMV6WU.jpg%3Fauth%3D08bbd4b3a5567d94674841a7c2a238a6ad047b6ab7b4c16a210264041514c04d%26width%3D1200%26height%3D672"
-      },
-      "description": "Former South Korean President Yoon Suk Yeol was sentenced to five years in prison on Friday by the Seoul Central District Court, marking the first verdict in a series of criminal trials stemming from his brief declaration of martial law in December 2024.[1][2][3]\n\nThe court found Yoon guilty of obstructing authorities from executing an arrest warrant, falsifying official documents, and failing to follow proper legal procedures for declaring martial law, according to a live broadcast of the verdict. The ruling comes half the 10-year sentence prosecutors had requested, setting the stage for a more consequential insurrection verdict expected next month.[4][3]",
-      "audio_url": "",
-      "url": "former-south-korean-president-gElRg9xMRT6ddMINJYv9cQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-17T15:12:45.155424"
+  "merged_at": "2026-01-17T15:26:32.990243"
 }
