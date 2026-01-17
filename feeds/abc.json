@@ -2,12 +2,21 @@
   "items": [
     {
       "published_datetime": "2026-01-16T19:04:33.000000Z",
-      "title": "The anatomy of the Natimuk blaze is what scientists have warned of for years",
+      "title": "Security vision shows terrifying speed of a new kind of climate-driven fire",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c03270adb7c6c707078195fe0fb5d10f?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": ""
       },
       "description": "A grassfire tore through Natimuk in minutes, overwhelming warnings and emergency response. Experts say it signals a dangerous new phase of bushfires.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-17/natimuk-fire-shows-new-climate-driven-faster-kind-of-bushfire/106225970"
+    },
+    {
+      "published_datetime": "2026-01-16T23:35:07.000000Z",
+      "title": "Lancet rejects Trump's 'politicisation' of paracetamol use in pregnancy",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/959f412025e18da533f8b64aeb6885af?impolicy=wcms_crop_resize&amp;cropH=1646&amp;cropW=2931&amp;xPos=0&amp;yPos=162&amp;width=862&amp;height=485"
+      },
+      "description": "Just months after US President Donald Trump warned women about taking paracetamol during pregnancy, a new study finds there is no evidence linking the painkiller to autism in children.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/lancet-rejects-trump-paracetamol-pregnancy-autism-claims/106236278"
     },
     {
       "published_datetime": "2026-01-16T18:00:00.000000Z",
@@ -19,22 +28,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-17/iran-israel-united-states-strike-gulf-states-donald-trump/106232766"
     },
     {
-      "published_datetime": "2026-01-16T18:00:00.000000Z",
-      "title": "Iran's unrest is shaping China's view of power and world order",
+      "published_datetime": "2026-01-16T20:19:13.000000Z",
+      "title": "Iran's young are dying for the freedom they see in black and white photos",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e5b9e9fc341c9e859ec4738b0f6c286?impolicy=wcms_crop_resize&amp;cropH=1434&amp;cropW=2550&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b49ee1edf2475824f6d4e76e43946f82?impolicy=wcms_crop_resize&amp;cropH=2791&amp;cropW=4961&amp;xPos=0&amp;yPos=108&amp;width=862&amp;height=485"
       },
-      "description": "Xi Jinping's ambition is to occupy a central position in a reshaped international system, not to lead a permanent grouping of sanctioned or crisis-prone states.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/china-iran-internet-blackout-xi-jinping-trade-xinjiang-tehran/106232712"
-    },
-    {
-      "published_datetime": "2026-01-16T19:06:26.000000Z",
-      "title": "Passport rule change disrupts travel plans for thousands of Aussies",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1074738e137158fa7031bb32cc5262ad?impolicy=wcms_crop_resize&amp;cropH=520&amp;cropW=924&amp;xPos=96&amp;yPos=620&amp;width=862&amp;height=485"
-      },
-      "description": "From February 25, dual citizens of the UK and Ireland will be required to enter the UK using a valid British or Irish passport, a change causing major headaches for dual citizens with imminent travel plans.  ",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/british-passport-rule-change-affects-family-business-travel/106238368"
+      "description": "As protests shake Iran, massive crowds rising up against the hard-line mullahs and their supporters have been bolstered by the country's younger generations.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/irans-youth-have-nostalgia-for-an-era-they-did-not-live-in/106224024"
     },
     {
       "published_datetime": "2026-01-16T21:07:23.000000Z",
@@ -46,13 +46,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-17/brisbane-boat-living-marina-housing-costs/106224448"
     },
     {
-      "published_datetime": "2026-01-16T20:19:13.000000Z",
-      "title": "Iran's young are dying for the freedom they see in black and white photos",
+      "published_datetime": "2026-01-16T19:06:26.000000Z",
+      "title": "Passport rule change disrupts travel plans for thousands of Aussies",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b49ee1edf2475824f6d4e76e43946f82?impolicy=wcms_crop_resize&amp;cropH=2791&amp;cropW=4961&amp;xPos=0&amp;yPos=108&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1074738e137158fa7031bb32cc5262ad?impolicy=wcms_crop_resize&amp;cropH=520&amp;cropW=924&amp;xPos=96&amp;yPos=620&amp;width=862&amp;height=485"
       },
-      "description": "As protests shake Iran, massive crowds rising up against the hard-line mullahs and their supporters have been bolstered by the country's younger generations.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/irans-youth-have-nostalgia-for-an-era-they-did-not-live-in/106224024"
+      "description": "From February 25, dual citizens of the UK and Ireland will be required to enter the UK using a valid British or Irish passport, a change causing major headaches for dual citizens with imminent travel plans.  ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/british-passport-rule-change-affects-family-business-travel/106238368"
+    },
+    {
+      "published_datetime": "2026-01-16T18:00:00.000000Z",
+      "title": "Iran's unrest is shaping China's view of power and world order",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e5b9e9fc341c9e859ec4738b0f6c286?impolicy=wcms_crop_resize&amp;cropH=1434&amp;cropW=2550&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Xi Jinping's ambition is to occupy a central position in a reshaped international system, not to lead a permanent grouping of sanctioned or crisis-prone states.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/china-iran-internet-blackout-xi-jinping-trade-xinjiang-tehran/106232712"
     },
     {
       "published_datetime": "2026-01-16T18:55:27.000000Z",
@@ -64,22 +73,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-17/australia-set-for-weekend-of-multitude-weather-hazards/106237998"
     },
     {
-      "published_datetime": "2026-01-16T20:13:25.000000Z",
-      "title": "Clean-up continues along Great Ocean Road after disastrous floods",
+      "published_datetime": "2026-01-16T22:04:29.000000Z",
+      "title": "'Relief' as world's biggest electric ferry starts sea trials",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4cebe5a0729b5769c1af6d15bdc4902c?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6a68cffcd314b06d2da23048c8b048fa?impolicy=wcms_crop_resize&amp;cropH=1768&amp;cropW=3144&amp;xPos=460&amp;yPos=187&amp;width=862&amp;height=485"
       },
-      "description": "Emergency services have defended warning times as locals recover from the record-breaking rains and worst floods in the area since the 80s.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/floods-great-ocean-road-vctoria-wye-river-lorne-recovery/106237916"
-    },
-    {
-      "published_datetime": "2026-01-16T18:30:00.000000Z",
-      "title": "Lance Armstong destroyed his legacy with five monosyllabic answers to Oprah",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3337e72167d5a397ac899dc190fe4fd3?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
-      },
-      "description": "Lance Armstrong had successfully doped for years. But when the evidence backed him into a corner he took control of the narrative and confessed live on Oprah's couch, martyring himself to cycling's EPO era. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/today-in-history-january-17-lance-armstrong-doping-reveal-oprah/106177232"
+      "description": "It is a world first — and years in the making — and when the massive electric ferry moved out into open water in Hobart for testing, there was a \"big sigh of relief\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/worlds-largest-battery-electric-ferry-trials-incat-china-zorilla/106239194"
     },
     {
       "published_datetime": "2026-01-16T16:13:04.000000Z",
@@ -91,31 +91,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-17/donald-trump-threatens-greenland-tariffs/106239964"
     },
     {
-      "published_datetime": "2026-01-16T20:41:35.000000Z",
-      "title": "The SA premier faced one of his most bruising weeks yet. Will it matter come election time?",
+      "published_datetime": "2026-01-16T22:57:16.000000Z",
+      "title": "Midwife banned from working unsupervised handed $1.1m NT government contract",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7c174e0048a1625a8e495b649fff7fe6?impolicy=wcms_crop_resize&amp;cropH=1971&amp;cropW=3504&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e0b335b4232569d2967d400f7a53dac1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=197&amp;width=862&amp;height=485"
       },
-      "description": "The dramatic cancellation of Adelaide Writers' Week spiralled the news cycle out of Premier Peter Malinauskas's control. But will the saga actually mean anything come the March state election?",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/bruising-week-for-peter-malinauskas-election-time/106238076"
+      "description": "Darwin midwife Claire Marks, who has been placed under a number of conditions by Australia's medical regulator, will continue to run the Northern Territory government's new private practice midwifery service, it's been confirmed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/midwives-in-darwin-private-practice-contract-nt-government/106228974"
     },
     {
-      "published_datetime": "2026-01-16T22:04:29.000000Z",
-      "title": "'Relief' as world's biggest electric ferry starts sea trials",
+      "published_datetime": "2026-01-16T18:30:00.000000Z",
+      "title": "Lance Armstong destroyed his legacy with five monosyllabic answers to Oprah",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6a68cffcd314b06d2da23048c8b048fa?impolicy=wcms_crop_resize&amp;cropH=1768&amp;cropW=3144&amp;xPos=460&amp;yPos=187&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3337e72167d5a397ac899dc190fe4fd3?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
       },
-      "description": "It is a world first — and years in the making — and when the massive electric ferry moved out into open water in Hobart for testing, there was a \"big sigh of relief\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/worlds-largest-battery-electric-ferry-trials-incat-china-zorilla/106239194"
-    },
-    {
-      "published_datetime": "2026-01-16T19:50:11.000000Z",
-      "title": "Why this Olympian is proud to be a gay role model despite trolling",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/07011890e5121eee0361a3739d5caec8?impolicy=wcms_crop_resize&amp;cropH=362&amp;cropW=643&amp;xPos=0&amp;yPos=20&amp;width=862&amp;height=485"
-      },
-      "description": "Campbell Harrison was homophobically trolled in the lead-up to the Paris Olympics. It strengthened his conviction about the importance of visible queer role models in sport.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/olympian-campbell-harrison-proud-to-be-gay-role-model/106132328"
+      "description": "Lance Armstrong had successfully doped for years. But when the evidence backed him into a corner he took control of the narrative and confessed live on Oprah's couch, martyring himself to cycling's EPO era. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/today-in-history-january-17-lance-armstrong-doping-reveal-oprah/106177232"
     },
     {
       "published_datetime": "2026-01-16T20:20:20.000000Z",
@@ -127,13 +118,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-17/child-sexual-abuse-victim-survivor-reflects-on-bid-for-justice/106147740"
     },
     {
-      "published_datetime": "2026-01-16T06:09:52.000000Z",
-      "title": "Former South Korean president jailed over martial law declaration",
+      "published_datetime": "2026-01-17T00:08:36.000000Z",
+      "title": "Sandbank warning after tourist suffers catastrophic injuries at iconic beach",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/291d7a77bf78c5c5782ed31a9d4f2c14?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f1194a642e536439c9c63b8862dba281?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
       },
-      "description": "Former South Korean president Yoon Suk Yeol is sentenced to five years in jail over crimes relating to his failed attempt at imposing martial law in the country.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-16/former-south-korean-president-yoon-suk-yeol-sentenced/106229834"
+      "description": "A young Greek tourist is flooded with donations and support after a tragic accident at Perth's most iconic beach left him with life-changing injuries.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/greek-tourist-ioannis-vidiniotis-injured-at-cottesloe-beach/106237774"
     },
     {
       "published_datetime": "2026-01-16T20:37:56.000000Z",
@@ -145,76 +136,76 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-17/steve-smith-david-warner-score-bbl-centuries/106239560"
     },
     {
-      "published_datetime": "2026-01-16T18:30:00.000000Z",
-      "title": "50/50 quiz: Test your knowledge of The Neverending Story, cocktails and 90s lyrics",
+      "published_datetime": "2026-01-16T23:32:41.000000Z",
+      "title": "New dictionary aims to 'awaken' language not spoken fluently for 100 years",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/842f312c965b8bb6edfc5c3195351c67?impolicy=wcms_crop_resize&amp;cropH=565&amp;cropW=1004&amp;xPos=4&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8e26cfa5e54df9f31e56dabb3c8afbaf?impolicy=wcms_crop_resize&amp;cropH=2229&amp;cropW=3962&amp;xPos=0&amp;yPos=57&amp;width=862&amp;height=485"
       },
-      "description": "Every question has only two options: One is right and the other is wrong. You have an even chance of guessing correctly each time.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/abc-50-50-quiz-january-17/106226698"
+      "description": "After more than a century of silence, the Bunurong language is being brought back to life by elders, linguists and community. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/bunurong-languages-dictionary-spoken-100-years/106159478"
     },
     {
-      "published_datetime": "2026-01-16T07:47:28.000000Z",
-      "title": "Tszyu accuses 'cowardly' Zefara of quitting after grudge match called off",
+      "published_datetime": "2026-01-16T22:00:00.000000Z",
+      "title": "Tasty one-tray lemon garlic chicken with green beans and potatoes",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/27530f9160b2ae444489e6f3442a8fef?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=452&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ee82d64e4fac9660dfd18b52cb05237b?impolicy=wcms_crop_resize&amp;cropH=2862&amp;cropW=5088&amp;xPos=0&amp;yPos=265&amp;width=862&amp;height=485"
       },
-      "description": "Nikita Tszyu and Michael Zerafa hotly anticipated fight is abandoned after the second round as the crowd vents its frustration at the Brisbane Entertainment Centre.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-16/live-updates-nikita-tszyu-vs-michael-zerafa-nelson-asofa-solomon/106237528"
+      "description": "This bright and flavourful chicken tray bake take just 15 minutes to prep and bakes in one tray. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/lemon-garlic-chicken-with-green-beans-and-potatoes/106232614"
     },
     {
-      "published_datetime": "2026-01-16T20:57:31.000000Z",
-      "title": "With a team's Olympic hopes at risk, this Aussie stepped in to help",
+      "published_datetime": "2026-01-16T20:13:25.000000Z",
+      "title": "Clean-up continues along Great Ocean Road after disastrous floods",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85923e6fcd1e4d31227238182ddd0961?impolicy=wcms_crop_resize&amp;cropH=360&amp;cropW=640&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4cebe5a0729b5769c1af6d15bdc4902c?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "With hopes of reaching the Winter Olympics fading due to a dodgy bobsleigh, the Dutch team was running out of answers until Australian Sarah Blizzard rode to the rescue and helped the Netherlands' sliders achieve their dreams.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/sarah-blizzard-bobsled-dutch-team-lend-sleigh-winter-olympics/106236422"
+      "description": "Emergency services have defended warning times as locals recover from the record-breaking rains and worst floods in the area since the 80s.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/floods-great-ocean-road-vctoria-wye-river-lorne-recovery/106237916"
     },
     {
-      "published_datetime": "2026-01-16T21:29:15.000000Z",
-      "title": "Asofa-Solomona plans to 'clean up the whole NRL division' after boxing debut",
+      "published_datetime": "2026-01-16T23:02:58.000000Z",
+      "title": "Developer's bid to demolish 140-year-old flour mill walls faces backlash",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cf33620d078ca6c4252066ac064f7d05?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=46&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9193cce36265ecce3897e4c57c14977c?impolicy=wcms_crop_resize&amp;cropH=919&amp;cropW=1634&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Nelson Asofa-Solomona calls out his former rugby league competitors after making a successful transition to the fight game by knocking out Jeremy Latimore.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/boxing-nelson-asofa-solomona-calls-out-nrl-rivals/106240134"
+      "description": "As the wrecking ball looms, a community battle is brewing over whether historic flour mill walls need to fall to make way for development.  ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/heritage-wall-demolition-mount-gambier-old-flour-mill/106232796"
     },
     {
-      "published_datetime": "2026-01-16T21:31:42.000000Z",
-      "title": "People First Bank branch closures spark concern and confusion",
+      "published_datetime": "2026-01-17T00:06:06.000000Z",
+      "title": "'Living the dream': Growing up with Australia's first skate park",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3186d24c0bdf1f89ec424b406a98c23e?impolicy=wcms_crop_resize&amp;cropH=2809&amp;cropW=4993&amp;xPos=7&amp;yPos=524&amp;width=862&amp;height=485"
+        "thumbnail": ""
       },
-      "description": "People First Bank announces it will shut 18 sites, saying customers are choosing digital services, but for some regional Australians, in‑person banking remains essential.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/people-first-bank-closures-spark-concern-confusion/106238954"
+      "description": "Australia is home to one of the world's oldest surviving skate parks, which is as much a product of surfing culture as it is a time capsule of skating history.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/australia-oldest-skate-park-in-abany-turns-50/106224280"
     },
     {
-      "published_datetime": "2026-01-16T14:16:32.000000Z",
-      "title": "Singer Julio Iglesias denies sexually assaulting two former employees",
+      "published_datetime": "2026-01-16T20:41:35.000000Z",
+      "title": "The SA premier faced one of his most bruising weeks yet. Will it matter come election time?",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/04ea532dafb438c6e75829c1f659aac3?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7c174e0048a1625a8e495b649fff7fe6?impolicy=wcms_crop_resize&amp;cropH=1971&amp;cropW=3504&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
       },
-      "description": "The Spanish recording artist is accused of sexually and physically assaulting two women who worked at his residences in the Dominican Republic and the Bahamas between January and October 2021.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/julio-iglesias-denies-sexual-assault-allegations/106239614"
+      "description": "The dramatic cancellation of Adelaide Writers' Week spiralled the news cycle out of Premier Peter Malinauskas's control. But will the saga actually mean anything come the March state election?",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/bruising-week-for-peter-malinauskas-election-time/106238076"
     },
     {
-      "published_datetime": "2026-01-16T21:57:02.000000Z",
-      "title": "'Powerful message': Courthouse purchases artworks by Aboriginal inmates",
+      "published_datetime": "2026-01-16T19:09:06.000000Z",
+      "title": "How to talk to your children about the allegations against author Craig Silvey",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f2b07bdf462f64a0db6f260f51b8584?impolicy=wcms_crop_resize&amp;cropH=849&amp;cropW=1509&amp;xPos=0&amp;yPos=78&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f75b95f6a81138857b3ab7b0f3f80fef?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=301&amp;width=862&amp;height=485"
       },
-      "description": "With each paint stroke and dot placement, art gives John the opportunity to express his culture, with some of his fellow Aboriginal inmates joining him in creating artworks while incarcerated.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/sydney-aboriginal-inmates-connection-to-country-through-art/106189742"
+      "description": "A prominent parenting expert says serious allegations made against one of Australia’s most renowned authors should spark difficult but important conversations in households across the country.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/how-to-talk-to-children-about-craig-silvey-allegations/106237832"
     },
     {
-      "published_datetime": "2026-01-16T21:54:16.000000Z",
-      "title": "What we know about the pipe bombs found in Canberra this week",
+      "published_datetime": "2026-01-16T19:50:11.000000Z",
+      "title": "Why this Olympian is proud to be a gay role model despite trolling",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94f8690d1005fde2ad483e298ef9911a?impolicy=wcms_crop_resize&amp;cropH=1653&amp;cropW=2938&amp;xPos=0&amp;yPos=319&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/07011890e5121eee0361a3739d5caec8?impolicy=wcms_crop_resize&amp;cropH=362&amp;cropW=643&amp;xPos=0&amp;yPos=20&amp;width=862&amp;height=485"
       },
-      "description": "The discovery of 15 explosive devices along footpaths near a Canberra lake shocked residents this week, raising questions about how the devices came to be there and who could be responsible.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-17/act-what-we-know-about-pipe-bombs-found-around-canberra/106238418"
+      "description": "Campbell Harrison was homophobically trolled in the lead-up to the Paris Olympics. It strengthened his conviction about the importance of visible queer role models in sport.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/olympian-campbell-harrison-proud-to-be-gay-role-model/106132328"
     },
     {
       "published_datetime": "2026-01-16T14:36:11.000000Z",
@@ -224,6 +215,15 @@
       },
       "description": "International aid agencies say children across Ukraine risk hypothermia in freezing temperatures as emergency stocks of power generators run low following Russian attacks on energy infrastructure.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-17/children-ukraine-hypothermia-risk-russian-attacks-aid-agencies/106239612"
+    },
+    {
+      "published_datetime": "2026-01-16T23:04:11.000000Z",
+      "title": "Berrettini fighting illness ahead of Australian Open clash with de Minaur",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/07f3c2f62f70607dfa9de46f1be17735?impolicy=wcms_crop_resize&amp;cropH=2159&amp;cropW=3838&amp;xPos=0&amp;yPos=27&amp;width=862&amp;height=485"
+      },
+      "description": "Alex de Minaur's first-round opponent, Matteo Berrettini, faces a race against time to be fit for the start of the Australian Open.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-17/matteo-berrettini-illness-australian-open-tennis-alex-de-minaur/106240240"
     }
   ]
 }
