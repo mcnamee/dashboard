@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-18T06:27:30.000000Z",
+      "title": "Boy in critical condition after shark attack at Sydney Harbour beach",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dae37fbae6b46689a97a6de6cf015cf4?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=59&amp;width=862&amp;height=485"
+      },
+      "description": "Emergency services were called to Hermitage Foreshore Walk near Shark Beach at Vaucluse about 4:20pm on Sunday afternoon following reports of a boy being bitten by a shark.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-18/shark-attack-boy-suffers-critical-injuries-vaucluse-east-sydney/106242502"
+    },
+    {
       "published_datetime": "2026-01-18T05:00:08.000000Z",
       "title": "Queensland stock losses to hit 100,000 as flood warnings continue",
       "featured_image": {
@@ -43,19 +52,10 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-18/status-of-hate-laws-uncertain-ahead-of-parliamentary-sitting/106242028"
     },
     {
-      "published_datetime": "2026-01-18T01:12:05.000000Z",
-      "title": "Israel objects to US announcement of leaders in Gaza peace plan",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f3707d52fb141117cb9692713ccda81d?impolicy=wcms_crop_resize&amp;cropH=2796&amp;cropW=4971&amp;xPos=0&amp;yPos=258&amp;width=862&amp;height=485"
-      },
-      "description": "The committee announced by the White House includes no Israeli officials but has an Israeli businessperson, billionaire Yakir Gabay. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/israel-objects-to-us-announcement-of-leaders-who-will-help-overs/106241834"
-    },
-    {
       "published_datetime": "2026-01-17T23:22:43.000000Z",
-      "title": "Live: Scary scenes as ball kid faints at the net mid-match at Australian Open",
+      "title": "Live: Player praised for 'incredible' act, helping ball kid after scary fall",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5e975f7dcb4421dd14c6cc1ecb4cfe68?impolicy=wcms_crop_resize&amp;cropH=769&amp;cropW=1366&amp;xPos=315&amp;yPos=139&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a7a7212d0858329e6b1c7005b3a255a8?impolicy=wcms_crop_resize&amp;cropH=699&amp;cropW=1243&amp;xPos=677&amp;yPos=142&amp;width=862&amp;height=485"
       },
       "description": "A ball kid has fainted and fallen onto their back while standing at the net during a match on day one of the Australian Open. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-18/australian-open-2026-live-updates-sabalenka-alcaraz-berrettini/106238282"
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-18T06:20:05.666858"
+  "merged_at": "2026-01-18T07:14:01.198546"
 }
