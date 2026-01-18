@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-18T00:19:49.000000Z",
+      "title": "Man charged over pipe bombs found in Canberra",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e221a7a4dff95a01daed5a69d773bffd?impolicy=wcms_crop_resize&amp;cropH=1653&amp;cropW=2938&amp;xPos=0&amp;yPos=318&amp;width=862&amp;height=485"
+      },
+      "description": "The 41-year-old Belconnen man is charged in relation to the 15 pipe bombs found along the shore of Canberra's Lake Ginninderra this week.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-18/man-charged-over-pipe-bombs-found-in-canberra/106241830"
+    },
+    {
+      "published_datetime": "2026-01-17T23:22:43.000000Z",
+      "title": "Live: De Minaur gets lucky break as Australian Open gets underway",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e4fb560300bb408ec1ca90cb5bdf7cd5?impolicy=wcms_crop_resize&amp;cropH=2394&amp;cropW=4256&amp;xPos=0&amp;yPos=36&amp;width=862&amp;height=485"
+      },
+      "description": "Luckless Italian star Matteo Berrettini withdraws from his first-round Australian Open clash with Alex de Minaur, as day one of the first tennis grand slam of 2026 kicks off with Carlos Alcaraz and Aryna Sabalenka the main attractions. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-18/australian-open-2026-live-updates-sabalenka-alcaraz-berrettini/106238282"
+    },
+    {
       "published_datetime": "2026-01-17T22:51:49.000000Z",
       "title": "'Extremely wild weather': NSW coast battles heavy rainfall, flash flooding",
       "featured_image": {
@@ -8,6 +26,36 @@
       },
       "description": "The State Emergency Service responds to more than 1,400 incidents and 20 flood rescues, most of which involve people driving through floodwaters.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-18/flooding-heavy-rainfall-severe-weather-nsw-coast/106241644"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/43ad39f8-f2c3-4d47-a2fc-2ba878a192e1",
+      "published_datetime": "2026-01-17T22:40:45.079135",
+      "title": "Trump asks countries to pay $1 billion for permanent peace board seats",
+      "featured_image": {
+        "url": "https://thehill.com/homenews/administration/5694377-gaza-board-trump-egypt-turkey-argentina/",
+        "name": "Trump asks Egypt, Turkey leaders to join Gaza Board of Peace",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--fCJGKIrW--/t_limit/https://thehill.com/wp-content/uploads/sites/2/2025/10/Leading-Trump-and-Milei_101425_Greg-Nash.jpg%3Fw%3D1280",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--sy_bXPq8--/t_thumbnail/https://thehill.com/wp-content/uploads/sites/2/2025/10/Leading-Trump-and-Milei_101425_Greg-Nash.jpg%3Fw%3D1280"
+      },
+      "description": "The Trump administration is asking countries that want a permanent spot on President Donald Trump's new Board of Peace to contribute at least $1 billion, according to a draft charter of the body sent to world leaders this weekend.[1][2]\n\nThe provision, outlined in the charter distributed alongside invitation letters on Friday, effectively creates a two-tier membership structure. Countries that contribute $1 billion or more in cash funds to the Board of Peace would be exempt from the standard three-year membership term, securing them a permanent seat on the panel.[2]",
+      "audio_url": "",
+      "url": "trump-wants-nations-to-pay-1-b-juzl8dT9Sj2TkEURIgx_zA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0c4a85a2-d0b1-40b9-8b95-739945c37acd",
+      "published_datetime": "2026-01-17T21:58:24.830989",
+      "title": "Thousands protest Trump's Greenland push in Denmark, Arctic",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/europe/protesters-denmark-support-greenland-after-trumps-takeover-threat-2026-01-17/",
+        "name": "Protesters in Denmark support Greenland after Trump's takeover threat",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--S2LgMuxL--/t_limit/https://www.reuters.com/resizer/v2/2RVQDW52LFKXXCGL4SQEWUU73Q.jpg%3Fauth%3D26a90eab0c3121481607a96bef3fbf016fee107b66b32a8d917136810da0180c%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--T2DcZOgY--/t_thumbnail/https://www.reuters.com/resizer/v2/2RVQDW52LFKXXCGL4SQEWUU73Q.jpg%3Fauth%3D26a90eab0c3121481607a96bef3fbf016fee107b66b32a8d917136810da0180c%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Thousands of demonstrators took to the streets across Denmark and Greenland on Saturday, January 17, 2026, in a forceful rejection of President Donald Trump's escalating campaign to acquire the Arctic territory. The protests came hours after Trump announced sweeping tariffs on eight European nations opposing his push, deepening an unprecedented diplomatic rift between NATO allies.",
+      "audio_url": "",
+      "url": "mass-protests-erupt-in-denmark-XkvSYtmpQJGgxPwEjQ.tUw",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-17T21:20:37.000000Z",
@@ -32,15 +80,6 @@
       "audio_url": "",
       "url": "macron-calls-trump-greenland-t-v9FG.Uj1Sgqsihmx2zB7wA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-17T20:18:19.000000Z",
-      "title": "As a bushfire raged around them, a volunteer brigade made a plan to survive",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8fa2d340595bb6c9d8d783d109a47be8?impolicy=wcms_crop_resize&amp;cropH=2084&amp;cropW=3705&amp;xPos=683&amp;yPos=559&amp;width=862&amp;height=485"
-      },
-      "description": "The volunteer brigade from Terip Terip went through \"hell\" and back, narrowly escaping death while fighting to save their own community and those nearby.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/victoria-bushfire-crisis-terip-terip-cfa-brigage/106231328"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/64fe3eba-a1da-4807-aec4-0a010971e81d",
@@ -163,15 +202,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-18/putin-wants-to-reshape-world-and-iran-is-vital-to-his-plan/106235534"
     },
     {
-      "published_datetime": "2026-01-17T18:30:00.000000Z",
-      "title": "How to calculate board or rent if you have adult children at home",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/20cf57759b04f1417769c9af9ed12730?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Experts on the benefit of charging board and expenses if you\u2019re sharing a home with young adults, and how to calculate it.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/what-is-fair-when-charging-young-adult-children-board-or-rent/105913086"
-    },
-    {
       "published_datetime": "2026-01-17T18:00:00.000000Z",
       "title": "On the world's largest hospital ship volunteers give people a chance at a better life",
       "featured_image": {
@@ -208,36 +238,6 @@
       "description": "Malaysia and Indonesia have become the first countries in the world to block access to Elon Musk's AI chatbot Grok after regulators determined the tool was being used to generate sexually explicit and nonconsensual deepfake images, including content depicting women and minors.\n\nIndonesia's Ministry of Communication and Digital Affairs ordered restrictions on January 10, with Malaysia's Communications and Multimedia Commission following on January 11. The bans came after officials in both countries concluded that safeguards implemented by xAI, the company behind Grok, had failed to stop the spread of obscene content on X, the social media platform formerly known as Twitter.[1][2][3][4][5]",
       "audio_url": "",
       "url": "malaysia-and-indonesia-block-g-52YkM94VTFeQ2idrFnsBHA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b9590142-eef2-4385-a598-380655a54915",
-      "published_datetime": "2026-01-16T22:05:44.301679",
-      "title": "Scientists open world's first ice core sanctuary in Antarctica",
-      "featured_image": {
-        "url": "https://abcnews.go.com/Technology/wireStory/global-warming-melts-glaciers-sanctuary-antarctica-opening-preserve-129200991",
-        "name": "As global warming melts glaciers, a novel sanctuary in Antarctica is ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--V2tDftMS--/t_limit/https://i.abcnewsfe.com/a/6a7ac34a-d717-4857-b5dc-dbe52078c268/wirestory_25c45a3a1e6375a1f241c825e5e63e5c_16x9.jpg%3Fw%3D1600",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--9DgM1SAx--/t_thumbnail/https://i.abcnewsfe.com/a/6a7ac34a-d717-4857-b5dc-dbe52078c268/wirestory_25c45a3a1e6375a1f241c825e5e63e5c_16x9.jpg%3Fw%3D1600"
-      },
-      "description": "In a week of advances for polar science, researchers have unveiled the most detailed map ever created of Antarctica's hidden bedrock while a separate team inaugurated the world's first ice core sanctuary on the frozen continent, both efforts aimed at understanding and preserving climate data before it disappears.",
-      "audio_url": "",
-      "url": "scientists-map-antarctica-and-TlthFNS0QMi8Nbn1WUnioQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a492bff0-cd53-4e96-921f-de293db397ee",
-      "published_datetime": "2026-01-16T19:03:21.693214",
-      "title": "OpenAI to begin testing ads in ChatGPT's free tier",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/news/chatgpt-ads-coming-openai-leak-115535876.html",
-        "name": "ChatGPT ads are coming, OpenAI leak suggests",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--hMe2Jy7h--/t_limit/https://s.yimg.com/ny/api/res/1.2/zxiQh.BqtI1GzO19tk4Oqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAw/https://media.zenfs.com/en/the_independent_635/9ee224bdd15987a4e510c71e0f72884f",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--9wrn4BO1--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/zxiQh.BqtI1GzO19tk4Oqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAw/https://media.zenfs.com/en/the_independent_635/9ee224bdd15987a4e510c71e0f72884f"
-      },
-      "description": "OpenAI announced Friday it will begin testing advertisements in ChatGPT, a major shift for the artificial intelligence company as it seeks to diversify revenue beyond subscriptions amid mounting operational costs.\n\nThe ads will roll out to users of the free version of the chatbot as well as those subscribing to ChatGPT Go, the company's newly launched budget-tier subscription that is becoming available globally at around $8 per month, according to The Wall Street Journal and Bloomberg. The move comes as OpenAI faces pressure to monetize its massive user base, with only about 5% of ChatGPT's 800 million weekly active users paying for subscriptions.[1][2][3][4]",
-      "audio_url": "",
-      "url": "openai-to-begin-testing-ads-in-2EXornIkQamQywz7OEDx4Q",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-17T23:12:45.196389"
+  "merged_at": "2026-01-18T01:08:39.573993"
 }
