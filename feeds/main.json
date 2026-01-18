@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-18T20:02:06.000000Z",
+      "title": "Live: Parliament returns to pay tribute to victims of Bondi terror attack",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eee641edcd3d565988ba86eac0c1f422?impolicy=wcms_crop_resize&amp;cropH=3056&amp;cropW=5432&amp;xPos=166&amp;yPos=242&amp;width=862&amp;height=485"
+      },
+      "description": "Parliament has returned ahead of schedule to honour the victims of the Bondi terror attack. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/federal-politics-live-blog-jan-19/106243354"
+    },
+    {
+      "published_datetime": "2026-01-18T19:43:11.000000Z",
+      "title": "Pentagon could deploy troops to Minnesota protests, US officials say",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a2252ce98c86d1dfd6859ce36eb90f46?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The possible deployment comes after US President Donald Trump threatened to invoke the Insurrection Act to quell anti-ICE protests in the state.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/pentagon-readies-troops-for-minnesota-deployment/106243210"
+    },
+    {
+      "published_datetime": "2026-01-18T19:17:46.000000Z",
+      "title": "Why Donald Trump could exploit the US's 250th birthday for his own gain",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64c47814074959c314aa6491132fba8f?impolicy=wcms_crop_resize&amp;cropH=2555&amp;cropW=4542&amp;xPos=0&amp;yPos=379&amp;width=862&amp;height=485"
+      },
+      "description": "The United States of America is celebrating the 250th anniversary of its union as a nation and experts say Donald Trump appears to be exploiting the events for his own political gain.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/donald-trump-united-states-of-america-250-celebrations/106125384"
+    },
+    {
+      "published_datetime": "2026-01-18T19:17:03.000000Z",
+      "title": "Parents of Bondi attack youngest victim pay tribute to her sister's saviour",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bcb5cff5b0f9ce491ec6c92f9c6f1315?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=15&amp;width=862&amp;height=485"
+      },
+      "description": "The parents of 10-year-old Matilda, the youngest victim of the Bondi terror attack, recall the final moments leading up to shooting, paying tribute to the woman who saved their younger daughter.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/parents-bondi-terror-attack-youngest-victim-matilda-speak-out/106240460"
+    },
+    {
+      "published_datetime": "2026-01-18T19:15:36.000000Z",
+      "title": "Gap between Melbourne and Sydney property prices at widest point in decades",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d693b596eba5718aff44b7f0e5c9fbe2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=408&amp;width=862&amp;height=485"
+      },
+      "description": "Property analysts say a mix of economic conditions, policy settings and demographic shifts are among the reasons for the city's subdued dwelling price growth in the past five years.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/melbourne-house-prices-affordable-capital-city/106210992"
+    },
+    {
+      "published_datetime": "2026-01-18T19:10:28.000000Z",
+      "title": "Life in Cuba is about to get harder as Trump threatens oil supply",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ab7ed7a792829a0ac16a939bb9a568e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=522&amp;width=862&amp;height=485"
+      },
+      "description": "Many experts are predicting life in Cuba is about to get even harder.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/cuba-us-venezuela-trump-economic-crisis-migration/106231474"
+    },
+    {
+      "published_datetime": "2026-01-18T19:01:31.000000Z",
+      "title": "AI is an ethical, social and economic nightmare \u2014 and we're starting to wake up",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d0123a07a49ed7c602e143c9e34b6a3a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
+      },
+      "description": "As 2025 began, I thought humanity's biggest problem was climate change. In 2026, AI is more pressing.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/ai-grok-ethical-social-and-economic-nightmare/106242320"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9739b391-ec1c-4ad5-8b5f-a622d98f474c",
+      "published_datetime": "2026-01-18T17:54:40.189957",
+      "title": "Iran president warns attack on Khamenei means 'all-out war'",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/middle-east/iran-president-warns-irreversible-consequences-wider-regional-war-2024-09-23/",
+        "name": "Iran president warns of 'irreversible' consequences of wider ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--l3UdZxyY--/t_limit/https://www.reuters.com/resizer/v2/6NIVAA3SJNJL3PEAG6GKW6SAMQ.jpg%3Fauth%3D7f4b461c6ded2f95a4509294c72e2c1a51ca5d9578bf5d9cd433d7a3f3c286bc%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--qgwy3pKd--/t_thumbnail/https://www.reuters.com/resizer/v2/6NIVAA3SJNJL3PEAG6GKW6SAMQ.jpg%3Fauth%3D7f4b461c6ded2f95a4509294c72e2c1a51ca5d9578bf5d9cd433d7a3f3c286bc%26width%3D1920%26quality%3D80"
+      },
+      "description": "Iranian President Masoud Pezeshkian declared Sunday that any attack on Supreme Leader Ayatollah Ali Khamenei would be \"tantamount to all-out war against the Iranian nation,\" escalating a war of words with Washington after President Donald Trump called for \"new leadership\" in Tehran.\n\n\"Any aggression against the supreme leader of our country is tantamount to all-out war against the Iranian nation,\" Pezeshkian wrote on the social media platform X. The Iranian president also blamed Washington for his country's economic struggles, citing \"longstanding enmity and inhumane sanctions\" imposed by the United States and its allies.[1][2]\n\nPezeshkian's warning followed a sharp exchange between Trump and Khamenei on Saturday. In an interview with Politico, Trump said \"it's time to look for new leadership in Iran,\" calling the 86-year-old supreme leader \"a sick man who should run his country properly and stop killing people\". Trump added that Iran under Khamenei's rule was \"the worst place to live anywhere in the world because of poor leadership\".[3]",
+      "audio_url": "",
+      "url": "iran-president-warns-strikes-o-_Yk45mnwSxCHdtrv9fmNgg",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/de56f283-5021-4170-9561-3f6e201e1093",
       "published_datetime": "2026-01-18T17:10:00.693056",
       "title": "China blocks Nvidia H200 chip imports, halting supplier production",
@@ -71,51 +149,6 @@
       "audio_url": "",
       "url": "ai-drives-surge-in-nuclear-pow-YxgCtQmZSGeDVK9oVP3SxQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-18T09:17:23.000000Z",
-      "title": "Tourists urged to avoid WA national park amid Emergency level bushfire",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8e793340d2eca16caeb937697cef0cf4?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=63&amp;width=862&amp;height=485"
-      },
-      "description": "Tourists are warned to avoid Fitzgerald River National Park, 500 kilometres south-east of Perth, as a bushfire burning in the park is escalated to an Emergency Warning and evacuation centres open.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/bushfire-fitzgerald-national-park-wa-south-coast/106242528"
-    },
-    {
-      "published_datetime": "2026-01-18T07:58:32.000000Z",
-      "title": "Writers' Week letter shows premier backed removal of Randa Abdel-Fattah",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/522af0b172684890178f64b28f168e43?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "South Australia's premier told the Adelaide Festival board it would open itself to \"accusations of hypocrisy\" and \"legitimate public ridicule\" if it did not cancel the appearance of Randa Abdel-Fattah from Writers' Week.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/premier-letter-on-randa-abdel-fatah-at-writers-week-released/106241792"
-    },
-    {
-      "published_datetime": "2026-01-18T06:27:30.000000Z",
-      "title": "Boy critical after being bitten by large shark at Sydney Harbour beach",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dae37fbae6b46689a97a6de6cf015cf4?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=59&amp;width=862&amp;height=485"
-      },
-      "description": "Emergency services were called to Hermitage Foreshore Walk near Shark Beach at Vaucluse about 4:20pm on Sunday afternoon following reports of a boy being bitten by a shark.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/shark-attack-boy-suffers-critical-injuries-vaucluse-east-sydney/106242502"
-    },
-    {
-      "published_datetime": "2026-01-18T05:00:08.000000Z",
-      "title": "Queensland stock losses to hit 100,000 as flood warnings continue",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4afba3d000b8b3355620a828cc3258c8?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Numerous flood warnings remain active across central Queensland, with ex-Tropical Cyclone Koji still driving floodwater through major catchments, while the premier met with graziers on Sunday to discuss massive stock losses.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/flood-warning-queensland-stock-losses/106242012"
-    },
-    {
-      "published_datetime": "2026-01-18T03:17:08.000000Z",
-      "title": "Four-year-old boy dies after car crashes into Canberra shopping centre",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1a1459df0cc60435856e8f9380c0d3eb?impolicy=wcms_crop_resize&amp;cropH=3622&amp;cropW=6439&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "The accident happened at Mawson shopping centre in Canberra's south.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/4yo-dies-after-being-hit-by-car-at-canberra-shopping-centre/106242024"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/04381e3e-3c99-448e-a0a1-b63c62138c5f",
@@ -208,39 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c4d4d71d-f740-41cc-bf59-0ac437cbc7eb",
-      "published_datetime": "2026-01-17T19:39:46.708149",
-      "title": "Trump held secret talks with Venezuela's Cabello before Maduro capture",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/minister-of-interior-diosdado-cabello-looks-on-during-a-news-photo/2256293839",
-        "name": "Delcy Rodriguez Addresses The Media Regarding The Release Of Prisoners In Venezuela",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1768678583/getty_uploads/2256293839_ubjgqt.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1768678583/getty_uploads/2256293839_ubjgqt.jpg"
-      },
-      "description": "The Trump administration held months of quiet discussions with Venezuela's interior minister Diosdado Cabello before the January 3 military operation that captured President Nicol\u00e1s Maduro, and communications have continued since, according to multiple sources familiar with the matter in an exclusive Reuters report published Friday.[1][2]\n\nU.S. officials warned Cabello, 62, against deploying security services or militant ruling-party supporters to target Venezuela's opposition, four sources told Reuters. The talks also addressed U.S. sanctions imposed on him and his federal drug-trafficking indictment. Despite being named in the same indictment that justified Maduro's arrest\u2014with a $25 million bounty on his head\u2014Cabello was not apprehended during the operation.[3][4]",
-      "audio_url": "",
-      "url": "trump-administration-engaged-i-s2h87isSQEGo.DrBd1jjsA",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-17T18:39:19.000000Z",
-      "title": "Putin's 'worst-case scenario' could be realised in Iran regime change",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b06afa641fc6a1d7f2aa5d9680fc764a?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=67&amp;width=862&amp;height=485"
-      },
-      "description": "Tehran is the epicentre of the nightly protests shaking Iran's regime, but the reverberations are being felt loud and clear in Moscow, too.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/putin-wants-to-reshape-world-and-iran-is-vital-to-his-plan/106235534"
-    },
-    {
-      "published_datetime": "2026-01-17T18:00:00.000000Z",
-      "title": "On the world's largest hospital ship volunteers give people a chance at a better life",
-      "featured_image": {
-        "thumbnail": ""
-      },
-      "description": "On the largest civilian hospital ship in the world, Australian volunteers provide life-changing healthcare that is transforming lives.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/volunteering-mercy-ships-sierra-leone-africa-healthcare/106077318"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-18T19:10:00.405133"
+  "merged_at": "2026-01-18T20:14:42.364385"
 }
