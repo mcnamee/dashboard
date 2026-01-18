@@ -1,31 +1,13 @@
 {
   "items": [
     {
-      "published_datetime": "2026-01-18T14:32:54.000000Z",
-      "title": "Trump asks Australia, Albanese to join Gaza 'Board of Peace'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/377ca7000827eda0247b953459eb75f2?impolicy=wcms_crop_resize&amp;cropH=1784&amp;cropW=3171&amp;xPos=0&amp;yPos=168&amp;width=862&amp;height=485"
-      },
-      "description": "The US president is pushing for the board to preserve a fragile ceasefire between Hamas and Israel and progress the peace deal to the next phase.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/australia-asked-to-join-trump-s-gaza-board-of-peace-/106242966"
-    },
-    {
       "published_datetime": "2026-01-18T19:17:03.000000Z",
-      "title": "Parents of Bondi attack youngest victim pay tribute to her sister's saviour",
+      "title": "'Matilda, get down': Parents of youngest Bondi terror victim speak out",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bcb5cff5b0f9ce491ec6c92f9c6f1315?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=15&amp;width=862&amp;height=485"
       },
       "description": "The parents of 10-year-old Matilda, the youngest victim of the Bondi terror attack, recall the final moments leading up to shooting, paying tribute to the woman who saved their younger daughter.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/parents-bondi-terror-attack-youngest-victim-matilda-speak-out/106240460"
-    },
-    {
-      "published_datetime": "2026-01-18T19:01:31.000000Z",
-      "title": "AI is an ethical, social and economic nightmare — and we're starting to wake up",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d0123a07a49ed7c602e143c9e34b6a3a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
-      },
-      "description": "As 2025 began, I thought humanity's biggest problem was climate change. In 2026, AI is more pressing.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/ai-grok-ethical-social-and-economic-nightmare/106242320"
     },
     {
       "published_datetime": "2026-01-18T20:02:06.000000Z",
@@ -37,13 +19,31 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/federal-politics-live-blog-jan-19/106243354"
     },
     {
-      "published_datetime": "2026-01-18T14:12:25.000000Z",
-      "title": "NATO allies warn Trump of 'dangerous downward spiral' over Greenland threats",
+      "published_datetime": "2026-01-18T19:01:31.000000Z",
+      "title": "AI is an ethical, social and economic nightmare — and we're starting to wake up",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bb3ecb56119e0e45d644c225a8bd6756?impolicy=wcms_crop_resize&amp;cropH=1978&amp;cropW=3517&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d0123a07a49ed7c602e143c9e34b6a3a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
       },
-      "description": "The US president says European countries will be hit with tariffs until a deal is struck that would see the Danish territory become an American possession.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/greenland-trump-tariff-nato-downward-spiral/106242888"
+      "description": "As 2025 began, I thought humanity's biggest problem was climate change. In 2026, AI is more pressing.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/ai-grok-ethical-social-and-economic-nightmare/106242320"
+    },
+    {
+      "published_datetime": "2026-01-18T20:52:09.000000Z",
+      "title": "Live: Police providing update on boy mauled by 'large shark' at Sydney beach",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dae37fbae6b46689a97a6de6cf015cf4?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=59&amp;width=862&amp;height=485"
+      },
+      "description": "The boy was pulled aboard a vessel by water police officers  \"within minutes\" of the Triple Zero call being made.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/nsw-sydney-harbour-shark-attack-boy-update-beach/106243340"
+    },
+    {
+      "published_datetime": "2026-01-18T14:32:54.000000Z",
+      "title": "Trump asks Australia, Albanese to join Gaza 'Board of Peace'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/377ca7000827eda0247b953459eb75f2?impolicy=wcms_crop_resize&amp;cropH=1784&amp;cropW=3171&amp;xPos=0&amp;yPos=168&amp;width=862&amp;height=485"
+      },
+      "description": "The US president is pushing for the board to preserve a fragile ceasefire between Hamas and Israel and progress the peace deal to the next phase.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/australia-asked-to-join-trump-s-gaza-board-of-peace-/106242966"
     },
     {
       "published_datetime": "2026-01-18T19:17:46.000000Z",
@@ -64,6 +64,42 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/cuba-us-venezuela-trump-economic-crisis-migration/106231474"
     },
     {
+      "published_datetime": "2026-01-18T14:12:25.000000Z",
+      "title": "NATO allies warn Trump of 'dangerous downward spiral' over Greenland threats",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bb3ecb56119e0e45d644c225a8bd6756?impolicy=wcms_crop_resize&amp;cropH=1978&amp;cropW=3517&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
+      },
+      "description": "The US president says European countries will be hit with tariffs until a deal is struck that would see the Danish territory become an American possession.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/greenland-trump-tariff-nato-downward-spiral/106242888"
+    },
+    {
+      "published_datetime": "2026-01-18T19:15:36.000000Z",
+      "title": "Melbourne goes from among the most to least expensive capital cities",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d693b596eba5718aff44b7f0e5c9fbe2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=408&amp;width=862&amp;height=485"
+      },
+      "description": "Property analysts say a mix of economic conditions, policy settings and demographic shifts are among the reasons for the city's subdued dwelling price growth in the past five years.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/melbourne-house-prices-affordable-capital-city/106210992"
+    },
+    {
+      "published_datetime": "2026-01-18T19:57:20.000000Z",
+      "title": "ASX-listed company on brink of collapse buries whistleblower complaint",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fe0beb9f8d84a5701c4982d4771eb114?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+      },
+      "description": "An investigation into whistleblower allegations finds senior managers at a NSW coal mine were involved in a decision by the mine to award their own companies multi-million-dollar contracts.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/dartbrook-coal-mine-company-buries-whistleblower-report/106136748"
+    },
+    {
+      "published_datetime": "2026-01-18T20:22:55.000000Z",
+      "title": "Live: Wall Street flat, ASX on edge ahead of tariff threat fallout",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/243afdeb72b57081273fdf917bd143e4?impolicy=wcms_crop_resize&amp;cropH=1689&amp;cropW=3000&amp;xPos=0&amp;yPos=308&amp;width=862&amp;height=485"
+      },
+      "description": "The ASX is on edge after a renewed escalation on trade tensions between the US and Europe and ahead of key Chinese data. Follow the day's events and insights from our business reporters on the ABC News live markets blog. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/asx-markets-business-news-live-updates/106242752"
+    },
+    {
       "published_datetime": "2026-01-18T19:43:11.000000Z",
       "title": "Pentagon could deploy troops to Minnesota protests, US officials say",
       "featured_image": {
@@ -71,24 +107,6 @@
       },
       "description": "The possible deployment comes after US President Donald Trump threatened to invoke the Insurrection Act to quell anti-ICE protests in the state. ",
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/pentagon-readies-troops-for-minnesota-deployment/106243210"
-    },
-    {
-      "published_datetime": "2026-01-18T12:29:06.000000Z",
-      "title": "Williams gave fans an emotional evening in three-set loss",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f49d26052da1d97b057a23665a29fd1?impolicy=wcms_crop_resize&amp;cropH=1936&amp;cropW=3442&amp;xPos=0&amp;yPos=59&amp;width=862&amp;height=485"
-      },
-      "description": "Undisputed great of the sport Venus Williams was welcomed back to Melbourne Park with multiple standing ovations but bowed out in the first round to Serbian Olga Danilovic.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/venus-williams-first-round-loss-in-emotional-return/106242736"
-    },
-    {
-      "published_datetime": "2026-01-18T19:15:36.000000Z",
-      "title": "Gap between Melbourne and Sydney property prices at widest point in decades",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d693b596eba5718aff44b7f0e5c9fbe2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=408&amp;width=862&amp;height=485"
-      },
-      "description": "Property analysts say a mix of economic conditions, policy settings and demographic shifts are among the reasons for the city's subdued dwelling price growth in the past five years.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/melbourne-house-prices-affordable-capital-city/106210992"
     },
     {
       "published_datetime": "2026-01-18T07:58:32.000000Z",
@@ -100,13 +118,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-18/premier-letter-on-randa-abdel-fatah-at-writers-week-released/106241792"
     },
     {
-      "published_datetime": "2026-01-18T06:27:30.000000Z",
-      "title": "Boy critical after being bitten by large shark at Sydney Harbour beach",
+      "published_datetime": "2026-01-18T19:29:49.000000Z",
+      "title": "Five quick hits: Frustrated fans and an early contender for shot of the tournament",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dae37fbae6b46689a97a6de6cf015cf4?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=59&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/33dde7a5adfabcf64ae0ccf9ebb12e52?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=522&amp;width=862&amp;height=485"
       },
-      "description": "Emergency services were called to Hermitage Foreshore Walk near Shark Beach at Vaucluse about 4:20pm on Sunday afternoon following reports of a boy being bitten by a shark.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/shark-attack-boy-suffers-critical-injuries-vaucluse-east-sydney/106242502"
+      "description": "Fans were left queuing for hours after play started, Alexander Zverev got confused by a gate and Maria Sakkari smashed an insane shot. Here are the quick hits from the Australian Open.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/australian-open-2026-quick-hits/106242092"
     },
     {
       "published_datetime": "2026-01-18T09:51:39.000000Z",
@@ -118,6 +136,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-18/body-found-among-wreckage-of-plane-in-indonesia/106242700"
     },
     {
+      "published_datetime": "2026-01-18T19:40:22.000000Z",
+      "title": "Celebrity chef among the new faces at $800m Sydney Fish Market",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4ef6e91fd474002897b55c1721fff24b?impolicy=wcms_crop_resize&amp;cropH=1516&amp;cropW=2696&amp;xPos=0&amp;yPos=141&amp;width=862&amp;height=485"
+      },
+      "description": "It is perhaps the most expensive seafood centre of its kind, but just what can visitors expect from the new $800 million Sydney Fish Market?",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/what-to-know-about-new-sydney-fish-market/106225622"
+    },
+    {
       "published_datetime": "2026-01-18T18:30:00.000000Z",
       "title": "What psychologists have to say about the seven types of rest",
       "featured_image": {
@@ -127,31 +154,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/what-are-the-seven-types-of-rest/106076824"
     },
     {
-      "published_datetime": "2026-01-18T19:40:22.000000Z",
-      "title": "What you need to know about new Sydney Fish Market that opens today",
+      "published_datetime": "2026-01-18T19:45:05.000000Z",
+      "title": "Mother calls for worksite policy after son's death from extreme heat",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4ef6e91fd474002897b55c1721fff24b?impolicy=wcms_crop_resize&amp;cropH=1516&amp;cropW=2696&amp;xPos=0&amp;yPos=141&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/432f8b2f21e439d99003c043f39ee425?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "It is perhaps the most expensive seafood centre of its kind, but just what can visitors expect from the new $800 million Sydney Fish Market?",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/what-to-know-about-new-sydney-fish-market/106225622"
-    },
-    {
-      "published_datetime": "2026-01-18T19:02:49.000000Z",
-      "title": "The new event that's enticing Sam Short into ocean swimming",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/060544792adad66892f6e1828c2ac522?impolicy=wcms_crop_resize&amp;cropH=2269&amp;cropW=4033&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Sam Short will take on the country's best open water swimmers at the Australian Nationals this week, with a possible new event for Brisbane 2032 opening new opportunities for Australian gold.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/sam-short-to-swim-open-water-nationals/106232346"
-    },
-    {
-      "published_datetime": "2026-01-18T18:30:00.000000Z",
-      "title": "Quiz: Can you conquer this week's history questions?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/299af68cd5a77b7a009bce21f702e0c7?impolicy=wcms_crop_resize&amp;cropH=480&amp;cropW=854&amp;xPos=0&amp;yPos=95&amp;width=862&amp;height=485"
-      },
-      "description": "Trips to the moon and Mars, same-sex marriage and the first canned beer appear in this week's line-up.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/this-week-in-history-quiz/106239130"
+      "description": "It has been 13 years since Jenny Newport's son died from extreme heat while on a worksite in Queensland. She believes not much has changed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/calls-for-industry-standard-heat-policy-on-worksites/106234134"
     },
     {
       "published_datetime": "2026-01-18T19:18:27.000000Z",
@@ -172,13 +181,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/steve-smith-sam-curran-fire-sixers-to-bbl-finals/106242754"
     },
     {
-      "published_datetime": "2026-01-18T19:45:05.000000Z",
-      "title": "Mother calls for heat policy to protect workers 13 years after son's death",
+      "published_datetime": "2026-01-18T20:00:11.000000Z",
+      "title": "How a raging bushfire is mapped in 'near real time'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/432f8b2f21e439d99003c043f39ee425?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/21c5bc2433f85439408be2641ab6541c?impolicy=wcms_crop_resize&amp;cropH=1097&amp;cropW=1950&amp;xPos=1014&amp;yPos=477&amp;width=862&amp;height=485"
       },
-      "description": "It has been 13 years since Jenny Newport's son died from extreme heat while on a worksite in Queensland. She believes not much has changed.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/calls-for-industry-standard-heat-policy-on-worksites/106234134"
+      "description": "As the devastating fires in Victoria spread earlier this month, people at home could see how they were moving across the state — not just in videos on the news and social media, but on an interactive map.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/near-real-time-fire-mapping-victoria-vicemergency/106229148"
+    },
+    {
+      "published_datetime": "2026-01-18T20:31:33.000000Z",
+      "title": "New mayor says lived experience with disability 'actually a strength'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8efe0a82021d0d138273a561c41a94d?impolicy=wcms_crop_resize&amp;cropH=1134&amp;cropW=2016&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A new Victorian mayor is already challenging the way his council thinks about inclusivity.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/blind-mayor-hepburn-shire-council-tony-clark/106152536"
     },
     {
       "published_datetime": "2026-01-18T18:29:40.000000Z",
@@ -190,40 +208,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/unregulated-seahorse-trade-hampers-beauty-point-seahorse-world/106225110"
     },
     {
-      "published_datetime": "2026-01-17T22:51:49.000000Z",
-      "title": "Thousands without power amid NSW flooding, stormy weather and landslide",
+      "published_datetime": "2026-01-18T20:25:52.000000Z",
+      "title": "Fun and easy recipes kids can help with in the kitchen",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/549036bb7ee962b39d04f7bc63b2a2e8?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=960&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7dcda3a7014f0c79491bf51aeb1d8fac?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=460&amp;width=862&amp;height=485"
       },
-      "description": "The State Emergency Service responds to more than 2,300 incidents and 25 flood rescues, most of which involve people driving through floodwaters.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/flooding-heavy-rainfall-severe-weather-nsw-coast/106241644"
+      "description": "We’ve put together four recipes that are fun and easy enough for kids to help with.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/fun-and-easy-recipes-kids-can-help-with/106116250"
     },
     {
-      "published_datetime": "2026-01-18T05:00:08.000000Z",
-      "title": "Queensland stock losses to hit 100,000 as flood warnings continue",
+      "published_datetime": "2026-01-18T07:21:20.000000Z",
+      "title": "Great Britain edges Australia to win SailGP event in Perth",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4afba3d000b8b3355620a828cc3258c8?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6fc9cba0f1fd0edd3daf7f7df572a1c3?impolicy=wcms_crop_resize&amp;cropH=1945&amp;cropW=3457&amp;xPos=0&amp;yPos=180&amp;width=862&amp;height=485"
       },
-      "description": "Numerous flood warnings remain active across central Queensland, with ex-Tropical Cyclone Koji still driving floodwater through major catchments, while the premier met with graziers on Sunday to discuss massive stock losses.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/flood-warning-queensland-stock-losses/106242012"
-    },
-    {
-      "published_datetime": "2026-01-17T19:01:43.000000Z",
-      "title": "Liberal election autopsy delayed after Dutton suggests report defamatory",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cfb90791f48a00b7a7f3678e80b95f7d?impolicy=wcms_crop_resize&amp;cropH=4422&amp;cropW=7862&amp;xPos=0&amp;yPos=215&amp;width=862&amp;height=485"
-      },
-      "description": "The report, co-authored by Liberal grandees Pru Goward and Nick Minchin, has now been sent to a legal team to ensure it is watertight while the party decides what step to take next.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/peter-dutton-election-loss-liberal-party-report-delayed/106240876"
-    },
-    {
-      "published_datetime": "2026-01-17T18:39:19.000000Z",
-      "title": "Putin's 'worst-case scenario' could be realised in Iran regime change",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b06afa641fc6a1d7f2aa5d9680fc764a?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=67&amp;width=862&amp;height=485"
-      },
-      "description": "Tehran is the epicentre of the nightly protests shaking Iran's regime, but the reverberations are being felt loud and clear in Moscow, too.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/putin-wants-to-reshape-world-and-iran-is-vital-to-his-plan/106235534"
+      "description": "Reigning Sail Grand Prix champions Great Britain make the best possible start to season 2026, taking the win in Fremantle with a strong two-day performance culminating with victory in Sunday's final.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-18/sailgp-perth-great-britain-beats-australia-fremantle/106242568"
     }
   ]
 }
