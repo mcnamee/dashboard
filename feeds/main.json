@@ -2,29 +2,20 @@
   "items": [
     {
       "published_datetime": "2026-01-18T22:00:30.000000Z",
-      "title": "Breaking: At least five dead, 25 injured after two high-speed trains derailed in Spain",
+      "title": "At least 21 dead after two high-speed trains derailed in Spain",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dcba77962a9f2cc3ebca7e267bb27bab?impolicy=wcms_crop_resize&amp;cropH=594&amp;cropW=1056&amp;xPos=0&amp;yPos=686&amp;width=862&amp;height=485"
       },
-      "description": "At least five people have died and 25 others are severely injured after two high-speed trains derailed in southern Spain, local emergency services say.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/at-least-five-dead-after-high-speed-trains-derailed-in-spain/106243428"
-    },
-    {
-      "published_datetime": "2026-01-18T21:45:38.000000Z",
-      "title": "Breaking: Two injured in suburban Adelaide shooting, police say",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/05bf342c132971636124e3d056fbe503?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "SA Police say paramedics are currently at a home in Huntfield Heights treating two people with gunshot injuries, which are not believed to be life-threatening.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/two-injured-in-shooting-in-adelaide-southern-suburbs/106243568"
+      "description": "At least 21 people have died and 25 others are severely injured after two high-speed trains derailed in southern Spain, local authorities say.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/at-least-21-dead-after-high-speed-trains-derailed-in-spain/106243428"
     },
     {
       "published_datetime": "2026-01-18T20:52:09.000000Z",
-      "title": "'Brave recovery': Police praise friends of Sydney boy mauled by 'large shark'",
+      "title": "'Brave recovery': Friends praised for Sydney boy's shark attack response",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dae37fbae6b46689a97a6de6cf015cf4?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=59&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d634cdf152c5fbb473da5953f525440f?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Police say the boy was pulled aboard a vessel by water police officers \u00a0\"within minutes\" of the Triple Zero call being made.",
+      "description": "Police say the boy was pulled aboard a vessel by water police officers \"within minutes\" of the Triple Zero call being made.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/nsw-sydney-harbour-shark-attack-boy-update-beach/106243340"
     },
     {
@@ -77,6 +68,15 @@
       },
       "description": "Property analysts say a mix of economic conditions, policy settings and demographic shifts are among the reasons for the city's subdued dwelling price growth in the past five years.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/melbourne-house-prices-affordable-capital-city/106210992"
+    },
+    {
+      "published_datetime": "2026-01-18T19:10:28.000000Z",
+      "title": "Life in Cuba is about to get harder as Trump threatens oil supply",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ab7ed7a792829a0ac16a939bb9a568e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=522&amp;width=862&amp;height=485"
+      },
+      "description": "Many experts are predicting life in Cuba is about to get even harder.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/cuba-us-venezuela-trump-economic-crisis-migration/106231474"
     },
     {
       "published_datetime": "2026-01-18T19:01:31.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-18T22:12:47.355674"
+  "merged_at": "2026-01-18T23:13:11.085277"
 }
