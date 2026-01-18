@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-18T07:58:32.000000Z",
+      "title": "Author's appearance would cause 'legitimate public ridicule', premier told board",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/522af0b172684890178f64b28f168e43?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "South Australia's premier told the Adelaide Festival board it would open itself to \"accusations of hypocrisy\" and \"legitimate public ridicule\" if it did not cancel the appearance of Randa Abdel-Fattah from Writers' Week.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-18/premier-letter-on-randa-abdel-fatah-at-writers-week-released/106241792"
+    },
+    {
       "published_datetime": "2026-01-18T06:27:30.000000Z",
       "title": "Boy in critical condition after shark attack at Sydney Harbour beach",
       "featured_image": {
@@ -41,15 +50,6 @@
       "audio_url": "",
       "url": "eu-calls-emergency-meeting-ove-jwin0js5SYeLM5aYJMMJGg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-18T01:50:47.000000Z",
-      "title": "Status of hate laws remains uncertain as politicians converge on Canberra",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1deb55bdd2fe42cd466c826426bf42a1?impolicy=wcms_crop_resize&amp;cropH=2553&amp;cropW=4538&amp;xPos=0&amp;yPos=237&amp;width=862&amp;height=485"
-      },
-      "description": "A special sitting to respond to the Bondi terror attack will begin in Canberra on Monday, but the government is no closer to landing changes to hate laws.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-18/status-of-hate-laws-uncertain-ahead-of-parliamentary-sitting/106242028"
     },
     {
       "published_datetime": "2026-01-17T23:22:43.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-18T07:26:27.014913"
+  "merged_at": "2026-01-18T08:17:19.838695"
 }
