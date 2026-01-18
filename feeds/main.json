@@ -28,6 +28,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-18/flooding-heavy-rainfall-severe-weather-nsw-coast/106241644"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ba683c33-9443-4cfb-a260-7a527307b6a2",
+      "published_datetime": "2026-01-17T22:50:59.574662",
+      "title": "EU lawmakers move to freeze US trade deal after Trump tariffs",
+      "featured_image": {
+        "url": "https://www.bloomberg.com/news/articles/2026-01-17/eu-set-to-halt-us-trade-deal-over-trump-s-latest-tariff-threat",
+        "name": "EU Set to Halt US Trade Deal Over Trump's New Tariff Threat ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--xIwDaOhm--/t_limit/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i73poNj8ag5I/v1/-1x-1.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--QaLHUKKM--/t_thumbnail/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i73poNj8ag5I/v1/-1x-1.webp"
+      },
+      "description": "European Union lawmakers are poised to freeze approval of the EU-US trade deal after President Donald Trump announced tariffs on eight NATO allies Saturday in his latest bid to acquire Greenland. The move marks a dramatic escalation in transatlantic tensions, jeopardizing the landmark agreement struck just six months ago.\n\nManfred Weber, president of the European People's Party\u2014the largest political faction in the European Parliament\u2014declared that proceeding with the trade deal is no longer feasible. \"The EPP is in favor of the EU-US trade deal, but given Donald Trump's threats regarding Greenland, approval is not possible at this stage,\" Weber posted on social media Saturday, adding that \"zero tariffs on US products must now be put on hold.\"[1][2][3]",
+      "audio_url": "",
+      "url": "eu-halts-us-trade-deal-approva-Ibq3iLbcSzGJ54hUAhhSug",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/43ad39f8-f2c3-4d47-a2fc-2ba878a192e1",
       "published_datetime": "2026-01-17T22:40:45.079135",
       "title": "Trump asks countries to pay $1 billion for permanent peace board seats",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d4a0554a-3f30-4876-a826-b9c4894ac093",
-      "published_datetime": "2026-01-16T23:35:16.268668",
-      "title": "Malaysia says Grok ban won't lift until X proves misuse 'will no longer occur'",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2026/1/12/malaysia-blocks-musks-grok-amid-uproar-over-non-consensual-sexual-images",
-        "name": "Malaysia blocks Grok amid uproar over nonconsensual sexualised ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--q86Ek8O8--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/01/AFP__20250116__36U737B__v1__MidRes__FranceTechnologyAiGrok-1768206919.jpg%3Fresize%3D1920%252C1280%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Xe8ZvFoC--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/01/AFP__20250116__36U737B__v1__MidRes__FranceTechnologyAiGrok-1768206919.jpg%3Fresize%3D1920%252C1280%26quality%3D80"
-      },
-      "description": "Malaysia and Indonesia have become the first countries in the world to block access to Elon Musk's AI chatbot Grok after regulators determined the tool was being used to generate sexually explicit and nonconsensual deepfake images, including content depicting women and minors.\n\nIndonesia's Ministry of Communication and Digital Affairs ordered restrictions on January 10, with Malaysia's Communications and Multimedia Commission following on January 11. The bans came after officials in both countries concluded that safeguards implemented by xAI, the company behind Grok, had failed to stop the spread of obscene content on X, the social media platform formerly known as Twitter.[1][2][3][4][5]",
-      "audio_url": "",
-      "url": "malaysia-and-indonesia-block-g-52YkM94VTFeQ2idrFnsBHA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-18T01:08:39.573993"
+  "merged_at": "2026-01-18T02:26:30.340271"
 }
