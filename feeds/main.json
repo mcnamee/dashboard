@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-19T22:57:58.000000Z",
+      "title": "Morocco accepts Trump's invite to 'peace' board as Putin yet to decide",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cfcc04be89669803e283246964346766?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=32&amp;width=862&amp;height=485"
+      },
+      "description": "Morocco's King Mohammed VI is the latest leader to accept an invitation to join US President Donald Trump's so-called \"Board of Peace\", as Russian President Vladimir Putin weighs up his invitation.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/morocco-accepts-trump-invite-to-peace-board-putin-yet-to-decide/106247306"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bfce12a8-a7ce-4464-b161-a15f17c888c5",
       "published_datetime": "2026-01-19T20:16:50.187442",
       "title": "Trump to meet with global CEOs after Davos keynote address",
@@ -95,7 +104,7 @@
     },
     {
       "published_datetime": "2026-01-19T18:51:45.000000Z",
-      "title": "China's population drops for fourth year as fewer babies born",
+      "title": "China's birth rate has hit a record low. Experts say it spells long-term trouble",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9c35dd971375e37f56fe9855ed702d52?impolicy=wcms_crop_resize&amp;cropH=2553&amp;cropW=4538&amp;xPos=462&amp;yPos=778&amp;width=862&amp;height=485"
       },
@@ -104,21 +113,12 @@
     },
     {
       "published_datetime": "2026-01-19T18:51:41.000000Z",
-      "title": "China ramps up crackdown on 'underground' Christian churches",
+      "title": "Chinese Christians defiant in face of renewed official crackdown",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/55638d561425430c1e2812fee65045b8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Dozens of church leaders and members have been arrested in China in recent months, which advocates say is indicative of intensifying persecution.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/china-ramps-up-crackdown-on-underground-christian-churches/106228908"
-    },
-    {
-      "published_datetime": "2026-01-19T18:05:21.000000Z",
-      "title": "Swimmers urged to check pollution in Port Phillip Bay before diving in",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4ff6dc4ca202aea5b695b2e7a1128161?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=442&amp;width=862&amp;height=485"
-      },
-      "description": "Victoria's Environment Protection Authority says people wanting to cool off at bay beaches this summer should stay across its regular pollution updates.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-20/port-phillip-bay-water-quality-summer-beach-reports-epa/106158836"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dfab81ce-98b6-46e6-b83e-a39035a49082",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-19T22:14:13.699640"
+  "merged_at": "2026-01-19T23:13:24.090557"
 }
