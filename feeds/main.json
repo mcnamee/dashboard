@@ -1,17 +1,74 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-19T00:41:51.000000Z",
+      "title": "Woman found dead on K'gari beach",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7306b88c40fe88809999dae5893b73f3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Police are investigating the death of a woman found unresponsive on the popular Queensland tourist island.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/police-investigating-death-of-woman-on-kgari-fraser-island/106244106"
+    },
+    {
+      "published_datetime": "2026-01-19T00:02:59.000000Z",
+      "title": "Australia's 48 billionaires wealthier than bottom 40pc combined, Oxfam finds",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/01a457437a61cb3f467afe0e365c55ec?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Oxfam Australia is calling on the federal government to tax the super rich to help tackle growing inequality, as billionaires grow their wealth by more than half a million a day on average.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/income-inequality-oxfam-report-calls-to-tax-billionaires/106236612"
+    },
+    {
+      "published_datetime": "2026-01-18T23:12:53.000000Z",
+      "title": "Live: Aus Open organisers pledge extra resources to avoid more crowd issues",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a5ccb3bbc4f0f7c18d8f89ae93ea866f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "Nine Australians are playing on day two of their home grand slam, with Alex de Minaur second on centre court, as Tennis Australia hopes to avoid more crowd issues. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/australian-open-2026-live-alex-de-minaur-novak-djokovic/106243798"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/16b713c5-d9da-44dc-8cc2-237c1924db0c",
+      "published_datetime": "2026-01-18T22:07:29.224788",
+      "title": "Syrian government, Kurdish forces agree ceasefire after rapid advance",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/liveblog/2026/1/18/syria-fighting-live-sdf-braces-for-raqqa-assault-as-govt-troops-march-on",
+        "name": "Syria live: Government, SDF agree on immediate ceasefire \u2013 State media",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--G1msYHTV--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-18T151711Z_2030713871_RC2P3JAXM7RY_RTRMADP_3_SYRIA-SECURITY-KURDS-1768750044.jpg%3Fresize%3D730%252C410%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ViNOA4F1--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-18T151711Z_2030713871_RC2P3JAXM7RY_RTRMADP_3_SYRIA-SECURITY-KURDS-1768750044.jpg%3Fresize%3D730%252C410%26quality%3D80"
+      },
+      "description": "The Syrian government and the U.S.-backed Syrian Democratic Forces reached a ceasefire agreement on Sunday following days of intense combat that saw government troops rapidly advance through Kurdish-held territories in the country's north and east, seizing strategic oil fields and key cities.\n\nSyrian President Ahmed al-Sharaa and SDF commander Mazloum Abdi signed the 14-point accord, which state media described as an \"immediate and comprehensive\" halt to hostilities across all fronts. The agreement marks a watershed moment in Damascus's efforts to reassert control over nearly all of Syria following the toppling of Bashar Assad in December 2024.[1][2][3]",
+      "audio_url": "",
+      "url": "syrian-government-and-sdf-agre-gUTQ3bTgRmOQuE.Dp_3GjQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-18T22:00:30.000000Z",
       "title": "At least 21 dead after two high-speed trains derailed in Spain",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dcba77962a9f2cc3ebca7e267bb27bab?impolicy=wcms_crop_resize&amp;cropH=594&amp;cropW=1056&amp;xPos=0&amp;yPos=686&amp;width=862&amp;height=485"
       },
       "description": "At least 21 people have died and 25 others are severely injured after two high-speed trains derailed in southern Spain, local authorities say.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/at-least-21-dead-after-high-speed-trains-derailed-in-spain/106243428"
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/many-dead-after-high-speed-trains-derailed-in-spain/106243428"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8be1d186-221e-4f09-8b48-9d4d13b85996",
+      "published_datetime": "2026-01-18T21:56:33.815748",
+      "title": "Starmer tells Trump tariffs on NATO allies over Greenland are wrong",
+      "featured_image": {
+        "url": "https://news.sky.com/video/starmer-says-trumps-tariff-move-over-greenland-is-completely-wrong-13495646",
+        "name": "Sir Keir Starmer has responded after Donald Trump set out how he plans to  impose tariffs on eight European countries - including the UK - over  Greenland.",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--xU5U2Gc_--/t_limit/https://e3.365dm.com/25/10/768x432/skynews-donald-trump-keir-starmer_7050224.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--nQmRpgOL--/t_thumbnail/https://e3.365dm.com/25/10/768x432/skynews-donald-trump-keir-starmer_7050224.jpg"
+      },
+      "description": "UK Prime Minister Keir Starmer directly challenged President Donald Trump on Sunday, telling him in a phone call that imposing tariffs on NATO allies over Greenland is \"wrong.\" The conversation came one day after Trump announced sweeping tariffs against eight European nations in his latest effort to pressure Denmark into selling the Arctic territory.\n\nAccording to an official Downing Street statement, Starmer spoke with Trump after first coordinating with Danish Prime Minister Mette Frederiksen, European Commission President Ursula von der Leyen, and NATO Secretary-General Mark Rutte. \"He said that security in the High North is a priority for all NATO allies in order to protect Euro-Atlantic interests,\" Downing Street said. \"He also said that applying tariffs on allies for pursuing the collective security of NATO allies is wrong.\"[1]",
+      "audio_url": "",
+      "url": "starmer-tells-trump-greenland-NUHKRiOaSJKzQjbZRJcg4w",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-18T20:52:09.000000Z",
-      "title": "'Brave recovery': Friends praised for Sydney boy's shark attack response",
+      "title": "Rain event helped create 'perfect storm' for shark attack, authorities say",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d634cdf152c5fbb473da5953f525440f?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -35,7 +92,7 @@
     },
     {
       "published_datetime": "2026-01-18T20:02:06.000000Z",
-      "title": "Live: Parliament returns to pay tribute to victims of Bondi terror attack",
+      "title": "Live: PM warns he will walk away from hate speech laws if not passed tomorrow",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eee641edcd3d565988ba86eac0c1f422?impolicy=wcms_crop_resize&amp;cropH=3056&amp;cropW=5432&amp;xPos=166&amp;yPos=242&amp;width=862&amp;height=485"
       },
@@ -59,24 +116,6 @@
       },
       "description": "The parents of 10-year-old Matilda, the youngest victim of the Bondi terror attack, recall the final moments leading up to the shooting, paying tribute to the woman who saved their younger daughter.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/parents-bondi-terror-attack-youngest-victim-matilda-speak-out/106240460"
-    },
-    {
-      "published_datetime": "2026-01-18T19:15:36.000000Z",
-      "title": "Melbourne goes from among the most to least expensive capital cities",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d693b596eba5718aff44b7f0e5c9fbe2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=408&amp;width=862&amp;height=485"
-      },
-      "description": "Property analysts say a mix of economic conditions, policy settings and demographic shifts are among the reasons for the city's subdued dwelling price growth in the past five years.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/melbourne-house-prices-affordable-capital-city/106210992"
-    },
-    {
-      "published_datetime": "2026-01-18T19:10:28.000000Z",
-      "title": "Life in Cuba is about to get harder as Trump threatens oil supply",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ab7ed7a792829a0ac16a939bb9a568e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=522&amp;width=862&amp;height=485"
-      },
-      "description": "Many experts are predicting life in Cuba is about to get even harder.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/cuba-us-venezuela-trump-economic-crisis-migration/106231474"
     },
     {
       "published_datetime": "2026-01-18T19:01:31.000000Z",
@@ -142,15 +181,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/australia-asked-to-join-trump-s-gaza-board-of-peace-/106242966"
     },
     {
-      "published_datetime": "2026-01-18T14:12:25.000000Z",
-      "title": "NATO allies warn Trump of 'dangerous downward spiral' over Greenland threats",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bb3ecb56119e0e45d644c225a8bd6756?impolicy=wcms_crop_resize&amp;cropH=1978&amp;cropW=3517&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
-      },
-      "description": "The US president says European countries will be hit with tariffs until a deal is struck that would see the Danish territory become an American possession.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/greenland-trump-tariff-nato-downward-spiral/106242888"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/376964b6-2850-4f4a-b30d-d5080fb5724a",
       "published_datetime": "2026-01-18T10:39:15.041103",
       "title": "UN report: Global power demand to surge by 2035 as AI strains grids",
@@ -208,36 +238,6 @@
       "description": "The Trump administration is asking countries that want a permanent spot on President Donald Trump's new Board of Peace to contribute at least $1 billion, according to a draft charter of the body sent to world leaders this weekend.[1][2]\n\nThe provision, outlined in the charter distributed alongside invitation letters on Friday, effectively creates a two-tier membership structure. Countries that contribute $1 billion or more in cash funds to the Board of Peace would be exempt from the standard three-year membership term, securing them a permanent seat on the panel.[2]",
       "audio_url": "",
       "url": "trump-wants-nations-to-pay-1-b-juzl8dT9Sj2TkEURIgx_zA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0c4a85a2-d0b1-40b9-8b95-739945c37acd",
-      "published_datetime": "2026-01-17T21:58:24.830989",
-      "title": "Thousands protest Trump's Greenland push in Denmark, Arctic",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/europe/protesters-denmark-support-greenland-after-trumps-takeover-threat-2026-01-17/",
-        "name": "Protesters in Denmark support Greenland after Trump's takeover threat",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--S2LgMuxL--/t_limit/https://www.reuters.com/resizer/v2/2RVQDW52LFKXXCGL4SQEWUU73Q.jpg%3Fauth%3D26a90eab0c3121481607a96bef3fbf016fee107b66b32a8d917136810da0180c%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--T2DcZOgY--/t_thumbnail/https://www.reuters.com/resizer/v2/2RVQDW52LFKXXCGL4SQEWUU73Q.jpg%3Fauth%3D26a90eab0c3121481607a96bef3fbf016fee107b66b32a8d917136810da0180c%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Thousands of demonstrators took to the streets across Denmark and Greenland on Saturday, January 17, 2026, in a forceful rejection of President Donald Trump's escalating campaign to acquire the Arctic territory. The protests came hours after Trump announced sweeping tariffs on eight European nations opposing his push, deepening an unprecedented diplomatic rift between NATO allies.",
-      "audio_url": "",
-      "url": "mass-protests-erupt-in-denmark-XkvSYtmpQJGgxPwEjQ.tUw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e7b4e836-6a67-4d84-b270-f5b7a366df08",
-      "published_datetime": "2026-01-17T20:31:27.118711",
-      "title": "Macron slams Trump's Greenland tariff threats, vows united EU response",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/europe/macron-says-trump-tariff-threat-over-greenland-unacceptable-2026-01-17/",
-        "name": "Macron says Trump tariff threat over Greenland unacceptable",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Bj8bWNXo--/t_limit/https://www.reuters.com/resizer/v2/Q275TYSCINN2TAXAT5BFEEVKHU.jpg%3Fauth%3Dcd71b39a44d76a4acdf3a0d092311bf61aaf02c57d682c0bfaf0baaec61fa4db%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--XakogIrh--/t_thumbnail/https://www.reuters.com/resizer/v2/Q275TYSCINN2TAXAT5BFEEVKHU.jpg%3Fauth%3Dcd71b39a44d76a4acdf3a0d092311bf61aaf02c57d682c0bfaf0baaec61fa4db%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "French President Emmanuel Macron responded forcefully on Saturday to U.S. President Donald Trump's announcement of sweeping tariffs on eight European countries, declaring that \"no intimidation or threat will influence us\" and promising a united European response to what he called an unacceptable escalation.\n\nThe sharp rebuke came hours after Trump announced on Truth Social that Denmark, Norway, Sweden, France, Germany, the United Kingdom, the Netherlands, and Finland would face a 10 percent tariff on all goods exported to the United States starting February 1, rising to 25 percent on June 1. The levies would remain in place \"until such time as a Deal is reached for the Complete and Total purchase of Greenland,\" Trump said.[1][2][3][4]",
-      "audio_url": "",
-      "url": "macron-calls-trump-greenland-t-v9FG.Uj1Sgqsihmx2zB7wA",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-18T23:13:11.085277"
+  "merged_at": "2026-01-19T01:07:49.936829"
 }
