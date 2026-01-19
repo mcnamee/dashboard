@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-19T06:15:17.000000Z",
+      "title": "'I forgive these people': Bondi survivor's remarkable act after massacre",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2140cb13b6b790f9a83e14f3b1dcc30e?impolicy=wcms_crop_resize&amp;cropH=2278&amp;cropW=4050&amp;xPos=0&amp;yPos=200&amp;width=862&amp;height=485"
+      },
+      "description": "Ya'akov Tetleroyd's father died in the Bondi Beach shootings. He nearly lost his arm as a result of being shot, yet he told 7.30 in an exclusive interview that he forgives the gunmen.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/bondi-terror-survivor-yaakov-tetleroyd-speaks-naveed-akram/106238196"
+    },
+    {
       "published_datetime": "2026-01-19T03:58:49.000000Z",
       "title": "Young surfer uninjured after shark bites board at Sydney beach",
       "featured_image": {
@@ -11,12 +20,27 @@
     },
     {
       "published_datetime": "2026-01-19T03:36:49.000000Z",
-      "title": "Greenland tensions escalate as US threatens tariffs over European troops",
+      "title": "'Now it is time': Trump's Greenland threats grow after Europe sends troops",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a072416672e7589d8384b32fbabade5?impolicy=wcms_crop_resize&amp;cropH=1854&amp;cropW=3296&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
       },
       "description": "Tensions between the United States and Greenland's allies reach a new high, with threats of increasing tariffs after European troops were sent to the island.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/us-tariff-threats-european-troops-sent-to-greenland/106243860"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bbb39aa5-4368-47e4-8148-dc41c7925dc3",
+      "published_datetime": "2026-01-19T03:03:08.026564",
+      "title": "Two trains collide in Spain, killing at least 21",
+      "featured_image": {
+        "url": "https://www.gamereactor.eu/high-speed-train-crash-in-southern-spain-leaves-at-least-seven-dead-1662523/",
+        "name": "High-speed train crash in southern Spain leaves at least ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--0GVOA2VT--/t_limit/https://www.gamereactor.eu/media/61/_4786153b.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--TYu83P5K--/t_thumbnail/https://www.gamereactor.eu/media/61/_4786153b.jpg"
+      },
+      "description": "At least 21 people were killed and up to 100 injured when two high-speed trains collided in southern Spain on Sunday evening after one derailed and crossed into the path of an oncoming service, prompting authorities to suspend all rail traffic between Madrid and the Andalusia region.\n\nThe crash occurred at approximately 6:40 p.m. local time near the town of Adamuz in C\u00f3rdoba province when an Iryo train traveling from M\u00e1laga to Madrid derailed and struck a Renfe train heading from Madrid to Huelva, according to Spanish rail network operator Adif. Both trains were carrying hundreds of passengers\u2014roughly 300 on the Iryo service and around 100 to 200 on the Renfe train.[1][2][3][4]\n\nSpain's Transport Minister \u00d3scar Puente confirmed the death toll after midnight, stating that all survivors had been rescued from the wreckage. Among those killed was the driver of the Renfe train, according to state broadcaster Televisi\u00f3n Espa\u00f1ola. Officials said 25 of the injured sustained serious wounds, with 73 passengers transported to six different hospitals.[2][5][6][4][7]",
+      "audio_url": "",
+      "url": "spain-train-crash-kills-21-in-QLAfyx4OTze_otHnVJEOZA",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-19T02:23:19.000000Z",
@@ -52,15 +76,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-19T01:10:36.000000Z",
-      "title": "Matilda's parents say they saw 'non-stop antisemitism' before Bondi attack",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fe2c2cd76d731879edc9d5b6581c9253?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "In their first wide-ranging interview, the parents of 10-year-old Matilda, the youngest victim of the Bondi attack, say the federal government's hate laws offer little reassurance that another terror attack will be prevented.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/matilda-parents-bondi-beach-hate-speech-laws/106241800"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8c8ebce6-113c-4457-959e-73565effa8e1",
       "published_datetime": "2026-01-19T00:26:21.597796",
       "title": "Sequoia backs Anthropic, breaking VC tradition on rival bets",
@@ -81,12 +96,12 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/01a457437a61cb3f467afe0e365c55ec?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Oxfam Australia is calling on the federal government to tax the super rich to help tackle growing inequality, as billionaires grow their wealth by more than half a million a day on average.",
+      "description": "Oxfam Australia is calling on the federal government to tax the super-rich to help tackle growing inequality, as billionaires grow their wealth by more than half a million a day on average.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/income-inequality-oxfam-report-calls-to-tax-billionaires/106236612"
     },
     {
       "published_datetime": "2026-01-18T23:12:53.000000Z",
-      "title": "Live: De Minaur wins, Aussie wildcard's opponent forced off in wheelchair",
+      "title": "Live: Vukic defeat ends Australia's perfect start to day two",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/758b6c00d00f2404d0c7c3befc6d3616?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=271&amp;width=862&amp;height=485"
       },
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/04381e3e-3c99-448e-a0a1-b63c62138c5f",
-      "published_datetime": "2026-01-18T02:14:46.834804",
-      "title": "EU calls emergency meeting after Trump tariff threat over Greenland",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/europe/eu-warns-downward-spiral-after-trump-threatens-tariffs-over-greenland-2026-01-17/",
-        "name": "EU warns of downward spiral after Trump threatens tariffs ... - Reuters",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--cIN-UQe6--/t_limit/https://www.reuters.com/resizer/v2/35TURRJKS5OOPAB6Q2NLOWITQA.jpg%3Fauth%3D9357ab30f7046186c9c8ae998283aae191725346ad13be364fabcc03d3224df7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--eJ-T8RWC--/t_thumbnail/https://www.reuters.com/resizer/v2/35TURRJKS5OOPAB6Q2NLOWITQA.jpg%3Fauth%3D9357ab30f7046186c9c8ae998283aae191725346ad13be364fabcc03d3224df7%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Ambassadors from the European Union's 27 member states will convene for an emergency meeting on Sunday after U.S. President Donald Trump announced a wave of escalating tariffs on European allies over their opposition to the American acquisition of Greenland, an unprecedented move that threatens to fracture the transatlantic alliance and ignite a new trade war.\n\nCyprus, which holds the EU's six-month rotating presidency, called the urgent session late Saturday, with diplomats indicating it is scheduled to begin at 5 p.m. GMT. European Council President Ant\u00f3nio Costa confirmed he is coordinating a collective response from member states, stating, \"The EU will maintain its stance on upholding international law, wherever it is applicable\".[1][2][3]",
-      "audio_url": "",
-      "url": "eu-calls-emergency-meeting-ove-jwin0js5SYeLM5aYJMMJGg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-19T05:25:39.455639"
+  "merged_at": "2026-01-19T06:26:43.806045"
 }
