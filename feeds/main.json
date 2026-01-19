@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bfce12a8-a7ce-4464-b161-a15f17c888c5",
+      "published_datetime": "2026-01-19T20:16:50.187442",
+      "title": "Trump to meet with global CEOs after Davos keynote address",
+      "featured_image": {
+        "url": "https://www.reuters.com/business/davos/trump-meet-global-ceos-davos-with-us-policy-focus-2026-01-19/",
+        "name": "Trump to meet global CEOs in Davos, with US policy in spotlight",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--M0UIwLF7--/t_limit/https://www.reuters.com/resizer/v2/OWWQ7U7VOFLQBJPNGSMAINWUC4.jpg%3Fauth%3D4afe85d964f8d233f56aee32fd27df27581023b728034f58145d353a9bb1cb9b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--iFOpXrmX--/t_thumbnail/https://www.reuters.com/resizer/v2/OWWQ7U7VOFLQBJPNGSMAINWUC4.jpg%3Fauth%3D4afe85d964f8d233f56aee32fd27df27581023b728034f58145d353a9bb1cb9b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Business executives attending this week's World Economic Forum received an unexpected invitation on Monday: President Donald Trump wants to meet with them after his Wednesday keynote address in Davos, Switzerland.\n\nThe U.S. president plans to convene a group of corporate executives following his speech at the forum, according to Reuters and Semafor, though the agenda remains unclear. The invitations, which originated from the White House, sent corporate staffers scrambling to rework schedules that had been months in the making.[1][2]",
+      "audio_url": "",
+      "url": "trump-to-meet-global-ceos-at-2-2xsn8SLCQveGVXZS5BWE8A",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-19T19:51:33.000000Z",
       "title": "Live: Labor 'really close' to deal on hate speech reforms: Burke",
       "featured_image": {
@@ -28,6 +43,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/box-hill-north-fc-womens-captain-leaves-club-after-men-behaviour/106190266"
     },
     {
+      "published_datetime": "2026-01-19T19:23:10.000000Z",
+      "title": "Dissecting Donald Trump's text to Norway's prime minister",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9d1e33ccd484caa662cec6faa6bd4ab7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "President Donald Trump has sent a text message to Norwegian Prime Minister Jonas Gahr St\u00f8re saying he \"no longer [feels] an obligation to think purely of Peace\" after being denied the Nobel Peace Prize. We've analysed the rest of the US president's claims to see if they stack up.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/donald-trump-greenland-message-analysed-line-by-line/106246964"
+    },
+    {
       "published_datetime": "2026-01-19T19:06:14.000000Z",
       "title": "First Nations woman asked about eating ants takes department to court",
       "featured_image": {
@@ -44,6 +68,21 @@
       },
       "description": "A public policy shark expert says sewage leaking into the harbour after heavy rainfall is attracting bait fish followed by sharks.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/sydney-harbour-shark-risk-not-clear-sewage-attracts-fish/106245214"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a756581c-d9c5-4956-85e6-a5fe90ca9ac9",
+      "published_datetime": "2026-01-19T18:55:04.716427",
+      "title": "German Chancellor Merz seeks Trump meeting at Davos over Greenland",
+      "featured_image": {
+        "url": "https://www.bgnes.com/politics/merz-to-meet-trump-in-davos-to-avoid-escalation-in-trade-relations",
+        "name": "Merz to Meet Trump in Davos to Avoid Escalation in Trade ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--gSdNgxft--/t_limit/https://www.bgnes.com/static/images/news/2026/01/19/16440/1280X720-15147.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--fbxnVtRx--/t_thumbnail/https://www.bgnes.com/static/images/news/2026/01/19/16440/1280X720-15147.webp"
+      },
+      "description": "German Chancellor Friedrich Merz announced Monday he will attempt to meet with President Donald Trump at the World Economic Forum in Davos this week to defuse escalating tensions over Greenland, as Europe prepares potential countermeasures against threatened U.S. tariffs.\n\nSpeaking at a press conference in Berlin, Merz said European nations that expressed solidarity with Denmark want to prevent the dispute from spiraling further. \"We will have the opportunity this week in Davos to discuss this in various meetings. I will try to meet with President Trump on Wednesday,\" Merz said. Trump is scheduled to deliver a special address at the forum on January 21.[1][2]",
+      "audio_url": "",
+      "url": "german-chancellor-merz-seeks-t-sgyePYIlQsOYSN5ZTvt5NA",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-19T18:53:53.000000Z",
@@ -78,7 +117,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4ff6dc4ca202aea5b695b2e7a1128161?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=442&amp;width=862&amp;height=485"
       },
-      "description": "Victoria's Environment Protection Authority says people wanting to cool off at Port Phillip Bay beaches this summer should stay across its regular pollution updates.\u00a0",
+      "description": "Victoria's Environment Protection Authority says people wanting to cool off at bay beaches this summer should stay across its regular pollution updates.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/port-phillip-bay-water-quality-summer-beach-reports-epa/106158836"
     },
     {
@@ -202,45 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c6e05b7e-0257-4925-9433-c57ca487a51c",
-      "published_datetime": "2026-01-19T16:53:05.490091",
-      "title": "Putin invited to join Trump's 'Board of Peace' as 60 nations weigh membership",
-      "featured_image": {
-        "url": "https://www.foxnews.com/world/putin-issues-formal-demands-end-ukraine-war-after-meeting-trump-report",
-        "name": "Putin issues formal demands to end Ukraine war after meeting with Trump:  report",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--icIQukPn--/t_limit/https://static.foxnews.com/foxnews.com/content/uploads/2025/08/putin-peace-talks.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--D8ymxsQg--/t_thumbnail/https://static.foxnews.com/foxnews.com/content/uploads/2025/08/putin-peace-talks.jpg"
-      },
-      "description": "The Kremlin announced Monday that Russian President Vladimir Putin has received an invitation to join U.S. President Donald Trump's \"Board of Peace,\" with Moscow saying it is studying the proposal and hopes for further contacts with Washington.[1][2]\n\nThe invitation to Putin comes as Trump has dispatched letters to approximately 60 world leaders asking them to become founding members of the new international body, which he will chair for life. Initially conceived to oversee governance and reconstruction in post-war Gaza, the board's draft charter indicates aspirations for a broader mandate addressing global conflicts.[3][4][5][6]",
-      "audio_url": "",
-      "url": "trump-invites-putin-and-60-nat-UmcTaQqhT2KgG_YPcduJaw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3d76900d-2c41-4e5d-a9e3-7c9833c7f87a",
-      "published_datetime": "2026-01-19T16:45:40.954051",
-      "title": "EU weighs first use of 'trade bazooka' against Trump tariffs",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/01/19/europe-retaliatory-tariffs-aci-greenland-trump-threat-us.html",
-        "name": "Europe weighs using trade 'bazooka' against the U.S. as Greenland ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--U8V5E6hr--/t_limit/https://image.cnbcfm.com/api/v1/image/108253936-1768812919028-gettyimages-2256239146-berg-greenlan260117_npf6x.jpeg%3Fv%3D1768812948%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ZWGgE-HF--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108253936-1768812919028-gettyimages-2256239146-berg-greenlan260117_npf6x.jpeg%3Fv%3D1768812948%26w%3D1920%26h%3D1080"
-      },
-      "description": "European Union leaders are mobilizing an unprecedented response to President Donald Trump's threat of escalating tariffs on nations opposing his campaign to acquire Greenland, with officials considering activating the bloc's most powerful trade weapon for the first time.\n\nEU ambassadors from all 27 member states convened an emergency meeting in Brussels on Sunday, where the European Commission presented multiple countermeasures, including reactivating a \u20ac93 billion retaliatory tariff package and deploying the Anti-Coercion Instrument, a mechanism adopted in 2023 but never triggered.[1][2][3]",
-      "audio_url": "",
-      "url": "eu-prepares-retaliatory-measur-DBKYMqleTqmKtQrOAeAPow",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-19T09:48:25.000000Z",
-      "title": "Trump links Greenland threats to Nobel Peace Prize choice",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9d1e33ccd484caa662cec6faa6bd4ab7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "President Donald Trump sends a text message to Norwegian Prime Minister Jonas Gahr St\u00f8re saying he \"no longer [feels] an obligation to think purely of Peace\" after being denied the prize by the Nobel Committee.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/trump-norway-prime-minister-no-longer-obligation-peace/106246538"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-19T21:13:17.089638"
+  "merged_at": "2026-01-19T22:14:13.699640"
 }
