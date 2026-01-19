@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-19T13:42:53.000000Z",
+      "title": "Prince Harry returns to court in battle with British tabloids",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c74fe10643691a40f2430ae3805abf8b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Prince Harry has returned to court in London in his third and final attempt to tame the British tabloids through the legal system.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/prince-harry-returns-to-court-in-battle-with-british-tabloids/106246678"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fa56ab69-53e8-474a-a2b2-7ee7f96458db",
       "published_datetime": "2026-01-19T10:38:12.883030",
       "title": "Excitons outperform light for engineering quantum materials",
@@ -65,15 +74,6 @@
       },
       "description": "A man in his 20s is in a critical condition after he sustained leg injuries in another shark attack at a Sydney beach.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/shark-attack-north-steyne-beach-nsw/106246378"
-    },
-    {
-      "published_datetime": "2026-01-19T07:24:53.000000Z",
-      "title": "'Irregular flight school practices' linked to triple-fatal plane crash",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/608b5ebe16b42b5ca9845e9a04a1926f?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "An investigation finds risky flying behaviour, an amateur-built aeroplane's \"design deficiencies\" and issues at the pilot's flight school may have contributed to a fatal light aeroplane crash in Victoria in 2024.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/atsb-triple-fatal-tinamba-gippsland-light-plane-crash-report/106245644"
     },
     {
       "published_datetime": "2026-01-19T06:15:17.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-19T13:39:40.454736"
+  "merged_at": "2026-01-19T14:19:54.426820"
 }
