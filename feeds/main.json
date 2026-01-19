@@ -1,10 +1,46 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-19T19:51:33.000000Z",
+      "title": "Live: Parliament returns to debate gun reform, hate laws in response to Bondi attack",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/75641e63f6346be5bfc1ca9680cf8845?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Parliament returns to consider legislation on stricter gun controls and hate speech in the wake of the Bondi terror attack. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/federal-politics-live-blog-jan-20/106245678"
+    },
+    {
+      "published_datetime": "2026-01-19T19:30:08.000000Z",
+      "title": "Call that likely saved deputy mayor's life almost went unanswered",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/511a2f52af5bc86f5e0996589327ecf7?impolicy=wcms_crop_resize&amp;cropH=804&amp;cropW=1430&amp;xPos=0&amp;yPos=65&amp;width=862&amp;height=485"
+      },
+      "description": "A mayor's split-second decision to answer a phone call instead of heading into the surf may well have saved the life of his deputy.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/shellharbour-councillor-kellie-marsh-aneurysm-emergency/106245410"
+    },
+    {
+      "published_datetime": "2026-01-19T19:24:43.000000Z",
+      "title": "Women's football captain departs club after men's offensive 'Silly Saturday' costumes",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ee93279df7ee07a7926640d5e3e19883?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=3&amp;width=862&amp;height=485"
+      },
+      "description": "A women's senior football captain has stepped away from her local club after photos of the senior men's leadership team were posted online during their \"Silly Saturday\" post-season celebrations.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/box-hill-north-fc-womens-captain-leaves-club-after-men-behaviour/106190266"
+    },
+    {
+      "published_datetime": "2026-01-19T19:06:14.000000Z",
+      "title": "First Nations employee asked by supervisor about eating ants takes transport department to court",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3bf7bc54f22ab738498adc1cf0d563e3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "A First Nations employee at South Australia's Department for Infrastructure and Transport (DIT) has claimed she was sexually harassed by her supervisor and racially discriminated against when asked about eating ants before a cultural training session, court documents reveal.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/sa-transport-department-federal-court-case/106231982"
+    },
+    {
       "published_datetime": "2026-01-19T18:58:52.000000Z",
       "title": "'There\u2019ll be more': Shark warning after three attacks in Sydney in 24 hours",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/93609e019c622ec257611a33d45fac24?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/286a3045b3adcdf3b80fa2287b9b2298?impolicy=wcms_crop_resize&amp;cropH=2763&amp;cropW=4912&amp;xPos=0&amp;yPos=124&amp;width=862&amp;height=485"
       },
       "description": "A public policy shark expert says sewage leaking into the harbour after heavy rainfall is attracting bait fish followed by sharks.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/sydney-harbour-shark-risk-not-clear-sewage-attracts-fish/106245214"
@@ -19,24 +55,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/donald-trump-us-federal-reserve-powell-interest-rates/106245010"
     },
     {
-      "published_datetime": "2026-01-19T18:51:45.000000Z",
-      "title": "China's population drops for fourth year as fewer babies born",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9c35dd971375e37f56fe9855ed702d52?impolicy=wcms_crop_resize&amp;cropH=2553&amp;cropW=4538&amp;xPos=462&amp;yPos=778&amp;width=862&amp;height=485"
-      },
-      "description": "National data shows that in 2025, China's population shrunk by 3.39 million people, as experts warn the trend is likely to continue.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-20/china-population-decline-fourth-straight-year/106245406"
-    },
-    {
-      "published_datetime": "2026-01-19T18:51:41.000000Z",
-      "title": "China ramps up crackdown on 'underground' Christian churches",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/55638d561425430c1e2812fee65045b8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Dozens of church leaders and members have been arrested in China in recent months, which advocates say is indicative of intensifying persecution.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-20/china-ramps-up-crackdown-on-underground-christian-churches/106228908"
-    },
-    {
       "published_datetime": "2026-01-19T18:49:44.000000Z",
       "title": "Labor and Coalition on path to deal on hate laws reform as deadline looms",
       "featured_image": {
@@ -44,6 +62,15 @@
       },
       "description": "Liberal MPs gathered to discuss the draft laws at a partyroom meeting in Canberra on Monday evening after Opposition Leader Sussan Ley and Prime Minister Anthony Albanese met to hash out an agreement.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/labor-coalition-hate-laws-deal-deadline-looms/106244300"
+    },
+    {
+      "published_datetime": "2026-01-19T18:21:30.000000Z",
+      "title": "NDIS provider hit with $1.1m penalty over hundreds of compliance failures",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/63e7b61c7bead2680d9ab8f7a9e08ee1?impolicy=wcms_crop_resize&amp;cropH=588&amp;cropW=1045&amp;xPos=8&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Oak Tasmania admits to 474 compliance and reporting failures, as well as breaches that resulted in the hospitalisation of multiple NDIS clients.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/tas-ndis-provider-1-1m-penalty-for-breaches/106246414"
     },
     {
       "published_datetime": "2026-01-19T18:05:21.000000Z",
@@ -68,15 +95,6 @@
       "audio_url": "",
       "url": "meloni-offers-to-mediate-betwe-mwPEa6hlQ52SmAK.UFbp5w",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-19T18:00:13.000000Z",
-      "title": "Italian fashion designer Valentino dies aged 93 in Rome",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e2c8bf19818dacefa1c0072534b99bf5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=113&amp;width=862&amp;height=485"
-      },
-      "description": "The fashion icon's creations were adored by Hollywood stars, royals and first ladies for his fail-safe red carpet designs.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-20/italian-fashion-designer-valentino-dies-aged-93-in-rome/106247130"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/28c246bb-4982-4180-827f-44f0988796d4",
@@ -215,30 +233,12 @@
     },
     {
       "published_datetime": "2026-01-19T09:48:25.000000Z",
-      "title": "Trump links Greenland takeover threat to Nobel Peace Prize snub",
+      "title": "Trump links Greenland threats to Nobel Peace Prize snub",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f6a4c0ab3fb32e75f6655b68ca331043?impolicy=wcms_crop_resize&amp;cropH=2436&amp;cropW=4330&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "President Donald Trump sends a letter to the Norwegian Prime Minister Jonas Gahr St\u00f8re saying he no longer feels obligated to think purely of peace.",
+      "description": "President Donald Trump sends a text message to Norwegian Prime Minister Jonas Gahr St\u00f8re saying he \"no longer [feels] an obligation to think purely of Peace\" after being denied the prize by the Nobel Committee.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/trump-norway-prime-minister-no-longer-obligation-peace/106246538"
-    },
-    {
-      "published_datetime": "2026-01-19T06:15:17.000000Z",
-      "title": "'Evil and sick': Bondi shooting survivor speaks out after losing his father",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2140cb13b6b790f9a83e14f3b1dcc30e?impolicy=wcms_crop_resize&amp;cropH=2278&amp;cropW=4050&amp;xPos=0&amp;yPos=200&amp;width=862&amp;height=485"
-      },
-      "description": "Ya'akov Tetleroyd's father died in the Bondi Beach shootings. He nearly lost his arm as a result of being shot, yet he told 7.30 in an exclusive interview that he forgives the gunmen.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/bondi-terror-survivor-yaakov-tetleroyd-speaks-naveed-akram/106238196"
-    },
-    {
-      "published_datetime": "2026-01-19T03:36:49.000000Z",
-      "title": "'Now it is time': Trump's Greenland threats grow after Europe sends troops",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a072416672e7589d8384b32fbabade5?impolicy=wcms_crop_resize&amp;cropH=1854&amp;cropW=3296&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
-      },
-      "description": "Tensions between the United States and Greenland's allies reach a new high, with threats of increasing tariffs after European troops were sent to the island.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/us-tariff-threats-european-troops-sent-to-greenland/106243860"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-19T19:24:33.981442"
+  "merged_at": "2026-01-19T20:15:40.083538"
 }
