@@ -1,13 +1,31 @@
 {
   "items": [
     {
-      "published_datetime": "2026-01-19T08:00:48.000000Z",
-      "title": "Breaking: Man attacked by shark at Sydney beach in third incident in two days",
+      "published_datetime": "2026-01-19T08:34:50.000000Z",
+      "title": "Iranian official says deaths in Iran protests reach at least 5,000",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9b4c2824355af6b937ac343a396971a?impolicy=wcms_crop_resize&amp;cropH=441&amp;cropW=784&amp;xPos=179&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/019da0a4d29e17d82e8c2e7f9d6775c1?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=67&amp;width=862&amp;height=485"
       },
-      "description": "A man is believed to have been seriously injured in another shark attack in Sydney.",
+      "description": "The death toll includes about 500 security personnel and exceeds that of any other round of protest or unrest in Iran in decades. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/iranian-official-says-verified-deaths-in-iran-protests-5000/106246384"
+    },
+    {
+      "published_datetime": "2026-01-19T08:00:48.000000Z",
+      "title": "Man suffers critical leg injuries in shark attack at Sydney beach",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/16b79dade1d16e5e675bc8862fc502ca?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A man in his 20s is in a critical condition after he sustained leg injuries in another shark attack at a Sydney beach.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/shark-attack-north-steyne-beach-nsw/106246378"
+    },
+    {
+      "published_datetime": "2026-01-19T07:24:53.000000Z",
+      "title": "'Irregular flight school practices' linked to triple-fatal plane crash",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/608b5ebe16b42b5ca9845e9a04a1926f?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "An investigation finds risky flying behaviour, an amateur-built aeroplane's \"design deficiencies\" and issues at the pilot's flight school may have contributed to a fatal light aeroplane crash in Victoria in 2024.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/atsb-triple-fatal-tinamba-gippsland-light-plane-crash-report/106245644"
     },
     {
       "published_datetime": "2026-01-19T06:15:17.000000Z",
@@ -100,17 +118,8 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-19T00:02:59.000000Z",
-      "title": "Calls to tax super-rich more as number of global billionaires hits record",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/01a457437a61cb3f467afe0e365c55ec?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Oxfam Australia is calling on the federal government to tax the super-rich to help tackle growing inequality, as billionaires grow their wealth by more than half a million a day on average.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/income-inequality-oxfam-report-calls-to-tax-billionaires/106236612"
-    },
-    {
       "published_datetime": "2026-01-18T23:12:53.000000Z",
-      "title": "Live: Tomljanovi\u0107 battles back to take qualifier to deciding set",
+      "title": "Live: Tomljanovi\u0107 battles back from set down to beat brave qualifier",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d9026632179f7865e6690ba7a4a418ba?impolicy=wcms_crop_resize&amp;cropH=2472&amp;cropW=4394&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -131,15 +140,6 @@
       "audio_url": "",
       "url": "syrian-government-and-sdf-agre-gUTQ3bTgRmOQuE.Dp_3GjQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-18T22:00:30.000000Z",
-      "title": "'I am still trembling': At least 39 dead after high-speed train crash in Spain",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dcba77962a9f2cc3ebca7e267bb27bab?impolicy=wcms_crop_resize&amp;cropH=594&amp;cropW=1056&amp;xPos=0&amp;yPos=686&amp;width=862&amp;height=485"
-      },
-      "description": "At least 39 people have died and dozens are severely injured after two high-speed trains derailed in southern Spain, local authorities say.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/many-dead-after-high-speed-trains-derailed-in-spain/106243428"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8be1d186-221e-4f09-8b48-9d4d13b85996",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-19T08:22:07.365538"
+  "merged_at": "2026-01-19T09:26:29.167912"
 }
