@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-19T08:00:48.000000Z",
+      "title": "Breaking: Man attacked by shark at Sydney beach in third incident in two days",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9b4c2824355af6b937ac343a396971a?impolicy=wcms_crop_resize&amp;cropH=441&amp;cropW=784&amp;xPos=179&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A man is believed to have been seriously injured in another shark attack in Sydney.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/shark-attack-north-steyne-beach-nsw/106246378"
+    },
+    {
       "published_datetime": "2026-01-19T06:15:17.000000Z",
       "title": "'Evil and sick': Bondi shooting survivor speaks out after losing his father",
       "featured_image": {
@@ -8,15 +17,6 @@
       },
       "description": "Ya'akov Tetleroyd's father died in the Bondi Beach shootings. He nearly lost his arm as a result of being shot, yet he told 7.30 in an exclusive interview that he forgives the gunmen.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/bondi-terror-survivor-yaakov-tetleroyd-speaks-naveed-akram/106238196"
-    },
-    {
-      "published_datetime": "2026-01-19T03:58:49.000000Z",
-      "title": "Young surfer uninjured after shark bites board at Sydney beach",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6ac55c42a39b578e5a0e7f5a04315fc0?impolicy=wcms_crop_resize&amp;cropH=2658&amp;cropW=4726&amp;xPos=0&amp;yPos=342&amp;width=862&amp;height=485"
-      },
-      "description": "Surf Life Saving NSW confirmed the boy was unharmed after an encounter with a shark at Dee Why Beach just before lunchtime on Monday.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/nsw-young-surfer-second-sydney-beach-shark-encounter/106245088"
     },
     {
       "published_datetime": "2026-01-19T03:36:49.000000Z",
@@ -41,6 +41,15 @@
       "audio_url": "",
       "url": "spain-train-crash-kills-21-in-QLAfyx4OTze_otHnVJEOZA",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-01-19T02:28:15.000000Z",
+      "title": "Deadly Chile wildfires trigger state of catastrophe",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/00fa34d904f9907179557f5c95fcec41?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Wildfires raging across central and southern Chile have left at least 18 people dead, scorched thousands of hectares of forest and destroyed hundreds of homes, local authorities say, as the South American country swelters under a heat wave.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-19/deadly-chile-wildfires-trigger-state-of-catastrophe/106244428"
     },
     {
       "published_datetime": "2026-01-19T02:23:19.000000Z",
@@ -101,9 +110,9 @@
     },
     {
       "published_datetime": "2026-01-18T23:12:53.000000Z",
-      "title": "Live: Vukic defeat ends Australia's perfect start as more Aussies take to court on day two",
+      "title": "Live: Tomljanovi\u0107 battles back to take qualifier to deciding set",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40004288a90762b35862d69d5940cda4?impolicy=wcms_crop_resize&amp;cropH=2198&amp;cropW=3908&amp;xPos=0&amp;yPos=90&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d9026632179f7865e6690ba7a4a418ba?impolicy=wcms_crop_resize&amp;cropH=2472&amp;cropW=4394&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Australian wildcard Priscilla Hon gets her first main draw singles win at Melbourne Park since 2020 as Marina Stakusic succumbs to cramps, while men's sixth seed Alex de Minaur starts his grand slam campaign with a straightforward victory on Rod Laver Arena. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/australian-open-2026-live-alex-de-minaur-novak-djokovic/106243798"
@@ -161,15 +170,6 @@
       "audio_url": "",
       "url": "eu-plans-108-billion-tariffs-a-cAv03h1NS_aq8fHeKawKVA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-18T20:22:55.000000Z",
-      "title": "Live: China's economic growth on target, declining birth rate hits A2 Milk shares",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f7a45266700aacef2be37cbad3221d72?impolicy=wcms_crop_resize&amp;cropH=843&amp;cropW=1500&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The ASX is on edge after a renewed escalation on trade tensions between the US and Europe. China's GDP comes in better than forecast but other data is mixed. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/asx-markets-business-news-live-updates/106242752"
     },
     {
       "published_datetime": "2026-01-18T19:17:46.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-19T07:22:58.926984"
+  "merged_at": "2026-01-19T08:22:07.365538"
 }
