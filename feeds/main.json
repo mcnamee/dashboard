@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fa56ab69-53e8-474a-a2b2-7ee7f96458db",
+      "published_datetime": "2026-01-19T10:38:12.883030",
+      "title": "Excitons outperform light for engineering quantum materials",
+      "featured_image": {
+        "url": "https://interestingengineering.com/science/scientists-demonstrate-floquet-effect-using-excitons",
+        "name": "Quantum engineers turn theory into physics via exciton ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--uv6xMhQ_--/t_limit/https://cms.interestingengineering.com/wp-content/uploads/2026/01/IE-photo-ratio-19201080-21.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--_9umk1U_--/t_thumbnail/https://cms.interestingengineering.com/wp-content/uploads/2026/01/IE-photo-ratio-19201080-21.jpg"
+      },
+      "description": "A breakthrough in Floquet engineering demonstrates that excitons\u2014quasiparticles formed within semiconductors\u2014can modify material properties far more efficiently than light alone, potentially opening a new path to creating quantum materials on demand.\n\nResearchers from the Okinawa Institute of Science and Technology (OIST) and Stanford University have shown that exciton-driven Floquet effects in monolayer semiconductors are two orders of magnitude stronger and last longer than effects achieved with conventional light-based methods, according to findings published in Nature Physics on January 18, 2026.[1]",
+      "audio_url": "",
+      "url": "excitons-enable-efficient-quan-8J676c_6QuKownQbJR_FMA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-19T09:48:25.000000Z",
       "title": "Trump sends letter to Norway amid Greenland threats",
       "featured_image": {
@@ -134,9 +149,9 @@
     },
     {
       "published_datetime": "2026-01-18T23:12:53.000000Z",
-      "title": "Live: Popyrin injury concern, taken to fifth set as Djokovic goes for 100th AO win",
+      "title": "Djokovic claims milestone victory, Popyrin falls short in five-set thriller",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c64cc9f4d7da5310dd3d463cf803cf02?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=293&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7e0834649ccb8b324ac34dce79ac2d82?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=497&amp;width=862&amp;height=485"
       },
       "description": "Australian wildcard Priscilla Hon gets her first main draw singles win at Melbourne Park since 2020 as Marina Stakusic succumbs to cramps, while men's sixth seed Alex de Minaur starts his grand slam campaign with a straightforward victory on Rod Laver Arena. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/australian-open-2026-live-alex-de-minaur-novak-djokovic/106243798"
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4aa90819-0e9e-4afe-93d4-b16541dd877c",
-      "published_datetime": "2026-01-18T16:50:34.966814",
-      "title": "Iran confirms 5,000 dead in crackdown as protests subside",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/security-forces-are-seen-during-a-pro-government-rally-on-news-photo/2255940586",
-        "name": "Pro-Government Rally Held In Iran As Regime Rejects Threats Of Western Intervention",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1768753913/getty_uploads/2255940586_a3gbzc.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1768753913/getty_uploads/2255940586_a3gbzc.jpg"
-      },
-      "description": "An Iranian official acknowledged on Sunday that authorities have verified at least 5,000 deaths during three weeks of nationwide protests, the first such confirmation from within the government as the Islamic Republic's deadliest crackdown in decades appears to have temporarily suppressed street demonstrations.\n\nThe figure, which includes approximately 500 security personnel, was disclosed by a regional official speaking to Reuters on condition of anonymity. The official blamed \"terrorists and armed rioters\" for the casualties, while attributing support for protesters to \"Israel and armed groups abroad.\" The acknowledgment follows Supreme Leader Ayatollah Ali Khamenei's admission on Saturday that \"several thousand\" had died during the unrest.[1][2][3][4][5]",
-      "audio_url": "",
-      "url": "iran-crackdown-kills-thousands-hYFd_ZThSVSRVI_zuqnNpA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-19T12:30:22.293205"
+  "merged_at": "2026-01-19T13:39:40.454736"
 }
