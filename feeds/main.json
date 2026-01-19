@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-19T18:00:13.000000Z",
+      "title": "Italian fashion designer Valentino dies aged 93 in Rome",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e2c8bf19818dacefa1c0072534b99bf5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=113&amp;width=862&amp;height=485"
+      },
+      "description": "The fashion icon's creations were adored by Hollywood stars, royals and first ladies for his fail-safe red carpet designs.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/italian-fashion-designer-valentino-dies-aged-93-in-rome/106247130"
+    },
+    {
+      "published_datetime": "2026-01-19T17:17:36.000000Z",
+      "title": "What we know so far about Spain's fatal high-speed train crash",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b1731626571bfd307b3671b2e015a2af?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=50&amp;width=862&amp;height=485"
+      },
+      "description": "Spanish authorities have declared three days of mourning after two trains collided on a track south of Madrid, killing at least 39 people.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/what-we-know-about-spain-deadly-high-speed-rail-train-crash/106246960"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/90cba60c-dbf8-46a1-8a1a-60dae60593a7",
       "published_datetime": "2026-01-19T15:32:18.450133",
       "title": "Australian researchers build motor powered by liquid metal",
@@ -101,7 +119,7 @@
     },
     {
       "published_datetime": "2026-01-19T09:48:25.000000Z",
-      "title": "Trump sends letter to Norway amid Greenland threats",
+      "title": "Trump links Greenland takeover threat to Nobel Peace Prize snub",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f6a4c0ab3fb32e75f6655b68ca331043?impolicy=wcms_crop_resize&amp;cropH=2436&amp;cropW=4330&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -122,15 +140,6 @@
       "audio_url": "",
       "url": "eu-prepares-response-to-trump-6arEsVIZRmO_MBwHFDFkow",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-19T09:16:07.000000Z",
-      "title": "Japan's PM to dissolve parliament and call snap election",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/10b92fa531e0bf87e77304a536083f21?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Japanese Prime Minister \u2060Sanae Takaichi will \u200bdissolve parliament \u200con \u200cFriday \u200cand call a snap \u200belection for February 8 \u2060to seek voter backing \u200cfor her \u200bspending \u200bplans and \u200dother \u2060policies.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/japan-prime-minister-calls-snap-general-election/106246400"
     },
     {
       "published_datetime": "2026-01-19T08:34:50.000000Z",
@@ -232,15 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-19/australian-open-2026-live-alex-de-minaur-novak-djokovic/106243798"
     },
     {
-      "published_datetime": "2026-01-18T22:00:30.000000Z",
-      "title": "'I am still trembling': At least 39 dead after high-speed train crash in Spain",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dcba77962a9f2cc3ebca7e267bb27bab?impolicy=wcms_crop_resize&amp;cropH=594&amp;cropW=1056&amp;xPos=0&amp;yPos=686&amp;width=862&amp;height=485"
-      },
-      "description": "At least 39 people have died and dozens are severely injured after two high-speed trains derailed in southern Spain, local authorities say.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-19/many-dead-after-high-speed-trains-derailed-in-spain/106243428"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-19T17:29:16.225418"
+  "merged_at": "2026-01-19T18:20:22.456388"
 }
