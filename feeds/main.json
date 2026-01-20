@@ -16,12 +16,21 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-01-20T08:07:06.000000Z",
+      "title": "Trump shares messages from Macron offering G7 meeting after Davos",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8e697d05bcc973eaea9d195a0dcd5765?impolicy=wcms_crop_resize&amp;cropH=1544&amp;cropW=2745&amp;xPos=0&amp;yPos=23&amp;width=862&amp;height=485"
+      },
+      "description": "US President Donald Trump has shared a private message purportedly from his French counterpart Emmanuel Macron ahead of a global economic forum in Davos, Switzerland.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/trump-shares-texts-from-macron-offering-g7-meeting-after-davos/106250724"
+    },
+    {
       "published_datetime": "2026-01-20T07:33:56.000000Z",
       "title": "MPs can still take partners, kids on work trips under new family travel rules",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b3031e88ee3d269283fbc2f99bffea52?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=266&amp;width=862&amp;height=485"
       },
-      "description": "Politicians can still charge taxpayers for taking their partners and children on work-related trips outside Canberra under tighter new rules set independently.",
+      "description": "Politicians can still charge taxpayers for taking their partners and children on work-related trips outside Canberra under tighter new rules set independently.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/tribunal-sets-new-rules-for-mp-family-travel-entitlements/106249928"
     },
     {
@@ -49,15 +58,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-20T05:01:17.000000Z",
-      "title": "Climate change triggers 'remarkable response' from Antarctic penguins",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4423c77396ea38cea76968ea50a6d97a?impolicy=wcms_crop_resize&amp;cropH=2295&amp;cropW=4080&amp;xPos=0&amp;yPos=389&amp;width=862&amp;height=485"
-      },
-      "description": "Penguins in parts of Antarctica are breeding up to two weeks earlier than a decade ago, likely in response to climate change, according to a long-term study.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-20/antarctic-penguin-breeding-cycles-changing-climate-change/106247472"
-    },
-    {
       "published_datetime": "2026-01-20T03:55:09.000000Z",
       "title": "'Wasn't I smart': Hanson celebrates historic rise in polls",
       "featured_image": {
@@ -68,21 +68,12 @@
     },
     {
       "published_datetime": "2026-01-20T03:43:52.000000Z",
-      "title": "Surfers left 'rattled' after four NSW shark attacks",
+      "title": "What we know about the four NSW shark attacks in 48 hours",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/16b79dade1d16e5e675bc8862fc502ca?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Four shark attacks are documented within 48 hours at beaches across New South Wales, lifting the anxieties of swimmers and surfers who are considering a dip in the ocean.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/nsw-what-we-know-about-the-shark-attacks/106248186"
-    },
-    {
-      "published_datetime": "2026-01-20T03:36:25.000000Z",
-      "title": "Brooklyn Beckham has cut ties with his famous parents. What can we learn from it?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e769f9c5252fc779b754471579e850b3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Celebrity family rifts are not new. Experts weigh in on how they can spark negative feelings about our own family dynamics.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-20/brooklyn-beckham-statement-cuts-ties-with-family/106247778"
     },
     {
       "published_datetime": "2026-01-20T02:32:36.000000Z",
@@ -92,6 +83,15 @@
       },
       "description": "Donald Trump appears to be trying to build his own international peacekeeping body, which he calls the \"Board of Peace\". Here's why experts think it might attempt to rival the UN.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/what-is-donald-trump-s-board-of-peace/106247750"
+    },
+    {
+      "published_datetime": "2026-01-20T02:05:05.000000Z",
+      "title": "Canadian teenager Piper James named as woman found dead on K'gari",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d52905428179410e1fad67e2d465c991?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=83&amp;width=862&amp;height=485"
+      },
+      "description": "The woman was found surrounded by dingoes after going for an early-morning swim.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/increased-ranger-patrols-woman-found-dead-on-kgari-fraser-island/106247890"
     },
     {
       "published_datetime": "2026-01-20T01:43:56.000000Z",
@@ -158,11 +158,11 @@
     },
     {
       "published_datetime": "2026-01-19T23:25:44.000000Z",
-      "title": "Live: Sweeny knocks out retiring French showman Monfils, Sinner begins title defence",
+      "title": "Live: Sinner stars night session alongside Osaka, Tsitsipas and an all-Australian clash",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e95a5caf116c1b5d81ec710c887bc89d?impolicy=wcms_crop_resize&amp;cropH=1537&amp;cropW=2733&amp;xPos=0&amp;yPos=13&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c02df76b223deeee6d9b456034a77ea0?impolicy=wcms_crop_resize&amp;cropH=2285&amp;cropW=4062&amp;xPos=0&amp;yPos=212&amp;width=862&amp;height=485"
       },
-      "description": "Australian qualifier Dane Sweeny is not receiving much home-court advantage as he goes up against retiring French fan favourite Gael Monfils in the Australian Open first round. Follow live.",
+      "description": "Reigning Australian Open champion Jannik Sinner has got his title defence underway on an action-packed night session at Melbourne Park. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-live-updates-jannik-sinner-naomi-osaka/106247690"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-20T08:41:47.329848"
+  "merged_at": "2026-01-20T09:26:04.105866"
 }
