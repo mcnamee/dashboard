@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-20T09:21:17.000000Z",
+      "title": "Israel starts demolishing former UN aid agency headquarters",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12404aa2ecdf6caa4b1c3974ede17f3f?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=269&amp;width=862&amp;height=485"
+      },
+      "description": "The UN has labelled Israel's move to bulldoze a former UNRWA headquarters a \u00a0\"serious violation of international law\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/israel-demolish-united-nations-headquarters-jerusalem/106250826"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b15abf5c-972f-4d7c-9e71-c626fdb59358",
       "published_datetime": "2026-01-20T08:21:52.398663",
       "title": "World Economic Forum opens without founder Schwab for first time",
@@ -85,15 +94,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/what-is-donald-trump-s-board-of-peace/106247750"
     },
     {
-      "published_datetime": "2026-01-20T02:05:05.000000Z",
-      "title": "Canadian teenager Piper James named as woman found dead on K'gari",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d52905428179410e1fad67e2d465c991?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=83&amp;width=862&amp;height=485"
-      },
-      "description": "The woman was found surrounded by dingoes after going for an early-morning swim.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-20/increased-ranger-patrols-woman-found-dead-on-kgari-fraser-island/106247890"
-    },
-    {
       "published_datetime": "2026-01-20T01:43:56.000000Z",
       "title": "Hate laws to pass after Labor and Liberal deal",
       "featured_image": {
@@ -158,7 +158,7 @@
     },
     {
       "published_datetime": "2026-01-19T23:25:44.000000Z",
-      "title": "Live: Sinner stars night session alongside Osaka, Tsitsipas and an all-Australian clash",
+      "title": "Live: Sinner stars in night session alongside Osaka, Tsitsipas and an all-Australian clash",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c02df76b223deeee6d9b456034a77ea0?impolicy=wcms_crop_resize&amp;cropH=2285&amp;cropW=4062&amp;xPos=0&amp;yPos=212&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-20T09:26:04.105866"
+  "merged_at": "2026-01-20T10:19:28.876701"
 }
