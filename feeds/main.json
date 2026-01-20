@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fe29ddcb-f89e-4bf8-a30a-31fd09576070",
+      "published_datetime": "2026-01-20T15:17:11.498886",
+      "title": "Japan's 40-year bond suffers historic selloff amid fears over tax cut plan",
+      "featured_image": {
+        "url": "https://www.gettyimages.com/detail/news-photo/japans-prime-minister-sanae-takaichi-speaks-during-a-press-news-photo/2256505371",
+        "name": "JAPAN-POLITICS-ELECTION",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1768920171/getty_uploads/2256505371_qi0dwf.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1768920171/getty_uploads/2256505371_qi0dwf.jpg"
+      },
+      "description": "Japanese government bonds experienced a historic meltdown on Tuesday as fiscal concerns over Prime Minister Sanae Takaichi's unfunded tax cut promises sent long-dated yields surging to levels not seen in decades, triggering a selloff that spread across global financial markets.\n\nThe yield on Japan's 40-year government bond rocketed past 4%, the highest since this maturity was introduced in 2007 and a first for any sovereign debt instrument in the country in more than three decades. The 30-year yield climbed to a record 3.875%, while the benchmark 10-year yield rose above 2.3%, its highest level since 1999.[1][2][3]",
+      "audio_url": "",
+      "url": "japan-s-40-year-bond-suffers-h-8FkkmP0TRHqi4hRjsfJuFQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-20T14:08:16.000000Z",
       "title": "Massive Chinese embassy in London approved despite 'nest of spies' concerns",
       "featured_image": {
@@ -226,21 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-live-updates-jannik-sinner-naomi-osaka/106247690"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/99a26f44-8e5d-4f85-b614-b2b328895cbe",
-      "published_datetime": "2026-01-19T22:56:51.429049",
-      "title": "Trump, China's He Lifeng court CEOs at Davos amid trade tensions",
-      "featured_image": {
-        "url": "https://www.reuters.com/business/davos/trump-meet-global-ceos-davos-with-us-policy-focus-2026-01-19/",
-        "name": "Trump to meet global CEOs in Davos, with US policy in ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--eQ8nfUUg--/t_limit/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PPMGAS5XHVJ7DIIDKU4ILXHI4E.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--WmW0fAgT--/t_thumbnail/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PPMGAS5XHVJ7DIIDKU4ILXHI4E.jpg"
-      },
-      "description": "As more than 850 chief executives gather in the Swiss Alps for the World Economic Forum, both the United States and China are competing for their attention, with President Donald Trump and Chinese Vice Premier He Lifeng scheduling separate meetings with global business leaders amid renewed trade talks and escalating geopolitical tensions.\n\nTrump plans to convene a group of corporate executives Wednesday evening following his anticipated speech at the forum, according to Semafor and Reuters. The invitations, sent from the White House, caught some executives off guard Monday, forcing corporate staffers to scramble to rework schedules that had been months in the making.[1][2]",
-      "audio_url": "",
-      "url": "trump-and-chinese-officials-co-UDMnQSGhQyqiKeUGjhPMDQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-20T15:22:24.255487"
+  "merged_at": "2026-01-20T16:24:26.206787"
 }
