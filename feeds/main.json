@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-20T11:55:44.000000Z",
+      "title": "Dame Marie Bashir, the first female governor of NSW, dies aged 95",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f027e61b463f1a44526d689594b0fd0?impolicy=wcms_crop_resize&amp;cropH=2445&amp;cropW=4346&amp;xPos=0&amp;yPos=226&amp;width=862&amp;height=485"
+      },
+      "description": "NSW Premier Chris Minns says a state funeral will be held for the veteran public servant, who he describes as \"an extraordinary Australian\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/dame-marie-bashir-the-first-female-nsw-governor-dies/106251006"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ffd211bb-1a60-490e-a550-3b3b0c917a43",
+      "published_datetime": "2026-01-20T10:39:46.273176",
+      "title": "Chinese researchers achieve 31% efficiency in perovskite solar cells",
+      "featured_image": {
+        "url": "https://www.scmp.com/news/china/science/article/3224393/chinese-scientists-boost-perovskite-solar-cell-efficiency",
+        "name": "Chinese scientists boost perovskite solar cell efficiency ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--PRDheKhS--/t_limit/https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2023/06/16/107dc2a4-a19c-4e18-b074-4fda5b97a3fc_6d1fe96c.jpg%3Fitok%3DCToEKhVx%26v%3D1686921015",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--LpXt75kJ--/t_thumbnail/https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2023/06/16/107dc2a4-a19c-4e18-b074-4fda5b97a3fc_6d1fe96c.jpg%3Fitok%3DCToEKhVx%26v%3D1686921015"
+      },
+      "description": "Scientists in China and Hong Kong have announced separate advances in perovskite solar cell technology this month, addressing long-standing challenges with both efficiency and stability that have hindered the material's commercial adoption.\n\nA research team from Northwestern Polytechnical University, in collaboration with Xi'an Shiyou University and Xidian University, developed a novel crystallization strategy using a two-dimensional seeding agent to achieve 31.13% efficiency in a perovskite-silicon tandem solar cell. Separately, engineers at the Hong Kong University of Science and Technology created a \"Molecular Velcro\" coating that enables cells to retain over 95% of their initial efficiency after more than 1,100 hours of continuous operation under intense heat.[1][2][3][4][5]",
+      "audio_url": "",
+      "url": "researchers-boost-perovskite-s-lf_AnahpRiGFfon6dswsGQ",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ec36d22c-355c-4a58-9911-9691699459bb",
+      "published_datetime": "2026-01-20T10:07:41.019559",
+      "title": "Asian and European stocks fall as Trump tariff threats roil markets",
+      "featured_image": {
+        "url": "https://www.reuters.com/markets/europe/european-stocks-slide-trumps-greenland-tariff-threat-rattles-investors-2026-01-19/",
+        "name": "European stocks slide as Trump's Greenland tariff threat rattles investors",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s---Br2otfD--/t_limit/https://www.reuters.com/resizer/v2/COA7TPN5SFP5VGVNJOQGRFI6WQ.jpg%3Fauth%3D18fb00cbcd7f3531e7ef893ecaa99e1ea977faa57d74951d87db89910b43c0d6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--bhLXiT10--/t_thumbnail/https://www.reuters.com/resizer/v2/COA7TPN5SFP5VGVNJOQGRFI6WQ.jpg%3Fauth%3D18fb00cbcd7f3531e7ef893ecaa99e1ea977faa57d74951d87db89910b43c0d6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Stock markets across Asia and Europe tumbled Tuesday as investors grappled with escalating trade tensions after President Donald Trump threatened tariffs on eight European nations in his bid to acquire Greenland, while Japan's snap election announcement failed to lift regional sentiment.\n\nThe pan-European STOXX 600 fell 0.8% on Tuesday, extending its worst session in over two months, while the STOXX 50 declined 0.4%. In Asia, Japan's Nikkei 225 dropped approximately 0.8%, while Hong Kong's Hang Seng and China's Shanghai Composite shed 0.1% to 0.5%.[1][2][3][4][5]",
+      "audio_url": "",
+      "url": "asian-and-european-markets-fal-49zNpfihRRihJ35zMMGPlw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b6d83f82-89cb-47ef-815f-1c54430e89e3",
+      "published_datetime": "2026-01-20T09:54:18.825861",
+      "title": "Trump arrives at Davos amid EU standoff over Greenland tariffs",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/europe/trump-will-attend-davos-forum-2026-white-house-official-says-2025-11-13/",
+        "name": "Trump will attend Davos forum in 2026, White House official says",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--XN81KyaZ--/t_limit/https://www.reuters.com/resizer/v2/5DHX7JVGP5NUDAJ25AV2ZQYZDI.jpg%3Fauth%3D54705a2e1d545feb5dc49d4d23abc306a63397b6e6e55a784503dd3f70321fc0%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--AHONfXrJ--/t_thumbnail/https://www.reuters.com/resizer/v2/5DHX7JVGP5NUDAJ25AV2ZQYZDI.jpg%3Fauth%3D54705a2e1d545feb5dc49d4d23abc306a63397b6e6e55a784503dd3f70321fc0%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "President Donald Trump is set to take center stage at the World Economic Forum in Davos, Switzerland, on Wednesday, where trade tensions with European allies over his renewed push to acquire Greenland threaten to dominate proceedings at the elite annual gathering.\n\nThe 56th World Economic Forum, running January 19-23, has been overshadowed by Trump's weekend announcement of new tariffs targeting eight European nations \u2014 Germany, France, the United Kingdom, the Netherlands, Finland, Sweden, Norway, and Denmark \u2014 unless a deal is reached allowing the United States to purchase Greenland, the mineral-rich Danish territory in the Arctic.[1][2]",
+      "audio_url": "",
+      "url": "trump-attends-davos-amid-globa-vJTg8BimSde8xHl9pK.EpA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-20T09:21:17.000000Z",
       "title": "Israel starts demolishing former UN aid agency headquarters",
       "featured_image": {
@@ -32,15 +86,6 @@
       },
       "description": "US President Donald Trump has shared a private message purportedly from his French counterpart Emmanuel Macron ahead of a global economic forum in Davos, Switzerland.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/trump-shares-texts-from-macron-offering-g7-meeting-after-davos/106250724"
-    },
-    {
-      "published_datetime": "2026-01-20T07:33:56.000000Z",
-      "title": "MPs can still take partners, kids on work trips under new family travel rules",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b3031e88ee3d269283fbc2f99bffea52?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=266&amp;width=862&amp;height=485"
-      },
-      "description": "Politicians can still charge taxpayers for taking their partners and children on work-related trips outside Canberra under tighter new rules set independently.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-20/tribunal-sets-new-rules-for-mp-family-travel-entitlements/106249928"
     },
     {
       "published_datetime": "2026-01-20T06:28:35.000000Z",
@@ -95,11 +140,11 @@
     },
     {
       "published_datetime": "2026-01-20T01:43:56.000000Z",
-      "title": "Nationals prepare to vote against Labor's hate laws",
+      "title": "Labor's hate laws pass despite a divided Coalition",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6a425c774e1c0f3ff7a2020a48ce38e9?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d828715a7e2204d0d8406b7c48acf03d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "The Nationals will vote against new laws targeting hate groups, but the federal government's bill will still pass after Labor struck a deal with the Liberals.",
+      "description": "The federal government has passed new laws targeting hate groups with support from the Liberals, despite a last-ditch effort from the Nationals to make further amendments.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/hate-laws-poised-to-pass-after-labor-liberal-deal/106248432"
     },
     {
@@ -196,51 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d089c982-1c26-44b1-aacc-cb5fd7d28bdb",
-      "published_datetime": "2026-01-19T21:34:37.155656",
-      "title": "Denmark, Greenland propose NATO Arctic surveillance mission",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/the-danish-navys-inspection-ship-hdms-vaedderen-sails-off-news-photo/2256362066",
-        "name": "TOPSHOT-GREENLAND-DENMARK-US-DEFENCE-NATO",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1768851337/getty_uploads/2256362066_m21ttx.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1768851337/getty_uploads/2256362066_m21ttx.jpg"
-      },
-      "description": "Denmark and Greenland have formally proposed establishing a NATO surveillance mission in the Arctic, Danish Defence Minister Troels Lund Poulsen announced Monday after meeting with NATO Secretary General Mark Rutte in Brussels. The proposal marks an attempt to address escalating transatlantic tensions sparked by U.S. President Donald Trump's push to acquire the strategically located island.\n\n\"We have proposed it, the secretary general has taken note of that, and I think we can now\u2014we hope\u2014define a framework on how that can be concretised,\" Poulsen told Danish television following the meeting, which also included Greenlandic Foreign Minister Vivian Motzfeldt.[1][2][3]",
-      "audio_url": "",
-      "url": "denmark-and-greenland-propose-4hC1fdczRViHoVye5aIMJA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cc8800ca-dc1b-431a-8bf9-a986c5dd0b1b",
-      "published_datetime": "2026-01-19T21:09:25.034122",
-      "title": "Denmark deploys combat troops to Greenland amid Trump threats",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/danish-soldiers-disembark-at-the-port-in-nuuk-greenland-on-news-photo/2256362000",
-        "name": "TOPSHOT-GREENLAND-DENMARK-US-DEFENCE-NATO",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1768856395/getty_uploads/2256362000_wfiahq.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1768856395/getty_uploads/2256362000_wfiahq.jpg"
-      },
-      "description": "Denmark is deploying a substantial contingent of combat soldiers to Greenland on Monday evening, with Army Chief Major General Peter Boysen accompanying the forces as Copenhagen reinforces its Arctic presence in the face of escalating pressure from U.S. President Donald Trump to acquire the self-governing territory.\n\nThe Danish Armed Forces confirmed to broadcaster TV 2 that the additional troops are scheduled to arrive in Kangerlussuaq, describing the deployment as \"a substantial contribution.\" Around 100 Danish soldiers had already arrived in Nuuk, Greenland's capital, with a similar number stationed in Kangerlussuaq before the latest reinforcement.[1][2][3][4]",
-      "audio_url": "",
-      "url": "denmark-deploys-substantial-tr-ZO5hBrBhRSa5ec9F.ongLg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bfce12a8-a7ce-4464-b161-a15f17c888c5",
-      "published_datetime": "2026-01-19T20:16:50.187442",
-      "title": "Trump to meet with global CEOs after Davos keynote address",
-      "featured_image": {
-        "url": "https://www.reuters.com/business/davos/trump-meet-global-ceos-davos-with-us-policy-focus-2026-01-19/",
-        "name": "Trump to meet global CEOs in Davos, with US policy in spotlight",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--M0UIwLF7--/t_limit/https://www.reuters.com/resizer/v2/OWWQ7U7VOFLQBJPNGSMAINWUC4.jpg%3Fauth%3D4afe85d964f8d233f56aee32fd27df27581023b728034f58145d353a9bb1cb9b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--iFOpXrmX--/t_thumbnail/https://www.reuters.com/resizer/v2/OWWQ7U7VOFLQBJPNGSMAINWUC4.jpg%3Fauth%3D4afe85d964f8d233f56aee32fd27df27581023b728034f58145d353a9bb1cb9b%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Business executives attending this week's World Economic Forum received an unexpected invitation on Monday: President Donald Trump wants to meet with them after his Wednesday keynote address in Davos, Switzerland.\n\nThe U.S. president plans to convene a group of corporate executives following his speech at the forum, according to Reuters and Semafor, though the agenda remains unclear. The invitations, which originated from the White House, sent corporate staffers scrambling to rework schedules that had been months in the making.[1][2]",
-      "audio_url": "",
-      "url": "trump-to-meet-global-ceos-at-2-2xsn8SLCQveGVXZS5BWE8A",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-20T11:17:46.185162"
+  "merged_at": "2026-01-20T12:30:27.898363"
 }
