@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-20T06:21:22.000000Z",
+      "title": "Midnight Oil drummer Rob Hirst dies aged 70",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8a69378a6ac72d145a2c5efac456e88c?impolicy=wcms_crop_resize&amp;cropH=1268&amp;cropW=2254&amp;xPos=0&amp;yPos=209&amp;width=862&amp;height=485"
+      },
+      "description": "Rob Hirst was diagnosed with pancreatic cancer in 2023.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/midnight-oil-drummer-rob-hirst-dies/106249816"
+    },
+    {
       "published_datetime": "2026-01-20T05:55:37.000000Z",
       "title": "Tim Picton's death reverberates around nation as minister issues one-punch warning",
       "featured_image": {
@@ -17,15 +26,6 @@
       },
       "description": "Penguins in parts of Antarctica are breeding up to two weeks earlier than a decade ago, likely in response to climate change, according to a long-term study.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/antarctic-penguin-breeding-cycles-changing-climate-change/106247472"
-    },
-    {
-      "published_datetime": "2026-01-20T04:32:52.000000Z",
-      "title": "Federal politicians slam incoming NT administrator's tweets as 'reprehensible'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3c9b670acaf2f3be198207766684e431?impolicy=wcms_crop_resize&amp;cropH=835&amp;cropW=1484&amp;xPos=3&amp;yPos=413&amp;width=862&amp;height=485"
-      },
-      "description": "Past social media posts made by incoming Northern Territory administrator David Connolly have been labelled \"reprehensible\" by three federal politicians, who are also demanding he apologise.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-20/nt-administrator-david-connolly-criticised-by-labor-politicians/106248300"
     },
     {
       "published_datetime": "2026-01-20T04:26:01.000000Z",
@@ -62,15 +62,6 @@
       },
       "description": "Celebrity family rifts are not new. Experts weigh in on how they can spark negative feelings about our own family dynamics.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/brooklyn-beckham-statement-cuts-ties-with-family/106247778"
-    },
-    {
-      "published_datetime": "2026-01-20T02:32:36.000000Z",
-      "title": "What is Trump's Board of Peace and why could it be threat to the UN?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/afc6f39df8304797c56b64315efcc1d2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump appears to be trying to build his own international peacekeeping body, which he calls the \"Board of Peace\". Here's why experts think it might attempt to rival the UN.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-20/what-is-donald-trump-s-board-of-peace/106247750"
     },
     {
       "published_datetime": "2026-01-20T01:43:56.000000Z",
@@ -134,6 +125,15 @@
       "audio_url": "",
       "url": "2025-and-2026-among-hottest-ye-K0YnV2vVRe.USbOap1zkSg",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-01-19T23:25:44.000000Z",
+      "title": "Live: Sweeny goes ahead against French showman Monfils as crowd is split",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e95a5caf116c1b5d81ec710c887bc89d?impolicy=wcms_crop_resize&amp;cropH=1537&amp;cropW=2733&amp;xPos=0&amp;yPos=13&amp;width=862&amp;height=485"
+      },
+      "description": "Australian qualifier Dane Sweeny is not receiving much home-court advantage as he goes up against retiring French fan favourite Gael Monfils in the Australian Open first round. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-live-updates-jannik-sinner-naomi-osaka/106247690"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/99a26f44-8e5d-4f85-b614-b2b328895cbe",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-20T06:24:14.525584"
+  "merged_at": "2026-01-20T07:21:20.517241"
 }
