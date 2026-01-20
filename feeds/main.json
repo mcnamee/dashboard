@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-20T20:07:25.000000Z",
+      "title": "Five quick hits: Osaka stuns in jellyfish-inspired outfit as Monfil says merci beaucoup",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f03b2c825cf605749b3443583056a23e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=349&amp;width=862&amp;height=485"
+      },
+      "description": "Naomi Osaka took to Rod Laver Arena in a white, flowy jellyfish fashion piece on day three as Gael Monfils waved goodbye to Melbourne Park. Here are the quick hits from the Australian Open.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-21/australian-open-2026-quick-hits/106248012"
+    },
+    {
       "published_datetime": "2026-01-20T19:49:32.000000Z",
       "title": "Donald Trump, the madman theory, and why even Australia is not safe",
       "featured_image": {
@@ -10,17 +19,62 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/donald-trump-greenland-threat-madman-theory-analysis/106251358"
     },
     {
-      "published_datetime": "2026-01-20T19:38:41.000000Z",
-      "title": "The 'perfect storm' that has led to NSW's high shark attack numbers",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/80461f7d-01f6-4f11-bfd9-03f5b8bd2ab5",
+      "published_datetime": "2026-01-20T19:40:10.482889",
+      "title": "Iran's parliament warns of jihad if Supreme Leader attacked",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cfa193d50865a2fce4f9d9c3f0856915?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "url": "https://www.cnn.com/2025/06/30/middleeast/iran-supreme-leader-ayatollah-ali-khamenei-choices-intl",
+        "name": "Ayatollah Ali Khamenei: Iran's supreme leader faces his ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Va4pEGiy--/t_limit/https://media.cnn.com/api/v1/images/stellar/prod/2025-05-20t115850z-1894412973-rc2nleacha3a-rtrmadp-3-iran-nuclear-usa-20250629150751537.JPG%3Fc%3D16x9%26q%3Dh_833%2Cw_1480%2Cc_fill",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--u-23EAlE--/t_thumbnail/https://media.cnn.com/api/v1/images/stellar/prod/2025-05-20t115850z-1894412973-rc2nleacha3a-rtrmadp-3-iran-nuclear-usa-20250629150751537.JPG%3Fc%3D16x9%26q%3Dh_833%2Cw_1480%2Cc_fill"
       },
-      "description": "New South Wales has experienced the highest number of shark attacks for January across the state in the last decade, according to the Australian Shark Incident Database.",
+      "description": "Iran's parliament issued a stark warning on Tuesday that any attack on Supreme Leader Ayatollah Ali Khamenei would trigger a declaration of jihad, or holy war, with the mobilization of Islamic fighters worldwide. The statement, from the national security committee of Iran's parliament, raises the stakes in a rapidly escalating confrontation between Tehran and Washington following a deadly crackdown on protests.[1][2]\n\n\"Any aggression against the Supreme Leader signifies a declaration of war against the entire Islamic community and necessitates a Jihad proclamation from Islamic scholars, along with the mobilization of Islam's fighters worldwide,\" the parliamentary committee stated, according to the Iranian Students News Agency.[2][1]",
+      "audio_url": "",
+      "url": "iran-warns-jihad-if-supreme-le-Y7zKpa_kR_aKdUUy1mTiGA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1d11cc40-081c-40d5-872a-ae3c07892501",
+      "published_datetime": "2026-01-20T19:38:59.098947",
+      "title": "Mexico transfers 37 cartel suspects to US amid pressure from Trump",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/americas/mexico-under-pressure-trump-transfers-26-more-cartel-members-us-2025-08-12/",
+        "name": "Mexico, under pressure from Trump, transfers 26 more cartel ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--2BJmmKWq--/t_limit/https://www.reuters.com/resizer/v2/4HWUZCRXIJPMLC4EUKZVIYANMA.jpg%3Fauth%3D69fa12cb229c08bf4d1c22c57e625d09a7998e17787038d0ab6e66b16b60113f%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--JAWjsQoa--/t_thumbnail/https://www.reuters.com/resizer/v2/4HWUZCRXIJPMLC4EUKZVIYANMA.jpg%3Fauth%3D69fa12cb229c08bf4d1c22c57e625d09a7998e17787038d0ab6e66b16b60113f%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Mexico has transferred another 37 drug cartel members to the United States, the country's security minister announced Tuesday, as the Trump administration continues to pressure governments to crack down on criminal networks smuggling drugs across the border.\n\nMexican Security Minister Omar Garc\u00eda Harfuch confirmed the transfer in a social media post on X, describing the individuals as \"high impact criminals\" who \"represented a real threat to the country's security.\" The handover brings the total number of cartel operatives and leaders sent to the United States under President Claudia Sheinbaum's administration to 92.[1][2][3]",
+      "audio_url": "",
+      "url": "mexico-delivers-37-drug-cartel-nm9SA2VfS52dViJW8Qcsew",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-01-20T19:38:41.000000Z",
+      "title": "'Perfect storm' driving alarming spate of NSW shark attacks",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/93609e019c622ec257611a33d45fac24?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Shark populations are declining worldwide but NSW has already recorded the highest number of January attacks in a decade. A marine biologist says there are reasons sharks and people are coming into contact more often.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/shark-attack-numbers-in-nsw-australian-shark-incident-database/106249078"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0aaae387-bcdc-41aa-a8d6-eec3e362e6ec",
+      "published_datetime": "2026-01-20T19:34:24.612741",
+      "title": "European Parliament set to suspend US trade deal over Greenland",
+      "featured_image": {
+        "url": "https://www.lemonde.fr/en/international/article/2026/01/20/eu-parliament-freezes-us-trade-deal-after-trump-s-tariff-threats-over-greenland_6749625_4.html",
+        "name": "EU Parliament freezes US trade deal ratification after Trump's tariff ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--GxYnzrNq--/t_limit/https://img.lemde.fr/2026/01/20/3/0/3782/2521/1440/960/60/0/0f207e8_ftp-1-xlk7xnlh9anx-2026-01-20t122332z-1577463871-rc2z4jakn9kp-rtrmadp-3-eu-parliament.JPG",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--fUTj0Y7c--/t_thumbnail/https://img.lemde.fr/2026/01/20/3/0/3782/2521/1440/960/60/0/0f207e8_ftp-1-xlk7xnlh9anx-2026-01-20t122332z-1577463871-rc2z4jakn9kp-rtrmadp-3-eu-parliament.JPG"
+      },
+      "description": "The European Parliament is set to halt approval of the trade agreement reached with the United States last July, according to sources close to its international trade committee, as transatlantic tensions over Greenland threaten to unravel months of diplomatic negotiations. An official announcement is expected Wednesday in Strasbourg, France.[1][2][3]\n\nThe decision marks a rebuke to Washington after President Donald Trump on Saturday announced escalating tariffs on eight European nations\u2014Denmark, Norway, Sweden, France, Germany, the United Kingdom, the Netherlands, and Finland\u2014unless the US is allowed to purchase Greenland, a semi-autonomous Danish territory.[4][5]",
+      "audio_url": "",
+      "url": "europe-prepares-to-suspend-us-SiSdubsMRs6j5LswXNGUog",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-20T19:18:49.000000Z",
-      "title": "Religious restrictions, compulsory fasting: Samoa PM's 'radical' Christian agenda",
+      "title": "Samoa's PM proposes compulsory fasting, ban on non-Christian religions",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ac23cc72a6bb888b0e77ee69e437ffe5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=294&amp;width=862&amp;height=485"
       },
@@ -37,8 +91,38 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/chinese-air-force-rivals-us-taiwan-conflict/106212470"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6775e872-7c4a-4755-9794-a35bd0f7ca37",
+      "published_datetime": "2026-01-20T19:03:07.430215",
+      "title": "Nvidia invests $150M in AI startup Baseten at $5B valuation",
+      "featured_image": {
+        "url": "https://finance.yahoo.com/news/exclusive-baseten-ai-inference-unicorn-102959702.html",
+        "name": "Baseten, AI inference unicorn, raises $150 million at $2.15 billion ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--EzciEVkT--/t_limit/https://s.yimg.com/ny/api/res/1.2/e4aqoIrg72Ky7NvmMlljKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjM-/https://media.zenfs.com/en/fortune_175/3df635a5b6da5176e1b5578fead5e796",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--X7WZtlNC--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/e4aqoIrg72Ky7NvmMlljKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjM-/https://media.zenfs.com/en/fortune_175/3df635a5b6da5176e1b5578fead5e796"
+      },
+      "description": "Nvidia is pouring $150 million into AI inference startup Baseten as part of a $300 million funding round that more than doubles the company's valuation to $5 billion, according to a report from The Wall Street Journal.[1][2]\n\nThe round was led by venture capital firm IVP and CapitalG, Alphabet's independent growth fund, signaling continued confidence in the AI infrastructure market despite concerns about whether the sector is overheating.[1]",
+      "audio_url": "",
+      "url": "nvidia-and-baseten-announce-30-cbqoP2xeQ8C.e8JwmVdAWQ",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8c3b40b0-701d-4484-b5d4-ca0d1f6c02cd",
+      "published_datetime": "2026-01-20T18:56:38.419164",
+      "title": "Zelensky cancels Davos trip as Russian strike cripples Kyiv heat",
+      "featured_image": {
+        "url": "https://kyivindependent.com/amid-energy-crisis-zelensky-opts-to-stay-in-ukraine-sends-delegation-to-davos/",
+        "name": "I choose Ukraine' \u2014 Zelensky cancels trip to Davos following ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--arax8lai--/t_limit/https://kyivindependent.com/_next/image%3Furl%3Dhttps%253A%252F%252Fassets.kyivindependent.com%252Fcontent%252Fimages%252F2026%252F01%252FGettyImages-2256588810-1.jpg%26w%3D1536%26q%3D75",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--JjlbMF3n--/t_thumbnail/https://kyivindependent.com/_next/image%3Furl%3Dhttps%253A%252F%252Fassets.kyivindependent.com%252Fcontent%252Fimages%252F2026%252F01%252FGettyImages-2256588810-1.jpg%26w%3D1536%26q%3D75"
+      },
+      "description": "Ukrainian President Volodymyr Zelensky announced on January 20 that he is canceling his planned trip to the World Economic Forum in Davos, choosing to remain in Kyiv to coordinate the response to a severe energy crisis following Russia's latest mass aerial attack on the country's power infrastructure.\n\n\"Undoubtedly, I choose Ukraine in this case, rather than the economic forum, but everything can change at any moment,\" Zelensky told journalists, adding that helping people with the energy situation is his \"top priority\" right now.[1][2]",
+      "audio_url": "",
+      "url": "zelensky-cancels-davos-trip-to-zwTgE41KR2KIB4HWbHQpTA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-20T18:50:10.000000Z",
-      "title": "Jewish groups say vilification laws should be revisited as hate bill passes",
+      "title": "Jewish groups say vilification laws should be revisited as Coalition splits on hate bill",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/609e9b25334e069349cdeea1c5850a27?impolicy=wcms_crop_resize&amp;cropH=3083&amp;cropW=5482&amp;xPos=188&amp;yPos=265&amp;width=862&amp;height=485"
       },
@@ -148,51 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/98e6267e-4203-4aae-b65c-67f82c40e622",
-      "published_datetime": "2026-01-20T15:44:27.004459",
-      "title": "Trump intensifies pressure on European allies over Greenland demands",
-      "featured_image": {
-        "url": "https://www.newindianexpress.com/amp/story/world/2026/Jan/19/europe-hits-back-at-trump-tariff-threat-over-greenland",
-        "name": "Europe hits back at Trump tariff threat over Greenland",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--DwUiZEh7--/t_limit/https://media.newindianexpress.com/newindianexpress/2026-01-13/g2ccrao4/AP26012117241272.jpg%3Fw%3D1200%26h%3D900%26auto%3Dformat%252Ccompress%26fit%3Dmax%26enlarge%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--3vn9THsX--/t_thumbnail/https://media.newindianexpress.com/newindianexpress/2026-01-13/g2ccrao4/AP26012117241272.jpg%3Fw%3D1200%26h%3D900%26auto%3Dformat%252Ccompress%26fit%3Dmax%26enlarge%3Dtrue"
-      },
-      "description": "President Donald Trump intensified his campaign to acquire Greenland on Tuesday, posting AI-generated images of himself planting an American flag on the Arctic territory while threatening European allies with tariffs unless they relent on what he called an \"imperative\" matter of national security. The escalating pressure comes as European leaders prepare for tense meetings at the World Economic Forum in Davos, with EU officials vowing an \"unflinching\" response to what they describe as coercion against a longtime ally.",
-      "audio_url": "",
-      "url": "trump-intensifies-pressure-on-Xr5JJffvQyickDNoBdZCbg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fe29ddcb-f89e-4bf8-a30a-31fd09576070",
-      "published_datetime": "2026-01-20T15:17:11.498886",
-      "title": "Japan's 40-year bond suffers historic selloff amid fears over tax cut plan",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/japans-prime-minister-sanae-takaichi-speaks-during-a-press-news-photo/2256505371",
-        "name": "JAPAN-POLITICS-ELECTION",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1768920171/getty_uploads/2256505371_qi0dwf.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1768920171/getty_uploads/2256505371_qi0dwf.jpg"
-      },
-      "description": "Japanese government bonds experienced a historic meltdown on Tuesday as fiscal concerns over Prime Minister Sanae Takaichi's unfunded tax cut promises sent long-dated yields surging to levels not seen in decades, triggering a selloff that spread across global financial markets.\n\nThe yield on Japan's 40-year government bond rocketed past 4%, the highest since this maturity was introduced in 2007 and a first for any sovereign debt instrument in the country in more than three decades. The 30-year yield climbed to a record 3.875%, while the benchmark 10-year yield rose above 2.3%, its highest level since 1999.[1][2][3]",
-      "audio_url": "",
-      "url": "japan-s-40-year-bond-suffers-h-8FkkmP0TRHqi4hRjsfJuFQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6e6724b9-318c-42e6-96dd-4353154bb1f5",
-      "published_datetime": "2026-01-20T13:07:38.730662",
-      "title": "Hubble images show interstellar object's jets in rare symmetry",
-      "featured_image": {
-        "url": "https://me.mashable.com/science/65993/three-perfect-mini-jets-one-chilling-question-is-3iatlas-engineered",
-        "name": "Three perfect mini-jets, one chilling question: Is 3I/ATLAS engineered?",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--rq3fppnD--/t_limit/https://sm.mashable.com/mashable_me/seo/default/untitled-2026-01-20t141847498_44qg.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--zY63SbQy--/t_thumbnail/https://sm.mashable.com/mashable_me/seo/default/untitled-2026-01-20t141847498_44qg.jpg"
-      },
-      "description": "New images of the interstellar visitor 3I/ATLAS from the Hubble Space Telescope have revealed an unusual configuration of jets emanating from its nucleus, with three distinct plumes arranged in near-perfect 120-degree symmetry. Harvard astrophysicist Avi Loeb, who has been analyzing the data, says the geometric precision of the formation is difficult to reconcile with standard cometary outgassing and raises questions about the object's origins.\n\nImages captured by Hubble on January 7 and January 14, 2026, and processed by researcher Toni Scarmato using the Larson-Sekanina Rotational Gradient filter, show three collimated mini-jets extending tens of thousands of kilometers into space, each separated by exactly 120 degrees in projection. A fourth \"anti-tail\" jet points directly toward the sun, stretching up to 400,000 kilometers \u2014 a length that Loeb argues has never been reported before for solar system comets.[1][2][3][4]",
-      "audio_url": "",
-      "url": "harvard-astrophysicist-finds-u-G4JmLTFmQYSyzXGwgBWNbg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-20T11:55:44.000000Z",
       "title": "NSW's first female governor Dame Marie Bashir dies aged 95",
       "featured_image": {
@@ -200,45 +239,6 @@
       },
       "description": "NSW Premier Chris Minns says a state funeral will be held for the veteran public servant, who he describes as \"an extraordinary Australian\".",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/dame-marie-bashir-the-first-female-nsw-governor-dies/106251006"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ffd211bb-1a60-490e-a550-3b3b0c917a43",
-      "published_datetime": "2026-01-20T10:39:46.273176",
-      "title": "Chinese researchers achieve 31% efficiency in perovskite solar cells",
-      "featured_image": {
-        "url": "https://www.scmp.com/news/china/science/article/3224393/chinese-scientists-boost-perovskite-solar-cell-efficiency",
-        "name": "Chinese scientists boost perovskite solar cell efficiency ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--PRDheKhS--/t_limit/https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2023/06/16/107dc2a4-a19c-4e18-b074-4fda5b97a3fc_6d1fe96c.jpg%3Fitok%3DCToEKhVx%26v%3D1686921015",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--LpXt75kJ--/t_thumbnail/https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2023/06/16/107dc2a4-a19c-4e18-b074-4fda5b97a3fc_6d1fe96c.jpg%3Fitok%3DCToEKhVx%26v%3D1686921015"
-      },
-      "description": "Scientists in China and Hong Kong have announced separate advances in perovskite solar cell technology this month, addressing long-standing challenges with both efficiency and stability that have hindered the material's commercial adoption.\n\nA research team from Northwestern Polytechnical University, in collaboration with Xi'an Shiyou University and Xidian University, developed a novel crystallization strategy using a two-dimensional seeding agent to achieve 31.13% efficiency in a perovskite-silicon tandem solar cell. Separately, engineers at the Hong Kong University of Science and Technology created a \"Molecular Velcro\" coating that enables cells to retain over 95% of their initial efficiency after more than 1,100 hours of continuous operation under intense heat.[1][2][3][4][5]",
-      "audio_url": "",
-      "url": "researchers-boost-perovskite-s-lf_AnahpRiGFfon6dswsGQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ec36d22c-355c-4a58-9911-9691699459bb",
-      "published_datetime": "2026-01-20T10:07:41.019559",
-      "title": "Asian and European stocks fall as Trump tariff threats roil markets",
-      "featured_image": {
-        "url": "https://www.reuters.com/markets/europe/european-stocks-slide-trumps-greenland-tariff-threat-rattles-investors-2026-01-19/",
-        "name": "European stocks slide as Trump's Greenland tariff threat rattles investors",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s---Br2otfD--/t_limit/https://www.reuters.com/resizer/v2/COA7TPN5SFP5VGVNJOQGRFI6WQ.jpg%3Fauth%3D18fb00cbcd7f3531e7ef893ecaa99e1ea977faa57d74951d87db89910b43c0d6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--bhLXiT10--/t_thumbnail/https://www.reuters.com/resizer/v2/COA7TPN5SFP5VGVNJOQGRFI6WQ.jpg%3Fauth%3D18fb00cbcd7f3531e7ef893ecaa99e1ea977faa57d74951d87db89910b43c0d6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Stock markets across Asia and Europe tumbled Tuesday as investors grappled with escalating trade tensions after President Donald Trump threatened tariffs on eight European nations in his bid to acquire Greenland, while Japan's snap election announcement failed to lift regional sentiment.\n\nThe pan-European STOXX 600 fell 0.8% on Tuesday, extending its worst session in over two months, while the STOXX 50 declined 0.4%. In Asia, Japan's Nikkei 225 dropped approximately 0.8%, while Hong Kong's Hang Seng and China's Shanghai Composite shed 0.1% to 0.5%.[1][2][3][4][5]",
-      "audio_url": "",
-      "url": "asian-and-european-markets-fal-49zNpfihRRihJ35zMMGPlw",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-19T23:25:44.000000Z",
-      "title": "Osaka brings fashion to the court as plucky Aussies progress to second round",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f03b2c825cf605749b3443583056a23e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=349&amp;width=862&amp;height=485"
-      },
-      "description": "Seeing Naomi Osaka don a jellyfish-inspired outfit was one highlight of day three of the tournament, however two plucky Australians \u2014 Dane Sweeny and James Duckworth also put on a show.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-live-updates-jannik-sinner-naomi-osaka/106247690"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-20T20:06:43.608372"
+  "merged_at": "2026-01-20T21:14:32.199562"
 }
