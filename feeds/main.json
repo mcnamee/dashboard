@@ -16,6 +16,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-01-20T16:24:55.000000Z",
+      "title": "'He's a T-Rex': Newsom warns US allies to stop 'rolling over' to Trump",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/77536a0cba26b78acc590b37059b8791?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "As European leaders struggle to come up with ways to ease the US president's ambition for a take over of Greenland, a prominent Democrat is accusing them of \"rolling over\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-21/newsom-mocks-european-leaders-greenland/106251248"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/92c97d3a-f30a-44b6-b9da-5d179821b24f",
       "published_datetime": "2026-01-20T16:23:30.178311",
       "title": "Greenland PM tells residents to prepare for possible invasion",
@@ -196,15 +205,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/woolworths-google-ai-items-shopping-groceries/106243642"
     },
     {
-      "published_datetime": "2026-01-20T03:55:09.000000Z",
-      "title": "'Wasn't I smart': Hanson celebrates historic rise in polls",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5d5240780dfd8b95cd64aad196eb00bb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "While she's made no secret of her desire to eventually unseat Anthony Albanese, the One Nation leader's immediate electoral strategy is to gain ground at upcoming state elections.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-20/pauline-hanson-one-nation-polling-state-election-mainstream/106244024"
-    },
-    {
       "published_datetime": "2026-01-20T03:43:52.000000Z",
       "title": "What we know about the four NSW shark attacks in 48 hours",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-20T16:43:31.226625"
+  "merged_at": "2026-01-20T17:22:31.313875"
 }
