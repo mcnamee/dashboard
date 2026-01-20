@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-20T14:08:16.000000Z",
+      "title": "UK backs plan for Chinese mega-embassy in London despite spy fears",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e3f2fcedaece2641fe3ec3b31c611f25?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The new embassy will sit in the city's Royal Mint Court alongside London's famous financial hub, despite experts and human rights groups raising concerns about foreign interference.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-21/chinese-embassy-in-london-approved-by-uk-government/106251004"
+    },
+    {
       "published_datetime": "2026-01-20T11:55:44.000000Z",
       "title": "NSW's first female governor Dame Marie Bashir dies aged 95",
       "featured_image": {
@@ -128,15 +137,6 @@
       },
       "description": "Four shark attacks are documented within 48 hours at beaches across New South Wales, lifting the anxieties of swimmers and surfers who are considering a dip in the ocean.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/nsw-what-we-know-about-the-shark-attacks/106248186"
-    },
-    {
-      "published_datetime": "2026-01-20T02:32:36.000000Z",
-      "title": "What is Trump's Board of Peace and why could it be a threat to the UN?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/afc6f39df8304797c56b64315efcc1d2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump appears to be trying to build his own international peacekeeping body, which he calls the \"Board of Peace\". Here's why experts think it might attempt to rival the UN.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-20/what-is-donald-trump-s-board-of-peace/106247750"
     },
     {
       "published_datetime": "2026-01-20T01:43:56.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-20T13:40:26.529484"
+  "merged_at": "2026-01-20T14:23:19.911668"
 }
