@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/chinese-embassy-in-london-approved-by-uk-government/106251004"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6e6724b9-318c-42e6-96dd-4353154bb1f5",
+      "published_datetime": "2026-01-20T13:07:38.730662",
+      "title": "Hubble images show interstellar object's jets in rare symmetry",
+      "featured_image": {
+        "url": "https://me.mashable.com/science/65993/three-perfect-mini-jets-one-chilling-question-is-3iatlas-engineered",
+        "name": "Three perfect mini-jets, one chilling question: Is 3I/ATLAS engineered?",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--rq3fppnD--/t_limit/https://sm.mashable.com/mashable_me/seo/default/untitled-2026-01-20t141847498_44qg.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--zY63SbQy--/t_thumbnail/https://sm.mashable.com/mashable_me/seo/default/untitled-2026-01-20t141847498_44qg.jpg"
+      },
+      "description": "New images of the interstellar visitor 3I/ATLAS from the Hubble Space Telescope have revealed an unusual configuration of jets emanating from its nucleus, with three distinct plumes arranged in near-perfect 120-degree symmetry. Harvard astrophysicist Avi Loeb, who has been analyzing the data, says the geometric precision of the formation is difficult to reconcile with standard cometary outgassing and raises questions about the object's origins.\n\nImages captured by Hubble on January 7 and January 14, 2026, and processed by researcher Toni Scarmato using the Larson-Sekanina Rotational Gradient filter, show three collimated mini-jets extending tens of thousands of kilometers into space, each separated by exactly 120 degrees in projection. A fourth \"anti-tail\" jet points directly toward the sun, stretching up to 400,000 kilometers \u2014 a length that Loeb argues has never been reported before for solar system comets.[1][2][3][4]",
+      "audio_url": "",
+      "url": "harvard-astrophysicist-finds-u-G4JmLTFmQYSyzXGwgBWNbg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-20T11:55:44.000000Z",
       "title": "NSW's first female governor Dame Marie Bashir dies aged 95",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d5339985-ea11-489d-a255-798a040a8e7f",
-      "published_datetime": "2026-01-19T22:27:22.810679",
-      "title": "Greenland dispute could suck oxygen from Davos talks, Stubb says",
-      "featured_image": {
-        "url": "https://chroniclet.com/photo-single/418622/?mode=team",
-        "name": "Finnish President Alexander Stubb speaks at the Annual ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--gXEBTLaR--/t_limit/https://elyria-media.mynews360.com/image/418622/2/0/10/0/95",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--BkqAutP5--/t_thumbnail/https://elyria-media.mynews360.com/image/418622/2/0/10/0/95"
-      },
-      "description": "Finnish President Alexander Stubb voiced concerns on Monday that escalating tensions over Greenland will \"suck out all the oxygen\" at this week's World Economic Forum in Davos, potentially sidelining critical discussions about ending Russia's war in Ukraine and securing the country's reconstruction.[1]\n\n\"We are doing everything we can to avoid that,\" Stubb told reporters in Davos on Monday, adding that \"for Ukraine, the best that can come out of Davos is some kind of an agreement on an economic plan or reconstruction\".[1]\n\nThe warning comes as the 56th World Economic Forum opened January 19 under the theme \"A Spirit of Dialogue,\" with nearly 3,000 participants from more than 130 countries, including approximately 65 heads of state and six G7 leaders. Yet the gathering has been upended by President Donald Trump's threat to impose escalating tariffs on European allies unless they acquiesce to American acquisition of Greenland.[2][3]",
-      "audio_url": "",
-      "url": "greenland-dispute-could-suck-o-00XWuVBRQuqYCPauvdIhFQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-20T14:23:19.911668"
+  "merged_at": "2026-01-20T14:38:36.803238"
 }
