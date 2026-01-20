@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-20T17:17:49.000000Z",
+      "title": "David Beckham breaks silence after son Brooklyn cuts ties",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6b0e277570ad40d242ddb3b64b53fae7?impolicy=wcms_crop_resize&amp;cropH=2387&amp;cropW=4243&amp;xPos=378&amp;yPos=946&amp;width=862&amp;height=485"
+      },
+      "description": "The football superstar told broadcasters at the World Economic Forum that \"children are allowed to make mistakes\" in his first public comments since his son's allegations went public.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-21/david-beckham-brooklyn-davos-children-make-mistakes/106251360"
+    },
+    {
+      "published_datetime": "2026-01-20T16:42:40.000000Z",
+      "title": "Baby killer Lucy Letby to face no further criminal charges",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c5051b423fd1d7dd06175ef4fd5a44e6?impolicy=wcms_crop_resize&amp;cropH=758&amp;cropW=1347&amp;xPos=0&amp;yPos=505&amp;width=862&amp;height=485"
+      },
+      "description": "The UK's Crown Prosecution Service says it considered the offences of murder or attempted murder in relation to the deaths of nine babies.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-21/lucy-letby-to-face-no-further-criminal-charges/106251330"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/14567860-f03c-4ec8-9865-f48dbcb984e6",
       "published_datetime": "2026-01-20T16:31:04.110263",
       "title": "Israel demolishes UNRWA headquarters in East Jerusalem",
@@ -17,7 +35,7 @@
     },
     {
       "published_datetime": "2026-01-20T16:24:55.000000Z",
-      "title": "'He's a T-Rex': Newsom warns US allies to stop 'rolling over' to Trump",
+      "title": "'He's a T-Rex': Newsom tells US allies 'stand united' against Trump amid Greenland crisis",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/77536a0cba26b78acc590b37059b8791?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -187,15 +205,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/israel-demolish-united-nations-headquarters-jerusalem/106250826"
     },
     {
-      "published_datetime": "2026-01-20T08:07:06.000000Z",
-      "title": "Trump shares messages from Macron offering G7 meeting after Davos",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8e697d05bcc973eaea9d195a0dcd5765?impolicy=wcms_crop_resize&amp;cropH=1544&amp;cropW=2745&amp;xPos=0&amp;yPos=23&amp;width=862&amp;height=485"
-      },
-      "description": "US President Donald Trump has shared a private message purportedly from his French counterpart Emmanuel Macron ahead of a global economic forum in Davos, Switzerland.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-20/trump-shares-texts-from-macron-offering-g7-meeting-after-davos/106250724"
-    },
-    {
       "published_datetime": "2026-01-20T06:28:35.000000Z",
       "title": "Woolies' new AI system fundamentally changes the role of the shopper",
       "featured_image": {
@@ -203,15 +212,6 @@
       },
       "description": "Without scrutiny, agent-led shopping risks quietly reconfiguring consumer behaviour in ways that are difficult to detect \u2014 and even harder to reverse.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-20/woolworths-google-ai-items-shopping-groceries/106243642"
-    },
-    {
-      "published_datetime": "2026-01-20T03:43:52.000000Z",
-      "title": "What we know about the four NSW shark attacks in 48 hours",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/16b79dade1d16e5e675bc8862fc502ca?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Four shark attacks are documented within 48 hours at beaches across New South Wales, lifting the anxieties of swimmers and surfers who are considering a dip in the ocean.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-20/nsw-what-we-know-about-the-shark-attacks/106248186"
     },
     {
       "published_datetime": "2026-01-20T01:43:56.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-20T17:22:31.313875"
+  "merged_at": "2026-01-20T18:24:04.259598"
 }
