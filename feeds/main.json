@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/aa734f93-8995-4700-a063-4f0ae4c11a74",
+      "published_datetime": "2026-01-21T14:25:19.142564",
+      "title": "JPMorgan CEO Dimon says AI will cut jobs at the bank",
+      "featured_image": {
+        "url": "https://www.reuters.com/business/davos/jpmorgan-ceo-dimon-says-credit-card-rate-cap-will-be-an-economic-disaster-2026-01-21/",
+        "name": "JPMorgan CEO Dimon warns credit card rate cap will be ... - Reuters",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--DIJL2BLy--/t_limit/https://www.reuters.com/resizer/v2/EIV4HXAFVNNWNKBWJBKHMBHXDQ.jpg%3Fauth%3D535d1002f0611a26955e5f60f54c72c9210bca170f65fab9d841fdd74c7b6a1d%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--kl97iqSt--/t_thumbnail/https://www.reuters.com/resizer/v2/EIV4HXAFVNNWNKBWJBKHMBHXDQ.jpg%3Fauth%3D535d1002f0611a26955e5f60f54c72c9210bca170f65fab9d841fdd74c7b6a1d%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Speaking at the World Economic Forum in Davos, Switzerland, this week, JPMorgan Chase CEO Jamie Dimon warned that artificial intelligence will transform the banking industry and reduce employment at the nation's largest financial institution over the next five years. Dimon estimated the bank will have fewer employees than its current workforce of more than 317,000, even as the company continues to grow globally.\n\n\"I do think it may go too fast for society,\" Dimon said during a panel discussion on Monday. \"And if it goes too fast for society, that's where government and business and the collaborative ways to step in together and come up with a way to retrain people or move it over time.\"[1]",
+      "audio_url": "",
+      "url": "jpmorgan-ceo-dimon-predicts-ai-ENxUsT2NTOiy7pxqzGzHMA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-21T13:00:54.000000Z",
       "title": "Australian real estate prices set new records as Melbourne rebounds",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2bcbebb0-85c9-4de3-957c-1e6d749cc372",
-      "published_datetime": "2026-01-21T01:21:19.923325",
-      "title": "Webb telescope captures dying star's fate and black hole's feeding",
-      "featured_image": {
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Webb_reveals_Helix_Nebula_in_glistening_detail",
-        "name": "ESA - Webb reveals Helix Nebula in glistening detail",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--CYxMMT7a--/t_limit/https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/webb_reveals_helix_nebula_in_glistening_detail/27049912-4-eng-GB/Webb_reveals_Helix_Nebula_in_glistening_detail_pillars.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--65jk_8-X--/t_thumbnail/https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/webb_reveals_helix_nebula_in_glistening_detail/27049912-4-eng-GB/Webb_reveals_Helix_Nebula_in_glistening_detail_pillars.jpg"
-      },
-      "description": "NASA released stunning new images from the James Webb Space Telescope on Tuesday, including a detailed look at the Helix Nebula that offers a glimpse into the eventual fate of our own Sun. Meanwhile, separate observations captured a supermassive black hole in the Circinus Galaxy actively consuming surrounding material, overturning decades of assumptions about how such cosmic giants feed.",
-      "audio_url": "",
-      "url": "james-webb-telescope-reveals-n-ZEoaWyRWTySzbdniGAvp7Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-20T23:28:01.000000Z",
       "title": "De Minaur overcomes early scare to progress to third round",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-21T14:22:39.726714"
+  "merged_at": "2026-01-21T14:38:39.530932"
 }
