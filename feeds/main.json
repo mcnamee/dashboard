@@ -1,10 +1,67 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-21T02:45:38.000000Z",
+      "title": "Trump's America-first policies are pushing countries into China's embrace",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c55ea919a549227226bcf144437b7aec?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
+      },
+      "description": "Inside China, there's a nickname for Donald Trump that tells you everything you need to know about how the US leader's actions are increasingly seen as a gift to Beijing.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-21/donald-trump-is-a-gift-to-china-that-keeps-on-giving/106249578"
+    },
+    {
+      "published_datetime": "2026-01-21T01:59:13.000000Z",
+      "title": "Australian shark attack data reveals where bite incidents happen most",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cf0ca2878454bf3d1f6757b7f975a198?impolicy=wcms_crop_resize&amp;cropH=2763&amp;cropW=4912&amp;xPos=0&amp;yPos=278&amp;width=862&amp;height=485"
+      },
+      "description": "An ABC analysis of the national Shark-Incident Database shows that the average number of verified shark bite incidents recorded annually over a decade has increased every 10 years since the 1950s.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-21/what-australian-shark-attack-data-reveals/106248228"
+    },
+    {
+      "published_datetime": "2026-01-21T01:51:08.000000Z",
+      "title": "Australia's most expensive capital for fuel dogged by volatile price cycles",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7f741ef92ecbb40c837de2e3d8934ce2?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=48&amp;width=862&amp;height=485"
+      },
+      "description": "Brisbane's fuel prices are more expensive than any other capital city for the third year in a row, with the RACQ revealing the cheapest suburbs to fill up.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-21/qld-brisbane-petrol-prices-most-expensive/106252088"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2bcbebb0-85c9-4de3-957c-1e6d749cc372",
+      "published_datetime": "2026-01-21T01:21:19.923325",
+      "title": "Webb telescope captures dying star's fate and black hole's feeding",
+      "featured_image": {
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/01/Webb_reveals_Helix_Nebula_in_glistening_detail",
+        "name": "ESA - Webb reveals Helix Nebula in glistening detail",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--CYxMMT7a--/t_limit/https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/webb_reveals_helix_nebula_in_glistening_detail/27049912-4-eng-GB/Webb_reveals_Helix_Nebula_in_glistening_detail_pillars.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--65jk_8-X--/t_thumbnail/https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/webb_reveals_helix_nebula_in_glistening_detail/27049912-4-eng-GB/Webb_reveals_Helix_Nebula_in_glistening_detail_pillars.jpg"
+      },
+      "description": "NASA released stunning new images from the James Webb Space Telescope on Tuesday, including a detailed look at the Helix Nebula that offers a glimpse into the eventual fate of our own Sun. Meanwhile, separate observations captured a supermassive black hole in the Circinus Galaxy actively consuming surrounding material, overturning decades of assumptions about how such cosmic giants feed.",
+      "audio_url": "",
+      "url": "james-webb-telescope-reveals-n-ZEoaWyRWTySzbdniGAvp7Q",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b66e8768-968b-4a21-aabf-eaa8bcf038ec",
+      "published_datetime": "2026-01-21T01:04:55.927095",
+      "title": "Trump and Putin envoys hold first talks on Ukraine at Davos",
+      "featured_image": {
+        "url": "https://www.gettyimages.com/detail/news-photo/special-envoy-steve-witkoff-speaks-at-the-iac-national-news-photo/2256586635",
+        "name": "IAC National Summit 2026",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1768957326/getty_uploads/2256586635_u3p6o9.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1768957326/getty_uploads/2256586635_u3p6o9.jpg"
+      },
+      "description": "Envoys for U.S. President Donald Trump and Russian President Vladimir Putin met for approximately two hours in Davos on Tuesday to discuss a potential peace deal for Ukraine, with both sides characterizing the discussions as positive and constructive\u2014even as key obstacles to ending Europe's deadliest conflict since World War II remain unresolved.\n\nThe meeting at \"USA House\" on the sidelines of the World Economic Forum brought together Trump's special envoy Steve Witkoff and son-in-law Jared Kushner with Kremlin representative Kirill Dmitriev, marking the first time a senior Russian official has publicly engaged at the Swiss gathering since the forum froze ties with Moscow following the 2022 invasion of Ukraine.[1][2][3]",
+      "audio_url": "",
+      "url": "trump-and-putin-envoys-hold-co-VMKxIHBWQQ.bqtTWuSuz7Q",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-21T00:36:22.000000Z",
       "title": "A year into Trump's second term, the Supreme Court's docket is full of legal challenges",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8187348ff93f4a447fce04f56fbf53ce?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8187348ff93f4a447fce04f56fbf53ce?impolicy=wcms_crop_resize&amp;cropH=1829&amp;cropW=3252&amp;xPos=662&amp;yPos=810&amp;width=862&amp;height=485"
       },
       "description": "A wide range of cases challenging Donald Trump's actions have landed on the Supreme Court's docket in the past year. Here's what to know",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/trump-supreme-court-cases-breakdown/106249160"
@@ -19,13 +76,19 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/prime-minister-national-security-adviser-resigns/106252214"
     },
     {
-      "published_datetime": "2026-01-20T23:28:01.000000Z",
-      "title": "Live: Top seed Sabalenka running hot against outmatched world number 702",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1cdb5279-20a3-4436-8687-bc52edf3c305",
+      "published_datetime": "2026-01-20T22:50:59.299408",
+      "title": "Trump says NATO would be 'ash heap of history' without him",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/59d2efce9b7d4c8d2cc47c416e39e209?impolicy=wcms_crop_resize&amp;cropH=2462&amp;cropW=4377&amp;xPos=0&amp;yPos=246&amp;width=862&amp;height=485"
+        "url": "https://news.meaww.com/trump-highlights-nato-contributions-but-challenges-allies-commitment",
+        "name": "Trump highlights NATO contributions but challenges allies' commitment",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--epLf8WDL--/t_limit/https://dxltb3n5j8l6j.cloudfront.net/788185/uploads/324b8590-f642-11f0-977e-35ab0c61e9cb_1200_630.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--F4nocjJ0--/t_thumbnail/https://dxltb3n5j8l6j.cloudfront.net/788185/uploads/324b8590-f642-11f0-977e-35ab0c61e9cb_1200_630.jpeg"
       },
-      "description": "Half the Australian Open singles field has been whittled away as wildcard Talia Gibson kicks off second-round action on day four at Melbourne Park. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-21/australian-open-2026-live-alex-de-minaur-sabalenka-alcaraz/106252014"
+      "description": "President Donald Trump declared on Tuesday that NATO would be \"in the ash heap of history\" without his leadership, as European leaders rallied to oppose his push to acquire Greenland and his threat to impose escalating tariffs on eight allied nations.\n\n\"No single person, or President, has done more for NATO than President Donald J. Trump. If I didn't come along, there would be no NATO right now!!! It would have been in the ash heap of History,\" Trump wrote on Truth Social. In the same post, he added, \"Sad, but TRUE!!!\"[1][2][3]\n\nThe remarks came just hours before Trump departed for the World Economic Forum in Davos, Switzerland, where European leaders assembled to present a united front against his territorial ambitions.",
+      "audio_url": "",
+      "url": "trump-claims-nato-owes-existen-P.onYnffQrCPMe8hiNlKyw",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-20T22:48:19.000000Z",
@@ -67,15 +130,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-20T21:36:14.000000Z",
-      "title": "One dead, at least 15 injured after another passsenger train derails near Barcelona",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d9c6c3c10dcb7f2a1b7c4da82eed1a46?impolicy=wcms_crop_resize&amp;cropH=939&amp;cropW=1669&amp;xPos=0&amp;yPos=87&amp;width=862&amp;height=485"
-      },
-      "description": "One person has died and at least 15 others have been injured after a containment wall fell onto a train track due to heavy rain near the Spanish city of Barcelona, local authorities say.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-21/commuter-train-derails-near-barcelona-after-wall-collapse/106251708"
-    },
-    {
       "published_datetime": "2026-01-20T21:29:29.000000Z",
       "title": "Senior Nationals expected to quit portfolios after defying shadow cabinet",
       "featured_image": {
@@ -86,20 +140,20 @@
     },
     {
       "published_datetime": "2026-01-20T21:08:31.000000Z",
-      "title": "Shattered father's tribute to teenager found dead on K'gari beach",
+      "title": "Mother of teenager found dead on K'gari says life 'will bever be the same'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/48dbff5fd5b9d352e36156000f535f6a?impolicy=wcms_crop_resize&amp;cropH=532&amp;cropW=946&amp;xPos=0&amp;yPos=549&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5f088c3d885a1f2a3743a2465d9f9219?impolicy=wcms_crop_resize&amp;cropH=532&amp;cropW=946&amp;xPos=0&amp;yPos=296&amp;width=862&amp;height=485"
       },
       "description": "The body of Canadian Piper James was found on K'gari (Fraser Island) surrounded by a pack of dingoes after she told friends she was going for an early morning swim.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/kgari-dingoes-and-death-of-piper-james/106251528"
     },
     {
       "published_datetime": "2026-01-20T20:38:01.000000Z",
-      "title": "Live: 'Sell America' trade in full swing as Trump threats hit Wall St",
+      "title": "Live: ASX falls as 'sell America' trade and Trump's threats sink Wall St",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8b0ed8e5ba111c5b5dae0d22cf69fc2c?impolicy=wcms_crop_resize&amp;cropH=1906&amp;cropW=3389&amp;xPos=0&amp;yPos=176&amp;width=862&amp;height=485"
       },
-      "description": "The Australian share market is set to fall for a third straight day as Wall Street tumbled to a one-month low on worsening relations between the US and Europe. Follow live.",
+      "description": "The Australian share market has fallen for a third straight day as Wall Street tumbled to a one-month low on worsening relations between the US and Europe. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/asx-markets-business-live-news-jan-21/106251484"
     },
     {
@@ -172,15 +226,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-20T19:38:41.000000Z",
-      "title": "'Perfect storm' driving alarming spate of NSW shark attacks",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/93609e019c622ec257611a33d45fac24?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Shark populations are declining worldwide but NSW has already recorded the highest number of January attacks in a decade. A marine biologist says there are reasons sharks and people are coming into contact more often.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-21/shark-attack-numbers-in-nsw-australian-shark-incident-database/106249078"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0aaae387-bcdc-41aa-a8d6-eec3e362e6ec",
       "published_datetime": "2026-01-20T19:34:24.612741",
       "title": "European Parliament set to suspend US trade deal over Greenland",
@@ -193,51 +238,6 @@
       "description": "The European Parliament is set to halt approval of the trade agreement reached with the United States last July, according to sources close to its international trade committee, as transatlantic tensions over Greenland threaten to unravel months of diplomatic negotiations. An official announcement is expected Wednesday in Strasbourg, France.[1][2][3]\n\nThe decision marks a rebuke to Washington after President Donald Trump on Saturday announced escalating tariffs on eight European nations\u2014Denmark, Norway, Sweden, France, Germany, the United Kingdom, the Netherlands, and Finland\u2014unless the US is allowed to purchase Greenland, a semi-autonomous Danish territory.[4][5]",
       "audio_url": "",
       "url": "europe-prepares-to-suspend-us-SiSdubsMRs6j5LswXNGUog",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6775e872-7c4a-4755-9794-a35bd0f7ca37",
-      "published_datetime": "2026-01-20T19:03:07.430215",
-      "title": "Nvidia invests $150M in AI startup Baseten at $5B valuation",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/news/exclusive-baseten-ai-inference-unicorn-102959702.html",
-        "name": "Baseten, AI inference unicorn, raises $150 million at $2.15 billion ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--EzciEVkT--/t_limit/https://s.yimg.com/ny/api/res/1.2/e4aqoIrg72Ky7NvmMlljKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjM-/https://media.zenfs.com/en/fortune_175/3df635a5b6da5176e1b5578fead5e796",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--X7WZtlNC--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/e4aqoIrg72Ky7NvmMlljKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjM-/https://media.zenfs.com/en/fortune_175/3df635a5b6da5176e1b5578fead5e796"
-      },
-      "description": "Nvidia is pouring $150 million into AI inference startup Baseten as part of a $300 million funding round that more than doubles the company's valuation to $5 billion, according to a report from The Wall Street Journal.[1][2]\n\nThe round was led by venture capital firm IVP and CapitalG, Alphabet's independent growth fund, signaling continued confidence in the AI infrastructure market despite concerns about whether the sector is overheating.[1]",
-      "audio_url": "",
-      "url": "nvidia-and-baseten-announce-30-cbqoP2xeQ8C.e8JwmVdAWQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8c3b40b0-701d-4484-b5d4-ca0d1f6c02cd",
-      "published_datetime": "2026-01-20T18:56:38.419164",
-      "title": "Zelensky cancels Davos trip as Russian strike cripples Kyiv heat",
-      "featured_image": {
-        "url": "https://kyivindependent.com/amid-energy-crisis-zelensky-opts-to-stay-in-ukraine-sends-delegation-to-davos/",
-        "name": "I choose Ukraine' \u2014 Zelensky cancels trip to Davos following ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--arax8lai--/t_limit/https://kyivindependent.com/_next/image%3Furl%3Dhttps%253A%252F%252Fassets.kyivindependent.com%252Fcontent%252Fimages%252F2026%252F01%252FGettyImages-2256588810-1.jpg%26w%3D1536%26q%3D75",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--JjlbMF3n--/t_thumbnail/https://kyivindependent.com/_next/image%3Furl%3Dhttps%253A%252F%252Fassets.kyivindependent.com%252Fcontent%252Fimages%252F2026%252F01%252FGettyImages-2256588810-1.jpg%26w%3D1536%26q%3D75"
-      },
-      "description": "Ukrainian President Volodymyr Zelensky announced on January 20 that he is canceling his planned trip to the World Economic Forum in Davos, choosing to remain in Kyiv to coordinate the response to a severe energy crisis following Russia's latest mass aerial attack on the country's power infrastructure.\n\n\"Undoubtedly, I choose Ukraine in this case, rather than the economic forum, but everything can change at any moment,\" Zelensky told journalists, adding that helping people with the energy situation is his \"top priority\" right now.[1][2]",
-      "audio_url": "",
-      "url": "zelensky-cancels-davos-trip-to-zwTgE41KR2KIB4HWbHQpTA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/14567860-f03c-4ec8-9865-f48dbcb984e6",
-      "published_datetime": "2026-01-20T16:31:04.110263",
-      "title": "Israel demolishes UNRWA headquarters in East Jerusalem",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/middle-east/israel-demolishes-buildings-un-palestinian-agencys-east-jerusalem-compound-2026-01-20/",
-        "name": "Israel demolishes buildings in UN Palestinian agency's East Jerusalem compound",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--KXSbZuJl--/t_limit/https://www.reuters.com/resizer/v2/ECOS4VVJAVJF3AIUQPA6EFRAHE.jpg%3Fauth%3D9ba74bcc802e614a7078c32405963991f358400d15614843647add158f835057%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--qEeZbk7B--/t_thumbnail/https://www.reuters.com/resizer/v2/ECOS4VVJAVJF3AIUQPA6EFRAHE.jpg%3Fauth%3D9ba74bcc802e614a7078c32405963991f358400d15614843647add158f835057%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Israeli bulldozers tore down buildings at the United Nations Relief and Works Agency (UNRWA) headquarters in occupied East Jerusalem on Tuesday morning, in what the UN agency condemned as an \"unprecedented attack\" and a serious violation of international law.\n\nShortly after 7 a.m. local time, Israeli forces entered the compound in the Sheikh Jarrah neighborhood, expelled security personnel, confiscated staff equipment, and began demolishing structures with heavy machinery, according to UNRWA spokesperson Jonathan Fowler. An Israeli flag was raised over the premises, replacing the UN flag.[1][2][3][4]\n\nFar-right National Security Minister Itamar Ben-Gvir arrived at the scene to observe the demolition. \"This is a historic day, a day of celebration, and a very important day for governance in Jerusalem,\" Ben-Gvir said in a statement. \"For years, these supporters of terrorism were here, and today they are being removed from here along with everything they built.\"[2][5]",
-      "audio_url": "",
-      "url": "israel-demolishes-unrwa-headqu-D_A1pzFKTCWnXfLesVfJwA",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-21T01:05:06.404004"
+  "merged_at": "2026-01-21T03:26:58.800762"
 }
