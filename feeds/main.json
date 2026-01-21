@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0db849df-d8b5-4d04-bfa1-b9b934ed8648",
+      "published_datetime": "2026-01-21T11:12:21.030548",
+      "title": "Far-red light triggers protein that disarms antibiotic-resistant bacteria",
+      "featured_image": {
+        "url": "https://biologicalsciences.uchicago.edu/news/light-suppresses-virulence-antibiotic-resistant-pathogen",
+        "name": "New study shows how light suppresses virulence in antibiotic ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--9Z36dm0t--/t_limit/https://biologicalsciences.uchicago.edu/sites/biologicalsciences/files/styles/social/public/2026-01/p-aeruginosa.jpg%3Fh%3Dc74750f6%26itok%3DBPq-Hyol",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--muNAKKmk--/t_thumbnail/https://biologicalsciences.uchicago.edu/sites/biologicalsciences/files/styles/social/public/2026-01/p-aeruginosa.jpg%3Fh%3Dc74750f6%26itok%3DBPq-Hyol"
+      },
+      "description": "Researchers at the University of Chicago have uncovered a light-sensitive signaling pathway that suppresses biofilm formation and virulence in Pseudomonas aeruginosa, an antibiotic-resistant bacterium responsible for dangerous hospital-acquired infections. The discovery, published in Nature Communications, identifies a small protein called DimA as the master activator of the bacteria's response to far-red light, opening potential new avenues for infection control that do not rely on antibiotics.[1][2]",
+      "audio_url": "",
+      "url": "far-red-light-reduces-virulenc-rEkRekYNSYWMpqcP44XtuA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f1303137-e093-4257-b606-b73658a62cf2",
       "published_datetime": "2026-01-21T10:02:50.229134",
       "title": "Treasury chief calls Denmark 'irrelevant' amid Greenland tensions",
@@ -41,7 +56,7 @@
     },
     {
       "published_datetime": "2026-01-21T09:02:50.000000Z",
-      "title": "Coalition on brink as Nationals quit shadow cabinet",
+      "title": "Coalition on brink as Nationals quit shadow ministry",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db8e463a0b8afebde66f61c19485864e?impolicy=wcms_crop_resize&amp;cropH=2945&amp;cropW=5235&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -50,7 +65,7 @@
     },
     {
       "published_datetime": "2026-01-21T08:31:13.000000Z",
-      "title": "Netanyahu agrees to join Trump's 'Board of Peace'",
+      "title": "Netanyahu agrees to join Trump's 'Board of Peace' as others say no",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/44c4edadc9058d16be82c4b663b135de?impolicy=wcms_crop_resize&amp;cropH=2239&amp;cropW=3981&amp;xPos=0&amp;yPos=8&amp;width=862&amp;height=485"
       },
@@ -217,27 +232,12 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b66e8768-968b-4a21-aabf-eaa8bcf038ec",
-      "published_datetime": "2026-01-21T01:04:55.927095",
-      "title": "Trump and Putin envoys hold first talks on Ukraine at Davos",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/special-envoy-steve-witkoff-speaks-at-the-iac-national-news-photo/2256586635",
-        "name": "IAC National Summit 2026",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1768957326/getty_uploads/2256586635_u3p6o9.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1768957326/getty_uploads/2256586635_u3p6o9.jpg"
-      },
-      "description": "Envoys for U.S. President Donald Trump and Russian President Vladimir Putin met for approximately two hours in Davos on Tuesday to discuss a potential peace deal for Ukraine, with both sides characterizing the discussions as positive and constructive\u2014even as key obstacles to ending Europe's deadliest conflict since World War II remain unresolved.\n\nThe meeting at \"USA House\" on the sidelines of the World Economic Forum brought together Trump's special envoy Steve Witkoff and son-in-law Jared Kushner with Kremlin representative Kirill Dmitriev, marking the first time a senior Russian official has publicly engaged at the Swiss gathering since the forum froze ties with Moscow following the 2022 invasion of Ukraine.[1][2][3]",
-      "audio_url": "",
-      "url": "trump-and-putin-envoys-hold-co-VMKxIHBWQQ.bqtTWuSuz7Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-20T23:28:01.000000Z",
-      "title": "Live: De Minaur wins third set to take the lead for the first time",
+      "title": "Live: De Minaur overcomes early scare to progress, slow start for Hon on RLA",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5213393cc50eaa9f7f3f9aaaaa528bda?impolicy=wcms_crop_resize&amp;cropH=2797&amp;cropW=4973&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
       },
-      "description": "Alex de Minaur will be hoping to be the first local to progress into the third round of the Australian Open after four other Australians have been knocked out today. Follow live.",
+      "description": "Alex de Minaur is the first local to progress into the third round of the Australian Open after four other Australians have been knocked out today. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/australian-open-2026-live-alex-de-minaur-sabalenka-alcaraz/106252014"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-21T11:17:43.964329"
+  "merged_at": "2026-01-21T12:30:06.580402"
 }
