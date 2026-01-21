@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-21T17:33:25.000000Z",
+      "title": "Children and journalists among 11 people killed by Israel in Gaza",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a6d5dc68c9559f35faccd367d82fa148?impolicy=wcms_crop_resize&amp;cropH=1738&amp;cropW=3090&amp;xPos=0&amp;yPos=1183&amp;width=862&amp;height=485"
+      },
+      "description": "According to Palestinian medics, two boys aged 10 and 13 were among those killed on Wednesday in the latest violence which threatens to undermine a fragile ceasefire deal between Israel and Hamas.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-22/children-and-journalists-killed-by-idf-in-gaza/106255512"
+    },
+    {
+      "published_datetime": "2026-01-21T17:25:29.000000Z",
+      "title": "'Constant worry': Ukraine endures bitterest winter as Russia targets energy sites",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/32eb2118094755a1769846eccd58313e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The war-ravaged country has been plunged into an energy crisis as temperatures plummet below freezing, leaving millions unable to heat their homes.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-22/energy-crisis-kyiv-winter-ukraine-russia-blackouts/106255468"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ddf149a8-fa90-4b7d-8ab7-d8cc9dd706e0",
       "published_datetime": "2026-01-21T16:23:03.046164",
       "title": "Indonesian cave hand stencil becomes oldest dated rock art",
@@ -205,31 +223,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/neo-nazis-coached-on-how-to-avoid-arrest-hate-laws/106250932"
     },
     {
-      "published_datetime": "2026-01-21T06:53:41.000000Z",
-      "title": "'Running a global mafia': Facing the reality of Trump's changing world view",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aa46f2cada8abe8cdc5f39ef97af69e8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "As Donald Trump celebrates one year of his second term in the White House, he is rewriting all the rules for global order, and no-one seems ready to stop his \"imperial ambitions\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-21/donald-trumps-year-one-lays-ground-for-new-world-order/106252232"
-    },
-    {
       "published_datetime": "2026-01-21T05:33:11.000000Z",
       "title": "How Australia will mark the National Day of Mourning for Bondi victims",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/96e9401cdffe38c8f4c2a1ce3cffa531?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=131&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/96e9401cdffe38c8f4c2a1ce3cffa531?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=54&amp;width=862&amp;height=485"
       },
       "description": "Thursday will be a national day of mourning for the victims of the Bondi Beach terror attack. Here's what you need to know.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/national-day-of-mourning-bondi-victims-explainer/106252240"
-    },
-    {
-      "published_datetime": "2026-01-21T03:25:50.000000Z",
-      "title": "Canadian PM Mark Carney speaks out against Trump at the World Economic Forum",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/286279485075d16af1bec8d8ca97a763?impolicy=wcms_crop_resize&amp;cropH=2807&amp;cropW=4991&amp;xPos=0&amp;yPos=526&amp;width=862&amp;height=485"
-      },
-      "description": "Canadian PM Mark Carney told the World Economic Forum \"middle powers must act together\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-21/carney-blasts-trump-canada-davos-world-economic-forum/106252354"
     },
     {
       "published_datetime": "2026-01-20T23:28:01.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-21T17:47:13.330051"
+  "merged_at": "2026-01-21T18:32:42.859389"
 }
