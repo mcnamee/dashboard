@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-21T06:53:41.000000Z",
+      "title": "It's Donald Trump's 'world without rules' and we're living in it",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aa46f2cada8abe8cdc5f39ef97af69e8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "As Donald Trump celebrates one year of his second term in the White House he is re-writing all the rules for global order and no one seems ready to stop his \"imperial ambitions\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-21/donald-trumps-year-one-lays-ground-for-new-world-order/106252232"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ad6f2c77-c0d6-482f-b55a-c0d15b72d7b3",
+      "published_datetime": "2026-01-21T06:13:51.227156",
+      "title": "Study finds ChatGPT systematically favors wealthy Western nations",
+      "featured_image": {
+        "url": "https://www.euronews.com/next/2026/01/21/the-silicon-gaze-chatgpt-rankings-skew-toward-rich-western-nations-research-shows",
+        "name": "The Silicon Gaze': ChatGPT rankings skew toward rich Western ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--hSUOVBN6--/t_limit/https://images.euronews.com/articles/stories/09/61/97/17/1536x864_cmsv2_d37a6a81-89e7-555c-b86f-3795f66a6051-9619717.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--hYINRGOa--/t_thumbnail/https://images.euronews.com/articles/stories/09/61/97/17/1536x864_cmsv2_d37a6a81-89e7-555c-b86f-3795f66a6051-9619717.jpg"
+      },
+      "description": "When prompted with subjective questions comparing places around the world, OpenAI's ChatGPT systematically favors wealthier, Western regions while ranking much of the Global South at the bottom, according to new research published Tuesday.\n\nThe study, titled \"The Silicon Gaze: A typology of biases and inequality in LLMs through the lens of place,\" analyzed more than 20 million queries submitted to ChatGPT's 4o-mini model. Researchers from the Oxford Internet Institute at the University of Oxford and the University of Kentucky found that the chatbot repeatedly ranked high-income countries, including the United States, Western Europe, and parts of East Asia, as \"better,\" \"smarter,\" \"happier,\" and \"more innovative\" than poorer regions.[1][2]",
+      "audio_url": "",
+      "url": "study-finds-chatgpt-biased-tow-BC3lrUoASXOZwJ.6CEBJLg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-21T05:39:43.000000Z",
       "title": "Midnight Oil's Rob Hirst died of one of Australia's deadliest cancers",
       "featured_image": {
@@ -8,6 +32,36 @@
       },
       "description": "Rob Hirst was first diagnosed with pancreatic cancer in 2023. It is estimated to be the third most common cause of cancer death in Australia, and has among the lowest survival rates.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/midnight-oil-rob-hirst-pancreatic-cancer-death/106252876"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5d32a254-1393-4ef6-bd23-c813a60e4b1e",
+      "published_datetime": "2026-01-21T05:21:58.347756",
+      "title": "Trump demands NATO allies spend 5 percent of GDP, doubts their support",
+      "featured_image": {
+        "url": "https://www.nytimes.com/2026/01/17/us/politics/trump-eu-tariffs-greenland.html",
+        "name": "Trump Announces New European Tariffs in Greenland Standoff; Allies Outraged",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Qk71KEfy--/t_limit/https://static01.nyt.com/images/2026/01/17/multimedia/17dc-tariffs-greenland-topart-ctfl/17dc-tariffs-greenland-topart-ctfl-facebookJumbo.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--zIKO9od7--/t_thumbnail/https://static01.nyt.com/images/2026/01/17/multimedia/17dc-tariffs-greenland-topart-ctfl/17dc-tariffs-greenland-topart-ctfl-facebookJumbo.jpg"
+      },
+      "description": "President Donald Trump used the one-year anniversary of his second term to renew calls for NATO allies to meet the alliance's 5% GDP defense spending commitment, while casting doubt on whether European partners would fulfill their mutual defense obligations. His remarks come amid escalating tensions over his campaign to acquire Greenland from Denmark.\n\n\"I have done more for NATO than anyone else,\" Trump said during a White House briefing Tuesday. \"The big fear I have with NATO is we spend tremendous amounts of money with NATO, and I know we'll come to their rescue, but I really do question whether or not they'll come to ours.\"[1][2]",
+      "audio_url": "",
+      "url": "trump-demands-nato-allies-spen-vRmqmMgoTLi5DAq9QgjilQ",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ebf5840a-3388-4ca9-859a-ce7bbde69b69",
+      "published_datetime": "2026-01-21T04:52:14.309454",
+      "title": "Venezuela receives $300M from US-controlled oil sales",
+      "featured_image": {
+        "url": "https://www.gettyimages.com/detail/news-photo/venezuelas-interim-president-delcy-rodr%C3%ADguez-waves-during-news-photo/2256492636",
+        "name": "Delcy Rodriguez Delivers A Government Report At The National Assembly",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1768970804/getty_uploads/2256492636_qo2xr6.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1768970804/getty_uploads/2256492636_qo2xr6.jpg"
+      },
+      "description": "Venezuela's acting president Delcy Rodr\u00edguez announced on Tuesday that the country has received $300 million from the sale of Venezuelan crude oil facilitated by Washington, funds she intends to use to stabilize the country's battered currency and protect workers from inflation.\n\n\"We must inform you that we have received funds from the sale of oil, and of the first $500 million, we received 300 million,\" Reuters quoted Rodr\u00edguez as saying during a visit to a commune base in Caracas. The interim leader stated the revenues would be used \"to stabilize\" the foreign exchange market \"to protect the income and purchasing power of our workers\".[1][2][3][4]",
+      "audio_url": "",
+      "url": "venezuela-receives-300-million-iILx8irUQPek9CtKJnmGkg",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-21T04:40:06.000000Z",
@@ -28,6 +82,30 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/turton-warns-north-korea-has-combat-ready-troops-in-our-region/106246654"
     },
     {
+      "published_datetime": "2026-01-21T03:58:42.000000Z",
+      "title": "What we know about UK entry requirements for dual citizens from February 25",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2335c0d89bc91769cc53bb478d71f5b4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=439&amp;width=862&amp;height=485"
+      },
+      "description": "Hundreds of confused UK and Irish dual citizens in Australia have written to the ABC with questions around the new changes for entry requirements into the UK. Here's what we know.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-21/what-we-know-about-changing-uk-passport-requirements-explainer/106252182"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9c29efd1-e42d-459f-99a2-5f2fef6a5666",
+      "published_datetime": "2026-01-21T03:36:30.570710",
+      "title": "SpaceX prepares Ship 39 for Starship Flight 12 debut",
+      "featured_image": {
+        "url": "https://www.teslarati.com/spacex-starship-super-heavy-raptor-testing-round-3/",
+        "name": "SpaceX preps Starship, Super Heavy for another week of ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--7K1VUcmV--/t_limit/https://www.teslarati.com/wp-content/uploads/2022/02/Starship-update-2022-SpaceX-Raptor-V1-vs-V2-1-crop-c.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--qxjUEUeH--/t_thumbnail/https://www.teslarati.com/wp-content/uploads/2022/02/Starship-update-2022-SpaceX-Raptor-V1-vs-V2-1-crop-c.jpg"
+      },
+      "description": "SpaceX is accelerating preparations for an ambitious year that could include the company's first uncrewed mission to Mars, while simultaneously advancing Starship development and maintaining a rapid pace of satellite launches.\n\nThe company is targeting a Starship launch to Mars during the November-December 2026 planetary alignment window, which would represent the first private company mission to another planet. CEO Elon Musk has estimated a 50% chance of meeting the 2026 deadline, with plans to send Tesla Optimus humanoid robots on the initial missions to \"prepare the way for humans.\"[1][2][3][4]",
+      "audio_url": "",
+      "url": "spacex-targets-mars-and-advanc-fAr4MKzYQJqKG_Pym8mN3w",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-21T03:25:50.000000Z",
       "title": "Canadian PM Mark Carney speaks out against Trump at the World Economic Forum",
       "featured_image": {
@@ -35,15 +113,6 @@
       },
       "description": "Canadian PM Mark Carney told the World Economic Forum \"middle powers must act together\".",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/carney-blasts-trump-canada-davos-world-economic-forum/106252354"
-    },
-    {
-      "published_datetime": "2026-01-21T02:45:38.000000Z",
-      "title": "Beijing has a nickname for Trump: The Chinese 'nation-builder'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c55ea919a549227226bcf144437b7aec?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
-      },
-      "description": "Inside China, there's a nickname for Donald Trump that tells you everything you need to know about how the US leader's actions are increasingly seen as a gift to Beijing.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-21/donald-trump-is-a-gift-to-china-that-keeps-on-giving/106249578"
     },
     {
       "published_datetime": "2026-01-21T01:59:13.000000Z",
@@ -154,15 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-20T21:54:32.000000Z",
-      "title": "Nationals threat of mass resignation from shadow ministry a 'live option', Liberal source says \u2014 as it happened",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9d790fb4dc920a31afe2b9d930bde2d?impolicy=wcms_crop_resize&amp;cropH=3250&amp;cropW=5779&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
-      },
-      "description": "A Liberal source has told the ABC that multiple Nationals resignations from the shadow ministry is a \"live option\" after three Nationals quit the shadow cabinet.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-21/federal-politics-live-blog-jan-21/106251764"
-    },
-    {
       "published_datetime": "2026-01-20T21:29:29.000000Z",
       "title": "Three senior Nationals quit frontbench after defying shadow cabinet on hate speech laws",
       "featured_image": {
@@ -179,66 +239,6 @@
       },
       "description": "The body of Canadian Piper James was found on K'gari (Fraser Island) surrounded by a pack of dingoes after she told friends she was going for an early morning swim.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/kgari-dingoes-and-death-of-piper-james/106251528"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0af2cf26-0015-4561-8146-5ee88d1e93cb",
-      "published_datetime": "2026-01-20T20:18:21.288824",
-      "title": "Scientists launch deep-sea mission to validate 'dark oxygen' discovery",
-      "featured_image": {
-        "url": "https://interestingengineering.com/science/world-first-landers-dark-oxygen",
-        "name": "World-first deep-ocean landers to hunt down origins of dark ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--kKLLEYJY--/t_limit/https://cms.interestingengineering.com/wp-content/uploads/2026/01/Z2_a1a8ef.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--U5PFJu1V--/t_thumbnail/https://cms.interestingengineering.com/wp-content/uploads/2026/01/Z2_a1a8ef.jpg"
-      },
-      "description": "Researchers have unveiled two specially designed deep-sea landers that will descend nearly seven miles beneath the Pacific Ocean to investigate the controversial phenomenon known as \"dark oxygen,\" a discovery that could reshape understanding of how life emerged on Earth and complicate plans for commercial seabed mining.\n\nAt a press conference in London on Tuesday, Professor Andrew Sweetman of the Scottish Association for Marine Science (SAMS) introduced the landers named Alisa and Kaia, after his daughters, which are engineered to withstand pressures 1,200 times greater than those at the surface. The expedition, funded by a \u00a32 million grant from The Nippon Foundation over three years, marks the most detailed examination yet of a process that defies the long-held scientific consensus that oxygen requires sunlight and photosynthesis to form.[1][2][3][4]",
-      "audio_url": "",
-      "url": "scientists-deploy-deep-sea-lan-wA2PIbC_QmKU2dj1Dh7kCw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cdf8aec1-2462-4bb0-ba19-98e4208af01b",
-      "published_datetime": "2026-01-20T19:45:04.114045",
-      "title": "European leaders call for independence from U.S. at Davos",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/macron-tells-davos-shift-towards-world-without-rules-2026-01-20/",
-        "name": "Macron tells Davos of a 'shift towards a world without rules' | Reuters",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--wxHciD3k--/t_limit/https://www.reuters.com/resizer/v2/4EPO2RX5PRONTC3RDIJCXBQ6CM.jpg%3Fauth%3D8e9543263e090b354d7cb131edfbf0b54f18bd0a6627113bd8fd899c6a6f94dc%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--KzBUYLWe--/t_thumbnail/https://www.reuters.com/resizer/v2/4EPO2RX5PRONTC3RDIJCXBQ6CM.jpg%3Fauth%3D8e9543263e090b354d7cb131edfbf0b54f18bd0a6627113bd8fd899c6a6f94dc%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "The World Economic Forum's annual meeting in Davos, Switzerland, has become a flashpoint for rising U.S.-European tensions as President Donald Trump prepares to address global leaders on Wednesday amid an escalating dispute over Greenland and new tariff threats against longtime allies.\n\nEuropean leaders struck a defiant tone on Tuesday, the second day of the forum, as European Commission President Ursula von der Leyen called for a \"permanent\" shift toward European independence from the United States and French President Emmanuel Macron warned of a dangerous \"shift towards a world without rules.\"[1][2]",
-      "audio_url": "",
-      "url": "trump-attends-davos-2026-amid-zEAPXA3QSpqu_TRXXdC8jw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/80461f7d-01f6-4f11-bfd9-03f5b8bd2ab5",
-      "published_datetime": "2026-01-20T19:40:10.482889",
-      "title": "Iran's parliament warns of jihad if Supreme Leader attacked",
-      "featured_image": {
-        "url": "https://www.cnn.com/2025/06/30/middleeast/iran-supreme-leader-ayatollah-ali-khamenei-choices-intl",
-        "name": "Ayatollah Ali Khamenei: Iran's supreme leader faces his ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Va4pEGiy--/t_limit/https://media.cnn.com/api/v1/images/stellar/prod/2025-05-20t115850z-1894412973-rc2nleacha3a-rtrmadp-3-iran-nuclear-usa-20250629150751537.JPG%3Fc%3D16x9%26q%3Dh_833%2Cw_1480%2Cc_fill",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--u-23EAlE--/t_thumbnail/https://media.cnn.com/api/v1/images/stellar/prod/2025-05-20t115850z-1894412973-rc2nleacha3a-rtrmadp-3-iran-nuclear-usa-20250629150751537.JPG%3Fc%3D16x9%26q%3Dh_833%2Cw_1480%2Cc_fill"
-      },
-      "description": "Iran's parliament issued a stark warning on Tuesday that any attack on Supreme Leader Ayatollah Ali Khamenei would trigger a declaration of jihad, or holy war, with the mobilization of Islamic fighters worldwide. The statement, from the national security committee of Iran's parliament, raises the stakes in a rapidly escalating confrontation between Tehran and Washington following a deadly crackdown on protests.[1][2]\n\n\"Any aggression against the Supreme Leader signifies a declaration of war against the entire Islamic community and necessitates a Jihad proclamation from Islamic scholars, along with the mobilization of Islam's fighters worldwide,\" the parliamentary committee stated, according to the Iranian Students News Agency.[2][1]",
-      "audio_url": "",
-      "url": "iran-warns-jihad-if-supreme-le-Y7zKpa_kR_aKdUUy1mTiGA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1d11cc40-081c-40d5-872a-ae3c07892501",
-      "published_datetime": "2026-01-20T19:38:59.098947",
-      "title": "Mexico transfers 37 cartel suspects to US amid pressure from Trump",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/americas/mexico-under-pressure-trump-transfers-26-more-cartel-members-us-2025-08-12/",
-        "name": "Mexico, under pressure from Trump, transfers 26 more cartel ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--2BJmmKWq--/t_limit/https://www.reuters.com/resizer/v2/4HWUZCRXIJPMLC4EUKZVIYANMA.jpg%3Fauth%3D69fa12cb229c08bf4d1c22c57e625d09a7998e17787038d0ab6e66b16b60113f%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--JAWjsQoa--/t_thumbnail/https://www.reuters.com/resizer/v2/4HWUZCRXIJPMLC4EUKZVIYANMA.jpg%3Fauth%3D69fa12cb229c08bf4d1c22c57e625d09a7998e17787038d0ab6e66b16b60113f%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Mexico has transferred another 37 drug cartel members to the United States, the country's security minister announced Tuesday, as the Trump administration continues to pressure governments to crack down on criminal networks smuggling drugs across the border.\n\nMexican Security Minister Omar Garc\u00eda Harfuch confirmed the transfer in a social media post on X, describing the individuals as \"high impact criminals\" who \"represented a real threat to the country's security.\" The handover brings the total number of cartel operatives and leaders sent to the United States under President Claudia Sheinbaum's administration to 92.[1][2][3]",
-      "audio_url": "",
-      "url": "mexico-delivers-37-drug-cartel-nm9SA2VfS52dViJW8Qcsew",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-21T06:24:21.162420"
+  "merged_at": "2026-01-21T07:21:27.718955"
 }
