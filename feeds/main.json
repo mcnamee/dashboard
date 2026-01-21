@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-21T15:15:11.000000Z",
+      "title": "Combative Prince Harry disputes having 'leaky' social circle in Daily Mail trial",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/55cc89c1140db058aa1cf8c8ac0725b6?impolicy=wcms_crop_resize&amp;cropH=1689&amp;cropW=3003&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Prince Harry strikes a combative tone as he testified in his lawsuit against the publisher of the Daily Mail and disputes suggestions he was cosy with journalists who covered the royal family or that his friends dished dirt about him to the tabloids.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-22/prince-harry-gives-evidence-at-high-court-in-privacy-case/106255216"
+    },
+    {
+      "published_datetime": "2026-01-21T14:28:37.000000Z",
+      "title": "Trump says he wants 'immediate' Greenland deal with 'ungrateful' Denmark",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1a4f4241252b2c28d254d582826a9750?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump says he wants \"immediate\" negotiations to begin on selling Greenland to the United States, as tensions between his administration and European allies continue to rise.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-22/donald-trump-tells-davos-he-wants-greenland-deal-with-denmark/106255244"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/aa734f93-8995-4700-a063-4f0ae4c11a74",
       "published_datetime": "2026-01-21T14:25:19.142564",
       "title": "JPMorgan CEO Dimon says AI will cut jobs at the bank",
@@ -53,15 +71,6 @@
       "audio_url": "",
       "url": "us-treasury-secretary-dismisse-NiACPZWYQtuFh3XbHTHfNQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-21T09:34:49.000000Z",
-      "title": "K'gari traditional owners raise issues with dingo management after teen's death",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/48dbff5fd5b9d352e36156000f535f6a?impolicy=wcms_crop_resize&amp;cropH=532&amp;cropW=946&amp;xPos=0&amp;yPos=549&amp;width=862&amp;height=485"
-      },
-      "description": "The body of Piper James, 19, was found surrounded by dingoes on a beach on the island's eastern coast, but how she died may not be known for some time.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-21/kgari-traditional-owners-dingo-management-issues/106252220"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/18b9f180-6e2e-4899-806d-3761d804edf7",
@@ -119,15 +128,6 @@
       "audio_url": "",
       "url": "climate-change-drives-disaster-xx0yqdJFTnSMP7O1kV2q3Q",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-21T08:12:05.000000Z",
-      "title": "Landing attempt aborted after trespass incident at Melbourne Airport",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/427909e02c90d828895527040a11be54?impolicy=wcms_crop_resize&amp;cropH=471&amp;cropW=835&amp;xPos=0&amp;yPos=76&amp;width=862&amp;height=485"
-      },
-      "description": "A pilot is forced to abort a landing attempt at Melbourne Airport, and two take-offs are delayed after an alleged late-night trespassing incident.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-21/melbourne-airport-trespasser-afp/106255022"
     },
     {
       "published_datetime": "2026-01-21T06:53:41.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-21T14:38:39.530932"
+  "merged_at": "2026-01-21T15:22:58.666033"
 }
