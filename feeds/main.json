@@ -1,12 +1,21 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-21T07:39:54.000000Z",
+      "title": "Why Emmanuel Macron wore sunglasses to Davos",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ec8ab9735062b5ecd0743080bf81a0e3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=515&amp;width=862&amp;height=485"
+      },
+      "description": "The French president's appearance at the annual meeting of the World Economic Forum makes headlines, but not for any policy reasons.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-21/why-emmanuel-macron-wore-sunglasses-to-davos/106252204"
+    },
+    {
       "published_datetime": "2026-01-21T06:53:41.000000Z",
       "title": "It's Donald Trump's 'world without rules' and we're living in it",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aa46f2cada8abe8cdc5f39ef97af69e8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "As Donald Trump celebrates one year of his second term in the White House he is re-writing all the rules for global order and no one seems ready to stop his \"imperial ambitions\".",
+      "description": "As Donald Trump celebrates one year of his second term in the White House, he is rewriting all the rules for global order, and no-one seems ready to stop his \"imperial ambitions\".",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/donald-trumps-year-one-lays-ground-for-new-world-order/106252232"
     },
     {
@@ -80,15 +89,6 @@
       },
       "description": "Australia's outgoing military envoy to NATO is preparing to return to Canberra after two years in the role, and she is coming home with a warning.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/turton-warns-north-korea-has-combat-ready-troops-in-our-region/106246654"
-    },
-    {
-      "published_datetime": "2026-01-21T03:58:42.000000Z",
-      "title": "What we know about UK entry requirements for dual citizens from February 25",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2335c0d89bc91769cc53bb478d71f5b4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=439&amp;width=862&amp;height=485"
-      },
-      "description": "Hundreds of confused UK and Irish dual citizens in Australia have written to the ABC with questions around the new changes for entry requirements into the UK. Here's what we know.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-21/what-we-know-about-changing-uk-passport-requirements-explainer/106252182"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9c29efd1-e42d-459f-99a2-5f2fef6a5666",
@@ -226,7 +226,7 @@
       "published_datetime": "2026-01-20T21:29:29.000000Z",
       "title": "Three senior Nationals quit frontbench after defying shadow cabinet on hate speech laws",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2fb1075a6965a083a02e6dc5c08a2277?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/06127f16f480ea25140aeb2e9fe5c8d8?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=281&amp;width=862&amp;height=485"
       },
       "description": "Senior Nationals Bridget McKenzie, Ross Cadell and Susan McDonald quit the shadow cabinet, after defying its position on the government's hate speech reforms in a late-night vote on Tuesday.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/nationals-ministries-doubt-coalition-split-hate-speech/106251594"
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-21T07:36:42.412409"
+  "merged_at": "2026-01-21T08:21:06.874998"
 }
