@@ -1,22 +1,22 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-21T05:39:43.000000Z",
+      "title": "Midnight Oil's Rob Hirst died of one of Australia's deadliest cancers",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dcd55ac6278f06d98e2b04c795c0a976?impolicy=wcms_crop_resize&amp;cropH=1680&amp;cropW=2983&amp;xPos=17&amp;yPos=145&amp;width=862&amp;height=485"
+      },
+      "description": "Rob Hirst was first diagnosed with pancreatic cancer in 2023. It is estimated to be the third most common cause of cancer death in Australia, and has among the lowest survival rates.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-21/midnight-oil-rob-hirst-pancreatic-cancer-death/106252876"
+    },
+    {
       "published_datetime": "2026-01-21T04:40:06.000000Z",
-      "title": "Breaking: Man sentenced to life in prison for assassination of Japan's Shinzo Abe",
+      "title": "Man sentenced to life in prison for assassination of Japan's Shinzo Abe",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/df1fd278ce1d391b2d56dbb9bae1044c?impolicy=wcms_crop_resize&amp;cropH=993&amp;cropW=1766&amp;xPos=0&amp;yPos=219&amp;width=862&amp;height=485"
       },
       "description": "Tetsuya Yamagami pleaded guilty to fatally shooting Mr Abe as he stood surrounded by security, media and supporters in 2022. \u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/shinzo-abe-assassination-sentence/106250736"
-    },
-    {
-      "published_datetime": "2026-01-21T04:29:33.000000Z",
-      "title": "Police slap bans on neo-Nazis entering Sydney CBD on Australia Day",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4ba79ba78dafb9d287ae5251f3b8e219?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=960&amp;xPos=0&amp;yPos=370&amp;width=862&amp;height=485"
-      },
-      "description": "Up to 12 neo-Nazis have been issued public safety orders banning them from entering central Sydney, shutting down plans to attend anti-immigration rallies on Australia Day.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-21/nsw-police-ban-neo-nazis-entering-sydney-cbd-on-australia-day/106251992"
     },
     {
       "published_datetime": "2026-01-21T04:07:01.000000Z",
@@ -100,6 +100,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-01-21T00:10:21.000000Z",
+      "title": "Prime minister's national security adviser Philippa Brant resigns",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1deb55bdd2fe42cd466c826426bf42a1?impolicy=wcms_crop_resize&amp;cropH=2553&amp;cropW=4538&amp;xPos=0&amp;yPos=237&amp;width=862&amp;height=485"
+      },
+      "description": "Philippa Brant has resigned just months after the PM's top foreign policy adviser departed to run the Office of National Intelligence.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-21/prime-minister-national-security-adviser-resigns/106252214"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1cdb5279-20a3-4436-8687-bc52edf3c305",
       "published_datetime": "2026-01-20T22:50:59.299408",
       "title": "Trump says NATO would be 'ash heap of history' without him",
@@ -146,11 +155,11 @@
     },
     {
       "published_datetime": "2026-01-20T21:54:32.000000Z",
-      "title": "Live: Ley warns shadow cabinet solidarity 'not optional'",
+      "title": "Nationals threat of mass resignation from shadow ministry a 'live option', Liberal source says \u2014 as it happened",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5530395087aee2485d63af53d1195860?impolicy=wcms_crop_resize&amp;cropH=899&amp;cropW=1599&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9d790fb4dc920a31afe2b9d930bde2d?impolicy=wcms_crop_resize&amp;cropH=3250&amp;cropW=5779&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
       },
-      "description": "Three Nationals senators have been forced to quit their frontbench positions after breaking shadow cabinet rules. Follow live.",
+      "description": "A Liberal source has told the ABC that multiple Nationals resignations from the shadow ministry is a \"live option\" after three Nationals quit the shadow cabinet.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/federal-politics-live-blog-jan-21/106251764"
     },
     {
@@ -170,15 +179,6 @@
       },
       "description": "The body of Canadian Piper James was found on K'gari (Fraser Island) surrounded by a pack of dingoes after she told friends she was going for an early morning swim.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/kgari-dingoes-and-death-of-piper-james/106251528"
-    },
-    {
-      "published_datetime": "2026-01-20T20:38:01.000000Z",
-      "title": "Live: Gold surges, ASX falls as 'sell America' trade and Trump's threats sink Wall St",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8b0ed8e5ba111c5b5dae0d22cf69fc2c?impolicy=wcms_crop_resize&amp;cropH=1906&amp;cropW=3389&amp;xPos=0&amp;yPos=176&amp;width=862&amp;height=485"
-      },
-      "description": "The Australian share market has fallen for a third straight day as Wall Street tumbled to a one-month low on worsening relations between the US and Europe. Follow live. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-21/asx-markets-business-live-news-jan-21/106251484"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0af2cf26-0015-4561-8146-5ee88d1e93cb",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-21T05:22:50.299504"
+  "merged_at": "2026-01-21T06:24:21.162420"
 }
