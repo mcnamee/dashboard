@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-21T13:00:54.000000Z",
+      "title": "Australian real estate prices set new records as Melbourne rebounds",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b69faea45463a2798834b784efa64165?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
+      },
+      "description": "Melbourne real estate market is making a \"decisive recovery\", according to property portal Domain, as the city hits a new record for its median house price for the first time in four years after strong growth across the country in 2025.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-22/australian-real-estate-median-home-prices-domain-report-millions/106251932"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0db849df-d8b5-4d04-bfa1-b9b934ed8648",
       "published_datetime": "2026-01-21T11:12:21.030548",
       "title": "Far-red light triggers protein that disarms antibiotic-resistant bacteria",
@@ -104,15 +113,6 @@
       },
       "description": "A pilot is forced to abort a landing attempt at Melbourne Airport, and two take-offs are delayed after an alleged late-night trespassing incident.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/melbourne-airport-trespasser-afp/106255022"
-    },
-    {
-      "published_datetime": "2026-01-21T07:39:54.000000Z",
-      "title": "Why Emmanuel Macron wore sunglasses to Davos",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ec8ab9735062b5ecd0743080bf81a0e3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=515&amp;width=862&amp;height=485"
-      },
-      "description": "The French president's appearance at the annual meeting of the World Economic Forum makes headlines, but not for any policy reasons.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-21/why-emmanuel-macron-wore-sunglasses-to-davos/106252204"
     },
     {
       "published_datetime": "2026-01-21T06:53:41.000000Z",
@@ -233,11 +233,11 @@
     },
     {
       "published_datetime": "2026-01-20T23:28:01.000000Z",
-      "title": "Live: De Minaur overcomes early scare to progress, slow start for Hon on RLA",
+      "title": "De Minaur overcomes early scare to progress to third round",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5213393cc50eaa9f7f3f9aaaaa528bda?impolicy=wcms_crop_resize&amp;cropH=2797&amp;cropW=4973&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
       },
-      "description": "Alex de Minaur is the first local to progress into the third round of the Australian Open after four other Australians have been knocked out today. Follow live.",
+      "description": "Alex de Minaur is the first local to progress into the third round of the Australian Open after four other Australians have been knocked out today.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-21/australian-open-2026-live-alex-de-minaur-sabalenka-alcaraz/106252014"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-21T12:30:06.580402"
+  "merged_at": "2026-01-21T13:39:17.582826"
 }
