@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-21T20:40:50.000000Z",
+      "title": "Live: Nationals split Coalition, Littleproud blames Ley for 'untenable' position",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c94db5a8cd3346f486a807d81564d27?impolicy=wcms_crop_resize&amp;cropH=4384&amp;cropW=7793&amp;xPos=0&amp;yPos=200&amp;width=862&amp;height=485"
+      },
+      "description": "After quitting the shadow ministry en masse in solidarity with three colleagues dumped for crossing the floor on hate laws, Nationals leader David Littleproud says the Coalition has been forced into an \"untenable position that can no longer continue\". Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-22/politics-live-blog-nationals-coalition-liberal-ley-littleproud/106255658"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5b99eb90-794a-4adc-8927-924b367cab52",
       "published_datetime": "2026-01-21T20:30:40.192668",
       "title": "Trump rules out force for Greenland, demands negotiations",
@@ -99,7 +108,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8b1cd8200d8b0f5e2ed0cf1500b3b6fe?impolicy=wcms_crop_resize&amp;cropH=2615&amp;cropW=4649&amp;xPos=0&amp;yPos=67&amp;width=862&amp;height=485"
       },
-      "description": "For decades, global investors have bought US government debt as a safe haven when things turn pear-shaped. But investor attitudes are changing, and America's financial domination is at stake.",
+      "description": "For decades, global investors have bought US government debt as a safe haven when things turn pear-shaped. But investor attitudes are changing, and America's financial domination is at stake.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-22/trump-us-debt-carney-davos-fractured-world-order/106254272"
     },
     {
@@ -110,15 +119,6 @@
       },
       "description": "A new report from the OECD says Australia's economy is returning to normal but remains vulnerable and lacks dynamism.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-22/reserve-bank-earns-global-praise-for-economic-soft-landing/106254000"
-    },
-    {
-      "published_datetime": "2026-01-21T19:06:56.000000Z",
-      "title": "Nationals walkout leaves Coalition on life support, again",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e4cf61cd4d944cc6a8105931004c2e2?impolicy=wcms_crop_resize&amp;cropH=3238&amp;cropW=5758&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
-      },
-      "description": "The departure of every single member of the Nationals from the frontbench is bizarrely both a failure of the Coalition agreement and a result of it functioning as intended.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-22/national-walkout-coalition-on-life-support/106252042"
     },
     {
       "published_datetime": "2026-01-21T19:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-21T21:21:42.411168"
+  "merged_at": "2026-01-21T22:17:18.397970"
 }
