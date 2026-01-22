@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-22T05:33:14.000000Z",
+      "title": "Woman found dead at K'gari a 'free spirit that couldn't be contained'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/27a63a254c499078cd3416058eb3be05?impolicy=wcms_crop_resize&amp;cropH=658&amp;cropW=1170&amp;xPos=0&amp;yPos=285&amp;width=862&amp;height=485"
+      },
+      "description": "Friends of 19-year-old Canadian woman Piper James pay tribute to a woman who loved adventure and nature.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-22/kgari-beach-death-piper-james-friends-pay-tribute/106256026"
+    },
+    {
+      "published_datetime": "2026-01-22T05:32:24.000000Z",
+      "title": "Sombre scenes as Australians mark day of mourning for Bondi attack victims",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef872b5f925675e2cab400c4593ef2de?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
+      },
+      "description": "Australians throughout the country have paused to reflect on the Bondi Beach terror attack.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-22/national-day-of-mourning-bondi-terror-attack-australia/106255924"
+    },
+    {
       "published_datetime": "2026-01-22T04:15:35.000000Z",
       "title": "A look at the 'Golden Dome' and why Trump wants one in Greenland",
       "featured_image": {
@@ -28,15 +46,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-22/floods-great-ocean-road-cars-recovered-by-helicopter/106257270"
     },
     {
-      "published_datetime": "2026-01-22T03:15:34.000000Z",
-      "title": "Australian retiree's detention in Thailand a warning, lawyer says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dbb85e394d29119ee122098b1bf5df99?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
-      },
-      "description": "Rights groups slam Thai authorities' detention and legal proceedings against Australian writer Murray Hunter, after Malaysia's communications regulator submitted a criminal defamation complaint.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-22/australian-writer-murray-hunter-faces-prosecution-in-thailand/106071904"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/025d5f38-6b22-4a2c-967c-17d7993401ff",
       "published_datetime": "2026-01-22T02:37:17.049163",
       "title": "Irish researchers reveal how early black holes grew to monstrous sizes",
@@ -62,7 +71,7 @@
     },
     {
       "published_datetime": "2026-01-22T02:01:19.000000Z",
-      "title": "Two leaders facing fight for survival in day of chaos for former Coalition",
+      "title": "The optics are diabolical for Liberals and Nationals, as chaos reigns",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/312a7e74075a104f9f59b9380bc9238f?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
       },
@@ -104,7 +113,7 @@
     },
     {
       "published_datetime": "2026-01-22T00:55:31.000000Z",
-      "title": "Live: Several people missing after landslide hits New Zealand campsite",
+      "title": "Live: Young girl among several missing after landslide at a NZ campsite",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef8180817961587649c0eae1018df3ec?impolicy=wcms_crop_resize&amp;cropH=1353&amp;cropW=2406&amp;xPos=0&amp;yPos=125&amp;width=862&amp;height=485"
       },
@@ -232,15 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-21T18:59:49.000000Z",
-      "title": "Stones instead of flowers, 30 days of Shloshim: How the Jewish community mourns",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e5019c4c102fc89e835b4dafe89fd367?impolicy=wcms_crop_resize&amp;cropH=2760&amp;cropW=4907&amp;xPos=0&amp;yPos=93&amp;width=862&amp;height=485"
-      },
-      "description": "On the National Day of Mourning for the victims of the Bondi Beach terrorist attack, Rabbi Jacqueline Ninio shares what mourning looks like in Jewish culture, from the resonance of stones at gravesites to a month-long period of grieving.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-22/customs-behind-how-jewish-community-mourns-bondi-attack/106244770"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-22T05:35:17.288590"
+  "merged_at": "2026-01-22T06:23:05.021697"
 }
