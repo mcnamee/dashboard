@@ -20,12 +20,27 @@
     },
     {
       "published_datetime": "2026-01-22T07:09:17.000000Z",
-      "title": "Two women and man killed in shooting in Central West NSW town",
+      "title": "Two women and man killed in shooting in NSW town, gunman at large",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c9ff9cc39095dca05066838f98e2c1c9?impolicy=wcms_crop_resize&amp;cropH=922&amp;cropW=1639&amp;xPos=3&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Three people have been shot dead in the Central West town of Lake Cargelligo, with reports the gunman is still at large.",
+      "description": "Three people have been shot dead in the Central West town of Lake Cargelligo, with the gunman still at large.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-22/lake-cargelligo-shooting-central-west-nsw-police-operation/106258896"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5f5392e3-2db6-45ec-ac21-ad17a2037674",
+      "published_datetime": "2026-01-22T07:06:21.879211",
+      "title": "Chinese scientists unveil zero-carbon cooling technology",
+      "featured_image": {
+        "url": "https://phys.org/news/2025-12-high-energy-density-barocaloric-material.html",
+        "name": "High-energy-density barocaloric material could enable smaller ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_TpHsaDc--/t_limit/https://scx2.b-cdn.net/gfx/news/hires/2025/high-energy-density-ba.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--HK56erfO--/t_thumbnail/https://scx2.b-cdn.net/gfx/news/hires/2025/high-energy-density-ba.jpg"
+      },
+      "description": "Researchers at the Chinese Academy of Sciences have developed a novel refrigeration technology that could fundamentally change how the world cools everything from food storage to artificial intelligence data centers, eliminating the need for environmentally harmful refrigerants that have long plagued the cooling industry.\n\nThe team, led by Prof. Li Bing from the Institute of Metal Research, published their findings in the journal Nature on January 22, detailing a new cooling mechanism called the \"dissolution barocaloric effect\" that achieves what had been considered impossible: combining low carbon emissions, high cooling capacity, and high heat transfer efficiency in a single system.[1][2][3]",
+      "audio_url": "",
+      "url": "chinese-scientists-achieve-zer-z1Kv2asgS5Cf3vIF8fHtyw",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-22T06:54:06.000000Z",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bf0b3ee5-3050-4aba-a971-7f35b6368dc0",
-      "published_datetime": "2026-01-21T20:20:24.251956",
-      "title": "Trump rules out military force in Greenland bid at Davos",
-      "featured_image": {
-        "url": "https://www.cbc.ca/player/play/video/9.7054675",
-        "name": "Stock markets rebound after Trump's Davos speech on Greenland",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Lfl2IJfO--/t_limit/https://i.cbc.ca/ais/e735c6da-9192-405c-9e38-0ca2fcfedb75%2C1769014022618/full/max/0/default.jpg%3Fim%3DCrop%252Crect%253D%25280%252C287%252C5500%252C3093%2529%253B",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--GYsR2jnE--/t_thumbnail/https://i.cbc.ca/ais/e735c6da-9192-405c-9e38-0ca2fcfedb75%2C1769014022618/full/max/0/default.jpg%3Fim%3DCrop%252Crect%253D%25280%252C287%252C5500%252C3093%2529%253B"
-      },
-      "description": "President Donald Trump told a gathering of global elites at the World Economic Forum on Wednesday that he would not deploy military force to take control of Greenland, easing fears of a transatlantic crisis that triggered Wall Street's steepest selloff in three months just one day earlier.\n\n\"I don't have to use force. I don't want to use force. I won't use force,\" Trump declared in his keynote address in Davos, Switzerland, adding that \"people thought I would use force\" and calling his pledge \"probably the biggest statement I made.\" While ruling out military action, Trump called for \"immediate negotiations\" with Denmark to transfer ownership of the Arctic territory.[1][2][3][4]",
-      "audio_url": "",
-      "url": "trump-rules-out-force-in-green-.W6AV_jiQ62_9uswqL3w.Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-22T09:25:23.087785"
+  "merged_at": "2026-01-22T10:19:18.773501"
 }
