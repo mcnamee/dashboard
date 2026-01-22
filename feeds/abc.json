@@ -1,13 +1,31 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-22T20:02:46.000000Z",
+      "title": "Live: Sussan Ley says her leadership can survive Coalition split, door still open for Nationals return",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba268e0e210f181f0c43afebb76f3f77?impolicy=wcms_crop_resize&amp;cropH=2913&amp;cropW=5179&amp;xPos=0&amp;yPos=87&amp;width=862&amp;height=485"
+      },
+      "description": "Sussan Ley has declared her leadership will survive, despite speculation the Nationals' exit from the Coalition could spell the end for her hold on the party. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-23/politics-live-blog-coalition-nationals-liberal-ley-littleproud/106258084"
+    },
+    {
       "published_datetime": "2026-01-22T18:30:00.000000Z",
       "title": "One Nation's rise in popularity changes the context of the Coalition's divorce",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/536fe832f1fa8a6e4466e62b39b01756?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
-      "description": "It is impossible to view this week's events without the broader context of the relationship between the Liberals and the Nationals, how the electoral map is changing and what that means for right-wing politics in Australia.",
+      "description": "It is impossible to view this week’s events without the broader context of the relationship between the Liberals and the Nationals, how the electoral map is changing and what that means for right-wing politics in Australia. ",
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/liberals-nationals-split-coalition-right/106257774"
+    },
+    {
+      "published_datetime": "2026-01-22T19:14:11.000000Z",
+      "title": "Specialist police teams fly in to hunt suspect after three shot dead",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b09e576cf61dfb0190094804ddf208fd?impolicy=wcms_crop_resize&amp;cropH=288&amp;cropW=512&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Tactical police and military personnel join a growing air and land search for a man police have identified after three people were shot dead in a remote New South Wales town on Thursday.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-23/police-search-for-lake-cargelligo-gunman-after-three-shot-dead/106260214"
     },
     {
       "published_datetime": "2026-01-22T18:40:55.000000Z",
@@ -28,24 +46,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/zelenskyy-announces-ukraine-talks-with-russia-us/106260134"
     },
     {
-      "published_datetime": "2026-01-22T19:14:11.000000Z",
-      "title": "Hunt for gunman widens after three shot dead at Lake Cargelligo",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b09e576cf61dfb0190094804ddf208fd?impolicy=wcms_crop_resize&amp;cropH=288&amp;cropW=512&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Police have identified the man they are searching for after three people were shot dead in a remote New South Wales town on Thursday.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/police-search-for-lake-cargelligo-gunman-after-three-shot-dead/106260214"
-    },
-    {
-      "published_datetime": "2026-01-22T18:57:24.000000Z",
-      "title": "Catastrophic fire danger as seven-day heatwave engulfs south-east states",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9e9de6cdf34960da70d04efe3b520954?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=195&amp;width=862&amp;height=485"
-      },
-      "description": "South-east states are predicted to bake through a prolonged severe heatwave from Saturday onwards, which has the potential to break all-time temperature records and fuel another round of dangerous bushfires.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/seven-day-heatwave-for-south-east-australian-states/106258360"
-    },
-    {
       "published_datetime": "2026-01-22T12:21:46.000000Z",
       "title": "Osaka apologises for 'disrespectful' interview comments aimed at opponent",
       "featured_image": {
@@ -62,6 +62,15 @@
       },
       "description": "The Australian company's customers feel like they have been \"ghosted\", while investors and shareholders are angry and confused about what happens next. ",
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/australian-courier-tech-sendle-collapses/106237380"
+    },
+    {
+      "published_datetime": "2026-01-22T18:57:24.000000Z",
+      "title": "Catastrophic fire danger as seven-day heatwave engulfs south-east states",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9e9de6cdf34960da70d04efe3b520954?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=195&amp;width=862&amp;height=485"
+      },
+      "description": "South-east states are predicted to bake through a prolonged severe heatwave from Saturday onwards, which has the potential to break all-time temperature records and fuel another round of dangerous bushfires.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-23/seven-day-heatwave-for-south-east-australian-states/106258360"
     },
     {
       "published_datetime": "2026-01-22T14:53:52.000000Z",
@@ -82,21 +91,12 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/vic-police-rammed-in-melbourne/106260236"
     },
     {
-      "published_datetime": "2026-01-22T18:57:57.000000Z",
-      "title": "Fiji fishermen help catch alleged $780m cocaine shipment involving 'narco sub'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a3a4e52e26c634525ff228fdbb71049?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Fijian chiefs reported suspicious activity along their stretch of coastline to law enforcement agencies — which then swooped on an alleged $780 million drug operation.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/fiji-vatia-alleged-cocaine-bust/106252766"
-    },
-    {
       "published_datetime": "2026-01-22T18:56:19.000000Z",
-      "title": "Venezuela once built a retail mecca. Then it became a notorious 'torture prison'",
+      "title": "Venezuela built a retail mecca. Then it became a notorious 'torture prison'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7304ccf6cbc53c6c1824258023bfb32e?impolicy=wcms_crop_resize&amp;cropH=1164&amp;cropW=2069&amp;xPos=0&amp;yPos=108&amp;width=862&amp;height=485"
       },
-      "description": "Nestled among shanty homes, mountains and forestry, a giant building once touted to become Venezuela's world-leading retail mecca later turned into a centre for alleged human rights abuses.",
+      "description": "Nestled among shanty homes, mountains and forests, a giant building once touted to become Venezuela's world-leading retail mecca later turned into a centre for alleged human rights abuses.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/venezuela-el-helicoide-history-from-shopping-centre-to-prison/106232826"
     },
     {
@@ -109,13 +109,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/david-speirs-not-entitled-to-campaign-funding-commission-says/106252588"
     },
     {
-      "published_datetime": "2026-01-22T02:13:45.000000Z",
-      "title": "In Davos, European leaders met Trump with strength and he backed down",
+      "published_datetime": "2026-01-22T18:57:57.000000Z",
+      "title": "Fiji fishermen help catch alleged $780m cocaine shipment involving 'narco sub'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/793b64337c726c990ed1f434fd49d30d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a3a4e52e26c634525ff228fdbb71049?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "European leaders will be breathing a sigh of relief that the extraordinary threat of a US invasion of Greenland has receded. But some things cannot be undone.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-22/european-leaders-stood-up-to-trump-at-davos/106256300"
+      "description": "Fijian chiefs reported suspicious activity along their stretch of coastline to law enforcement agencies — which then swooped on an alleged $780 million drug operation.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-23/fiji-vatia-alleged-cocaine-bust/106252766"
     },
     {
       "published_datetime": "2026-01-22T19:11:38.000000Z",
@@ -127,26 +127,26 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/new-zealand-landslide-search-at-mount-maunganui-continues/106259556"
     },
     {
-      "published_datetime": "2026-01-22T03:51:36.000000Z",
-      "title": "What to know about a major landslide in the 'Gold Coast of New Zealand'",
+      "published_datetime": "2026-01-22T20:13:36.000000Z",
+      "title": "Ancient DNA in Colombian skeleton may reveal clues to origin of syphilis",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b65d143a6ab9aefdfa50b6317b83dd33?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=210&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/13bb85d9f2881d7b2744e19534e6c760?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "A young girl is among those missing after a landslide hit a popular campsite south-east of Auckland.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-22/what-we-know-about-the-mount-maunganui-landslide/106256852"
+      "description": "A previously unknown strain of syphilis bacteria has been discovered in human remains in Colombia, dating back 5,500 years.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-23/ancient-dna-in-colombian-skeleton-syphilis-finding/106257238"
     },
     {
       "published_datetime": "2026-01-22T08:26:22.000000Z",
-      "title": "Australia honours Bondi victims on National Day of Mourning",
+      "title": "In pictures: National Day of Mourning for Bondi victims",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5e61ecf1cf1bdfe0a18f81a1f169407d?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
       },
-      "description": "Australians have come together to honour the victims and survivors of the Bondi Beach terrorist attack.",
+      "description": "Australians came together on Thursday to honour the victims and survivors of the Bondi Beach terrorist attack. See how the National Day of Mourning played out across the country.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-22/in-pictures-national-day-of-mourning-bondi-beach-terror-attack/106255940"
     },
     {
       "published_datetime": "2026-01-22T16:52:53.000000Z",
-      "title": "France seizes suspected Russian 'shadow fleet' oil tanker in Mediterranean",
+      "title": "French navy seizes suspected Russian 'shadow fleet' oil tanker",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cd56e51379203a4378d563b72c07a208?impolicy=wcms_crop_resize&amp;cropH=1878&amp;cropW=3338&amp;xPos=144&amp;yPos=532&amp;width=862&amp;height=485"
       },
@@ -154,13 +154,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/france-seizes-oil-tanker-that-left-russia-in-mediterranean-sea/106260102"
     },
     {
-      "published_datetime": "2026-01-22T18:15:19.000000Z",
-      "title": "Death toll from Spanish high-speed train disaster rises to 45",
+      "published_datetime": "2026-01-22T02:13:45.000000Z",
+      "title": "In Davos, European leaders met Trump with strength and he backed down",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/75e87e80cbe3feab110afa37ddbd4bcd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/793b64337c726c990ed1f434fd49d30d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Train drivers in the country are striking after a string of rail accidents in less than a week.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/spain-train-death-toll-hits-45/106260198"
+      "description": "European leaders will be breathing a sigh of relief that the extraordinary threat of a US invasion of Greenland has receded. But some things cannot be undone.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-22/european-leaders-stood-up-to-trump-at-davos/106256300"
     },
     {
       "published_datetime": "2026-01-22T19:37:24.000000Z",
@@ -173,7 +173,7 @@
     },
     {
       "published_datetime": "2026-01-22T16:28:59.000000Z",
-      "title": "Climate change made January heatwave five times more likely, study finds",
+      "title": "Climate change 'made January heatwave five times more likely'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/19aef03750cf4bfcea60486793eed4e4?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
       },
@@ -208,22 +208,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/death-toll-from-pakistan-shopping-centre-fire-rises/106259932"
     },
     {
-      "published_datetime": "2026-01-22T01:43:16.000000Z",
-      "title": "PhD candidate working at CSIRO accused of planning Australia Day terror attack",
+      "published_datetime": "2026-01-22T18:15:19.000000Z",
+      "title": "Death toll from Spanish high-speed train disaster rises to 45",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a69d351c748cb65a6f61c5984615a5db?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/75e87e80cbe3feab110afa37ddbd4bcd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Sepehr Saryazdi has been accused of planning to use Molotov cocktails and lead a \"riot\" at the Gold Coast on Australia Day.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-22/sepehr-saryazdi-faces-court-on-terror-charge-australia-day-csiro/106256410"
+      "description": "Train drivers in the country are striking after a string of rail accidents in less than a week.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-23/spain-train-death-toll-hits-45/106260198"
     },
     {
-      "published_datetime": "2026-01-22T01:00:43.000000Z",
-      "title": "March for Australia admins encouraged people to join White Australia Party",
+      "published_datetime": "2026-01-22T06:54:06.000000Z",
+      "title": "Jerwin was 'exploited' while on a training visa. There are fears this is becoming widespread",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4217a468122f23565ee4937950f0330b?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/91ce203fc2d71d623ffc4de2f9ba8bcf?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=182&amp;width=862&amp;height=485"
       },
-      "description": "March for Australia organisers are planning a fresh round of mass demonstrations across the country on January 26, with members encouraging others to join the now disbanded White Australia Party. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-22/verify-neo-nazi-group-linked-to-political-party/106254196"
+      "description": "Australia's anti-slavery commissioner has written to Home Affairs Minister Tony Burke asking for reform on the 407 training visa, following the inquest into the death of Jerwin Royupa.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-22/jerwin-royupa-inquest-training-visa-program-risk-exploitation/106256652"
     }
   ]
 }
