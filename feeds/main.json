@@ -37,6 +37,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-22/australian-writer-murray-hunter-faces-prosecution-in-thailand/106071904"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/025d5f38-6b22-4a2c-967c-17d7993401ff",
+      "published_datetime": "2026-01-22T02:37:17.049163",
+      "title": "Irish researchers reveal how early black holes grew to monstrous sizes",
+      "featured_image": {
+        "url": "https://www.eurekalert.org/news-releases/1113390",
+        "name": "Massive black hole mystery unlocked by Irish researchers ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--HmLMkBjU--/t_limit/https://mediasvc.eurekalert.org/Api/v1/Multimedia/0cfde1f0-fe41-4330-969c-ba8a088a60e0/Rendition/low-res/Content/Public",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--E-zVoOGz--/t_thumbnail/https://mediasvc.eurekalert.org/Api/v1/Multimedia/0cfde1f0-fe41-4330-969c-ba8a088a60e0/Rendition/low-res/Content/Public"
+      },
+      "description": "A pair of studies published this week have delivered answers to long-standing cosmic mysteries, revealing how early black holes grew to monstrous sizes and clarifying where the bright glow around supermassive black holes actually originates.\n\nResearchers at Ireland's Maynooth University reported in Nature Astronomy on Tuesday that the chaotic conditions of the early universe allowed small black holes to undergo \"feeding frenzies,\" growing into supermassive objects tens of thousands of times the mass of the sun in just a few hundred million years after the Big Bang.[1][2][3]",
+      "audio_url": "",
+      "url": "maynooth-researchers-and-nasa-ngZAVjHOQEaCRFLlp4IERA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-22T02:13:45.000000Z",
       "title": "In Davos, European leaders met Trump with strength and he backed down",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6248fd12-c136-4348-a6df-ebff606610ce",
-      "published_datetime": "2026-01-21T19:15:17.233042",
-      "title": "US envoys to meet Putin Thursday as Ukraine peace talks advance",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2026/1/21/us-russian-envoys-meet-in-davos-as-prosperity-plan-for-ukraine-postponed",
-        "name": "US, Russia envoys meet in Davos as Ukraine reconstruction plan postponed",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--yfhchlmJ--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/01/epa_6970b7d03d49-1768994768.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--83YC9a-5--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/01/epa_6970b7d03d49-1768994768.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "Russian President Vladimir Putin received an early draft of the U.S.-backed peace plan for Ukraine in early January through Kirill Dmitriev, head of the Russian Direct Investment Fund, according to a report by Bloomberg. The plan, which had been coordinated with Ukrainian and European partners, was delivered informally to give the Kremlin time to review the proposal and prepare feedback before expected high-level talks.[1][2]\n\nThe diplomatic maneuver comes as U.S. Special Envoy Steve Witkoff confirmed Wednesday that he and Jared Kushner, President Donald Trump's son-in-law, will travel to Moscow on Thursday to meet with Putin. \"The Russians are the ones requesting this meeting. I believe this is a noteworthy indication on their part,\" Witkoff said at the World Economic Forum in Davos.[3][4][5][6]",
-      "audio_url": "",
-      "url": "putin-receives-us-draft-peace-Qkwv885sSXiElsM3kDc1ig",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-21T18:59:49.000000Z",
       "title": "Stones instead of flowers, 30 days of Shloshim: How the Jewish community mourns",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-22T05:22:02.156620"
+  "merged_at": "2026-01-22T05:35:17.288590"
 }
