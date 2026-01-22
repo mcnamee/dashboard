@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-22T17:41:25.000000Z",
+      "title": "Zelenskyy suggests trilateral Ukraine, Russia and US talks, while slamming 'lost' Europe",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d0376fbb54d7e02b4e864ea7e2478d9c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The Kremlin is yet to comment on the Ukrainian president's announcement, made at the World Economic Forum in Davos.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-23/zelenskyy-announces-ukraine-talks-with-russia-us/106260134"
+    },
+    {
+      "published_datetime": "2026-01-22T16:52:53.000000Z",
+      "title": "France seizes suspected Russian 'shadow fleet' oil tanker in Mediterranean",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cd56e51379203a4378d563b72c07a208?impolicy=wcms_crop_resize&amp;cropH=1878&amp;cropW=3338&amp;xPos=144&amp;yPos=532&amp;width=862&amp;height=485"
+      },
+      "description": "The move is the latest by Western allies to crack down on a so-called \"shadow fleet\" of tankers suspected of carrying Russian oil against international sanctions.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-23/france-seizes-oil-tanker-that-left-russia-in-mediterranean-sea/106260102"
+    },
+    {
       "published_datetime": "2026-01-22T16:28:59.000000Z",
       "title": "Climate change made January heatwave five times more likely, study finds",
       "featured_image": {
@@ -181,15 +199,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-22T04:15:35.000000Z",
-      "title": "Why would Trump want to build a 'Golden Dome' in Greenland?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ee592442cc14f9858e7c27cbd6b7d99e?impolicy=wcms_crop_resize&amp;cropH=2807&amp;cropW=4991&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump wants a US \"Golden Dome\" missile defence system to be built in Greenland. This is what it involves and why some experts are skeptical of the plan.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-22/why-trump-wants-golden-dome-missile-defence-in-greenland/106255982"
-    },
-    {
       "published_datetime": "2026-01-22T04:14:50.000000Z",
       "title": "What's next, as Liberals and Nationals go their own way?",
       "featured_image": {
@@ -230,15 +239,6 @@
       },
       "description": "Sepehr Saryazdi has been accused of planning to use Molotov cocktails and lead a \"riot\" at the Gold Coast on Australia Day.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-22/sepehr-saryazdi-faces-court-on-terror-charge-australia-day-csiro/106256410"
-    },
-    {
-      "published_datetime": "2026-01-21T23:30:27.000000Z",
-      "title": "'You have no idea what fair play is': Osaka and Cirstea in tense exchange",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/04a7255d5f341d39bd0f5359f1640dbc?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=85&amp;width=862&amp;height=485"
-      },
-      "description": "There is no love lost between Naomi Osaka and Sorana Cirstea after the Japanese star prevails in a hard-fought three-setter. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-22/australian-open-2026-live-novak-djokovic-kyrgios-kokkinakis/106256036"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-22T17:22:15.623873"
+  "merged_at": "2026-01-22T18:20:16.543985"
 }
