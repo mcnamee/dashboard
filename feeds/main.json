@@ -1,12 +1,21 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-22T20:02:46.000000Z",
+      "title": "Live: Sussan Ley says her leadership can survive Coalition split, door still open for Nationals return",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba268e0e210f181f0c43afebb76f3f77?impolicy=wcms_crop_resize&amp;cropH=2913&amp;cropW=5179&amp;xPos=0&amp;yPos=87&amp;width=862&amp;height=485"
+      },
+      "description": "Sussan Ley has declared her leadership will survive, despite speculation\u00a0the Nationals' exit from the Coalition could spell the end for her hold on the party. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-23/politics-live-blog-coalition-nationals-liberal-ley-littleproud/106258084"
+    },
+    {
       "published_datetime": "2026-01-22T19:14:11.000000Z",
-      "title": "Hunt for gunman widens after three shot dead at Lake Cargelligo",
+      "title": "Specialist police teams fly in to hunt suspect after three shot dead",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b09e576cf61dfb0190094804ddf208fd?impolicy=wcms_crop_resize&amp;cropH=288&amp;cropW=512&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Police have identified the man they are searching for after three people were shot dead in a remote New South Wales town on Thursday.",
+      "description": "Tactical police and military personnel join a growing air and land search for a man police have identified after three people were shot dead in a remote New South Wales town on Thursday.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/police-search-for-lake-cargelligo-gunman-after-three-shot-dead/106260214"
     },
     {
@@ -32,15 +41,6 @@
       "audio_url": "",
       "url": "trump-and-china-clash-at-2026-71Kleb18TVydmWXZlC2Izw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-22T18:57:57.000000Z",
-      "title": "Fiji fishermen help catch alleged $780m cocaine shipment involving 'narco sub'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a3a4e52e26c634525ff228fdbb71049?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Fijian chiefs reported suspicious activity along their stretch of coastline to law enforcement agencies \u2014 which then swooped on an alleged $780 million drug operation.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/fiji-vatia-alleged-cocaine-bust/106252766"
     },
     {
       "published_datetime": "2026-01-22T18:57:24.000000Z",
@@ -105,7 +105,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/536fe832f1fa8a6e4466e62b39b01756?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
-      "description": "It is impossible to view this week's events without the broader context of the relationship between the Liberals and the Nationals, how the electoral map is changing and what that means for right-wing politics in Australia.",
+      "description": "It is impossible to view this week\u2019s events without the broader context of the relationship between the Liberals and the Nationals, how the electoral map is changing and what that means for right-wing politics in Australia.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/liberals-nationals-split-coalition-right/106257774"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-22T20:36:23.207914"
+  "merged_at": "2026-01-22T21:15:18.090696"
 }
