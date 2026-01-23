@@ -1,22 +1,22 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-23T04:23:06.000000Z",
+      "title": "Track temperatures live as heatwave sweeps continent",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b649120b4018146865f210e5c41fb529?impolicy=wcms_crop_resize&amp;cropH=1078&amp;cropW=1916&amp;xPos=2&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Use our tracker to keep an eye on temperatures as a heatwave moves across much of the country.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-23/temperatures-heatwave-tracker-australia-day/106261904"
+    },
+    {
       "published_datetime": "2026-01-23T01:56:44.000000Z",
-      "title": "These maps explain the battle for the Arctic and Trump's 'own goal'",
+      "title": "These maps show why the US is obsessed with Greenland and its Arctic neighbours",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b0552db094a6cf9b7e3fd17a673669be?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "After a week of escalating rhetoric over Greenland, Donald Trump says he has now secured \"total access\" to the Arctic island. This is why that region is so important.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/donald-trump-greenland-maps-explain-battle-for-arctic/106248192"
-    },
-    {
-      "published_datetime": "2026-01-23T01:53:15.000000Z",
-      "title": "TikTok finalises deal to form new American version of app",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b960a0122d9babf53e9c3cbb61afd757?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=182&amp;width=862&amp;height=485"
-      },
-      "description": "Social media giant TikTok reaches a deal for a new joint venture in the United States to avoid being banned for American users. The platform's Beijing-based parent company, ByteDance, will retain a 19.9 per cent stake in the company.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/us-and-china-sign-off-on-tiktok-agreement-to-avoid-ban/105946464"
     },
     {
       "published_datetime": "2026-01-23T01:40:55.000000Z",
@@ -191,20 +191,20 @@
     },
     {
       "published_datetime": "2026-01-22T20:02:46.000000Z",
-      "title": "Live: Albanese predicts 'at least one more' Coalition MP will defect to One Nation",
+      "title": "Albanese predicts 'at least one more' Coalition MP will defect to One Nation \u2014 as it happened",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1cf9c85df05b2bf82181df9a7a41fe3c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=125&amp;width=862&amp;height=485"
       },
-      "description": "The PM's comments came after Nationals leader David Littleproud said he was open to working with Liberal leader Sussan Ley again \"at some point\", but right now the two parties need \"a bit of time apart\". Follow live.",
+      "description": "The PM's comments came after Nationals leader David Littleproud said he was open to working with Liberal leader Sussan Ley again \"at some point\", but right now the two parties need \"a bit of time apart\".",
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/politics-live-blog-coalition-nationals-liberal-ley-littleproud/106258084"
     },
     {
       "published_datetime": "2026-01-22T19:14:11.000000Z",
-      "title": "Live: Pregnant woman among three dead in domestic violence shooting",
+      "title": "Gunman wanted over triple shooting could be difficult to find, police say",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b09e576cf61dfb0190094804ddf208fd?impolicy=wcms_crop_resize&amp;cropH=288&amp;cropW=512&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Tactical police join a growing air and land search for a man police have identified after three people, including a pregnant woman, were shot dead in a remote New South Wales town.",
+      "description": "Police have warned residents in villages neighbouring Lake Cargelligo to remain vigilant after three people were shot dead in a domestic violence attack on Thursday.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/police-search-for-lake-cargelligo-gunman-after-three-shot-dead/106260214"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-23T03:26:47.469793"
+  "merged_at": "2026-01-23T04:35:51.306002"
 }
