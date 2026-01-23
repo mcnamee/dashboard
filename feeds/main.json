@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-01-23T19:52:13.000000Z",
-      "title": "Track Cyclone Luana live as it crosses WA coast",
+      "published_datetime": "2026-01-23T20:28:46.000000Z",
+      "title": "Anxious wait continues for families as New Zealand landslide search enters third day",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/49c2f30f6cf51e2ad7efc2a6c60a19b7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=158&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/79345255d28b037fe400031d048d7bcb?impolicy=wcms_crop_resize&amp;cropH=1085&amp;cropW=1929&amp;xPos=60&amp;yPos=280&amp;width=862&amp;height=485"
       },
-      "description": "Track the path of Tropical Cyclone Luana and monitor wind speeds as the system approaches the WA coast.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/cyclone-luana-tracker-map-kimberley/106263550"
+      "description": "Authorities have vowed to continue searching for those missing in the disaster, as officials announce an official review into the incident.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/new-zealand-landslide-search-at-mount-maunganui-enters-third-day/106264352"
+    },
+    {
+      "published_datetime": "2026-01-23T20:09:33.000000Z",
+      "title": "Track temperatures live as heatwave sweeps across Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/13ea12be05e9f5137f9c2ac7462ff200?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Use our tracker to keep an eye on temperatures as a heatwave moves across much of the country.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/temperatures-heatwave-tracker-australia-day/106263796"
     },
     {
       "published_datetime": "2026-01-23T19:36:01.000000Z",
@@ -17,15 +26,6 @@
       },
       "description": "Alex de Minaur is back in familiar territory, on the cusp of the Australian Open quarterfinals, but he is adamant he can make a deeper run at Melbourne Park than his previous appearances.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/australian-open-tennis-alex-de-minaur-frances-tiafoe/106264260"
-    },
-    {
-      "published_datetime": "2026-01-23T19:30:20.000000Z",
-      "title": "Tropical Cyclone Luana forms into category one system off Kimberley coast",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a2e626c1fa0d88359654f89e4a7eff4c?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=383&amp;width=862&amp;height=485"
-      },
-      "description": "Residents in WA's West Kimberley are being warned to prepare for days of wild weather, with a tropical cyclone forming up off the region's coast.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/tropical-cyclone-luana-forms-off-kimberley-coast/106257746"
     },
     {
       "published_datetime": "2026-01-23T19:16:57.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-23T20:16:38.126402"
+  "merged_at": "2026-01-23T21:13:55.005615"
 }
