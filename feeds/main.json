@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-23T15:23:17.000000Z",
+      "title": "Ukraine, Russia and US delegations begin trilateral talks in Abu Dhabi",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85455069cd87d1ca0610fdf046ccc671?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
+      },
+      "description": "It is the first known meeting of teams from all three countries since Moscow launched its invasion of Ukraine more than four years ago.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/ukraine-russia-us-meeting-in-abu-dhabi-peace-deal/106264648"
+    },
+    {
+      "published_datetime": "2026-01-23T15:06:22.000000Z",
+      "title": "Trump sparks backlash after claiming NATO veterans avoided frontline in Afghanistan",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/21aa714a050107cdaeb816f69ff3157b?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=178&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump criticised NATO during a Fox News interview on Thursday, saying the US had \"never needed\" the alliance.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/european-veterans-outraged-over-trump-nato-troops-comments/106264332"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/655a6575-2213-4775-b8d7-fee625b696a2",
+      "published_datetime": "2026-01-23T13:26:17.988832",
+      "title": "Musk proposes turning rural Spain, Sicily into solar hubs for Europe",
+      "featured_image": {
+        "url": "https://www.euronews.com/2026/01/22/elon-musk-predicts-robot-majority-future-in-first-davos-appearance",
+        "name": "Elon Musk predicts robot-majority future in first Davos ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--aD0JXOG---/t_limit/https://images.euronews.com/articles/stories/09/62/29/05/1536x864_cmsv2_ec54d47f-bf8d-597e-b512-25542674f1db-9622905.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--vzB78kTk--/t_thumbnail/https://images.euronews.com/articles/stories/09/62/29/05/1536x864_cmsv2_ec54d47f-bf8d-597e-b512-25542674f1db-9622905.jpg"
+      },
+      "description": "At his first-ever appearance at the World Economic Forum in Davos, Elon Musk proposed that sparsely populated regions of Spain and Sicily could be transformed into large-scale solar power hubs capable of generating electricity for the entire European continent.\n\nSpeaking Thursday in a conversation with Larry Fink, the chairman and CEO of BlackRock, the chief executive of Tesla and SpaceX argued that the technology for such ambitious projects already exists\u2014what remains is the political will and investment to deploy it.",
+      "audio_url": "",
+      "url": "musk-proposes-solar-power-plan-s8JH_MiHQfe_IPUhwZ2VUw",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/53eec6be-9e51-43ae-9d84-026bba0cef57",
       "published_datetime": "2026-01-23T11:20:23.581386",
       "title": "Trump announces NATO deal to expand US military access to Greenland",
@@ -148,15 +181,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-23T05:14:15.000000Z",
-      "title": "How landslides happen, the warning signs and where they're most common",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d4b608fdfc5b777b525da0b4c0e4e845?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=149&amp;width=862&amp;height=485"
-      },
-      "description": "Two people have died after a landslide hit their home in New Zealand and authorities are searching for several others feared dead in another slip nearby. Here's how landslides occur, the warning signs and where they are most common.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/how-landslides-happen-and-where-they-are-most-common/106261240"
-    },
-    {
       "published_datetime": "2026-01-23T04:23:06.000000Z",
       "title": "Track temperatures live as heatwave sweeps continent",
       "featured_image": {
@@ -178,21 +202,6 @@
       "description": "Researchers in the United States and China have announced advances in lithium extraction technology that could address supply chain bottlenecks for electric vehicle batteries and renewable energy storage systems. The developments, revealed within days of each other, promise faster and cleaner methods for recovering lithium from brine sources that traditional techniques struggle to exploit.",
       "audio_url": "",
       "url": "new-lithium-extraction-methods-35UTFDWMSdyHSeEEcJAn8g",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5e231f65-5010-4997-8f28-2e56a0b6f229",
-      "published_datetime": "2026-01-23T02:11:38.798527",
-      "title": "US seeks to eliminate all restrictions on Greenland military access",
-      "featured_image": {
-        "url": "https://www.bloomberg.com/news/articles/2026-01-22/trump-s-greenland-demand-unlimited-us-military-presence-sought",
-        "name": "Trump's Greenland Demand: Unlimited US Military Presence ...",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1769134033/url_uploads/-1x-1_oilfqf.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1769134033/url_uploads/-1x-1_oilfqf.jpg"
-      },
-      "description": "The United States is pushing to rewrite its seven-decade-old defense agreement with Denmark to remove all restrictions on its military presence in Greenland, according to people familiar with the negotiations, as American negotiators seek to satisfy President Donald Trump's demands for control over the strategic Arctic territory.\n\nThe original 1951 agreement, which was amended in 2004, requires the US to \"consult with and inform\" Denmark and Greenland before making \"any significant changes to United States military operations or facilities in Greenland.\" American negotiators now want to eliminate this language entirely to ensure the US faces no restrictions in its military planning, according to sources who spoke to Bloomberg on condition of anonymity.[1][2]",
-      "audio_url": "",
-      "url": "us-seeks-to-renegotiate-1951-g-7knuh9B0Rca8pqG6FdfjiQ",
       "partition_name": "partition1"
     },
     {
@@ -230,15 +239,6 @@
       },
       "description": "Police have warned residents in villages neighbouring Lake Cargelligo to remain vigilant after three people were shot dead in a domestic violence attack on Thursday.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/police-search-for-lake-cargelligo-gunman-after-three-shot-dead/106260214"
-    },
-    {
-      "published_datetime": "2026-01-22T18:40:55.000000Z",
-      "title": "Trump touts 'total access' Greenland deal as NATO asks allies to step up",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1a80fd393dfbe9e742ed2b6afcbe3534?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=99&amp;width=862&amp;height=485"
-      },
-      "description": "The leaders of both Denmark and Greenland say they don't know what's in the deal, announced by the US president after he backed away from threats of tariffs and military force.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/trump-greenland-deal-access/106260210"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-23T15:17:37.689641"
+  "merged_at": "2026-01-23T16:19:35.714275"
 }
