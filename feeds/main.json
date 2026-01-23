@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-23T19:52:13.000000Z",
+      "title": "Track Cyclone Luana live as it crosses WA coast",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/49c2f30f6cf51e2ad7efc2a6c60a19b7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=158&amp;width=862&amp;height=485"
+      },
+      "description": "Track the path of Tropical Cyclone Luana and monitor wind speeds as the system approaches the WA coast.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/cyclone-luana-tracker-map-kimberley/106263550"
+    },
+    {
+      "published_datetime": "2026-01-23T19:36:01.000000Z",
+      "title": "De Minaur reveals what's adding 'more fire to the belly' at Aus Open",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98bee884459fa8740305b8329bee59ec?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=63&amp;width=862&amp;height=485"
+      },
+      "description": "Alex de Minaur is back in familiar territory, on the cusp of the Australian Open quarterfinals, but he is adamant he can make a deeper run at Melbourne Park than his previous appearances.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/australian-open-tennis-alex-de-minaur-frances-tiafoe/106264260"
+    },
+    {
+      "published_datetime": "2026-01-23T19:30:20.000000Z",
+      "title": "Tropical Cyclone Luana forms into category one system off Kimberley coast",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a2e626c1fa0d88359654f89e4a7eff4c?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=383&amp;width=862&amp;height=485"
+      },
+      "description": "Residents in WA's West Kimberley are being warned to prepare for days of wild weather, with a tropical cyclone forming up off the region's coast.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/tropical-cyclone-luana-forms-off-kimberley-coast/106257746"
+    },
+    {
+      "published_datetime": "2026-01-23T19:16:57.000000Z",
+      "title": "Manhunt for alleged triple murderer in regional NSW enters third day",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e2180716d2fa53ebb6c57359e827827?impolicy=wcms_crop_resize&amp;cropH=330&amp;cropW=587&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
+      },
+      "description": "The search for a gunman accused of killing three people and seriously injuring another in New South Wales' Central West enters a third day.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/lake-cargelligo-search-resumes-for-gunman-julian-ingram/106262074"
+    },
+    {
       "published_datetime": "2026-01-23T19:02:54.000000Z",
       "title": "US sends copycat drones to the Middle East to 'flip script' on Iran",
       "featured_image": {
@@ -8,6 +44,21 @@
       },
       "description": "The US copied Iran's Shahed 136 drone. Now, as Donald Trump threatens military action against the regime, analysts say the US could soon use Iran's weapons technology against it.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/us-copy-replica-iran-shahed-kamikaze-attack-drone-strikes-trump/106232818"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3d131738-66e3-4630-aa36-2408fed441ca",
+      "published_datetime": "2026-01-23T19:01:14.739430",
+      "title": "Climate talks take back seat at Davos as AI, geopolitics dominate",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2026/1/22/i-wont-use-force-for-greenland-key-takeaways-from-trumps-davos-speech",
+        "name": "'I won't use force' for Greenland: Key takeaways from Trump's Davos ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--OIdXUFpt--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-21T160018Z_1256876561_RC2Q5JAEGBFE_RTRMADP_3_DAVOS-MEETING-TRUMP-1769027624.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--aci200Wz--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-21T160018Z_1256876561_RC2Q5JAEGBFE_RTRMADP_3_DAVOS-MEETING-TRUMP-1769027624.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "As global leaders gathered in Davos, Switzerland for the World Economic Forum's 56th Annual Meeting this week, climate change discussions that once dominated the gathering took a back seat to geopolitics, artificial intelligence, and economic competition. The shift reflects a broader recalibration among business and political leaders who increasingly prioritize adaptation over ambitious emissions reduction goals.",
+      "audio_url": "",
+      "url": "davos-shifts-focus-away-from-c-i5n.k3lmRke68dJZyDqodg",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-23T18:55:21.000000Z",
@@ -86,15 +137,6 @@
       "audio_url": "",
       "url": "ai-job-fears-and-rivalries-dom-6ThU2TPRSCijRIefO.ugfg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-23T15:23:17.000000Z",
-      "title": "Ukraine, Russia and US delegations meet for trilateral talks on peace deal",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85455069cd87d1ca0610fdf046ccc671?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
-      },
-      "description": "The Abu Dhabi talks mark the first known trilateral meeting between the countries since Moscow launched its invasion of Ukraine more than four years ago.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/ukraine-russia-us-meeting-in-abu-dhabi-peace-deal/106264648"
     },
     {
       "published_datetime": "2026-01-23T15:06:22.000000Z",
@@ -199,48 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b4dbb9d0-32a3-4e41-99e5-4bc10ee746bb",
-      "published_datetime": "2026-01-23T08:37:04.191635",
-      "title": "Bank of Japan holds rates steady, boosting Asian and US markets",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/bank-of-japan-governor-kazuo-ueda-speaks-during-a-press-news-photo/2257127325",
-        "name": "JAPAN-ECONOMY-BOJ",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1769156840/getty_uploads/2257127325_vrrkur.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1769156840/getty_uploads/2257127325_vrrkur.jpg"
-      },
-      "description": "The Bank of Japan kept its benchmark interest rate unchanged at 0.75% on Friday, as expected, while raising its economic growth and inflation forecasts. The decision provided a stabilizing force for markets still recovering from a historic bond selloff earlier in the week triggered by Prime Minister Sanae Takaichi's snap election announcement.\n\nAsian equities edged higher following the decision, with Japan's Nikkei 225 rising 0.2% to 53,800.28. U.S. futures also gained modestly, with S&P 500 futures up 0.2%. South Korea's Kospi climbed 0.6%, trading just below the 5,000 milestone it crossed for the first time on Thursday.[1][2][3][4]",
-      "audio_url": "",
-      "url": "boj-holds-rates-steady-boostin-oVDXGVqkR2qPLqhsbfj4Ag",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-23T08:30:40.000000Z",
-      "title": "Lawyers request AFP probe into Israeli president as Australian visit looms",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ccc339deba63c15de7ac7bce7f849fd?impolicy=wcms_crop_resize&amp;cropH=2390&amp;cropW=4249&amp;xPos=0&amp;yPos=221&amp;width=862&amp;height=485"
-      },
-      "description": "The Australian Centre for International Justice has formally requested a police investigation into Israel's president for alleged incitement to genocide. He is expected to visit to Australia next month.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/calls-to-probe-israeli-president-isaac-herzog-australia-visit/106263374"
-    },
-    {
-      "published_datetime": "2026-01-23T01:40:55.000000Z",
-      "title": "Paris Hilton brings sex tape story to Washington for AI porn fight",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9a90a0271f56f062e078f5648ea5143?impolicy=wcms_crop_resize&amp;cropH=1753&amp;cropW=3116&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
-      },
-      "description": "The party girl turned anti-abuse advocate throws her glamorous celebrity heft behind a push to tackle deepfake pornography.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/paris-hilton-returns-to-washington-for-deepfake-porn-fight/106260660"
-    },
-    {
-      "published_datetime": "2026-01-22T23:23:46.000000Z",
-      "title": "De Minaur powers through with straight-sets win over Tiafoe",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/040718d452cc4540df9a850723f64d2a?impolicy=wcms_crop_resize&amp;cropH=2524&amp;cropW=4487&amp;xPos=0&amp;yPos=161&amp;width=862&amp;height=485"
-      },
-      "description": "Alex de Minaur defeats American Frances Tiafoe in straight sets on Rod Laver Arena after Yulia Putintseva mocks Turkish fans after knocking out qualifier Zeynep S\u00f6nmez.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/australian-open-2026-live-sabalenka-alcaraz-de-minaur-osaka/106260854"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-23T19:19:22.388123"
+  "merged_at": "2026-01-23T20:16:38.126402"
 }
