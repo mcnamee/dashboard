@@ -109,15 +109,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-23T07:00:38.000000Z",
-      "title": "New passport rules designed to improve national security, UK government says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b42bf404c37d9c5b522f647b2e24539d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
-      },
-      "description": "The requirement for dual British citizens to have a valid UK passport while entering the country would help prevent the arrival of people who present a threat, Australia's British High Commission says.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/uk-government-says-new-passport-rules-improve-national-security/106263628"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a6d60f84-be68-4e59-9d89-961fa12dc9dc",
       "published_datetime": "2026-01-23T06:58:39.833913",
       "title": "Gold nears $5,000 record as Trump announces naval fleet heading to Iran",
@@ -241,6 +232,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/police-search-for-lake-cargelligo-gunman-after-three-shot-dead/106260214"
     },
     {
+      "published_datetime": "2026-01-22T18:40:55.000000Z",
+      "title": "Trump touts 'total access' Greenland deal as NATO asks allies to step up",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1a80fd393dfbe9e742ed2b6afcbe3534?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=99&amp;width=862&amp;height=485"
+      },
+      "description": "The leaders of both Denmark and Greenland say they don't know what's in the deal, announced by the US president after he backed away from threats of tariffs and military force.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-23/trump-greenland-deal-access/106260210"
+    },
+    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-23T14:32:49.879521"
+  "merged_at": "2026-01-23T15:17:37.689641"
 }
