@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-23T08:41:07.000000Z",
+      "title": "West Coast Eagles' Tyler Brockman charged over Geraldton street fight",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e9007eee91158478cfc8e7cf2d039284?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "West Coast Eagles player Tyler Brockman is charged with causing grievous bodily harm following an incident in Geraldton in late December.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-23/afl-tyler-brockman-charged-over-geraldton-fight/106264146"
+    },
+    {
+      "published_datetime": "2026-01-23T08:30:40.000000Z",
+      "title": "Lawyers request AFP probe into Israeli president as Australian visit looms",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ccc339deba63c15de7ac7bce7f849fd?impolicy=wcms_crop_resize&amp;cropH=2390&amp;cropW=4249&amp;xPos=0&amp;yPos=221&amp;width=862&amp;height=485"
+      },
+      "description": "The Australian Centre for International Justice has formally requested a police investigation into Israel's president for alleged incitement to genocide. He is expected to visit to Australia next month.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-23/calls-to-probe-israeli-president-isaac-herzog-australia-visit/106263374"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2b15de8c-b3fe-481c-bae7-423fa2f19dca",
       "published_datetime": "2026-01-23T07:24:28.608543",
       "title": "US control of Venezuela oil threatens China's debt repayment",
@@ -73,15 +91,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/how-landslides-happen-and-where-they-are-most-common/106261240"
     },
     {
-      "published_datetime": "2026-01-23T05:01:23.000000Z",
-      "title": "Extended police stop-and-search declaration unlawful, court finds",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1611d9387f8c21c811a3252f5c90e868?impolicy=wcms_crop_resize&amp;cropH=714&amp;cropW=1270&amp;xPos=10&amp;yPos=21&amp;width=862&amp;height=485"
-      },
-      "description": "The Federal Court has found a Victoria Police move to give officers greater powers in Melbourne's CBD for six months was invalid and unlawful.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/federal-court-police-designated-area-designation-unlawful/106262240"
-    },
-    {
       "published_datetime": "2026-01-23T04:23:06.000000Z",
       "title": "Track temperatures live as heatwave sweeps continent",
       "featured_image": {
@@ -128,15 +137,6 @@
       },
       "description": "After a week of escalating rhetoric over Greenland, Donald Trump says he has now secured \"total access\" to the Arctic island. This is why that region is so important.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/donald-trump-greenland-maps-explain-battle-for-arctic/106248192"
-    },
-    {
-      "published_datetime": "2026-01-23T01:40:55.000000Z",
-      "title": "Paris Hilton brings sex tape story to Washington for AI porn fight",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9a90a0271f56f062e078f5648ea5143?impolicy=wcms_crop_resize&amp;cropH=1753&amp;cropW=3116&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
-      },
-      "description": "The party girl turned anti-abuse advocate throws her glamorous celebrity heft behind a push to tackle deepfake pornography.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/paris-hilton-returns-to-washington-for-deepfake-porn-fight/106260660"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/81dffd1b-bcd8-412a-9852-182bed163366",
@@ -200,11 +200,11 @@
     },
     {
       "published_datetime": "2026-01-22T23:23:46.000000Z",
-      "title": "Live: De Minaur takes to Rod Laver Arena for massive Tiafoe challenge",
+      "title": "Live: De Minaur takes first set from Tiafoe as Rod Laver Arena erupts",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cd74dcd46b10f0c36bce805ba37c9b5e?impolicy=wcms_crop_resize&amp;cropH=2195&amp;cropW=3903&amp;xPos=0&amp;yPos=106&amp;width=862&amp;height=485"
       },
-      "description": "Alex de Minaur faces American Francis Tiafoe in a tough third-round clash on Rod Laver Arena after Yulia Putintseva mocks Turkish fans after knocking out qualifier Zeynep S\u00f6nmez. Follow live.",
+      "description": "Alex de Minaur faces American Frances Tiafoe in a tough third-round clash on Rod Laver Arena after Yulia Putintseva mocks Turkish fans after knocking out qualifier Zeynep S\u00f6nmez. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/australian-open-2026-live-sabalenka-alcaraz-de-minaur-osaka/106260854"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-23T08:19:55.520923"
+  "merged_at": "2026-01-23T09:22:27.815900"
 }
