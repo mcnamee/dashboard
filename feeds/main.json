@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/afl-tyler-brockman-charged-over-geraldton-fight/106264146"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b4dbb9d0-32a3-4e41-99e5-4bc10ee746bb",
+      "published_datetime": "2026-01-23T08:37:04.191635",
+      "title": "Bank of Japan holds rates steady, boosting Asian and US markets",
+      "featured_image": {
+        "url": "https://www.gettyimages.com/detail/news-photo/bank-of-japan-governor-kazuo-ueda-speaks-during-a-press-news-photo/2257127325",
+        "name": "JAPAN-ECONOMY-BOJ",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1769156840/getty_uploads/2257127325_vrrkur.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1769156840/getty_uploads/2257127325_vrrkur.jpg"
+      },
+      "description": "The Bank of Japan kept its benchmark interest rate unchanged at 0.75% on Friday, as expected, while raising its economic growth and inflation forecasts. The decision provided a stabilizing force for markets still recovering from a historic bond selloff earlier in the week triggered by Prime Minister Sanae Takaichi's snap election announcement.\n\nAsian equities edged higher following the decision, with Japan's Nikkei 225 rising 0.2% to 53,800.28. U.S. futures also gained modestly, with S&P 500 futures up 0.2%. South Korea's Kospi climbed 0.6%, trading just below the 5,000 milestone it crossed for the first time on Thursday.[1][2][3][4]",
+      "audio_url": "",
+      "url": "boj-holds-rates-steady-boostin-oVDXGVqkR2qPLqhsbfj4Ag",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-23T08:30:40.000000Z",
       "title": "Lawyers request AFP probe into Israeli president as Australian visit looms",
       "featured_image": {
@@ -200,27 +215,12 @@
     },
     {
       "published_datetime": "2026-01-22T23:23:46.000000Z",
-      "title": "Live: De Minaur takes first set from Tiafoe as Rod Laver Arena erupts",
+      "title": "Live: Medical emergency halts de Minaur's momentum against Tiafoe",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cd74dcd46b10f0c36bce805ba37c9b5e?impolicy=wcms_crop_resize&amp;cropH=2195&amp;cropW=3903&amp;xPos=0&amp;yPos=106&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a42b4aa6c0cdaf112842f3904af3c3c1?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=10&amp;width=862&amp;height=485"
       },
       "description": "Alex de Minaur faces American Frances Tiafoe in a tough third-round clash on Rod Laver Arena after Yulia Putintseva mocks Turkish fans after knocking out qualifier Zeynep S\u00f6nmez. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/australian-open-2026-live-sabalenka-alcaraz-de-minaur-osaka/106260854"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4065e5ae-67f1-47dd-87f5-b08ef6f483b3",
-      "published_datetime": "2026-01-22T22:22:56.737413",
-      "title": "Study finds climate adaptation can curb migration in Africa",
-      "featured_image": {
-        "url": "https://www.cimmyt.org/news/drought-tolerant-hybrid-seed-offers-farmers-reprieve-from-hunger/",
-        "name": "Drought-tolerant hybrid seed offers farmers reprieve from ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IjqDQSUc--/t_limit/https://www.cimmyt.org/content/uploads/2019/03/1-Mary-Munini.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--pjuCsfJr--/t_thumbnail/https://www.cimmyt.org/content/uploads/2019/03/1-Mary-Munini.jpg"
-      },
-      "description": "Investments that help communities withstand drought and conflict\u2014especially by boosting farm productivity and basic services\u2014may also curb displacement pressures across Africa, according to a new peer\u2011reviewed study published in the journal Sustainable Development.[1][2]\n\nThe research, led by Hyun Kim of Chungnam National University, analyzes African country- and grid-level data spanning 1995\u20132015 and finds that **stronger \u201cadaptive capacity\u201d** is associated with **lower migration during periods of drought or armed conflict**, acting as a buffer when shocks hit.[3][2][1]",
-      "audio_url": "",
-      "url": "study-finds-climate-adaptation-LJicBfKnT2Wu6cHbTEirFg",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-22T21:49:34.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-23T09:22:27.815900"
+  "merged_at": "2026-01-23T10:16:42.435388"
 }
