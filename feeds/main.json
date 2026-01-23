@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-23T07:00:38.000000Z",
+      "title": "New UK passport rules designed to improve national security, government says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b42bf404c37d9c5b522f647b2e24539d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "The requirement for dual British citizens to have a valid UK passport while entering the country would help prevent the arrival of people who present a threat, Australia's British High Commission says.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-23/uk-government-says-new-passport-rules-improve-national-security/106263628"
+    },
+    {
+      "published_datetime": "2026-01-23T06:46:04.000000Z",
+      "title": "'It's a quiet town:' Neighbours in shock after triple fatal shooting",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cf6a1db59ea7dd972fdc9c65aba36b19?impolicy=wcms_crop_resize&amp;cropH=833&amp;cropW=1480&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
+      },
+      "description": "Residents of a remote NSW town of just 1,500 residents have expressed shock at a deadly shooting spree where three people were shot dead.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-23/lake-cargelligo-urged-indoors-a-neighbours-recall-gunshots/106260708"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a9dc3c67-aab0-43f2-96da-5c3acd9c2c67",
       "published_datetime": "2026-01-23T05:22:16.989661",
       "title": "Trump revokes Canada's invitation to Board of Peace",
@@ -82,15 +100,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/donald-trump-greenland-maps-explain-battle-for-arctic/106248192"
     },
     {
-      "published_datetime": "2026-01-23T01:53:15.000000Z",
-      "title": "TikTok finalises deal to form new American version of app",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b960a0122d9babf53e9c3cbb61afd757?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=182&amp;width=862&amp;height=485"
-      },
-      "description": "Social media giant TikTok reaches a deal for a new joint venture in the United States to avoid being banned for American users. The platform's Beijing-based parent company, ByteDance, will retain a 19.9 per cent stake in the company.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/us-and-china-sign-off-on-tiktok-agreement-to-avoid-ban/105946464"
-    },
-    {
       "published_datetime": "2026-01-23T01:40:55.000000Z",
       "title": "Paris Hilton brings sex tape story to Washington for AI porn fight",
       "featured_image": {
@@ -161,7 +170,7 @@
     },
     {
       "published_datetime": "2026-01-22T23:23:46.000000Z",
-      "title": "Live: 'A bit unnecessary': Putintseva mocks fans after knocking out crowd favourite",
+      "title": "Live: 'Like a football crowd': Turkish fans boo Aus Open villain after victory dance",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64dacccb23bab29707a1d9495852d1db?impolicy=wcms_crop_resize&amp;cropH=2255&amp;cropW=4009&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -221,15 +230,6 @@
       },
       "description": "The Liberal leader did not speak about the Nationals' decision to terminate the Coalition on yesterday's National Day of Mourning, but on Friday insisted her focus was on the government.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/defiant-sussan-ley-vows-to-remain-leader/106260460"
-    },
-    {
-      "published_datetime": "2026-01-22T20:02:46.000000Z",
-      "title": "Albanese predicts 'at least one more' Coalition MP will defect to One Nation \u2014 as it happened",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1cf9c85df05b2bf82181df9a7a41fe3c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=125&amp;width=862&amp;height=485"
-      },
-      "description": "The PM's comments came after Nationals leader David Littleproud said he was open to working with Liberal leader Sussan Ley again \"at some point\", but right now the two parties need \"a bit of time apart\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/politics-live-blog-coalition-nationals-liberal-ley-littleproud/106258084"
     },
     {
       "published_datetime": "2026-01-22T19:14:11.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-23T06:45:04.755651"
+  "merged_at": "2026-01-23T07:19:37.665550"
 }
