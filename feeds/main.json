@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-24T00:30:27.000000Z",
+      "title": "John Williamson takes his final bow at Tamworth Country Music Festival",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/55e8550a2daa20a5245edc6284bff743?impolicy=wcms_crop_resize&amp;cropH=1451&amp;cropW=2580&amp;xPos=214&amp;yPos=158&amp;width=862&amp;height=485"
+      },
+      "description": "Aussie music legend John Williamson will take the Tamworth Country Music Festival stage for the last time as he steps into retirement.\u00a0 \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/john-williamson-last-tamworth-country-music-festival-performance/106260430"
+    },
+    {
+      "published_datetime": "2026-01-24T00:00:37.000000Z",
+      "title": "The storm after a social media pot-stirrer was awarded a $376k role",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f047e680994a199d612b343bf7c8f63?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=328&amp;width=862&amp;height=485"
+      },
+      "description": "The man picked for one of the Northern Territory's most lucrative jobs \u2014 which comes with a manor overlooking Darwin Harbour \u2014 has drawn controversy before even walking through the gates.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/david-connolly-nt-administrator-appointment-cultural-rift-widens/106263574"
+    },
+    {
+      "published_datetime": "2026-01-23T23:11:53.000000Z",
+      "title": "Rural council decides 'flanno' fashion is fine as business attire",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f32c008d225ca6108a990e3ab1dfaf9e?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
+      },
+      "description": "Flannelette shirts might not be acceptable in every office, but after a lengthy discussion councillors in one NSW town will be allowed to wear them to meetings.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/flannel-shirt-deemed-appropriate-council-meeting-attire/106167948"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1e5c2c5f-1a06-4c54-b618-042291d7e9d9",
+      "published_datetime": "2026-01-23T22:32:10.553292",
+      "title": "Major airlines suspend Middle East flights amid US-Iran tensions",
+      "featured_image": {
+        "url": "https://www.bloomberg.com/news/articles/2026-01-23/air-france-klm-halts-dubai-riyadh-flights-on-geopolitical-risks",
+        "name": "Air France-KLM Halts Dubai, Riyadh Flights on Geopolitical ...",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1769207287/url_uploads/-1x-1_x7zjwi.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1769207287/url_uploads/-1x-1_x7zjwi.jpg"
+      },
+      "description": "KLM, Air France, Lufthansa, British Airways, Swiss, and several other major carriers abruptly suspended flights to Israel, the United Arab Emirates, and Saudi Arabia on Friday, citing escalating security concerns as U.S. President Donald Trump announced a naval \"armada\" heading toward Iran.\n\nThe coordinated cancellations, which began late Thursday evening and extended through the weekend, disrupted travel plans for thousands of passengers across Europe and left airports scrambling to manage the sudden disruption. The flight suspensions came as Turkish Foreign Minister Hakan Fidan warned that Israel continues to seek an opportunity to strike Iran.",
+      "audio_url": "",
+      "url": "major-european-airlines-suspen-UZCSuI9ZSMeX57CV_PNCsg",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6666b040-442f-4ad4-9ee3-64179ec44020",
       "published_datetime": "2026-01-23T21:39:54.706021",
       "title": "Uganda military chief says 2,000 detained, 30 killed in post-election crackdown",
@@ -46,15 +88,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-23T20:57:16.000000Z",
-      "title": "Harbour swimming warning as NSW\u00a0beaches open after shark attacks",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1e97575fdf0e86f95df3664db0a2f9b6?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
-      },
-      "description": "Heatwave conditions and Australia Day long weekend activities are expected to draw crowds back to the water after a dangerous 48 hours on the New South Wales coast.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/nsw-beaches-to-reopen-for-australia-day-after-shark-attacks/106261374"
-    },
-    {
       "published_datetime": "2026-01-23T20:51:16.000000Z",
       "title": "Heatwave and fire warnings across south-east Australia as tropical cyclone hits WA",
       "featured_image": {
@@ -62,15 +95,6 @@
       },
       "description": "Parts of south-east Australia are bracing for severe heatwaves and fire warnings over the long weekend, as the Bureau of Meteorology issues a tropical cyclone warning for Western Australia.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/heatwave-south-east-australia-tropical-cyclone-wa/106261940"
-    },
-    {
-      "published_datetime": "2026-01-23T20:35:12.000000Z",
-      "title": "Soaring temperatures in SA force Tour Down Under changes",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b48600ba4d566e4bd1462a004a8abeb7?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=442&amp;width=862&amp;height=485"
-      },
-      "description": "South Australia's hottest weather in six years creates dangerous bushfire conditions, which the head of the Country Fire Service says are \"as serious as it gets\".\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/sa-heatwave-saturday-total-fire-bans-catastrophic-conditions/106262450"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/943e6475-e55d-4b85-9fa2-0119cc7b07c5",
@@ -151,13 +175,13 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-23T19:30:20.000000Z",
-      "title": "Tropical Cyclone Luana intensifies off northern Western Australia",
+      "published_datetime": "2026-01-23T19:16:57.000000Z",
+      "title": "Manhunt for alleged triple murderer in regional NSW enters third day",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a2e626c1fa0d88359654f89e4a7eff4c?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=383&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e2180716d2fa53ebb6c57359e827827?impolicy=wcms_crop_resize&amp;cropH=330&amp;cropW=587&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
       },
-      "description": "Residents in WA's West Kimberley are being warned to prepare for days of wild weather, with a tropical cyclone forming up off the region's coast.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/tropical-cyclone-luana-forms-off-kimberley-coast/106257746"
+      "description": "A gunman accused of killing three people and seriously injuring another in New South Wales' Central West may be receiving help to evade authorities, police say.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/lake-cargelligo-search-resumes-for-gunman-julian-ingram/106262074"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3d131738-66e3-4630-aa36-2408fed441ca",
@@ -208,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/eb37c282-2e10-4875-930b-d26d2b20d71b",
-      "published_datetime": "2026-01-23T16:41:59.398039",
-      "title": "Gold nears $5,000 as Trump walks back Greenland tariff threats",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/01/23/trump-davos-canada-carney-france-macron-spain-china-wind.html",
-        "name": "From French drug pricing to 'loser' windmills: A rundown of who Trump criticized at Davos",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--PT8eZ7F2--/t_limit/https://image.cnbcfm.com/api/v1/image/108255100-1769015641643-gettyimages-2256834723-AFP_93HU972.jpeg%3Fv%3D1769015657%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--flPVMpvw--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108255100-1769015641643-gettyimages-2256834723-AFP_93HU972.jpeg%3Fv%3D1769015657%26w%3D1920%26h%3D1080"
-      },
-      "description": "Gold surged to within striking distance of $5,000 per troy ounce on Friday, reaching an intraday record of $4,970 in Asian trading, as markets responded to a whirlwind week of geopolitical developments including President Donald Trump's surprise reversal on tariff threats tied to Greenland.[1][2]\n\nThe precious metal has climbed roughly 11% in the first weeks of January alone, extending a historic 64% rally in 2025, as investors seek refuge from policy uncertainty and tensions continue across multiple global flashpoints.[3][4]",
-      "audio_url": "",
-      "url": "gold-nears-5000-as-markets-rea-K_bCBao8Rwq.QqgXOsa7SQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-23T15:06:22.000000Z",
       "title": "'Insulting': Starmer demands apology after Trump's slur against NATO troops",
       "featured_image": {
@@ -230,15 +239,6 @@
       },
       "description": "Donald Trump criticised NATO during a Fox News interview on Thursday, saying the US had \"never needed\" the alliance.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/european-veterans-outraged-over-trump-nato-troops-comments/106264332"
-    },
-    {
-      "published_datetime": "2026-01-23T10:25:40.000000Z",
-      "title": "Dingoes 'not likely' to have caused Canadian teen's death, autopsy reveals",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/48dbff5fd5b9d352e36156000f535f6a?impolicy=wcms_crop_resize&amp;cropH=532&amp;cropW=946&amp;xPos=0&amp;yPos=549&amp;width=862&amp;height=485"
-      },
-      "description": "A preliminary report from the Coroners Court of Queensland finds dingo bites are not likely to have caused the death of Piper James on K'gari.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-23/canadian-teen-piper-james-likely-died-from-drowning-on-kgari/106256020"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-23T23:14:01.859076"
+  "merged_at": "2026-01-24T01:01:40.251451"
 }
