@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-24T05:07:02.000000Z",
+      "title": "Breaking: Seven dead, 82 missing in Indonesia landslide",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/895fe9c43b38332c2dcbf4ca5b7f2260?impolicy=wcms_crop_resize&amp;cropH=2638&amp;cropW=4690&amp;xPos=0&amp;yPos=244&amp;width=862&amp;height=485"
+      },
+      "description": "The landslide was reported in the West Bandung region of Indonesia's West Java province, according to the nation's agency spokesperson Abdul Muhari.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/indonesia-landslide-west-bandung-west-java-province/106265558"
+    },
+    {
       "published_datetime": "2026-01-24T03:30:06.000000Z",
       "title": "12yo shark attack victim dies in hospital",
       "featured_image": {
@@ -122,7 +131,7 @@
     },
     {
       "published_datetime": "2026-01-23T23:03:54.000000Z",
-      "title": "Live: Australian Open matches suspended amid extreme heat",
+      "title": "Live: Sinner escapes heat, wins after huge scare on centre court",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f899827767a67f6d21af60b260e430b2?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=10&amp;width=862&amp;height=485"
       },
@@ -190,15 +199,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-23T20:28:46.000000Z",
-      "title": "Human remains found as NZ landslide search moves to recovery",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b2f5c1a6f4aece36253ce1cc3a9b1631?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=397&amp;width=862&amp;height=485"
-      },
-      "description": "Authorities vow to continue searching for those missing in the disaster, as officials announce a review into the incident.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/new-zealand-landslide-search-at-mount-maunganui-enters-third-day/106264352"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/943e6475-e55d-4b85-9fa2-0119cc7b07c5",
       "published_datetime": "2026-01-23T20:19:52.407336",
       "title": "Trump says US military 'armada' is heading toward Iran",
@@ -223,13 +223,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/verify-neo-nazi-symbols-explainer/106258068"
     },
     {
-      "published_datetime": "2026-01-23T19:16:57.000000Z",
-      "title": "Police believe alleged triple murderer may be receiving help to avoid arrest",
+      "published_datetime": "2026-01-23T19:30:20.000000Z",
+      "title": "Tropical Cyclone Luana forms into category one system off WA's Kimberley coast",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e2180716d2fa53ebb6c57359e827827?impolicy=wcms_crop_resize&amp;cropH=330&amp;cropW=587&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9de6819dd6814fc033630844aa4f8c26?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "A gunman accused of killing three people and seriously injuring another in New South Wales' Central West may be receiving help to evade authorities, police say.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/lake-cargelligo-search-resumes-for-gunman-julian-ingram/106262074"
+      "description": "Residents in WA's West Kimberley are being warned to prepare for days of wild weather, with a tropical cyclone forming up off the region's coast.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/tropical-cyclone-luana-forms-off-kimberley-coast/106257746"
     },
     {
       "published_datetime": "2026-01-23T18:55:21.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-24T05:15:16.028019"
+  "merged_at": "2026-01-24T06:20:14.752556"
 }
