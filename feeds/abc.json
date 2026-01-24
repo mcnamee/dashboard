@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-24T03:30:06.000000Z",
+      "title": "Breaking: 12yo shark attack victim dies in hospital",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c0d4b63d7ff88fa94fe72f18fd4288a5?impolicy=wcms_crop_resize&amp;cropH=322&amp;cropW=572&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Nico Antic, the 12-year-old boy who suffered serious leg injuries after being bitten by a shark in Sydney's east, has died in hospital.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/sydney-12yo-shark-attack-victim-nico-antic-dies-in-hospital/106249554"
+    },
+    {
       "published_datetime": "2026-01-23T18:55:21.000000Z",
-      "title": "In the smouldering wreckage of the Coalition, rumours are running rife",
+      "title": "The one sure bet in the wake of the Coalition implosion",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bb4ab15408ffd75054fb95cd6478573?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -11,30 +20,12 @@
     },
     {
       "published_datetime": "2026-01-24T02:36:14.000000Z",
-      "title": "How serious a 'security threat' is China to Greenland?",
+      "title": "Why Beijing has struggled to get a foothold in Greenland",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bb2daf7458589c6a12a7ecc63ffcf08b?impolicy=wcms_crop_resize&amp;cropH=2070&amp;cropW=3680&amp;xPos=0&amp;yPos=162&amp;width=862&amp;height=485"
       },
       "description": "Donald Trump says the US needs to control Greenland to fight a security threat from China. But does Beijing really have that much power in the region? ",
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/how-much-power-does-china-really-have-in-the-arctic/106257590"
-    },
-    {
-      "published_datetime": "2026-01-23T15:06:22.000000Z",
-      "title": "'Insulting': Starmer demands apology after Trump's slur against NATO troops",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c2ce48ae409cf4f9c0b7999be779f72?impolicy=wcms_crop_resize&amp;cropH=1800&amp;cropW=3200&amp;xPos=0&amp;yPos=54&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump criticised NATO during a Fox News interview on Thursday, saying the US had \"never needed\" the alliance.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/european-veterans-outraged-over-trump-nato-troops-comments/106264332"
-    },
-    {
-      "published_datetime": "2026-01-23T20:28:46.000000Z",
-      "title": "Human remains found as NZ landslide search moves to recovery",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b2f5c1a6f4aece36253ce1cc3a9b1631?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=397&amp;width=862&amp;height=485"
-      },
-      "description": "Authorities vow to continue searching for those missing in the disaster, as officials announce a review into the incident.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/new-zealand-landslide-search-at-mount-maunganui-enters-third-day/106264352"
     },
     {
       "published_datetime": "2026-01-23T19:16:57.000000Z",
@@ -46,40 +37,31 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/lake-cargelligo-search-resumes-for-gunman-julian-ingram/106262074"
     },
     {
-      "published_datetime": "2026-01-23T20:51:16.000000Z",
-      "title": "Heatwave and fire warnings across south-east Australia as tropical cyclone hits WA",
+      "published_datetime": "2026-01-23T20:28:46.000000Z",
+      "title": "Human remains found as NZ landslide search moves to recovery",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/13e459110e23e5e63247413ad64e99eb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b2f5c1a6f4aece36253ce1cc3a9b1631?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=397&amp;width=862&amp;height=485"
       },
-      "description": "Parts of south-east Australia are bracing for severe heatwaves and fire warnings over the long weekend, as the Bureau of Meteorology issues a tropical cyclone warning for Western Australia.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/heatwave-south-east-australia-tropical-cyclone-wa/106261940"
+      "description": "Authorities vow to continue searching for those missing in the disaster, as officials announce a review into the incident.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/new-zealand-landslide-search-at-mount-maunganui-enters-third-day/106264352"
     },
     {
-      "published_datetime": "2026-01-23T19:56:45.000000Z",
-      "title": "How Australian Neo-Nazis covertly signal their views",
+      "published_datetime": "2026-01-23T23:03:54.000000Z",
+      "title": "Live: Australian Open matches suspended amid extreme heat",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6ef900f7897954d73ed476132351986?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f899827767a67f6d21af60b260e430b2?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=10&amp;width=862&amp;height=485"
       },
-      "description": "Viking symbols and a Norwegian jacket have now become synonymous with Australia's Neo-Nazi groups, but what do they mean?",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/verify-neo-nazi-symbols-explainer/106258068"
+      "description": "Play has been suspended and roofs closed at Melbourne Park as sweltering temperatures forced players off court during round 3 of the Australian Open. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/australian-open-2026-live-sinner-djokovic-osaka-inglis/106264358"
     },
     {
-      "published_datetime": "2026-01-23T18:30:00.000000Z",
-      "title": "Trump forces Europe to reconsider its security and economic future",
+      "published_datetime": "2026-01-24T03:23:11.000000Z",
+      "title": "US to take step back in monitoring North Korea threat",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1f16f350cd44d6a4f6a7ad3d7fc181e?impolicy=wcms_crop_resize&amp;cropH=2653&amp;cropW=4717&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a37099f64e5bf35070c1e488779fcdb3?impolicy=wcms_crop_resize&amp;cropH=1275&amp;cropW=2266&amp;xPos=295&amp;yPos=343&amp;width=862&amp;height=485"
       },
-      "description": "As the world's elite gathered in Davos, European leaders confronted a reality in which they might need to defend themselves, and potentially against, the United States. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/davos-donald-trump-zelenskyy-russia-war-technology/106252046"
-    },
-    {
-      "published_datetime": "2026-01-24T00:24:55.000000Z",
-      "title": "Live: Hilltop Hoods re-claim triple j Hottest 100 record from Billie Eilish",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c3555c094b02f8034fbe8645e27c8d5?impolicy=wcms_crop_resize&amp;cropH=2499&amp;cropW=4443&amp;xPos=5&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Music lovers from across the country and the world have cast their votes in the millions; but which song will be crowned #1 in the triple j Hottest 100 of 2025.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/triple-j-hottest-100-2025-live-updates/106256428"
+      "description": "The United States says it intends to play a \"more limited\" role in deterring nuclear-powered North Korea, shifting the burden of responsibility onto South Korea.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/pentagon-north-korea-kim-jong-un-threat-usa-looks-to-south-korea/106265180"
     },
     {
       "published_datetime": "2026-01-24T02:25:37.000000Z",
@@ -91,22 +73,40 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/taking-up-arms-against-myanmar-military/106252216"
     },
     {
-      "published_datetime": "2026-01-24T02:09:13.000000Z",
-      "title": "A lake, a sinkhole, and a region's Little Blue gem",
+      "published_datetime": "2026-01-24T00:24:55.000000Z",
+      "title": "Live: Hilltop Hoods re-claim triple j Hottest 100 record from Billie Eilish",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d540ac4246f26077d1a0834e1d761233?impolicy=wcms_crop_resize&amp;cropH=1130&amp;cropW=2009&amp;xPos=20&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c3555c094b02f8034fbe8645e27c8d5?impolicy=wcms_crop_resize&amp;cropH=2499&amp;cropW=4443&amp;xPos=5&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "While its younger brother gets much of the shine, the Little Blue Lake is a unique and ancient spectacle in SA's south east.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/visitors-flock-to-little-blue-lake-mount-gambier/106206022"
+      "description": "Music lovers from across the country and the world have cast their votes in the millions; but which song will be crowned #1 in the triple j Hottest 100 of 2025.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/triple-j-hottest-100-2025-live-updates/106256428"
     },
     {
-      "published_datetime": "2026-01-23T23:03:54.000000Z",
-      "title": "Live: Unheralded American takes set off Sinner as Aus Open heats up",
+      "published_datetime": "2026-01-23T19:56:45.000000Z",
+      "title": "The subtle symbols Neo-Nazis may use to evade hate speech laws",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f899827767a67f6d21af60b260e430b2?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=10&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6ef900f7897954d73ed476132351986?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "As Melbourne braces for heatwave conditions, day seven of the Australian Open has an early start to maximise play before temperatures peak, as Jannik Sinner, Novak Djokovic and Naomi Osaka feature in matches on centre court. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/australian-open-2026-live-sinner-djokovic-osaka-inglis/106264358"
+      "description": "Viking symbols and a Norwegian jacket have now become synonymous with Australia's Neo-Nazi groups, but what do they mean?",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/verify-neo-nazi-symbols-explainer/106258068"
+    },
+    {
+      "published_datetime": "2026-01-23T15:06:22.000000Z",
+      "title": "'Insulting': Starmer demands apology after Trump's slur against NATO troops",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c2ce48ae409cf4f9c0b7999be779f72?impolicy=wcms_crop_resize&amp;cropH=1800&amp;cropW=3200&amp;xPos=0&amp;yPos=54&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump criticised NATO during a Fox News interview on Thursday, saying the US had \"never needed\" the alliance.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/european-veterans-outraged-over-trump-nato-troops-comments/106264332"
+    },
+    {
+      "published_datetime": "2026-01-23T20:51:16.000000Z",
+      "title": "Heatwave and fire warnings across south-east Australia as tropical cyclone hits WA",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/13e459110e23e5e63247413ad64e99eb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+      },
+      "description": "Parts of south-east Australia are bracing for severe heatwaves and fire warnings over the long weekend, as the Bureau of Meteorology issues a tropical cyclone warning for Western Australia.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/heatwave-south-east-australia-tropical-cyclone-wa/106261940"
     },
     {
       "published_datetime": "2026-01-23T20:11:57.000000Z",
@@ -118,15 +118,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/leading-the-fight-against-ice-in-minnesota/106248564"
     },
     {
-      "published_datetime": "2026-01-24T01:36:19.000000Z",
-      "title": "Running towards danger: The program preparing graduates for no ordinary job",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a475536e2c8ebff63f1ae357e8316bb1?impolicy=wcms_crop_resize&amp;cropH=1579&amp;cropW=2807&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
-      },
-      "description": "For First Nations recruits the path to firefighting is demanding, competitive and often deeply personal.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/getting-more-first-nations-people-into-fire-and-rescue/106174194"
-    },
-    {
       "published_datetime": "2026-01-23T23:04:01.000000Z",
       "title": "Ex-Olympian charged with murder, drug offences, as FBI likens him to Pablo Escobar",
       "featured_image": {
@@ -136,22 +127,31 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/olympic-snowboarder-ryan-wedding-faces-murder-drug-charges/106264912"
     },
     {
-      "published_datetime": "2026-01-24T00:00:37.000000Z",
-      "title": "The storm after a social media pot-stirrer was awarded a $376k role",
+      "published_datetime": "2026-01-24T02:09:13.000000Z",
+      "title": "A lake, a sinkhole, and a region's Little Blue gem",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f047e680994a199d612b343bf7c8f63?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=328&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d540ac4246f26077d1a0834e1d761233?impolicy=wcms_crop_resize&amp;cropH=1130&amp;cropW=2009&amp;xPos=20&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The man picked for one of the Northern Territory's most lucrative jobs — which comes with a manor overlooking Darwin Harbour — has drawn controversy before even walking through the gates.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/david-connolly-nt-administrator-appointment-cultural-rift-widens/106263574"
+      "description": "While its younger brother gets much of the shine, the Little Blue Lake is a unique and ancient spectacle in SA's south east.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/visitors-flock-to-little-blue-lake-mount-gambier/106206022"
     },
     {
       "published_datetime": "2026-01-23T21:25:04.000000Z",
-      "title": "Should financial literacy be mandatory in schools?",
+      "title": "Money traps everywhere with concerns young people aren't financially literate",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/30f9084145621dca6b184f953058c81a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=283&amp;width=862&amp;height=485"
       },
       "description": "In an increasingly complex financial world of buy-now-pay-later schemes, scams, and social media marketing, there are renewed calls for financial literacy to become a mandatory part of the school curriculum.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/calls-to-make-financial-literacy-mandatory-in-schools/106257050"
+    },
+    {
+      "published_datetime": "2026-01-24T01:36:19.000000Z",
+      "title": "Running towards danger: The program preparing graduates for no ordinary job",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a475536e2c8ebff63f1ae357e8316bb1?impolicy=wcms_crop_resize&amp;cropH=1579&amp;cropW=2807&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
+      },
+      "description": "For First Nations recruits the path to firefighting is demanding, competitive and often deeply personal.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/getting-more-first-nations-people-into-fire-and-rescue/106174194"
     },
     {
       "published_datetime": "2026-01-24T00:30:27.000000Z",
@@ -163,13 +163,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/john-williamson-last-tamworth-country-music-festival-performance/106260430"
     },
     {
-      "published_datetime": "2026-01-24T01:03:26.000000Z",
-      "title": "Fire destroys home in exclusive seaside town of Portsea",
+      "published_datetime": "2026-01-24T00:00:37.000000Z",
+      "title": "The cattleman with a plum job condemned for 'racist' remarks",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a44fb31a7c6554a80cdf8b9f1c8b782f?impolicy=wcms_crop_resize&amp;cropH=335&amp;cropW=596&amp;xPos=0&amp;yPos=371&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f047e680994a199d612b343bf7c8f63?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=328&amp;width=862&amp;height=485"
       },
-      "description": "The blaze in the large Mornington Peninsula home took dozens of firefighters more than two hours to bring under control.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/fire-destroys-portsea-home/106265028"
+      "description": "The man picked for one of the Northern Territory's most lucrative jobs — which comes with a manor overlooking Darwin Harbour — has drawn controversy before even walking through the gates.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/david-connolly-nt-administrator-appointment-cultural-rift-widens/106263574"
     },
     {
       "published_datetime": "2026-01-23T22:48:52.000000Z",
@@ -190,13 +190,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-23/canadian-teen-piper-james-likely-died-from-drowning-on-kgari/106256020"
     },
     {
-      "published_datetime": "2026-01-24T02:56:13.000000Z",
-      "title": "Brown soars to X-Games silver",
+      "published_datetime": "2026-01-24T03:43:29.000000Z",
+      "title": "Vine loses teammates on blistering fourth TDU stage",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ca0e1d1d2c30f8b36b2b05cf39dbe606?impolicy=wcms_crop_resize&amp;cropH=2523&amp;cropW=4485&amp;xPos=0&amp;yPos=302&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed16fc8a54617d650c1bf2bf49c59408?impolicy=wcms_crop_resize&amp;cropH=2495&amp;cropW=4435&amp;xPos=565&amp;yPos=825&amp;width=862&amp;height=485"
       },
-      "description": "Indra Brown continued her extraordinary form heading into the 2026 Winter Olympics with a silver medal at the X-Games in Aspen.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/indra-brown-wins-x-games-silver-superpipe/106265186"
+      "description": "Jay Vine loses two teammates on a blistering fourth stage of the Tour Down Under, but retains his overall lead as Ethan Vernon claimed the stage victory.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/tour-down-under-stage-four-jay-vine-ethan-vernon/106265046"
     },
     {
       "published_datetime": "2026-01-23T19:54:20.000000Z",
@@ -208,22 +208,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/wonnangatta-dargo-fire-high-country-landmarks-protection/105802954"
     },
     {
-      "published_datetime": "2026-01-23T21:16:51.000000Z",
-      "title": "Gen Z led the revolution in Bangladesh — can they win the election?",
+      "published_datetime": "2026-01-23T20:39:57.000000Z",
+      "title": "Regional Victorian cities face drinking water shortfall as populations grow",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/958af927cb89f1c6d6b255b35c02706c?impolicy=wcms_crop_resize&amp;cropH=2062&amp;cropW=3665&amp;xPos=0&amp;yPos=344&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/22ad9128dea58202fd36b3a37a8d4699?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=224&amp;width=862&amp;height=485"
       },
-      "description": "After toppling Sheikh Hasina, Bangladesh's newest political party faces its first election next month, testing a newly formed alliance.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/bangladesh-election-gen-z-revolution-will-they-win/106204040"
+      "description": "One regional city is 15 years from a shortfall of drinking water and some experts are calling for a trial to recycle wastewater into something drinkable.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/vic-water-supply-regional-town-population-growth-bendigo/106008756"
     },
     {
-      "published_datetime": "2026-01-24T01:17:44.000000Z",
-      "title": "Malnutrition and the KGB: Running away with the circus in 1990",
+      "published_datetime": "2026-01-24T01:53:14.000000Z",
+      "title": "Fortescue hopes Pilbara wind farm will be the 'first of many'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a47a5210c74a94089fb76362756d0dd?impolicy=wcms_crop_resize&amp;cropH=994&amp;cropW=1767&amp;xPos=0&amp;yPos=197&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/53a82695a1ce271282d8c03e7207333d?impolicy=wcms_crop_resize&amp;cropH=2109&amp;cropW=3750&amp;xPos=0&amp;yPos=868&amp;width=862&amp;height=485"
       },
-      "description": "Tasmanian Dave Wellington and two of his mates were just 18 when they ran away with the Great Moscow Circus back when it was owned by the Soviet Union.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/inside-the-great-moscow-circus-in-1990/106258358"
+      "description": "A mining company in Western Australia's Pilbara region is one step closer to decarbonising its iron ore production after starting construction on the region's first wind farm.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/fortescue-begins-construction-on-pilbaras-first-wind-farm/106245178"
     }
   ]
 }
