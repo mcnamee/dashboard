@@ -2,7 +2,7 @@
   "items": [
     {
       "published_datetime": "2026-01-24T06:40:34.000000Z",
-      "title": "Breaking: Tropical Cyclone Luana makes landfall in WA's Kimberley",
+      "title": "Tropical Cyclone Luana makes landfall in WA's Kimberley",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6afb86559738043b5922916e3075e913?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
       },
@@ -24,7 +24,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c0d4b63d7ff88fa94fe72f18fd4288a5?impolicy=wcms_crop_resize&amp;cropH=322&amp;cropW=572&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Nico Antic, the 12-year-old boy who suffered serious leg injuries after being bitten by a shark in Sydney's east, has died in hospital.",
+      "description": "Nico Antic, the 12-year-old boy who suffered serious leg injuries after being bitten by a shark in Sydney's east has died in hospital.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/sydney-12yo-shark-attack-victim-nico-antic-dies-in-hospital/106249554"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "published_datetime": "2026-01-24T00:24:55.000000Z",
-      "title": "Live: Hilltop Hoods re-claim triple j Hottest 100 record from Billie Eilish",
+      "title": "Live: The triple j Hottest 100 top 10 is nearly here, but who will take the #1 spot?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c3555c094b02f8034fbe8645e27c8d5?impolicy=wcms_crop_resize&amp;cropH=2499&amp;cropW=4443&amp;xPos=5&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -140,11 +140,11 @@
     },
     {
       "published_datetime": "2026-01-23T23:03:54.000000Z",
-      "title": "Live: Sinner escapes heat, wins after huge scare on centre court",
+      "title": "Live: Djokovic takes centre stage on scorching hot Aus Open Super Saturday",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f899827767a67f6d21af60b260e430b2?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=10&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3e631e1cb690ff8b1428bbd02ff6da96?impolicy=wcms_crop_resize&amp;cropH=1124&amp;cropW=1999&amp;xPos=0&amp;yPos=101&amp;width=862&amp;height=485"
       },
-      "description": "Play has been suspended and roofs closed at Melbourne Park as sweltering temperatures forced players off court during round 3 of the Australian Open.\u00a0",
+      "description": "Novak Djokovic is set to face Botic van de Zandschulp while Stan Wawrinka battles to extend his Australian Open career. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/australian-open-2026-live-sinner-djokovic-osaka-inglis/106264358"
     },
     {
@@ -223,6 +223,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-01-23T20:09:33.000000Z",
+      "title": "Track temperatures live as heatwave sweeps across Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/13ea12be05e9f5137f9c2ac7462ff200?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Use our tracker to keep an eye on temperatures as a heatwave moves across much of the country.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/temperatures-heatwave-tracker-australia-day/106263796"
+    },
+    {
       "published_datetime": "2026-01-23T18:55:21.000000Z",
       "title": "The one sure bet in the wake of the Coalition implosion",
       "featured_image": {
@@ -230,15 +239,6 @@
       },
       "description": "Dissecting the implosion of the Coalition and figuring out what comes next has become a full-time vocation for the newly emancipated Liberals and Nationals.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/how-the-coalition-split-played-out/106263654"
-    },
-    {
-      "published_datetime": "2026-01-23T15:06:22.000000Z",
-      "title": "'Insulting': Starmer demands apology after Trump's slur against NATO troops",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c2ce48ae409cf4f9c0b7999be779f72?impolicy=wcms_crop_resize&amp;cropH=1800&amp;cropW=3200&amp;xPos=0&amp;yPos=54&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump criticised NATO during a Fox News interview on Thursday, saying the US had \"never needed\" the alliance.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/european-veterans-outraged-over-trump-nato-troops-comments/106264332"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-24T07:14:16.499828"
+  "merged_at": "2026-01-24T08:17:20.191188"
 }
