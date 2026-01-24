@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/db4644b4-88bb-40e1-8f77-44be050609ec",
+      "published_datetime": "2026-01-24T07:23:48.478076",
+      "title": "UK-led mission to create artificial eclipses proposed to ESA",
+      "featured_image": {
+        "url": "https://theconversation.com/proposed-new-mission-will-create-artificial-solar-eclipses-in-space-272092",
+        "name": "Proposed new mission will create artificial solar eclipses in\u00a0space",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ItoTRdZT--/t_limit/https://images.theconversation.com/files/714119/original/file-20260123-56-ni7t41.png%3Fixlib%3Drb-4.1.0%26rect%3D0%252C512%252C2048%252C1024%26q%3D45%26auto%3Dformat%26w%3D1356%26h%3D668%26fit%3Dcrop",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--l-fnS_6V--/t_thumbnail/https://images.theconversation.com/files/714119/original/file-20260123-56-ni7t41.png%3Fixlib%3Drb-4.1.0%26rect%3D0%252C512%252C2048%252C1024%26q%3D45%26auto%3Dformat%26w%3D1356%26h%3D668%26fit%3Dcrop"
+      },
+      "description": "An international consortium of scientists has proposed a spacecraft mission to generate artificial solar eclipses in space, offering unprecedented views of the Sun's atmosphere as Earth experiences its most severe solar radiation storm in over two decades.\n\nThe Moon-Enabled Sun Occultation Mission, known as Mesom, has been submitted to the European Space Agency for consideration as a future mission. If approved, the mini-satellite would position itself within the Moon's shadow roughly once every 29.6 days, creating total eclipse conditions lasting up to 48 minutes\u2014ten times longer than typical eclipses observed from Earth.[1][2][3][4]",
+      "audio_url": "",
+      "url": "mesom-mission-to-create-artifi-4WS5334gQqOUOBzHa_zGug",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-24T06:40:34.000000Z",
       "title": "Tropical Cyclone Luana makes landfall in WA's Kimberley",
       "featured_image": {
@@ -208,21 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/943e6475-e55d-4b85-9fa2-0119cc7b07c5",
-      "published_datetime": "2026-01-23T20:19:52.407336",
-      "title": "Trump says US military 'armada' is heading toward Iran",
-      "featured_image": {
-        "url": "https://www.foxnews.com/world/us-sending-military-assets-middle-east-trump-weighs-iran-strike-sources-say",
-        "name": "US sending military assets to Middle East as Trump weighs Iran strike,  sources say",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--xCLPdBzd--/t_limit/https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/1200/675/uss-lincoln-trains-at-sea.jpg%3Fve%3D1%26tl%3D1",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--mBuI5pCQ--/t_thumbnail/https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/1200/675/uss-lincoln-trains-at-sea.jpg%3Fve%3D1%26tl%3D1"
-      },
-      "description": "President Donald Trump announced Thursday that a US military \"armada\" is heading toward Iran, even as he expressed hope that the deployment would not be needed for further military action against Tehran.\n\n\"We have an armada. We have a massive fleet heading in that direction, and maybe we won't have to use it. We'll see,\" Trump told reporters aboard Air Force One as he returned from the World Economic Forum in Davos, Switzerland.[1][2][3]\n\nThe deployment includes the aircraft carrier USS Abraham Lincoln, several guided-missile destroyers, and fighter aircraft, which began moving from the Asia-Pacific region last week, according to US officials speaking to Reuters. The carrier strike group is expected to arrive in the Middle East in the coming days, with officials also considering additional air defense systems to protect US forces and bases in the region.[4][5][6]",
-      "audio_url": "",
-      "url": "trump-says-us-armada-heading-t-qmpMLFOFT3eVcIARmuDjAQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-23T20:09:33.000000Z",
       "title": "Track temperatures live as heatwave sweeps across Australia",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-24T08:17:20.191188"
+  "merged_at": "2026-01-24T08:35:00.720036"
 }
