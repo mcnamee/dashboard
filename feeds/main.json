@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/09a666ec-d5cf-4469-bfc1-ff2c58fa5a80",
+      "published_datetime": "2026-01-24T10:20:12.381093",
+      "title": "Methane-eating bacteria could turn pollution into plastics, study finds",
+      "featured_image": {
+        "url": "https://seed.com/cultured/methane-microbes/",
+        "name": "Meet The Microbes That \u201cEat\u201d Harmful Methane Pollution",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--cdaVf_Bk--/t_limit/https://seed.com/wp-content/uploads/2025/03/ThisGreenhouseGasTraps85TimesMoreHeat_Cultured_41025-2048x966.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--S1ca4-fk--/t_thumbnail/https://seed.com/wp-content/uploads/2025/03/ThisGreenhouseGasTraps85TimesMoreHeat_Cultured_41025-2048x966.jpeg"
+      },
+      "description": "Bacteria that consume methane could transform one of the planet's most potent greenhouse gases into useful products including biodegradable plastics, animal feed, and cleaner fuels, according to a new scientific review examining rapid advances in methanotroph research.\n\nThe study, published this week in the journal Energy & Environment Nexus, positions methane-consuming bacteria as biological \"gatekeepers\" capable of both reducing climate-warming emissions and converting waste gases into valuable materials.[1][2][3]",
+      "audio_url": "",
+      "url": "methane-eating-microbes-turn-g-hnzAjoj9R1q3DdSWZENE5Q",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-24T09:28:49.000000Z",
       "title": "Hottest 100 of 2025 - featuring Playlunch, Olivia Dean, Tame Impala and RAYE",
       "featured_image": {
@@ -208,21 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/62f20c17-c92b-4f15-a8b3-42adcfe38747",
-      "published_datetime": "2026-01-23T21:03:03.155786",
-      "title": "Tech CEOs tout AI job creation at Davos as workers grow anxious",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/nvidia-founder-and-ceo-jensen-huang-gestures-as-he-speaks-news-photo/2256812762",
-        "name": "SWITZERLAND-POLITICS-ECONOMY-DIPLOMACY",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1769200076/getty_uploads/2256812762_tmi54i.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1769200076/getty_uploads/2256812762_tmi54i.jpg"
-      },
-      "description": "Business leaders at the World Economic Forum's annual meeting in Davos, Switzerland, projected optimism this week about artificial intelligence creating jobs despite stark warnings from global economic officials and rising worker anxiety about the technology's disruptive potential.\n\nNvidia CEO Jensen Huang emerged as a leading voice for AI optimism, telling attendees that the technology would generate employment across blue-collar trades. \"Energy is creating jobs. Chips industry is creating jobs. The infrastructure layer is creating jobs,\" Huang said during a conversation with BlackRock CEO Larry Fink. \"Jobs, jobs, jobs.\"[1][2]\n\nHuang characterized the current AI buildout as \"the largest infrastructure buildout in human history,\" predicting six-figure salaries for electricians, plumbers, and construction workers without needing \"a Ph.D. in computer science.\"[3][4]",
-      "audio_url": "",
-      "url": "davos-leaders-emphasize-ai-job-iO3xp6WlS4OHkER0pDyd5g",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-23T20:09:33.000000Z",
       "title": "Track temperatures live as heatwave sweeps across Australia",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-24T11:11:43.394877"
+  "merged_at": "2026-01-24T12:24:27.943822"
 }
