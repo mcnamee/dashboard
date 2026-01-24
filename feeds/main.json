@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/55176e22-469e-479f-8fc9-45994f08b246",
+      "published_datetime": "2026-01-24T11:50:18.597203",
+      "title": "Chinese scientists achieve 10x boost in CO2-to-starch conversion",
+      "featured_image": {
+        "url": "https://www.scmp.com/news/china/science/article/3341032/chinese-scientists-turn-carbon-dioxide-starch-10-fold-productivity-boost",
+        "name": "Chinese scientists turn carbon dioxide to starch with 10 ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--uqfXCVej--/t_limit/https://img.i-scmp.com/cdn-cgi/image/fit%3Dcontain%2Cwidth%3D1024%2Cformat%3Dauto/sites/default/files/d8/images/canvas/2026/01/23/6fd6b3e8-2054-4dcf-be2b-53075dbc4d63_f60200c9.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--SeDJn-8n--/t_thumbnail/https://img.i-scmp.com/cdn-cgi/image/fit%3Dcontain%2Cwidth%3D1024%2Cformat%3Dauto/sites/default/files/d8/images/canvas/2026/01/23/6fd6b3e8-2054-4dcf-be2b-53075dbc4d63_f60200c9.jpg"
+      },
+      "description": "Researchers at China's Tianjin Institute of Industrial Biotechnology have increased the productivity of their carbon dioxide-to-starch conversion technology by more than tenfold compared to their original 2021 breakthrough, according to a report published Friday by the Chinese Academy of Sciences-run China Science Daily.[1][2][3]\n\nThe advance brings scientists closer to industrializing a process that could fundamentally reshape how one of the world's most important carbohydrates is produced, potentially eliminating the need for agricultural cultivation of corn and other starchy crops.",
+      "audio_url": "",
+      "url": "chinese-scientists-achieve-10x-aYaq9Q2rRBm.IpTdRahVBQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/09a666ec-d5cf-4469-bfc1-ff2c58fa5a80",
       "published_datetime": "2026-01-24T10:20:12.381093",
       "title": "Methane-eating bacteria could turn pollution into plastics, study finds",
@@ -208,21 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/42df60e4-d803-4e74-9ca5-92f007bd6389",
-      "published_datetime": "2026-01-23T21:34:37.299576",
-      "title": "Zelensky urges caution after first day of Ukraine-Russia-US talks",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/ukraines-president-volodymyr-zelensky-speaks-during-the-news-photo/2256966685",
-        "name": "SWITZERLAND-POLITICS-ECONOMY-DIPLOMACY",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1769203877/getty_uploads/2256966685_pptljc.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1769203877/getty_uploads/2256966685_pptljc.jpg"
-      },
-      "description": "The first day of trilateral negotiations between Ukraine, Russia, and the United States concluded Friday in Abu Dhabi, with Ukrainian President Volodymyr Zelensky urging caution while the White House expressed measured optimism about the historic diplomatic effort.\n\n\"It is still too early to draw conclusions about the content of today's negotiations; we will see how the talks go tomorrow and what the results will be,\" Zelensky said in his nightly address. The Ukrainian leader noted his negotiating team had provided updates \"almost every hour\" throughout the day but offered no details about specific discussions or progress.[1][2][3]",
-      "audio_url": "",
-      "url": "zelensky-too-early-for-conclus-EuIOUis5TlO27fggbVksqg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-23T20:09:33.000000Z",
       "title": "Track temperatures live as heatwave sweeps across Australia",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-24T12:24:27.943822"
+  "merged_at": "2026-01-24T13:26:08.151259"
 }
