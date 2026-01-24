@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-24T03:30:06.000000Z",
+      "title": "Breaking: 12yo shark attack victim dies in hospital",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c0d4b63d7ff88fa94fe72f18fd4288a5?impolicy=wcms_crop_resize&amp;cropH=322&amp;cropW=572&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Nico Antic, the 12-year-old boy who suffered serious leg injuries after being bitten by a shark in Sydney's east, has died in hospital.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/sydney-12yo-shark-attack-victim-nico-antic-dies-in-hospital/106249554"
+    },
+    {
+      "published_datetime": "2026-01-24T03:23:11.000000Z",
+      "title": "US to take step back in monitoring North Korea threat",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a37099f64e5bf35070c1e488779fcdb3?impolicy=wcms_crop_resize&amp;cropH=1275&amp;cropW=2266&amp;xPos=295&amp;yPos=343&amp;width=862&amp;height=485"
+      },
+      "description": "The United States says it intends to play a \"more limited\" role in deterring nuclear-powered North Korea, shifting the burden of responsibility onto South Korea.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/pentagon-north-korea-kim-jong-un-threat-usa-looks-to-south-korea/106265180"
+    },
+    {
       "published_datetime": "2026-01-24T02:36:14.000000Z",
-      "title": "How serious a 'security threat' is China to Greenland?",
+      "title": "Why Beijing has struggled to get a foothold in Greenland",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bb2daf7458589c6a12a7ecc63ffcf08b?impolicy=wcms_crop_resize&amp;cropH=2070&amp;cropW=3680&amp;xPos=0&amp;yPos=162&amp;width=862&amp;height=485"
       },
@@ -103,6 +121,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-01-23T23:03:54.000000Z",
+      "title": "Live: Australian Open matches suspended amid extreme heat",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f899827767a67f6d21af60b260e430b2?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=10&amp;width=862&amp;height=485"
+      },
+      "description": "Play has been suspended and roofs closed at Melbourne Park as sweltering temperatures forced players off court during round 3 of the Australian Open.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-24/australian-open-2026-live-sinner-djokovic-osaka-inglis/106264358"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1e5c2c5f-1a06-4c54-b618-042291d7e9d9",
       "published_datetime": "2026-01-23T22:32:10.553292",
       "title": "Major airlines suspend Middle East flights amid US-Iran tensions",
@@ -163,15 +190,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-23T20:51:16.000000Z",
-      "title": "Heatwave and fire warnings across south-east Australia as tropical cyclone hits WA",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/13e459110e23e5e63247413ad64e99eb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
-      },
-      "description": "Parts of south-east Australia are bracing for severe heatwaves and fire warnings over the long weekend, as the Bureau of Meteorology issues a tropical cyclone warning for Western Australia.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/heatwave-south-east-australia-tropical-cyclone-wa/106261940"
-    },
-    {
       "published_datetime": "2026-01-23T20:28:46.000000Z",
       "title": "Human remains found as NZ landslide search moves to recovery",
       "featured_image": {
@@ -197,7 +215,7 @@
     },
     {
       "published_datetime": "2026-01-23T19:56:45.000000Z",
-      "title": "How Australian Neo-Nazis covertly signal their views",
+      "title": "The subtle symbols Neo-Nazis may use to evade hate speech laws",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6ef900f7897954d73ed476132351986?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -215,30 +233,12 @@
     },
     {
       "published_datetime": "2026-01-23T18:55:21.000000Z",
-      "title": "In the smouldering wreckage of the Coalition, rumours are running rife",
+      "title": "The one sure bet in the wake of the Coalition implosion",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bb4ab15408ffd75054fb95cd6478573?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Dissecting the implosion of the Coalition and figuring out what comes next has become a full-time vocation for the newly emancipated Liberals and Nationals.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/how-the-coalition-split-played-out/106263654"
-    },
-    {
-      "published_datetime": "2026-01-23T18:30:00.000000Z",
-      "title": "Trump forces Europe to reconsider its security and economic future",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1f16f350cd44d6a4f6a7ad3d7fc181e?impolicy=wcms_crop_resize&amp;cropH=2653&amp;cropW=4717&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "As the world's elite gathered in Davos, European leaders confronted a reality in which they might need to defend themselves, and potentially against, the United States.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/davos-donald-trump-zelenskyy-russia-war-technology/106252046"
-    },
-    {
-      "published_datetime": "2026-01-23T15:06:22.000000Z",
-      "title": "'Insulting': Starmer demands apology after Trump's slur against NATO troops",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c2ce48ae409cf4f9c0b7999be779f72?impolicy=wcms_crop_resize&amp;cropH=1800&amp;cropW=3200&amp;xPos=0&amp;yPos=54&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump criticised NATO during a Fox News interview on Thursday, saying the US had \"never needed\" the alliance.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/european-veterans-outraged-over-trump-nato-troops-comments/106264332"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-24T03:20:35.984717"
+  "merged_at": "2026-01-24T04:29:27.802567"
 }
