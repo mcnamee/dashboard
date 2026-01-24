@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-24T13:27:56.000000Z",
+      "title": "Russia attacks Ukraine ahead of second day of peace talks with US",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/99e4b4e5fbd176dee923c801d4ccc47f?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=185&amp;width=862&amp;height=485"
+      },
+      "description": "Russian attacks on Ukraine have killed at least one person and wounded 31, as negotiators from both countries and the US prepare to meet for a second day of peace talks.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-25/russia-attacks-ukraine-amid-peace-talks-with-united-states/106266046"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/55176e22-469e-479f-8fc9-45994f08b246",
       "published_datetime": "2026-01-24T11:50:18.597203",
       "title": "Chinese scientists achieve 10x boost in CO2-to-starch conversion",
@@ -56,7 +65,7 @@
     },
     {
       "published_datetime": "2026-01-24T06:40:34.000000Z",
-      "title": "Tropical Luana downgraded to category one",
+      "title": "'Howling wind': residents still indoors as Tropical Cyclone Luana passes",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6afb86559738043b5922916e3075e913?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
       },
@@ -80,15 +89,6 @@
       },
       "description": "Nico Antic, the 12-year-old boy who suffered serious leg injuries after being bitten by a shark in Sydney's east has died in hospital.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-24/sydney-12yo-shark-attack-victim-nico-antic-dies-in-hospital/106249554"
-    },
-    {
-      "published_datetime": "2026-01-24T03:23:11.000000Z",
-      "title": "US to take step back in monitoring North Korea threat",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a37099f64e5bf35070c1e488779fcdb3?impolicy=wcms_crop_resize&amp;cropH=1275&amp;cropW=2266&amp;xPos=295&amp;yPos=343&amp;width=862&amp;height=485"
-      },
-      "description": "The United States says it intends to play a \"more limited\" role in deterring nuclear-powered North Korea, shifting the burden of responsibility onto South Korea.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/pentagon-north-korea-kim-jong-un-threat-usa-looks-to-south-korea/106265180"
     },
     {
       "published_datetime": "2026-01-24T02:36:14.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-24T13:26:08.151259"
+  "merged_at": "2026-01-24T14:12:41.336835"
 }
