@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-24T20:41:47.000000Z",
+      "title": "Residents wake up to assess damage from Tropical Cyclone Luana",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/10c523896bcf24308d3312f0e804fafa?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Tropical Cyclone Luana weakens as it continues inland after crossing the northern WA coast.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-25/tropical-cyclone-luana-brings-destructive-winds/106265736"
+    },
+    {
+      "published_datetime": "2026-01-24T20:27:14.000000Z",
+      "title": "Out-of-control bushfire in Victoria's Otways grows, threatens properties",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/23f6d9e58a094006709874b07931f2c9?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=960&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "An out-of-control bushfire continues to threaten communities in Victoria's Otways as heatwave conditions continue in some parts of the state.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-25/victorian-otways-fire-threatens-communities-heatwave/106265690"
+    },
+    {
       "published_datetime": "2026-01-24T19:48:17.000000Z",
       "title": "Warning Chinese travel to Australia may cool in 2026",
       "featured_image": {
@@ -62,6 +80,15 @@
       },
       "description": "The average age of purchasing your first home is increasing as economists say politicians continue to favour the current home owner.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-25/great-australian-dream-aging-as-more-first-home-buyers-over-40/106206552"
+    },
+    {
+      "published_datetime": "2026-01-24T18:00:00.000000Z",
+      "title": "After a horror week of shark attacks, how do we sift facts from fear?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/61810a730484caac96a70e39fcb7d6de?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=132&amp;width=862&amp;height=485"
+      },
+      "description": "As a devoted ocean swimmer, I've learned to accept the risk of exploring an ocean that is not my natural habitat.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-25/horror-week-shark-bites-attack-nsw-facts-fears-risk/106260980"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c8dda10f-a1d9-4455-b7b7-71c83cb6ff7b",
@@ -137,33 +164,6 @@
       "audio_url": "",
       "url": "mesom-mission-to-create-artifi-4WS5334gQqOUOBzHa_zGug",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-24T06:40:34.000000Z",
-      "title": "'Howling wind': Residents still indoors as Tropical Cyclone Luana passes",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6afb86559738043b5922916e3075e913?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
-      },
-      "description": "Tropical Cyclone Luana edges closer to the Kimberley town of Derby as a category one system.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/tropical-cyclone-luana-landfall-kimberley/106265140"
-    },
-    {
-      "published_datetime": "2026-01-24T04:45:37.000000Z",
-      "title": "Family plan to return their 'baby girl' home following K'gari autopsy",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6dd396801cb15ba0aee584c560a00d8d?impolicy=wcms_crop_resize&amp;cropH=745&amp;cropW=1324&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Piper James loved to start her days on K'gari by swimming alone at sunrise. Now her family is planning her final journey home.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/piper-james-family-plan-to-return-her-home-to-canada/106265238"
-    },
-    {
-      "published_datetime": "2026-01-24T03:30:06.000000Z",
-      "title": "12yo shark attack victim dies in hospital",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c0d4b63d7ff88fa94fe72f18fd4288a5?impolicy=wcms_crop_resize&amp;cropH=322&amp;cropW=572&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Nico Antic, the 12-year-old boy who suffered serious leg injuries after being bitten by a shark in Sydney's east has died in hospital.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-24/sydney-12yo-shark-attack-victim-nico-antic-dies-in-hospital/106249554"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5c7f5bb5-ed58-4434-9069-d8c4b39b2be1",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-24T20:14:12.526950"
+  "merged_at": "2026-01-24T21:11:30.897257"
 }
