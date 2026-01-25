@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-25/sydney-bull-shark-tagging-program-and-extra-drones-nsw-beaches/106266896"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4a2d1965-8808-4be1-90e9-aa3096844cb2",
+      "published_datetime": "2026-01-25T04:32:40.264090",
+      "title": "WHO chief calls U.S. withdrawal reasons 'untrue,' says exit makes world 'less safe'",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2020/11/2/who-chief-tedros-in-quarantine-after-contact-gets-covid-19",
+        "name": "WHO chief Tedros in quarantine after contact gets COVID-19 ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--cYoQzsiH--/t_limit/https://www.aljazeera.com/wp-content/uploads/2020/11/2020-10-22T075352Z_1671871270_RC2JNJ9UXK56_RTRMADP_3_HEALTH-CORONAVIRUS-EU-WHO.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--C446wTRm--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2020/11/2020-10-22T075352Z_1671871270_RC2JNJ9UXK56_RTRMADP_3_HEALTH-CORONAVIRUS-EU-WHO.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "World Health Organization Director-General Tedros Adhanom Ghebreyesus on Saturday rejected the reasons cited by the United States for its formal withdrawal from the U.N. health agency, calling them \"untrue\" and warning that the exit \"makes both the U.S. and the world less safe.\"[1][2][3]\n\nThe sharp rebuke came two days after Secretary of State Marco Rubio and Health and Human Services Secretary Robert F. Kennedy Jr. announced the completion of the withdrawal process in a joint statement, marking the first time since the WHO's founding in 1948 that the United States has not been a member.[4][5]",
+      "audio_url": "",
+      "url": "who-chief-dismisses-us-withdra-zLPRDB5WQW.h1tlXROzf6g",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-25T04:27:09.000000Z",
       "title": "American rock climber reaches top of Taipei 101 skyscraper without ropes",
       "featured_image": {
@@ -68,11 +83,11 @@
     },
     {
       "published_datetime": "2026-01-24T23:30:47.000000Z",
-      "title": "Live: Alcaraz wins in straight sets after Sabalenka storms into Aus Open last eight",
+      "title": "Live: Alex de Minaur counting down to fourth round Aus Open showdown",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/667b435e4a2549cf6e3a25b183775fbf?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=294&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/626b0b1b07d7aeb4781c2de3e336bff9?impolicy=wcms_crop_resize&amp;cropH=2809&amp;cropW=4994&amp;xPos=0&amp;yPos=136&amp;width=862&amp;height=485"
       },
-      "description": "Both Aryna Sabalenka and Carlos Alcaraz are through to the last eight at the Australian Open. Follow live.",
+      "description": "Superstars Aryna Sabalenka and Carlos Alcaraz are through to the last eight of the Australian Open, with Australia's Alex de Minaur still to come at Melbourne Park. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-25/australian-open-live-blog-day-eight-results-updates/106266662"
     },
     {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f5971a65-4c0b-4b14-aeae-ec8227b1fa5f",
-      "published_datetime": "2026-01-24T00:38:43.909638",
-      "title": "Iran warns any US attack will be treated as 'all-out war'",
-      "featured_image": {
-        "url": "https://www.bloomberg.com/news/articles/2026-01-23/trump-renews-iran-threats-says-navy-armada-heading-to-mideast",
-        "name": "Trump Renews Iran Threats, Says Navy 'Armada' Heading to ...",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1769214913/url_uploads/-1x-1_xxrqah.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1769214913/url_uploads/-1x-1_xxrqah.jpg"
-      },
-      "description": "Iran declared Friday that any military attack on its territory will be treated as \"all-out war,\" issuing its starkest warning yet as a US aircraft carrier strike group steams toward the Middle East amid heightened tensions over the country's deadly crackdown on nationwide protests.\n\n\"Any attack, limited or otherwise, will be treated as an all-out war against us, and we will respond in the hardest way possible,\" a senior Iranian official told Reuters, speaking on condition of anonymity. The warning came as Iranian forces remained on high alert ahead of the arrival of US military reinforcements in the region.[1][2]",
-      "audio_url": "",
-      "url": "iran-warns-us-of-all-out-war-a-z0Sy8rtER3G2I1apEVFDhg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-25T06:20:21.732885"
+  "merged_at": "2026-01-25T07:16:00.600629"
 }
