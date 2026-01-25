@@ -1,12 +1,48 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-25T00:31:07.000000Z",
+      "title": "Air quality in Melbourne rated seventh worst in world due to bushfire smoke",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2b65e44048eb151a99e0d7dabb3958d6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A health warning is issued to Melbourne residents as the city is covered in smoke from a bushfire burning in the Otways, in Victoria's south-west.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-25/melbourne-blanketed-in-smoke-as-bushfires-burn-in-otways/106266832"
+    },
+    {
+      "published_datetime": "2026-01-25T00:22:56.000000Z",
+      "title": "A British dual citizen's warning to hundreds of thousands looking to renew passports",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/21150c48b21b3acf547e853d9d269a7e?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "As many British-Australian dual nationals grapple with new entry requirements, experts warn of exploitative and middleman websites.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-25/british-passport-fallout-overcharging-middleman/106253650"
+    },
+    {
+      "published_datetime": "2026-01-24T23:30:47.000000Z",
+      "title": "Live: Djokovic sorry after almost hitting Australian Open ball kid",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2e79538d4c8ca15659d6b72d176c7b0f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=52&amp;width=862&amp;height=485"
+      },
+      "description": "Novak Djokovic apologises for a \"heat of the moment\" incident during in his third-round match at the Australian Open. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-25/australian-open-live-blog-day-eight-results-updates/106266662"
+    },
+    {
+      "published_datetime": "2026-01-24T23:05:06.000000Z",
+      "title": "Australia's most popular baby names from 2025 revealed",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/48e7fa01ed8330fd73f500bc3f9aef87?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
+      },
+      "description": "Abbey wanted a traditional, feminine name for her newborn daughter that would convey strength. Unwittingly, she chose one of the most popular baby names in Australia from 2025.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-25/what-were-the-top-baby-names-in-australia-2025/106254306"
+    },
+    {
       "published_datetime": "2026-01-24T22:23:32.000000Z",
-      "title": "PM appoints Greg Moriarty as next ambassador to the United States",
+      "title": "PM appoints next ambassador to US, says Trump's troops slur 'not acceptable'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2b522653cb26078747514efd72e42025?impolicy=wcms_crop_resize&amp;cropH=1206&amp;cropW=2144&amp;xPos=1&amp;yPos=37&amp;width=862&amp;height=485"
       },
-      "description": "Defence department boss Greg Moriarty will be the next Australian ambassador to the US, replacing outgoing ambassador Kevin Rudd.",
+      "description": "Defence department boss Greg Moriarty is named the next ambassador to the United States, as Prime Minister Anthony Albanese criticises the US president's claim that allied troops did not serve on the front lines of Afghanistan.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-25/greg-moriarty-us-ambassador-rudd/106266786"
     },
     {
@@ -20,21 +56,12 @@
     },
     {
       "published_datetime": "2026-01-24T21:16:37.000000Z",
-      "title": "Federal immigration agents fatally shoot second person in Minneapolis",
+      "title": "Protests erupt in Minneapolis after second US citizen shot dead by agents",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/70a03ba92399ccee9ae8f43e0e473d24?impolicy=wcms_crop_resize&amp;cropH=338&amp;cropW=601&amp;xPos=0&amp;yPos=56&amp;width=862&amp;height=485"
       },
       "description": "This is the second fatal shooting involving federal agents this month during a surge in immigration enforcement in the northern US city.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-25/police-chief-calls-for-calm-after-minneapolis-shooting/106266626"
-    },
-    {
-      "published_datetime": "2026-01-24T20:59:10.000000Z",
-      "title": "'Highly unlikely' six people trapped by landslide have survived, NZ police say",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/507e155bd642ae15eb296bca48a78ce2?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
-      },
-      "description": "After two days of holding out hope despite all the odds, the local police superintendent had the heart-wrenching job of announcing that no one trapped by the landslide at Mount Maunganui could have survived.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-25/nz-landslide-victims-unlikely-to-survive-police-say/106265934"
     },
     {
       "published_datetime": "2026-01-24T20:27:14.000000Z",
@@ -61,26 +88,8 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-24T19:48:17.000000Z",
-      "title": "Chinese travellers once flocked to Australia. Then came the pandemic",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3fdf0de8da8b1333d35e2f3579afc4cd?impolicy=wcms_crop_resize&amp;cropH=550&amp;cropW=978&amp;xPos=56&amp;yPos=184&amp;width=862&amp;height=485"
-      },
-      "description": "Chinese visitor numbers have increased but are still below pre-pandemic levels, with economists warning ongoing economic uncertainty in China could dampen long-haul travel.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-25/tourism-chinese-travel-to-australia-may-cool-in-2026/106253542"
-    },
-    {
-      "published_datetime": "2026-01-24T19:23:10.000000Z",
-      "title": "Djokovic thrills and feuds with Aussie fans, continuing love-hate affair",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8e4064098ff82ac6f6750459b6d235ec?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=129&amp;width=862&amp;height=485"
-      },
-      "description": "Novak Djokovic shows once again that his relationship with Australian tennis fans is as complicated as it gets, turning a routine win into a full-blown drama.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-25/novak-djokovic-relationship-aus-open-fans-analysis/106266018"
-    },
-    {
       "published_datetime": "2026-01-24T19:10:48.000000Z",
-      "title": "Liberals wait on Hastie-Taylor decision before moving on Ley",
+      "title": "Liberals wait on right faction to decide on single challenger before spilling leadership",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fdbfed53370be24cc2147aa0a65a173e?impolicy=wcms_crop_resize&amp;cropH=3780&amp;cropW=6720&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -88,22 +97,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-25/liberals-hastie-taylor-likely-challengers-sussan-ley-leadership/106265762"
     },
     {
-      "published_datetime": "2026-01-24T19:06:59.000000Z",
-      "title": "What these First Nations leaders want to see on the agenda in 2026",
+      "published_datetime": "2026-01-24T18:00:00.000000Z",
+      "title": "After a horror week of shark attacks, how do we sift facts from fear?",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a8ba8c8103f02cdadaff0f363c6cf8a2?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=281&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/61810a730484caac96a70e39fcb7d6de?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=132&amp;width=862&amp;height=485"
       },
-      "description": "Ahead of the national debate around Indigenous rights and recognition this January 26, the ABC has spoken to First Nations leaders about what they think are the top priorities for Aboriginal and Torres Strait Islander people.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-25/truth-telling-closing-the-gap-indigenous-affairs-agenda-2026/106260862"
-    },
-    {
-      "published_datetime": "2026-01-24T19:04:16.000000Z",
-      "title": "How the great Australian home ownership dream is aging",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/518ae5792f46c590a2d8337654e4e08c?impolicy=wcms_crop_resize&amp;cropH=912&amp;cropW=1621&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The average age of purchasing your first home is increasing as economists say politicians continue to favour the current home owner.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-25/great-australian-dream-aging-as-more-first-home-buyers-over-40/106206552"
+      "description": "As a devoted ocean swimmer, I've learned to accept the risk of exploring an ocean that is not my natural habitat.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-25/horror-week-shark-bites-attack-nsw-facts-fears-risk/106260980"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c8dda10f-a1d9-4455-b7b7-71c83cb6ff7b",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-24T23:13:13.973566"
+  "merged_at": "2026-01-25T01:10:23.154561"
 }
