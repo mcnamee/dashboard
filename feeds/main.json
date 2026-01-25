@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-25T11:00:32.000000Z",
+      "title": "Cathy Freeman 'humbled' as she receives Australia's highest honour",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ab2b40bddad9bbb09131bcb32721e57d?impolicy=wcms_crop_resize&amp;cropH=1350&amp;cropW=2400&amp;xPos=0&amp;yPos=161&amp;width=862&amp;height=485"
+      },
+      "description": "From champion athletes to those working to help our most vulnerable, the 2026 Australia Day Honours List showcases the very best of the nation.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-25/2026-australia-day-honours-list/106258634"
+    },
+    {
+      "published_datetime": "2026-01-25T08:55:01.000000Z",
+      "title": "'That's when he's got me': Sole survivor of regional NSW shooting speaks out",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5a0ef516538d76676a3091424e292126?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Nineteen-year-old Kaleb Macqueen was working on his car in the quiet NSW outback town of Lake Cargelligo last Thursday when violence erupted.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-25/lake-cargelligo-shooting-survivor-kaleb-macqueen-speaks/106265692"
+    },
+    {
       "published_datetime": "2026-01-25T08:48:03.000000Z",
-      "title": "Live: Space industry trailblazer named Australian of the Year 2026",
+      "title": "Space industry trailblazer named Australian of the Year 2026",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/19a0c617032b7c033f5a4d23f140d893?impolicy=wcms_crop_resize&amp;cropH=455&amp;cropW=809&amp;xPos=0&amp;yPos=22&amp;width=862&amp;height=485"
       },
@@ -11,9 +29,9 @@
     },
     {
       "published_datetime": "2026-01-25T07:42:26.000000Z",
-      "title": "Live: Scorchers in box seat for BBL glory after Sixers fall in a heap in Perth",
+      "title": "Live: Miracle catch keeps Sixers alive as Scorchers dominate BBL decider",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cd93073a763f8310f968fa08ae22f26b?impolicy=wcms_crop_resize&amp;cropH=2531&amp;cropW=4500&amp;xPos=0&amp;yPos=234&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8290f727d8dbb47a0285470bc53a966e?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=131&amp;width=862&amp;height=485"
       },
       "description": "Steve Smith and the Sydney Sixers are dismissed for a meek 132, with David Payne leading an inspired Scorchers bowling performance in the BBL final. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-25/bbl-final-sixers-vs-scorchers-live-updates/106265840"
@@ -26,15 +44,6 @@
       },
       "description": "Police and the community have mounted a search for 12-year-old Danny, who was last seen swimming at a beach in Venus Bay on Sunday afternoon.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-25/missing-12yo-boy-venus-bay-victoria-gippsland-coast-search/106267850"
-    },
-    {
-      "published_datetime": "2026-01-25T07:16:02.000000Z",
-      "title": "Man charged after allegedly sending threatening letter to Sydney mosque",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d34ffad8c794b3d75d9d319bb9e24bb3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
-      },
-      "description": "Police seized more than 100 letters, stamps, notepads and several electronic devices after a raid on the 70-year-old's Belmore home.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-25/man-70-charged-alleged-threatening-letter-lakemba-mosque/106266730"
     },
     {
       "published_datetime": "2026-01-25T06:32:28.000000Z",
@@ -131,15 +140,6 @@
       "audio_url": "",
       "url": "chinese-military-leaders-zhang-6A0kczJbSzChVt.srIGHbw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-24T19:10:48.000000Z",
-      "title": "Liberals wait on Hastie-Taylor decision before moving on Ley",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b1d71492397396ed977cf9e7a72da2dc?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=28&amp;width=862&amp;height=485"
-      },
-      "description": "Liberal leadership aspirants Andrew Hastie and Angus Taylor are being urged to \"sort out\" which of them will challenge Sussan Ley for the party's top job before a spill is called.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-25/liberals-hastie-taylor-likely-challengers-sussan-ley-leadership/106265762"
     },
     {
       "published_datetime": "2026-01-24T18:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-25T10:29:21.777300"
+  "merged_at": "2026-01-25T11:11:21.675925"
 }
