@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-25T08:48:03.000000Z",
+      "title": "Breaking: Endurance runner, First Nations leader honoured in Australian of the Year awards",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9c8a704d4b5bd25067e878ac7bd53aa3?impolicy=wcms_crop_resize&amp;cropH=1687&amp;cropW=3000&amp;xPos=0&amp;yPos=114&amp;width=862&amp;height=485"
+      },
+      "description": "The 2026 Australian of the Year awards are announced during a ceremony in Canberra, honouring those who have served their communities and made change across society.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-25/australian-of-the-year-awards-2026/106267536"
+    },
+    {
       "published_datetime": "2026-01-25T07:42:26.000000Z",
-      "title": "Live: Steve Smith's Sixers to bat first in blockbuster BBL decider",
+      "title": "Live: Smith dismissed as Sixers struggle for fluency in BBL decider",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cd93073a763f8310f968fa08ae22f26b?impolicy=wcms_crop_resize&amp;cropH=2531&amp;cropW=4500&amp;xPos=0&amp;yPos=234&amp;width=862&amp;height=485"
       },
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-01-25T07:35:58.000000Z",
-      "title": "Breaking: Search for missing 12yo boy at Victorian beach",
+      "title": "Search for missing 12yo boy at Victorian beach",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ffc7f2a9fab0eea1bf2103a4e2ca222?impolicy=wcms_crop_resize&amp;cropH=405&amp;cropW=720&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -33,7 +42,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/762f1156ef847cbcb8dfb9aecfac7953?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
       },
-      "description": "The death of 37-year-old US citizen Alex Pretti has prompted a fierce political debate and further protests in an already tense city. This is what we know about the situation so far.\u00a0",
+      "description": "For the second time in less than a month, federal agents have shot and killed a resident of the US city of Minneapolis.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-25/explainer-here-s-what-we-know-about-the-minneapolis-shooting/106267266"
     },
     {
@@ -50,15 +59,6 @@
       "audio_url": "",
       "url": "who-chief-dismisses-us-withdra-zLPRDB5WQW.h1tlXROzf6g",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-25T03:29:39.000000Z",
-      "title": "Dingoes involved in death of Canadian backpacker euthanased",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/142f3428176548af3a31ea191e39a029?impolicy=wcms_crop_resize&amp;cropH=532&amp;cropW=946&amp;xPos=0&amp;yPos=297&amp;width=862&amp;height=485"
-      },
-      "description": "Queensland government officials euthanase six dingoes involved in the death of a Canadian backpacker on K'gari, with more to be put down in the coming days.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-25/dingoes-involved-in-k-gari-backpacker-death-euthanised/106267322"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/acf20166-53ff-42ac-8cc4-507e4532e34c",
@@ -101,7 +101,7 @@
     },
     {
       "published_datetime": "2026-01-24T23:30:47.000000Z",
-      "title": "Live: Alex de Minaur takes to Rod Laver Arena for Bublik showdown",
+      "title": "Live: Alex de Minaur takes tight first set to ignite Rod Laver Arena",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/626b0b1b07d7aeb4781c2de3e336bff9?impolicy=wcms_crop_resize&amp;cropH=2809&amp;cropW=4994&amp;xPos=0&amp;yPos=136&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-25T08:17:58.607997"
+  "merged_at": "2026-01-25T09:14:28.036049"
 }
