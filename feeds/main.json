@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-26T13:02:37.000000Z",
+      "title": "Government agency deliberately broke law for years, federal watchdog finds",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/077d2dde1426bc07937b5f4ee488ca2a?impolicy=wcms_crop_resize&amp;cropH=1584&amp;cropW=2816&amp;xPos=0&amp;yPos=150&amp;width=862&amp;height=485"
+      },
+      "description": "Services Australia has known it was not fully complying with new child support laws since 2019, according to a scathing report released by the Commonwealth Ombudsman.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-27/services-australia-knowingly-broke-law-for-years/106261814"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3159194e-107d-4797-afbf-b54813112370",
       "published_datetime": "2026-01-26T10:08:54.914669",
       "title": "Gold surges past $5,000 for the first time as dollar weakens",
@@ -97,15 +106,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-26/invasion-day-rallies-australia-january-26-australia-day/106267560"
     },
     {
-      "published_datetime": "2026-01-26T02:14:53.000000Z",
-      "title": "The collateral damage from Trump's quest to deport immigrants",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/58044f99b9b72df638ebf04f872f76f6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Minneapolis has become the flashpoint of an aggressive immigration enforcement operation ordered by the Trump administration and pitched as a campaign against undocumented criminals.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-26/us-citizens-collateral-damage-in-trump-s-immigration-crackdown/106269166"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5d2d23f2-17a7-4262-b234-18d71ec655a0",
       "published_datetime": "2026-01-26T02:09:23.615095",
       "title": "Scientists find 1,730 viruses in world's deepest blue hole",
@@ -155,11 +155,11 @@
     },
     {
       "published_datetime": "2026-01-25T23:49:09.000000Z",
-      "title": "Live: \u015awi\u0105tek too strong for Inglis as Sinner sails into quarterfinals",
+      "title": "All top six seeds make quarterfinals for first time in the Open Era",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f87baeef323116702472075ef437621?impolicy=wcms_crop_resize&amp;cropH=1848&amp;cropW=3286&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a45b5e0bd8600bbe5894f254abeaa4e?impolicy=wcms_crop_resize&amp;cropH=1964&amp;cropW=3492&amp;xPos=0&amp;yPos=182&amp;width=862&amp;height=485"
       },
-      "description": "Australian Maddison Inglis has lost in straight sets against world number two Iga \u015awi\u0105tek, while Jannik Sinner dominated fellow Italian Luciano Darderi. Follow live.",
+      "description": "The 2026 Australian Open will be the first grand slam that all top six seeds in the men's and women's singles have reached the quarterfinals in the Open Era.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-26/australian-open-2026-live-jannik-sinner-maddison-inglis-swiatek/106268840"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-26T12:29:56.483429"
+  "merged_at": "2026-01-26T13:38:33.985563"
 }
