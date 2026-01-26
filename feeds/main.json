@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-26T14:11:52.000000Z",
+      "title": "Trump 'reviewing everything' as Republicans demand probe into Minneapolis shooting",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/762f1156ef847cbcb8dfb9aecfac7953?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
+      },
+      "description": "An American citizen, Alex Pretti, was shot by federal agents during a continuing Trump administration immigration crackdown in the city.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-27/republicans-express-shock-over-minneapolis-shooting/106271792"
+    },
+    {
+      "published_datetime": "2026-01-26T14:04:54.000000Z",
+      "title": "Breaking: Remains of last Israeli hostage in Gaza found, Netanyahu confirms",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cd3c84974fa9360942f34a2cbce50f9f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=849&amp;width=862&amp;height=485"
+      },
+      "description": "Israeli Prime Minister Benjamin Netanyahu confirmed that the remains of 24-year-old Ran Gvili had been found and identified.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-27/remains-of-last-israeli-hostage-in-gaza-ran-gvili-found/106271998"
+    },
+    {
       "published_datetime": "2026-01-26T13:02:37.000000Z",
       "title": "Government agency deliberately broke law for years, federal watchdog finds",
       "featured_image": {
@@ -70,15 +88,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-26T08:11:45.000000Z",
-      "title": "Travellers stranded on Nullarbor as fire shuts Eyre Highway",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/299e43e5cea5338e1ef12537878c57cc?impolicy=wcms_crop_resize&amp;cropH=2242&amp;cropW=3986&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A fire near Caiguna has blocked the major road link between Western Australia and the east coast.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-26/eyre-highway-closed-bushfire-travellers-stranded/106270912"
-    },
-    {
       "published_datetime": "2026-01-26T06:56:27.000000Z",
       "title": "'Heat dome' to shatter records as south-east soars to nearly 50C",
       "featured_image": {
@@ -134,15 +143,6 @@
       "audio_url": "",
       "url": "platinum-silver-and-palladium-HH4TDUvYSHSYZ165HPNBXQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-26T01:48:54.000000Z",
-      "title": "Winter storm kills at least ten people across US",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/30ba798b6c2119498fb25205607834f4?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=182&amp;width=862&amp;height=485"
-      },
-      "description": "A massive winter storm across much of the US, spreading from Texas all the way to New England, affects powerlines, traffic and air travel.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-26/snow-sleet-and-freezing-rain-cause-havoc-across-united-states/106268992"
     },
     {
       "published_datetime": "2026-01-26T00:30:01.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-26T13:38:33.985563"
+  "merged_at": "2026-01-26T14:21:14.325886"
 }
