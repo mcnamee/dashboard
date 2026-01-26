@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/effc393a-626c-4414-a73b-d42700820ede",
+      "published_datetime": "2026-01-26T08:42:27.114805",
+      "title": "10 European nations to sign pact for 100 GW of offshore wind",
+      "featured_image": {
+        "url": "https://hansa.news/hamburg-to-host-third-north-sea-summit/",
+        "name": "Hamburg to host third North Sea Summit",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--bMcU5UoR--/t_limit/https://hansa.news/wp-content/uploads/2025/12/Borkum-Riffgrund-3.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--2F3Lza9C--/t_thumbnail/https://hansa.news/wp-content/uploads/2025/12/Borkum-Riffgrund-3.jpg"
+      },
+      "description": "Britain, Germany, and eight other European nations are set to sign a clean energy pact on Monday committing to jointly develop 100 gigawatts of offshore wind power through cross-border projects in the North Sea, underscoring the region's resolve to pursue renewable energy despite recent criticism from U.S. President Donald Trump.\n\nThe agreement will be formalized at the North Sea Summit in Hamburg, hosted by German Chancellor Friedrich Merz. Participating countries include Britain, Belgium, Denmark, France, Germany, Iceland, Ireland, Luxembourg, the Netherlands, and Norway.[1][2]",
+      "audio_url": "",
+      "url": "uk-and-european-nations-pledge-xhGvAnPvRSGkqLijD.sFgQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-26T08:11:45.000000Z",
       "title": "Travellers stranded on Nullarbor as fire shuts Eyre Highway",
       "featured_image": {
@@ -95,11 +110,11 @@
     },
     {
       "published_datetime": "2026-01-25T23:49:09.000000Z",
-      "title": "Live: Inglis bagelled by Swiatek as world number two shows her class",
+      "title": "Live: \u015awi\u0105tek too strong for Inglis as Sinner sails into quarterfinals",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f87baeef323116702472075ef437621?impolicy=wcms_crop_resize&amp;cropH=1848&amp;cropW=3286&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
       },
-      "description": "Australian Maddison Inglis has lost the first set 6-0 against world number two Iga Swiatek, while Jannik Sinner looks in control in his round four match. Follow live.",
+      "description": "Australian Maddison Inglis has lost in straight sets against world number two Iga \u015awi\u0105tek, while Jannik Sinner dominated fellow Italian Luciano Darderi. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-26/australian-open-2026-live-jannik-sinner-maddison-inglis-swiatek/106268840"
     },
     {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c57166b1-9f03-4d06-a93c-f43ed86982e8",
-      "published_datetime": "2026-01-24T14:35:33.611559",
-      "title": "Trump threatens 100% tariffs if Canada proceeds with China deal",
-      "featured_image": {
-        "url": "https://www.pbs.org/newshour/politics/trump-imposes-promised-tariffs-on-canada-mexico-and-china-raising-risk-of-higher-inflation",
-        "name": "Trump imposes promised tariffs on Canada, Mexico and China ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--BJL_rpgI--/t_limit/https://d3i6fh83elv35t.cloudfront.net/static/2025/02/2025-01-31T211014Z_1374391267_RC28LCA72B6C_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--hPbyLnHK--/t_thumbnail/https://d3i6fh83elv35t.cloudfront.net/static/2025/02/2025-01-31T211014Z_1374391267_RC28LCA72B6C_RTRMADP_3_USA-TRUMP-1024x683.jpg"
-      },
-      "description": "President Donald Trump on Saturday threatened to impose a 100 percent tariff on all Canadian goods entering the United States if Canada proceeds with its newly signed trade agreement with China, dramatically escalating a week of diplomatic tensions with America's northern neighbor.\n\n\"If Governor Carney thinks he is going to make Canada a 'Drop Off Port' for China to send goods and products into the United States, he is sorely mistaken,\" Trump wrote on Truth Social, referring to Prime Minister Mark Carney. \"China will eat Canada alive, completely devour it, including the destruction of their businesses, social fabric, and general way of life.\"[1][2]",
-      "audio_url": "",
-      "url": "trump-threatens-100-percent-ta-4a6TXc8.SpSTh8HBBrGEuA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-26T09:26:45.542092"
+  "merged_at": "2026-01-26T10:19:14.859894"
 }
