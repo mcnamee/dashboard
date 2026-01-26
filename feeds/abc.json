@@ -11,7 +11,7 @@
     },
     {
       "published_datetime": "2026-01-26T14:11:52.000000Z",
-      "title": "Trump sends border czar to Minneapolis as calls for probe into shooting intensify",
+      "title": "Trump sends 'border czar' to Minneapolis after shooting of nurse Alex Pretti",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/762f1156ef847cbcb8dfb9aecfac7953?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
       },
@@ -55,6 +55,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-26/australian-open-2026-live-jannik-sinner-maddison-inglis-swiatek/106268840"
     },
     {
+      "published_datetime": "2026-01-26T17:02:08.000000Z",
+      "title": "Private jet crashes as major winter storm kills 13 across US",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e20b1f30f036971fec713beb7952ccce?impolicy=wcms_crop_resize&amp;cropH=1903&amp;cropW=3383&amp;xPos=0&amp;yPos=295&amp;width=862&amp;height=485"
+      },
+      "description": "Almost 200 million Americans are under cold weather alerts as snow, sleet and freezing rain affects swathes of the country from Texas to New England, with temperatures set to fall dangerously low this week.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-27/deaths-reported-as-winter-storm-barrels-across-us/106271804"
+    },
+    {
       "published_datetime": "2026-01-25T21:44:58.000000Z",
       "title": "More than 1,100 properties told to evacuate near Vic Otways fire",
       "featured_image": {
@@ -64,22 +73,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-26/vic-otways-fire-not-contained/106267634"
     },
     {
-      "published_datetime": "2026-01-26T05:18:44.000000Z",
-      "title": "Traditional owners heartbroken by dingo cull after Piper James's death",
+      "published_datetime": "2026-01-26T17:10:53.000000Z",
+      "title": "Russia, Ukraine and US plan further trilateral talks on ending war",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b542c04f1fe0eda8398c0682076461ae?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d918d218191f804d5724e5bf17a06c6d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The Queensland government euthanises six dingoes involved in Piper James's death on K'gari, and is expected to cull more in the coming days.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-26/traditional-owners-heartbroken-at-decision-to-cull-kgari-dingoes/106269824"
-    },
-    {
-      "published_datetime": "2026-01-26T14:24:48.000000Z",
-      "title": "Elite marines among 80 people missing in Indonesian landslide",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cdd1090f0ec4788648c789038e82cc4d?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The search is ongoing for survivors after the pre-dawn landslide on the slopes of Mount Burangrang in West Java province killed at least two dozen people at the weekend.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-27/west-java-landslide-buries-indonesian-marines/106271942"
+      "description": "Volodymyr Zelenskyy said discussions between envoys from Ukraine, Russia and the US in Abu Dhabi last week aimed at ending Moscow's invasion left some political issues unresolved. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-27/major-challenges-ukraine-russia-kremlin/106272110"
     },
     {
       "published_datetime": "2026-01-26T00:30:01.000000Z",
@@ -118,6 +118,24 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-26/moderate-liberals-rock-solid-ley-leadership-challenge/106267314"
     },
     {
+      "published_datetime": "2026-01-26T05:18:44.000000Z",
+      "title": "Traditional owners heartbroken by dingo cull after Piper James's death",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b542c04f1fe0eda8398c0682076461ae?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The Queensland government euthanises six dingoes involved in Piper James's death on K'gari, and is expected to cull more in the coming days.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-26/traditional-owners-heartbroken-at-decision-to-cull-kgari-dingoes/106269824"
+    },
+    {
+      "published_datetime": "2026-01-26T14:24:48.000000Z",
+      "title": "Elite marines among 42 people missing in Indonesian landslide",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cdd1090f0ec4788648c789038e82cc4d?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The search is ongoing for survivors after the pre-dawn landslide on the slopes of Mount Burangrang in West Java province killed at least two dozen people at the weekend.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-27/west-java-landslide-buries-indonesian-marines/106271942"
+    },
+    {
       "published_datetime": "2026-01-26T08:11:45.000000Z",
       "title": "Travellers stranded on Nullarbor as fire shuts Eyre Highway",
       "featured_image": {
@@ -127,13 +145,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-26/eyre-highway-closed-bushfire-travellers-stranded/106270912"
     },
     {
-      "published_datetime": "2026-01-26T01:48:54.000000Z",
-      "title": "Winter storm kills at least ten people across US",
+      "published_datetime": "2026-01-25T21:58:37.000000Z",
+      "title": "Pub joey a story of the challenges facing country WA's 'underground' wildlife carers",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/30ba798b6c2119498fb25205607834f4?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=182&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ade3c8b6f188c20a38812c8d99cb290?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "A massive winter storm across much of the US, spreading from Texas all the way to New England, affects powerlines, traffic and air travel. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-26/snow-sleet-and-freezing-rain-cause-havoc-across-united-states/106268992"
+      "description": "Roofus is one of many orphaned kangaroos taken under the wing of unofficial wildlife carers, a vocation one Boddington local found in his adolescence.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-26/underground-kangaroo-carer-boddington-wa/106196684"
     },
     {
       "published_datetime": "2026-01-26T02:56:01.000000Z",
@@ -143,15 +161,6 @@
       },
       "description": "Gold surges to a record high above $US5,000 an ounce, extending a historic rally as investors pile into the safe-haven asset amid rising geopolitical tensions.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-26/gold-record-run-continues-price-surges-past-us-5000/106269850"
-    },
-    {
-      "published_datetime": "2026-01-25T21:58:37.000000Z",
-      "title": "Pub joey a story of the challenges facing country WA's 'underground' wildlife carers",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ade3c8b6f188c20a38812c8d99cb290?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Roofus is one of many orphaned kangaroos taken under the wing of unofficial wildlife carers, a vocation one Boddington local found in his adolescence.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-26/underground-kangaroo-carer-boddington-wa/106196684"
     },
     {
       "published_datetime": "2026-01-26T02:14:53.000000Z",
@@ -181,15 +190,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-26/lake-cargelligo-manhunt-police-mount-hope-nsw/106268762"
     },
     {
-      "published_datetime": "2026-01-26T07:09:05.000000Z",
-      "title": "Human remains found near Charters Towers belong to Jayden Penno-Tompsett",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6aaaed35f28cb5c4586b5007def0a7ba?impolicy=wcms_crop_resize&amp;cropH=402&amp;cropW=714&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "Human remains found in north Queensland belong to a missing New South Wales man last seen eight years ago, according to police.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-26/jayden-penno-tompsett-remains-confirmed-north-queensland/105919904"
-    },
-    {
       "published_datetime": "2026-01-25T18:30:00.000000Z",
       "title": "I found a trove of letters from 1959. Their predictions were eerily familiar",
       "featured_image": {
@@ -199,6 +199,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-26/if-youre-listening-future-predictions-adelaide-history-radio/106256170"
     },
     {
+      "published_datetime": "2026-01-26T07:09:05.000000Z",
+      "title": "Human remains found near Charters Towers belong to Jayden Penno-Tompsett",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6aaaed35f28cb5c4586b5007def0a7ba?impolicy=wcms_crop_resize&amp;cropH=402&amp;cropW=714&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Human remains found in north Queensland belong to a missing New South Wales man last seen eight years ago, according to police.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-26/jayden-penno-tompsett-remains-confirmed-north-queensland/105919904"
+    },
+    {
       "published_datetime": "2026-01-26T06:07:49.000000Z",
       "title": "Five quick and easy burger recipes for stress-free summer dinners",
       "featured_image": {
@@ -206,15 +215,6 @@
       },
       "description": "From chargrilled beef patties and beer-battered fish to vegetarian parmigiana and cheeseburger tray bake, we have burgers to suit all tastes and diets.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-26/quick-and-easy-burger-recipes-for-stress-free-summer-dinners/106136826"
-    },
-    {
-      "published_datetime": "2026-01-25T18:30:00.000000Z",
-      "title": "How to know if you're 'stuck' on unhealthy life goals",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0e1e596bb3368cf617a0ed771a098b67?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
-      },
-      "description": "Experts say knowing when to abandon or change your goals may be just as important as persistence. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-26/new-year-resolutions-goals/106205930"
     },
     {
       "published_datetime": "2026-01-26T04:22:42.000000Z",
