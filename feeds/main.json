@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-26T21:15:25.000000Z",
+      "title": "Breaking: Two people with life-threatening injuries after light plane crash",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/97ae054eda6c41ef73903632c6c31851?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Police and emergency services are at the scene of a light plane crash at an airfield on the Gold Coast's northern outskirts.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-27/emergency-services-respond-to-gold-coast-light-plane-crash/106272486"
+    },
+    {
+      "published_datetime": "2026-01-26T21:11:27.000000Z",
+      "title": "Trump could rein in ICE operation as shooting outrage intensifies",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9fe677519c3690b6ee1eccdd8e7740bd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The Trump administration indicates it could rein in its Minnesota immigration crackdown as public outrage intensifies after a federal agent killed a protester.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-27/trump-may-rein-in-ice-crackdown-minneapolis-st-paul/106272218"
+    },
+    {
       "published_datetime": "2026-01-26T20:19:23.000000Z",
       "title": "Live: Ley backer insists leadership speculation 'all sound and fury signifying nothing'",
       "featured_image": {
@@ -10,13 +28,19 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-27/federal-politics-live-blog-ley-coalition-liberals-albanese/106272358"
     },
     {
-      "published_datetime": "2026-01-26T20:16:08.000000Z",
-      "title": "From bush to beach, first day back at school looks different across Australia",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6e6bf442-77ce-403a-9787-831b17aff0ba",
+      "published_datetime": "2026-01-26T20:17:41.968971",
+      "title": "World's oldest wooden tools found in Greece, dating back 430,000 years",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/100ab657cd38472bcb66b031f51ea4ec?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "url": "https://www.wbal.com/scientists-recover-the-oldest-wooden-tools-from-a-site-in-greece",
+        "name": "Scientists recover the oldest wooden tools from a site in ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--MaZXgsxm--/t_limit/https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2100/2026/01/26200302/ap-news-og-image-2026-01-26-20-03-08-980x563.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--mvO4pKiK--/t_thumbnail/https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2100/2026/01/26200302/ap-news-og-image-2026-01-26-20-03-08-980x563.webp"
       },
-      "description": "Families across the country, from the coast to the outback, are gearing up to return to school after a long, hot summer.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-27/families-gear-up-to-return-to-school/106244460"
+      "description": "Two wooden artifacts found at an ancient lake shore in Greece have been confirmed as the oldest handheld wooden tools ever discovered, dating back 430,000 years and revealing that early human ancestors were crafting wooden implements long before the emergence of Homo sapiens.\n\nThe discovery, published January 26 in Proceedings of the National Academy of Sciences, includes a digging stick and a smaller tool of unknown purpose. Both objects show clear evidence of intentional shaping by human hands.",
+      "audio_url": "",
+      "url": "scientists-discover-430000-yea-LzArQzCcQaGGrpQinM7FpQ",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-26T20:07:25.000000Z",
@@ -208,30 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/53cfc53f-e483-4478-a62d-83a24035ea1f",
-      "published_datetime": "2026-01-26T15:31:41.205749",
-      "title": "Israel finds body of last Gaza hostage, clearing path for Rafah reopening",
-      "featured_image": {
-        "url": "https://www.timesofisrael.com/waiting-for-ran-gvili/",
-        "name": "Waiting for Ran Gvili | The Times of Israel",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1769441460/url_uploads/rangvili-1024x640_z9k6bx.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1769441460/url_uploads/rangvili-1024x640_z9k6bx.jpg"
-      },
-      "description": "The Israeli Defense Forces announced Monday that the body of Master Sgt. Ran Gvili, the last remaining Israeli hostage from the October 7, 2023 attacks, has been found and identified in a Gaza cemetery, bringing a 28-month ordeal to a close and clearing the path for a contentious reopening of the Rafah border crossing.\n\nThe recovery marks the end of a chapter that began when 251 people were taken captive during Hamas's attack on southern Israel. With Gvili's return, no Israeli hostages remain in the Gaza Strip for the first time in over two years.",
-      "audio_url": "",
-      "url": "israeli-army-finds-remains-of-Xx2oAFYzRde2Xdp1X.mk0g",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-26T14:11:52.000000Z",
-      "title": "Trump sends 'border czar' to Minnesota after shooting of nurse Alex Pretti",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/762f1156ef847cbcb8dfb9aecfac7953?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
-      },
-      "description": "An American citizen, Alex Pretti, was shot by federal agents during a continuing Trump administration immigration crackdown in the city.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-27/republicans-express-shock-over-minneapolis-shooting/106271792"
-    },
-    {
       "published_datetime": "2026-01-26T13:02:37.000000Z",
       "title": "Government agency deliberately broke law for years, federal watchdog finds",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-26T21:15:58.185007"
+  "merged_at": "2026-01-26T22:14:29.602281"
 }
