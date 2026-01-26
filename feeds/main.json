@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-26T14:24:48.000000Z",
+      "title": "Elite marines among 80 people missing in Indonesian landslide",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cdd1090f0ec4788648c789038e82cc4d?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The search is ongoing for survivors after the pre-dawn landslide on the slopes of Mount Burangrang in West Java province killed at least two dozen people at the weekend.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-27/west-java-landslide-buries-indonesian-marines/106271942"
+    },
+    {
       "published_datetime": "2026-01-26T14:11:52.000000Z",
-      "title": "Trump 'reviewing everything' as Republicans demand probe into Minneapolis shooting",
+      "title": "Trump sends border czar to Minneapolis as calls for probe into shooting intensify",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/762f1156ef847cbcb8dfb9aecfac7953?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
       },
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-01-26T14:04:54.000000Z",
-      "title": "Breaking: Remains of last Israeli hostage in Gaza found, Netanyahu confirms",
+      "title": "Remains of last Israeli hostage in Gaza found, Netanyahu confirms",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cd3c84974fa9360942f34a2cbce50f9f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=849&amp;width=862&amp;height=485"
       },
@@ -187,15 +196,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-25T18:38:07.000000Z",
-      "title": "Moderate Liberals 'rock solid' behind Sussan Ley amid leadership whispers",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6c3ab3944f30075d774f67e691997a32?impolicy=wcms_crop_resize&amp;cropH=2980&amp;cropW=5297&amp;xPos=0&amp;yPos=276&amp;width=862&amp;height=485"
-      },
-      "description": "While conservatives Angus Taylor and Andrew Hastie canvass support to challenge for the Liberal leadership, moderates say there is no mood for turning on Sussan Ley \u2014 meaning a spill would likely result in another divided vote.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-26/moderate-liberals-rock-solid-ley-leadership-challenge/106267314"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c6147938-5003-47c2-959c-262b7a2a98a1",
       "published_datetime": "2026-01-25T17:50:32.988612",
       "title": "China's top general investigated over alleged nuclear leak to US",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-26T14:21:14.325886"
+  "merged_at": "2026-01-26T15:21:15.523424"
 }
