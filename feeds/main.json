@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-27T04:39:12.000000Z",
+      "title": "Trump triggers a gold rush as investors flee the US",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/78435685ca5424fcaecea3d079f9eb20?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "While the surging gold price has been a surprise, the driving forces behind it are not. Investors are losing faith in the United States and its role as the standard-bearer for global capitalism.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-27/donald-trump-triggers-a-gold-rush-as-investors-flee-us/106274200"
+    },
+    {
+      "published_datetime": "2026-01-27T04:13:28.000000Z",
+      "title": "Two arrested for allegedly trying to import 65kg of heroin through airport",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/addf5893337af694970ff4d4aa977c34?impolicy=wcms_crop_resize&amp;cropH=270&amp;cropW=480&amp;xPos=0&amp;yPos=181&amp;width=862&amp;height=485"
+      },
+      "description": "Police allege officers found an estimated 65 kilograms of white powder, which returned a positive result for heroin.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-27/sydney-men-bail-alleged-heroin-import-brisbane-airport-smuggle/106273974"
+    },
+    {
       "published_datetime": "2026-01-27T02:34:58.000000Z",
       "title": "Sepp Blatter supports boycott of men's World Cup games in US",
       "featured_image": {
@@ -59,7 +77,7 @@
     },
     {
       "published_datetime": "2026-01-26T23:33:32.000000Z",
-      "title": "Live: Heat policy in effect as Zverev and Tien battle for semifinal berth",
+      "title": "Live: Australian Open heat policy in effect as Zverev and Tien battle for semifinal berth",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/192acfba958e69525d2919a4ee5a8cb4?impolicy=wcms_crop_resize&amp;cropH=1907&amp;cropW=3391&amp;xPos=0&amp;yPos=91&amp;width=862&amp;height=485"
       },
@@ -161,11 +179,11 @@
     },
     {
       "published_datetime": "2026-01-26T20:21:30.000000Z",
-      "title": "Live: ASX sharply higher as gold continues to soar",
+      "title": "Live: Australian share market rallies to three-month high",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/af9565129f8ba5c1a496397e19ea2171?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The ASX opens higher as gold and silver surge in price. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "description": "The ASX 200 has held onto its gains through the session, trading higher as gold and silver surge in price. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-27/asx-markets-business-news-live-updates-tuesday-27-january/106272410"
     },
     {
@@ -221,24 +239,6 @@
       "audio_url": "",
       "url": "iran-backed-militias-threaten-WAw1W3eWSTSRtCr3icnsyQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-26T18:57:54.000000Z",
-      "title": "The problem gnawing at China's economy",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/14d722212e560ff58722545009b1679d?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=61&amp;width=862&amp;height=485"
-      },
-      "description": "Unlike many Western economies, Chinese households stash away more than 40 per cent of their income. But the pressure to boost local consumption is mounting for Beijing.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-27/chinas-aging-population-is-saving-towards-economic-stagnation/106270300"
-    },
-    {
-      "published_datetime": "2026-01-26T13:02:37.000000Z",
-      "title": "Government agency deliberately broke law for years, federal watchdog finds",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/077d2dde1426bc07937b5f4ee488ca2a?impolicy=wcms_crop_resize&amp;cropH=1584&amp;cropW=2816&amp;xPos=0&amp;yPos=150&amp;width=862&amp;height=485"
-      },
-      "description": "Services Australia has known it was not fully complying with new child support laws since 2019, according to a scathing report released by the Commonwealth Ombudsman.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-27/services-australia-knowingly-broke-law-for-years/106261814"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-27T04:40:23.008706"
+  "merged_at": "2026-01-27T05:20:49.034507"
 }
