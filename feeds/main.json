@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-27T02:34:58.000000Z",
+      "title": "Sepp Blatter supports boycott of men's World Cup games in US",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9c6e9ed92b8ec351f0b5a839042148e0?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=331&amp;width=862&amp;height=485"
+      },
+      "description": "Former FIFA president Sepp Blatter is backing a proposed fan boycott of men's World Cup matches in the United States because of the conduct of President Donald Trump and his administration.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-27/sepp-blatter-fifa-wc-boycott-games-in-us-trump/106273718"
+    },
+    {
       "published_datetime": "2026-01-27T02:09:44.000000Z",
       "title": "Man denied bail over 'reprehensible' speech at March for Australia rally",
       "featured_image": {
@@ -8,15 +17,6 @@
       },
       "description": "Brandan Koschel has been charged with publicly inciting hatred on the grounds of race causing fear after he made comments at an open mic session at the rally.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-27/brandan-koschel-charged-with-inciting-hate-denied-bail/106273486"
-    },
-    {
-      "published_datetime": "2026-01-27T02:06:40.000000Z",
-      "title": "Residents of Einasleigh in Far North Queensland evacuate amid flooding",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/01ae3cf436a64f425f2ac78907b52545?impolicy=wcms_crop_resize&amp;cropH=1210&amp;cropW=2151&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Etheridge Shire Council in Far North Queensland issues an Emergency Warning for Einasleigh township residents to evacuate.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-27/flooding-along-copperfield-river-far-north-queensland/106273642"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/07fb30d5-c808-4e86-801e-5bf4d663b014",
@@ -41,15 +41,6 @@
       },
       "description": "A 31-year-old man is charged with making explosives in suspicious circumstances after a device was allegedly thrown into a crowd of hundreds of people attending an Invasion Day rally in central Perth yesterday.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-27/man-charged-making-explosives-after-perth-invasion-day-rally/106272888"
-    },
-    {
-      "published_datetime": "2026-01-27T00:37:37.000000Z",
-      "title": "Kanye West says he 'lost touch with reality' due to brain injury",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4034eed269e04c991bd7e36e8b8e49f6?impolicy=wcms_crop_resize&amp;cropH=1767&amp;cropW=3141&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Ye, the artist formerly known as Kanye West, has taken out a full-page ad in the Wall Street Journal to apologise for past behaviour, saying he had an undiagnosed brain injury and bipolar disorder.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-27/kanye-west-apologises-antisemitism-wall-street-journal-ad/106272660"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4184292b-4a09-402a-8b6c-b28a76e02930",
@@ -152,7 +143,7 @@
     },
     {
       "published_datetime": "2026-01-26T22:16:17.000000Z",
-      "title": "Live: Emergency warning for Victorian fire, as heatwave sends temperatures soaring",
+      "title": "Live: Emergency warnings for Victorian fires, as heatwave sends temperatures soaring",
       "featured_image": {
         "thumbnail": ""
       },
@@ -176,6 +167,15 @@
       },
       "description": "The ASX opens higher as gold and silver surge in price. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-27/asx-markets-business-news-live-updates-tuesday-27-january/106272410"
+    },
+    {
+      "published_datetime": "2026-01-26T20:19:23.000000Z",
+      "title": "Live: Ley backer insists leadership speculation 'all sound and fury signifying nothing'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7f232cb2d41d05b8a8f695a3b5d6fb06?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "A backer of Sussan Ley has taken aim at the fevered speculation about a looming Liberal leadership challenge, dismissing it as \"sound and fury signifying nothing\". Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-27/federal-politics-live-blog-ley-coalition-liberals-albanese/106272358"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6e6bf442-77ce-403a-9787-831b17aff0ba",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-27T03:41:04.444447"
+  "merged_at": "2026-01-27T04:40:23.008706"
 }
