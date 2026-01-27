@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-27T10:37:06.000000Z",
+      "title": "Otways fire 'running hard and fast' as Victorians face uncertain night",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e0b8cc5144ecf80e4e331197f455f214?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=592&amp;width=862&amp;height=485"
+      },
+      "description": "A major fire in Victoria's Otway Ranges is being fanned by strong wind gusts following a wind change early this evening, authorities say.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-27/victoria-bushfires-otways-carlisle-river-lismore-heatwave/106275746"
+    },
+    {
       "published_datetime": "2026-01-27T09:28:32.000000Z",
       "title": "PM rules out blocking appointment of controversial NT administrator",
       "featured_image": {
@@ -224,21 +233,12 @@
     },
     {
       "published_datetime": "2026-01-26T23:33:32.000000Z",
-      "title": "Live: De Minaur and Alcaraz battle underway, Gauff crashes out",
+      "title": "Live: Alcaraz shows why he's the world's best as he leads de Minaur by two sets",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64a1ef7be33ad1f1f251f13990e2a971?impolicy=wcms_crop_resize&amp;cropH=2099&amp;cropW=3732&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Coco Gauff has lost her quarterfinal match against Elina Svitolina in what was her equal worst defeat at a slam. Follow live.",
+      "description": "Alex de Minaur faces world number one Carlos Alcaraz on Rod Laver Arena for a spot in the semifinals. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-27/australian-open-2026-live-alex-de-minaur-alcaraz-sabalenka-gauff/106272422"
-    },
-    {
-      "published_datetime": "2026-01-26T22:16:17.000000Z",
-      "title": "Live: Property losses feared in Otways fire as Victoria breaks its all-time temperature record",
-      "featured_image": {
-        "thumbnail": ""
-      },
-      "description": "A record-breaking heatwave is impacting south-east Australia, with temperatures expected to soar in parts of Victoria, South Australia and New South Wales. Follow our live coverage.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-27/heatwave-bushfires-south-east-australia-vic-nsw-sa/106269198"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-27T10:36:30.483955"
+  "merged_at": "2026-01-27T11:17:08.021085"
 }
