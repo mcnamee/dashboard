@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-27T16:15:44.000000Z",
+      "title": "Trump administration sued by families over deadly Venezuelan boat strike",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cc8b4141bac1624c8e1e08c1982160ff?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Families of two men allege they were murdered in a US missile strike off Venezuela's coast while returning to the Caribbean island nation of Trinidad.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-28/trump-administration-sued-over-venezuelan-boat-strike/106276738"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7dd3cc8c-1c13-4385-a034-db2524849ee2",
       "published_datetime": "2026-01-27T15:11:05.677287",
       "title": "NASA and GE Aerospace complete first hybrid electric jet engine test",
@@ -151,15 +160,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-27/us-politicians-response-minnesota-government-shutdown/106274236"
     },
     {
-      "published_datetime": "2026-01-27T07:41:11.000000Z",
-      "title": "Independent probe on 'missed opportunities' for deadly NZ landslide",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eb84192c26a4d4f41589f7d990dd523c?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=162&amp;width=862&amp;height=485"
-      },
-      "description": "An independent probe will explore whether there was a \"missed opportunity\" to prevent six deaths caused by a landslide in New Zealand.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-27/independent-probe-into-nz-landslide-deaths/106275182"
-    },
-    {
       "published_datetime": "2026-01-27T07:41:06.000000Z",
       "title": "Police reveal white ute last seen being driven by triple murder suspect",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-27T16:20:35.558814"
+  "merged_at": "2026-01-27T17:22:04.089051"
 }
