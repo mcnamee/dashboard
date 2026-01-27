@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-27T14:01:09.000000Z",
+      "title": "As Trump watches on, India and EU lock in 'mother of all deals'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7410980783e895062ef8d6c53944b369?impolicy=wcms_crop_resize&amp;cropH=2670&amp;cropW=4747&amp;xPos=230&amp;yPos=142&amp;width=862&amp;height=485"
+      },
+      "description": "The agreement could impact nearly 2 billion people in both economies and comes amid an upheval in global trade stemming from Donald Trump's tariff policies.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-28/what-is-in-the-eu-india-free-trade-deal/106276554"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/03d9522a-59b5-407d-9354-a46ecf7668f6",
       "published_datetime": "2026-01-27T11:24:39.913429",
       "title": "Ocean salinity patterns can nearly double extreme El Ni\u00f1o risk, study finds",
@@ -38,15 +47,6 @@
       },
       "description": "A major fire in Victoria's Otway Ranges is being fanned by strong wind gusts following a wind change early this evening, authorities say.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-27/victoria-bushfires-otways-carlisle-river-lismore-heatwave/106275746"
-    },
-    {
-      "published_datetime": "2026-01-27T09:28:32.000000Z",
-      "title": "PM rules out blocking appointment of controversial NT administrator",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4056b8fbff7abacac4137465dcafe4eb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=113&amp;width=862&amp;height=485"
-      },
-      "description": "Prime Minister Anthony Albanese says he will not intervene to block the appointment of the NT's incoming administrator, after a series of his past social media posts surfaced in the media.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-27/pm-albanese-rules-out-blocking-nt-administrator-david-connolly/106275882"
     },
     {
       "published_datetime": "2026-01-27T08:43:08.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-27T13:40:37.940281"
+  "merged_at": "2026-01-27T14:22:43.518111"
 }
