@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-27T09:28:32.000000Z",
+      "title": "PM rules out blocking appointment of controversial NT administrator",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4056b8fbff7abacac4137465dcafe4eb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=113&amp;width=862&amp;height=485"
+      },
+      "description": "Prime Minister Anthony Albanese says he will not intervene to block the appointment of the NT's incoming administrator, after a series of his past social media posts surfaced in the media.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-27/pm-albanese-rules-out-blocking-nt-administrator-david-connolly/106275882"
+    },
+    {
       "published_datetime": "2026-01-27T08:43:08.000000Z",
       "title": "Video shows man throwing explosive device into Perth Invasion Day crowd",
       "featured_image": {
@@ -184,15 +193,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-27T02:34:58.000000Z",
-      "title": "Sepp Blatter supports boycott of men's World Cup games in US",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9c6e9ed92b8ec351f0b5a839042148e0?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=331&amp;width=862&amp;height=485"
-      },
-      "description": "Former FIFA president Sepp Blatter is backing a proposed fan boycott of men's World Cup matches in the United States because of the conduct of President Donald Trump and his administration.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-27/sepp-blatter-fifa-wc-boycott-games-in-us-trump/106273718"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/07fb30d5-c808-4e86-801e-5bf4d663b014",
       "published_datetime": "2026-01-27T01:31:22.925165",
       "title": "China's Anta Sports to buy 29% Puma stake for \u20ac1.5 billion",
@@ -224,9 +224,9 @@
     },
     {
       "published_datetime": "2026-01-26T23:33:32.000000Z",
-      "title": "Live: Gauff crashes out of quarterfinal in her equal worst defeat at a slam",
+      "title": "Live: De Minaur and Alcaraz battle underway, Gauff crashes out",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fd1532a28a8d20e776662409ce46c1ee?impolicy=wcms_crop_resize&amp;cropH=2060&amp;cropW=3662&amp;xPos=0&amp;yPos=184&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64a1ef7be33ad1f1f251f13990e2a971?impolicy=wcms_crop_resize&amp;cropH=2099&amp;cropW=3732&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Coco Gauff has lost her quarterfinal match against Elina Svitolina in what was her equal worst defeat at a slam. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-27/australian-open-2026-live-alex-de-minaur-alcaraz-sabalenka-gauff/106272422"
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-27T09:25:03.376316"
+  "merged_at": "2026-01-27T10:19:19.129767"
 }
