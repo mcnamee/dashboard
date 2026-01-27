@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-27T17:25:27.000000Z",
+      "title": "Three brothers among 35 killed as freezing conditions grip US",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dd497ae27cc6c42a03c08391c168dfa5?impolicy=wcms_crop_resize&amp;cropH=2198&amp;cropW=3908&amp;xPos=0&amp;yPos=203&amp;width=862&amp;height=485"
+      },
+      "description": "Much of the US was not forecast to get above freezing all day on Tuesday, local time, with temperatures plunging again overnight.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-28/freezing-conditions-us-snowstorm-three-brothers/106276778"
+    },
+    {
       "published_datetime": "2026-01-27T16:15:44.000000Z",
       "title": "Trump administration sued by families over deadly Venezuelan boat strike",
       "featured_image": {
@@ -140,15 +149,6 @@
       },
       "description": "A major fire in Victoria's Otway Ranges is being fanned by strong wind gusts following a wind change early this evening, authorities say.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-27/victoria-bushfires-otways-carlisle-river-lismore-heatwave/106275746"
-    },
-    {
-      "published_datetime": "2026-01-27T08:43:08.000000Z",
-      "title": "Video shows man throwing explosive device into Perth Invasion Day crowd",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3eee3da33a8873babb9221518d629686?impolicy=wcms_crop_resize&amp;cropH=400&amp;cropW=710&amp;xPos=570&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "WA Police have released CCTV that shows a man, dressed in black and wearing a black face mask, running through the crowd after throwing an object from a shopping centre balcony.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-27/video-shows-man-throws-explosive-device-into-perth-rally/106276126"
     },
     {
       "published_datetime": "2026-01-27T08:02:12.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-27T17:22:04.089051"
+  "merged_at": "2026-01-27T18:26:49.314276"
 }
