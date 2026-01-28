@@ -15,7 +15,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9712fb8c06ce822e7c2d8a30951ed00e?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Tasmania Police say a bushwalker has located what are believed to be human remains near the Philosopher Falls area in Waratah on Tasmania's west coast, where tourist Celine Cremer went missing in 2023.",
+      "description": "Tasmania Police say a bushwalker has located human remains near the Philosopher Falls area in Waratah on Tasmania's west coast, where tourist Celine Cremer went missing in 2023.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-28/remains-found-during-search-for-missing-tourist-celine-cremer/106279500"
     },
     {
@@ -55,6 +55,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-28/heatwave-south-east-australia-weather-victoria-bushfires/106276290"
     },
     {
+      "published_datetime": "2026-01-28T06:05:33.000000Z",
+      "title": "Breaking: Residents urged to evacuate as two bushfires burn in Perth's north",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5bc26c064339da64f1d1ebb4c9452d65?impolicy=wcms_crop_resize&amp;cropH=672&amp;cropW=1195&amp;xPos=97&amp;yPos=345&amp;width=862&amp;height=485"
+      },
+      "description": "An emergency warning has been issued for a bushfire burning near Landsdale, in Perth's north.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-28/gnangara-landsdale-bullsbrook-emergency-bushfire-/106279716"
+    },
+    {
       "published_datetime": "2026-01-28T01:52:57.000000Z",
       "title": "Perth's Invasion Day rally 'explosives' scare hasn't been declared terrorism. Here's why",
       "featured_image": {
@@ -82,6 +91,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-28/minnesota-judge-orders-ice-head-to-face-court/106276814"
     },
     {
+      "published_datetime": "2026-01-27T23:58:25.000000Z",
+      "title": "Live: Djokovic's honesty costs him as 10-time champ faces exit",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d9353c716695d7b0ba42db861c7b002c?impolicy=wcms_crop_resize&amp;cropH=2386&amp;cropW=4241&amp;xPos=0&amp;yPos=62&amp;width=862&amp;height=485"
+      },
+      "description": "Novak Djokovic and Jannik Sinner are among the big names in action on day 11 at the Australian Open as we fast approach the business end of the tournament. Follow the action in our live blog.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-28/australian-open-live-blog-day-11-%C5%9Bwi%C4%85tek-djokovic-sinner/106277086"
+    },
+    {
       "published_datetime": "2026-01-27T19:20:14.000000Z",
       "title": "Suspect in 'largest jewellery heist in US history' was deported by ICE before trial",
       "featured_image": {
@@ -89,15 +107,6 @@
       },
       "description": "An Ecuadorian man accused of aiding the theft of about $147 million worth of gold, gems and luxury watches was deported by the Immigration and Customs Enforcement agency before he could face trial.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-28/ice-deported-man-charged-over-us-jewellery-heist/106270648"
-    },
-    {
-      "published_datetime": "2026-01-27T23:58:25.000000Z",
-      "title": "Live: Novak Djokovic takes to the court against Italian fifth seed",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/794b95d0c612dc5cb66ba4d14e55cb00?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=135&amp;width=862&amp;height=485"
-      },
-      "description": "Novak Djokovic and Jannik Sinner are among the big names in action on day 11 at the Australian Open as we fast approach the business end of the tournament. Follow the action in our live blog.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-28/australian-open-live-blog-day-11-%C5%9Bwi%C4%85tek-djokovic-sinner/106277086"
     },
     {
       "published_datetime": "2026-01-28T03:43:15.000000Z",
@@ -109,15 +118,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-28/doomsday-clock-85-seconds-to-midnight-nuclear-threats/106261766"
     },
     {
-      "published_datetime": "2026-01-28T03:43:17.000000Z",
-      "title": "Guilty plea over murder of Tasmanian police officer",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b6e01e9fe84563cf87d0b452175e531f?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=19&amp;width=862&amp;height=485"
-      },
-      "description": "The man accused of fatally shooting Tasmania Police Constable Keith Smith pleads guilty to murder in a Devonport court.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-28/leigh-geoffrey-sushames-pleads-guilty-keith-smith-murder/106277880"
-    },
-    {
       "published_datetime": "2026-01-27T18:30:00.000000Z",
       "title": "'They're gonna die': How five people tried to stop the Challenger tragedy",
       "featured_image": {
@@ -127,13 +127,13 @@
       "page_content_url": "https://www.abc.net.au/news/science/2026-01-28/space-shuttle-challenger-disaster-nasa-explosion-video-engineers/106162902"
     },
     {
-      "published_datetime": "2026-01-27T19:00:00.000000Z",
-      "title": "Rally organiser's claim of 'bashing' by Middle Eastern men comes unstuck",
+      "published_datetime": "2026-01-28T05:49:09.000000Z",
+      "title": "'One-off' literary festival to take place in lieu of Adelaide Writers' Week",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e0555acecb91aeece08caac5f2368bdd?impolicy=wcms_crop_resize&amp;cropH=2372&amp;cropW=4217&amp;xPos=0&amp;yPos=219&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c526ddee13f77ea64552f306376e3361?impolicy=wcms_crop_resize&amp;cropH=2052&amp;cropW=3648&amp;xPos=0&amp;yPos=190&amp;width=862&amp;height=485"
       },
-      "description": "March for Australia claims one of its organisers was bashed by a group of Middle Eastern men the day before Australia Day, but police and an eyewitness account have cast doubt on its claim.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-28/vfy-march-for-australia-bashing-claim-alternates/106275558"
+      "description": "A community literary festival will go ahead in the wake of the cancellation of Adelaide Writers' Week, but those involved say it is not a replacement for the original event. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-28/alternate-literary-festival-constellations-in-adelaide/106279364"
     },
     {
       "published_datetime": "2026-01-28T00:19:29.000000Z",
@@ -163,13 +163,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-28/tonga-us-travel-restrictions-trump/106249526"
     },
     {
-      "published_datetime": "2026-01-27T18:47:32.000000Z",
-      "title": "Health minister promises change after woman overdoses from stockpiled meds",
+      "published_datetime": "2026-01-27T19:00:00.000000Z",
+      "title": "Rally organiser's claim of 'bashing' by Middle Eastern men comes unstuck",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8abc92a93315e58595980afb90fb829b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e0555acecb91aeece08caac5f2368bdd?impolicy=wcms_crop_resize&amp;cropH=2372&amp;cropW=4217&amp;xPos=0&amp;yPos=219&amp;width=862&amp;height=485"
       },
-      "description": "The tragic death of a young Melbourne woman who was stockpiling medication has prompted the federal health minister to move to change the way prescriptions are recorded.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-28/national-medicines-register-in-honour-of-erin/106273618"
+      "description": "March for Australia claims one of its organisers was bashed by a group of Middle Eastern men the day before Australia Day, but police and an eyewitness account have cast doubt on its claim.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-28/vfy-march-for-australia-bashing-claim-alternates/106275558"
     },
     {
       "published_datetime": "2026-01-28T02:09:37.000000Z",
@@ -181,13 +181,40 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-28/microplastics-triple-in-sydney-waterways-report/106276988"
     },
     {
-      "published_datetime": "2026-01-27T19:16:03.000000Z",
-      "title": "Australia's largest city is running out of landfill. It's causing a trash war",
+      "published_datetime": "2026-01-28T03:43:17.000000Z",
+      "title": "Guilty plea over murder of Tasmanian police officer",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d9ddf4d5d927ef760e96ef41ad0c663f?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b6e01e9fe84563cf87d0b452175e531f?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=19&amp;width=862&amp;height=485"
       },
-      "description": "A proposal to build an incinerator in the regional town of Parkes could see 700,000 tonnes of Sydney's red bin rubbish transported there every year.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-28/sydney-landfill-capacity-regional-communities-incinerator-plans/106250180"
+      "description": "The man accused of fatally shooting Tasmania Police Constable Keith Smith pleads guilty to murder in a Devonport court.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-28/leigh-geoffrey-sushames-pleads-guilty-keith-smith-murder/106277880"
+    },
+    {
+      "published_datetime": "2026-01-28T05:31:51.000000Z",
+      "title": "Sobering export report for Australian producers as world turns off wine consumption",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9625af70adca32a01b85ff102a631ceb?impolicy=wcms_crop_resize&amp;cropH=1551&amp;cropW=2758&amp;xPos=0&amp;yPos=446&amp;width=862&amp;height=485"
+      },
+      "description": "Global demand for Australian wine is continuing to dwindle, with the latest Wine Australia export report showing an 8 per cent decrease in 2025 as consumers opt for alcohol-free trends.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-28/wine-australia-export-report-for-2025-global-market-decline-sa/106277572"
+    },
+    {
+      "published_datetime": "2026-01-28T05:31:51.000000Z",
+      "title": "Luxury $1,900-a-night resort to reopen in remote valley with no road in",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f1b6a8fc517c192258638fb532b9b91b?impolicy=wcms_crop_resize&amp;cropH=1329&amp;cropW=2362&amp;xPos=0&amp;yPos=58&amp;width=862&amp;height=485"
+      },
+      "description": "Guests at one of Australia's most luxurious resorts will travel on a four-wheel drive trail down the side of the Blue Mountains, with the owners committed to reopening three years after a landslide closed the only access road.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-28/emirates-wolgan-valley-hotel-reopening-/106277870"
+    },
+    {
+      "published_datetime": "2026-01-28T05:26:12.000000Z",
+      "title": "Free agent Khawaja set to play on in BBL",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/11528dad29331dc279b2c39f751da21c?impolicy=wcms_crop_resize&amp;cropH=2359&amp;cropW=4194&amp;xPos=0&amp;yPos=218&amp;width=862&amp;height=485"
+      },
+      "description": "In the aftermath of his international retirement, Usman Khawaja is keen to extend his Big Bash career, with his preference to strike a new deal with the Brisbane Heat. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-28/usman-khawaja-brisbane-heat-big-bash-league/106279266"
     },
     {
       "published_datetime": "2026-01-28T04:08:55.000000Z",
@@ -197,33 +224,6 @@
       },
       "description": "An end of an era looms for Alex Volkanovski as he prepares for his first title defence on home soil, but ahead of UFC 325, Australia's greatest ever MMA fighter is still the nation's gold standard.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-28/alex-volkanovski-ufc-325-diego-lopes-tai-tuivasa/106277692"
-    },
-    {
-      "published_datetime": "2026-01-27T19:05:51.000000Z",
-      "title": "Government turns defence sights north with $355m RAAF base upgrade",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/57a0083be52d52acfcb8469abc48637a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "A Royal Australian Air Force base near Katherine in the NT is updated with purpose-built hangars and improved runways. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-28/government-completes-upgrade-raaf-base-tindal/106275670"
-    },
-    {
-      "published_datetime": "2026-01-28T02:45:36.000000Z",
-      "title": "Woman accused of corruptly paying surgeons to use medical devices faces court",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d4d7e605c2c9abe195cdb1111e02654c?impolicy=wcms_crop_resize&amp;cropH=2167&amp;cropW=3852&amp;xPos=0&amp;yPos=506&amp;width=862&amp;height=485"
-      },
-      "description": "The finance manager is one of four people who were charged last month, following an investigation involving the Crime and Corruption Commission and the Queensland Office of the Health Ombudsman.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-28/medical-devices-kickbacks-scheme-queensland-court/106277080"
-    },
-    {
-      "published_datetime": "2026-01-28T04:03:47.000000Z",
-      "title": "Dozens of bats entangled in Queensland golf club netting",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c67b9a27424e5c51339fb21a69dea021?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=366&amp;width=862&amp;height=485"
-      },
-      "description": "A mass wildlife rescue is again underway at the Noosa Golf Club after dozens of flying foxes became trapped in netting at its driving range for the fourth time this month.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-28/wildlife-rescue-underway-following-noosa-bat-entanglement/106278136"
     }
   ]
 }
