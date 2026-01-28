@@ -16,6 +16,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-01-28T21:20:16.000000Z",
+      "title": "Live: NSW on bushfire alert as towns across south-east Australia swelter",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d5ca279f1d19426102bb12aa64441fbd?impolicy=wcms_crop_resize&amp;cropH=3935&amp;cropW=6996&amp;xPos=0&amp;yPos=663&amp;width=862&amp;height=485"
+      },
+      "description": "NSW is on high alert for bushfires as temperatures above 40 degrees Celsius persist and firefighters continue to battle multiple blazes across Victoria.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-29/heatwave-south-east-australia-nsw-victoria-bushfire-weather/106279598"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/782140d3-3343-4c19-aa2f-7f1196169dbc",
       "published_datetime": "2026-01-28T21:17:33.307301",
       "title": "Meta to report Q4 earnings amid AI spending surge, layoffs",
@@ -61,15 +70,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-28T20:30:06.000000Z",
-      "title": "Live: Wall Street drifts as Fed leaves rates on hold, ASX poised for flat opening",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/243afdeb72b57081273fdf917bd143e4?impolicy=wcms_crop_resize&amp;cropH=1689&amp;cropW=3000&amp;xPos=0&amp;yPos=308&amp;width=862&amp;height=485"
-      },
-      "description": "The US Fed's decision to hold interest rates has kept a lid on Wall Street trading and the ASX is set to follow suit with an expected flat opening. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-29/asx-markets-business-news-live-updates/106280482"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1f6b7fa6-16aa-4fa3-bd6f-56130f468e64",
       "published_datetime": "2026-01-28T20:26:13.550934",
       "title": "East Africa faces drought and faster tectonic rifting as south floods",
@@ -86,11 +86,11 @@
     },
     {
       "published_datetime": "2026-01-28T20:05:15.000000Z",
-      "title": "Live: Littleproud pushes back on reports he 'rebuffed' meeting with Ley",
+      "title": "Live: Minister declines to endorse Israeli president's visit to Australia",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/45de3d036bb1511f2e754ae85ab82053?impolicy=wcms_crop_resize&amp;cropH=3273&amp;cropW=5819&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/288b583f166a4d735f1f0e19135a5149?impolicy=wcms_crop_resize&amp;cropH=5346&amp;cropW=9504&amp;xPos=0&amp;yPos=495&amp;width=862&amp;height=485"
       },
-      "description": "Nationals leader David Littleproud has pushed back on reports he \"rebuffed\" a meeting with Sussan Ley to mend the friendship. Follow live.",
+      "description": "Multicultural Affairs Minister Anne Aly has declined to endorse Israeli President Isaac Herzog's visit to Australia in February. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-29/federal-politics-live-littleproud-leadership-spill/106280236"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-28T21:36:43.209254"
+  "merged_at": "2026-01-28T22:19:01.665386"
 }
