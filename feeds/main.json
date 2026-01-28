@@ -1,13 +1,52 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-28T06:05:33.000000Z",
+      "title": "Breaking: Residents urged to evacuate as two bushfires burn in Perth's north",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5bc26c064339da64f1d1ebb4c9452d65?impolicy=wcms_crop_resize&amp;cropH=672&amp;cropW=1195&amp;xPos=97&amp;yPos=345&amp;width=862&amp;height=485"
+      },
+      "description": "An emergency warning has been issued for a bushfire burning near Landsdale, in Perth's north.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-28/gnangara-landsdale-bullsbrook-emergency-bushfire-/106279716"
+    },
+    {
       "published_datetime": "2026-01-28T05:10:09.000000Z",
       "title": "Breaking: Remains found during search for missing tourist Celine Cremer",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9712fb8c06ce822e7c2d8a30951ed00e?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Tasmania Police say a bushwalker has located what are believed to be human remains near the Philosopher Falls area in Waratah on Tasmania's west coast, where tourist Celine Cremer went missing in 2023.",
+      "description": "Tasmania Police say a bushwalker has located human remains near the Philosopher Falls area in Waratah on Tasmania's west coast, where tourist Celine Cremer went missing in 2023.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-28/remains-found-during-search-for-missing-tourist-celine-cremer/106279500"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1f57459a-d9e1-4f46-951a-42d156be961c",
+      "published_datetime": "2026-01-28T05:09:48.355902",
+      "title": "China approves first Nvidia H200 AI chip imports amid Huang visit",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/china/nvidia-ceo-jensen-huang-shanghai-amid-china-regulatory-headwinds-2026-01-24/",
+        "name": "Nvidia CEO Jensen Huang in Shanghai amid China regulatory ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--8nUFAu-G--/t_limit/https://www.reuters.com/resizer/v2/5ZYYVU4T7VM4TLII2NXDOMA2OE.jpg%3Fauth%3De72f423a8bfdbaee7f0f8b2581dcc8a5d6d5ed67ba545926049721ffc7ec3a66%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Tk95HzYu--/t_thumbnail/https://www.reuters.com/resizer/v2/5ZYYVU4T7VM4TLII2NXDOMA2OE.jpg%3Fauth%3De72f423a8bfdbaee7f0f8b2581dcc8a5d6d5ed67ba545926049721ffc7ec3a66%26width%3D1920%26quality%3D80"
+      },
+      "description": "China has granted approval for its first shipment of Nvidia H200 artificial intelligence chips, marking a pivotal shift in Beijing's approach to balancing its AI ambitions with efforts to promote domestic semiconductor development. The authorization covers several hundred thousand units and was issued during Nvidia CEO Jensen Huang's ongoing visit to the country, according to Reuters.[1]\n\nThe approval, which extends to three major Chinese internet companies, signals a thaw in tensions that saw Chinese customs briefly block H200 shipments earlier this month despite U.S. export clearance. Sources indicate that Alibaba, Tencent, and ByteDance are among the firms granted initial clearance, with additional companies awaiting future approvals.[2][1]",
+      "audio_url": "",
+      "url": "china-approves-first-batch-of-zT74gX33TsKkaLUAo7XS2A",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/54d5f925-0210-4155-9854-7e23dd5ea61f",
+      "published_datetime": "2026-01-28T05:07:28.965265",
+      "title": "AI could propose and test scientific hypotheses within five years, researchers say",
+      "featured_image": {
+        "url": "https://www.downtoearth.org.in/science-technology/ai-led-robotic-lab-develops-enzyme-to-withstand-higher-temperatures-without-human-intervention-how-it-works-93898",
+        "name": "AI-led robotic lab develops enzyme to withstand higher ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Ou6fZiF4--/t_limit/https://gumlet.assettype.com/down-to-earth%252Fimport%252Flibrary%252Flarge%252F2024-01-15%252F0.65605600_1705321108_istock-1136060838.jpg%3Fformat%3Dauto",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--qSGWPQPD--/t_thumbnail/https://gumlet.assettype.com/down-to-earth%252Fimport%252Flibrary%252Flarge%252F2024-01-15%252F0.65605600_1705321108_istock-1136060838.jpg%3Fformat%3Dauto"
+      },
+      "description": "Artificial intelligence could be autonomously generating scientific hypotheses and conducting research experiments within the next five years, according to leading researchers, even as philosophers and scientists debate whether machines can ever truly replace human researchers.\n\nEPFL associate professor Robert West and Northwestern University professor \u00c1gnes Horv\u00e1t said in an interview published this week that the role of AI in science is poised for a fundamental shift\u2014from assisting with writing and data analysis to actually proposing the questions that drive research.[1][2]\n\n\"I think the next step, and perhaps five years is a reasonable time frame for that, is for AI to come up with the ideas we study,\" Horv\u00e1t said. \"That's very different territory because then the AI is providing the hypothesis that needs to be researched.\"[1]",
+      "audio_url": "",
+      "url": "experts-predict-ai-will-soon-p-k86fN9K5SzC5CFV8kpfU.g",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-28T04:20:47.000000Z",
@@ -17,6 +56,21 @@
       },
       "description": "Nationals leader David Littleproud will stare down a leadership challenge from Queensland MP Colin Boyce, though colleagues say it is unlikely to succeed.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-28/david-littleproud-faces-nationals-leadership-challenge/105435280"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d97e3890-fa75-4f4e-9612-b2328851799b",
+      "published_datetime": "2026-01-28T04:12:34.644574",
+      "title": "Liverpool scientists find 3D material that mimics graphene",
+      "featured_image": {
+        "url": "https://www.pulse.bot/nanotech/news/3d-material-mimics-graphenes-electronic-speed-without-the-fragility-ef48fb50-c0c8-4389-b0b4-6fd40539a0c1/",
+        "name": "3D Material mimics graphene's electronic speed without the ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--6fg24vds--/t_limit/https://hixhlmpcokxhartfkpyi.supabase.co/storage/v1/object/public/images/thumbnails/89e371fc2792c67b07368195706ec817.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--jIzWTloB--/t_thumbnail/https://hixhlmpcokxhartfkpyi.supabase.co/storage/v1/object/public/images/thumbnails/89e371fc2792c67b07368195706ec817.webp"
+      },
+      "description": "Scientists at the University of Liverpool have discovered a three-dimensional material that replicates graphene's remarkable electron-conducting properties while overcoming the fragility that has limited the wonder material's practical applications.\n\nThe research, published Tuesday in the journal Matter, identifies that a compound called hafnium stannide (HfSn\u2082) can mimic graphene's fast, two-dimensional electron flow despite having a fully three-dimensional atomic structure. The discovery opens new pathways for developing more robust materials for low-energy computing technologies.[1][2][3]",
+      "audio_url": "",
+      "url": "liverpool-creates-3d-graphene-3ZVSUCtVRhy8tLMco8F.ug",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-01-28T02:00:58.000000Z",
@@ -169,36 +223,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-28/minnesota-judge-orders-ice-head-to-face-court/106276814"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/423915fb-f161-45e6-ad6f-ffefb5582a63",
-      "published_datetime": "2026-01-27T20:45:50.523027",
-      "title": "NASA's Juno measures Europa's ice shell at 18 miles thick",
-      "featured_image": {
-        "url": "https://www.space.com/juno-flyby-jupiter-moon-europa-science",
-        "name": "NASA's Juno probe will peer beneath the icy crust of Europa ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Fcbh84WE--/t_limit/https://cdn.mos.cms.futurecdn.net/wEkX9JhAKJxyA62aVRGZGj.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--TO7SqpSA--/t_thumbnail/https://cdn.mos.cms.futurecdn.net/wEkX9JhAKJxyA62aVRGZGj.jpg"
-      },
-      "description": "Jupiter's moon Europa remains one of the most tantalizing targets in the search for extraterrestrial life, but two recent studies paint a complex and sometimes contradictory picture of whether its vast subsurface ocean could actually support living organisms.\n\nNASA announced on Sunday that data from the Juno spacecraft has provided the first direct measurement of Europa's ice shell thickness, determining it averages about 18 miles (29 kilometers) in the region observed during a 2022 flyby. The findings, published in Nature Astronomy in December, represent a landmark measurement that settles a long-standing scientific debate over whether the shell is thin or thick.[1][2][3]\n\n\"The 18-mile estimate relates to the cold, rigid, conductive outer-layer of a pure water ice shell,\" said Steve Levin, Juno project scientist at NASA's Jet Propulsion Laboratory. \"If an inner, slightly warmer convective layer also exists, which is possible, the total ice shell thickness would be even greater.\"[2][3]",
-      "audio_url": "",
-      "url": "nasa-and-scientists-reveal-new-HxZN.EY1SMi69pzpf8BglA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/58979a8b-02aa-4118-9edd-483b5267951c",
-      "published_datetime": "2026-01-27T20:24:44.894718",
-      "title": "Tesla brand value drops 36% as Musk's politics erode trust",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2025/03/12/tesla-investor-survey-shows-85percent-believe-musks-politics-are-hurting-company.html",
-        "name": "Tesla investor survey shows 85% believe Musk's politics are ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s---EF8RsP0--/t_limit/https://image.cnbcfm.com/api/v1/image/108114691-17417820442025-03-11t202734z_1113171192_rc26bdacv9wn_rtrmadp_0_usa-trump.jpeg%3Fv%3D1741782084",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--g92N24M7--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108114691-17417820442025-03-11t202734z_1113171192_rc26bdacv9wn_rtrmadp_0_usa-trump.jpeg%3Fv%3D1741782084"
-      },
-      "description": "Tesla faces a crossroads this week as its brand value hits a three-year low and Wall Street braces for another year of declining profitability. The electric vehicle maker is scheduled to report fourth-quarter 2025 earnings on Wednesday, January 28, amid mounting evidence that CEO Elon Musk's political activities and the company's aging vehicle lineup are weighing heavily on business performance.\n\nAccording to Brand Finance, Tesla's brand value fell by $15.4 billion, or 36%, in 2025, marking its third consecutive annual decline. The London-based research firm now values the Tesla brand at $27.61 billion, down from $43 billion at the start of 2025 and well below its peak of $66.2 billion in January 2023.[1][2][3]",
-      "audio_url": "",
-      "url": "tesla-faces-third-year-of-decl-1msXq1sYRrmItVOaSmonVQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-27T20:21:38.000000Z",
       "title": "Live: Bridget McKenzie says Nationals spill announcement has 'come out of the blue'",
       "featured_image": {
@@ -215,30 +239,6 @@
       },
       "description": "Towns in New South Wales and Queensland are sweltering today amid a record-breaking heatwave, as firefighters continue to battle multiple blazes in Victoria. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-28/heatwave-south-east-australia-weather-victoria-bushfires/106276290"
-    },
-    {
-      "published_datetime": "2026-01-27T19:20:14.000000Z",
-      "title": "Suspect in 'largest jewellery heist in US history' was deported by ICE before trial",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2140c20602d3eaf7d2113ea5c14a01a5?impolicy=wcms_crop_resize&amp;cropH=1965&amp;cropW=3493&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
-      },
-      "description": "An Ecuadorian man accused of aiding the theft of about $147 million worth of gold, gems and luxury watches was deported by the Immigration and Customs Enforcement agency before he could face trial.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-28/ice-deported-man-charged-over-us-jewellery-heist/106270648"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e2e67dcc-3265-4fbe-bdcd-f3fb8252cb4b",
-      "published_datetime": "2026-01-27T18:35:45.810546",
-      "title": "Study finds narrow ocean bands absorb 72% of seas' carbon",
-      "featured_image": {
-        "url": "https://phys.org/news/2026-01-ocean-fronts-revealed-key-players.html",
-        "name": "Ocean fronts revealed as key players in Earth's carbon cycle",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--7rlw2U2D--/t_limit/https://scx2.b-cdn.net/gfx/news/hires/2026/ocean-fronts-revealed.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--mFKnRuYR--/t_thumbnail/https://scx2.b-cdn.net/gfx/news/hires/2026/ocean-fronts-revealed.jpg"
-      },
-      "description": "Narrow bands of ocean covering just over one-third of the world's seas are responsible for absorbing nearly three-quarters of the carbon dioxide that oceans pull from the atmosphere, according to new research that reshapes scientific understanding of Earth's carbon cycle.\n\nThe study, published in Nature Climate Change, reveals that ocean fronts\u2014turbulent boundaries where different water masses collide\u2014cover 36 percent of the global ocean but account for 72 percent of total oceanic carbon dioxide uptake, absorbing approximately 1.8 billion tons of carbon annually.[1][2][3]\n\n\"This is the first time we've been able to quantify the disproportionate role that ocean fronts play in absorbing atmospheric CO2 on a global scale, and it has major implications for climate modelling,\" said lead author Dr. Kai Yang, who completed the research during his PhD at the University of Tasmania's Institute for Marine and Antarctic Studies (IMAS) and is now a postdoctoral researcher at Xiamen University in China.[4][1]",
-      "audio_url": "",
-      "url": "ocean-fronts-absorb-72-percent-42IyYWCIRMG2gh_C4xsxkg",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-28T05:21:45.571899"
+  "merged_at": "2026-01-28T06:24:39.169491"
 }
