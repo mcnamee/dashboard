@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-28T05:10:09.000000Z",
+      "title": "Breaking: Remains found during search for missing tourist Celine Cremer",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9712fb8c06ce822e7c2d8a30951ed00e?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Tasmania Police say a bushwalker has located what are believed to be human remains near the Philosopher Falls area in Waratah on Tasmania's west coast, where tourist Celine Cremer went missing in 2023.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-28/remains-found-during-search-for-missing-tourist-celine-cremer/106279500"
+    },
+    {
+      "published_datetime": "2026-01-28T04:20:47.000000Z",
+      "title": "David Littleproud faces surprise leadership challenge",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6a425c774e1c0f3ff7a2020a48ce38e9?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Nationals leader David Littleproud will stare down a leadership challenge from Queensland MP Colin Boyce, though colleagues say it is unlikely to succeed.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-28/david-littleproud-faces-nationals-leadership-challenge/105435280"
+    },
+    {
       "published_datetime": "2026-01-28T02:00:58.000000Z",
       "title": "Tony Abbott intervenes in Liberal leadership battle",
       "featured_image": {
@@ -112,15 +130,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-27T23:58:25.000000Z",
-      "title": "Live: Jessica Pegula storms into semis with straight sets win over compatriot",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9393c57708e4cb14655980ee83baf54c?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Novak Djokovic and Jannik Sinner are among the big names in action on day 11 at the Australian Open as we fast approach the business end of the tournament. Follow the action in our live blog.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-28/australian-open-live-blog-day-11-%C5%9Bwi%C4%85tek-djokovic-sinner/106277086"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/286b1124-7ddc-49a5-b40d-a8ce87dadbf0",
       "published_datetime": "2026-01-27T22:13:35.738056",
       "title": "Ukraine-Russia war casualties near 2 million, CSIS study finds",
@@ -217,15 +226,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-28/ice-deported-man-charged-over-us-jewellery-heist/106270648"
     },
     {
-      "published_datetime": "2026-01-27T18:47:32.000000Z",
-      "title": "Health minister promises change after woman overdoses from stockpiled meds",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8abc92a93315e58595980afb90fb829b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The tragic death of a young Melbourne woman who was stockpiling medication has prompted the federal health minister to move to change the way prescriptions are recorded.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-28/national-medicines-register-in-honour-of-erin/106273618"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e2e67dcc-3265-4fbe-bdcd-f3fb8252cb4b",
       "published_datetime": "2026-01-27T18:35:45.810546",
       "title": "Study finds narrow ocean bands absorb 72% of seas' carbon",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-28T04:38:07.051338"
+  "merged_at": "2026-01-28T05:21:45.571899"
 }
