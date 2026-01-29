@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-29T16:35:35.000000Z",
+      "title": "'We can do better': Trump's tsar promises 'safer' Minnesota operation",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c9d577fc28e0376460ecde46edd2e681?impolicy=wcms_crop_resize&amp;cropH=2581&amp;cropW=4588&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Tom Homan says he is working on a plan to pull federal agents out of Minnesota as part of a major shift in strategy in the controversial local immigration crackdown.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-30/border-tsar-tom-homan-speaks-in-minneapolis-minnesota/106285350"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0900f67f-efe4-48e6-8adf-02b52ae87b03",
+      "published_datetime": "2026-01-29T16:08:19.989830",
+      "title": "Gold, silver, palladium retreat sharply as investors take profits",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/india/precious-metals-retreat-silver-dips-after-breaching-80ounce-2025-12-29/",
+        "name": "Precious metals drop amid profit taking; silver, platinum retreat from ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Rgh4Uc8i--/t_limit/https://www.reuters.com/resizer/v2/NTC6CLJUJVINBIZVPODMLDGVAU.jpg%3Fauth%3Db9b4d5481988eda4144420b19965daf3d15bd9357bcb89947ed78cfd26388828%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--heXPYayP--/t_thumbnail/https://www.reuters.com/resizer/v2/NTC6CLJUJVINBIZVPODMLDGVAU.jpg%3Fauth%3Db9b4d5481988eda4144420b19965daf3d15bd9357bcb89947ed78cfd26388828%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Gold, palladium, and silver retreated sharply on Thursday as investors locked in profits following a historic rally that pushed precious metals to record highs. The selloff came a day after the Federal Reserve held interest rates steady and as traders reassessed positions after weeks of gains.\n\nSpot gold fell as much as 4% during Thursday's trading to around $5,150 per ounce, pulling back from record highs above $5,500 reached earlier in the week. Palladium tumbled 5% to approximately $1,969 per ounce, while silver dropped more than 5% to around $110 per ounce after briefly touching $120 earlier in the session.[1][2][3]",
+      "audio_url": "",
+      "url": "gold-and-palladium-prices-plun-4Br4rpDrST2aGEybNaE1sw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/715270a3-948c-4ddb-95ea-15bea923940c",
+      "published_datetime": "2026-01-29T16:02:19.684106",
+      "title": "Google dismantles massive Chinese cyber network linked to malware",
+      "featured_image": {
+        "url": "https://www.gettyimages.com/detail/news-photo/january-2026-bavaria-munich-the-google-logo-and-lettering-news-photo/2258008476",
+        "name": "Munich branch of Google",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1769701756/getty_uploads/2258008476_idc1bo.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1769701756/getty_uploads/2258008476_idc1bo.jpg"
+      },
+      "description": "Google used a federal court order on Wednesday to dismantle what it describes as one of the largest residential proxy networks in the world, seizing dozens of domains belonging to the Chinese firm IPIDEA and cutting millions of devices from its infrastructure.[1][2][3]\n\nThe coordinated action, led by Google's Threat Intelligence Group, targeted a network that cybersecurity researchers say covertly installed malicious software on smartphones, computers, and Android devices worldwide. The operation is expected to disconnect more than nine million Android devices from IPIDEA's network.[4]",
+      "audio_url": "",
+      "url": "google-takes-down-chinese-cybe-CK17i_l6Qa6ZA4mP15crSA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/56c2a0dd-ef19-4380-aed9-7c97a5ebccd1",
+      "published_datetime": "2026-01-29T15:41:20.696957",
+      "title": "Scientists detect dark matter clump near the Sun for the first time",
+      "featured_image": {
+        "url": "https://www.newscientist.com/article/2105275-dark-matter-clumps-may-have-punched-through-star-stream/",
+        "name": "Dark matter clumps may have punched through star stream ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--oBuwzhmU--/t_limit/https://images.newscientist.com/wp-content/uploads/2016/09/08151826/dark_matter_galaxy_pr_final.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Hj_sKMEu--/t_thumbnail/https://images.newscientist.com/wp-content/uploads/2016/09/08151826/dark_matter_galaxy_pr_final.jpg"
+      },
+      "description": "New observational evidence is reshaping scientists' understanding of two of the universe's greatest enigmas: the origins of supermassive black holes and the hidden distribution of dark matter in our galaxy. Both breakthroughs rely on innovative techniques to detect objects that cannot be seen directly.\n\nIn a paper published January 29 in Physical Review Letters, astronomers led by Sukanya Chakrabarti at the University of Alabama in Huntsville report finding a massive dark matter clump lurking in the galactic neighborhood of the Sun. The suspected subhalo has a mass roughly 10 million times that of the Sun and is located about 3,260 light-years away.[1]",
+      "audio_url": "",
+      "url": "james-webb-telescope-uncovers-BdtaBO1lQbuKCx32izRjyQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6b50c183-fa85-48fd-ba24-76b4e6f2d2ae",
       "published_datetime": "2026-01-29T15:35:52.317007",
       "title": "Study finds microplastics in one third of fish off Pacific islands",
@@ -115,51 +169,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2c1262d7-3c4e-49be-8cb4-2b7e3660b23e",
-      "published_datetime": "2026-01-29T11:17:43.953892",
-      "title": "Hyundai Q4 profit drops 40% as US tariffs cost $2.87B",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/asia-pacific/trump-says-he-is-raising-tariffs-certain-south-korean-imports-25-2026-01-26/",
-        "name": "Trump says he is raising tariffs on certain South Korean imports to 25%",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--P1wt3-lJ--/t_limit/https://www.reuters.com/resizer/v2/4DZJ5FHR6ZIGXNUGXACCKTXK24.jpg%3Fauth%3Da1f67ef66144ea8890982ba5dc72152122baf4a849a061ad5eeffc0049faab9c%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--pYfcqfIU--/t_thumbnail/https://www.reuters.com/resizer/v2/4DZJ5FHR6ZIGXNUGXACCKTXK24.jpg%3Fauth%3Da1f67ef66144ea8890982ba5dc72152122baf4a849a061ad5eeffc0049faab9c%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Hyundai Motor reported a worse-than-expected 40 percent fall in fourth-quarter operating profit on Thursday, as U.S. tariffs cost the South Korean automaker an estimated 4.1 trillion won ($2.87 billion) last year. The company warned of continued challenges in 2026 but forecast improved sales and profit margins despite looming threats of higher levies from Washington.\n\nThe October-December results mark the third consecutive quarterly profit decline for the world's third-largest automaking group by sales. Hyundai booked operating profit of 1.7 trillion won ($1.19 billion) for the quarter, down from 2.8 trillion won in the same period a year earlier, missing the 2.7 trillion won consensus estimate from analysts surveyed by LSEG.[1][2][3]",
-      "audio_url": "",
-      "url": "hyundai-q4-profit-drops-40-per-lfpf5guuTTioXQp6S96F7g",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c268bb57-4722-400c-bc4b-cd788f832a39",
-      "published_datetime": "2026-01-29T11:15:48.867076",
-      "title": "Copper hits record high as speculation and weak dollar drive rally",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/news/china-metals-mania-sends-copper-082243851.html",
-        "name": "China's Metals Mania Sends Copper Rocketing Past $14,000 a Ton",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--o_QeZmHE--/t_limit/https://s.yimg.com/ny/api/res/1.2/qHMzUBfWaiu5XWhoBuyGfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/5ab527b5ba79f84b09e3aaeaff194d6a",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ktkk6ADB--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/qHMzUBfWaiu5XWhoBuyGfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/5ab527b5ba79f84b09e3aaeaff194d6a"
-      },
-      "description": "Copper surged past $14,000 per metric ton on Thursday, posting its largest single-day gain in over 16 years as a wave of speculative trading in China and a persistently weak U.S. dollar fueled a broader rally across global metals markets.\n\nFutures on the London Metal Exchange rose as much as 7.9% to reach a record $14,125 per ton before pulling back slightly in early European trading. The most-active contract on the Shanghai Futures Exchange jumped 6.35% to 108,740 yuan ($15,652) per metric ton, also setting an all-time high.[1][2][3][4]",
-      "audio_url": "",
-      "url": "copper-prices-hit-record-highs-DGOKFQesRTWBoT7iHnyeHQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e4b79a85-b838-4ba4-8d16-5d9a79028cf2",
-      "published_datetime": "2026-01-29T10:33:17.804436",
-      "title": "SAP shares tumble after cloud backlog growth misses expectations",
-      "featured_image": {
-        "url": "https://www.bloomberg.com/news/articles/2026-01-29/sap-forecasts-cloud-revenue-to-grow-in-2026-as-customers-switch",
-        "name": "SAP Plunges as Cloud Backlog Miss Sparks AI Competition ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_Gc_5FHE--/t_limit/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAjAj3jDg9p0/v0/-1x-1.webp",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--oKlGyWNN--/t_thumbnail/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAjAj3jDg9p0/v0/-1x-1.webp"
-      },
-      "description": "SAP SE, Europe's largest software company, suffered its steepest single-day drop since October 2020 on Thursday after reporting cloud contract backlog growth that fell short of investor expectations, extending a selloff that has erased approximately $150 billion from its market capitalization since its 2025 peak.\n\nShares of the German enterprise software giant fell as much as 14% in early European trading before settling around an 11% decline, hitting their lowest level since June 2024. The selloff came despite strong full-year operating profit and record free cash flow, underscoring how closely investors are scrutinizing cloud metrics amid growing concerns about AI disruption in the software sector.[1][2]",
-      "audio_url": "",
-      "url": "sap-shares-plunge-11-percent-a-_9in.bjsStqUWHZBrKMJ9w",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-29T08:43:45.000000Z",
       "title": "'Never seen magnitude' of foreign vessels in Far North Queensland, locals say",
       "featured_image": {
@@ -221,15 +230,6 @@
       },
       "description": "Until this week, the Trump administration had provided few details about how involved it would be in Venezuela's governance. New information suggests it will look to hold the purse strings for some time.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-29/trump-venezuela-oil-revenue-plan/106282226"
-    },
-    {
-      "published_datetime": "2026-01-28T22:29:12.000000Z",
-      "title": "Which US forces have been sent to the Middle East, and what does their arrival mean?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aafe3013308fa7ab49c6ad151717e072?impolicy=wcms_crop_resize&amp;cropH=2251&amp;cropW=4001&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
-      },
-      "description": "A US aircraft carrier, supporting warships, fighter jets and air-defence systems have arrived in the Middle East, as the world waits to see to what action \u2014 if any \u2014 Donald Trump will take against Iran.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-29/iran-us-navy-strike-group-donald-trump-middle-east/106276852"
     },
     {
       "published_datetime": "2026-01-28T18:22:56.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-29T16:32:55.044979"
+  "merged_at": "2026-01-29T17:30:50.714830"
 }
