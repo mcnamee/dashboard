@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e4b79a85-b838-4ba4-8d16-5d9a79028cf2",
+      "published_datetime": "2026-01-29T10:33:17.804436",
+      "title": "SAP shares tumble after cloud backlog growth misses expectations",
+      "featured_image": {
+        "url": "https://www.bloomberg.com/news/articles/2026-01-29/sap-forecasts-cloud-revenue-to-grow-in-2026-as-customers-switch",
+        "name": "SAP Plunges as Cloud Backlog Miss Sparks AI Competition ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_Gc_5FHE--/t_limit/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAjAj3jDg9p0/v0/-1x-1.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--oKlGyWNN--/t_thumbnail/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAjAj3jDg9p0/v0/-1x-1.webp"
+      },
+      "description": "SAP SE, Europe's largest software company, suffered its steepest single-day drop since October 2020 on Thursday after reporting cloud contract backlog growth that fell short of investor expectations, extending a selloff that has erased approximately $150 billion from its market capitalization since its 2025 peak.\n\nShares of the German enterprise software giant fell as much as 14% in early European trading before settling around an 11% decline, hitting their lowest level since June 2024. The selloff came despite strong full-year operating profit and record free cash flow, underscoring how closely investors are scrutinizing cloud metrics amid growing concerns about AI disruption in the software sector.[1][2]",
+      "audio_url": "",
+      "url": "sap-shares-plunge-11-percent-a-_9in.bjsStqUWHZBrKMJ9w",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-29T08:43:45.000000Z",
       "title": "'Never seen magnitude' of foreign vessels in Far North Queensland, locals say",
       "featured_image": {
@@ -163,21 +178,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b4de0e5a-a056-4565-b500-1f17c0cad237",
-      "published_datetime": "2026-01-29T05:22:53.455253",
-      "title": "Climate change made southern Africa flooding 40% worse, study finds",
-      "featured_image": {
-        "url": "https://amp.dw.com/en/flooding-hammers-mozambique-southern-african-neighbors/a-75673858",
-        "name": "Flooding hammers Mozambique, southern African neighbors",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ASkN0-Qn--/t_limit/https://static.dw.com/image/75575128_605.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--1NlbKtP3--/t_thumbnail/https://static.dw.com/image/75575128_605.jpg"
-      },
-      "description": "A rapid new scientific assessment has linked deadly flooding across southern Africa to human-caused warming and shifting climate patterns, as large parts of the continent lurch between extremes\u2014deluges in the south and intensifying dryness across the Horn of Africa.\n\nIn a report released Thursday, the World Weather Attribution (WWA) initiative said the kind of extreme multi-day rainfall that fuelled recent floods in Mozambique, South Africa, Zimbabwe and Eswatini has become about 40% more intense since pre-industrial times, based on observational datasets. The study also found that the current weak La Ni\u00f1a made such extreme rainfall spells around five times more likely and boosted their intensity by about 22%\u2014a compounding effect layered on top of long-term warming.[1][2][3]",
-      "audio_url": "",
-      "url": "climate-change-intensifies-ext-DIEPJthNRNugGfjDrMN96A",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-29T05:16:32.000000Z",
       "title": "Hastie and Taylor fail to agree on plan to oust Ley despite clandestine meeting",
       "featured_image": {
@@ -215,7 +215,7 @@
     },
     {
       "published_datetime": "2026-01-29T01:57:07.000000Z",
-      "title": "Live: Sabalenka roars past Svitolina into fourth straight Australian Open final",
+      "title": "Live: Tears of pride for Aryna Sabalenka as she makes Australian Open history",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fd01ec805d73ba01c15f163979412db5?impolicy=wcms_crop_resize&amp;cropH=1781&amp;cropW=3167&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-29T10:28:15.582134"
+  "merged_at": "2026-01-29T11:24:58.125216"
 }
