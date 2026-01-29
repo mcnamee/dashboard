@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-29T06:19:02.000000Z",
+      "title": "China executes online scam ringleaders from Myanmar",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/147edaf0fca7837b4ec8c4d0b92b0d92?impolicy=wcms_crop_resize&amp;cropH=776&amp;cropW=1380&amp;xPos=0&amp;yPos=226&amp;width=862&amp;height=485"
+      },
+      "description": "China executes 11 people linked to Myanmar criminal gangs, including \"key members\" involved in online scam operations.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-29/china-executes-online-scam-ring-leaders-from-myanmar/106284248"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e1feceec-7a5f-4c54-8c94-738ef97c9aec",
       "published_datetime": "2026-01-29T06:09:56.143924",
       "title": "Chinese researchers report perovskite solar efficiency record",
@@ -44,6 +53,15 @@
       "audio_url": "",
       "url": "physicists-question-whether-ti-KmFzvPmPTsKznw5NtcFpew",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-01-29T05:51:33.000000Z",
+      "title": "Grape sunscreen and chicken sprinklers help farmers beat the heat",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c6e787e4883803483513025abf0c9a07?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=191&amp;width=862&amp;height=485"
+      },
+      "description": "How farmers make sure their livestock \u2014 and produce \u2014 stay safe during a heatwave.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-29/farming-through-a-heatwave-how-farmers-stay-cool/106281292"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/23abe8c8-ea80-471a-a4ee-598a0d11809d",
@@ -205,22 +223,13 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-29T01:13:38.000000Z",
-      "title": "First Nations leaders welcome Invasion Day rally terror probe",
+      "published_datetime": "2026-01-28T22:32:51.000000Z",
+      "title": "Why the same towns keep breaking Australia's heat records",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a81be56d1520a4d4f7ed60a1067f4b36?impolicy=wcms_crop_resize&amp;cropH=1447&amp;cropW=2573&amp;xPos=0&amp;yPos=136&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c4021f47ddaa78d03532e7f843ecaaa8?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "First Nations leaders say WA Police's investigation of Monday's alleged Invasion Day rally attack as \"a potential terrorist attack\" is a step in the right direction.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-29/first-nations-leaders-welcome-perth-invasion-day-terror-probe/106281330"
-    },
-    {
-      "published_datetime": "2026-01-28T21:20:16.000000Z",
-      "title": "Live: More than 30,000 livestock killed in Victorian bushfires",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f5f5ff5e694861413473d1b24b80412?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "NSW is on high alert for bushfires as temperatures above 40 degrees Celsius persist and firefighters continue to battle multiple blazes across Victoria.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-29/heatwave-south-east-australia-nsw-victoria-bushfire-weather/106279598"
+      "description": "Temperature records have fallen across Australia this week, but why is it always the same towns hitting these extremes?",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-29/hot-weather-record-temperatures-regional-victoria-mallee-renmark/106277472"
     },
     {
       "published_datetime": "2026-01-28T18:22:56.000000Z",
@@ -230,15 +239,6 @@
       },
       "description": "Police say forensic testing will be done to determine the identity of the remains, as officers prepare for a further search along a section of the Arthur River.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-29/police-press-conference-potential-celine-cremer-remains/106279906"
-    },
-    {
-      "published_datetime": "2026-01-28T14:07:39.000000Z",
-      "title": "Trump threatens Iran with 'major destruction' as US fleet arrives in Gulf",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aa78e2fbbdc5cb4217d42ed210bdf3f2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
-      },
-      "description": "The US president says Tehran should make a deal or face military strikes as tensions between the two countries escalate.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-29/us-donald-trump-threatens-iran-with-major-destruction/106280948"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-29T06:58:20.937870"
+  "merged_at": "2026-01-29T07:34:54.121985"
 }
