@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-29T22:11:20.000000Z",
+      "title": "Body of 16-year-old bushwalker found in Blue Mountains creek",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6c475ffbd322cdcbeb7f3ec83cdc81a5?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
+      },
+      "description": "Police say the teen and his 17-year-old friend became separated after setting out on a three-day hike.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-30/teen-bushwalker-found-dead-in-blue-mountains/106285992"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3d22a604-03fd-40f2-b750-8784425a0e66",
+      "published_datetime": "2026-01-29T21:14:13.127901",
+      "title": "Nvidia, Microsoft and Amazon in talks to invest $60B in OpenAI",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/01/21/openai-seek-investments-from-middle-east-for-multibillion-dollar-round.html",
+        "name": "OpenAI seek investments from Middle East for multibillion-dollar round",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_facFkpi--/t_limit/https://image.cnbcfm.com/api/v1/image/108202500-17585857512025-02-07t115613z_865237367_rc2npcauossb_rtrmadp_0_openai-germany.jpeg%3Fv%3D1758585772%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--vhcgTPfw--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108202500-17585857512025-02-07t115613z_865237367_rc2npcauossb_rtrmadp_0_openai-germany.jpeg%3Fv%3D1758585772%26w%3D1920%26h%3D1080"
+      },
+      "description": "Nvidia, Microsoft and Amazon are in discussions to invest up to $60 billion in OpenAI, according to a report by The Information published Wednesday. The talks, if they lead to a deal, would be one of the largest private financings ever for an AI company and would further entangle the world\u2019s biggest technology suppliers in the scramble for computing power and market share in generative AI.[1][2][3]\n\nThe negotiations are ongoing and terms could change, and Reuters said it could not immediately verify The Information\u2019s reporting. Still, the report fits a widening fundraising push around OpenAI that has drawn in major strategic backers and deep pools of global capital.[3][1]",
+      "audio_url": "",
+      "url": "tech-giants-in-talks-to-invest-5daBeu84Q9mqlyhbqHDyww",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/babc6445-164e-4491-b375-f53b89235e50",
       "published_datetime": "2026-01-29T20:37:29.804626",
       "title": "Cuba's oil reserves down to 15-20 days as U.S. pressure mounts",
@@ -137,21 +161,12 @@
     },
     {
       "published_datetime": "2026-01-29T18:56:43.000000Z",
-      "title": "Two aspirants who are unlikely to suit the times vie for the Liberal leadership",
+      "title": "Two aspirants unlikely to suit the times vie for Liberal leadership",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bde548c50d9532a5b935e67749c4fed1?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
       },
-      "description": "Hastie and Taylor each wants to run against Ley. But the two right-wingers can't afford to split the conservative vote on which their tilts would rely.",
+      "description": "Andrew Hastie and Angus Taylor both want to run against Sussan Ley. But the two right-wingers cannot afford to split the conservative vote on which their tilts would rely.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-30/coalition-leadership-angus-taylor-andrew-hastie-sussan-ley/106252048"
-    },
-    {
-      "published_datetime": "2026-01-29T18:53:52.000000Z",
-      "title": "Singapore without an opposition leader after PM deposes him",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/13fdb8fd2655dd1d83b446d675447bb7?impolicy=wcms_crop_resize&amp;cropH=1418&amp;cropW=2521&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Even for a de facto one-party state, the ruling People's Action Party's decision to dictate who runs Singapore's opposition is remarkable.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-30/singapore-opposition-leader-pritam-singh-deposed-by-pm/106271192"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ff3678bb-9d1f-4356-8781-483cee00a33c",
@@ -226,21 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-30/border-tsar-tom-homan-speaks-in-minneapolis-minnesota/106285350"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0900f67f-efe4-48e6-8adf-02b52ae87b03",
-      "published_datetime": "2026-01-29T16:08:19.989830",
-      "title": "Gold, silver, palladium retreat sharply as investors take profits",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/india/precious-metals-retreat-silver-dips-after-breaching-80ounce-2025-12-29/",
-        "name": "Precious metals drop amid profit taking; silver, platinum retreat from ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Rgh4Uc8i--/t_limit/https://www.reuters.com/resizer/v2/NTC6CLJUJVINBIZVPODMLDGVAU.jpg%3Fauth%3Db9b4d5481988eda4144420b19965daf3d15bd9357bcb89947ed78cfd26388828%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--heXPYayP--/t_thumbnail/https://www.reuters.com/resizer/v2/NTC6CLJUJVINBIZVPODMLDGVAU.jpg%3Fauth%3Db9b4d5481988eda4144420b19965daf3d15bd9357bcb89947ed78cfd26388828%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Gold, palladium, and silver retreated sharply on Thursday as investors locked in profits following a historic rally that pushed precious metals to record highs. The selloff came a day after the Federal Reserve held interest rates steady and as traders reassessed positions after weeks of gains.\n\nSpot gold fell as much as 4% during Thursday's trading to around $5,150 per ounce, pulling back from record highs above $5,500 reached earlier in the week. Palladium tumbled 5% to approximately $1,969 per ounce, while silver dropped more than 5% to around $110 per ounce after briefly touching $120 earlier in the session.[1][2][3]",
-      "audio_url": "",
-      "url": "gold-and-palladium-prices-plun-4Br4rpDrST2aGEybNaE1sw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-29T22:19:10.008521"
+  "merged_at": "2026-01-29T23:18:48.928199"
 }
