@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-29T05:28:53.000000Z",
+      "title": "UN expert seeks to join challenge to NSW government's protest restrictions",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c4431f90d6d4f5553c7312dae12a07bd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "A United Nations expert is seeking to join a constitutional challenge to the NSW government's protest restrictions brought in after the Bondi terrorist attack.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-29/un-expert-seeks-to-join-challenge-nsw-govt-protest-restrictions/106283462"
+    },
+    {
       "published_datetime": "2026-01-29T05:16:32.000000Z",
       "title": "Hastie and Taylor fail to agree on plan to oust Ley despite clandestine meeting",
       "featured_image": {
@@ -20,7 +29,7 @@
     },
     {
       "published_datetime": "2026-01-29T04:31:50.000000Z",
-      "title": "CCTV footage shows triple murder suspect on day of shooting",
+      "title": "CCTV shows triple murder suspect at police station on day of shooting",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ff4736ea3b804c162e1fb7b1d857dcf4?impolicy=wcms_crop_resize&amp;cropH=815&amp;cropW=1449&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -214,15 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-28T19:25:51.000000Z",
-      "title": "Minnesota agents put on leave as Trump says mayor is 'playing with fire'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba4aa979b83886c9d817fc59cf500f58?impolicy=wcms_crop_resize&amp;cropH=589&amp;cropW=1047&amp;xPos=0&amp;yPos=16&amp;width=862&amp;height=485"
-      },
-      "description": "The Trump administration is trying to manage a national uproar over Alex Pretti's killing and officials' subsequent comments about the 37-year-old nurse, who they accused of \"domestic terrorism\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-29/brk-ice-officers-placed-on-leave/106281050"
-    },
-    {
       "published_datetime": "2026-01-28T18:22:56.000000Z",
       "title": "Line search of river planned for area where Celine Cremer went missing",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-29T05:37:11.693992"
+  "merged_at": "2026-01-29T06:36:04.632474"
 }
