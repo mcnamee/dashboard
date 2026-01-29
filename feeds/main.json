@@ -1,13 +1,52 @@
 {
   "items": [
     {
-      "published_datetime": "2026-01-29T06:19:02.000000Z",
-      "title": "China executes online scam ringleaders from Myanmar",
+      "published_datetime": "2026-01-29T07:52:39.000000Z",
+      "title": "Breaking: Bushfire emergency in north-east Perth puts lives and homes at risk",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/147edaf0fca7837b4ec8c4d0b92b0d92?impolicy=wcms_crop_resize&amp;cropH=776&amp;cropW=1380&amp;xPos=0&amp;yPos=226&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/338f4dedeb8d6ff280a3969c28ad728b?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "China executes 11 people linked to Myanmar criminal gangs, including \"key members\" involved in online scam operations.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-29/china-executes-online-scam-ring-leaders-from-myanmar/106284248"
+      "description": "A bushfire emergency has broken out in suburban Perth, with a quick-moving blaze putting dozens of homes and lives at risk.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-29/ellenbrook-bushfire-emergency-perth-north/106284734"
+    },
+    {
+      "published_datetime": "2026-01-29T07:50:32.000000Z",
+      "title": "K'gari backpacker's family to travel to Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/794574db2c8b9982ea1b31ef479956c2?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The heartbroken parents of Canadian backpacker Piper James will travel to Australia next week to visit K\u2019gari, the island where their beloved daughter lost her life.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-29/backpacker-piper-james-family-to-visit-australia/106283172"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7099c08b-3aba-4cf9-a25f-1d5166623630",
+      "published_datetime": "2026-01-29T07:16:21.744616",
+      "title": "Study finds water can survive near Earth's core in superionic state",
+      "featured_image": {
+        "url": "https://www.thebrighterside.news/post/superionic-form-of-water-may-power-planetary-magnetic-fields/",
+        "name": "Superionic form of water may power planetary magnetic fields ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--bDUkTaNB--/t_limit/https://www.thebrighterside.news/uploads/2026/01/water-3.webp%3Fformat%3Dauto%26optimize%3Dhigh%26width%3D1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--brTYmO1M--/t_thumbnail/https://www.thebrighterside.news/uploads/2026/01/water-3.webp%3Fformat%3Dauto%26optimize%3Dhigh%26width%3D1440"
+      },
+      "description": "New research published January 28 in Science Advances reveals that water can survive the extreme conditions of Earth's deep lower mantle by entering a superionic state, challenging the long-held assumption that most hydrous minerals release their water at high temperatures.\n\nScientists from the Institute of Geochemistry of the Chinese Academy of Sciences (IGCAS) used molecular dynamics simulations combining ab initio and deep-learning potential methods to study how water behaves near Earth's core-mantle boundary. The findings suggest that ancient water from Earth's early stages may have been preserved over geological timescales, accumulating as a long-term reservoir near the base of the mantle.[1][2][3]",
+      "audio_url": "",
+      "url": "superionic-state-enables-long-4HyRAmdWTZ.pRBFR49vX2g",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a16fc954-42e1-44ea-8253-2a497f91007f",
+      "published_datetime": "2026-01-29T06:45:11.276985",
+      "title": "James Webb confirms most distant galaxy ever observed",
+      "featured_image": {
+        "url": "https://www.engadget.com/science/space/astronomers-share-new-insights-about-the-early-universe-via-the-webb-space-telescope-213311848.html",
+        "name": "Astronomers share new insights about the early universe via the Webb Space Telescope",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--9h53IJ39--/t_limit/https://s.yimg.com/ny/api/res/1.2/VKw2siavwce_5UrGje.JbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01MDA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Webb_Telescope_MoM-z14.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--GHN11LoG--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/VKw2siavwce_5UrGje.JbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01MDA-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Webb_Telescope_MoM-z14.jpg"
+      },
+      "description": "NASA's James Webb Space Telescope has delivered two landmark discoveries this week, producing the most detailed map of dark matter ever created and confirming the most distant galaxy ever observed, offering new windows into the universe's invisible architecture and earliest moments.\n\nThe dark matter map, published January 26 in the journal Nature Astronomy, captures nearly 800,000 galaxies in the constellation Sextans and reveals the universe's hidden scaffolding with twice the resolution of any previous map. Just two days later, astronomers announced the confirmation of galaxy MoM-z14, which existed just 280 million years after the Big Bang\u2014making it the most distant known object in the universe.[1][2][3][4]",
+      "audio_url": "",
+      "url": "james-webb-telescope-maps-dark-wl.4RV2iSGGzE6_AsX8acw",
+      "partition_name": "partition1"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e1feceec-7a5f-4c54-8c94-738ef97c9aec",
@@ -53,15 +92,6 @@
       "audio_url": "",
       "url": "physicists-question-whether-ti-KmFzvPmPTsKznw5NtcFpew",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-29T05:51:33.000000Z",
-      "title": "Grape sunscreen and chicken sprinklers help farmers beat the heat",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c6e787e4883803483513025abf0c9a07?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=191&amp;width=862&amp;height=485"
-      },
-      "description": "How farmers make sure their livestock \u2014 and produce \u2014 stay safe during a heatwave.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-29/farming-through-a-heatwave-how-farmers-stay-cool/106281292"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/23abe8c8-ea80-471a-a4ee-598a0d11809d",
@@ -193,43 +223,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-29/trump-venezuela-oil-revenue-plan/106282226"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/76ad55b0-015a-41f8-a96e-df31bfa12923",
-      "published_datetime": "2026-01-29T01:37:01.321989",
-      "title": "Gold surges past $5,500 to record high on safe-haven demand",
+      "published_datetime": "2026-01-29T01:57:07.000000Z",
+      "title": "Live: Sabalenka and Svitolina set for another frosty clash in Aus Open semifinal",
       "featured_image": {
-        "url": "https://www.reuters.com/world/india/gold-has-more-room-run-geopolitics-cenbank-buying-fuel-gains-analysts-say-2026-01-26/",
-        "name": "Gold has more room to run as geopolitics, cenbank buying ... - Reuters",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--HkNRcEE9--/t_limit/https://www.reuters.com/resizer/v2/INGIB4VICZKTZJ7OYOZBJJO6VE.jpg%3Fauth%3D1275bd6aff3189a1763e176ed9782287daeb0ee17e0ea358a6eddfebac72b434%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--CvMcJuyz--/t_thumbnail/https://www.reuters.com/resizer/v2/INGIB4VICZKTZJ7OYOZBJJO6VE.jpg%3Fauth%3D1275bd6aff3189a1763e176ed9782287daeb0ee17e0ea358a6eddfebac72b434%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/36b187ae00dea3d5446d681fbbb3e701?impolicy=wcms_crop_resize&amp;cropH=2427&amp;cropW=4315&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
       },
-      "description": "Gold prices vaulted past $5,400 per ounce on Wednesday, extending an explosive rally that has seen the precious metal gain more than 25% since the start of the year, as investors sought refuge from mounting geopolitical risks and a weakening dollar ahead of the Federal Reserve's decision to hold interest rates steady.\n\nThe yellow metal climbed as much as 4% during the session, with spot gold reaching $5,393.19 an ounce and U.S. gold futures for February settling 4.3% higher at $5,303.60, according to Reuters. By early Thursday trading in Asia, gold had pushed above $5,500 per ounce, marking gains of more than $500 over four sessions since first breaking the $5,000 barrier on Monday.[1][2][3][4]",
-      "audio_url": "",
-      "url": "gold-surges-past-5400-dollars-m7Q8mjTQScqu3KzzUYdQ1Q",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fcf81353-72a0-4358-a358-33536ec7502b",
-      "published_datetime": "2026-01-29T01:14:40.746225",
-      "title": "Scientists detail plans to study asteroid's potential moon strike",
-      "featured_image": {
-        "url": "https://orbitaltoday.com/2025/04/10/asteroid-2024-yr4-may-strike-the-moon-in-2032-nasa-warns/",
-        "name": "Asteroid 2024 YR4 May Strike the Moon in 2032, NASA Warns ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--PEmVLSby--/t_limit/https://orbitaltoday.com/wp-content/uploads/2025/04/Asteroid-2024-YR4-Moon.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--1ypQcfBB--/t_thumbnail/https://orbitaltoday.com/wp-content/uploads/2025/04/Asteroid-2024-YR4-Moon.jpg"
-      },
-      "description": "A 60-meter-wide asteroid discovered just over a year ago carries a small but notable chance of striking the moon in late 2032, and researchers worldwide are preparing for what could be the most energetic lunar impact ever recorded in human history.\n\nAsteroid 2024 YR4, which was first detected on December 27, 2024, at the Asteroid Terrestrial-impact Last Alert System telescope in Chile, has approximately a 4% probability of colliding with the moon on December 22, 2032. While that means there is a 96% chance the asteroid will miss, scientists are treating the possibility as both a potential hazard and a rare scientific opportunity.[1][2]",
-      "audio_url": "",
-      "url": "scientists-prepare-for-potenti-cgj7dpFHSqi4hx9FUweWpA",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-28T22:32:51.000000Z",
-      "title": "Why the same towns keep breaking Australia's heat records",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c4021f47ddaa78d03532e7f843ecaaa8?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Temperature records have fallen across Australia this week, but why is it always the same towns hitting these extremes?",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-29/hot-weather-record-temperatures-regional-victoria-mallee-renmark/106277472"
+      "description": "Aryna Sabalenka face off with Elina Svitolina for a spot in the Australian Open final, with Svitolina set to continue her refusal to shake hands with Russian or Belarusian athletes. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-29/australian-open-day-12-live-blog-sabalenka-svitolina-rybakina/106282372"
     },
     {
       "published_datetime": "2026-01-28T18:22:56.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-29T07:34:54.121985"
+  "merged_at": "2026-01-29T08:29:06.797490"
 }
