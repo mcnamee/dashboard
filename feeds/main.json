@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-30T10:23:28.000000Z",
+      "title": "Police investigating 'allegations involving a child' at Alice Springs childcare",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6fcc60b8998a14c99621bdca5045737?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The centre operator says staff have been stood down as police investigate an allegation made by the family of a child enrolled at one of its services.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-30/nt-police-investigating-alleged-alice-springs-childcare-incident/106289702"
+    },
+    {
       "published_datetime": "2026-01-30T08:23:17.000000Z",
       "title": "50C record for Port Augusta ahead of cool change",
       "featured_image": {
@@ -17,15 +26,6 @@
       },
       "description": "Australian online gambling billionaire Laurence Escalante has appeared in a Perth court, accused of a slew of family violence, drugs and burglary offences.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-30/gambling-billionaire-laurence-escalante-family-violence-offences/106289792"
-    },
-    {
-      "published_datetime": "2026-01-30T07:17:07.000000Z",
-      "title": "Darwin Port deal 'true test' for Albanese as farmers fear more tariff pain",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7033f4e47c5b7006cb10ffac0bd1db23?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=36&amp;width=862&amp;height=485"
-      },
-      "description": "Industry groups that suffered three years of damaging Chinese trade tariffs on products including barley are appealing to the federal government to exercise careful diplomacy to defuse tensions with China over the ownership of Darwin Port.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-30/farmers-urge-careful-diplomacy-in-darwin-port-row-with-china/106288346"
     },
     {
       "published_datetime": "2026-01-30T07:02:43.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-30T10:24:52.069638"
+  "merged_at": "2026-01-30T11:22:19.224515"
 }
