@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-30T16:03:25.000000Z",
+      "title": "Breaking: Judge rules out death penalty for Mangione over healthcare CEO murder",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7059bc5ec1bd45217b791c53f6212a10?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "A judge in Manhattan has thrown out federal murder and weapons charges the 27-year-old had faced, saying they are not legally compatible with the other charges of stalking he faces.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-31/luigi-mangione-murder-weapons-charges-dropped/106290600"
+    },
+    {
       "published_datetime": "2026-01-30T13:48:34.000000Z",
       "title": "Former CNN anchor Don Lemon arrested on charges related to Minnesota protest",
       "featured_image": {
@@ -119,15 +128,6 @@
       "audio_url": "",
       "url": "trump-plans-talks-with-iran-am-TWVP2QJfSBuO0d299yRWvg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-30T03:02:49.000000Z",
-      "title": "The NDIS was set up to relieve families. For some, it now does the opposite",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/42800d829a62df81395bcc46cc8446ea?impolicy=wcms_crop_resize&amp;cropH=1723&amp;cropW=3064&amp;xPos=0&amp;yPos=64&amp;width=862&amp;height=485"
-      },
-      "description": "Families frayed by NDIS cuts are bracing for even more change ahead of a year that is set to reshape the scheme into something more sustainable, write Nas Campanella and Evan Young.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-30/families-frayed-by-ndis-cuts-brace-for-more-change-in-2026/106269362"
     },
     {
       "published_datetime": "2026-01-30T02:33:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-30T15:26:21.003078"
+  "merged_at": "2026-01-30T16:28:52.814290"
 }
