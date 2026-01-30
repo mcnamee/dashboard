@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-30T18:00:00.000000Z",
+      "title": "Trump's foreign policy bluffs undermine each other",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/46abfe656532b82acf72b160ec038454?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=57&amp;width=862&amp;height=485"
+      },
+      "description": "As the US president faces domestic consequences for his violent immigration crackdown, his geopolitical bluffs across the world also come at a price.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-31/donald-trump-iran-nuclear-foreign-policy-greeland-tariffs/106288164"
+    },
+    {
+      "published_datetime": "2026-01-30T18:00:00.000000Z",
+      "title": "Phones to run hot all weekend as Ley's opponents near point of no return",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fdbfed53370be24cc2147aa0a65a173e?impolicy=wcms_crop_resize&amp;cropH=3780&amp;cropW=6720&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "One Liberal source told the ABC a challenge to Sussan Ley's leadership is now a \"matter of when, not if\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-31/andrew-hastie-sussan-ley-angus-taylor-leadership/106288160"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/34b88892-217c-4599-b018-c807468c6cf0",
       "published_datetime": "2026-01-30T17:50:04.493089",
       "title": "Trump deploys massive US naval force as Iran nuclear deadline nears",
@@ -32,7 +50,7 @@
     },
     {
       "published_datetime": "2026-01-30T16:48:38.000000Z",
-      "title": "Breaking: Millions more 'Epstein files' released by US government",
+      "title": "Millions more 'Epstein files' released by US government",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9c76037bfb42191521634b808e1834c1?impolicy=wcms_crop_resize&amp;cropH=1119&amp;cropW=1990&amp;xPos=0&amp;yPos=174&amp;width=862&amp;height=485"
       },
@@ -196,15 +214,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-30/gambling-billionaire-laurence-escalante-family-violence-offences/106289792"
     },
     {
-      "published_datetime": "2026-01-30T05:21:08.000000Z",
-      "title": "Hastie rules out challenge to Sussan Ley",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fdbfed53370be24cc2147aa0a65a173e?impolicy=wcms_crop_resize&amp;cropH=3780&amp;cropW=6720&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The West Australian backbencher had made no secret of his desire to lead the Liberal Party but says he will not run against Sussan Ley next week, a move which could pave the way for Angus Taylor.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-30/hastie-rules-out-challenge-to-sussan-ley/106287872"
-    },
-    {
       "published_datetime": "2026-01-30T02:33:00.000000Z",
       "title": "'Devastating tragedy': Perth family dead in suspected murder-suicide",
       "featured_image": {
@@ -212,15 +221,6 @@
       },
       "description": "WA Police are investigating a suspected murder-suicide in suburban Perth after finding two teenage boys and two adults dead in a home in Mosman Park.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-30/mosman-park-murder-suicide-four-people-dead/106287630"
-    },
-    {
-      "published_datetime": "2026-01-30T01:49:16.000000Z",
-      "title": "Last-ditch deal sees government give states extra $25b in hospital funding",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba3130f6dc637f098433b2a76c5efa07?impolicy=wcms_crop_resize&amp;cropH=2436&amp;cropW=4330&amp;xPos=0&amp;yPos=100&amp;width=862&amp;height=485"
-      },
-      "description": "Prime Minister Anthony Albanese has bowed to mounting pressure from the states, promising an extra $25 billion for public hospitals.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-30/albanese-government-deal-hospital-funding-states-territories/106282208"
     },
     {
       "published_datetime": "2026-01-30T01:19:50.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-30T18:54:30.174173"
+  "merged_at": "2026-01-30T19:26:24.113510"
 }
