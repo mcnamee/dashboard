@@ -1,10 +1,46 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-30T00:55:55.000000Z",
+      "title": "Breaking: Ley issues ultimatum to Littleproud, as she announces temporary shadow ministry",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3040b517df71ae306c8b26f1cd4d8875?impolicy=wcms_crop_resize&amp;cropH=1510&amp;cropW=2684&amp;xPos=0&amp;yPos=140&amp;width=862&amp;height=485"
+      },
+      "description": "The under-fire Liberal leader has given seven existing frontbenchers carriage of the portfolios vacated by Nationals, with a threat to leader David Littleproud the arrangements could be made permanent.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-30/sussan-ley-announces-acting-shadow-ministers/106287014"
+    },
+    {
+      "published_datetime": "2026-01-30T00:46:06.000000Z",
+      "title": "Australia taking Nipah virus seriously but no changes to border control",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2b4046b6720e8165b3845de8146639d8?impolicy=wcms_crop_resize&amp;cropH=1395&amp;cropW=2480&amp;xPos=0&amp;yPos=464&amp;width=862&amp;height=485"
+      },
+      "description": "The federal government is closely monitoring an outbreak of Nipah virus in India but has not received any advice to tighten border controls at this stage.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-30/nipah-virus-no-border-control-changes-australia/106286138"
+    },
+    {
+      "published_datetime": "2026-01-30T00:39:44.000000Z",
+      "title": "Live: Gadecki and Peers' in mixed doubles final before Alcaraz, Zverev kick off men's semis",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0ed3f2100e7432a0e9c74ece4f4cf02e?impolicy=wcms_crop_resize&amp;cropH=2097&amp;cropW=3728&amp;xPos=0&amp;yPos=194&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's Olivia Gadecki and John Peers try for a second straight mixed doubles final win on day 13 at the Australian Open, before the men's semifinals begin with Carlos Alcaraz and Alexander Zverev. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-30/australian-open-day-13-live-blog-alcaraz-zverev-djokovic/106286224"
+    },
+    {
+      "published_datetime": "2026-01-30T00:11:56.000000Z",
+      "title": "The armed groups that may risk the US 'recovery' plan to control Venezuela",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/09ca651ba34062393878fe09bd3d68a1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
+      },
+      "description": "The US plan to \"recover\" Venezuela could spark a domestic backlash in a country that is already heavily divided among various armed groups that have political interests.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-30/venezuelan-armed-groups-could-challenge-us-recovery-plan/106207132"
+    },
+    {
       "published_datetime": "2026-01-29T22:11:20.000000Z",
       "title": "Body of 16-year-old bushwalker found in Blue Mountains creek",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6c475ffbd322cdcbeb7f3ec83cdc81a5?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aee8e8c5dbee2669b1cd652250ee3b5d?impolicy=wcms_crop_resize&amp;cropH=2404&amp;cropW=4274&amp;xPos=245&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Police say the teen and his 17-year-old friend became separated after setting out on a three-day hike.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-30/teen-bushwalker-found-dead-in-blue-mountains/106285992"
@@ -40,15 +76,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-01-29T20:35:31.000000Z",
-      "title": "'It's going to damage a lot of people': Former AIS athletes demand Channel 9 pull documentary",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9c7455e987ea13cae9389a5fcce633b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Former AIS athletes who claim they were physically and psychologically abused while living at the AIS have urged Channel Nine to shutter a documentary about the history of the institute.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-30/ais-documentary-channel-nine-abuse-allegations-canberra/106279640"
-    },
-    {
       "published_datetime": "2026-01-29T20:24:42.000000Z",
       "title": "Trump threatens fresh tariffs on 10 countries in almost as many days",
       "featured_image": {
@@ -59,21 +86,12 @@
     },
     {
       "published_datetime": "2026-01-29T20:07:06.000000Z",
-      "title": "Live: National cabinet to thrash out hospital funding; Aus 'monitoring' Nipah virus",
+      "title": "Live: PM and premiers to discuss hospital funding following national cabinet meeting",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/285aeb240a15af1e953af00a98e03210?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=336&amp;width=862&amp;height=485"
       },
-      "description": "Health Minister Mark Butler says the start date for the Thriving Kids program has been delayed because states and territories have asked for more time to introduce the program. Follow live.",
+      "description": "Anthony Albanese and state premiers will address the media after a national cabinet meeting to discuss hospital funding. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-01-30/federal-politics-live/106282604"
-    },
-    {
-      "published_datetime": "2026-01-29T20:04:44.000000Z",
-      "title": "Five quick hits: A finalist's flashback and an abnormal sound",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/55a201ec90bf2e42b6853f7f1e3b0156?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Aryna Sabalenka's abnormal sound is punished, an Aussie has a mid-match coffee break and a women's finalist has an unsettling flashback. Here are the quick hits from day 12 at the Australian Open.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-30/australian-open-day-12-quick-hits-aryna-sabalenka/106284124"
     },
     {
       "published_datetime": "2026-01-29T19:57:31.000000Z",
@@ -193,15 +211,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-30/gps-in-e-waste-from-australia-reveal-exports-to-south-east-asia/106196324"
     },
     {
-      "published_datetime": "2026-01-29T18:50:11.000000Z",
-      "title": "A rate hike on Tuesday will be a 'bitter pill' for middle Australia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/de9e055a0e2221b7da8e2eed5dee0194?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=1163&amp;width=862&amp;height=485"
-      },
-      "description": "Consumer advocates fear a rate hike when the RBA board meets next week could be the \"straw that breaks the camel's back\" for borrowers in mortgage stress.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-30/interest-rate-hike-to-hurt-amid-cost-of-living-crisis-fca-says/106282550"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/91954ced-7c0f-46b7-a6d8-8308fc3cbc50",
       "published_datetime": "2026-01-29T17:38:24.991307",
       "title": "EU approves new Iran sanctions, moves to designate IRGC as terrorist group",
@@ -230,15 +239,6 @@
       "audio_url": "",
       "url": "trump-announces-reopening-of-v-TtOLAWJ5R7arsuyMQGlfUA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-29T16:35:35.000000Z",
-      "title": "'We can do better': Trump's tsar promises 'safer' Minnesota operation",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c9d577fc28e0376460ecde46edd2e681?impolicy=wcms_crop_resize&amp;cropH=2581&amp;cropW=4588&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Tom Homan says he is working on a plan to pull federal agents out of Minnesota as part of a major strategy shift \u2014 but it might not be enough to prevent another US government shutdown",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-30/border-tsar-tom-homan-speaks-in-minneapolis-minnesota/106285350"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-29T23:18:48.928199"
+  "merged_at": "2026-01-30T01:13:11.340149"
 }
