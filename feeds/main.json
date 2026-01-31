@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-31T06:13:46.000000Z",
+      "title": "Rudd says he declined Epstein invitation after latest document dump",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3f46f6884545d308d76a294cc11abde6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=195&amp;width=862&amp;height=485"
+      },
+      "description": "The newly released Epstein documents show the New York sex offender sought a wide-ranging network of political and financial contacts, including former Australian prime minister Kevin Rudd.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-31/kevin-rudd-refred-to-in-latest-epstein-files-dump/106290858"
+    },
+    {
+      "published_datetime": "2026-01-31T05:26:29.000000Z",
+      "title": "Dutch champ dedicates 'emotional' Australian Open win to late coach",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/03067848edd11fa6897d2cfb98189d07?impolicy=wcms_crop_resize&amp;cropH=2396&amp;cropW=4260&amp;xPos=0&amp;yPos=262&amp;width=862&amp;height=485"
+      },
+      "description": "Paying tribute to his long-time mentor, Niels Vink claims the Australian Open quad wheelchair singles title for the first time.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-31/australian-open-niels-vink-wins-quad-wheelchair-final/106291488"
+    },
+    {
       "published_datetime": "2026-01-31T04:11:59.000000Z",
       "title": "Police continue to probe Perth family's 'heartbreaking' murder-suicide",
       "featured_image": {
@@ -35,15 +53,6 @@
       },
       "description": "Claims that seed oils are \"toxic\" and \"inflammatory\" are being circulated on social media, but they don't tell the whole story, experts say.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/health/2026-01-31/are-seed-oils-bad-for-you/106118596"
-    },
-    {
-      "published_datetime": "2026-01-31T02:34:15.000000Z",
-      "title": "Why has Asia's largest Muslim nation joined Trump's Board of Peace?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aa0ca77cc0fd6ac55256a9e73d7e08aa?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
-      },
-      "description": "Analysts say Asian countries such as Indonesia and Vietnam have signalled support for US President Donald Trump's new Board of Peace, not because they expect changes in Gaza, but to gain access to US trade.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-31/asian-powers-join-trump-board-of-peace/106277784"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7c2d02dd-b13b-4aa7-9849-e85bbfd5c2a2",
@@ -214,15 +223,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-01-31/melania-trump-movie-and-why-we-might-need-to-follow-the-money/106285248"
     },
     {
-      "published_datetime": "2026-01-30T18:23:00.000000Z",
-      "title": "Live: Epstein survivors say latest set of files exposes victims, not abusers",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f13454ddf3beac44da3e3289b6513b3?impolicy=wcms_crop_resize&amp;cropH=2694&amp;cropW=4790&amp;xPos=0&amp;yPos=232&amp;width=862&amp;height=485"
-      },
-      "description": "More than 2,000 videos and 180,000 images have been released as part of the batch, which comes weeks after a legally mandated deadline signed by Donald Trump. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-31/three-million-jeffrey-epstein-files-released-by-us-doj-live-blog/106290612"
-    },
-    {
       "published_datetime": "2026-01-30T18:00:00.000000Z",
       "title": "An anxious world awaits as Trump's perpetual bluffs come at a political price",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-31T05:01:17.946819"
+  "merged_at": "2026-01-31T06:27:54.438592"
 }
