@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-31T14:29:56.000000Z",
+      "title": "Separatists kill 21 including civilians in multiple attacks in Pakistan",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a873b9ccadbf6807d4be8147ab33faf2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Separatists from Pakistan's Balochistan province claimed responsibility for nearly a dozen coordinated attacks across southern Pakistan.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-01/separatists-multiple-attacks-pakistan/106291824"
+    },
+    {
       "published_datetime": "2026-01-31T12:08:59.000000Z",
       "title": "Strikes in Gaza kill at least 27 in one of deadliest days since ceasefire",
       "featured_image": {
@@ -62,15 +71,6 @@
       "audio_url": "",
       "url": "nasa-confirms-3iatlas-detected-Zjzz_esXQHWkNo9o9WXKZQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-31T07:56:31.000000Z",
-      "title": "Cummins ruled out of T20 World Cup as Smith snubbed despite stellar form",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3a0ebdfa893f00005e9165b64082c542?impolicy=wcms_crop_resize&amp;cropH=1761&amp;cropW=3130&amp;xPos=0&amp;yPos=163&amp;width=862&amp;height=485"
-      },
-      "description": "Pat Cummins will miss the T20 World Cup after failing to recover from his back injury, while Steve Smith, fresh from a blistering BBL cameo, isn't named in Australia's final 15-man squad. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-31/cummins-and-smith-out-of-t20-world-cup/106291628"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a15f6d45-eecc-4d17-bb15-bfd2f2e1befe",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-31T14:17:21.013796"
+  "merged_at": "2026-01-31T15:15:05.754306"
 }
