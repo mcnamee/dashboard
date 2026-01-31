@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/986f64e4-1a1e-4085-a05f-fc48ac40f6c3",
+      "published_datetime": "2026-01-31T15:40:26.818463",
+      "title": "Particle accelerator decodes lost ancient Greek star catalog",
+      "featured_image": {
+        "url": "https://www.scientificamerican.com/article/lost-ancient-greek-star-catalog-decoded-by-particle-accelerator",
+        "name": "Lost ancient Greek star catalog decoded by particle accelerator",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--S1KNnVAc--/t_limit/https://static.scientificamerican.com/dam/m/0050776c689222de/original/2026_0120_Codex_Climaci_rescriptus_palimpsest_Orrell-1.jpg%3Fm%3D1769719989.498%26w%3D1200",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--uJ8Y79Ba--/t_thumbnail/https://static.scientificamerican.com/dam/m/0050776c689222de/original/2026_0120_Codex_Climaci_rescriptus_palimpsest_Orrell-1.jpg%3Fm%3D1769719989.498%26w%3D1200"
+      },
+      "description": "Powerful X-rays from a particle accelerator have illuminated fragments of one of history's most important astronomical documents\u2014the lost star catalog of the ancient Greek astronomer Hipparchus\u2014after lying hidden beneath medieval religious texts for more than a millennium.\n\nResearchers working at SLAC National Accelerator Laboratory in Menlo Park, California, this month successfully decoded erased ancient Greek text from a manuscript known as the Codex Climaci Rescriptus, including star coordinates that date back more than 2,000 years.[1][2][3]",
+      "audio_url": "",
+      "url": "scientists-recover-hipparchus-o5SK.NVhTGem7aDRk9xnIQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-31T14:29:56.000000Z",
       "title": "Separatists kill 21 including civilians in multiple attacks in Pakistan",
       "featured_image": {
@@ -199,21 +214,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/04f78207-9d88-44e4-bc65-2c8a01199a57",
-      "published_datetime": "2026-01-30T22:13:43.477784",
-      "title": "Bomb cyclone targets Southeast as Australia's record heat persists",
-      "featured_image": {
-        "url": "https://www.nbcnews.com/weather/winter-weather/live-blog/winter-storm-snow-ice-weather-cold-live-updates-rcna255524",
-        "name": "Severe weather brings heavy snow and ice across the U.S.",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--I-SD-xCV--/t_limit/https://media-cldnry.s-nbcnews.com/image/upload/c_fit%2Cq_auto:eco%2Cw_1250/rockcms/2026-01/260123-Columbus-rs-9c8073.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--1jcO5Unj--/t_thumbnail/https://media-cldnry.s-nbcnews.com/image/upload/c_fit%2Cq_auto:eco%2Cw_1250/rockcms/2026-01/260123-Columbus-rs-9c8073.jpg"
-      },
-      "description": "As the United States reels from its deadliest winter storm in years, with at least 117 deaths confirmed and another bomb cyclone bearing down on the East Coast, Australia is simultaneously enduring its most severe heatwave since the 2019-20 Black Summer. Scientists say both events bear the unmistakable fingerprint of a warming planet.\n\nWinter Storm Fern, which swept across the nation from January 23-26, brought catastrophic ice and snow from Northern Mexico to New England, causing over a million power outages and preliminary damage estimates exceeding $1 billion. Meanwhile, southeastern Australia has recorded temperatures approaching 50 degrees Celsius (122 degrees Fahrenheit), setting all-time records across multiple states.[1][2][3]",
-      "audio_url": "",
-      "url": "us-snow-storms-and-australia-h-tpsBwDFrTwicGsGydqkoMA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-30T20:03:08.000000Z",
       "title": "Fewer than 50 tickets pre-sold as Melania movie opens with a whimper",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-31T16:17:16.361848"
+  "merged_at": "2026-01-31T16:38:11.995219"
 }
