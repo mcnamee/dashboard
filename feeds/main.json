@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4c4311ab-8edd-42f8-9afb-0a13ab9e51e6",
+      "published_datetime": "2026-01-31T16:26:09.095815",
+      "title": "Japan, UK launch cyber partnership amid China tensions",
+      "featured_image": {
+        "url": "https://www.gettyimages.com/detail/news-photo/britains-prime-minister-keir-starmer-and-japanese-prime-news-photo/2258601289",
+        "name": "JAPAN-BRITAIN-DIPLOMACY",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1769872970/getty_uploads/2258601289_pyee5p.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1769872970/getty_uploads/2258601289_pyee5p.jpg"
+      },
+      "description": "Japanese Prime Minister Sanae Takaichi and British Prime Minister Keir Starmer agreed Saturday to deepen cooperation on cybersecurity, defense, and critical mineral supply chains during talks in Tokyo, as both nations seek to counter China's growing influence in the Indo-Pacific region.\n\nThe summit at the Prime Minister's Office concluded with the announcement of a new Japan-UK Strategic Cyber Partnership aimed at detecting, deterring, and defending against cyber threats from foreign adversaries. The two leaders also affirmed the urgent need for like-minded nations to strengthen supply chains for essential minerals, with China's recent export restrictions on rare earth elements adding urgency to the discussions.[1][2][3][4]",
+      "audio_url": "",
+      "url": "japan-and-britain-strengthen-d-s2PfCDQ5Q..nRXSwNvuRKg",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/986f64e4-1a1e-4085-a05f-fc48ac40f6c3",
       "published_datetime": "2026-01-31T15:40:26.818463",
       "title": "Particle accelerator decodes lost ancient Greek star catalog",
@@ -199,21 +214,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/653ff562-6d67-4ff9-96f9-0542c7ce66ea",
-      "published_datetime": "2026-01-30T22:26:53.109100",
-      "title": "Mexico warns of humanitarian crisis after Trump tariffs on Cuba oil",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/americas/mexico-seek-diplomatic-solution-after-us-threatens-cuba-oil-tariffs-2026-01-30/",
-        "name": "Mexico to seek diplomatic solution after US threatens Cuba oil tariffs",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--opmUAElT--/t_limit/https://www.reuters.com/resizer/v2/N5FST77MGFJPZKVK4WFC674WFE.jpg%3Fauth%3D747c87f9c49dd0f8e53f1ffbfa3901631aaec0a92c42f66efba7532703a2c59c%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--rfesnqUn--/t_thumbnail/https://www.reuters.com/resizer/v2/N5FST77MGFJPZKVK4WFC674WFE.jpg%3Fauth%3D747c87f9c49dd0f8e53f1ffbfa3901631aaec0a92c42f66efba7532703a2c59c%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Mexican President Claudia Sheinbaum warned Friday that US tariffs targeting countries that supply oil to Cuba could trigger a \"far-reaching humanitarian crisis,\" as she announced her government would pursue diplomatic channels while seeking alternatives to assist the Caribbean island.\n\nThe announcement came one day after President Donald Trump signed an executive order authorizing tariffs on goods from any nation that directly or indirectly provides oil to Cuba, declaring the island \"an unusual and extraordinary threat\" to US national security. The decree did not specify tariff rates or which countries would be affected.[1][2][3][4]",
-      "audio_url": "",
-      "url": "mexico-seeks-diplomatic-soluti-snTeYf.EQVSEiK1uoHBqAg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-01-30T20:03:08.000000Z",
       "title": "Fewer than 50 tickets pre-sold as Melania movie opens with a whimper",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-31T17:17:07.195963"
+  "merged_at": "2026-01-31T18:20:50.471123"
 }
