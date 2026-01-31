@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-01-31T12:08:59.000000Z",
+      "title": "Strikes in Gaza kill at least 26 in one of deadliest days since ceasefire",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/016bfbec0d74e7ea8307d1d1398e5ec8?impolicy=wcms_crop_resize&amp;cropH=2588&amp;cropW=4600&amp;xPos=0&amp;yPos=239&amp;width=862&amp;height=485"
+      },
+      "description": "Israeli strikes have killed at least 26 Palestinians, marking one of the highest death tolls since the ceasefire last October aimed at stopping the fighting.",
+      "page_content_url": "https://www.abc.net.au/news/2026-01-31/israel-strikes-gaza-highest-death-tolls-since-ceasefire/106291744"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7016420c-0ad4-40a4-bd1b-fb0838bc4060",
       "published_datetime": "2026-01-31T08:11:55.345667",
       "title": "NASA confirms 3I/ATLAS was in its data months before discovery",
@@ -56,11 +65,11 @@
     },
     {
       "published_datetime": "2026-01-31T06:41:52.000000Z",
-      "title": "Live: Rybakina takes down Sabalenka in stunning Australian Open final",
+      "title": "Rybakina takes down Sabalenka in stunning Australian Open final",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c7f8a1858540f2d877391d195f45bd92?impolicy=wcms_crop_resize&amp;cropH=1619&amp;cropW=2879&amp;xPos=0&amp;yPos=203&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/933d9f8f2334c804bf82383d5b518e12?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=73&amp;width=862&amp;height=485"
       },
-      "description": "Elena Rybakina has won the Australian Open with a stunning three-set victory over world number one Aryna Sabalenka in the final. Follow live.",
+      "description": "Elena Rybakina wins the Australian Open with a stunning three-set victory over world number one Aryna Sabalenka, who loses in the final for the second straight year.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-31/australian-open-womens-singles-final-live-sabalenka-rybakina/106291584"
     },
     {
@@ -98,15 +107,6 @@
       },
       "description": "The capital of the United States will get an IndyCar street race as part of the nation's 250th anniversary of independence celebrations, and President Donald Trump is pushing hard for the race route to pass the White House.",
       "page_content_url": "https://www.abc.net.au/news/2026-01-31/trump-announces-indycar-race-washington-past-white-house/106291114"
-    },
-    {
-      "published_datetime": "2026-01-31T03:22:53.000000Z",
-      "title": "Tyra Banks's 'hot ice cream' went viral. Don't expect to see it called that anymore",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b785b6d1f3e3c527d9f999fb681b119?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=403&amp;width=862&amp;height=485"
-      },
-      "description": "Reviews have said it \"tasted like soggy biscuits\" and was \"a weird sensation to sip through a straw\". Taste aside, something bugged me. How can you call something ice cream if it's not iced?",
-      "page_content_url": "https://www.abc.net.au/news/2026-01-31/hot-ice-cream-tyra-banks-sydney-food/106283144"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7c2d02dd-b13b-4aa7-9849-e85bbfd5c2a2",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-01-31T11:13:44.181410"
+  "merged_at": "2026-01-31T12:28:12.895586"
 }
