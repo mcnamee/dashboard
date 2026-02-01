@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bad03e76-b6db-4abe-a948-65ebe5dc823b",
+      "published_datetime": "2026-02-01T15:57:53.815748",
+      "title": "Musk says China's power output will triple US within a year",
+      "featured_image": {
+        "url": "https://www.outlookbusiness.com/planet/industry/musk-us-solar-tariffs-power-needs-davos",
+        "name": "Musk Slams US Solar Tariffs as Barrier to America's Power Needs at ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--0--C63Xh--/t_limit/https://media.assettype.com/outlookbusiness/2026-01-23/gzq0vv21/Elon-Musk-speaking-at-Davos-World-Economic-Forum.jpg%3Fw%3D1200%26ar%3D40%253A21%26auto%3Dformat%252Ccompress%26ogImage%3Dtrue%26mode%3Dcrop%26enlarge%3Dtrue%26overlay%3Dfalse%26overlay_position%3Dbottom%26overlay_width%3D100",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--UwyN8P-b--/t_thumbnail/https://media.assettype.com/outlookbusiness/2026-01-23/gzq0vv21/Elon-Musk-speaking-at-Davos-World-Economic-Forum.jpg%3Fw%3D1200%26ar%3D40%253A21%26auto%3Dformat%252Ccompress%26ogImage%3Dtrue%26mode%3Dcrop%26enlarge%3Dtrue%26overlay%3Dfalse%26overlay_position%3Dbottom%26overlay_width%3D100"
+      },
+      "description": "Elon Musk sounded the alarm on China's energy dominance late last week, predicting that the country's electricity generation will soon exceed that of the United States by a factor of three, driven by a rapid expansion in solar power.\n\n\"China electricity generation is still growing super fast, with solar being the largest incremental contributor, and will exceed America by a factor of 3X either this year or next,\" Musk wrote on X on January 31. The Tesla and SpaceX CEO was responding to a report highlighting that China accounted for 33.2 percent of global electricity generation in 2025\u2014more than double the US share of roughly 14.2 percent.[1][2][3]",
+      "audio_url": "",
+      "url": "musk-warns-china-to-triple-us-G92YolFPST6lw8q_pUJjzg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-01T12:53:47.000000Z",
       "title": "Gaza's Rafah crossing is set to reopen after being closed since May 2024",
       "featured_image": {
@@ -226,21 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-01/sprinkler-water-resources-garden-green-desert-reticulation/106244818"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4c4311ab-8edd-42f8-9afb-0a13ab9e51e6",
-      "published_datetime": "2026-01-31T16:26:09.095815",
-      "title": "Japan, UK launch cyber partnership amid China tensions",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/britains-prime-minister-keir-starmer-and-japanese-prime-news-photo/2258601289",
-        "name": "JAPAN-BRITAIN-DIPLOMACY",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1769872970/getty_uploads/2258601289_pyee5p.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1769872970/getty_uploads/2258601289_pyee5p.jpg"
-      },
-      "description": "Japanese Prime Minister Sanae Takaichi and British Prime Minister Keir Starmer agreed Saturday to deepen cooperation on cybersecurity, defense, and critical mineral supply chains during talks in Tokyo, as both nations seek to counter China's growing influence in the Indo-Pacific region.\n\nThe summit at the Prime Minister's Office concluded with the announcement of a new Japan-UK Strategic Cyber Partnership aimed at detecting, deterring, and defending against cyber threats from foreign adversaries. The two leaders also affirmed the urgent need for like-minded nations to strengthen supply chains for essential minerals, with China's recent export restrictions on rare earth elements adding urgency to the discussions.[1][2][3][4]",
-      "audio_url": "",
-      "url": "japan-and-britain-strengthen-d-s2PfCDQ5Q..nRXSwNvuRKg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-01T17:17:48.749970"
+  "merged_at": "2026-02-01T18:22:43.202899"
 }
