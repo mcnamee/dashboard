@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-01T02:56:31.000000Z",
+      "title": "'One minute it was daylight, next it was black' \u2014 large outback dust storms rolls in",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/607e359eb9eb0dbbe784892ab59c4d14?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
+      },
+      "description": "After more than a month without a single drop of rain, residents living in outback NSW saw a wall of red earth roll in. The large dust storm was well over 100 metres high and several kilometres wide.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-01/outback-nsw-hit-by-massive-red-duststorm/106292772"
+    },
+    {
+      "published_datetime": "2026-02-01T02:02:07.000000Z",
+      "title": "What the Beckham family feud reveals about who controls the narrative now",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8763ce5f55b131f27346b4e98959e427?impolicy=wcms_crop_resize&amp;cropH=2331&amp;cropW=4144&amp;xPos=0&amp;yPos=386&amp;width=862&amp;height=485"
+      },
+      "description": "In a modern crisis, experts say control doesn't always come from speaking louder \u2014 but from knowing when, where and how briefly to speak at all.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-01/inside-the-brand-strategy-behind-the-beckham-family-drama/106284834"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5bea7dd6-d333-4aff-9463-92e9e3d12b39",
+      "published_datetime": "2026-02-01T01:53:10.933398",
+      "title": "NASA begins Artemis 2 countdown after cold weather delay",
+      "featured_image": {
+        "url": "https://wtop.com/science/2026/01/nasa-delays-the-first-artemis-moonshot-with-astronauts-because-of-extreme-cold-at-the-launch-site/",
+        "name": "NASA delays the first Artemis moonshot with astronauts ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--rPLmPAxJ--/t_limit/https://wtop.com/wp-content/uploads/2026/01/NASA-Artemis_Moonshot_04698-scaled.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Xfwfrvdi--/t_thumbnail/https://wtop.com/wp-content/uploads/2026/01/NASA-Artemis_Moonshot_04698-scaled.jpg"
+      },
+      "description": "A rare arctic outbreak sweeping through Florida has forced NASA to postpone the first crewed lunar mission in more than half a century, tightening an already narrow launch window for the Artemis II mission.\n\nNASA announced Friday that the first possible launch date for Artemis II is now no earlier than February 8, two days later than originally planned, after sub-freezing temperatures at Kennedy Space Center made a critical fueling test impossible to conduct this weekend. The agency had intended to perform the \"wet dress rehearsal\" of its 322-foot Space Launch System rocket on Saturday but canceled the operation late Thursday.[1][2][3][4]",
+      "audio_url": "",
+      "url": "nasa-delays-artemis-moon-missi-gpsccK4BQkOHyUfvRcwEfw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a90723d9-d6c9-40af-97b8-1df73c4fba6d",
+      "published_datetime": "2026-02-01T01:18:50.924247",
+      "title": "Danish veterans march on US embassy over Trump NATO remarks",
+      "featured_image": {
+        "url": "https://amp.dw.com/en/denmark-thousands-take-part-in-veteran-anti-trump-protest/a-75742882",
+        "name": "Denmark: Thousands take part in veteran anti-Trump protest",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1769904672/url_uploads/75742593_803_jyeanm.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1769904672/url_uploads/75742593_803_jyeanm.jpg"
+      },
+      "description": "Veterans and officials throughout the NATO alliance have reacted with fury to President Donald Trump's claim that allied forces \"stayed a little back, a little off the front lines\" during the Afghanistan War, with Danish veterans organizing a protest march on the US embassy in Copenhagen on Saturday.\n\nTrump sparked the controversy during a January 22 interview with Fox News in Davos, Switzerland, questioning NATO's reliability and asserting that the United States had \"never needed\" its allies. \"We have never really asked anything of them,\" Trump said. \"They'll say they sent some troops to Afghanistan or this or that. And they did \u2014 they stayed a little back, a little off the front lines.\"[1][2]\n\nThe remarks drew immediate backlash given that 457 British, 158 Canadian, and 44 Danish service members were killed during the two-decade Afghanistan conflict \u2014 after NATO invoked Article 5, its mutual defense clause, for the first and only time following the September 11 attacks.[3][4]",
+      "audio_url": "",
+      "url": "trump-s-nato-troops-comments-s-dWzFSjaKTje2V2NedurndQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-01-31T23:39:19.000000Z",
       "title": "'A really big threat': US territories brace for Trump's deep sea mining",
       "featured_image": {
@@ -8,15 +56,6 @@
       },
       "description": "A Trump administration push to begin deep-sea mining is gathering momentum \u2014 and stirring alarm in United States Pacific territories.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-01/trump-administration-seabed-mining-pacific-territories/106272964"
-    },
-    {
-      "published_datetime": "2026-01-31T23:31:01.000000Z",
-      "title": "'Brave' 12yo shark attack victim honoured with paddle-out at North Bondi",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/311404ea9e54b83fa5caca66a61edecd?impolicy=wcms_crop_resize&amp;cropH=2515&amp;cropW=4471&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Hundreds of paddle boarders and others journey into the waves of North Bondi to pay tribute to 12-year-old shark victim Nico Antic.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-01/north-bondi-paddle-out-nico-antic-12yo-killed-by-shark-vaucluse/106289352"
     },
     {
       "published_datetime": "2026-01-31T23:11:08.000000Z",
@@ -42,7 +81,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b26218e460d0e7eb72f1693076ae8344?impolicy=wcms_crop_resize&amp;cropH=2125&amp;cropW=3777&amp;xPos=0&amp;yPos=426&amp;width=862&amp;height=485"
       },
-      "description": "The royal family faces a fresh round of embarrassment after the latest tranche of Epstein files revealed unsavoury details about the convicted sex offender's relationship with Andrew.\u00a0",
+      "description": "The royal family faces a fresh round of embarrassment after the latest tranche of Epstein files reveal unsavoury details about the convicted sex offender's relationship with Andrew.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-01/new-documents-reveal-details-about-epstein-andrew-friendship/106292352"
     },
     {
@@ -107,15 +146,6 @@
       "audio_url": "",
       "url": "ukraine-reduces-nuclear-output-IbWja1yMQbWF4_FsrhCW2w",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-01-31T19:19:01.000000Z",
-      "title": "A GP refused to give Claire weight-loss drugs \u2014 but Juniper approved them",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7633d6fc349326f20196f2eb5a7a39de?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=307&amp;width=862&amp;height=485"
-      },
-      "description": "Claire Munch says she was hospitalised with an eating disorder after a telehealth provider approved weight-loss drugs her GP had refused \u2014 and that even after she complained, she was later sent marketing promotions.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-01/woman-hospitalised-telehealth-provider-weight-loss-drugs-juniper/106273356"
     },
     {
       "published_datetime": "2026-01-31T19:11:57.000000Z",
@@ -211,36 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a15f6d45-eecc-4d17-bb15-bfd2f2e1befe",
-      "published_datetime": "2026-01-31T07:40:08.734592",
-      "title": "SpaceX seeks FCC approval for 1 million AI data center satellites",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/news/explainer-why-does-elon-musk-204453407.html",
-        "name": "Explainer-Why does Elon Musk want to put AI data centers in space?",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--4yxesHsZ--/t_limit/https://s.yimg.com/os/en/reuters.com/4135c71b806bea1b8d6913fce27464e2",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Yo5YzYpQ--/t_thumbnail/https://s.yimg.com/os/en/reuters.com/4135c71b806bea1b8d6913fce27464e2"
-      },
-      "description": "SpaceX submitted an unprecedented request to the Federal Communications Commission on Friday, seeking authorization to deploy up to one million satellites to create a network of orbiting data centers powered by artificial intelligence. The filing comes as reports emerged that SpaceX is in merger talks with Elon Musk's AI company xAI ahead of a planned initial public offering.\n\nThe dual developments signal an ambitious effort to combine Musk's space and artificial intelligence ventures into a unified entity capable of building computing infrastructure in orbit, potentially reshaping the future of AI development.",
-      "audio_url": "",
-      "url": "spacex-plans-1-million-ai-sate-91.YhX9oRxqayDcvldQA4A",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9a69c35e-4be7-463a-8a7c-1d82cb4709f8",
-      "published_datetime": "2026-01-31T07:05:56.343933",
-      "title": "Scientists drill through Antarctica's 'Doomsday Glacier'",
-      "featured_image": {
-        "url": "https://thwaitesglacier.org/news/scientists-drill-first-time-remote-antarctic-glacier",
-        "name": "ITGC Thwaites Glacier",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--cLhbdIPe--/t_limit/https://thwaitesglacier.org/sites/default/files/inline-images/The%2520hot%2520water%2520drill%2520rig%2520and%2520Icefin_David%2520Vaughan.JPG",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--2QW9xaMQ--/t_thumbnail/https://thwaitesglacier.org/sites/default/files/inline-images/The%2520hot%2520water%2520drill%2520rig%2520and%2520Icefin_David%2520Vaughan.JPG"
-      },
-      "description": "Researchers drilling through nearly 3,000 feet of ice have broken through to the ocean beneath Antarctica's Thwaites Glacier, marking a milestone in a high-stakes mission to understand one of the planet's most unstable ice masses.\n\nA joint British and South Korean team punched through the ice on Thursday afternoon local time, according to PBS science correspondent Miles O'Brien, who is embedded with the expedition. After more than 21 hours of continuous drilling, instruments designed to measure temperature, salinity, and ocean currents were lowered into waters that scientists believe are eroding the glacier from below.[1][2]",
-      "audio_url": "",
-      "url": "scientists-drill-into-thwaites-qtIuBi0vTeeW5eEFI24XIg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-01T01:25:26.268892"
+  "merged_at": "2026-02-01T04:23:08.277616"
 }
