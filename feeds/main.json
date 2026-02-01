@@ -1,13 +1,31 @@
 {
   "items": [
     {
-      "published_datetime": "2026-02-01T06:20:18.000000Z",
-      "title": "Live: Alcaraz and Djokovic hunting slices of history in Australian Open final",
+      "published_datetime": "2026-02-01T08:27:46.000000Z",
+      "title": "People born on Fremantle Bridge bid farewell before demolition",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0ef169d1545147d3c611ba1d7c6f8971?impolicy=wcms_crop_resize&amp;cropH=2139&amp;cropW=3802&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1b0096eacd253a94547fba30372b6c8d?impolicy=wcms_crop_resize&amp;cropH=1447&amp;cropW=2573&amp;xPos=0&amp;yPos=216&amp;width=862&amp;height=485"
+      },
+      "description": "Eighty people with a special connection to the Fremantle Traffic Bridge, including two people who were born on it, are invited to cross the 86-year-old structure before it is demolished and rebuilt.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-01/fremantle-traffic-bridge-closes/106292886"
+    },
+    {
+      "published_datetime": "2026-02-01T06:20:18.000000Z",
+      "title": "Live: Djokovic on top early in Australian Open final against Alcaraz",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5f3729a9b08c228246dd77608e99ad88?impolicy=wcms_crop_resize&amp;cropH=2026&amp;cropW=3602&amp;xPos=699&amp;yPos=1045&amp;width=862&amp;height=485"
       },
       "description": "Novak Djokovic and Carlos Alcaraz face off in the Australian Open men's singles final, with Djokovic aiming for his 25th major title and Alcaraz trying to become the youngest man to win all four slams. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-01/australian-open-2026-final-live-novak-djokovic-carlos-alcaraz/106293114"
+    },
+    {
+      "published_datetime": "2026-02-01T05:35:29.000000Z",
+      "title": "Hundreds of potentially illegal e-bikes purchased through rebate scheme",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1e3ea8a0d33ff8b1d983406f857b380c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Hundreds of illegal, or potentially illegal e-bikes and e-scooters, were purchased under a state government rebate scheme, according to an internal audit that dates back to before the 2024 Queensland election.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-01/illegal-e-bikes-bought-through-qld-rebate-scheme-audit-shows/106292840"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f7f64ec6-ead6-4f47-95b1-3ce441bf1e75",
@@ -77,24 +95,6 @@
       "audio_url": "",
       "url": "trump-s-nato-troops-comments-s-dWzFSjaKTje2V2NedurndQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-01T01:02:28.000000Z",
-      "title": "Chia seed trend on social media has experts worried",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1f7e8125816f55b866e3f7ca50951128?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The health benefits of chia seeds have been well publicised, but health and internet experts are urging people to not believe everything you see on social media.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-01/chia-seed-trends-social-media-tiktok-explainer/106274220"
-    },
-    {
-      "published_datetime": "2026-01-31T23:39:19.000000Z",
-      "title": "'A really big threat': US territories brace for Trump's deep sea mining",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/934e9f8ce0764d5ffce6ae265d3a5e2e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=257&amp;width=862&amp;height=485"
-      },
-      "description": "A Trump administration push to begin deep-sea mining is gathering momentum \u2014 and stirring alarm in United States Pacific territories.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-01/trump-administration-seabed-mining-pacific-territories/106272964"
     },
     {
       "published_datetime": "2026-01-31T23:11:08.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-01T08:22:11.182200"
+  "merged_at": "2026-02-01T09:22:19.281010"
 }
