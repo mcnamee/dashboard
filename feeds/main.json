@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-01T19:23:10.000000Z",
+      "title": "'Cynical and targeted' Russian strike on Ukrainian bus kills 12",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a1e2fa6aaf2bfa6e52820fe654c4a303?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=63&amp;width=862&amp;height=485"
+      },
+      "description": "A series of attacks across Ukraine comes ahead of US-brokered trilateral talks between Ukraine and Russia set for the coming week.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-02/russian-strike-on-ukrainian-mining-bus/106293870"
+    },
+    {
+      "published_datetime": "2026-02-01T19:00:14.000000Z",
+      "title": "$12 billion Snowy 2.0 project tight-lipped on cost blowouts but timeline on track",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b6bd21441f453014d892ab24bc716547?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The boss of Snowy Hydro says the project is on track to deliver power by the end of 2028, as it launches a new $75 million tunnel-boring machine designed to make up for lost time.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-02/snowy-hydro-project-timeline-defend-machine-cost-blowout/106231224"
+    },
+    {
       "published_datetime": "2026-02-01T18:56:00.000000Z",
       "title": "Inside America\u2019s ICE detention boom \u2014 and the families caught in the crackdown",
       "featured_image": {
@@ -11,7 +29,7 @@
     },
     {
       "published_datetime": "2026-02-01T18:50:51.000000Z",
-      "title": "Littleproud to survive spill, but Ley\u2019s future remains uncertain",
+      "title": "Nationals challenger says spill 'was never about me being the leader'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db8e463a0b8afebde66f61c19485864e?impolicy=wcms_crop_resize&amp;cropH=2944&amp;cropW=5235&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -47,7 +65,7 @@
     },
     {
       "published_datetime": "2026-02-01T18:40:29.000000Z",
-      "title": "'It felt like a lifetime': The six minutes of Bondi terror through the eyes of survivors",
+      "title": "'I accepted my fate': They shielded kids from bullets, preparing for the worst",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/353d9f7edb98922e37ea07ea9acb3473?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=104&amp;width=862&amp;height=485"
       },
@@ -56,7 +74,7 @@
     },
     {
       "published_datetime": "2026-02-01T18:07:16.000000Z",
-      "title": "Victoria Police launches five-day search for fugitive Dezi Freeman",
+      "title": "Five-day Mount Buffalo manhunt for fugitive Dezi Freeman",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28d26bcc2dc9426dbae489c7e9504b5d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=469&amp;width=862&amp;height=485"
       },
@@ -77,15 +95,6 @@
       "audio_url": "",
       "url": "musk-warns-china-to-triple-us-G92YolFPST6lw8q_pUJjzg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-01T12:53:47.000000Z",
-      "title": "Gaza's Rafah crossing is set to reopen after being closed since May 2024",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/99c907c4a707bbbce32e01bb5b7011e5?impolicy=wcms_crop_resize&amp;cropH=1879&amp;cropW=3340&amp;xPos=0&amp;yPos=174&amp;width=862&amp;height=485"
-      },
-      "description": "Although Gaza has four other border crossings, they are shared with Israel, many Palestinians see Rafah as their gateway to the world.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-01/preparations-being-to-open-rafah-crossing/106293400"
     },
     {
       "published_datetime": "2026-02-01T12:16:02.000000Z",
@@ -110,15 +119,6 @@
       "audio_url": "",
       "url": "trump-says-iran-engaged-in-ser-URHDJSLGTG.Q6Ymwx4xoaA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-01T09:53:15.000000Z",
-      "title": "Palmer rejects political influence claim surfaced in Epstein files",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/568673518bc23aa8705a9d4dde0294e6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Clive Palmer denies newly surfaced claims that his 2019 federal election campaign was influenced by a senior advisor to US President Donald Trump.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-01/palmer-denies-bannon-claim-of-election-campaign-influence/106293074"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1c46018d-7dd0-4f73-ad0f-9db17f4568a0",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-01T19:30:44.524429"
+  "merged_at": "2026-02-01T20:16:29.943784"
 }
