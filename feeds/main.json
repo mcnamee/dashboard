@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-02T07:55:13.000000Z",
+      "title": "Triple-murder suspect released on bail before deadly shooting despite warning",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b09e576cf61dfb0190094804ddf208fd?impolicy=wcms_crop_resize&amp;cropH=288&amp;cropW=512&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Accused triple-murderer Julian Ingram was granted bail by police despite concerns being raised over the safety of potential victims and the community. The 37-year-old remains on the run from police.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-02/julian-ingram-triple-murder-suspect-released-before-shooting/106294472"
+    },
+    {
+      "published_datetime": "2026-02-02T07:25:45.000000Z",
+      "title": "Death would be 'too good' for Dezi Freeman, slain officer's sister says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b340d596b206017f549c1ee8e764bb7?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=960&amp;xPos=0&amp;yPos=123&amp;width=862&amp;height=485"
+      },
+      "description": "The sister of one of the police officers shot dead in Victoria's high country last year tells the ABC that death would be \"too good\" an outcome for the accused gunman Dezi Freeman.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-02/alleged-porepunkah-shooter-dezi-freeman-neal-thompson-sister/106296848"
+    },
+    {
       "published_datetime": "2026-02-02T06:19:27.000000Z",
       "title": "Suspected double murder-suicide prompts calls for greater family support",
       "featured_image": {
@@ -10,15 +28,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-02/mosman-park-murder-suicide-reaction-disability-support/106291002"
     },
     {
-      "published_datetime": "2026-02-02T05:46:12.000000Z",
-      "title": "Leaked footage exposes world of drugs and brutality inside Villawood Detention Centre",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29eb0a913a59dd2c0d278094c98851fb?impolicy=wcms_crop_resize&amp;cropH=348&amp;cropW=618&amp;xPos=657&amp;yPos=256&amp;width=862&amp;height=485"
-      },
-      "description": "Exclusive footage and imagery shows the state of Villawood Detention Centre, exposing illicit drug use and filthy conditions.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-02/drug-use-violence-and-alleged-murder-inside-villawood-detention/106268974"
-    },
-    {
       "published_datetime": "2026-02-02T05:37:04.000000Z",
       "title": "Rudd's scrapped mining profits tax discussed by miners in Epstein emails",
       "featured_image": {
@@ -26,6 +35,36 @@
       },
       "description": "Newly released documents show British Labour peer Peter Mandelson kept sex trafficking paedophile Jeffrey Epstein informed about the campaign against Kevin Rudd's proposed mining tax.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-02/peter-mandelson-on-rudds-mining-super-profits-tax-epstein-files/106295236"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7d5475bd-2146-4ebb-a102-43b9425984b2",
+      "published_datetime": "2026-02-02T05:35:17.260254",
+      "title": "Gold, silver extend historic sell-off as Asian markets tumble",
+      "featured_image": {
+        "url": "https://www.thestreet.com/investing/gold-silver-pull-off-shock-move-big-tech-never-saw-coming",
+        "name": "Gold, silver pull off shock move big tech never saw coming ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--znZHwIPg--/t_limit/https://www.thestreet.com/.image/c_fill%2Cg_faces:center/NDA6MDAwMDAwMDAyODU4NzQ3/gold-silver.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--HcFDQWDf--/t_thumbnail/https://www.thestreet.com/.image/c_fill%2Cg_faces:center/NDA6MDAwMDAwMDAyODU4NzQ3/gold-silver.jpg"
+      },
+      "description": "Gold and silver prices extended their sharp declines in Asian trading on Monday, deepening losses from last week's historic sell-off triggered by President Donald Trump's nomination of Kevin Warsh as the next Federal Reserve chair.\n\nSilver tumbled as much as 11.25% to $75.10 per ounce, following a nearly 30% collapse on Friday\u2014its steepest single-day drop since 1980. Gold fell as much as 5.34% to $4,604.47 after plunging nearly 10% on Friday when it dropped below the $5,000 mark. Despite the pullback, both metals remain sharply higher year to date.[1][2][3]",
+      "audio_url": "",
+      "url": "gold-and-silver-prices-plunge-iNu0ZRVZQW.WlxzSX1esKA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7f8155c0-58f9-4984-98b0-bb58a0a984b6",
+      "published_datetime": "2026-02-02T05:22:49.289524",
+      "title": "Gold, platinum, palladium tumble as precious metals rout deepens",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/02/02/cnbc-daily-open-markets-see-warsh-as-safe-pick-for-fed-chair-gold-and-silver-plunged.html",
+        "name": "CNBC Daily Open: Markets see Warsh as a safe pick for Fed chair \u2014 causing gold and silver to plunge",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--a7X01w81--/t_limit/https://image.cnbcfm.com/api/v1/image/108259540-17697820062026-01-30t135547z_1590434160_rc2o9w8pb5ut_rtrmadp_0_usa-trump-fed-chair.jpeg%3Fv%3D1769782044%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--r-epWaGJ--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108259540-17697820062026-01-30t135547z_1590434160_rc2o9w8pb5ut_rtrmadp_0_usa-trump-fed-chair.jpeg%3Fv%3D1769782044%26w%3D1920%26h%3D1080"
+      },
+      "description": "Gold, platinum and palladium extended their declines on Monday, with all three metals falling more than 3% as the dramatic selloff that began late last week continued to roil precious metals markets.\n\nThe losses came as investors digested President Donald Trump's nomination of Kevin Warsh to lead the Federal Reserve, a move that strengthened the dollar and prompted traders to unwind positions built during an extraordinary rally that had pushed prices to record highs.",
+      "audio_url": "",
+      "url": "gold-platinum-palladium-prices-FwB0w3GrTOidLlV75TFjug",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-02-02T05:19:14.000000Z",
@@ -142,15 +181,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-01T18:45:53.000000Z",
-      "title": "The economy should be the focus but Coalition incompetence is a gift to Labor",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4f4ab2df018ada5a80b8449498b7ae84?impolicy=wcms_crop_resize&amp;cropH=2011&amp;cropW=3576&amp;xPos=0&amp;yPos=465&amp;width=862&amp;height=485"
-      },
-      "description": "The trip to the tennis is a sign of the PM's own sense of confidence. It's a move that is only made by a man who clearly has his mojo back.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-02/parliament-sitting-week-opposition-leadership-albanese/106292656"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9519103d-1e22-4e22-84ce-c4435c39eb15",
       "published_datetime": "2026-02-01T18:30:48.534029",
       "title": "Israel reopens Rafah crossing as Gaza ceasefire enters new phase",
@@ -208,36 +238,6 @@
       "description": "Ukrainian President Volodymyr Zelenskyy announced on Sunday that a new round of U.S.-brokered trilateral peace talks between Ukraine and Russia will take place in Abu Dhabi on February 4-5, with Kyiv ready for a \"substantive discussion\" on ending the nearly four-year war.\n\n\"Our negotiating team has just delivered a report. The dates for the next trilateral meetings have been set \u2013 February 4 and 5 in Abu Dhabi,\" Zelenskyy wrote on X. \"Ukraine is ready for a substantive discussion, and we are interested in ensuring that the outcome brings us closer to a real and dignified end to the war.\"[1][2][3]",
       "audio_url": "",
       "url": "zelenskyy-announces-ukraine-ru-LbqK.VhrT9SWqgLqdDBYTg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/33963519-23c3-4727-91a8-c57a33f8f07b",
-      "published_datetime": "2026-02-01T17:00:27.498513",
-      "title": "Pentagon delays Iran strikes to bolster Mideast air defenses",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2024/10/13/us-deploying-thaad-missile-defence-system-troops-to-israel",
-        "name": "US deploying THAAD missile defence system, troops to Israel",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--dzVNQwB8--/t_limit/https://www.aljazeera.com/wp-content/uploads/2024/10/2017-11-01T165058Z_1555938331_RC1F34D76EB0_RTRMADP_3_USA-MILITARY-1728844379.jpg%3Fresize%3D770%252C513%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Qd68gB2U--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2024/10/2017-11-01T165058Z_1555938331_RC1F34D76EB0_RTRMADP_3_USA-MILITARY-1728844379.jpg%3Fresize%3D770%252C513%26quality%3D80"
-      },
-      "description": "The Pentagon is holding off on potential military action against Iran while it deploys additional air defense systems across the Middle East, U.S. officials told The Wall Street Journal on Sunday, as Washington prepares for the possibility of a broader conflict with Tehran.\n\nWhile President Donald Trump's promised \"armada,\" spearheaded by the USS Abraham Lincoln carrier strike group, has arrived in the Arabian Sea, officials say a comprehensive offensive would require robust defensive coverage to protect American forces, Israel, and Arab allies from Iranian retaliation.",
-      "audio_url": "",
-      "url": "us-delays-iran-strikes-to-depl-C8mJaQRkRoWaH.hfIdMD3w",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bad03e76-b6db-4abe-a948-65ebe5dc823b",
-      "published_datetime": "2026-02-01T15:57:53.815748",
-      "title": "Musk says China's power output will triple US within a year",
-      "featured_image": {
-        "url": "https://www.outlookbusiness.com/planet/industry/musk-us-solar-tariffs-power-needs-davos",
-        "name": "Musk Slams US Solar Tariffs as Barrier to America's Power Needs at ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--0--C63Xh--/t_limit/https://media.assettype.com/outlookbusiness/2026-01-23/gzq0vv21/Elon-Musk-speaking-at-Davos-World-Economic-Forum.jpg%3Fw%3D1200%26ar%3D40%253A21%26auto%3Dformat%252Ccompress%26ogImage%3Dtrue%26mode%3Dcrop%26enlarge%3Dtrue%26overlay%3Dfalse%26overlay_position%3Dbottom%26overlay_width%3D100",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--UwyN8P-b--/t_thumbnail/https://media.assettype.com/outlookbusiness/2026-01-23/gzq0vv21/Elon-Musk-speaking-at-Davos-World-Economic-Forum.jpg%3Fw%3D1200%26ar%3D40%253A21%26auto%3Dformat%252Ccompress%26ogImage%3Dtrue%26mode%3Dcrop%26enlarge%3Dtrue%26overlay%3Dfalse%26overlay_position%3Dbottom%26overlay_width%3D100"
-      },
-      "description": "Elon Musk sounded the alarm on China's energy dominance late last week, predicting that the country's electricity generation will soon exceed that of the United States by a factor of three, driven by a rapid expansion in solar power.\n\n\"China electricity generation is still growing super fast, with solar being the largest incremental contributor, and will exceed America by a factor of 3X either this year or next,\" Musk wrote on X on January 31. The Tesla and SpaceX CEO was responding to a report highlighting that China accounted for 33.2 percent of global electricity generation in 2025\u2014more than double the US share of roughly 14.2 percent.[1][2][3]",
-      "audio_url": "",
-      "url": "musk-warns-china-to-triple-us-G92YolFPST6lw8q_pUJjzg",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-02T07:02:07.744162"
+  "merged_at": "2026-02-02T08:33:16.958295"
 }
