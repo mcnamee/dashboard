@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/49fcb223-74fa-48eb-8e97-b018994d2b26",
+      "published_datetime": "2026-02-02T08:52:38.611894",
+      "title": "India and China manufacturing expands in January amid weak confidence",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/02/02/china-factory-activity-private-survey-official-reading-pmi-january-lunar-new-year-ratingdog.html",
+        "name": "China's factory activity grows at fastest pace since October, private ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--RT_QIY7u--/t_limit/https://image.cnbcfm.com/api/v1/image/108233961-1764487148810-gettyimages-2227117432-AFP_68DM7CQ.jpeg%3Fv%3D1769991546%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--6de23_bT--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108233961-1764487148810-gettyimages-2227117432-AFP_68DM7CQ.jpeg%3Fv%3D1769991546%26w%3D1920%26h%3D1080"
+      },
+      "description": "Manufacturing activity in India and China showed marginal improvement in January, with private-sector surveys indicating continued expansion even as business confidence in both nations fell to multi-year lows, highlighting persistent economic headwinds despite steady production gains.\n\nThe HSBC India Manufacturing Purchasing Managers' Index, compiled by S&P Global, rose to 55.4 in January from December's two-year low of 55.0, according to data released Monday. In China, the RatingDog General Manufacturing PMI edged up to 50.3 from 50.1 the previous month, marking the fastest growth since October. A reading above 50 indicates expansion.[1][2][3][4]",
+      "audio_url": "",
+      "url": "india-and-china-report-modest-DQlpjr2NQ5mRUEGMQTesDA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-02T08:51:45.000000Z",
       "title": "Ley and Littleproud hold 'civil' talks but yet to agree terms for Coalition reunion",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0f1eb565-bf86-4e3b-9725-a22c065258b1",
-      "published_datetime": "2026-02-01T18:06:43.668627",
-      "title": "Top US, Israeli generals meet at Pentagon amid Iran tensions",
-      "featured_image": {
-        "url": "https://www.khaleejtimes.com/world/americas/top-us-israeli-generals-meet-pentagon-iran-tensions",
-        "name": "Top US, Israeli generals meet at Pentagon amid soaring Iran ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--vEzMo3MB--/t_limit/https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-01-13/65ipkqy5/2026newsmlRC2A0JAGHW9W1147782073.jpeg%3Fwidth%3D1200%26height%3D800%26format%3Dauto",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--jmy0Q0Lh--/t_thumbnail/https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-01-13/65ipkqy5/2026newsmlRC2A0JAGHW9W1147782073.jpeg%3Fwidth%3D1200%26height%3D800%26format%3Dauto"
-      },
-      "description": "The top military commanders of the United States and Israel held closed-door talks at the Pentagon on Friday amid escalating tensions with Iran, according to two US officials who spoke to Reuters on the condition of anonymity. The previously unreported meeting between US General Dan Caine, chairman of the Joint Chiefs of Staff, and Israeli Defense Forces Chief of Staff Lt. Gen. Eyal Zamir comes as both nations coordinate potential military planning while President Donald Trump weighs strikes against the Islamic Republic.[1][2]",
-      "audio_url": "",
-      "url": "top-us-and-israeli-generals-me-B8NDQ0UURXOFX0iVZvX8nQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-02T09:37:57.719108"
+  "merged_at": "2026-02-02T10:36:22.151935"
 }
