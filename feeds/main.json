@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-02T12:26:01.000000Z",
+      "title": "Sarah Court to be first female head of ASIC, Chalmers announces",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/83f405c79855b43cfd8bf2cd331b528b?impolicy=wcms_crop_resize&amp;cropH=225&amp;cropW=400&amp;xPos=0&amp;yPos=21&amp;width=862&amp;height=485"
+      },
+      "description": "This position will give Ms Court significant influence over Australian corporate culture.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-02/sarah-court-appointed-asic-chair/106297512"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cdab243f-9887-4c4c-9664-7da02934e2be",
       "published_datetime": "2026-02-02T11:39:01.806470",
       "title": "MIT's AI model suggests recipes for making new materials",
@@ -169,15 +178,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-02/corporate-travel-jamie-pherous-resignation/106294550"
     },
     {
-      "published_datetime": "2026-02-02T03:30:37.000000Z",
-      "title": "Cancer forces ABC radio presenter to retire from the airwaves",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f3dd6e3cae0348e4e678fed5739c958b?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The veteran broadcaster, known for his humorous talkback segments, has omentum cancer and had surgery for oesophageal cancer in 2024. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-02/abc-radio-presenter-james-valentine-retires-due-to-cancer/106288882"
-    },
-    {
       "published_datetime": "2026-02-02T03:06:11.000000Z",
       "title": "Norway's monarchy, besieged by scandals, braces for the biggest one yet",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-02T13:56:28.952629"
+  "merged_at": "2026-02-02T14:37:30.459249"
 }
