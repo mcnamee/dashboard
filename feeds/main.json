@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-03T21:54:19.000000Z",
+      "title": "Adventurer's high praise for 13yo boy and his mum after miracle WA rescue",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0ce0122a485d5b1cdf3e2861ad2d4835?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=63&amp;width=862&amp;height=485"
+      },
+      "description": "\"Outback Mike\" Atkinson says the Appelbee family's ability to stay calm and make smart decisions was critical to their survival after they were swept out to sea off Geographe Bay.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-04/survival-expert-praises-teen-family-geographe-bay-rescue/106301816"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/67e5caea-041b-4bdd-bff2-30a92bbcfed8",
+      "published_datetime": "2026-02-03T21:19:00.872797",
+      "title": "Markets tumble on AI disruption fears and Bitcoin drops",
+      "featured_image": {
+        "url": "https://www.marketscreener.com/news/wall-street-ends-sharply-down-as-traders-fret-about-ai-disruption-ce7e5bd3dc89f52d",
+        "name": "Wall Street ends sharply down as traders fret about AI disruption",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Jvo2t9tb--/t_limit/https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2026-02/2026-02-03T150352Z_1_LYNXMPEM120XV_RTROPTP_4_YORK-SPACE-IPO.JPG",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--mzPzBGfs--/t_thumbnail/https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2026-02/2026-02-03T150352Z_1_LYNXMPEM120XV_RTROPTP_4_YORK-SPACE-IPO.JPG"
+      },
+      "description": "Global equities slid Tuesday as a new wave of investor anxiety hit technology and data-heavy stocks, with concerns that fast-improving \u201cagentic\u201d AI tools could pressure margins and upend business models. Bitcoin also sank to its lowest level since November 2024, adding to a broader \u201crisk-off\u201d tone across markets.[1][2][3][4][5]\n\nThe selloff was catalyzed by fresh attention on AI moving from back-end capabilities into workflow products\u2014most notably a legal-focused tool from Anthropic\u2014prompting investors to reassess which software and information businesses are defensible as automation improves.[2][5][6]",
+      "audio_url": "",
+      "url": "global-markets-fall-as-ai-fear-gIWiaszxQt2hbkY4DldDLg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-03T20:54:32.000000Z",
       "title": "Live: Tech sell-off drives Wall Street lower as bitcoin crashes below $US73,000",
       "featured_image": {
@@ -8,6 +32,15 @@
       },
       "description": "The Australian share market is likely to fall in morning trade after a brutal session on Wall Street, weighed down by massive losses in the share prices of tech and AI companies like Nvidia and Microsoft, while bitcoin has plunged to a 16-month low. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/asx-markets-business-live-news/106302610"
+    },
+    {
+      "published_datetime": "2026-02-03T20:31:11.000000Z",
+      "title": "Trump tells Republicans 'we should take over the voting'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7877923e0bfe90c2d1947698d8fd2d82?impolicy=wcms_crop_resize&amp;cropH=1474&amp;cropW=2620&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump says he wants Republicans to \"nationalise\" US elections and has encouraged his party to \"take over the voting\" in at least some parts of the country.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-04/donald-trump-says-republicans-should-nationalise-us-elections/106302586"
     },
     {
       "published_datetime": "2026-02-03T20:12:07.000000Z",
@@ -59,15 +92,6 @@
       },
       "description": "A social network run entirely by AI bots has attracted more than a million users \u2014 but experts warn it is not what the bots are saying that poses the true risk.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/what-is-moltbook-the-new-social-media-platform-for-ai-bots/106298768"
-    },
-    {
-      "published_datetime": "2026-02-03T19:04:39.000000Z",
-      "title": "Jet fighter downs Iranian drone near US aircraft carrier",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98bc524fee2b12897b5c29065e0f67c9?impolicy=wcms_crop_resize&amp;cropH=1680&amp;cropW=2982&amp;xPos=0&amp;yPos=411&amp;width=862&amp;height=485"
-      },
-      "description": "The US military has shot down an Iranian drone that was flying towards an American aircraft carrier in waters near Iran, US authorities say.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/us-forces-shoot-down-iranian-drone/106302478"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/173a278e-5da6-40fc-abb1-b217b189eda3",
@@ -208,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d3ee53f9-51f3-46d1-9bb0-f71ea5b24dff",
-      "published_datetime": "2026-02-03T16:43:25.259791",
-      "title": "Iranian gunboats order US tanker to halt in Strait of Hormuz",
-      "featured_image": {
-        "url": "https://www.cbsnews.com/news/iran-seizes-oil-tanker-strait-of-hormuz-first-attack-shipping-in-months/",
-        "name": "Iranian forces reportedly seize tanker in Strait of Hormuz in first such attack on shipping in months",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--j3o2rrCI--/t_limit/https://assets1.cbsnewsstatic.com/hub/i/r/2021/11/03/909c73f9-de20-4ab4-8905-613b37a13dc2/thumbnail/1200x630/2db59af459da9e25b0d4928d8564d2a2/iran-revolutionary-guards-speed-boat-ap16251474563353.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--3bG8TKC---/t_thumbnail/https://assets1.cbsnewsstatic.com/hub/i/r/2021/11/03/909c73f9-de20-4ab4-8905-613b37a13dc2/thumbnail/1200x630/2db59af459da9e25b0d4928d8564d2a2/iran-revolutionary-guards-speed-boat-ap16251474563353.jpg"
-      },
-      "description": "Armed Iranian Revolutionary Guard gunboats approached and challenged the US-flagged tanker Stena Imperative in the Strait of Hormuz on Tuesday, ordering the vessel to stop and prepare for boarding before the ship evaded the confrontation and continued on its route, according to British maritime security firm Vanguard Tech.[1][2][3]\n\nThe incident, which occurred approximately 16 nautical miles north of Oman within the inbound Traffic Separation Scheme, comes just days before scheduled US-Iran talks in Istanbul aimed at defusing tensions over Tehran's nuclear program.[4][5]",
-      "audio_url": "",
-      "url": "iranian-gunboats-attempt-to-in-wISClvbKRK6mwm5pjWNZxw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-03T13:29:51.000000Z",
       "title": "Battery demand 'straps on a rocket' as rooftop solar passes its peak",
       "featured_image": {
@@ -230,15 +239,6 @@
       },
       "description": "Even as Australia appears to have passed the peak of solar uptake, demand for batteries is seemingly headed into orbit.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/subsidies-the-fuel-as-battery-demand-straps-on-a-rocket/106300776"
-    },
-    {
-      "published_datetime": "2026-02-03T05:29:29.000000Z",
-      "title": "Mother says sending son to swim 4km for help 'one of the hardest decisions'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/03b3fcac3ee70e4ac4d72308b79ff977?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=66&amp;width=862&amp;height=485"
-      },
-      "description": "A WA mother says asking her teenage son to swim four kilometres through rough seas to get help after their family was swept out to sea, was \"one of the hardest decisions\" she has ever made.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-03/teen-speaks-after-saving-family-in-geographe-bay/106298798"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-03T21:26:09.887969"
+  "merged_at": "2026-02-03T22:21:42.210562"
 }
