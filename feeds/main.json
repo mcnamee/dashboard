@@ -1,12 +1,63 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-03T03:41:21.000000Z",
+      "title": "Breaking: RBA lifts interest rates by 0.25pc as inflation rises",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3720bdd572b096bf25cba281b4222edf?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=100&amp;width=862&amp;height=485"
+      },
+      "description": "RBA lifts interest rates by 0.25 per cent, to 3.85 per cent, after inflation rose \"materially\" in second half of 2025.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-03/reserve-bank-lifts-interest-rates-february-2026/106298696"
+    },
+    {
+      "published_datetime": "2026-02-03T02:23:01.000000Z",
+      "title": "'Beautiful' young Australian mourned as Japanese police investigate ski lift death",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9dc697086a2d14e5a59746d63a011a31?impolicy=wcms_crop_resize&amp;cropH=739&amp;cropW=1314&amp;xPos=0&amp;yPos=109&amp;width=862&amp;height=485"
+      },
+      "description": "Queensland woman Brooke Day, 22, is being remembered as a \"cherished teammate\" following her death at a popular Japanese ski resort.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-03/brooke-day-mourned-japan-ski-lift-death/106298942"
+    },
+    {
+      "published_datetime": "2026-02-03T02:15:49.000000Z",
+      "title": "NSW protest restrictions extended ahead of Israel president's visit",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ade22db92963da77c7fa18006c25c499?impolicy=wcms_crop_resize&amp;cropH=3295&amp;cropW=5857&amp;xPos=0&amp;yPos=305&amp;width=862&amp;height=485"
+      },
+      "description": "The NSW Police commissioner announces restrictions on protests will be extended, ahead of planned demonstrations against the upcoming Sydney visit of Israel's president.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-03/nsw-police-protest-laws-israel-president-isaac-herzog-sydney/106298050"
+    },
+    {
+      "published_datetime": "2026-02-03T01:26:25.000000Z",
+      "title": "Three Nationals banned from reunited Coalition cabinet until July under Ley's offer",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db8e463a0b8afebde66f61c19485864e?impolicy=wcms_crop_resize&amp;cropH=2944&amp;cropW=5235&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Sussan Ley has given David Littleproud a list of non-negotiable conditions, which if accepted could see the Coalition reunited before the end of the week.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-03/ley-offers-littleproud-terms-to-reunite-coalition/106298840"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/295e66be-8dbb-4db0-9439-29ae1725d010",
+      "published_datetime": "2026-02-03T00:44:39.929210",
+      "title": "CATL claims new battery can fast-charge in 12 minutes",
+      "featured_image": {
+        "url": "https://www.cbtnews.com/catl-unveils-ev-battery-with-323-mile-range-on-5-minute-charge/",
+        "name": "CATL unveils EV battery with 323-mile range on 5-minute charge",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--xbuazve---/t_limit/https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2025/04/shutterstock_2533514671-scaled.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--O7LtmdlX--/t_thumbnail/https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2025/04/shutterstock_2533514671-scaled.jpg"
+      },
+      "description": "A wave of recent advances in battery and materials engineering promises to address two persistent challenges facing electric vehicles: slow charging times and limited range. Research teams in China and South Korea have unveiled innovations that could make EVs more convenient and efficient without requiring larger, heavier battery packs.",
+      "audio_url": "",
+      "url": "new-ev-technologies-enable-fas-EUq7KDGGRmqsa2rwPbBlVQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-03T00:11:05.000000Z",
-      "title": "Model released for NDIS alternative for some autistic children",
+      "title": "Details of NDIS alternative for some autistic children finally revealed",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6d019ceebbae119029935902ed2e3464?impolicy=wcms_crop_resize&amp;cropH=833&amp;cropW=1481&amp;xPos=47&amp;yPos=97&amp;width=862&amp;height=485"
       },
-      "description": "The federal government reveals how its NDIS alternative for some children under eight will work.",
+      "description": "The federal government has released the model for its Thriving Kids program, aimed at setting up services and supports run by states and territories outside the NDIS.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-03/thriving-kids-model-released-autism-developmental-delay/106287786"
     },
     {
@@ -64,24 +115,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-02T20:50:11.000000Z",
-      "title": "Deep Creek bushfire burning on 'multiple fast-moving fronts'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/010e22467a27c96961bcc18f5376dc53?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=591&amp;width=862&amp;height=485"
-      },
-      "description": "The Country Fire Service is warning that the threat posed by a fire on South Australia's Fleurieu Peninsula could increase throughout the day.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-03/hundreds-of-firefighters-battle-deep-creek-fire/106298126"
-    },
-    {
-      "published_datetime": "2026-02-02T20:29:01.000000Z",
-      "title": "Live: ASX and Aussie dollar up ahead of expected rate hike",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/455a4f5b392c122198e73dcc7e4381b1?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
-      },
-      "description": "A rally on Wall Street has sent Australian stocks higher, while the Reserve Bank is tipped to raise interest rates for the first time in more than two years this afternoon. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-03/asx-markets-business-live-news-03feb-2026/106298200"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1ce494bf-8ecb-4254-97b8-2fb44681395e",
       "published_datetime": "2026-02-02T20:22:56.021782",
       "title": "NASA pauses Artemis II fueling test after hydrogen leak detected",
@@ -113,11 +146,11 @@
     },
     {
       "published_datetime": "2026-02-02T19:51:20.000000Z",
-      "title": "Live: Liberals to sit alone in parliament after Coalition split",
+      "title": "Live: Nationals sit on crossbench as PM grilled on cost of living",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bb32b988f7f703bb16571b41f4c70e8e?impolicy=wcms_crop_resize&amp;cropH=3124&amp;cropW=5554&amp;xPos=241&amp;yPos=384&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f47321f2d61763dbbc646d8ec904e657?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Ahead of parliament's return, the future of the Coalition remains in limbo after \"civil\" talks between Sussan Ley and David Littleproud. Follow live.",
+      "description": "The Nationals have taken their seats on the crossbench in Question Time in the House of Representatives as the prime minister is grilled on the cost of living. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-03/federal-politics-live-ley-littleproud-albanese-parliament/106296954"
     },
     {
@@ -184,15 +217,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-03/amber-wraiths-parents-say-suicidal-thoughts-downplayed-dismissed/106213582"
     },
     {
-      "published_datetime": "2026-02-02T18:51:09.000000Z",
-      "title": "Should you take fish oil for your heart, joints or mood?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f86009300220e679aee873f5c794ad8d?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Fish oil is one of the most popular dietary supplements. It's often promoted for protecting the heart, boosting mood, reducing inflammation, and supporting overall health.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-03/should-take-fish-oil-supplement-heart-joints-mood/106281540"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d4143e1d-5f2a-44d4-9c9b-11622898e519",
       "published_datetime": "2026-02-02T18:49:11.437696",
       "title": "Iran summons EU ambassadors over terror designation of Guard",
@@ -208,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1217fae5-75d4-4347-98bc-146082f8ab09",
-      "published_datetime": "2026-02-02T18:47:00.376861",
-      "title": "OpenAI launches Codex desktop app for running parallel AI coding agents",
-      "featured_image": {
-        "url": "https://www.engadget.com/ai/openai-brings-its-codex-coding-app-to-mac-with-new-multi-agent-abilities-included-183103262.html",
-        "name": "OpenAI brings its Codex coding app to Mac, with new multi-agent abilities included",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--qHZds5T9--/t_limit/https://s.yimg.com/ny/api/res/1.2/9aCxXT4eDwtGPOosz1yjeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/codex-app.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--x6kj-6GZ--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/9aCxXT4eDwtGPOosz1yjeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/codex-app.jpg"
-      },
-      "description": "OpenAI on Monday unveiled a dedicated macOS desktop application for its Codex AI coding assistant, introducing what the company calls a \"command center for agents\" that enables software developers to run multiple AI coding assistants in parallel on long-running tasks.\n\nThe Codex app, available starting today, marks a departure from the command-line and browser-based interfaces that developers have used since Codex launched in April 2025. According to OpenAI, the desktop application is designed to address a fundamental shift in how developers work with AI\u2014from pair programming with a single assistant to orchestrating teams of autonomous agents across projects.[1][2]\n\n\"This is the most loved internal product we've ever had,\" CEO Sam Altman said during a press briefing ahead of the launch. \"It's been totally an amazing thing for us to be using recently at OpenAI\".[1]",
-      "audio_url": "",
-      "url": "openai-releases-codex-app-for-_qzbGnbrSZWcYR.8obuxDA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-02T18:42:02.000000Z",
       "title": "One Nation 'spot the Westerner' video condemned",
       "featured_image": {
@@ -230,15 +239,6 @@
       },
       "description": "A One Nation party official has filmed strangers on Melbourne's streets claiming the city \"doesn't look like a Western nation at all\".",
       "page_content_url": "https://www.abc.net.au/news/2026-02-03/one-nation-state-secretary-posts-spot-the-westerner-video/106295436"
-    },
-    {
-      "published_datetime": "2026-02-02T18:00:00.000000Z",
-      "title": "Brisbane coffee assault enters new phase with justice depending on Beijing",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5d163b2dfad58ee1cc3ef2504f705a61?impolicy=wcms_crop_resize&amp;cropH=722&amp;cropW=1284&amp;xPos=0&amp;yPos=169&amp;width=862&amp;height=485"
-      },
-      "description": "Sixteen months after a stranger poured scalding coffee over a baby in a Brisbane park, China's decision to send a working group to Australia marks the first tangible shift in a complicated case.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-03/brisbane-baby-coffee-assault-australia-china-relations-beijing/106294458"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-03T01:17:53.529506"
+  "merged_at": "2026-02-03T04:07:11.226566"
 }
