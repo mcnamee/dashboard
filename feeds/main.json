@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-03T07:40:36.000000Z",
+      "title": "Chalmers says the rate hike is not his fault. The voters don't care",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d983c9dad14ec16dbbad01bf0474f515?impolicy=wcms_crop_resize&amp;cropH=586&amp;cropW=1042&amp;xPos=164&amp;yPos=84&amp;width=862&amp;height=485"
+      },
+      "description": "When the news broke that rates would increase, the treasurer's main priority was to prove it wasn't his fault. That won't satisfy voters.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-03/chalmers-must-move-beyond-denying-blame-for-rate-hikes/106301560"
+    },
+    {
+      "published_datetime": "2026-02-03T07:30:22.000000Z",
+      "title": "Foreign boat pictured in creek as alleged illegal fishers reach mainland Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e2188bfc70ad6a40797b30fffe6d805e?impolicy=wcms_crop_resize&amp;cropH=658&amp;cropW=1169&amp;xPos=0&amp;yPos=366&amp;width=862&amp;height=485"
+      },
+      "description": "Breaches of Australia's northern border continue to escalate, with an alleged illegal fishing boat having been photographed deep inside a creek in Far North Queensland.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-03/foreign-fishing-boat-pictured-cape-york-peninsula-creek/106300516"
+    },
+    {
+      "published_datetime": "2026-02-03T07:26:10.000000Z",
+      "title": "Disability expert slams 'dangerous narrative' of Mosman Park teen deaths",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/465a7478b82e48a0d191338e933555b0?impolicy=wcms_crop_resize&amp;cropH=851&amp;cropW=1512&amp;xPos=0&amp;yPos=372&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's disability discrimination commissioner condemns \"dangerous narratives\" surrounding the deaths of teenage brothers Leon and Otis Clune, saying the burden of disability should never be a justification for family violence.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-03/disability-commissioner-comments-mosman-park-murder-suicide/106301532"
+    },
+    {
       "published_datetime": "2026-02-03T05:52:08.000000Z",
       "title": "Nightmare scenario as RBA outlines horror interest rates",
       "featured_image": {
@@ -46,33 +73,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-03/lidia-thorpe-motion-invasion-day-alleged-bomb-attack-parliament/106298440"
     },
     {
-      "published_datetime": "2026-02-03T04:55:07.000000Z",
-      "title": "'Grave concerns' for bushwalker missing in the Blue Mountains",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9d3e45b2daf1440db2abc5e4ac0b678e?impolicy=wcms_crop_resize&amp;cropH=845&amp;cropW=1503&amp;xPos=0&amp;yPos=503&amp;width=862&amp;height=485"
-      },
-      "description": "Police have released an image of 71-year-old David Elliot as part of a multi-agency search when he failed to return from a 30-kilometre walk.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-03/nsw-missing-bushwalker-search-blue-mountains/106300230"
-    },
-    {
-      "published_datetime": "2026-02-03T04:19:50.000000Z",
-      "title": "Man accused of backing Bondi attackers faces more firearms charges",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94d537298b981e5fd899d9904d411b38?impolicy=wcms_crop_resize&amp;cropH=281&amp;cropW=500&amp;xPos=0&amp;yPos=74&amp;width=862&amp;height=485"
-      },
-      "description": "A Perth man who allegedly stated support for the Bondi shooters appears in court to face new firearms charges, with his lawyer flagging a bail application.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-03/perth-man-accused-of-backing-bondi-attackers-faces-more-charges/106299954"
-    },
-    {
-      "published_datetime": "2026-02-03T04:00:36.000000Z",
-      "title": "Treasurer moves to restrict public access to company directors' home addresses",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/616ce3ed2e3c406b57dad2b79d84bcd3?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
-      },
-      "description": "The Australian Securities and Investments Commission moves to dramatically restrict public access to the residential addresses of company directors at the request of Treasurer Jim Chalmers.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-03/company-director-addresses-restricted-asic-jim-chalmers/106299932"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/31408464-7417-4d07-984f-dbc8f25feb35",
       "published_datetime": "2026-02-03T02:57:31.448246",
       "title": "Gold, silver rebound after historic crash on Fed chair pick",
@@ -86,6 +86,15 @@
       "audio_url": "",
       "url": "gold-and-silver-prices-rebound-iGYO2pxYRvSARrihfk5_Mw",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-02-03T01:34:56.000000Z",
+      "title": "Clintons agree to testify before Congress on Epstein ties",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2572e65182ac87b180dec360e3247afc?impolicy=wcms_crop_resize&amp;cropH=1822&amp;cropW=3240&amp;xPos=0&amp;yPos=88&amp;width=862&amp;height=485"
+      },
+      "description": "The decision could head off a planned vote in the Republican-led House of Representatives to hold the two prominent Democrats in contempt of Congress, which could potentially lead to criminal charges.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-03/bill-hillary-clinton-testify-congress-epstein-investigation/106299282"
     },
     {
       "published_datetime": "2026-02-03T01:26:25.000000Z",
@@ -110,15 +119,6 @@
       "audio_url": "",
       "url": "new-ev-technologies-enable-fas-EUq7KDGGRmqsa2rwPbBlVQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-02T23:07:30.000000Z",
-      "title": "What the newly released Epstein files say about Donald Trump",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/45b96df1a83f47cb6622d243bbdb5e86?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump's name appears many times in the Epstein files \u2014 including on an FBI list of men who are named as subjects of \"salacious information\". So what have we learned about the US president?",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-03/donald-trump-mentioned-in-epstein-files-thousands-of-times/106297878"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/84d07d90-86ea-48bb-815f-abd024620051",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-03T07:36:51.708394"
+  "merged_at": "2026-02-03T08:27:30.395103"
 }
