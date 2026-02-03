@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cb755dd5-4414-4177-bb07-ba70f0c83693",
+      "published_datetime": "2026-02-03T16:11:08.292240",
+      "title": "China unveils concept for 'Star Wars' space carrier",
+      "featured_image": {
+        "url": "https://www.thesun.co.uk/news/38104960/china-unveils-star-wars-space-carrier/",
+        "name": "China reveals futuristic Star Wars-style space carrier able ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--rIaPTU3r--/t_limit/https://www.the-sun.com/wp-content/uploads/sites/6/2026/02/china-unveils-star-wars-space-1056199846.jpg%3Fw%3D960",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--FbMVij9d--/t_thumbnail/https://www.the-sun.com/wp-content/uploads/sites/6/2026/02/china-unveils-star-wars-space-1056199846.jpg%3Fw%3D960"
+      },
+      "description": "China has unveiled plans for a massive space carrier capable of deploying unmanned fighter jets from the edge of Earth's atmosphere, with state media releasing concept videos of the futuristic vessel as part of Beijing's broader push for aerospace dominance. Defense analysts, however, have expressed skepticism about the project's feasibility, with some suggesting it may be more propaganda than practical weapons development.",
+      "audio_url": "",
+      "url": "china-reveals-luanniao-space-c-kpIU8HILTLWqYZ_coOk5Yg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-03T16:09:16.000000Z",
       "title": "Mandelson set to retire from British politics over links to Epstein",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/84d07d90-86ea-48bb-815f-abd024620051",
-      "published_datetime": "2026-02-02T22:59:30.349439",
-      "title": "Musk confirms SpaceX-xAI merger ahead of planned IPO",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/news/elon-musk-said-advanced-talks-133522406.html",
-        "name": "Musk Is Said to Be in Advanced Talks to Combine SpaceX, xAI",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--yXpXvJgs--/t_limit/https://s.yimg.com/ny/api/res/1.2/qNiS1BBWZvDDFY5w1R5hIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE5MjA7aD0xMDgw/https://media.zenfs.com/en/bloomberg_holding_pen_162/e0707b53d7923f11d9028475760fcd8b",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--xRPHiXWs--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/qNiS1BBWZvDDFY5w1R5hIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE5MjA7aD0xMDgw/https://media.zenfs.com/en/bloomberg_holding_pen_162/e0707b53d7923f11d9028475760fcd8b"
-      },
-      "description": "Elon Musk is combining his rocket and satellite company SpaceX with his artificial intelligence firm xAI in a corporate consolidation that could set the stage for one of the largest initial public offerings in history. The deal was announced via internal memo on Monday, according to Bloomberg News, bringing together Musk's space exploration infrastructure with his AI ambitions under a single corporate umbrella.[1][2][3]\n\nThe newly combined entity is expected to be valued at approximately $1.25 trillion, with a share price set around $527, according to Reuters citing Bloomberg's reporting. The merger comes as SpaceX prepares for a mid-June IPO that could raise as much as $50 billion and value the company at roughly $1.5 trillion, according to the Financial Times.[4][5][6][7][1]",
-      "audio_url": "",
-      "url": "elon-musk-merges-spacex-with-x-xU.5lLlJQWCdOqlgXYBc1g",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-03T16:42:15.746921"
+  "merged_at": "2026-02-03T17:03:58.358856"
 }
