@@ -1,22 +1,88 @@
 {
   "items": [
     {
-      "published_datetime": "2026-02-04T18:33:31.000000Z",
-      "title": "'Bloodbath' at Washington Post as massive layoffs announced",
+      "published_datetime": "2026-02-04T19:18:06.000000Z",
+      "title": "Report points to flaws in jobs scheme for Pacific islanders",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dcb2641cb64f9c2257d55d73c19aff96?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/76924cfe87f0d98ad17806000b393aab?impolicy=wcms_crop_resize&amp;cropH=2484&amp;cropW=4416&amp;xPos=0&amp;yPos=306&amp;width=862&amp;height=485"
       },
-      "description": "The Jeff Bezos-owned paper which famously brought down US President Richard Nixon will drastically cut back in size and lay off workers in all its departments.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/washington-post-layoffs/106307024"
+      "description": "Changing jobs is a basic right for most people, but it is not so simple for Pacific Australia Labour Mobility workers.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/palm-scheme-report-calls-for-change/106298514"
+    },
+    {
+      "published_datetime": "2026-02-04T19:10:17.000000Z",
+      "title": "Online safety watchdog says tech giants failing to detect child abuse",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1e2955036371152df7f60c83882b97a5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Major tech companies including Apple, Google, Meta and Microsoft are still failing to do enough to detect and stop child sexual abuse, eSafety has claimed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/online-safety-watchdog-says-tech-giants-failing-on-child-abuse/106306564"
+    },
+    {
+      "published_datetime": "2026-02-04T18:59:19.000000Z",
+      "title": "Anti-corruption boss given 'please explain' by government over Defence ties",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bbb9f1462c68e4fb777808a843916ad0?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=30&amp;width=862&amp;height=485"
+      },
+      "description": "Attorney-General Michelle Rowland asked Paul Brereton to explain why his ongoing ties to Defence had not been \"adequately\" disclosed in a letter sent last year.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/attorney-general-asked-nacc-chief-to-explain-defence-ties/106305764"
+    },
+    {
+      "published_datetime": "2026-02-04T18:54:30.000000Z",
+      "title": "Knives and poison within reach of kids, prompting closure of day care centre",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/294f799580e074932dd3d06bbfca80d6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=368&amp;width=862&amp;height=485"
+      },
+      "description": "Three early learning services, including one at an elite private school, will be closed down today as part of a national push to lift quality.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/nsw-vic-childcare-centre-closures-failed-regulations/106304020"
+    },
+    {
+      "published_datetime": "2026-02-04T18:46:16.000000Z",
+      "title": "A 'ghost airport' and sinkhole highway represent Timor's gamble on oil and gas",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/916efbec356ff7a60775d4b5e582f89c?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+      },
+      "description": "The Greater Sunrise gas project was meant to transform Timor-Leste and bring billions in revenue, but locals are still waiting for the jobs and opportunities that were promised.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/timor-leste-greater-sunrise-project-ghost-airport-and-sinkholes/106303186"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/389d33df-cb9b-45a0-96d7-63315220d8fa",
+      "published_datetime": "2026-02-04T18:18:23.830395",
+      "title": "X4.2 solar flare triggers radio blackouts across Africa, Europe",
+      "featured_image": {
+        "url": "https://www.space.com/astronomy/sun/sun-unleashes-colossal-x4-2-solar-flare-knocking-out-radio-signals-across-africa-and-europe-video",
+        "name": "Sun unleashes colossal X4.2 solar flare, knocking out radio ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ePV7T2Gx--/t_limit/https://cdn.mos.cms.futurecdn.net/ooLHxbxk3ac42Xnm7WwNRi.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--NwNw0yCL--/t_thumbnail/https://cdn.mos.cms.futurecdn.net/ooLHxbxk3ac42Xnm7WwNRi.jpg"
+      },
+      "description": "The sun erupted with a major X4.2-class solar flare on Tuesday, the latest in a week-long barrage of explosive activity that has space weather experts watching closely for possible aurora displays and radio disruptions on Earth.\n\nThe flare, which peaked at 12:13 UTC on February 4, originated from Active Region 4366, an enormous and magnetically complex sunspot that scientists have dubbed a \"solar flare factory.\" The eruption triggered strong radio blackouts across parts of Africa and Europe, where high-frequency communications were temporarily disrupted.[1][2][3]",
+      "audio_url": "",
+      "url": "sun-unleashes-powerful-flares-ASP78aqBQNqsaMnfz.Tl0Q",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-02-04T18:06:05.000000Z",
-      "title": "Man who attempted to assassinate Donald Trump sentenced to life in prison",
+      "title": "Man who tried to assassinate Donald Trump jailed for life",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0da721c44b5eb13bc7c87d1e90f3f6e0?impolicy=wcms_crop_resize&amp;cropH=1486&amp;cropW=2641&amp;xPos=0&amp;yPos=138&amp;width=862&amp;height=485"
       },
       "description": "Ryan Routh will spend the rest of his life behind bars for his 2024 assassination attempt on the then US presidential hopeful.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-05/ryan-routh-given-life-sentence-for-attempted-trump-assassination/106307006"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3322ff0d-75ba-4105-ab56-73a019cb0adc",
+      "published_datetime": "2026-02-04T17:33:44.266763",
+      "title": "Ozone-saving chemicals linked to 335,000 tonnes of forever chemical pollution",
+      "featured_image": {
+        "url": "https://theconversation.com/cfc-replacements-cause-vast-forever-chemical-pollution-new-research-274776",
+        "name": "CFC replacements cause vast 'forever chemical' pollution ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--sG9dABDZ--/t_limit/https://images.theconversation.com/files/715891/original/file-20260203-56-tsksol.jpg%3Fixlib%3Drb-4.1.0%26q%3D45%26auto%3Dformat%26w%3D1000%26fit%3Dclip",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--MtvVckYL--/t_thumbnail/https://images.theconversation.com/files/715891/original/file-20260203-56-tsksol.jpg%3Fixlib%3Drb-4.1.0%26q%3D45%26auto%3Dformat%26w%3D1000%26fit%3Dclip"
+      },
+      "description": "A new study has found that chemicals introduced to protect the ozone layer have caused hundreds of thousands of tonnes of a persistent \"forever chemical\" to spread across the planet, from rainwater and drinking water to Arctic ice.\n\nResearch led by Lancaster University and published in the journal Geophysical Research Letters on February 4 calculated that chlorofluorocarbon (CFC) replacement chemicals and inhalation anesthetics deposited approximately 335,500 metric tonnes of trifluoroacetic acid (TFA) across Earth's surface between 2000 and 2022. The rate of TFA entering the environment continues to grow, with peak annual production from these sources estimated to occur anywhere between 2025 and 2100.[1][2][3]",
+      "audio_url": "",
+      "url": "cfc-replacements-linked-to-glo-KzZmIRfGQ4eVmA7bCHlxAg",
+      "partition_name": "partition1"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0cc20db6-0fe0-4414-b45b-5d888a50ad34",
@@ -71,15 +137,6 @@
       "audio_url": "",
       "url": "iran-moves-to-reshape-nuclear-GjlQCWgGR1qEYwAJ_bIEAA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-04T15:25:35.000000Z",
-      "title": "Xi speaks of 'grand plan' with Russia in call with Putin",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/804dec7574c87b083401402ae7b04871?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=217&amp;width=862&amp;height=485"
-      },
-      "description": "The Chinese leader and his Russian counterpart hailed the success of the relationship between the two countries and pledged to further ties in a call broadcast on state television.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/xi-speaks-to-putin-and-trump-on-eve-of-ukraine-war-anniversary/106306896"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2af3cbbe-3608-4cdc-971c-6af2221ce86c",
@@ -157,36 +214,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e81ad9bb-21a1-4a75-b98c-b57ea3c960e0",
-      "published_datetime": "2026-02-04T13:27:23.055608",
-      "title": "Russian satellites suspected of intercepting European communications",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2024/5/22/russia-launches-space-weapon-in-path-of-us-satellite-pentagon",
-        "name": "Russia launches \u2018space weapon\u2019 in path of US satellite: Pentagon",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Ywbv_hfM--/t_limit/https://www.aljazeera.com/wp-content/uploads/2024/05/2024-05-21T225846Z_106176319_RC25C6AY751V_RTRMADP_3_SPACE-RUSSIA-USA-1716359620.jpg%3Fresize%3D1920%252C1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--JrlVKTkh--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2024/05/2024-05-21T225846Z_106176319_RC25C6AY751V_RTRMADP_3_SPACE-RUSSIA-USA-1716359620.jpg%3Fresize%3D1920%252C1080"
-      },
-      "description": "Russian reconnaissance satellites have intercepted communications from at least a dozen critical European satellites over the past three years, jeopardizing the confidentiality of sensitive government and military data transmitted across the continent, according to European security officials.\n\nThe Financial Times reported on February 4 that two Russian spacecraft, Luch-1 and Luch-2, have conducted prolonged proximity operations near key European geostationary satellites that serve the continent, including the United Kingdom, as well as portions of Africa and the Middle East. Since its launch in 2023, Luch-2 alone has approached at least 17 European satellites, many of which are operated by NATO-affiliated entities.[1][2][3][4][5]",
-      "audio_url": "",
-      "url": "russia-intercepts-communicatio-7MPzGgG0S0WZ2YQUTceOfw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3454fcde-7cab-4c4c-bc85-3466f55ecd71",
-      "published_datetime": "2026-02-04T13:24:34.713182",
-      "title": "Russia's budget deficit may triple as oil revenues plunge",
-      "featured_image": {
-        "url": "https://www.reuters.com/business/energy/russias-oil-gas-revenue-halved-january-yy-lowest-since-july-2020-2026-02-04/",
-        "name": "Russia's oil and gas revenue halved in January y/y to lowest since ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--tmUOW_ML--/t_limit/https://www.reuters.com/resizer/v2/OPLIV252AFNMZD3M4BKW3WCOGE.jpg%3Fauth%3Dd5a35c836dc106c3b7e97428bcdefff5b91151ed125c35fdd3c3b62e87ad1eab%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--zLltSu4Q--/t_thumbnail/https://www.reuters.com/resizer/v2/OPLIV252AFNMZD3M4BKW3WCOGE.jpg%3Fauth%3Dd5a35c836dc106c3b7e97428bcdefff5b91151ed125c35fdd3c3b62e87ad1eab%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Russia's budget deficit could swell to nearly three times the government's official target by the end of 2026, according to leaked calculations from a government-linked think tank cited by Reuters, as Western sanctions and declining oil prices continue to squeeze the Kremlin's finances.[1]\n\nThe Finance Ministry's data released Tuesday showed oil and gas revenues in January fell by half compared to the same month a year earlier, dropping to 393.6 billion rubles ($5.1 billion), the lowest level since July 2020 during the COVID-19 pandemic. The collapse underscores the mounting pressure on Moscow's fiscal position as it funds the ongoing war in Ukraine.[2]",
-      "audio_url": "",
-      "url": "russia-faces-surging-budget-de-eo_fHBcBQGqRaUNVn.zFhA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-04T12:00:24.000000Z",
       "title": "Capital gains tax reform among options as Labor weighs housing pitch",
       "featured_image": {
@@ -196,49 +223,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/capital-gains-tax-changes-among-options-as-labor-weighs-housing/106306738"
     },
     {
-      "published_datetime": "2026-02-04T07:26:10.000000Z",
-      "title": "Austin Appelbee's incredible tale of survival has made international headlines",
+      "published_datetime": "2026-02-04T09:10:58.000000Z",
+      "title": "Ex-prince Andrew leaves Windsor home after latest Epstein revelations",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7caa73a1a4404e30b2ae5aaad8ca8cce?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f3af84ae33e7c1c9200a9951368b0e17?impolicy=wcms_crop_resize&amp;cropH=1253&amp;cropW=2228&amp;xPos=495&amp;yPos=118&amp;width=862&amp;height=485"
       },
-      "description": "Austin Appelbee, 13, has made international headlines after swimming for four hours in rough seas to save his mum, sister and brother stranded in the ocean. How did he do it?",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/austin-appelbee-13yo-boy-swims-to-shore-to-save-family-australia/106301468"
+      "description": "British police are investigating Andrew Mountbatten-Windsor after new files suggest Jeffrey Epstein arranged for a woman to have sex with the former prince at his home at the Royal Lodge in 2010.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-04/andrew-mountbatten-windsor-moves-out-of-windsor/106306600"
     },
     {
       "published_datetime": "2026-02-04T06:38:28.000000Z",
-      "title": "FOI documents reveal how Anika Wells' New York trip costs escalated",
+      "title": "FOI documents reveal how Anika Wells's New York trip costs escalated",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1213cb843c2ce6a7438532cf9b23758c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "The final New York travel bill for Communications Minister Anika Wells and her staffer rose $7,000 from an initial booking due to last-minute changes.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/foi-docs-show-details-of-anika-wells-new-york-trip/106305526"
-    },
-    {
-      "published_datetime": "2026-02-04T06:22:42.000000Z",
-      "title": "Living costs rise for all but those on government payments hit hardest",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7c0d0d1b95081b9fee7107986af6298d?impolicy=wcms_crop_resize&amp;cropH=1622&amp;cropW=2884&amp;xPos=0&amp;yPos=38&amp;width=862&amp;height=485"
-      },
-      "description": "Cost-of-living pressures are being felt by all households, but some have been hit harder than others as annual costs increased between 2.3 and 4.2 per cent in 2025, according to the Australian Bureau of Statistics.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/living-costs-hit-some-harder-new-abs-data/106303060"
-    },
-    {
-      "published_datetime": "2026-02-04T04:20:08.000000Z",
-      "title": "Trump leaves 'door wide open' to nuclear arms race",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f380839edb57b9ec1e0ad46a5d8dc93?impolicy=wcms_crop_resize&amp;cropH=619&amp;cropW=1100&amp;xPos=0&amp;yPos=30&amp;width=862&amp;height=485"
-      },
-      "description": "The last remaining nuclear arms pact between the United States and Russia has come to an end at a time of global instability.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/start-treaty-russia-america-donald-trump-nuclear-arms-race/106303426"
-    },
-    {
-      "published_datetime": "2026-02-04T02:53:24.000000Z",
-      "title": "Third Australian dies in Japan during current ski season",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/15c4dd424c3d5cf20affbadbddc54b37?impolicy=wcms_crop_resize&amp;cropH=506&amp;cropW=900&amp;xPos=0&amp;yPos=547&amp;width=862&amp;height=485"
-      },
-      "description": "Michael Hurst had a medical episode and died on the slopes in Hokkaido, making it three Australians in total that have died in Japan this year.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/second-australian-dies-skiing-in-japan/106304484"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-04T18:36:51.438721"
+  "merged_at": "2026-02-04T19:33:37.297518"
 }
