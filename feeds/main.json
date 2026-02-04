@@ -19,6 +19,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/sam-groth-quits-victorian-parliament-nepean-by-election/106304976"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/45d91660-e9b7-48cf-9456-babf779bb6ee",
+      "published_datetime": "2026-02-04T03:11:59.681875",
+      "title": "Trump says Putin 'kept his word' after Russia's largest 2026 attack on Ukraine",
+      "featured_image": {
+        "url": "https://www.cbsnews.com/news/russia-ukraine-war-energy-truce-over-massive-strikes-before-peace-talks/",
+        "name": "Russia hammers Ukraine after halt announced by Trump, plunging thousands into frigid dark on eve of talks",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--cjnHsjf7--/t_limit/https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/03/2dac039a-a6ac-438a-af49-cc312590c023/thumbnail/1200x630/a2efbc8b99a09c82de8f9ee4862d176d/kyiv-russia-ukraine-strike.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--u1ApsZFV--/t_thumbnail/https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/03/2dac039a-a6ac-438a-af49-cc312590c023/thumbnail/1200x630/a2efbc8b99a09c82de8f9ee4862d176d/kyiv-russia-ukraine-strike.jpg"
+      },
+      "description": "President Donald Trump defended Russian President Vladimir Putin on Tuesday after Moscow resumed devastating attacks on Ukraine's energy infrastructure, saying Putin \"kept his word\" on a temporary halt to strikes \u2014 despite the pause ending after four days, not the promised week.\n\n\"It was Sunday to Sunday, and he opened up and hit them hard last night,\" Trump told reporters in the Oval Office. \"He kept his word on that. One week is a lot \u2014 we'll take anything, because it's really cold over there.\"[1][2]\n\nThe comments came hours after Russia launched what Ukrainian officials described as the largest attack of 2026, deploying more than 450 drones and 70 missiles at energy infrastructure during temperatures below -20\u00b0C (-4\u00b0F). The assault left over 1,000 residential buildings in Kyiv without heating and caused severe damage to power facilities in Kharkiv.[3][4][5]",
+      "audio_url": "",
+      "url": "trump-defends-putin-after-ener-QUhaivaPSBqX44kb7wA14A",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-04T03:06:06.000000Z",
       "title": "Liberals say $15b fund backing 'loser' green projects will fuel inflation",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/071de19a-4cc2-45fc-b208-2f389d98f69e",
-      "published_datetime": "2026-02-03T18:37:56.763127",
-      "title": "EU and UK hold London talks on trade, defense cooperation",
-      "featured_image": {
-        "url": "https://www.rfi.fr/en/international/20250520-uk-and-eu-reset-relations-with-landmark-deals-at-london-summit",
-        "name": "UK and EU reset relations with landmark deals at London summit",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--gkdzNJwq--/t_limit/https://s.rfi.fr/media/display/007fe8e8-34a6-11f0-8b93-005056bfb2b6/w:1024/p:16x9/AP25139355148612.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--1ODgySHi--/t_thumbnail/https://s.rfi.fr/media/display/007fe8e8-34a6-11f0-8b93-005056bfb2b6/w:1024/p:16x9/AP25139355148612.jpg"
-      },
-      "description": "European Union and UK officials opened a fresh push for closer cooperation this week, using meetings in London to accelerate negotiations on easing post-Brexit trade frictions and rebuilding security ties as the 10th anniversary of the 2016 referendum approaches.[1][2][3]\n\nThe discussions brought together UK Chancellor Rachel Reeves and senior EU figures including Maro\u0161 \u0160ef\u010dovi\u010d and Valdis Dombrovskis, amid growing agreement on both sides that the current geopolitical and trade environment is pushing Europe and Britain toward more structured collaboration.[2][3][1]",
-      "audio_url": "",
-      "url": "eu-and-uk-begin-talks-on-close-SAgBV0uuSAK0Si0ViWXwTQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-04T04:04:56.467458"
+  "merged_at": "2026-02-04T04:45:59.105208"
 }
