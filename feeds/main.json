@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-04T18:33:31.000000Z",
+      "title": "'Bloodbath' at Washington Post as massive layoffs announced",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dcb2641cb64f9c2257d55d73c19aff96?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The Jeff Bezos-owned paper which famously brought down US President Richard Nixon will drastically cut back in size and lay off workers in all its departments.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/washington-post-layoffs/106307024"
+    },
+    {
+      "published_datetime": "2026-02-04T18:06:05.000000Z",
+      "title": "Man who attempted to assassinate Donald Trump sentenced to life in prison",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0da721c44b5eb13bc7c87d1e90f3f6e0?impolicy=wcms_crop_resize&amp;cropH=1486&amp;cropW=2641&amp;xPos=0&amp;yPos=138&amp;width=862&amp;height=485"
+      },
+      "description": "Ryan Routh will spend the rest of his life behind bars for his 2024 assassination attempt on the then US presidential hopeful.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/ryan-routh-given-life-sentence-for-attempted-trump-assassination/106307006"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0cc20db6-0fe0-4414-b45b-5d888a50ad34",
+      "published_datetime": "2026-02-04T16:53:35.571154",
+      "title": "Xi holds back-to-back calls with Putin, Trump as nuclear pact expires",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/asia-pacific/xi-putin-hail-ties-video-call-ukraine-war-nears-anniversary-2026-02-04/",
+        "name": "Xi, Putin hail ties in video call as Ukraine war nears anniversary",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--XRkQUaNZ--/t_limit/https://www.reuters.com/resizer/v2/CWIXRLIRZBK5BBVLCANKSWJ65Q.jpg%3Fauth%3D8529ca334d9290d0dd8df7a76dbf07905eeb9c1618cdccf185ca272d917df253%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0MIJrRmD--/t_thumbnail/https://www.reuters.com/resizer/v2/CWIXRLIRZBK5BBVLCANKSWJ65Q.jpg%3Fauth%3D8529ca334d9290d0dd8df7a76dbf07905eeb9c1618cdccf185ca272d917df253%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Chinese President Xi Jinping engaged in a diplomatic double-header on Wednesday, holding a video conference with Russian President Vladimir Putin before speaking by phone with U.S. President Donald Trump, as the last remaining nuclear arms control agreement between Washington and Moscow is set to expire on Thursday.\n\nThe conversations came one day before the New Strategic Arms Reduction Treaty (New START) lapses, potentially marking the first time since the early 1970s that U.S. and Russian strategic nuclear forces will operate without legally binding constraints.[1][2][3]",
+      "audio_url": "",
+      "url": "xi-jinping-holds-phone-call-wi-tB700RM2TJa60sk96UplGA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-04T16:06:23.000000Z",
       "title": "Trump's border tsar says 700 ICE agents will leave Minnesota",
       "featured_image": {
@@ -8,6 +41,36 @@
       },
       "description": "The administration's border tsar says the decision came after local and state authorities agreed to cooperate more closely with its immigration crackdown.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-05/ice-to-pull-700-officers-out-of-minnesota/106306958"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2a4caf6d-f4eb-4c34-92ce-72271fc8e76d",
+      "published_datetime": "2026-02-04T15:45:24.610267",
+      "title": "Amazon to launch AI tools for film and TV production in March",
+      "featured_image": {
+        "url": "https://techcrunch.com/2025/11/19/amazons-prime-video-is-getting-ai-generated-video-recaps-for-some-tv-shows/",
+        "name": "Amazon's Prime Video is getting AI-generated Video Recaps ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--OoL-fK_h--/t_limit/https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1240319612.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--XEygGQgy--/t_thumbnail/https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1240319612.jpg"
+      },
+      "description": "Amazon has announced plans to use artificial intelligence to accelerate and reduce the cost of movie and television production, even as concerns persist throughout Hollywood about the technology's potential to eliminate jobs and fundamentally transform the entertainment industry.\n\nAt Amazon MGM Studios, veteran entertainment executive Albert Cheng is leading a team developing new AI tools designed to cut costs and streamline the creative process. The company plans to launch a closed beta program in March, inviting industry partners to test the tools, with results expected by May.[1][2][3]",
+      "audio_url": "",
+      "url": "amazon-to-use-ai-to-accelerate-EaqXjBGDTfCZKB6WF7g1JQ",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3a4bf483-f2e0-4846-b364-734e47b5f9d4",
+      "published_datetime": "2026-02-04T15:35:27.953791",
+      "title": "Iran moves to reshape nuclear talks as Gulf provocations rise",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/middle-east/iran-wants-change-venue-format-nuclear-talks-with-us-axios-reports-2026-02-03/",
+        "name": "Iran wants to change venue, format of nuclear talks with US, Axios ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--WuzZsO-D--/t_limit/https://www.reuters.com/resizer/v2/LBOSMVJV4RKNPENGC7QKG557WQ.jpg%3Fauth%3Dbcea9d365934681eb1dad4bb01f8e06e1e3ef508aa4421f736c8016853e05be3%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--yLv-kSFE--/t_thumbnail/https://www.reuters.com/resizer/v2/LBOSMVJV4RKNPENGC7QKG557WQ.jpg%3Fauth%3Dbcea9d365934681eb1dad4bb01f8e06e1e3ef508aa4421f736c8016853e05be3%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Iran has upended planned multi-party nuclear negotiations while simultaneously launching military provocations in the Persian Gulf, in what analysts describe as a coordinated effort to reshape the dynamics of looming talks with the United States.\n\nOn Feb. 3, Tehran demanded that Friday's planned talks be moved from Istanbul to Oman and shifted from a multilateral format to strictly bilateral negotiations focused only on its nuclear program, according to sources cited by Axios and Bloomberg. The maneuver represents a sharp reversal from understandings reached in recent days, after several regional powers had already been invited to participate in the Istanbul meeting.[1][2][3]",
+      "audio_url": "",
+      "url": "iran-moves-to-reshape-nuclear-GjlQCWgGR1qEYwAJ_bIEAA",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-02-04T15:25:35.000000Z",
@@ -124,36 +187,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/719d88ce-b3da-49fb-9a0b-cf0794a51a25",
-      "published_datetime": "2026-02-04T12:33:01.736954",
-      "title": "Donors withhold Gaza reconstruction funds over Hamas disarmament",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/middle-east/donors-reluctant-fund-us-led-gaza-plan-hamas-disarmament-push-stalls-sources-say-2026-02-04/",
-        "name": "Donors reluctant to fund US-led Gaza plan as Hamas disarmament ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--XMLoxjn0--/t_limit/https://www.reuters.com/resizer/v2/HWIVS64RMBMKVLZWGBMHYNPJG4.jpg%3Fauth%3Dbadf1d93cf148696b122f2c03d74d318eb7d714c4574bb01a1ff0c74753f51ad%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--LIjsWYqz--/t_thumbnail/https://www.reuters.com/resizer/v2/HWIVS64RMBMKVLZWGBMHYNPJG4.jpg%3Fauth%3Dbadf1d93cf148696b122f2c03d74d318eb7d714c4574bb01a1ff0c74753f51ad%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "International backers are declining to commit funds to the Trump administration's Gaza reconstruction initiative as negotiations over Hamas disarmament have stalled, leaving the devastated territory's more than two million residents unable to begin rebuilding, according to sources familiar with the matter.\n\nThe United States has yet to secure financial commitments for its reconstruction plan, with potential donors expressing concern that the impasse over disarmament could lead Israel to resume large-scale military operations in Gaza, sources told Reuters on Tuesday. Seven Western diplomats confirmed the funding delay, which has not been previously reported, noting that some prospective contributors are also requesting that funds be managed by the United Nations rather than by President Donald Trump's Board of Peace.[1][2]",
-      "audio_url": "",
-      "url": "donors-withhold-funds-for-us-g-us3pVBELSuWeWE15_NXL0w",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2f656dbe-e631-44e0-a66e-633b38b9fca5",
-      "published_datetime": "2026-02-04T12:03:42.071104",
-      "title": "Oil prices stabilize as Iran agrees to nuclear talks with US",
-      "featured_image": {
-        "url": "https://www.reuters.com/business/energy/us-crude-products-inventories-likely-rose-last-week-2026-01-05/",
-        "name": "US crude, products inventories likely rose last week",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--JH33kujD--/t_limit/https://www.reuters.com/resizer/v2/UI5EJFZFUZJTNKBHFWXRKYTMHM.jpg%3Fauth%3D8c4dbd1853e807224d441ba25ad23b3d3a0db31677a5fb9996353e30b375006e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--sSTDgKgp--/t_thumbnail/https://www.reuters.com/resizer/v2/UI5EJFZFUZJTNKBHFWXRKYTMHM.jpg%3Fauth%3D8c4dbd1853e807224d441ba25ad23b3d3a0db31677a5fb9996353e30b375006e%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Crude oil prices have climbed over the past month, driven by escalating tensions between the United States and Iran that threaten global energy supplies, while falling inventories and winter weather disruptions have added further support to the market.\n\nWTI crude oil rose on Tuesday, continuing a rally that has lifted prices more than 9% over the past month, according to Trading Economics. Brent crude gained in early Tuesday trading, with MUFG research analyst Soojin Kim noting that market focus remains on the Strait of Hormuz, \"a critical chokepoint for global oil and liquified gas flows\".[1][2]",
-      "audio_url": "",
-      "url": "oil-prices-surge-on-us-iran-te-0xthaQuHTJCRHhst8cNImg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-04T12:00:24.000000Z",
       "title": "Capital gains tax reform among options as Labor weighs housing pitch",
       "featured_image": {
@@ -161,39 +194,6 @@
       },
       "description": "After Jim Chalmers repeatedly refused to rule out changing the capital gains tax discount, a government source told the ABC that changes related to housing were being considered, with capital gains not ruled out.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/capital-gains-tax-changes-among-options-as-labor-weighs-housing/106306738"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c18b0da6-f9b3-4a59-b627-8fcd3e60becb",
-      "published_datetime": "2026-02-04T11:20:06.078318",
-      "title": "Xi and Putin hail ties in video call as Ukraine war nears anniversary",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/asia-pacific/xi-putin-hail-ties-video-call-ukraine-war-nears-anniversary-2026-02-04/",
-        "name": "Xi, Putin hail ties in video call as Ukraine war nears anniversary",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--XRkQUaNZ--/t_limit/https://www.reuters.com/resizer/v2/CWIXRLIRZBK5BBVLCANKSWJ65Q.jpg%3Fauth%3D8529ca334d9290d0dd8df7a76dbf07905eeb9c1618cdccf185ca272d917df253%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0MIJrRmD--/t_thumbnail/https://www.reuters.com/resizer/v2/CWIXRLIRZBK5BBVLCANKSWJ65Q.jpg%3Fauth%3D8529ca334d9290d0dd8df7a76dbf07905eeb9c1618cdccf185ca272d917df253%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Chinese President Xi Jinping and Russian President Vladimir Putin celebrated their nations' partnership during a video call on Wednesday, with both leaders signaling a commitment to deepen strategic cooperation as the fourth anniversary of Russia's invasion of Ukraine approaches later this month.\n\nIn remarks broadcast on Russian state television, Putin described the Moscow-Beijing relationship as a \"stabilizing factor\" amid global turbulence, while Xi called for a \"grand plan\" to advance bilateral ties that he said were on the \"right trajectory.\"[1][2][3]",
-      "audio_url": "",
-      "url": "xi-and-putin-hold-video-call-t-hdLw56NHSAKPhzGfiLcZqA",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-04T11:14:49.000000Z",
-      "title": "Moguls medal hopes named as Olympic flagbearers",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/869d0d96c59d057cac39142459b3a007?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Jakara Anthony and Matt Graham have been named as flag bearers for the 2026 Winter Olympic Games in Milano Cortina.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/australia-announces-2026-winter-olympics-flag-bearers/106306688"
-    },
-    {
-      "published_datetime": "2026-02-04T09:10:58.000000Z",
-      "title": "Ex-prince Andrew leaves Windsor home after latest Epstein revelations",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f3af84ae33e7c1c9200a9951368b0e17?impolicy=wcms_crop_resize&amp;cropH=1253&amp;cropW=2228&amp;xPos=495&amp;yPos=118&amp;width=862&amp;height=485"
-      },
-      "description": "British police are investigating Andrew Mountbatten-Windsor after new files suggest Jeffrey Epstein arranged for a woman to have sex with the former prince at his home at the Royal Lodge in 2010.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/andrew-mountbatten-windsor-moves-out-of-windsor/106306600"
     },
     {
       "published_datetime": "2026-02-04T07:26:10.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-04T17:39:11.854366"
+  "merged_at": "2026-02-04T18:36:51.438721"
 }
