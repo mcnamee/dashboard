@@ -1,13 +1,46 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-04T06:38:28.000000Z",
+      "title": "FOI documents reveal how Anika Wells' New York trip costs escalated",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1213cb843c2ce6a7438532cf9b23758c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The final New York travel bill for Communications Minister Anika Wells and her staffer rose $7,000 from an initial booking due to last-minute changes.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-04/foi-docs-show-details-of-anika-wells-new-york-trip/106305526"
+    },
+    {
       "published_datetime": "2026-02-04T06:22:42.000000Z",
-      "title": "Living costs rise for all but some hit harder, new ABS data finds",
+      "title": "Living costs rise for all but those on government payments hit hardest",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7c0d0d1b95081b9fee7107986af6298d?impolicy=wcms_crop_resize&amp;cropH=1622&amp;cropW=2884&amp;xPos=0&amp;yPos=38&amp;width=862&amp;height=485"
       },
       "description": "Cost-of-living pressures are being felt by all households, but some have been hit harder than others as annual costs increased between 2.3 and 4.2 per cent in 2025, according to the Australian Bureau of Statistics.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/living-costs-hit-some-harder-new-abs-data/106303060"
+    },
+    {
+      "published_datetime": "2026-02-04T06:10:32.000000Z",
+      "title": "Remote NT town to be evacuated ahead of major flooding",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f86e9af46e9109da4613abdcb068aeb?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "About 450 people are being evacuated from the remote Northern Territory town of Daly River, ahead of expected flood levels of more than 14 metres.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-04/emergency-evacuation-for-daly-river-ahead-of-major-flooding/106305594"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ddb6e5a6-e1d7-4a5a-9a10-3e1a9b18a391",
+      "published_datetime": "2026-02-04T05:50:46.655549",
+      "title": "US-UK team develops real-time Arctic sea ice prediction model",
+      "featured_image": {
+        "url": "https://mashable.com/article/arctic-sea-ice-decline-2020",
+        "name": "Arctic sea ice drops below a grim benchmark in 2020 | Mashable",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--28Fc5xK---/t_limit/https://helios-i.mashable.com/imagery/articles/00hHYHDiSE5iwzeZzVDNXja/hero-image.fill.size_1200x675.v1614275554.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--C3Orbdoa--/t_thumbnail/https://helios-i.mashable.com/imagery/articles/00hHYHDiSE5iwzeZzVDNXja/hero-image.fill.size_1200x675.v1614275554.jpg"
+      },
+      "description": "A team of US and UK scientists has developed a new method capable of generating accurate, real-time predictions of Arctic sea ice extent, offering a crucial tool for climate monitoring and Indigenous communities who depend on stable ice conditions for their livelihoods.\n\nThe research, published in the journal Chaos by AIP Publishing on February 3, represents a breakthrough in subseasonal forecasting\u2014predicting sea ice conditions from early summer through fall when ice coverage in the Arctic reaches its annual minimum.[1][2][3]",
+      "audio_url": "",
+      "url": "researchers-achieve-real-time-Yp0fglWXS2mzv.V8Y34Fzg",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-02-04T05:06:25.000000Z",
@@ -29,7 +62,7 @@
     },
     {
       "published_datetime": "2026-02-04T03:52:07.000000Z",
-      "title": "Desperate need for medical evacuations in Gaza as Rafah crossing reopens",
+      "title": "The Rafah Crossing has reopened but why are most Gazans still trapped?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/222e5ac602227d03b7091af658f92f86?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
       },
@@ -61,15 +94,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-04T03:06:06.000000Z",
-      "title": "Liberals say $15b fund backing 'loser' green projects will fuel inflation",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0c67328837f0ce65a4de458c5b910f91?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=104&amp;width=862&amp;height=485"
-      },
-      "description": "The $15 billion fund will be allowed to back riskier green projects under new rules announced today. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/national-reconstruction-fund-loss-inflation/106303788"
-    },
-    {
       "published_datetime": "2026-02-04T02:53:24.000000Z",
       "title": "Australian man Michael 'Micky' Hurst dies in Japan while skiing",
       "featured_image": {
@@ -95,21 +119,12 @@
     },
     {
       "published_datetime": "2026-02-04T00:06:37.000000Z",
-      "title": "Government to sell historic defence properties to raise $1.8 billion",
+      "title": "Government to sell historic defence properties",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5a308b0f2e1fd769fe59dc670e18c65d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
       },
       "description": "The Albanese government has identified 67 defence sites for potential sale, aiming to unlock up to $1.8 billion.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/government-eyes-off-fire-sale-of-historic-defence-properties/106303044"
-    },
-    {
-      "published_datetime": "2026-02-03T23:46:17.000000Z",
-      "title": "Ley stands by demand to exile Nats rebels amid talks on Coalition split",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/570b6e540236a8b4066070b051392291?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=83&amp;width=862&amp;height=485"
-      },
-      "description": "The Nationals leader has refused to disclose whether he will reject an offering for the Coalition to reunite with a list of conditions, including a six-month suspension from the frontbench for three Nationals senators.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/ley-littleproud-stand-firm-coalition-reunion-talks/106302662"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9bc5f7b2-7ab3-4b7c-aa3c-6f9d59360783",
@@ -187,6 +202,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-02-03T20:11:53.000000Z",
+      "title": "Magistrate says 'depraved' child sex abuse material worst she's ever seen",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f99d620deb4727cc427ce29d476bba30?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=497&amp;width=862&amp;height=485"
+      },
+      "description": "Sydney man Colin Milne has been denied bail after \"extremely graphic, violent and depraved\" material was found on his devices, a court has heard.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-04/sixth-man-charged-in-sydney-over-alleged-satanic-sex-abuse-ring/106302516"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a7072c36-2245-41a3-ae61-da4601464e07",
       "published_datetime": "2026-02-03T19:22:27.297110",
       "title": "US Navy shoots down Iranian drone approaching carrier",
@@ -214,30 +238,6 @@
       "description": "China on Tuesday denounced a Panamanian Supreme Court ruling that struck down the legal basis for a Hong Kong company\u2019s long-running concessions to operate two ports at either end of the Panama Canal, escalating a dispute that has become entangled in U.S.-China rivalry and a major global ports transaction.[1][2][3]\n\nIn a statement carried by China\u2019s Hong Kong and Macau Affairs Office, Beijing described the decision as \u201cabsurd,\u201d \u201cshameful and pathetic,\u201d and warned Panama it could face \u201cheavy\u201d political and economic consequences if it pressed ahead\u2014language that signals the case has moved beyond a commercial disagreement into a diplomatic flashpoint.[4][2][3]",
       "audio_url": "",
       "url": "china-condemns-panama-court-ov-8JWRs21zR9SD6YAQ8Ar3Og",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-03T18:51:52.000000Z",
-      "title": "Why the 'Lucky Generation' without mortgages is still dismayed by RBA rate hike",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9aa9f765aeccad3cb3582485fafc15d3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=469&amp;width=862&amp;height=485"
-      },
-      "description": "A third of Australians could benefit if banks raise deposit rates on savings, while mortgage holders are having to decide what to cut back on.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/rba-hikes-cash-rate-0-25-percentage-points-in-february/106299582"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/34d44e14-2f49-426a-800b-3a30faa68434",
-      "published_datetime": "2026-02-03T18:47:48.660695",
-      "title": "US-backed consortium agrees to buy 40% of Glencore's Congo mines",
-      "featured_image": {
-        "url": "https://www.mining.com/glencore-plans-to-sell-40-stake-in-congo-mines-to-us-backed-consortium/",
-        "name": "Glencore plans to sell 40% stake in Congo mines to US-backed ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--unezjv8F--/t_limit/https://www.mining.com/wp-content/uploads/2026/01/Martabe.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--3LqUMdzf--/t_thumbnail/https://www.mining.com/wp-content/uploads/2026/01/Martabe.jpg"
-      },
-      "description": "Glencore PLC said it has signed a **non-binding memorandum of understanding** that could see a US-backed investment group acquire **40% of Glencore\u2019s interests** in two major copper-and-cobalt operations in the Democratic Republic of Congo (DRC): Mutanda Mining (Mumi) and Kamoto Copper Company (KCC). The companies said the talks imply a **combined enterprise value of about $9 billion** for the two assets.[1][2][3]\n\nThe prospective buyer is the **Orion Critical Mineral Consortium (Orion CMC)**, which Glencore said was established in October 2025 and is led by Orion Resource Partners in partnership with the US government. Glencore shares rose in London trading after the announcement.[4][3]",
-      "audio_url": "",
-      "url": "glencore-sells-40-percent-stak-zTulASkgQy64_19CaxApUA",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-04T06:39:31.710919"
+  "merged_at": "2026-02-04T07:39:07.732004"
 }
