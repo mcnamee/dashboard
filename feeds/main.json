@@ -1,12 +1,39 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-04T00:47:13.000000Z",
+      "title": "Former PMs and premiers farewell Dame Marie Bashir at state funeral",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b50a69cc94888db0e2b1c6309116eab?impolicy=wcms_crop_resize&amp;cropH=2311&amp;cropW=4108&amp;xPos=0&amp;yPos=213&amp;width=862&amp;height=485"
+      },
+      "description": "\"Proud country girl\" Dame Marie Bashir has been remembered by former prime ministers, premiers and family at a state funeral in Sydney.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-04/nsw-dame-marie-bashir-farewelled-in-state-funeral/106301600"
+    },
+    {
+      "published_datetime": "2026-02-04T00:06:37.000000Z",
+      "title": "Government to sell historic defence properties",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5a308b0f2e1fd769fe59dc670e18c65d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+      },
+      "description": "The Albanese government has identified 67 defence sites for potential sale, aiming to unlock up to $1.8 billion.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-04/government-eyes-off-fire-sale-of-historic-defence-properties/106303044"
+    },
+    {
+      "published_datetime": "2026-02-03T23:46:17.000000Z",
+      "title": "Ley and Littleproud stand firm ahead of fresh Coalition reunion talks",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/570b6e540236a8b4066070b051392291?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=83&amp;width=862&amp;height=485"
+      },
+      "description": "The Nationals leader has refused to disclose whether he will reject an offering for the Coalition to reunite with a list of conditions, including a six-month suspension from the frontbench for three Nationals senators.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-04/ley-littleproud-stand-firm-coalition-reunion-talks/106302662"
+    },
+    {
       "published_datetime": "2026-02-03T22:37:33.000000Z",
-      "title": "Breaking: Randa Abdel-Fattah to appear at Adelaide literary event in March",
+      "title": "Randa Abdel-Fattah to appear at Adelaide literary event in March",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4fc8b5b8b0ab4a4ea3fbfd497979cfc0?impolicy=wcms_crop_resize&amp;cropH=485&amp;cropW=862&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Palestinian Australian author, lawyer and activist Randa Abdel-Fattah will be appearing at the one-off literary event organised to fill the void left by the cancellation of this year's Adelaide Writers' Week, organisers have announced.",
+      "description": "Palestinian Australian author, lawyer and activist Randa Abdel-Fattah will be appearing at the one-off literary event created to fill the void left by the cancellation of this year's Adelaide Writers' Week, organisers have announced.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/randa-abdel-fattah-to-attend-adelaide-writers-event/106302864"
     },
     {
@@ -19,13 +46,19 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/survival-expert-praises-teen-family-geographe-bay-rescue/106301816"
     },
     {
-      "published_datetime": "2026-02-03T20:54:32.000000Z",
-      "title": "Live: Tech sell-off drives Wall Street lower as bitcoin crashes below $US73,000",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/67e5caea-041b-4bdd-bff2-30a92bbcfed8",
+      "published_datetime": "2026-02-03T21:19:00.872797",
+      "title": "Markets tumble on AI disruption fears and Bitcoin drops",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3a10dd5a0cd7a329d6660725b8808e2b?impolicy=wcms_crop_resize&amp;cropH=822&amp;cropW=1465&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "url": "https://www.marketscreener.com/news/wall-street-ends-sharply-down-as-traders-fret-about-ai-disruption-ce7e5bd3dc89f52d",
+        "name": "Wall Street ends sharply down as traders fret about AI disruption",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Jvo2t9tb--/t_limit/https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2026-02/2026-02-03T150352Z_1_LYNXMPEM120XV_RTROPTP_4_YORK-SPACE-IPO.JPG",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--mzPzBGfs--/t_thumbnail/https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2026-02/2026-02-03T150352Z_1_LYNXMPEM120XV_RTROPTP_4_YORK-SPACE-IPO.JPG"
       },
-      "description": "The Australian share market is likely to fall in morning trade after a brutal session on Wall Street, weighed down by massive losses in the share prices of tech and AI companies like Nvidia and Microsoft, while bitcoin has plunged to a 16-month low. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/asx-markets-business-live-news/106302610"
+      "description": "Global equities slid Tuesday as a new wave of investor anxiety hit technology and data-heavy stocks, with concerns that fast-improving \u201cagentic\u201d AI tools could pressure margins and upend business models. Bitcoin also sank to its lowest level since November 2024, adding to a broader \u201crisk-off\u201d tone across markets.[1][2][3][4][5]\n\nThe selloff was catalyzed by fresh attention on AI moving from back-end capabilities into workflow products\u2014most notably a legal-focused tool from Anthropic\u2014prompting investors to reassess which software and information businesses are defensible as automation improves.[2][5][6]",
+      "audio_url": "",
+      "url": "global-markets-fall-as-ai-fear-gIWiaszxQt2hbkY4DldDLg",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-02-03T20:31:11.000000Z",
@@ -68,15 +101,6 @@
       "audio_url": "",
       "url": "us-navy-shoots-down-iranian-dr-x.w3bk8gRhqiDN0f2smwWQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-03T19:14:57.000000Z",
-      "title": "AI bots have created a religion, but experts say that's not the scary part",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5385e59cf8fa9a65c5da348342bd86af?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "A social network run entirely by AI bots has attracted more than a million users \u2014 but experts warn it is not what the bots are saying that poses the true risk.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/what-is-moltbook-the-new-social-media-platform-for-ai-bots/106298768"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/173a278e-5da6-40fc-abb1-b217b189eda3",
@@ -217,30 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d3ee53f9-51f3-46d1-9bb0-f71ea5b24dff",
-      "published_datetime": "2026-02-03T16:43:25.259791",
-      "title": "Iranian gunboats order US tanker to halt in Strait of Hormuz",
-      "featured_image": {
-        "url": "https://www.cbsnews.com/news/iran-seizes-oil-tanker-strait-of-hormuz-first-attack-shipping-in-months/",
-        "name": "Iranian forces reportedly seize tanker in Strait of Hormuz in first such attack on shipping in months",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--j3o2rrCI--/t_limit/https://assets1.cbsnewsstatic.com/hub/i/r/2021/11/03/909c73f9-de20-4ab4-8905-613b37a13dc2/thumbnail/1200x630/2db59af459da9e25b0d4928d8564d2a2/iran-revolutionary-guards-speed-boat-ap16251474563353.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--3bG8TKC---/t_thumbnail/https://assets1.cbsnewsstatic.com/hub/i/r/2021/11/03/909c73f9-de20-4ab4-8905-613b37a13dc2/thumbnail/1200x630/2db59af459da9e25b0d4928d8564d2a2/iran-revolutionary-guards-speed-boat-ap16251474563353.jpg"
-      },
-      "description": "Armed Iranian Revolutionary Guard gunboats approached and challenged the US-flagged tanker Stena Imperative in the Strait of Hormuz on Tuesday, ordering the vessel to stop and prepare for boarding before the ship evaded the confrontation and continued on its route, according to British maritime security firm Vanguard Tech.[1][2][3]\n\nThe incident, which occurred approximately 16 nautical miles north of Oman within the inbound Traffic Separation Scheme, comes just days before scheduled US-Iran talks in Istanbul aimed at defusing tensions over Tehran's nuclear program.[4][5]",
-      "audio_url": "",
-      "url": "iranian-gunboats-attempt-to-in-wISClvbKRK6mwm5pjWNZxw",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-03T13:29:51.000000Z",
-      "title": "Battery demand 'straps on a rocket' as rooftop solar passes its peak",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7a04a66e8fa89ca6f479b86cd95d4478?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Even as Australia appears to have passed the peak of solar uptake, demand for batteries is seemingly headed into orbit.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/subsidies-the-fuel-as-battery-demand-straps-on-a-rocket/106300776"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-03T23:21:14.854741"
+  "merged_at": "2026-02-04T01:13:03.224099"
 }
