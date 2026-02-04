@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-04T11:14:49.000000Z",
+      "title": "Moguls medal hopes named as Olympic flagbearers",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/869d0d96c59d057cac39142459b3a007?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Jakara Anthony and Matt Graham have been named as flag bearers for the 2026 Winter Olympic Games in Milano Cortina.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-04/australia-announces-2026-winter-olympics-flag-bearers/106306688"
+    },
+    {
       "published_datetime": "2026-02-04T09:54:04.000000Z",
       "title": "Bill Gates denies allegations in new Epstein files release",
       "featured_image": {
@@ -61,15 +70,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/living-costs-hit-some-harder-new-abs-data/106303060"
     },
     {
-      "published_datetime": "2026-02-04T06:10:32.000000Z",
-      "title": "Hundreds of NT residents to be evacuated ahead of 14 metre flooding levels",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fc665759643312f1743e8b48df32a428?impolicy=wcms_crop_resize&amp;cropH=381&amp;cropW=678&amp;xPos=0&amp;yPos=67&amp;width=862&amp;height=485"
-      },
-      "description": "About 450 people are being evacuated from the remote Northern Territory town of Daly River, ahead of expected flood levels of more than 14 metres.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/emergency-evacuation-for-daly-river-ahead-of-major-flooding/106305594"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ddb6e5a6-e1d7-4a5a-9a10-3e1a9b18a391",
       "published_datetime": "2026-02-04T05:50:46.655549",
       "title": "US-UK team develops real-time Arctic sea ice prediction model",
@@ -128,11 +128,11 @@
     },
     {
       "published_datetime": "2026-02-04T02:53:24.000000Z",
-      "title": "Australian man Michael 'Micky' Hurst dies in Japan while skiing",
+      "title": "Three Australians die in Japan while skiing this year",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/15c4dd424c3d5cf20affbadbddc54b37?impolicy=wcms_crop_resize&amp;cropH=506&amp;cropW=900&amp;xPos=0&amp;yPos=547&amp;width=862&amp;height=485"
       },
-      "description": "The 27-year-old was at the rear of a group of skiers in Japan's Hokkaido region, between Niseko Moiwa Ski Resort and Niseko Annupuri International Ski Resort, when he had a medical episode.",
+      "description": "Michael Hurst had a medical episode and died on the slopes in Hokkaido, making it three Australians in total that have died in Japan this year.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/second-australian-dies-skiing-in-japan/106304484"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-04T10:31:09.922824"
+  "merged_at": "2026-02-04T11:27:18.582250"
 }
