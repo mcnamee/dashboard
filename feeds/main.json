@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-04T09:54:04.000000Z",
+      "title": "Bill Gates denies allegations in new Epstein files release",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/479e36cc60eb79fb542c31aca5b3b7df?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "Microsoft co-founder Bill Gates denies ever visiting Jeffrey Epstein's private island after new claims surfaced following the release of files from a US government investigation into the late sex offender.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-04/bill-gates-responds-to-alleged-behaviour-in-new-epstein-files/106305816"
+    },
+    {
       "published_datetime": "2026-02-04T09:10:58.000000Z",
       "title": "Ex-prince Andrew leaves Windsor home after latest Epstein revelations",
       "featured_image": {
@@ -101,15 +110,6 @@
       },
       "description": "Only five patients, along with their family members, exited through Rafah on the first day of its reopening, according to ABC staff inside Gaza. Doctors say it does not scratch the surface of the thousands of Palestinians who desperately need medical evacuation.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/desperate-need-for-medical-evacuations-in-gaza/106298622"
-    },
-    {
-      "published_datetime": "2026-02-04T03:28:21.000000Z",
-      "title": "'Unbelievable sadness': Melinda Gates reacts to claims against ex-husband",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a345d6c3bcece597cfc13d36c2eda19f?impolicy=wcms_crop_resize&amp;cropH=551&amp;cropW=979&amp;xPos=0&amp;yPos=16&amp;width=862&amp;height=485"
-      },
-      "description": "Melinda French Gates says her ex-husband, Bill Gates, needs to answer for his behaviour alleged in the latest batch of Epstein files.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/melinda-gates-breaks-silence-on-allegations-in-new-epstein-files/106303172"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/45d91660-e9b7-48cf-9456-babf779bb6ee",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-04T09:34:51.449562"
+  "merged_at": "2026-02-04T10:31:09.922824"
 }
