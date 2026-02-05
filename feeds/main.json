@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-05T00:41:03.000000Z",
+      "title": "Worker dies following incident at Central Australian gold mine",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f091bcc0e8b6cfc6768d8bbeeb6aea8?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Mining firm Newmont has confirmed an employee has been killed following an incident at its Tanami gold mine in remote Central Australia on Wednesday.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/nt-tanami-mine-newmont-confirms-worker-death-tragic-incident/106307980"
+    },
+    {
+      "published_datetime": "2026-02-04T23:31:21.000000Z",
+      "title": "Sydney 19yo charged over alleged death threat to Israeli president",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ccc339deba63c15de7ac7bce7f849fd?impolicy=wcms_crop_resize&amp;cropH=2390&amp;cropW=4249&amp;xPos=0&amp;yPos=221&amp;width=862&amp;height=485"
+      },
+      "description": "Darcy Tinning was arrested by AFP officers on Wednesday and charged with making a threat to kill an \"internationally protected person\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/sydney-teen-charged-threats-to-israel-president-isaac-herzog/106307538"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/25e71367-02b6-4d02-b66b-2e874c22e4b3",
       "published_datetime": "2026-02-04T20:40:10.743687",
       "title": "US-Iran nuclear talks back on after Arab leaders lobby Trump",
@@ -55,6 +73,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-05/federal-politics-live/106305974"
     },
     {
+      "published_datetime": "2026-02-04T19:45:40.000000Z",
+      "title": "Two months into the social media ban, a teenager says it's 'useless'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/33ea27e95a8546ebf7154466c3900503?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's world-first social media ban for under-16s is two months old, but teenagers say they have found ways around it.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/social-media-ban-do-under-16s-think-it-is-working/106304064"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c580ffa0-657a-4b6d-b9c6-6583acc4abf4",
       "published_datetime": "2026-02-04T19:38:45.464492",
       "title": "Study finds over 2,500 non-native plants could survive in Arctic",
@@ -70,19 +97,10 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-04T19:36:25.000000Z",
-      "title": "Man accused of pretending to shoot from Bondi bridge to face court",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b4af10cc9529e51d6f033033746fb84c?impolicy=wcms_crop_resize&amp;cropH=809&amp;cropW=1439&amp;xPos=0&amp;yPos=76&amp;width=862&amp;height=485"
-      },
-      "description": "A man accused of mimicking firing on people near the pedestrian bridge where the Bondi terror attack occurred is due to face court.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/man-charged-over-alleged-offensive-acts-at-bondi-beach-bridge/106307032"
-    },
-    {
       "published_datetime": "2026-02-04T19:20:11.000000Z",
-      "title": "Live: Inquest findings for Westfield Bondi Junction stabbing being handed down",
+      "title": "Psychiatrist of Westfield Bondi Junction attacker referred for review",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/145ebde6589ffe5baafe0473f16a8669?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8d47074f986c3e6d85e196245ef9b7de?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=49&amp;width=862&amp;height=485"
       },
       "description": "Findings from the coronial inquest into the Westfield Bondi Junction stabbing are being handed down. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-05/bondi-junction-westfield-stabbing-coronial-inquest-findings/106294950"
@@ -223,24 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/capital-gains-tax-changes-among-options-as-labor-weighs-housing/106306738"
     },
     {
-      "published_datetime": "2026-02-04T09:10:58.000000Z",
-      "title": "Ex-prince Andrew leaves Windsor home after latest Epstein revelations",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f3af84ae33e7c1c9200a9951368b0e17?impolicy=wcms_crop_resize&amp;cropH=1253&amp;cropW=2228&amp;xPos=495&amp;yPos=118&amp;width=862&amp;height=485"
-      },
-      "description": "British police are investigating Andrew Mountbatten-Windsor after new files suggest Jeffrey Epstein arranged for a woman to have sex with the former prince at his home at the Royal Lodge in 2010.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/andrew-mountbatten-windsor-moves-out-of-windsor/106306600"
-    },
-    {
-      "published_datetime": "2026-02-04T07:26:10.000000Z",
-      "title": "How a teenager who failed swimming lessons pulled off miracle ocean rescue",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7caa73a1a4404e30b2ae5aaad8ca8cce?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
-      },
-      "description": "Austin Appelbee, 13, has made international headlines after swimming for four hours in rough seas to save his mum, sister and brother stranded in the ocean. How did he do it?",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/austin-appelbee-13yo-boy-swims-to-shore-to-save-family-australia/106301468"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-04T23:35:05.779865"
+  "merged_at": "2026-02-05T01:13:43.984389"
 }
