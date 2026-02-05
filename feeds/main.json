@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-05T12:51:10.000000Z",
+      "title": "Starmer says sorry to Epstein's victims for appointing Mandelson as US ambassador",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f2b1c3430c3685074f3794f6bab4a78e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=147&amp;width=862&amp;height=485"
+      },
+      "description": "British Prime Minister Keir Starmer says former ambassador to the US Peter Mandelson lied when asked about the nature of his relationship with convicted non-offender Jeffrey Epstein.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/starmer-apologises-epstein-vicitims-lord-mandelson/106311694"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6849c235-9aa5-4dd6-909e-93bfcb486fa5",
       "published_datetime": "2026-02-05T10:43:52.943466",
       "title": "India to sign trade deal with US in March, minister says",
@@ -134,15 +143,6 @@
       },
       "description": "The US has been gripped by cold weather in recent weeks, but pundits say it is in Texas where hell has truly frozen over. A blue wave just swept a GOP stronghold, and Republicans are very worried.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-05/texas-special-runoff-election-results/106308914"
-    },
-    {
-      "published_datetime": "2026-02-05T05:38:35.000000Z",
-      "title": "Questions about Randa Abdel-Fattah inclusion in NSW writers festival",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4fc8b5b8b0ab4a4ea3fbfd497979cfc0?impolicy=wcms_crop_resize&amp;cropH=485&amp;cropW=862&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The NSW government makes contact with the board of next month's Newcastle Writers Festival about the inclusion of Palestinian author Randa Abdel-Fattah, the ABC understands.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/nsw-government-newcastle-writers-festival-randa-abdel-fattah/106310270"
     },
     {
       "published_datetime": "2026-02-05T05:11:08.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-05T12:40:08.590132"
+  "merged_at": "2026-02-05T14:00:19.438384"
 }
