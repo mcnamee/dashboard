@@ -2,9 +2,9 @@
   "items": [
     {
       "published_datetime": "2026-02-04T19:20:11.000000Z",
-      "title": "Live: Inquest findings for Westfield Bondi Junction stabbing being handed down",
+      "title": "Psychiatrist of Westfield Bondi Junction attacker referred for review",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/145ebde6589ffe5baafe0473f16a8669?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8d47074f986c3e6d85e196245ef9b7de?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=49&amp;width=862&amp;height=485"
       },
       "description": "Findings from the coronial inquest into the Westfield Bondi Junction stabbing are being handed down. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-05/bondi-junction-westfield-stabbing-coronial-inquest-findings/106294950"
@@ -19,6 +19,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-05/federal-politics-live/106305974"
     },
     {
+      "published_datetime": "2026-02-04T23:31:21.000000Z",
+      "title": "Sydney 19yo charged over alleged death threat to Israeli president",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ccc339deba63c15de7ac7bce7f849fd?impolicy=wcms_crop_resize&amp;cropH=2390&amp;cropW=4249&amp;xPos=0&amp;yPos=221&amp;width=862&amp;height=485"
+      },
+      "description": "Darcy Tinning was arrested by AFP officers on Wednesday and charged with making a threat to kill an \"internationally protected person\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/sydney-teen-charged-threats-to-israel-president-isaac-herzog/106307538"
+    },
+    {
       "published_datetime": "2026-02-04T12:00:24.000000Z",
       "title": "Capital gains tax reform among options as Labor weighs housing pitch",
       "featured_image": {
@@ -28,22 +37,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/capital-gains-tax-changes-among-options-as-labor-weighs-housing/106306738"
     },
     {
-      "published_datetime": "2026-02-04T18:54:30.000000Z",
-      "title": "Knives and poison left within reach of kids, prompting day care closure",
+      "published_datetime": "2026-02-05T00:41:03.000000Z",
+      "title": "Worker dies following incident at Central Australian gold mine",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/294f799580e074932dd3d06bbfca80d6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=368&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f091bcc0e8b6cfc6768d8bbeeb6aea8?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Three early learning services, including one at an elite private school, will be closed down today as part of a national push to lift quality.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/nsw-vic-childcare-centre-closures-failed-regulations/106304020"
-    },
-    {
-      "published_datetime": "2026-02-04T19:18:06.000000Z",
-      "title": "Report points to Pacific Islander exploitation",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/76924cfe87f0d98ad17806000b393aab?impolicy=wcms_crop_resize&amp;cropH=2484&amp;cropW=4416&amp;xPos=0&amp;yPos=306&amp;width=862&amp;height=485"
-      },
-      "description": "Changing jobs is a basic right for most people, but it is not so simple for Pacific Australia Labour Mobility workers.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/palm-scheme-report-calls-for-change/106298514"
+      "description": "Mining firm Newmont has confirmed an employee has been killed following an incident at its Tanami gold mine in remote Central Australia on Wednesday.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/nt-tanami-mine-newmont-confirms-worker-death-tragic-incident/106307980"
     },
     {
       "published_datetime": "2026-02-04T18:46:16.000000Z",
@@ -64,6 +64,33 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-05/attorney-general-asked-nacc-chief-to-explain-defence-ties/106305764"
     },
     {
+      "published_datetime": "2026-02-04T18:54:30.000000Z",
+      "title": "Knives and poison left within reach of kids, prompting day care closure",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/294f799580e074932dd3d06bbfca80d6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=368&amp;width=862&amp;height=485"
+      },
+      "description": "Three early learning services, including one at an elite private school, will be closed down today as part of a national push to lift quality.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/nsw-vic-childcare-centre-closures-failed-regulations/106304020"
+    },
+    {
+      "published_datetime": "2026-02-04T19:45:40.000000Z",
+      "title": "Two months into the social media ban, a teenager says it's 'useless'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/33ea27e95a8546ebf7154466c3900503?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's world-first social media ban for under-16s is two months old, but teenagers say they have found ways around it.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/social-media-ban-do-under-16s-think-it-is-working/106304064"
+    },
+    {
+      "published_datetime": "2026-02-04T19:18:06.000000Z",
+      "title": "Report points to Pacific Islander exploitation",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/76924cfe87f0d98ad17806000b393aab?impolicy=wcms_crop_resize&amp;cropH=2484&amp;cropW=4416&amp;xPos=0&amp;yPos=306&amp;width=862&amp;height=485"
+      },
+      "description": "Changing jobs is a basic right for most people, but it is not so simple for Pacific Australia Labour Mobility workers.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/palm-scheme-report-calls-for-change/106298514"
+    },
+    {
       "published_datetime": "2026-02-04T07:26:10.000000Z",
       "title": "How a teenager who failed swimming lessons pulled off miracle ocean rescue",
       "featured_image": {
@@ -71,6 +98,24 @@
       },
       "description": "Austin Appelbee, 13, has made international headlines after swimming for four hours in rough seas to save his mum, sister and brother stranded in the ocean. How did he do it?",
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/austin-appelbee-13yo-boy-swims-to-shore-to-save-family-australia/106301468"
+    },
+    {
+      "published_datetime": "2026-02-04T20:25:36.000000Z",
+      "title": "Live: Big Four banks quiet on savings rates two days after RBA hike",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/70a1ae43d5fdc20e6d2266c74c4b020c?impolicy=wcms_crop_resize&amp;cropH=485&amp;cropW=862&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Three of the Big Four banks say they're still deciding how to pass on the RBA's rate hike to savers. Follow the day's events and insights as they happen with our business reporters on the ABC News live markets blog. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/asx-markets-business-live-news-feb-5-2025/106307192"
+    },
+    {
+      "published_datetime": "2026-02-04T23:10:36.000000Z",
+      "title": "Trump, tariffs, gold — how are Australia's biggest companies faring?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/828df3fb109a6778ffad120e3b54258b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's mining sector is expected to lead the earnings charge for this reporting season, boosted by signs of a stabilisation in the Chinese economy and a turbo-charged commodities market.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/donald-trump-gold-interest-rates-ai-reporting-season/106306266"
     },
     {
       "published_datetime": "2026-02-04T09:10:58.000000Z",
@@ -82,15 +127,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-04/andrew-mountbatten-windsor-moves-out-of-windsor/106306600"
     },
     {
-      "published_datetime": "2026-02-04T19:36:25.000000Z",
-      "title": "Man accused of pretending to shoot from Bondi bridge to face court",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b4af10cc9529e51d6f033033746fb84c?impolicy=wcms_crop_resize&amp;cropH=809&amp;cropW=1439&amp;xPos=0&amp;yPos=76&amp;width=862&amp;height=485"
-      },
-      "description": "A man accused of mimicking firing on people near the pedestrian bridge where the Bondi terror attack occurred is due to face court.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/man-charged-over-alleged-offensive-acts-at-bondi-beach-bridge/106307032"
-    },
-    {
       "published_datetime": "2026-02-04T19:10:17.000000Z",
       "title": "Online safety watchdog says tech giants failing to detect child abuse",
       "featured_image": {
@@ -98,33 +134,6 @@
       },
       "description": "Major tech companies including Apple, Google, Meta and Microsoft are still failing to do enough to detect and stop child sexual abuse, eSafety has claimed.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-05/online-safety-watchdog-says-tech-giants-failing-on-child-abuse/106306564"
-    },
-    {
-      "published_datetime": "2026-02-04T20:25:36.000000Z",
-      "title": "Live: ACTU threatens strikes as it pushes for above-inflation wage increases",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f97a81ab1a6e607219490cb7f42b6f74?impolicy=wcms_crop_resize&amp;cropH=2361&amp;cropW=4198&amp;xPos=0&amp;yPos=437&amp;width=862&amp;height=485"
-      },
-      "description": "Follow the day's events and insights as they happen with our business reporters on the ABC News live markets blog. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/asx-markets-business-live-news-feb-5-2025/106307192"
-    },
-    {
-      "published_datetime": "2026-02-04T16:06:23.000000Z",
-      "title": "Trump's border tsar says 700 ICE agents will leave Minnesota",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0303a628e26925dd3e5831056b03ec62?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The administration's border tsar says the decision came after local and state authorities agreed to cooperate more closely with its immigration crackdown.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/ice-to-pull-700-officers-out-of-minnesota/106306958"
-    },
-    {
-      "published_datetime": "2026-02-04T19:35:51.000000Z",
-      "title": "Body-worn camera footage shows moment grandmother removed from birth suite",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3b07f3f166c52718b1b594ce860203f8?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A confrontation caught on body-worn security footage in the halls of the Toowoomba Hospital maternity unit highlights concerns raised by local mothers.  ",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/mothers-raise-concerns-about-treatment-at-toowoomba-hospital/106049878"
     },
     {
       "published_datetime": "2026-02-04T22:42:16.000000Z",
@@ -136,31 +145,49 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-05/ukraine-war-negotiations-kyiv-moscow-meet-in-uae/106307234"
     },
     {
-      "published_datetime": "2026-02-04T06:38:28.000000Z",
-      "title": "FOI documents reveal how Anika Wells's New York trip costs escalated",
+      "published_datetime": "2026-02-04T19:20:31.000000Z",
+      "title": "The zombie apocalypse devastates Tasmania in this soon-to-be cult classic",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1213cb843c2ce6a7438532cf9b23758c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c81195acffab31706916c6f5d5288d8?impolicy=wcms_crop_resize&amp;cropH=1687&amp;cropW=3000&amp;xPos=0&amp;yPos=157&amp;width=862&amp;height=485"
       },
-      "description": "The final New York travel bill for Communications Minister Anika Wells and her staffer rose $7,000 from an initial booking due to last-minute changes.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-04/foi-docs-show-details-of-anika-wells-new-york-trip/106305526"
+      "description": "These Final Hours writer and director Zak Hilditch drew on personal tragedy to produce We Bury the Dead, his biggest cinematic epic yet.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/we-bury-the-dead-movie-interview-zak-hilditch/106298866"
     },
     {
-      "published_datetime": "2026-02-04T18:30:00.000000Z",
-      "title": "Quiz: How much do you know about the Winter Olympics?",
+      "published_datetime": "2026-02-04T19:35:51.000000Z",
+      "title": "Body-worn camera footage shows moment grandmother removed from birth suite",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/704a0705e814e0ddb698062d60a5b648?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=147&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3b07f3f166c52718b1b594ce860203f8?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The Winter Olympics gets underway in Milan Cortina this week — but how much do you know about the Winter Olympics? Test yourself in our fiendish quiz.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/winter-olympics-quiz/106289820"
+      "description": "A confrontation caught on body-worn security footage in the halls of the Toowoomba Hospital maternity unit highlights concerns raised by local mothers.  ",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/mothers-raise-concerns-about-treatment-at-toowoomba-hospital/106049878"
     },
     {
-      "published_datetime": "2026-02-04T19:45:40.000000Z",
-      "title": "Two months into the social media ban and teenagers say it isn't working",
+      "published_datetime": "2026-02-04T20:00:28.000000Z",
+      "title": "Police investigating second 'vile' letter sent to Sydney mosque",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/33ea27e95a8546ebf7154466c3900503?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d34ffad8c794b3d75d9d319bb9e24bb3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
       },
-      "description": "Australia's world-first social media ban for under-16s is two months old, but teenagers say they have found ways around it.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/social-media-ban-do-under-16s-think-it-is-working/106304064"
+      "description": "It is the second such incident in the past 10 days after police charged a 70-year-old man with allegedly sending a threatening letter to Lakemba Mosque in late January. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/second-letter-threat-to-western-sydney-lakemba-mosque/106306668"
+    },
+    {
+      "published_datetime": "2026-02-04T16:06:23.000000Z",
+      "title": "Trump's border tsar says 700 ICE agents will leave Minnesota",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0303a628e26925dd3e5831056b03ec62?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The administration's border tsar says the decision came after local and state authorities agreed to cooperate more closely with its immigration crackdown.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/ice-to-pull-700-officers-out-of-minnesota/106306958"
+    },
+    {
+      "published_datetime": "2026-02-05T00:50:36.000000Z",
+      "title": "How Aussie bound for SuperBowl became NFL's best punter",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a3eec32bf8b339e491f5446d0101cdb6?impolicy=wcms_crop_resize&amp;cropH=2681&amp;cropW=4767&amp;xPos=0&amp;yPos=206&amp;width=862&amp;height=485"
+      },
+      "description": "Michael Dickson has become one of the finest punters in the NFL, and could become just the second Australian to play in a victorious Super Bowl team.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/michael-dickson-nfl-australian-punter-super-bowl/106307658"
     },
     {
       "published_datetime": "2026-02-04T20:01:23.000000Z",
@@ -181,24 +208,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-05/australia-taiwan-security-trade-ties-should-expand-experts-say/106306736"
     },
     {
-      "published_datetime": "2026-02-04T20:00:28.000000Z",
-      "title": "Police investigating second 'vile' letter sent to Sydney mosque",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d34ffad8c794b3d75d9d319bb9e24bb3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
-      },
-      "description": "It is the second such incident in the past 10 days after police charged a 70-year-old man with allegedly sending a threatening letter to Lakemba Mosque in late January. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/second-letter-threat-to-western-sydney-lakemba-mosque/106306668"
-    },
-    {
-      "published_datetime": "2026-02-04T21:25:27.000000Z",
-      "title": "What is the difference between a tropical low and a cyclone?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b3a07db183369d1e0b05bbe027add28a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Tropical lows are weaker than tropical cyclones, but a meteorologist explains they can still cause significant damage.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/meteorologist-explains-tropical-low-cyclone-difference-australia/106299336"
-    },
-    {
       "published_datetime": "2026-02-04T18:06:05.000000Z",
       "title": "Man who tried to assassinate Donald Trump jailed for life",
       "featured_image": {
@@ -208,22 +217,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-05/ryan-routh-given-life-sentence-for-attempted-trump-assassination/106307006"
     },
     {
-      "published_datetime": "2026-02-04T21:51:51.000000Z",
-      "title": "Streaky Bay takes shark safety into its own hands after fatal attacks",
+      "published_datetime": "2026-02-04T19:36:25.000000Z",
+      "title": "Man accused of pretending to shoot from Bondi bridge to face court",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3ec1a7e3b23994ff3ce033e38b28fcf0?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=766&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b4af10cc9529e51d6f033033746fb84c?impolicy=wcms_crop_resize&amp;cropH=809&amp;cropW=1439&amp;xPos=0&amp;yPos=76&amp;width=862&amp;height=485"
       },
-      "description": "Nine volunteers in Streaky Bay are now qualified drone pilots and can be called upon for coastal surveillance or emergencies.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/shark-safety-drones-streaky-bay-after-fatal-attacks-sa/106275124"
-    },
-    {
-      "published_datetime": "2026-02-04T21:39:13.000000Z",
-      "title": "Calls for more detail on coal mine water releases into reef catchment",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0e7cc4c088488bcd50bcd5f54e354ffd?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "There were 55 water releases from the region's coal mines in the month of January into the largest catchment draining to the Great Barrier Reef.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/call-for-more-information-on-coal-mine-water-release/106288312"
+      "description": "A man accused of mimicking firing on people near the pedestrian bridge where the Bondi terror attack occurred is due to face court.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/man-charged-over-alleged-offensive-acts-at-bondi-beach-bridge/106307032"
     }
   ]
 }
