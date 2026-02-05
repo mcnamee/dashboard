@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-05T10:33:25.000000Z",
+      "title": "Politicians protest David Connolly appointment with NT parliament walkout",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b153de084876585ad18a4e51f0d1063d?impolicy=wcms_crop_resize&amp;cropH=2261&amp;cropW=4019&amp;xPos=0&amp;yPos=862&amp;width=862&amp;height=485"
+      },
+      "description": "Seven members of the Northern Territory parliament have walked out of Question Time over the appointment of the next administrator, David Connolly.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/politicians-protest-administrator-appointment-with-walkout/106309768"
+    },
+    {
       "published_datetime": "2026-02-05T08:53:34.000000Z",
-      "title": "Could this supported housing model for the homeless prevent a future tragedy?",
+      "title": "A key recommendation of the Bondi Junction stabbing inquest is already saving lives",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3115c570297d76b6dd149fec70364268?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
       },
@@ -62,15 +71,6 @@
       "audio_url": "",
       "url": "tech-stocks-tumble-globally-as-H5t_uOF2RYijtSPeDJlyPg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-05T06:18:21.000000Z",
-      "title": "British billionaire urged to accept $350 million for mothballed mine",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ce3fdba1577b3a086e47803f60da53b1?impolicy=wcms_crop_resize&amp;cropH=721&amp;cropW=1280&amp;xPos=0&amp;yPos=65&amp;width=862&amp;height=485"
-      },
-      "description": "The Mining and Energy Union says a firm $350 million offer is on the table to restart Tahmoor Colliery, warning delays risk the mine's future and hundreds of jobs.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/union-pressure-on-gupta-tahmoor-mine-sale/106309462"
     },
     {
       "published_datetime": "2026-02-05T06:14:45.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-05T10:32:54.819067"
+  "merged_at": "2026-02-05T11:29:25.440968"
 }
