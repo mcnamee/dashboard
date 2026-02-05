@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-05T06:18:21.000000Z",
+      "title": "British billionaire urged to accept $350 million for mothballed mine",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ce3fdba1577b3a086e47803f60da53b1?impolicy=wcms_crop_resize&amp;cropH=721&amp;cropW=1280&amp;xPos=0&amp;yPos=65&amp;width=862&amp;height=485"
+      },
+      "description": "The Mining and Energy Union says a firm $350 million offer is on the table to restart Tahmoor Colliery, warning delays risk the mine's future and hundreds of jobs.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/union-pressure-on-gupta-tahmoor-mine-sale/106309462"
+    },
+    {
       "published_datetime": "2026-02-05T06:14:45.000000Z",
       "title": "How capital gains tax changes could impact you",
       "featured_image": {
@@ -44,15 +53,6 @@
       },
       "description": "Bunnings was reasonably entitled to use AI facial recognition technology to combat crime and staff abuse in its stores, the Administrative Review Tribunal finds.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-05/bunnings-wins-ai-facial-recognition-tech-fight/106309308"
-    },
-    {
-      "published_datetime": "2026-02-05T04:31:09.000000Z",
-      "title": "Mother of autistic children shares story in wake of WA family tragedy",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/783594d472df5b1f4a7cd977c1554d71?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=157&amp;width=862&amp;height=485"
-      },
-      "description": "A mother of two autistic children living in regional Western Australia has shared her experience of navigating bureaucracy while caring for children with complex needs.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/kalgoorlie-mother-with-two-autistic-children-jo-russell/106306344"
     },
     {
       "published_datetime": "2026-02-05T04:07:09.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-05T06:46:16.093910"
+  "merged_at": "2026-02-05T07:43:50.941371"
 }
