@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-05T22:09:30.000000Z",
+      "title": "Breaking: Underworld figure Tony Mokbel a free man after drug case abandoned",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b1906f073b74c9da9a0ada2796629e9a?impolicy=wcms_crop_resize&amp;cropH=2366&amp;cropW=4207&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Prosecutors have abandoned a drug trafficking case against underworld figure Tony Mokbel following his release from prison last year.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-06/tony-mokbel-drug-trafficking-charges-abandoned/106312416"
+    },
+    {
       "published_datetime": "2026-02-05T21:42:33.000000Z",
       "title": "Judge criticises Abbott's 'misconceived' comments over harbour bridge protest",
       "featured_image": {
@@ -20,11 +29,11 @@
     },
     {
       "published_datetime": "2026-02-05T20:13:31.000000Z",
-      "title": "Live: ASX to open in the red as Bitcoin crashes by more than 10pc",
+      "title": "Live: ASX opens lower, RBA governor addresses economics committee",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e9b9287209193037f6aa57d0467751c7?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/62edd3f9712f6355888c353ae4a9b7b8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The ASX is set to open down, as the cryptocurrency Bitcoin plunges in value. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
+      "description": "The ASX has opened lower, while RBA governor Michele Bullock addresses the economics committee. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-06/asx-markets-business-news-friday-6-february-live-updates/106312232"
     },
     {
@@ -52,6 +61,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-06/david-littleproud-seat-of-maranoa-weigh-coalition-split/106305146"
     },
     {
+      "published_datetime": "2026-02-05T19:56:47.000000Z",
+      "title": "TV host Savannah Guthrie's missing mother is 'still out there,' police say",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8e9ac609a046ee66aad5eea4f43a5c24?impolicy=wcms_crop_resize&amp;cropH=320&amp;cropW=568&amp;xPos=0&amp;yPos=37&amp;width=862&amp;height=485"
+      },
+      "description": "US investigators believe the missing mother of Today show host Savannah Guthrie is \"still out there\" despite having no proof she is still alive.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-06/samantha-guthrie-today-mother-still-out-there-police-say/106312206"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1f17bb22-402a-4401-ac17-7b988db13046",
       "published_datetime": "2026-02-05T19:47:09.198988",
       "title": "Study links COVID lockdowns to record methane surge",
@@ -65,15 +83,6 @@
       "audio_url": "",
       "url": "covid-lockdowns-drove-record-m-TuJkiVaKTaGrtBPNEwhtTw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-05T19:42:24.000000Z",
-      "title": "ATO debt continues to drive record level of calls to financial helpline",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c25f8abba70b8a256297ab2cfb14baa8?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=13&amp;width=862&amp;height=485"
-      },
-      "description": "Financial counsellors say small businesses struggling to pay debts owed to the tax office are driving calls to Australia's Small Business Debt Helpline higher.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-06/debts-to-ato-drive-record-level-of-financial-helpline-calls/106308516"
     },
     {
       "published_datetime": "2026-02-05T19:38:33.000000Z",
@@ -107,15 +116,6 @@
       "audio_url": "",
       "url": "trump-backs-uk-chagos-deal-aft-Jiw4lFccRxijuyWdXTyVLw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-05T19:13:28.000000Z",
-      "title": "An ex-jihadi and terror experts agree on one thing about extremism",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/99e226323d83f1125882b31cfa7d1d3c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "As police probe what led to the deadliest terror attack on Australian soil last month, radicalisation researchers and a former Islamic State group supporter have shed light on how people are recruited.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-06/bondi-terror-attack-radicalisation-islamic-state-group/106300484"
     },
     {
       "published_datetime": "2026-02-05T19:11:26.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-05T22:18:30.949867"
+  "merged_at": "2026-02-05T23:16:55.936769"
 }
