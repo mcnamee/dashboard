@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-05T21:42:33.000000Z",
+      "title": "Judge criticises Abbott's 'misconceived' comments over harbour bridge protest",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/822ccae4e70699e28a9ef3e6bb6bf2e5?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=730&amp;width=862&amp;height=485"
+      },
+      "description": "The former prime minister said it should not be for judges to decide when a political protest was justified, which are remarks NSW's top judge called \"regrettable\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-06/judge-andrew-bell-criticises-tony-abbott-gaza-protest-comments/106308690"
+    },
+    {
       "published_datetime": "2026-02-05T20:16:46.000000Z",
       "title": "Live: Jane Hume says Liberals can go it alone without Nationals, One Nation",
       "featured_image": {
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-02-05T20:13:31.000000Z",
-      "title": "Live: ASX to open in the red, Bitcoin crashes",
+      "title": "Live: ASX to open in the red as Bitcoin crashes by more than 10pc",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e9b9287209193037f6aa57d0467751c7?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -110,21 +119,12 @@
     },
     {
       "published_datetime": "2026-02-05T19:11:26.000000Z",
-      "title": "Update on search for little Gus leaves more questions than answers",
+      "title": "'Nothing off the table': Police update on search for four-year-old Gus leaves more questions than answers",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/23028226e4400a23b30f0c0fe3017f78?impolicy=wcms_crop_resize&amp;cropH=2003&amp;cropW=3561&amp;xPos=140&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Police declared the disappearance of Gus Lamont a major crime due to \"a number of inconsistencies and discrepancies\" emerging during the four-month investigation.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-06/gus-lamont-update-leaves-more-questions-than-answers/106311214"
-    },
-    {
-      "published_datetime": "2026-02-05T18:45:54.000000Z",
-      "title": "Albanese lands in Jakarta to sign security pact with Indonesia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5de11f3890adb13654516c7754a8a494?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
-      },
-      "description": "Prime Minister Anthony Albanese is in Jakarta to ratify the treaty, which the Australian government calls the \"biggest step\" the countries have taken together in 30 years.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-06/pm-to-sign-security-treaty-with-indonesia/106311374"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/445f6d55-03eb-454b-908c-0b1f96b181a4",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-05T21:20:17.682094"
+  "merged_at": "2026-02-05T22:18:30.949867"
 }
