@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-05T15:55:48.000000Z",
+      "title": "Russian captain of cargo ship jailed over fatal North Sea collision",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f63e30ab67998fb1676b1f59749e9563?impolicy=wcms_crop_resize&amp;cropH=417&amp;cropW=741&amp;xPos=0&amp;yPos=159&amp;width=862&amp;height=485"
+      },
+      "description": "A judge described Vladimir Motin as \"an accident waiting to happen\" as he handed the Russian national a six-year jail term.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-06/north-sea-collision-captain-jailed/106311942"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3ea3e5ef-47c1-4c79-b888-fcee3f03d62b",
+      "published_datetime": "2026-02-05T15:19:18.030966",
+      "title": "Russian forces lose Starlink access, halting assaults in Ukraine",
+      "featured_image": {
+        "url": "https://www.cnn.com/2024/03/25/europe/ukraine-starlink-drones-russia-intl-cmd",
+        "name": "Ukraine destroying Musk's Starlink systems being used by Russia",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--XqMOG3ed--/t_limit/https://media.cnn.com/api/v1/images/stellar/prod/240325200900-npw-musk-starlink-russia.jpg%3Fc%3D16x9%26q%3Dw_1280%2Cc_fill",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--c1AP60f9--/t_thumbnail/https://media.cnn.com/api/v1/images/stellar/prod/240325200900-npw-musk-starlink-russia.jpg%3Fc%3D16x9%26q%3Dw_1280%2Cc_fill"
+      },
+      "description": "Starlink terminals used by Russian military units went dark on Wednesday across the entire front line in Ukraine, causing what one Ukrainian official described as a \"catastrophe\" for Russian forces and halting assault operations in multiple sectors.\n\nSerhii \"Flash\" Beskrestnov, adviser to Ukrainian Defense Minister Mykhailo Fedorov on technological issues, said the loss of satellite connectivity has crippled Russian coordination. \"For the enemy at the front, this is not just a problem \u2014 it's a catastrophe. Command and control have completely collapsed. Assault operations have been halted in many areas,\" Beskrestnov told Ukrainska Pravda on Thursday.[1][2]\n\nRussian military bloggers confirmed the outages, reporting that no amount of terminal reboots would restore the connection. One pro-Kremlin channel noted the situation \"has effectively reverted to February 2022, when there was a complete lack of coordination between Russian units\".[2][3]",
+      "audio_url": "",
+      "url": "spacex-cuts-russian-access-to-afQXIsQJTVuXsyHVyWvGiQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2f45c5e8-883f-4406-bb0b-03e57cf1cb9e",
       "published_datetime": "2026-02-05T12:58:41.259253",
       "title": "Last US-Russia nuclear arms treaty expires, ending decades of limits",
@@ -184,15 +208,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-05T04:07:09.000000Z",
-      "title": "Andrew Hastie brought an intriguing book into Parliament",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bf7a9e201508a92703431ce2cdf520ea?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The calamity unfolding in the dissolved Coalition provided a convenient distraction for the government, which should have had a worse week amid an interest rate hike.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/andrew-hastie-pauline-hanson-clive-palmer-art-of-war/106294690"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/08aab3ac-44d4-49e3-8b92-15ecc380dd98",
       "published_datetime": "2026-02-05T03:20:32.914037",
       "title": "Gold tops $5,000 as weak jobs data fuels rate-cut hopes",
@@ -205,21 +220,6 @@
       "description": "Gold reclaimed the key $5,000 level on Wednesday, climbing more than 1% to around $5,017 per ounce as safe-haven demand intensified amid rising geopolitical tensions and fresh signs of labor market softness in the United States. The rally marks a rebound for the precious metal after a volatile stretch that saw prices swing from a record high of nearly $5,595 late last month to a sharp plunge below $4,400 just days ago.\n\nThe surge comes as U.S. and Iranian officials confirmed high-stakes nuclear talks will take place Friday in Oman, with considerable uncertainty over whether the two sides can bridge wide gaps on Iran's nuclear program, ballistic missiles, and regional activities. Silver followed suit, jumping nearly 10% to around $91 per ounce.[1][2][3]",
       "audio_url": "",
       "url": "gold-tops-5000-as-geopolitical-M04UqSETTkScML81UaOFZQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/50016b16-02d2-433b-8a41-d7e665791eff",
-      "published_datetime": "2026-02-05T02:48:58.148858",
-      "title": "Oil prices dip as US and Iran confirm Friday talks in Oman",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2026/2/4/us-iran-nuclear-talks-set-for-oman-on-friday-tehran-confirms",
-        "name": "US-Iran nuclear talks set for Oman on Friday, Tehran confirms",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--cmFotQ6P--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/01/getty_697d19f0d9-1769806320.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--8d6mS9xo--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/01/getty_697d19f0d9-1769806320.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "Global oil prices fell on Wednesday evening as Washington and Tehran confirmed they would hold direct negotiations in Oman on Friday, easing fears of imminent conflict between the two nations.\n\nU.S. crude slipped by about 1% to $64.50 per barrel in Asian trading late Wednesday, while Brent fell to approximately $68.49 per barrel, according to Reuters. The decline marked oil's first retreat in three days, following a 4.8% surge in the previous two sessions driven by fears of potential military strikes against the OPEC producer.[1][2][3]",
-      "audio_url": "",
-      "url": "oil-prices-drop-as-us-and-iran-lVzi576KSdahWWTHtk5xwQ",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-05T15:34:18.001082"
+  "merged_at": "2026-02-05T16:37:00.597220"
 }
