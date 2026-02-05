@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-05T06:14:45.000000Z",
+      "title": "How capital gains tax changes could impact you",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c2481187bfa185d0587ade2672449ceb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=318&amp;width=862&amp;height=485"
+      },
+      "description": "According to a well-sourced leak, changes to capital gains tax discounts could form the centrepiece of the next federal budget in May. And while the government has downplayed the idea, it has not been ruled out.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/how-capital-gains-tax-changes-could-impact-you/106309066"
+    },
+    {
+      "published_datetime": "2026-02-05T05:54:36.000000Z",
+      "title": "A Republican stronghold has turned blue \u2014 is it a 'warning' to Trump?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1593187555e248239256062820621343?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=61&amp;width=862&amp;height=485"
+      },
+      "description": "The US has been gripped by cold weather in recent weeks, but pundits say it is in Texas where hell has truly frozen over. A blue wave just swept a GOP stronghold, and Republicans are very worried.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/texas-special-runoff-election-results/106308914"
+    },
+    {
+      "published_datetime": "2026-02-05T05:39:36.000000Z",
+      "title": "Attack on Indigenous protesters allegedly driven by 'racism and hatred', Albanese says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a1ef9881ff47d3600fc576ef1111b26d?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The prime minister and opposition leader have both condemned the alleged attempted bombing of an Invasion Day rally more than a week ago, after police revealed it was being prosecuted as a terror incident.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-05/albanese-ley-condemn-alleged-invasion-rally-terror-act/106309170"
+    },
+    {
       "published_datetime": "2026-02-05T05:38:35.000000Z",
       "title": "Questions about Randa Abdel-Fattah inclusion in NSW writers festival",
       "featured_image": {
@@ -17,15 +44,6 @@
       },
       "description": "Bunnings was reasonably entitled to use AI facial recognition technology to combat crime and staff abuse in its stores, the Administrative Review Tribunal finds.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-05/bunnings-wins-ai-facial-recognition-tech-fight/106309308"
-    },
-    {
-      "published_datetime": "2026-02-05T05:01:49.000000Z",
-      "title": "'Full evacuation' of Daly River complete amid flood threat, authorities say",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ffe88cf3884dd81ca62e2925b648d377?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=300&amp;width=862&amp;height=485"
-      },
-      "description": "Hundreds of Daly River residents have been evacuated to Darwin ahead of expected major flooding, with Foskey Pavilion set up to accommodate most of the evacuees.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/daly-river-flood-evacuees-arrive-in-darwin-foskey-pavilion/106308854"
     },
     {
       "published_datetime": "2026-02-05T04:31:09.000000Z",
@@ -74,15 +92,6 @@
       "audio_url": "",
       "url": "oil-prices-drop-as-us-and-iran-lVzi576KSdahWWTHtk5xwQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-05T02:27:12.000000Z",
-      "title": "Private health insurers take aim at rising specialists fees in new report",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9966b6bcbf58eace47a5493f4342ef40?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=172&amp;width=862&amp;height=485"
-      },
-      "description": "A survey of 4,000 patients finds more than half had an unexpected cost when under a specialist's care.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/private-health-insurers-take-aim-at-rising-specialists-fees/106308202"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/508e7e10-c98c-4fd4-aa80-a21e6af07bcf",
@@ -223,15 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-04T20:09:10.000000Z",
-      "title": "Live: Pauline Hanson resumes Senate seat after seven-day suspension",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a9c36a4797a7068f34b54b09b17287a3?impolicy=wcms_crop_resize&amp;cropH=394&amp;cropW=701&amp;xPos=448&amp;yPos=84&amp;width=862&amp;height=485"
-      },
-      "description": "One Nation Leader Pauline Hanson has resumed her seat in the Senate after she was suspended for seven sitting days. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-05/federal-politics-live/106305974"
-    },
-    {
       "published_datetime": "2026-02-04T19:20:11.000000Z",
       "title": "Psychiatrist of Westfield Bondi Junction attacker referred for review by coroner",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-05T05:48:41.803219"
+  "merged_at": "2026-02-05T06:46:16.093910"
 }
