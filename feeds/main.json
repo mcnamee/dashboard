@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-06T05:56:55.000000Z",
+      "title": "RBA refuses to blame Albanese government for rising inflation",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/62edd3f9712f6355888c353ae4a9b7b8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "RBA governor Michele Bullock has refused to blame the Albanese government for rising inflation, as a political fight breaks out in the wake of the bank's rate hike.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-06/rba-governor-refuses-to-blame-government-for-rising-inflation/106313266"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4811914c-c3f5-4178-963d-335a9e4b81bd",
       "published_datetime": "2026-02-06T05:15:58.553468",
       "title": "2026 Winter Olympics open with Alps blanketed in artificial snow",
@@ -14,6 +23,15 @@
       "audio_url": "",
       "url": "climate-change-forces-2026-win-AQmKLv3CRvm1qWBrwtVrfQ",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-02-06T05:02:14.000000Z",
+      "title": "Trump's would-be assassin had one goal: 'up-end American democracy'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0da721c44b5eb13bc7c87d1e90f3f6e0?impolicy=wcms_crop_resize&amp;cropH=1486&amp;cropW=2641&amp;xPos=0&amp;yPos=138&amp;width=862&amp;height=485"
+      },
+      "description": "As Donald Trump arrived at a golf course in September 2024, a would-be assassin had already been lying in wait for almost 12 hours.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-06/ryan-wesley-routh-life-sentence-assassination-attempt/106310824"
     },
     {
       "published_datetime": "2026-02-06T03:54:51.000000Z",
@@ -113,7 +131,7 @@
     },
     {
       "published_datetime": "2026-02-06T01:33:38.000000Z",
-      "title": "France says Australia-bound drug ship isn't its problem after letting crew free",
+      "title": "France says Australia-bound drug ship isn't its problem after setting crew free",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4720215a15f00689afe7e38c7499f53d?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -143,24 +161,6 @@
       },
       "description": "Prosecutors have abandoned a drug trafficking case against underworld figure Tony Mokbel following his release from prison last year.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-06/tony-mokbel-drug-trafficking-charges-abandoned/106312416"
-    },
-    {
-      "published_datetime": "2026-02-05T21:42:33.000000Z",
-      "title": "Judge criticises Abbott's 'misconceived' comments over harbour bridge protest",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/822ccae4e70699e28a9ef3e6bb6bf2e5?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=730&amp;width=862&amp;height=485"
-      },
-      "description": "The former prime minister said it should not be for judges to decide when a political protest was justified, which are remarks NSW's top judge called \"regrettable\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-06/judge-andrew-bell-criticises-tony-abbott-gaza-protest-comments/106308690"
-    },
-    {
-      "published_datetime": "2026-02-05T20:13:31.000000Z",
-      "title": "Live: ASX suffers worst day in almost a year, plunging 2.2pc",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2b34fdaea6a37921f0564768bc01cf8b?impolicy=wcms_crop_resize&amp;cropH=2700&amp;cropW=4800&amp;xPos=0&amp;yPos=250&amp;width=862&amp;height=485"
-      },
-      "description": "The Australian share market has suffered its worst day in almost a year. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-06/asx-markets-business-news-friday-6-february-live-updates/106312232"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6179f530-864d-456e-8669-0efb28d877d3",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-06T05:58:52.228523"
+  "merged_at": "2026-02-06T06:41:55.446344"
 }
