@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4811914c-c3f5-4178-963d-335a9e4b81bd",
+      "published_datetime": "2026-02-06T05:15:58.553468",
+      "title": "2026 Winter Olympics open with Alps blanketed in artificial snow",
+      "featured_image": {
+        "url": "https://www.wsls.com/sports/2026/01/22/italian-experts-manufactured-snow-will-play-big-role-at-the-milan-cortina-games/",
+        "name": "Italian expert's manufactured snow will play big role at the ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--lG_-R1rD--/t_limit/https://res.cloudinary.com/graham-media-group/image/upload/q_auto/c_scale%2Cw_640/v1/media/gmg/NFJQQFJXSNFZHBGXASXISI4PK4.jpg%3F_a%3DDAJHqpE%2BZAAA",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--SUC7VsNI--/t_thumbnail/https://res.cloudinary.com/graham-media-group/image/upload/q_auto/c_scale%2Cw_640/v1/media/gmg/NFJQQFJXSNFZHBGXASXISI4PK4.jpg%3F_a%3DDAJHqpE%2BZAAA"
+      },
+      "description": "The 2026 Milan-Cortina Winter Olympics, which officially begin on February 6 with a historic dual-location opening ceremony, will depend almost entirely on manufactured snow as warming temperatures and unpredictable natural snowfall reshape the future of winter sports in the Alps.\n\nOrganizers have deployed approximately 2.4 million cubic meters of artificial snow across competition venues\u2014equivalent to twice the volume of Rome's Colosseum\u2014requiring roughly 948,000 cubic meters of water and 125 snow cannons to prepare courses for elite athletes.[1][2]",
+      "audio_url": "",
+      "url": "climate-change-forces-2026-win-AQmKLv3CRvm1qWBrwtVrfQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-06T03:54:51.000000Z",
       "title": "Author Craig Silvey has bail conditions changed after 'media attention'",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/87ceedf7-aa22-473e-aaa1-59e589e93f18",
-      "published_datetime": "2026-02-05T18:42:38.524484",
-      "title": "Russia and Ukraine agree to exchange 314 prisoners at Abu Dhabi talks",
-      "featured_image": {
-        "url": "https://www.dw.com/en/russia-and-ukraine-agree-new-prisoner-exchange-after-talks/live-72753846",
-        "name": "Russia and Ukraine agree new prisoner exchange after talks",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--FrvJnhy3--/t_limit/https://static.dw.com/image/71993609_605.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--IYKBsaGw--/t_thumbnail/https://static.dw.com/image/71993609_605.jpg"
-      },
-      "description": "Delegations from the United States, Ukraine, and Russia reached an agreement on Thursday to exchange 314 prisoners of war, marking the first such exchange in five months and a tangible outcome from ongoing peace negotiations in Abu Dhabi.\n\nUS Special Envoy Steve Witkoff announced the deal on social media platform X, stating that \"this outcome was achieved from peace talks that have been detailed and productive.\" He added that \"while significant work remains, steps like this demonstrate that sustained diplomatic engagement is delivering tangible results and advancing efforts to end the war in Ukraine.\"[1][2]\n\nWitkoff expressed gratitude to the United Arab Emirates for hosting the discussions and credited President Donald Trump for his leadership in making the agreement possible. The exchange represents the first prisoner swap between Moscow and Kyiv since October 2025.[3][4][1]",
-      "audio_url": "",
-      "url": "us-ukraine-russia-agree-to-exc-_81JgeUuTQ.4DuI0R.PTIg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-05T18:00:00.000000Z",
       "title": "I have a question for the men who had no questions about Epstein",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-06T05:46:29.696577"
+  "merged_at": "2026-02-06T05:58:52.228523"
 }
