@@ -11,12 +11,21 @@
     },
     {
       "published_datetime": "2026-02-06T08:20:46.000000Z",
-      "title": "Senior Russian military official in hospital after being shot",
+      "title": "Russian general shot 'several times' in Moscow",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e701daf415e85008f7cf87f55e0bfed?impolicy=wcms_crop_resize&amp;cropH=1440&amp;cropW=2560&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Lieutenant General Vladimir Alexeyev, a senior Russian military official, has been rushed to hospital after being shot in Moscow.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-06/russian-lieutenant-general-vladimir-alexeyev-shot/106316214"
+    },
+    {
+      "published_datetime": "2026-02-06T07:59:17.000000Z",
+      "title": "Bushfire downgrade for blaze impacting Perth hills residents",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b797534939198e39be1849bef7289d57?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Fire authorities downgrade a bushfire in Darlington and Helena Valley as it becomes stationary but not controlled.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-06/emergency-warning-issued-for-bushfire-in-perth-hills/106315940"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0ed2de65-b095-4638-a115-b34651f416e0",
@@ -44,11 +53,11 @@
     },
     {
       "published_datetime": "2026-02-06T07:00:25.000000Z",
-      "title": "Breaking: Light plane crashes into ocean on South Australia's south coast",
+      "title": "Light plane crashes into ocean on South Australia's south coast",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4ae82c69f14dd11f59f3f12a542a2538?impolicy=wcms_crop_resize&amp;cropH=903&amp;cropW=1606&amp;xPos=173&amp;yPos=160&amp;width=862&amp;height=485"
       },
-      "description": "SA Police says it is responding to reports of a plane crash at Goolwa South.",
+      "description": "The Australian Transport Safety Bureau says it has begun an investigation into a crash involving a single-engine Cessna aeroplane which has \"collided with water\".",
       "page_content_url": "https://www.abc.net.au/news/2026-02-06/light-plane-crash-at-goolwa-south/106316008"
     },
     {
@@ -178,15 +187,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-06T01:33:38.000000Z",
-      "title": "France says Australia-bound drug ship isn't its problem after setting crew free",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4720215a15f00689afe7e38c7499f53d?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "French authorities intercept a ship carrying five tonnes of cocaine bound for Australia, before releasing the vessel and its crew.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-06/french-authorities-sink-five-tonnes-of-cocaine/106307438"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7785977d-602a-4713-ba53-2c99b6aab870",
       "published_datetime": "2026-02-05T23:54:49.272534",
       "title": "Venezuela passes first vote on amnesty for political prisoners",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-06T09:34:34.747845"
+  "merged_at": "2026-02-06T10:31:29.677736"
 }
