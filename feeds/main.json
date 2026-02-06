@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-06T16:54:52.000000Z",
+      "title": "Trump posts video depicting Obamas as monkeys",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/633650c4e9882b832f3f916ac7440051?impolicy=wcms_crop_resize&amp;cropH=1099&amp;cropW=1954&amp;xPos=1563&amp;yPos=318&amp;width=862&amp;height=485"
+      },
+      "description": "The video also includes a number of debunked conspiracy theories linked to the 2020 US election which the US president believes was stolen from him.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-07/trump-posts-video-showing-obamas-as-monkeys-on-truth-social/106316714"
+    },
+    {
       "published_datetime": "2026-02-06T16:14:30.000000Z",
       "title": "US accuses China of secret nuclear tests as calls grow for new arms deal",
       "featured_image": {
@@ -8,6 +17,21 @@
       },
       "description": "The claim comes as the US calls for China to be involved in a new deal limiting the use of nuclear weapons, after the New START deal expired this week.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-07/us-accuses-china-of-secret-nuclear-testing/106316826"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f2121ff7-3561-45bc-a9aa-42ecc5fa33e5",
+      "published_datetime": "2026-02-06T16:11:51.581814",
+      "title": "Russian intelligence general shot in Moscow assassination attempt",
+      "featured_image": {
+        "url": "https://www.nbcnews.com/world/russia/senior-russian-military-general-vladimir-alekseyev-shot-moscow-rcna257748",
+        "name": "Senior Russian general Vladimir Alekseyev shot in Moscow",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--z1JNCCTa--/t_limit/https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630%2Cf_auto%2Cq_auto:best/rockcms/2026-02/260206-Vladimir-Alexeyev-rs-7f186f.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--c35vI3NE--/t_thumbnail/https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630%2Cf_auto%2Cq_auto:best/rockcms/2026-02/260206-Vladimir-Alexeyev-rs-7f186f.jpg"
+      },
+      "description": "Lieutenant General Vladimir Alekseyev, the deputy chief of Russia's military intelligence agency (GRU), was shot multiple times outside a residential building in Moscow on Friday, according to Russia's Investigative Committee. The general was rushed to a hospital, while the gunman escaped the scene.[1][2][3]\n\nThe shooting occurred on Volokolamskoe Highway in northwest Moscow, according to Russian state media. An Investigative Committee spokesperson, Svetlana Petrenko, confirmed that Alekseyev was struck multiple times by an unidentified assailant but did not provide details on his condition or name any suspects.[2][4][5][6]",
+      "audio_url": "",
+      "url": "russian-intelligence-general-s-mUcyRB6BRwKoJAnbu_IaMg",
+      "partition_name": "partition1"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/da72e7f9-6cb9-4b22-95af-1caf7e354cc5",
@@ -86,15 +110,6 @@
       "audio_url": "",
       "url": "china-unveils-compact-20-gw-mi-a3EAe4LQSfGVCkkGmoKiZA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-06T11:13:08.000000Z",
-      "title": "At least 31 killed, 169 wounded in Islamabad suicide bombing",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2cce8ec6f011a9c681d32f5ee36f85c8?impolicy=wcms_crop_resize&amp;cropH=2345&amp;cropW=4168&amp;xPos=420&amp;yPos=305&amp;width=862&amp;height=485"
-      },
-      "description": "The explosion rocked the mosque on the outskirts of Pakistan's capital during Friday prayer.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-06/explosion-muslim-mosque-in-islamabad/106316320"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a7023b54-752c-437f-9ac8-929a882526cd",
@@ -217,21 +232,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-06/randa-abdel-fattah-author-to-attend-newcastle-writers-festival/106312828"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e3d506ad-de8b-4675-9e46-af4d0a382d8c",
-      "published_datetime": "2026-02-06T02:56:53.203059",
-      "title": "Anthropic launches Claude Opus 4.6 amid Super Bowl ad clash",
-      "featured_image": {
-        "url": "https://variety.com/2026/digital/news/sam-altman-slams-anthropic-super-bowl-ads-openai-1236653604/",
-        "name": "Sam Altman Slams Anthropic Super Bowl Ads Jabbing OpenAI's Ad ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--NRDfG51T--/t_limit/https://variety.com/wp-content/uploads/2026/02/Sam-Altman.jpg%3Fw%3D1000%26h%3D563%26crop%3D1",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--SIPHOoJt--/t_thumbnail/https://variety.com/wp-content/uploads/2026/02/Sam-Altman.jpg%3Fw%3D1000%26h%3D563%26crop%3D1"
-      },
-      "description": "Anthropic and OpenAI are sharpening their competitive edge in a battle for AI supremacy, with both companies unveiling new enterprise products this week while exchanging barbs over dueling Super Bowl advertisements. The public spat between the two startups\u2014whose origins intertwine from OpenAI's own ranks\u2014signals a pivotal moment as both companies race to prove they can build sustainable businesses from their costly AI ventures.\n\nOn Wednesday, Anthropic released a series of television ads set to air during Super Bowl LX that mock OpenAI's decision to introduce advertisements into ChatGPT. OpenAI CEO Sam Altman responded on X, calling the spots \"funny\" but \"clearly dishonest,\" accusing Anthropic of \"doublespeak.\" The commercials feature the tagline \"Ads coming to AI. But not to Claude\" and depict humorous scenarios where an ad-supported chatbot derails user requests with intrusive product placements.[1][2][3][4]",
-      "audio_url": "",
-      "url": "anthropic-and-openai-rivalry-i-2IuKpMPdRsOUWSfqKm1TZQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-05T18:00:00.000000Z",
       "title": "I have a question for the men who had no questions about Epstein",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-06T16:34:18.084328"
+  "merged_at": "2026-02-06T17:35:33.161598"
 }
