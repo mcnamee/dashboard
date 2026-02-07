@@ -1,12 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-07T00:03:02.000000Z",
+      "title": "Why Austin Applebee's superhuman swim was 'the story we needed' this week",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7caa73a1a4404e30b2ae5aaad8ca8cce?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
+      },
+      "description": "The remarkable story of Austin Appelbee's marathon swim for help went around the world, so why did it spark such an emotional reaction?",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-07/austin-appelbee-quindalup-rescue-global-phenomenon/106306482"
+    },
+    {
+      "published_datetime": "2026-02-06T23:16:43.000000Z",
+      "title": "Family's warning after 27yo dies of suspected heatstroke on cattle station",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a2ae7e5c8260b483422b6804bfaeb297?impolicy=wcms_crop_resize&amp;cropH=725&amp;cropW=1289&amp;xPos=0&amp;yPos=133&amp;width=862&amp;height=485"
+      },
+      "description": "Tiffani Phelps de Wildt died after collapsing on a remote station in WA's north. Her family says, had they known the risks, they would have tried to stop her from going out in the heat.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-07/tiffani-phelps-de-wildt-suspected-heat-death-remote-australia/106301164"
+    },
+    {
       "published_datetime": "2026-02-06T22:04:54.000000Z",
       "title": "Nancy Guthrie may have been abducted in a 41-minute window",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d2d92b95a59625010b6b5d445ced9c23?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=165&amp;width=862&amp;height=485"
       },
-      "description": "Nancy Guthrie was last seen alive when a relative dropped her outside her Tuscan home after a family games night. The 84-year-old grandmother has now been missing for a week.",
+      "description": "Nancy Guthrie was last seen alive when a relative dropped her outside her Tucson home after a family games night. The 84-year-old grandmother has now been missing for a week.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-07/nancy-guthrie-potentially-abducted-in-41-minute-window/106313064"
     },
     {
@@ -17,15 +35,6 @@
       },
       "description": "Since the US bombed Iran's key nuclear sites last year, analysts say work has increased at a secret underground facility that could be used to restart Tehran's nuclear program.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-07/iran-nuclear-sites-program-us-strikes-pickaxe-mountain-uranium/106288446"
-    },
-    {
-      "published_datetime": "2026-02-06T21:43:12.000000Z",
-      "title": "Three men dead after light plane crash, SA police say",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/19e0882b42043b3bcc27a50024b79c5d?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Police were called to the Long Bay area near Goolwa South on Friday afternoon after reports of a light plane crashing into the ocean.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-07/three-men-died-in-light-plane-crash-off-sa-coast/106316980"
     },
     {
       "published_datetime": "2026-02-06T21:24:21.000000Z",
@@ -44,15 +53,6 @@
       },
       "description": "The rich and powerful were all too happy to maintain connected to Jeffrey Epstein until it became the less convenient option.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-07/jeffrey-epstein-good-character-reference/106307992"
-    },
-    {
-      "published_datetime": "2026-02-06T20:15:41.000000Z",
-      "title": "Almost every Australian corner to pick up rain this week",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/73dda29d42a0614a95d369cc685d0390?impolicy=wcms_crop_resize&amp;cropH=1442&amp;cropW=2564&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Almost every corner of Australia will pick up rain during the next seven days, including heavy falls and pockets of flooding in multiple states.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-07/rainy-weather-for-most-australia-due-to-tropical-humidity/106314658"
     },
     {
       "published_datetime": "2026-02-06T19:17:21.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-06T23:17:34.924397"
+  "merged_at": "2026-02-07T01:12:11.764750"
 }
