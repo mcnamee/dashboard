@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-07T04:56:40.000000Z",
+      "title": "Rabbi condemns derogatory slur spray-painted on Andrew Hastie's office",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5223cf4ecde2016d447e8e57b32a616c?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=150&amp;width=862&amp;height=485"
+      },
+      "description": "Police are investigating a derogatory slur spray-painted on federal MP Andrew Hastie's electorate office in Western Australia.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-07/police-investigate-graffiti-attack-on-andrew-hasties-office/106317500"
+    },
+    {
+      "published_datetime": "2026-02-07T04:10:33.000000Z",
+      "title": "'You always make me smile': Epstein files rock global monarchies",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d1c40893c7ccd2ed5608e4d53a0d77df?impolicy=wcms_crop_resize&amp;cropH=1120&amp;cropW=1989&amp;xPos=5&amp;yPos=291&amp;width=862&amp;height=485"
+      },
+      "description": "The latest release of the so-called Epstein files has revealed the convicted child sex offender was in contact with members of, and people close to monarchies across Europe and the Middle East.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-07/epstein-files-rock-global-monarchies/106316380"
+    },
+    {
       "published_datetime": "2026-02-07T02:37:49.000000Z",
       "title": "Australians chasing 'Japow' are running into problems on Japan's slopes",
       "featured_image": {
@@ -24,7 +42,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bd6a4207235a9b7e96eab7bd124ee7d5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
       },
-      "description": "Donald Trump has, until now, thrived in controversy. But the US president has now done something which a year ago would have been unthinkable\u2026 deleted a social media post.",
+      "description": "Donald Trump has, until now, thrived in controversy. But the US president has now done something that a year ago would have been unthinkable: deleted a social media post.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-07/donald-trump-backdown-over-racist-obama-post-analysis/106317296"
     },
     {
@@ -149,24 +167,6 @@
       "audio_url": "",
       "url": "new-start-treaty-expires-raisi-bIzMoSO1QO6rdueFfWaiHQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-06T22:04:54.000000Z",
-      "title": "Nancy Guthrie may have been abducted in a 41-minute window",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d2d92b95a59625010b6b5d445ced9c23?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=165&amp;width=862&amp;height=485"
-      },
-      "description": "Nancy Guthrie was last seen alive when a relative dropped her outside her Tucson home after a family games night. The 84-year-old grandmother has now been missing for a week.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-07/nancy-guthrie-potentially-abducted-in-41-minute-window/106313064"
-    },
-    {
-      "published_datetime": "2026-02-06T19:17:21.000000Z",
-      "title": "How Epstein's ties to the 'Prince of Darkness' could bring down the UK prime minister",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d9453900647b3fe43a18b0d319363a87?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Sir Keir Starmer led Labour to a landslide election victory two years ago, but in the past week, things have unravelled for the British prime minister. What went wrong?",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-07/starmer-uk-pm-mandelson-epstein-files-calls-to-resign/106315470"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7fcf1083-f635-4d09-95d5-5b1a65bfb747",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-07T04:01:14.418612"
+  "merged_at": "2026-02-07T05:35:11.980101"
 }
