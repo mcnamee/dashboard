@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-07T21:34:11.000000Z",
+      "title": "Breaking: Coalition reunion expected to be announced after last-minute deal",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db8e463a0b8afebde66f61c19485864e?impolicy=wcms_crop_resize&amp;cropH=2944&amp;cropW=5235&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "A breakthrough deal to reunite the Coalition is expected to be announced today after 11th-hour talks between the leaders of the Liberal and National parties.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-08/deal-almost-done-to-bring-coalition-back-together/102760848"
+    },
+    {
       "published_datetime": "2026-02-07T20:58:55.000000Z",
       "title": "Olympic quick hits: Skier wears tank top, Carey lip-syncing drama emerges",
       "featured_image": {
@@ -41,15 +50,6 @@
       "audio_url": "",
       "url": "zelensky-opposes-reported-12-t-pWNgd06nQ9CAySXjP55pKA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-07T19:00:28.000000Z",
-      "title": "Illegal e-bikes to be seized and destroyed in major NSW crackdown",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8927514eb660a69c5eedcb018db15780?impolicy=wcms_crop_resize&amp;cropH=1010&amp;cropW=1796&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Devices found to be going over the state's e-bike speed limit will be seized and destroyed by authorities, under expanded police powers.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-08/illegal-e-bikes-seized-and-destroyed-in-nsw-crackdown/106317782"
     },
     {
       "published_datetime": "2026-02-07T18:55:33.000000Z",
@@ -110,7 +110,7 @@
     },
     {
       "published_datetime": "2026-02-07T18:37:16.000000Z",
-      "title": "Daytime power prices in Australia have never been lower. So why are bills rising?",
+      "title": "Daytime power prices have never been lower. So why are bills rising?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5c32fd788bfba283ea6d31943fcf66e1?impolicy=wcms_crop_resize&amp;cropH=897&amp;cropW=1595&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
       },
@@ -119,7 +119,7 @@
     },
     {
       "published_datetime": "2026-02-07T18:00:00.000000Z",
-      "title": "How the Liberals will justify Ley's ousting",
+      "title": "Liberals craft permission structure to oust Sussan Ley",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0ae4b0c68c956595863907b774b06bb5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-07T21:17:52.775905"
+  "merged_at": "2026-02-07T22:16:40.959626"
 }
