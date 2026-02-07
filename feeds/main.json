@@ -1,12 +1,21 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-07T12:17:54.000000Z",
+      "title": "Americans propose an end to Russian-Ukrainian war by June, Zelenskyy says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d0376fbb54d7e02b4e864ea7e2478d9c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "America has given Russia and Ukraine a June deadline to end the war \u2014 and will put pressure on both sides to ensure it is met \u2014 Volodymyr Zelenskyy says.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-07/russia-ukraine-deadline-to-end-war-/106317976"
+    },
+    {
       "published_datetime": "2026-02-07T09:29:39.000000Z",
-      "title": "Live: Nightmare start for Gu after crash in opening run of slopestyle qualifiers",
+      "title": "Live: Gu recovers from nightmare crash to qualify for slopestyle final",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9d2bc41c60dbec770328fe40472ad264?impolicy=wcms_crop_resize&amp;cropH=1661&amp;cropW=2953&amp;xPos=0&amp;yPos=153&amp;width=862&amp;height=485"
       },
-      "description": "Two-time gold medallist Eileen Gu is in action in the women's slopestyle qualifiers before Valentino Guseli competes in the final round of the Big Air. Follow live.",
+      "description": "Two-time gold medallist Eileen Gu's Milano Cortina campaign gets off to the worst possible start as a former champion fails to qualify for the slopestyle final. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-07/winter-olympics-day-one-live-blog-updates-guseli/106317886"
     },
     {
@@ -104,15 +113,6 @@
       },
       "description": "The latest release of the so-called Epstein files has revealed the convicted child sex offender was in contact with members of, and people close to monarchies across Europe and the Middle East.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-07/epstein-files-rock-global-monarchies/106316380"
-    },
-    {
-      "published_datetime": "2026-02-07T02:02:43.000000Z",
-      "title": "Prosecutors seek almost four-year sentence for US man linked to killers",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b8c0662c9ee58ef21389bc268494bf3?impolicy=wcms_crop_resize&amp;cropH=405&amp;cropW=720&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485"
-      },
-      "description": "US prosecutors are seeking a sentence of almost four years for a conspiracy theorist linked to the trio behind the Wieambilla shooting.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-07/wieambilla-shooting-daniel-day-sentencing/106317202"
     },
     {
       "published_datetime": "2026-02-07T01:52:17.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-07T11:15:34.482917"
+  "merged_at": "2026-02-07T12:29:00.670523"
 }
