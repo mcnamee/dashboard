@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-07T06:27:44.000000Z",
+      "title": "Daly River to hit major flood level Sunday, damage to homes expected",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2d92b58dde029e01ad7a552243fdea61?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Almost 300 people from Daly River have been evacuated to Darwin, with just a handful of residents staying behind.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-07/nt-daly-river-major-flood-update-damage-evacuation/106317688"
+    },
+    {
       "published_datetime": "2026-02-07T05:36:16.000000Z",
       "title": "'Monster': Funeral home owner sentenced over 189 counts of corpse abuse",
       "featured_image": {
@@ -8,6 +17,21 @@
       },
       "description": "A funeral home owner who stashed 189 decomposing bodies in a building over four years and gave grieving families fake ashes has been sentenced to 40 years in prison.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-07/colorado-funeral-home-owner-sentenced-over-corpse-abuse/106317582"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/95c00edc-5cce-410d-81bc-47c3d172d007",
+      "published_datetime": "2026-02-07T05:34:48.510638",
+      "title": "Cuba adopts four-day work week amid deepening energy crisis",
+      "featured_image": {
+        "url": "https://www.reuters.com/business/energy/trump-says-mexico-will-stop-sending-oil-energy-starved-cuba-2026-02-02/",
+        "name": "Trump says Mexico will stop sending oil to energy-starved Cuba",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--w_IoDkAd--/t_limit/https://www.reuters.com/resizer/v2/4EPB4EACRFMXZONLMSDLPASLKU.jpg%3Fauth%3D08295237c0a5f5e872af66223a62676da674522e681f1006abf0ee1dc1c8914a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--cbxz7bUC--/t_thumbnail/https://www.reuters.com/resizer/v2/4EPB4EACRFMXZONLMSDLPASLKU.jpg%3Fauth%3D08295237c0a5f5e872af66223a62676da674522e681f1006abf0ee1dc1c8914a%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Cuba announced emergency fuel-rationing measures on Friday, including a four-day work week for state companies and restrictions on fuel sales, as the island nation struggles with its worst energy crisis in years, fueled in part by President Donald Trump's executive order threatening tariffs on any country that supplies oil to Havana.\n\nDeputy Prime Minister Oscar Perez-Oliva Fraga blamed Washington for the crisis, telling state television the government would \"implement a series of decisions, first and foremost to guarantee the vitality of our country and essential services, without giving up on development.\"[1][2]",
+      "audio_url": "",
+      "url": "trump-threatens-tariffs-on-cub-QkBv6iBTR.WatF3YNq9.eg",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-02-07T04:56:40.000000Z",
@@ -26,15 +50,6 @@
       },
       "description": "The latest release of the so-called Epstein files has revealed the convicted child sex offender was in contact with members of, and people close to monarchies across Europe and the Middle East.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-07/epstein-files-rock-global-monarchies/106316380"
-    },
-    {
-      "published_datetime": "2026-02-07T02:37:49.000000Z",
-      "title": "Australians chasing 'Japow' are running into problems on Japan's slopes",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fff5c078c1e865c6274b9d45af5d553e?impolicy=wcms_crop_resize&amp;cropH=2158&amp;cropW=3836&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Australians flock to Japan each year to take advantage of its unique and plentiful snow, but it's not just the travel costs that are mounting.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-07/how-to-keep-safe-skiing-and-snowboarding-in-japan/106310604"
     },
     {
       "published_datetime": "2026-02-07T02:02:43.000000Z",
@@ -208,21 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/80d952d5-2e32-4bcf-927e-ded8ba586cc3",
-      "published_datetime": "2026-02-06T18:16:45.809666",
-      "title": "Epstein files trigger global resignations, criminal probes",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2026/2/5/how-epstein-mandelson-files-rocked-the-uk-government",
-        "name": "How Epstein-Mandelson files rocked the UK government",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Ti_1HRFF--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/02/ap_698476b03f121-1770288816.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--gsSfHzcm--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/02/ap_698476b03f121-1770288816.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "The release of more than three million documents related to Jeffrey Epstein by the U.S. Justice Department has set off an international reckoning, as prominent figures across multiple continents face resignations, investigations, and calls for accountability over their ties to the late convicted sex offender.",
-      "audio_url": "",
-      "url": "epstein-files-trigger-global-w-wXGQmR4zQqGYmZILpzF4eQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-06T18:00:00.000000Z",
       "title": "Untying antisemitism from anti-Israel sentiment will take political courage",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-07T06:31:40.166160"
+  "merged_at": "2026-02-07T07:26:11.601458"
 }
