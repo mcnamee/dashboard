@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/50a559cf-c54f-4d46-8ed2-3b9efd698cfb",
+      "published_datetime": "2026-02-07T12:37:34.140900",
+      "title": "Trump lifts India tariffs, threatens levies on Iran trade partners",
+      "featured_image": {
+        "url": "https://www.nytimes.com/2026/02/02/us/politics/trump-tariffs-india-trade-deal.html",
+        "name": "Trump Announces Trade Deal With India to Reduce Tariffs",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--QUIEeimx--/t_limit/https://static01.nyt.com/images/2025/05/28/multimedia/00biz-india-trade-deal-bfhm/00biz-india-trade-deal-bfhm-facebookJumbo.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--azWeY7v2--/t_thumbnail/https://static01.nyt.com/images/2025/05/28/multimedia/00biz-india-trade-deal-bfhm/00biz-india-trade-deal-bfhm-facebookJumbo.jpg"
+      },
+      "description": "President Donald Trump signed two executive orders Friday reshaping American trade policy across multiple fronts, rolling back punitive tariffs on India following New Delhi's commitment to halt Russian oil imports while simultaneously threatening duties on nations that continue to trade with Iran.\n\nThe dual moves underscore the Trump administration's use of tariffs as a lever in negotiations involving both allies and adversaries, with implications stretching from the Indo-Pacific to the Middle East.",
+      "audio_url": "",
+      "url": "trump-orders-tariffs-on-iran-t-m88xcJQdRAqvJb4X5.fj3g",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-07T12:17:54.000000Z",
       "title": "Americans propose an end to Russian-Ukrainian war by June, Zelenskyy says",
       "featured_image": {
@@ -10,12 +25,42 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-07/russia-ukraine-deadline-to-end-war-/106317976"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b00139f4-e371-4ac2-a9dd-7246cc460ca2",
+      "published_datetime": "2026-02-07T12:07:42.064537",
+      "title": "China launches reusable spaceplane for fourth orbital mission",
+      "featured_image": {
+        "url": "https://www.reuters.com/business/media-telecom/china-launches-reusable-spacecraft-fourth-time-since-2020-2026-02-07/",
+        "name": "China launches reusable spacecraft for fourth time since 2020",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--0UBAQ5jN--/t_limit/https://www.reuters.com/resizer/v2/RTZ45BK6GFNKHM5SWIUYSNKPOA.jpg%3Fauth%3D135bb5ef2ae07f37c34dff3b3c7218bb5e766679abc5eb81614a37d185f09d83%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--sbYgIwPj--/t_thumbnail/https://www.reuters.com/resizer/v2/RTZ45BK6GFNKHM5SWIUYSNKPOA.jpg%3Fauth%3D135bb5ef2ae07f37c34dff3b3c7218bb5e766679abc5eb81614a37d185f09d83%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "China successfully sent a reusable experimental spacecraft into orbit on Saturday, marking the fourth mission for the shadowy vehicle since 2020. The launch took place at the Jiuquan Satellite Launch Center in the Gobi Desert, northwest China, using a Long March-2F carrier rocket.[1][2][3]\n\nThe spacecraft lifted off between 11:48 a.m. and 12:07 p.m. China Standard Time, according to the space tracking site China-in-Space. State news agency Xinhua reported that the experimental spacecraft \"will conduct planned technical verification of reusable spacecraft technology, providing technical support for the peaceful use of space.\"[2][4][5]",
+      "audio_url": "",
+      "url": "china-launches-reusable-spacec-HKqOwDXAQZ61IxR0Y_06dw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/63cfafce-3f50-4daf-8ef6-b0353f607f09",
+      "published_datetime": "2026-02-07T10:35:36.482617",
+      "title": "Chinese researchers achieve perovskite solar cell breakthrough",
+      "featured_image": {
+        "url": "https://interestingengineering.com/energy/efficient-perovskite-solar-cells",
+        "name": "Perovskite solar cells boosted to 26% power with over 1,000 ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--6B2i595H--/t_limit/https://interestingengineering.com/_next/image%3Furl%3Dhttps%253A%252F%252Fcms.interestingengineering.com%252Fwp-content%252Fuploads%252F2026%252F02%252FIE-Photo-49.jpg%26w%3D3840%26q%3D75",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ar_Crp-7--/t_thumbnail/https://interestingengineering.com/_next/image%3Furl%3Dhttps%253A%252F%252Fcms.interestingengineering.com%252Fwp-content%252Fuploads%252F2026%252F02%252FIE-Photo-49.jpg%26w%3D3840%26q%3D75"
+      },
+      "description": "Separate research teams in China and Europe have pushed perovskite solar cell efficiency beyond 26 percent using new chemical and interface engineering approaches, marking a milestone in the race to commercialize this promising photovoltaic technology.\n\nThe advances address one of the central challenges facing perovskite solar cells: reconciling high efficiency with long-term stability under sunlight. While these cells have emerged as a low-cost alternative to silicon-based panels, their tendency to degrade when exposed to light and oxygen has hindered commercial deployment.",
+      "audio_url": "",
+      "url": "perovskite-solar-cells-surpass-.UkfmzPMTW2u2D1xqd.Kbw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-07T09:29:39.000000Z",
-      "title": "Live: Gu recovers from nightmare crash to qualify for slopestyle final",
+      "title": "Live: Gu recovers from nightmare crash as Swiss wins first gold of Winter Olympics",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9d2bc41c60dbec770328fe40472ad264?impolicy=wcms_crop_resize&amp;cropH=1661&amp;cropW=2953&amp;xPos=0&amp;yPos=153&amp;width=862&amp;height=485"
       },
-      "description": "Two-time gold medallist Eileen Gu's Milano Cortina campaign gets off to the worst possible start as a former champion fails to qualify for the slopestyle final. Follow live.",
+      "description": "Two-time gold medallist Eileen Gu's Milano Cortina campaign gets off to the worst possible start as Franjo von Allmen takes out the men's downhill final. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-07/winter-olympics-day-one-live-blog-updates-guseli/106317886"
     },
     {
@@ -178,51 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/42a76bf4-2391-44ce-9d24-664626597d3a",
-      "published_datetime": "2026-02-07T00:18:06.873400",
-      "title": "Satellite images show Iran prioritizing missile repairs over nuclear sites",
-      "featured_image": {
-        "url": "https://thehill.com/policy/defense/5363652-us-strikes-iran-nuclear-sites-satellite-images/",
-        "name": "Satellite images show strikes' impact on Iran nuclear sites",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--dPtrA-sH--/t_limit/https://thehill.com/wp-content/uploads/sites/2/2025/06/AP25173569395935-e1750647576572.jpg%3Fw%3D1280",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Kch6Z60i--/t_thumbnail/https://thehill.com/wp-content/uploads/sites/2/2025/06/AP25173569395935-e1750647576572.jpg%3Fw%3D1280"
-      },
-      "description": "New satellite imagery analyzed by the New York Times shows Iran has swiftly restored more than a dozen ballistic missile facilities damaged during last year's 12-day war with Israel and subsequent U.S. strikes, while making only limited progress at major nuclear sites that were targeted in June 2025.[1][2][3]\n\nThe finding, published Friday, coincided with the first round of indirect U.S.-Iran nuclear talks in Oman since the conflict, with Iranian Foreign Minister Abbas Araghchi describing the negotiations as \"a good start\" focused \"exclusively\" on the nuclear issue.[4][5]",
-      "audio_url": "",
-      "url": "iran-rapidly-repairs-missile-s-BbQM4FtUQgyYpvSTZksvJA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f01df9f1-ba10-4378-8937-d068614de8ad",
-      "published_datetime": "2026-02-07T00:16:56.405434",
-      "title": "Venezuela's political prisoners could be freed by next Friday",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/americas/jailed-venezuelan-protesters-could-all-be-free-by-next-friday-top-lawmaker-says-2026-02-06/",
-        "name": "Jailed Venezuelan protesters could all be free by next Friday, top ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--cYpqZO5t--/t_limit/https://www.reuters.com/resizer/v2/JV6WZCZDONJJZDRGSY52B2PLT4.jpg%3Fauth%3D8d026786ef9d4b3a3a8d6493d7fa7eb4f8a534435266eba0fe5ec16f8b30b1c5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--OOplzulq--/t_thumbnail/https://www.reuters.com/resizer/v2/JV6WZCZDONJJZDRGSY52B2PLT4.jpg%3Fauth%3D8d026786ef9d4b3a3a8d6493d7fa7eb4f8a534435266eba0fe5ec16f8b30b1c5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Venezuela's National Assembly is on track to grant final approval to an amnesty law on Tuesday that could lead to the release of all political prisoners by February 13, according to Assembly President Jorge Rodriguez.\n\nIn a video shared on Telegram on Friday, Rodriguez announced that the Amnesty Law for Democratic Coexistence, which passed its first vote unanimously on Thursday, is expected to receive final approval next week. \"We are optimistic that by next Tuesday or by Friday at the latest, everyone will be released,\" Rodriguez said.[1][2][3]\n\nThe legislation, proposed by interim President Delcy Rodriguez following the U.S. military capture of Nicolas Maduro on January 3, would grant clemency to those jailed for participating in political protests or criticizing public officials. It also would lift political candidacy bans on opposition figures, including Nobel Peace Prize laureate Maria Corina Machado, return seized assets, and cancel Interpol notices to allow exiles to return home.[4][5][6][7]",
-      "audio_url": "",
-      "url": "venezuela-advances-amnesty-law-TcyPtM_ZQSerP7kVYzhJtw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4472803e-9654-40f8-a378-cee4d8c8b74d",
-      "published_datetime": "2026-02-06T23:16:45.958093",
-      "title": "Expert warns Musk's orbital data center timeline is 'aggressive'",
-      "featured_image": {
-        "url": "https://www.bbc.com/news/articles/cyv5l24mrjmo",
-        "name": "Elon Musk's SpaceX applies to launch 1m satellites into orbit",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s---iHjeDdO--/t_limit/https://c.files.bbci.co.uk/647e/live/2eac0410-febb-11f0-9972-d3f265c101c6.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--A1hIxQlA--/t_thumbnail/https://c.files.bbci.co.uk/647e/live/2eac0410-febb-11f0-9972-d3f265c101c6.jpg"
-      },
-      "description": "Elon Musk this week announced an ambitious plan to launch up to one million solar-powered satellites into orbit to serve as data centers for artificial intelligence, a proposal experts say faces enormous technical, financial, and environmental hurdles despite the billionaire's track record of disrupting industries.\n\nThe plan, detailed in a filing submitted to the Federal Communications Commission on January 30, came alongside the merger of SpaceX and Musk's AI venture xAI in a deal valued at $1.25 trillion. Musk has argued that Earth-based solutions cannot keep pace with AI's surging energy demands and that orbital infrastructure offers near-constant solar power without atmospheric interference.[1][2][3]",
-      "audio_url": "",
-      "url": "musk-plans-solar-powered-space-Vlc_BM5aTY2pjLPnWDqMyQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-06T18:00:00.000000Z",
       "title": "Untying antisemitism from anti-Israel sentiment will take political courage",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-07T12:29:00.670523"
+  "merged_at": "2026-02-07T13:37:45.456735"
 }
