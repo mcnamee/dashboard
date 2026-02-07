@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-07T05:36:16.000000Z",
+      "title": "'Monster': Funeral home owner sentenced over 189 counts of corpse abuse",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40243963fb96abe7411e225ab96ca18d?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=102&amp;width=862&amp;height=485"
+      },
+      "description": "A funeral home owner who stashed 189 decomposing bodies in a building over four years and gave grieving families fake ashes has been sentenced to 40 years in prison.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-07/colorado-funeral-home-owner-sentenced-over-corpse-abuse/106317582"
+    },
+    {
       "published_datetime": "2026-02-07T04:56:40.000000Z",
       "title": "Rabbi condemns derogatory slur spray-painted on Andrew Hastie's office",
       "featured_image": {
@@ -223,15 +232,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-07/isaac-herzog-visit-australia/106294858"
     },
     {
-      "published_datetime": "2026-02-06T18:00:00.000000Z",
-      "title": "A bigger economic story is unfolding beyond interest rates",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e7a63c90e05eabe1fb062688b4413f28?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "As the opposition and government wrestled in the hay barn over who's to blame for this week's Reserve Bank interest rate increase, there's a much bigger story unfolding in the wings.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-07/interest-rate-hikes-capital-gains-tax-federal-budget/106294868"
-    },
-    {
       "published_datetime": "2026-02-06T16:54:52.000000Z",
       "title": "Trump described as 'sick individual' over video showing Obamas as apes",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-07T05:35:11.980101"
+  "merged_at": "2026-02-07T06:31:40.166160"
 }
