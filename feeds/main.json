@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1108bc8e-14ee-4891-b6a3-ef087cf6080a",
+      "published_datetime": "2026-02-07T16:41:22.855083",
+      "title": "Saudi Arabia commits billions to Syria in aviation, telecom deals",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/middle-east/saudi-arabia-announces-major-new-syria-investments-2026-02-07/",
+        "name": "Saudi Arabia announces major new Syria investments | Reuters",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--pJ9noRGn--/t_limit/https://www.reuters.com/resizer/v2/JG7QFN6VYZLYVHTKGSWRKXW4PU.jpg%3Fauth%3Df1221de76f3b06576e72f016e8fef6f096fe1761942ef30343890627e5e886f6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--38vGx9v5--/t_thumbnail/https://www.reuters.com/resizer/v2/JG7QFN6VYZLYVHTKGSWRKXW4PU.jpg%3Fauth%3Df1221de76f3b06576e72f016e8fef6f096fe1761942ef30343890627e5e886f6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
+      },
+      "description": "Saudi Arabia announced an expansive investment package in Syria on Saturday, launching new ventures in aviation, telecommunications, water infrastructure, and energy that position the kingdom as a leading financial backer of President Ahmed al-Sharaa's government. The agreements, signed at Damascus's People's Palace, represent the largest investment announcements since the United States lifted sanctions on Syria in December 2025.",
+      "audio_url": "",
+      "url": "saudi-arabia-commits-billions-nDCHr6jkTzmVIjMZ_IL.2g",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/50a559cf-c54f-4d46-8ed2-3b9efd698cfb",
       "published_datetime": "2026-02-07T12:37:34.140900",
       "title": "Trump lifts India tariffs, threatens levies on Iran trade partners",
@@ -56,11 +71,11 @@
     },
     {
       "published_datetime": "2026-02-07T09:29:39.000000Z",
-      "title": "Live: Aussie Ferlazzo hits luge track, Italy wins historic Olympic gold",
+      "title": "Live: Ferlazzo hits luge track, Aussies not giving up on injured Peel",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6893672e13437056bc24efe3bb0df16c?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=32&amp;width=862&amp;height=485"
       },
-      "description": "Competing at his fourth Olympics, Alex Ferlazzo will fly the Australian flag as the men's singles luge competition gets underway at the Milano Cortina Games. Follow live.",
+      "description": "Competing at his fourth Olympics, Alex Ferlazzo flies the Australian flag as the men's single luge competition gets underway at the Milano Cortina Games. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-07/winter-olympics-day-one-live-blog-updates-guseli/106317886"
     },
     {
@@ -208,21 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/884e4713-0eac-4b27-b599-ce7d2e9781d3",
-      "published_datetime": "2026-02-07T00:53:41.266543",
-      "title": "US and Russia agree new nuclear talks needed after treaty expires",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2021/7/28/amid-tensions-us-and-russia-hold-substantive-arms-talks",
-        "name": "Amid tensions, US and Russia hold \u2018substantive\u2019 arms talks",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--FDD5Augn--/t_limit/https://www.aljazeera.com/wp-content/uploads/2021/07/2021-07-28T124625Z_58649314_RC2KTO936XCC_RTRMADP_3_USA-RUSSIA-NUCLEAR.jpg%3Fresize%3D1920%252C1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--S16PQdix--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2021/07/2021-07-28T124625Z_58649314_RC2KTO936XCC_RTRMADP_3_USA-RUSSIA-NUCLEAR.jpg%3Fresize%3D1920%252C1080"
-      },
-      "description": "U.S. Secretary of State Marco Rubio declared on Friday that any future nuclear arms control agreement must include China, announcing the Trump administration would not pursue a new bilateral deal with Russia following the expiration of the New START treaty.\n\nIn an essay published on the State Department's Substack page, Rubio argued that China's \"rapid and opaque\" nuclear buildup has rendered Cold War-era arms control models \"obsolete.\" The announcement comes as the first time in more than half a century that the world's two largest nuclear arsenals have no legally binding limits.[1][2][3][4]",
-      "audio_url": "",
-      "url": "us-and-russia-agree-new-nuclea-_fNFtHlLQOqj9ov1hJ64Wg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-06T18:00:00.000000Z",
       "title": "Untying antisemitism from anti-Israel sentiment will take political courage",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-07T17:19:21.837799"
+  "merged_at": "2026-02-07T18:22:59.604376"
 }
