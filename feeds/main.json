@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-08T11:05:15.000000Z",
+      "title": "Danes unhappy with Trump's Greenland threats turn to tech to buy unAmerican",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3153b59bcfd8e8a50081560b99099ba7?impolicy=wcms_crop_resize&amp;cropH=2638&amp;cropW=4690&amp;xPos=0&amp;yPos=108&amp;width=862&amp;height=485"
+      },
+      "description": "After Donald Trump's repeated threats to acquire Greenland, many Danish people felt powerless but new apps are helping them make choices to boycott US-made products.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-08/greenland-denmark-app-boycott-us-made-goods-donald-trump/106319620"
+    },
+    {
+      "published_datetime": "2026-02-08T10:49:56.000000Z",
+      "title": "Grandmother killed in her sleep as car ploughs into home, family pays tribute",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1ce57955cb1da38a0ae06b30718f495?impolicy=wcms_crop_resize&amp;cropH=704&amp;cropW=1252&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The family of a grandmother who died in her sleep when a car crashed into a home in Perth has paid tribute to her in an emotional press conference. A 36-year-old man has been charged with manslaughter.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-08/bishnu-kumari-gurung-himali-killed-rivervale-house-crash/106319748"
+    },
+    {
       "published_datetime": "2026-02-08T08:13:36.000000Z",
-      "title": "Live: 41-year-old Lindsey Vonn to compete with torn ACL at Winter Olympics",
+      "title": "Live: Fans stunned into silence as Vonn helicoptered out following crash",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9c514d35e311d6e67f635f71cf1beb10?impolicy=wcms_crop_resize&amp;cropH=2347&amp;cropW=4173&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -23,24 +41,6 @@
       "audio_url": "",
       "url": "modi-and-anwar-sign-11-india-m-12C9XjPeSDuiMV40FPmMRA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-08T05:36:28.000000Z",
-      "title": "Family pays tribute to 'beautiful boy' who 'spread his wings one last time'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/301f4e211f29e2585061722a608087f6?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
-      },
-      "description": "The father of an 18-year-old has paid tribute to his \"beautiful boy\", after a fatal plane crash south of Adelaide on Friday.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-08/family-pays-tribute-to-young-man-after-plane-crash-goolwa-south/106319352"
-    },
-    {
-      "published_datetime": "2026-02-08T04:20:20.000000Z",
-      "title": "Brisbane star Payne Haas signs three-year deal with South Sydney",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7b051c18f2740d5e3140cd0ae2302933?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=288&amp;width=862&amp;height=485"
-      },
-      "description": "South Sydney have pulled off one of the biggest recruitment moves in NRL history after signing Brisbane enforcer Payne Haas to a three-year contract from 2027.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-08/payne-haas-signs-with-south-sydney-for-2027/106319316"
     },
     {
       "published_datetime": "2026-02-08T04:12:06.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-08T10:17:38.503361"
+  "merged_at": "2026-02-08T11:16:25.934974"
 }
