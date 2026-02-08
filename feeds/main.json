@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-08T08:13:36.000000Z",
+      "title": "Live: Tess Coady to headline day two for Australia at Winter Olympics",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1ac96d8e0eac04ead254569f64ebff41?impolicy=wcms_crop_resize&amp;cropH=1740&amp;cropW=3094&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Aussies Seve de Campo, Hugo Hinckfuss and Lars Young Vik are in action in cross-country skiing before Alex Ferlazzo competes in the luge. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-08/winter-olympics-day-two-live-blog-updates/106319558"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6e7a8a95-2de6-4a30-b995-c17ed0568b99",
       "published_datetime": "2026-02-08T06:23:07.342248",
       "title": "India, Malaysia sign 11 agreements on trade and semiconductors",
@@ -83,15 +92,6 @@
       },
       "description": "Treasurer Jim Chalmers says the federal government's budget in May will focus on productivity, spending restraint and tax reform.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-08/may-federal-budget-to-focus-on-lifting-speed-limit-on-economy/105435282"
-    },
-    {
-      "published_datetime": "2026-02-08T00:23:35.000000Z",
-      "title": "'This is valuable to us, and we will pay': TV host agrees to ransom demand",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b301919d42f05feae5f4420e5f90f4d8?impolicy=wcms_crop_resize&amp;cropH=303&amp;cropW=539&amp;xPos=0&amp;yPos=9&amp;width=862&amp;height=485"
-      },
-      "description": "In a video posted to Instagram, the host of NBC's Today Show appears to directly address her mother's kidnappers, telling them she and her siblings have \"received your message, and we understand\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-08/savannah-guthrie-video-says-will-pay-ransom-for-kidnapped-mother/106318892"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/809710c8-a3d9-48dc-a369-701dd75cb3ed",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-08T08:23:14.808876"
+  "merged_at": "2026-02-08T09:23:13.823426"
 }
