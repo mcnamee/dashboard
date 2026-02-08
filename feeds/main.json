@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3636fb79-3c7b-4bb0-854f-e63327933253",
+      "published_datetime": "2026-02-08T20:55:35.076682",
+      "title": "Iran sentences Nobel laureate Narges Mohammadi to 7 more years",
+      "featured_image": {
+        "url": "https://www.nytimes.com/2026/02/05/world/middleeast/iran-narges-mohammadi-prison-hunger-strike.html",
+        "name": "Iranian Nobel Peace Laureate Starts New Hunger Strike in Prison",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--NEzbaFXx--/t_limit/https://static01.nyt.com/images/2026/02/05/world/05int-Iran-Narges/05int-Iran-Narges-facebookJumbo.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--AjnQ2ebz--/t_thumbnail/https://static01.nyt.com/images/2026/02/05/world/05int-Iran-Narges/05int-Iran-Narges-facebookJumbo.jpg"
+      },
+      "description": "Iran has sentenced imprisoned Nobel Peace Prize laureate Narges Mohammadi to more than seven additional years behind bars after she began a hunger strike, delivering the verdict as Tehran negotiates with the United States over its nuclear program.\n\nHer lawyer, Mostafa Nili, confirmed the sentence on X on Sunday, saying a Revolutionary Court in the city of Mashhad handed down the ruling on Saturday. Mohammadi received six years for \"gathering and collusion to commit crimes,\" one and a half years for propaganda activities, a two-year travel ban, and two years of internal exile to the city of Khosf in South Khorasan province. Under Iranian law, prison sentences run concurrently, meaning the longest term applies.[1][2][3][4]\n\nIranian authorities have not publicly acknowledged the ruling.[2][5]",
+      "audio_url": "",
+      "url": "iran-sentences-nobel-laureate-D1fcEK.GTwGzAgMNz5D0BQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-08T20:51:35.000000Z",
       "title": "Israeli president begins controversial visit to mourn Bondi attack victims",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7317084c-d8af-4130-8bce-04cce48b1cde",
-      "published_datetime": "2026-02-07T18:47:09.155138",
-      "title": "Iran's foreign minister warns of strikes on US bases if attacked",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2025/6/11/iran-threatens-to-strike-us-bases-if-conflict-erupts-over-nuclear-programme",
-        "name": "Iran threatens to strike US bases if conflict erupts over nuclear programme",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--R3mD3YOT--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/06/AFP__20241122__36MZ93K__v1__HighRes__VenezuelaIranDiplomacy-1749647375.jpg%3Fresize%3D770%252C513%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0UhTY5B9--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/06/AFP__20241122__36MZ93K__v1__HighRes__VenezuelaIranDiplomacy-1749647375.jpg%3Fresize%3D770%252C513%26quality%3D80"
-      },
-      "description": "Iranian Foreign Minister Abbas Araghchi issued a warning on Saturday that Tehran would target American military installations across the Middle East if the United States launches an attack on the Islamic Republic, while emphasizing such strikes should not be interpreted as aggression toward the host nations.[1][2][3]\n\n\"It would not be possible to attack American soil, but we will target their bases in the region,\" Araghchi told Qatari Al Jazeera television. \"We will not attack neighboring countries; rather, we will target U.S. bases stationed in them. There is a big difference between the two.\"[2][4][3][1]\n\nThe warning comes amid heightened tensions as the Trump administration maintains a substantial naval presence in the region, with the USS Abraham Lincoln carrier strike group positioned in the Arabian Sea alongside additional warships equipped with Tomahawk missiles. President Donald Trump has referred to the deployment as a \"massive armada\" while warning of potential military action should Iran refuse to negotiate on its nuclear program.[5][6][7][8]",
-      "audio_url": "",
-      "url": "iran-warns-it-will-strike-us-b-TR.vIXNpSdiK0T5XkfK8gA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-08T21:19:08.727695"
+  "merged_at": "2026-02-08T21:34:44.882295"
 }
