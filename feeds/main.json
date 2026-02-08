@@ -94,15 +94,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-07T22:48:37.000000Z",
-      "title": "The slow death of Starmer's prime ministership after Mandelson's 'betrayal'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/96c211bf05dd137c2683ad8bbd255c33?impolicy=wcms_crop_resize&amp;cropH=1503&amp;cropW=2672&amp;xPos=0&amp;yPos=243&amp;width=862&amp;height=485"
-      },
-      "description": "Starmer's decision to hand the plum job of UK ambassador in Washington to Lord Peter Mandelson, despite knowing Mandelson had maintained a friendship with Jeffrey Epstein well past Epstein's conviction for soliciting underage prostitution, may simply be too large an error of judgement for the public to accept.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-08/keir-starmer-leadership-peril-over-mandelson-epstein-scanda/106318588"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/317da122-e099-4eb9-a73a-1a54333e9aa1",
       "published_datetime": "2026-02-07T21:35:47.605631",
       "title": "IAEA warns of nuclear risk after Russian strikes halt Ukraine plants",
@@ -140,6 +131,15 @@
       "audio_url": "",
       "url": "musk-plans-spacex-solar-powere-hjkXcxdpQwmFiycJZBCNyg",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-02-07T20:53:43.000000Z",
+      "title": "Cyclone Mitchell's slow passage posing extended threat to WA's Pilbara",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a2e9faa166e2b2c841e1d4f56ace19b8?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
+      },
+      "description": "Onslow and Exmouth remain in the firing line, while an emergency warning for Karratha has been lifted, as Tropical Cyclone Mitchell continues to track along the Pilbara coast.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-08/cyclone-mitchell-karratha-impact-pilbara/106317910"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fe5f9f0d-e1fa-42bf-9693-490864801a72",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-08T06:42:01.202516"
+  "merged_at": "2026-02-08T07:33:34.784129"
 }
