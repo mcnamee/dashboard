@@ -34,6 +34,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-09/federal-politics-ley-littleproud-albanese-coalition-estimates/106314548"
     },
     {
+      "published_datetime": "2026-02-08T20:04:19.000000Z",
+      "title": "Live: Wall Street rebounds strongly and ASX set to rally",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/243afdeb72b57081273fdf917bd143e4?impolicy=wcms_crop_resize&amp;cropH=1689&amp;cropW=3000&amp;xPos=0&amp;yPos=308&amp;width=862&amp;height=485"
+      },
+      "description": "Wall Street rebounded on Friday as investors searched for bargains after the recent stumble. The ASX looks set to follow a similar pattern today. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-09/asx-markets-business-news-live-updates-january-09/106319466"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d1fa84a3-9c2a-4c59-93d8-54d185021386",
       "published_datetime": "2026-02-08T19:53:24.575372",
       "title": "Starmer's chief of staff quits over Mandelson appointment",
@@ -54,17 +63,8 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/413b88ee4e823a899fbdfd3c2d63e7c7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=410&amp;width=862&amp;height=485"
       },
-      "description": "A $740 million program will transform support for veterans and include funding for social activities such as yoga and language classes, with new treatment including MDMA and psilocybin for the worst forms of PTSD also funded for the first time.",
+      "description": "A $740 million program will expand support for veterans and include funding for social activities such as yoga and language classes, with new treatment including MDMA and psilocybin for the worst forms of PTSD also funded for the first time.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-09/veterans-funding-social-rehabilitation-mdma-ptsd/106309994"
-    },
-    {
-      "published_datetime": "2026-02-08T18:44:23.000000Z",
-      "title": "UK prime minister's powerful chief of staff quits amid Epstein fallout",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/47bb613e16a5ec14461cad93b9902729?impolicy=wcms_crop_resize&amp;cropH=1559&amp;cropW=2771&amp;xPos=0&amp;yPos=12&amp;width=862&amp;height=485"
-      },
-      "description": "Sir Keir Starmer's leadership is under threat after revelations that one of his former US ambassadors had close ties with Jeffrey Epstein.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-09/morgan-mcsweeney-resigns-epstein-mandelson/106320216"
     },
     {
       "published_datetime": "2026-02-08T18:42:29.000000Z",
@@ -143,11 +143,11 @@
     },
     {
       "published_datetime": "2026-02-08T08:13:36.000000Z",
-      "title": "Live: Two Aussies make big air final in dramatic finale",
+      "title": "Two Australians reach big air final after tense qualifying runs",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c181684b2220ba210f2154713f6f59a6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d47445be4d39bccaa063b23ac9d1484a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
       },
-      "description": "Two Australians, including debutant Meila Stalker, are through to the big air final at Milano Cortina after a dramatic finish to qualification. Follow live.",
+      "description": "Olympic medallist Tess Coady and fellow Australian Meila Stalker reach the snowboard big air final, after a dramatic day where American superstar Lindsey Vonn crashes in women's downhill.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-08/winter-olympics-day-two-live-blog-updates/106319558"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-08T21:34:44.882295"
+  "merged_at": "2026-02-08T22:17:45.702484"
 }
