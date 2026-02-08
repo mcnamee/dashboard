@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/21c769fd-255d-4521-98df-4182383dc282",
+      "published_datetime": "2026-02-08T12:19:30.563328",
+      "title": "Chang'e-6 samples confirm uniform impact rates across Moon",
+      "featured_image": {
+        "url": "https://www.nature.com/articles/d41586-024-01625-0",
+        "name": "China's Chang'e-6 collects first rock samples from Moon's ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s---WBSUx1k--/t_limit/https://media.nature.com/w767/magazine-assets/d41586-024-01625-0/d41586-024-01625-0_27172700.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--3kP_SExj--/t_thumbnail/https://media.nature.com/w767/magazine-assets/d41586-024-01625-0/d41586-024-01625-0_27172700.jpg"
+      },
+      "description": "Chinese scientists have confirmed for the first time that impact cratering rates on the Moon's near and far sides are essentially consistent, paving the way for a unified global lunar chronology system. Separately, researchers using Chang'e-6 samples have found evidence that a giant ancient impact reshaped the Moon's interior, potentially explaining why Earth's only natural satellite looks so different on its two hemispheres.\n\nThe findings, published in Science Advances on Thursday and in the Proceedings of the National Academy of Sciences in January, mark breakthroughs in understanding the Moon's 4.5-billion-year history, drawing on the first samples ever returned from the lunar far side.[1][2][3]",
+      "audio_url": "",
+      "url": "chang-e-6-samples-reveal-moon-m6JyBuLtSw6WbKXoRGK1Dg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-08T11:05:15.000000Z",
       "title": "Danes unhappy with Trump's Greenland threats turn to tech to buy unAmerican",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/50a559cf-c54f-4d46-8ed2-3b9efd698cfb",
-      "published_datetime": "2026-02-07T12:37:34.140900",
-      "title": "Trump lifts India tariffs, threatens levies on Iran trade partners",
-      "featured_image": {
-        "url": "https://www.nytimes.com/2026/02/02/us/politics/trump-tariffs-india-trade-deal.html",
-        "name": "Trump Announces Trade Deal With India to Reduce Tariffs",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--QUIEeimx--/t_limit/https://static01.nyt.com/images/2025/05/28/multimedia/00biz-india-trade-deal-bfhm/00biz-india-trade-deal-bfhm-facebookJumbo.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--azWeY7v2--/t_thumbnail/https://static01.nyt.com/images/2025/05/28/multimedia/00biz-india-trade-deal-bfhm/00biz-india-trade-deal-bfhm-facebookJumbo.jpg"
-      },
-      "description": "President Donald Trump signed two executive orders Friday reshaping American trade policy across multiple fronts, rolling back punitive tariffs on India following New Delhi's commitment to halt Russian oil imports while simultaneously threatening duties on nations that continue to trade with Iran.\n\nThe dual moves underscore the Trump administration's use of tariffs as a lever in negotiations involving both allies and adversaries, with implications stretching from the Indo-Pacific to the Middle East.",
-      "audio_url": "",
-      "url": "trump-orders-tariffs-on-iran-t-m88xcJQdRAqvJb4X5.fj3g",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-08T12:29:31.962585"
+  "merged_at": "2026-02-08T13:39:23.175202"
 }
