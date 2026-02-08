@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/65eeaf3a-9383-4ec6-9c10-87c0b0f28704",
+      "published_datetime": "2026-02-08T17:24:42.912144",
+      "title": "Japan's Takaichi wins landslide in snap election, exit polls show",
+      "featured_image": {
+        "url": "https://www.nytimes.com/2026/02/08/world/asia/japan-takaichi-election-landslide.html",
+        "name": "Japan's Leader Wins in a Landslide, Clearing Way for Hard-Line ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--aC_lJI9---/t_limit/https://static01.nyt.com/images/2026/02/08/multimedia/08-japan-election-ledeall-ljgw/08-japan-election-ledeall-ljgw-facebookJumbo.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--2dCLvQw_--/t_thumbnail/https://static01.nyt.com/images/2026/02/08/multimedia/08-japan-election-ledeall-ljgw/08-japan-election-ledeall-ljgw-facebookJumbo.jpg"
+      },
+      "description": "Prime Minister Sanae Takaichi's gamble on a snap election has paid off handsomely. Japan's ruling Liberal Democratic Party swept to a commanding victory on Sunday, with projections from public broadcaster NHK showing the party capturing at least 310 seats in the 465-member lower house\u2014far exceeding the 233 needed for a majority and marking a dramatic reversal from the party's fortunes just months ago.[1][2][3]\n\nTogether with coalition partner Japan Innovation Party, Takaichi's ruling bloc is projected to win between 302 and 366 seats, potentially securing a two-thirds supermajority that would allow the government to override vetoes from the opposition-controlled upper house.[4][5][2]",
+      "audio_url": "",
+      "url": "takaichi-s-ldp-secures-histori-IuPRN39fQfKfN.4o3lKh1Q",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-08T14:19:03.000000Z",
       "title": "Tropical Cyclone Mitchell approaches Exmouth and Ningaloo coast",
       "featured_image": {
@@ -53,11 +68,11 @@
     },
     {
       "published_datetime": "2026-02-08T08:13:36.000000Z",
-      "title": "Live: Fans stunned into silence as US superstar Vonn crashes at Winter Olympics",
+      "title": "Live: Tess Coady leads Australian trio in Big Air qualification after ski superstar Vonn crashes out",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a438ac14223ae3de48c3ff09c0522b5a?impolicy=wcms_crop_resize&amp;cropH=2008&amp;cropW=3569&amp;xPos=0&amp;yPos=200&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d47445be4d39bccaa063b23ac9d1484a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
       },
-      "description": "American superstar Lindsey Vonn crashed in the women's downhill skiing, leaving the fans gathered in shocked silence. Follow live.",
+      "description": "Olympic medallist Tess Coady leads an Australian trio seeking a spot in the Snowboard Big Air final, after a dramatic day where American superstar Lindsey Vonn crashes in women's downhill. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-08/winter-olympics-day-two-live-blog-updates/106319558"
     },
     {
@@ -226,21 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-08/big-swings-in-australias-electricity-market/106305696"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1108bc8e-14ee-4891-b6a3-ef087cf6080a",
-      "published_datetime": "2026-02-07T16:41:22.855083",
-      "title": "Saudi Arabia commits billions to Syria in aviation, telecom deals",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/middle-east/saudi-arabia-announces-major-new-syria-investments-2026-02-07/",
-        "name": "Saudi Arabia announces major new Syria investments | Reuters",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--pJ9noRGn--/t_limit/https://www.reuters.com/resizer/v2/JG7QFN6VYZLYVHTKGSWRKXW4PU.jpg%3Fauth%3Df1221de76f3b06576e72f016e8fef6f096fe1761942ef30343890627e5e886f6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--38vGx9v5--/t_thumbnail/https://www.reuters.com/resizer/v2/JG7QFN6VYZLYVHTKGSWRKXW4PU.jpg%3Fauth%3Df1221de76f3b06576e72f016e8fef6f096fe1761942ef30343890627e5e886f6%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Saudi Arabia announced an expansive investment package in Syria on Saturday, launching new ventures in aviation, telecommunications, water infrastructure, and energy that position the kingdom as a leading financial backer of President Ahmed al-Sharaa's government. The agreements, signed at Damascus's People's Palace, represent the largest investment announcements since the United States lifted sanctions on Syria in December 2025.",
-      "audio_url": "",
-      "url": "saudi-arabia-commits-billions-nDCHr6jkTzmVIjMZ_IL.2g",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-08T17:19:14.563886"
+  "merged_at": "2026-02-08T18:24:26.548072"
 }
