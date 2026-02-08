@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d1fa84a3-9c2a-4c59-93d8-54d185021386",
+      "published_datetime": "2026-02-08T19:53:24.575372",
+      "title": "Starmer's chief of staff quits over Mandelson appointment",
+      "featured_image": {
+        "url": "https://www.independent.co.uk/news/uk/politics/morgan-mcsweeney-quits-mandelson-keir-starmer-labour-b2913172.html",
+        "name": "Morgan McSweeney quits: Keir Starmer's right-hand man ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--keC6viSE--/t_limit/https://static.independent.co.uk/2025/11/13/8/21/UK-Daily-Politics-2025-4g7visae.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--HlcQ-zQ---/t_thumbnail/https://static.independent.co.uk/2025/11/13/8/21/UK-Daily-Politics-2025-4g7visae.jpeg"
+      },
+      "description": "Morgan McSweeney, the architect of Labour's 2024 general election victory, resigned as UK Prime Minister Keir Starmer's chief of staff on Sunday, taking responsibility for advising the embattled leader to appoint Peter Mandelson as ambassador to the United States.\n\n\"The decision to appoint Peter Mandelson was wrong. He has damaged our party, our country and trust in politics itself,\" McSweeney wrote in his resignation letter. \"When asked, I advised the Prime Minister to make that appointment and I take full responsibility for that advice. In public life responsibility must be owned when it matters most, not just when it is most convenient.\"[1][2]\n\nThe resignation marks a dramatic fall for the Irish-born strategist who masterminded Starmer's transformation of the Labour Party and its landslide victory in July 2024. McSweeney had been considered indispensable to Starmer's political operation, with one minister previously telling reporters the pair were \"locked together in mutual survival.\"[3][4]",
+      "audio_url": "",
+      "url": "morgan-mcsweeney-resigns-as-st-rYLQWQ3nQ16cIHQ6.qodWg",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/65eeaf3a-9383-4ec6-9c10-87c0b0f28704",
       "published_datetime": "2026-02-08T17:24:42.912144",
       "title": "Japan's Takaichi wins landslide in snap election, exit polls show",
@@ -136,21 +151,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/83ab563a-fbe8-456d-bec1-3ab8fd0a7487",
-      "published_datetime": "2026-02-07T18:45:11.054364",
-      "title": "Netanyahu to meet Trump Wednesday to discuss US-Iran talks",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2025/1/28/israels-netanyahu-to-meet-with-trump-at-white-house-next-week",
-        "name": "Israel\u2019s Netanyahu to meet with Trump at White House next week",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--7LCCkEu8--/t_limit/https://www.aljazeera.com/wp-content/uploads/2024/04/AP24095746282700-1712283099.jpg%3Fresize%3D770%252C513%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--w5P8f7XK--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2024/04/AP24095746282700-1712283099.jpg%3Fresize%3D770%252C513%26quality%3D80"
-      },
-      "description": "Israeli Prime Minister Benjamin Netanyahu will travel to Washington on Wednesday to discuss ongoing US-Iran nuclear negotiations with President Donald Trump, his office announced Saturday. The visit represents an acceleration of diplomatic coordination as high-stakes talks between Washington and Tehran appear to be gaining momentum.\n\nThe meeting comes just days after the first round of indirect nuclear talks between US and Iranian officials concluded in Muscat, Oman, on Friday. Both sides described the discussions as constructive and agreed to continue negotiations, though substantial gaps remain on key issues.",
-      "audio_url": "",
-      "url": "netanyahu-to-meet-trump-wednes-4Prs5kgGSn6XtBPoK5ja3w",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -218,5 +218,5 @@
   "abc_items": 0,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-08T20:16:52.564007"
+  "merged_at": "2026-02-08T20:36:01.088900"
 }
