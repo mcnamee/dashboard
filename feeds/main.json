@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-09T22:41:17.000000Z",
+      "title": "Breaking: Border Force launches operation targeting foreign fishing boats",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b450c74f9f603a6c41b32062323197a0?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485"
+      },
+      "description": "Authorities have announced a special effort to crack down on illegal foreign fishing boats after intercepting 10 boats in Queensland waters since New Year's Day alone.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-10/border-force-operation-targets-foreign-fishing-queensland-waters/106325290"
+    },
+    {
+      "published_datetime": "2026-02-09T22:18:04.000000Z",
+      "title": "Vonn set for multiple surgeries but denies torn ACL contributed to crash",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b036202ba4f2a12829c4965f8ae799b?impolicy=wcms_crop_resize&amp;cropH=1755&amp;cropW=3120&amp;xPos=0&amp;yPos=293&amp;width=862&amp;height=485"
+      },
+      "description": "American ski great Lindsey Vonn will \"require multiple surgeries\" after sustaining a tibia fracture, but denies that her previously ruptured ACL was the cause of the crash that ended her Winter Olympic Games.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-10/lindsey-vonn-tibia-fracture-multiple-surgeries-winter-olympics/106325232"
+    },
+    {
       "published_datetime": "2026-02-09T21:58:51.000000Z",
-      "title": "Catherine O'Hara's cause of death revealed",
+      "title": "Blood clot revealed as cause of Catherine O'Hara's death",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/95ee0734b9514386daa94c8da0b0fb0a?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -11,30 +29,12 @@
     },
     {
       "published_datetime": "2026-02-09T20:49:56.000000Z",
-      "title": "Minns says violence footage 'doesn't look good' after police, protesters clash in Sydney",
+      "title": "Live: Minns admits clashes 'don't look good' but defends police after Herzog rally clashes",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a6073867a7e0b3654064edffeb0cda01?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=57&amp;width=862&amp;height=485"
       },
       "description": "The NSW premier and a senior police officer defend the actions of officers amid claims of heavy-handed tactics at a rally against Israeli president Isaac Herzog in Sydney last night.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-10/nsw-officer-defends-police-sydney-protest-israeli-herzog/106324050"
-    },
-    {
-      "published_datetime": "2026-02-09T19:59:17.000000Z",
-      "title": "Ghislaine Maxwell will only talk if Trump grants clemency, lawyer says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bf907a886c07b5ef1979eb4c171cdc0a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
-      },
-      "description": "The jailed accomplice of sex predator Jeffrey Epstein refuses to answer questions for the US Congress \u2014 but her lawyer says she will cooperate if granted clemency by the president.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-10/ghislaine-maxwell-will-only-talk-if-trump-grants-clemency/106324720"
-    },
-    {
-      "published_datetime": "2026-02-09T19:52:38.000000Z",
-      "title": "Angus Taylor faces push to launch leadership coup",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/351be5d8f11b1a0270e8e31de22497f3?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "Liberal leadership aspirant Angus Taylor is facing pressure from conservative supporters to challenge Sussan Ley this week and end the damaging speculation paralysing the party.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-10/angus-taylor-pressure-to-challenge-for-liberal-leadership/106324000"
     },
     {
       "published_datetime": "2026-02-09T19:22:02.000000Z",
@@ -59,6 +59,15 @@
       "audio_url": "",
       "url": "ukrainian-intelligence-exposes-qDZVOJ1kTU.8Jt.rNLrIew",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-02-09T19:15:00.000000Z",
+      "title": "Government plans investment scheme crackdown after major funds collapse",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6869d93e4363902ae3c5a43dea3cba3?impolicy=wcms_crop_resize&amp;cropH=771&amp;cropW=1371&amp;xPos=0&amp;yPos=71&amp;width=862&amp;height=485"
+      },
+      "description": "The federal government plans a crackdown on managed investment schemes following the collapses of Shield Master Fund and First Guardian.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-10/government-plans-managed-investment-scheme-crackdown/106323450"
     },
     {
       "published_datetime": "2026-02-09T19:14:23.000000Z",
@@ -223,15 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-09T08:29:12.000000Z",
-      "title": "Aussies Coady and Stalker miss the medals in big air final",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a267dc1477910aa88e303cf79b5ef8d7?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=62&amp;width=862&amp;height=485"
-      },
-      "description": "Australian's Tess Coady and Mela Stalker miss the podium in the snowboard big air final, while Holly Harris and Jason Chan become the first Aussies in 12 years to represent the country in ice dancing.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-09/winter-olympics-day-two-live-blog-updates/106322542"
-    },
-    {
       "published_datetime": "2026-02-09T07:59:58.000000Z",
       "title": "Ex-spy challenges ASIO's account of Bondi shooter's radicalisation",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-09T22:46:33.031213"
+  "merged_at": "2026-02-09T23:29:41.561285"
 }
