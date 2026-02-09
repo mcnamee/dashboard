@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-09T20:49:56.000000Z",
+      "title": "Officers' actions in violent Sydney rally 'justified', police say",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a6073867a7e0b3654064edffeb0cda01?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=57&amp;width=862&amp;height=485"
+      },
+      "description": "Twenty-seven people were arrested, including 10 for assaulting police, on Monday night at a demonstration against Israeli President Isaac Herzog's visit to Australia.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-10/nsw-officer-defends-police-sydney-protest-israeli-herzog/106324050"
+    },
+    {
       "published_datetime": "2026-02-09T19:59:17.000000Z",
       "title": "Ghislaine Maxwell will only talk if Trump grants clemency, lawyer says",
       "featured_image": {
@@ -20,7 +29,7 @@
     },
     {
       "published_datetime": "2026-02-09T19:46:10.000000Z",
-      "title": "New $220m plan to address violence against First Nations women and children",
+      "title": "'Historic day' as First Nations people, govts deliver first national DV plan",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4d7b4a745a99cf315998d6eadb50d47d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=281&amp;width=862&amp;height=485"
       },
@@ -75,7 +84,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5b47b16bc22cfbd693199608a21388f8?impolicy=wcms_crop_resize&amp;cropH=1023&amp;cropW=1819&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "One Nation questions if man-made climate change is real, wants to wind back access to abortion care, and plans to pay the HECS debts of doctors working in the regions.",
+      "description": "One Nation questions if man-made climate change is real, wants to wind back access to abortion care and plans to pay the HECS debts of doctors working in the regions.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-10/one-nation-policy-platforms-pauline-hanson/106296838"
     },
     {
@@ -232,15 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-09/bondi-shooting-spy-claims-told-asio-terror-links-four-corners/106306092"
     },
     {
-      "published_datetime": "2026-02-09T07:00:46.000000Z",
-      "title": "Dozens arrested as violence mars Sydney rally against Herzog visit",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9421056e275c8d7975e0484dd29b799f?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
-      },
-      "description": "Thousands of people attend protests across the country against Israeli President Isaac Herzog's visit to Australia in the wake of the Bondi terror attack, with demonstrators in Sydney sprayed with pepper spray and led away in handcuffs.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-09/crowds-protest-israeli-president-isaac-herzog-in-australia/106321716"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-09T20:51:38.810295"
+  "merged_at": "2026-02-09T21:32:24.008832"
 }
