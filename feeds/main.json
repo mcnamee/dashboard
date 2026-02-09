@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-09T14:41:59.000000Z",
+      "title": "Scottish Labour leader calls for Starmer to resign",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a9dea3e345dfc25cd12b06794b97b191?impolicy=wcms_crop_resize&amp;cropH=2455&amp;cropW=4364&amp;xPos=301&amp;yPos=105&amp;width=862&amp;height=485"
+      },
+      "description": "Keir Starmer is facing calls to resign after damaging revelations about the man he picked to represent the UK in Washington.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-10/scottish-labour-leader-calls-for-starmer-to-resign/106324396"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3f7d00b6-8b80-404e-8bf4-863b3282fbd1",
       "published_datetime": "2026-02-09T13:11:25.568475",
       "title": "Nikkei hits record high as election wins spark Asian rally",
@@ -14,15 +23,6 @@
       "audio_url": "",
       "url": "asian-markets-surge-after-elec-syKdDfhEQgyNHvB7jZFnDQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-09T10:29:52.000000Z",
-      "title": "Commonwealth files defence against Linda Reynolds legal action",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5c762503f6213dff4a0cb3d33acf45e5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
-      },
-      "description": "The Commonwealth files its defence against former senator Linda Reynolds, who is suing the government and its lawyers over a $2.4 million payout it made to Brittany Higgins.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-09/commonwealth-files-defence-against-linda-reynolds-legal-action/106324034"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9c0a8910-dfe1-4234-ba2a-fce248b90ce1",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-09T14:59:17.080060"
+  "merged_at": "2026-02-09T15:45:19.339454"
 }
