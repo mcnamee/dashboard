@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3f7d00b6-8b80-404e-8bf4-863b3282fbd1",
+      "published_datetime": "2026-02-09T13:11:25.568475",
+      "title": "Nikkei hits record high as election wins spark Asian rally",
+      "featured_image": {
+        "url": "https://www.nytimes.com/2026/02/08/world/asia/japan-takaichi-election-landslide.html",
+        "name": "Japan's Leader Wins in a Landslide, Clearing Way for Hard-Line Agenda",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--aC_lJI9---/t_limit/https://static01.nyt.com/images/2026/02/08/multimedia/08-japan-election-ledeall-ljgw/08-japan-election-ledeall-ljgw-facebookJumbo.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--2dCLvQw_--/t_thumbnail/https://static01.nyt.com/images/2026/02/08/multimedia/08-japan-election-ledeall-ljgw/08-japan-election-ledeall-ljgw-facebookJumbo.jpg"
+      },
+      "description": "Stock markets across Asia rallied sharply on Monday as investors cheered decisive election victories in Japan and Thailand over the weekend, with political clarity sparking a wave of risk appetite that sent Tokyo's benchmark index to all-time highs.\n\nJapan's Nikkei 225 soared past 57,000 for the first time in history, hitting an intraday peak of 57,337.07, after Prime Minister Sanae Takaichi's Liberal Democratic Party secured a historic supermajority in Sunday's snap election. The LDP won 316 of the 465 seats in the Lower House\u2014the most ever claimed by a single party in Japan's postwar history\u2014giving Takaichi an overwhelming mandate to pursue her economic and security agenda.[1][2][3][4][5]",
+      "audio_url": "",
+      "url": "asian-markets-surge-after-elec-syKdDfhEQgyNHvB7jZFnDQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-09T10:29:52.000000Z",
       "title": "Commonwealth files defence against Linda Reynolds legal action",
       "featured_image": {
@@ -35,9 +50,9 @@
     },
     {
       "published_datetime": "2026-02-09T08:29:12.000000Z",
-      "title": "Live: Freestyle skier star Gu chases elusive slopestyle gold",
+      "title": "Live: Mathilde Gremaud claims gold over Eileen Gu",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dc9495456ca82d1db1bf219a3b197551?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=316&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9656af2d4df9cea613909458ac2ad804?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=281&amp;width=862&amp;height=485"
       },
       "description": "Holly Harris and Jason Chan will become the first Aussies in 12 years to represent the country in ice dancing, while Tess Coady and Meila Stalker will compete in the big air final. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-09/winter-olympics-day-two-live-blog-updates/106322542"
@@ -77,6 +92,15 @@
       },
       "description": "Optus says an issue is affecting mobile services for some customers, who are seeing \"no service\" or \"SOS\" on their device.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-09/optus-tech-issue-affects-customers-no-service/106323474"
+    },
+    {
+      "published_datetime": "2026-02-09T07:00:46.000000Z",
+      "title": "Dozens arrested as violence mars Sydney rally against Herzog visit",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9421056e275c8d7975e0484dd29b799f?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
+      },
+      "description": "Thousands of people attend protests across the country against Israeli President Isaac Herzog's visit to Australia in the wake of the Bondi terror attack, with demonstrators in Sydney sprayed with pepper spray and led away in handcuffs.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-09/crowds-protest-israeli-president-isaac-herzog-in-australia/106321716"
     },
     {
       "published_datetime": "2026-02-09T06:16:43.000000Z",
@@ -140,15 +164,6 @@
       "audio_url": "",
       "url": "epstein-survivors-release-supe-iestFTKjScSCMYF3KcHTzg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-08T23:08:50.000000Z",
-      "title": "Live: Protesters clash with police in Sydney amid chants of 'we will march'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f7dedc0854f2dc75579961d87698740?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=469&amp;width=862&amp;height=485"
-      },
-      "description": "Thousands of people have gathered across Australia to protest the visit of Israeli President Isaac Herzog. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-09/isaac-herzog-to-visit-israel-president-bondi-attacks/106320994"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6d8e694f-8e46-465d-89f5-2aedfc53be59",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6e7a8a95-2de6-4a30-b995-c17ed0568b99",
-      "published_datetime": "2026-02-08T06:23:07.342248",
-      "title": "India, Malaysia sign 11 agreements on trade and semiconductors",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/asia-pacific/indias-modi-visits-malaysia-boost-trade-security-ties-2026-02-08/",
-        "name": "India, Malaysia renew pledges to boost trade, collaboration - Reuters",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--q4v05v2p--/t_limit/https://www.reuters.com/resizer/v2/7WJRIIDUHVNNDGDCIFGU2J5VUE.jpg%3Fauth%3D99239c987ebab91f0e5e7c745947b827c260815a20cfad60a447211868fd8f72%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--dw3zlcku--/t_thumbnail/https://www.reuters.com/resizer/v2/7WJRIIDUHVNNDGDCIFGU2J5VUE.jpg%3Fauth%3D99239c987ebab91f0e5e7c745947b827c260815a20cfad60a447211868fd8f72%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue"
-      },
-      "description": "Indian Prime Minister Narendra Modi and Malaysian Prime Minister Anwar Ibrahim signed 11 cooperation agreements on Saturday as the two nations seek to deepen ties in semiconductors, trade, and defense following discussions in Putrajaya.\n\nThe signing ceremony, which took place at Anwar's official residence in Malaysia's administrative capital, marked what officials described as one of the most comprehensive upgrades in bilateral relations in recent years.[1][2][3]",
-      "audio_url": "",
-      "url": "modi-and-anwar-sign-11-india-m-12C9XjPeSDuiMV40FPmMRA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-09T12:45:41.842898"
+  "merged_at": "2026-02-09T14:09:21.432519"
 }
