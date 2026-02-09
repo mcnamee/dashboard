@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-09T19:59:17.000000Z",
+      "title": "Ghislaine Maxwell will only talk if Trump grants clemency, lawyer says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bf907a886c07b5ef1979eb4c171cdc0a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "The jailed accomplice of sex predator Jeffrey Epstein refuses to answer questions for the US Congress \u2014 but her lawyer says she will cooperate if granted clemency by the president.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-10/ghislaine-maxwell-will-only-talk-if-trump-grants-clemency/106324720"
+    },
+    {
+      "published_datetime": "2026-02-09T19:52:38.000000Z",
+      "title": "Angus Taylor faces push to launch leadership coup",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/351be5d8f11b1a0270e8e31de22497f3?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Liberal leadership aspirant Angus Taylor is facing pressure from conservative supporters to challenge Sussan Ley this week and end the damaging speculation paralysing the party.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-10/angus-taylor-pressure-to-challenge-for-liberal-leadership/106324000"
+    },
+    {
       "published_datetime": "2026-02-09T19:46:10.000000Z",
       "title": "New $220m plan to address violence against First Nations women and children",
       "featured_image": {
@@ -34,15 +52,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-09T19:15:00.000000Z",
-      "title": "Shield and First Guardian collapses spur investment scheme crackdown",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6869d93e4363902ae3c5a43dea3cba3?impolicy=wcms_crop_resize&amp;cropH=771&amp;cropW=1371&amp;xPos=0&amp;yPos=71&amp;width=862&amp;height=485"
-      },
-      "description": "The federal government plans a crackdown on managed investment schemes following the collapses of Shield Master Fund and First Guardian.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-10/government-plans-managed-investment-scheme-crackdown/106323450"
-    },
-    {
       "published_datetime": "2026-02-09T19:14:23.000000Z",
       "title": "These drugs are not going down to $25 under PBS script price changes",
       "featured_image": {
@@ -53,7 +62,7 @@
     },
     {
       "published_datetime": "2026-02-09T19:12:27.000000Z",
-      "title": "Roblox on notice after 'disturbing' reports of child grooming",
+      "title": "'Untenable': Roblox on notice after child grooming reports",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a48be11f238ef67f690b6d5afa3025f7?impolicy=wcms_crop_resize&amp;cropH=2187&amp;cropW=3888&amp;xPos=0&amp;yPos=203&amp;width=862&amp;height=485"
       },
@@ -205,26 +214,17 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-09T11:24:26.000000Z",
-      "title": "Tropical Cyclone Mitchell crosses WA's north-west coast",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6b644e76acaf6e81ec9f9ae73bc0931?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
-      },
-      "description": "Tropical Cyclone Mitchell has crossed WA's Gascoyne coast and weakened below tropical cyclone strength as it moves inland.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-09/tropical-cyclone-mitchell-has-crossed-wa-north-west-coast/106322566"
-    },
-    {
       "published_datetime": "2026-02-09T08:29:12.000000Z",
       "title": "Live: Aussies Coady and Stalker miss the medals in big air final",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a267dc1477910aa88e303cf79b5ef8d7?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=62&amp;width=862&amp;height=485"
       },
-      "description": "Australian's Tess Coady and Meila Stalker miss the podium in the snowboard big air final, while Holly Harris and Jason Chan become the first Aussies in 12 years to represent the country in ice dancing. Follow live.",
+      "description": "Australian's Tess Coady and Mela Stalker miss the podium in the snowboard big air final, while Holly Harris and Jason Chan become the first Aussies in 12 years to represent the country in ice dancing. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-09/winter-olympics-day-two-live-blog-updates/106322542"
     },
     {
       "published_datetime": "2026-02-09T07:59:58.000000Z",
-      "title": "Former ASIO spy reveals Bondi killer spent time with IS terror cell",
+      "title": "Ex-spy challenges ASIO's account of Bondi shooter's radicalisation",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e46014d9ee84c374af65fa9ac7285813?impolicy=wcms_crop_resize&amp;cropH=1421&amp;cropW=2526&amp;xPos=0&amp;yPos=130&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-09T19:57:57.637128"
+  "merged_at": "2026-02-09T20:37:12.882540"
 }
