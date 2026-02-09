@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "published_datetime": "2026-02-09T07:00:46.000000Z",
-      "title": "Dozens arrested as violence mars Sydney rally against Herzog visit",
+      "published_datetime": "2026-02-09T20:49:56.000000Z",
+      "title": "Officers' actions in violent Sydney rally 'justified', police say",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9421056e275c8d7975e0484dd29b799f?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a6073867a7e0b3654064edffeb0cda01?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=57&amp;width=862&amp;height=485"
       },
-      "description": "Thousands of people attend protests across the country against Israeli President Isaac Herzog's visit to Australia in the wake of the Bondi terror attack, with demonstrators in Sydney sprayed with pepper spray and led away in handcuffs.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-09/crowds-protest-israeli-president-isaac-herzog-in-australia/106321716"
+      "description": "Twenty-seven people were arrested, including 10 for assaulting police, on Monday night at a demonstration against Israeli President Isaac Herzog's visit to Australia.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-10/nsw-officer-defends-police-sydney-protest-israeli-herzog/106324050"
     },
     {
       "published_datetime": "2026-02-09T07:59:58.000000Z",
@@ -42,7 +42,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5b47b16bc22cfbd693199608a21388f8?impolicy=wcms_crop_resize&amp;cropH=1023&amp;cropW=1819&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "One Nation questions if man-made climate change is real, wants to wind back access to abortion care, and plans to pay the HECS debts of doctors working in the regions.",
+      "description": "One Nation questions if man-made climate change is real, wants to wind back access to abortion care and plans to pay the HECS debts of doctors working in the regions.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-10/one-nation-policy-platforms-pauline-hanson/106296838"
     },
     {
@@ -73,6 +73,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-10/ghislaine-maxwell-will-only-talk-if-trump-grants-clemency/106324720"
     },
     {
+      "published_datetime": "2026-02-09T19:46:10.000000Z",
+      "title": "'Historic day' as First Nations people, govts deliver first national DV plan",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4d7b4a745a99cf315998d6eadb50d47d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=281&amp;width=862&amp;height=485"
+      },
+      "description": "A national plan to tackle domestic violence against First Nations women was \"hard fought for by Aboriginal women\", an advocate says.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-10/first-nations-national-plan-domestic-violence/106321570"
+    },
+    {
       "published_datetime": "2026-02-09T19:14:23.000000Z",
       "title": "These drugs are not going down to $25 under PBS script price changes",
       "featured_image": {
@@ -80,15 +89,6 @@
       },
       "description": "Painkillers, HRT therapies and incontinence medicines are among the drugs that will not benefit from the new maximum $25 script price.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-10/everyday-medicines-not-funded-under-the-pbs/106209526"
-    },
-    {
-      "published_datetime": "2026-02-09T19:46:10.000000Z",
-      "title": "New $220m plan to address violence against First Nations women and children",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4d7b4a745a99cf315998d6eadb50d47d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=281&amp;width=862&amp;height=485"
-      },
-      "description": "A national plan to tackle domestic violence against First Nations women was \"hard fought for by Aboriginal women\", an advocate says.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-10/first-nations-national-plan-domestic-violence/106321570"
     },
     {
       "published_datetime": "2026-02-09T19:15:00.000000Z",
@@ -118,6 +118,24 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-10/framlingham-aboriginal-trust-shares-court-fallout-geoff-clark/106305592"
     },
     {
+      "published_datetime": "2026-02-09T11:24:26.000000Z",
+      "title": "Cyclone weakens to low after crossing WA's north-west coast",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5d14cd04ec46daba74a474974e7302ca?impolicy=wcms_crop_resize&amp;cropH=2390&amp;cropW=4248&amp;xPos=0&amp;yPos=400&amp;width=862&amp;height=485"
+      },
+      "description": "The system is expected to weaken as it tracks farther south-east and moves inland through the Gascoyne region.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-09/tropical-cyclone-mitchell-has-crossed-wa-north-west-coast/106322566"
+    },
+    {
+      "published_datetime": "2026-02-09T20:55:45.000000Z",
+      "title": "Live: ASX set for more after booming day sees market rocket nearly 2pc",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&amp;cropH=530&amp;cropW=942&amp;xPos=0&amp;yPos=14&amp;width=862&amp;height=485"
+      },
+      "description": "The ASX 200 rocketed nearly 2 per cent higher yesterday, with the futures market tipping it to expand further in trading. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-10/asx-markets-business-live-news-feb-10-2026/106322382"
+    },
+    {
       "published_datetime": "2026-02-09T16:49:01.000000Z",
       "title": "US seizes tanker in Indian Ocean that fled Caribbean blockade",
       "featured_image": {
@@ -125,24 +143,6 @@
       },
       "description": "The Pentagon says the vessel was operating in breach of Donald Trump's orders on sanctioned ships in the region.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-10/us-seizes-tanker-in-indian-ocean-that-fled-caribbean-blockade/106324658"
-    },
-    {
-      "published_datetime": "2026-02-09T18:19:00.000000Z",
-      "title": "King Charles will cooperate with police over any Andrew investigation, palace says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12358172e421c1fd474581833aaa173d?impolicy=wcms_crop_resize&amp;cropH=2044&amp;cropW=3634&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Police have confirmed they are assessing information provided to them that former prince Andrew had passed late sex offender Jeffrey Epstein confidential reports while the former royal was British trade envoy more than a decade ago.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-10/king-stands-ready-to-help-police-with-andrew-mountbatten-probe/106324734"
-    },
-    {
-      "published_datetime": "2026-02-09T11:24:26.000000Z",
-      "title": "Cyclone weakens to low in WA's north-west coast",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6b644e76acaf6e81ec9f9ae73bc0931?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
-      },
-      "description": "The system is expected to weaken as it tracks farther south-east and moves inland through the Gascoyne region.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-09/tropical-cyclone-mitchell-has-crossed-wa-north-west-coast/106322566"
     },
     {
       "published_datetime": "2026-02-09T18:30:00.000000Z",
@@ -154,13 +154,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-10/abc-timelines-quiz-2020s/106309586"
     },
     {
-      "published_datetime": "2026-02-09T06:16:43.000000Z",
-      "title": "The 'insane' reality of raising a nine-year-old in Trump and ICE's Minnesota",
+      "published_datetime": "2026-02-09T18:19:00.000000Z",
+      "title": "King Charles will cooperate with police over any Andrew investigation, palace says",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/549f620c4341737641d3bd720bad4cbf?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=224&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12358172e421c1fd474581833aaa173d?impolicy=wcms_crop_resize&amp;cropH=2044&amp;cropW=3634&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "What was once a hindrance is now \"a paranoia like I've never known before\", one Minnesotan man says, as his family hides from immigration agents.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-09/inside-minnesota-familes-at-risk-from-ice-arrest-speak-out/106322022"
+      "description": "Police have confirmed they are assessing information provided to them that former prince Andrew had passed late sex offender Jeffrey Epstein confidential reports while the former royal was British trade envoy more than a decade ago.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-10/king-stands-ready-to-help-police-with-andrew-mountbatten-probe/106324734"
     },
     {
       "published_datetime": "2026-02-09T19:34:50.000000Z",
@@ -181,15 +181,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-10/marinus-link-north-west-transmission-line-regulator-approval/106322966"
     },
     {
-      "published_datetime": "2026-02-09T19:49:08.000000Z",
-      "title": "Native title holders appeal NT's largest groundwater licence in High Court",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db56d608e1ae5bc05258a60cd9f2b197?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=88&amp;width=862&amp;height=485"
-      },
-      "description": "The cultural value of water will be front and centre in the High Court in Canberra today as a group of native title holders from Central Australia fight to assert cultural rights over an aquifer under their lands.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-10/nt-high-court-singleton-station-aboriginal-groundwater-rights/106322626"
-    },
-    {
       "published_datetime": "2026-02-09T09:53:40.000000Z",
       "title": "Luxury cruise ship being investigated after claims of 'horrifying' conditions",
       "featured_image": {
@@ -199,31 +190,40 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-09/amsa-investigating-carnival-cruise-ship-exploitation-claims/106323754"
     },
     {
-      "published_datetime": "2026-02-09T14:41:59.000000Z",
-      "title": "Scottish Labour leader calls for Starmer to resign",
+      "published_datetime": "2026-02-09T19:49:08.000000Z",
+      "title": "Native title holders appeal NT's largest groundwater licence in High Court",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a9dea3e345dfc25cd12b06794b97b191?impolicy=wcms_crop_resize&amp;cropH=2455&amp;cropW=4364&amp;xPos=301&amp;yPos=105&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db56d608e1ae5bc05258a60cd9f2b197?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=88&amp;width=862&amp;height=485"
       },
-      "description": "Keir Starmer is facing calls to resign after damaging revelations about the man he picked to represent the UK in Washington.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-10/scottish-labour-leader-calls-for-starmer-to-resign/106324396"
+      "description": "The cultural value of water will be front and centre in the High Court in Canberra today as a group of native title holders from Central Australia fight to assert cultural rights over an aquifer under their lands.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-10/nt-high-court-singleton-station-aboriginal-groundwater-rights/106322626"
     },
     {
-      "published_datetime": "2026-02-09T19:14:38.000000Z",
-      "title": "St Kilda star Max King injured again, Port ruckman's season over",
+      "published_datetime": "2026-02-09T20:59:53.000000Z",
+      "title": "McLaren unveils livery as Piastri takes positive approach into 2026",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a4fd7458cf0ba169f7fe258ccb084811?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/45af69ad39d118ec2d747b493b88774e?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=21&amp;width=862&amp;height=485"
       },
-      "description": "Max King has suffered another injury, further frustrating the St Kilda key forward's bid for an AFL return.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-10/st-kilda-star-max-king-injured-again-port-ruckman-season-over/106324794"
+      "description": "McLaren has unveiled its livery for the 2026 Formula 1 championship season, sticking with the design that has guided them to championships in the previous two seasons.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-10/mclaren-unveil-livery-for-mcl40-ahead-of-2026-f1-season/106324952"
     },
     {
-      "published_datetime": "2026-02-09T20:14:44.000000Z",
-      "title": "Largest water users in the dark on a policy state governments urged to sign",
+      "published_datetime": "2026-02-09T18:47:58.000000Z",
+      "title": "'Twist his arm': Broncos hold out hope of Haas backflip",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2b0b1ca2528a24b2b6b057ade82cd21b?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1b8725498be227d4e00f01a162646108?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "As the country's state governments and territories consider signing a new national water policy that seeks to address climate change and elevate First Nations knowledge, the agriculture industry fears it has been overlooked.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-10/waters-users-in-dark-on-water-policy-ready-for-signing/106314610"
+      "description": "Brisbane prop Payne Haas is set to arrive in England for the World Club Challenge where his teammates will try to convince him not to honour his deal with South Sydney.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-10/adam-reynolds-on-payne-haas-contract-broncos-rabbitohs/106324748"
+    },
+    {
+      "published_datetime": "2026-02-09T06:16:43.000000Z",
+      "title": "The 'insane' reality of raising a nine-year-old in Trump and ICE's Minnesota",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/549f620c4341737641d3bd720bad4cbf?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=224&amp;width=862&amp;height=485"
+      },
+      "description": "What was once a hindrance is now \"a paranoia like I've never known before\", one Minnesotan man says, as his family hides from immigration agents.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-09/inside-minnesota-familes-at-risk-from-ice-arrest-speak-out/106322022"
     }
   ]
 }
