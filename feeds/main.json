@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-10T18:19:56.000000Z",
+      "title": "Breaking: FBI release doorbell camera photos from Nancy Guthrie's home",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/df551f4eca29ee657185f8d8e5b7dfec?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=40&amp;width=862&amp;height=485"
+      },
+      "description": "FBI Director Kash Patel posted the images on social media, saying they had been recovered after days of work by investigators.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-11/fbi-release-pictures-of-masked-man-at-nancy-guthries-home/106329322"
+    },
+    {
+      "published_datetime": "2026-02-10T18:00:00.000000Z",
+      "title": "Israel pushes ahead in West Bank as Herzog visits Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0faa31b6ee98508c3fdc8b11318105a7?impolicy=wcms_crop_resize&amp;cropH=1585&amp;cropW=2817&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "While Israeli President Isaac Herzog visited Sydney, his government was taking concrete actions in the West Bank designed to \"continue to kill the idea of a Palestinian state\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-11/isaac-herzog-visit-protest-police-west-bank-annexation/106325902"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1aa0ed35-d96f-4c5f-840f-7b51ff950df5",
+      "published_datetime": "2026-02-10T16:50:52.927381",
+      "title": "Astronomers report possible pulsar near Milky Way's black hole",
+      "featured_image": {
+        "url": "https://blackholecam.org/blackholecam.org/research/pulsars/gravity-tests/index.html",
+        "name": "Probing the spacetime of Sgr A* with pulsar timing",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--vFqLc9zv--/t_limit/https://blackholecam.org/blackholecam.org/wp-content/uploads/2017/02/pulsar-and-shadow-small.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--H9m-keBw--/t_thumbnail/https://blackholecam.org/blackholecam.org/wp-content/uploads/2017/02/pulsar-and-shadow-small.jpg"
+      },
+      "description": "Astronomers may have detected a millisecond pulsar in the innermost region of the Milky Way's Galactic Center, a finding that could provide an unprecedented tool for testing Einstein's theory of General Relativity if confirmed. The discovery, announced Monday in a paper published in The Astrophysical Journal, represents one of the most sensitive pulsar searches ever conducted toward the supermassive black hole Sagittarius A*.[1][2]\n\nA research team led by Karen Perez, a recent Columbia University PhD graduate, used the Robert C. Byrd Green Bank Telescope in West Virginia as part of the Breakthrough Listen initiative to conduct more than 20 hours of observations targeting the galactic center. The survey included 11 hours focused on the innermost 1.4 arcminutes of the region between May 2021 and December 2023.[2][1]",
+      "audio_url": "",
+      "url": "scientists-find-possible-pulsa-09bQfuFgQhqa7bnH6aspdg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0eda54dd-7a4b-4db0-adb6-4bc3c16f3de7",
+      "published_datetime": "2026-02-10T15:46:55.730521",
+      "title": "Russia says peace deal impossible without its own security guarantees",
+      "featured_image": {
+        "url": "https://www.yahoo.com/news/articles/senior-russian-official-says-moscow-055323394.html",
+        "name": "Senior Russian official says Moscow needs 'security guarantees'",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ATpvqzRg--/t_limit/https://s.yimg.com/os/en/kyiv_independent_articles_496/3f325164f031b3b0b922ed0e832a10f5",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0uAlzVFt--/t_thumbnail/https://s.yimg.com/os/en/kyiv_independent_articles_496/3f325164f031b3b0b922ed0e832a10f5"
+      },
+      "description": "Russian Deputy Foreign Minister Alexander Grushko declared on Tuesday that any peace settlement in Ukraine must include security guarantees for Moscow, describing such assurances as a fundamental condition for ending the nearly four-year conflict.\n\n\"We recognise that a peace settlement in Ukraine must take account of Ukraine's security interests, but a key factor, of course, is Russia's security interests,\" Grushko told the Russian outlet Izvestia on February 10. \"If you look carefully and study the statements made by the leaders of the European Union, no one talks about security guarantees for Russia. This is a key element of a peace accord. Without it, an agreement is impossible.\"[1][2]",
+      "audio_url": "",
+      "url": "russia-demands-security-guaran-5Ly.aGTJQEibtif4_hvkAQ",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1eefe12a-cba2-4afa-bd97-7d832fc8b490",
+      "published_datetime": "2026-02-10T15:41:05.364814",
+      "title": "Macron insists \u20ac100B European fighter jet program is 'not dead'",
+      "featured_image": {
+        "url": "https://www.aerotime.aero/articles/airbus-ds-ceo-questions-future-of-fcas-without-governance-reset",
+        "name": "Airbus questions future of Europe's FCAS fighter jet project",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--lgIAzGZZ--/t_limit/https://www.aerotime.aero/images/2025/06/The-FCAS-model-at-the-Dassault-booth-during-Paris-Air-Show-2025.JPG",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--JXcZnIS9--/t_thumbnail/https://www.aerotime.aero/images/2025/06/The-FCAS-model-at-the-Dassault-booth-during-Paris-Air-Show-2025.JPG"
+      },
+      "description": "French President Emmanuel Macron defended Europe's troubled Future Combat Air System on Monday, telling Le Monde and the Financial Times that the \u20ac100 billion fighter jet program is \"not dead,\" even as multiple officials in Paris and Berlin have declared it on the brink of collapse.[1][2]\n\nThe assertion comes amid mounting pessimism about the joint French-German-Spanish initiative, which Macron personally launched with former German Chancellor Angela Merkel in 2017 to develop a sixth-generation fighter jet, drones, and a shared combat cloud to replace the aging Rafale and Eurofighter fleets by 2040.[3][4]",
+      "audio_url": "",
+      "url": "macron-says-fcas-fighter-jet-p-I3764ku0T7GTdn4Nediimg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-10T14:29:44.000000Z",
       "title": "ASIO ordered independent review into Bondi terror case, stands by 2019 assessment",
       "featured_image": {
@@ -135,7 +198,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1a1e328dcd48e137b0c81f6f27a04a77?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Reigning Olympic gold medallist Jakara Anthony produces an outstanding performance to reach the women's moguls final at the Milano Cortina Games. Follow live.",
+      "description": "Australia's Cam Bolton and Misaki Vaughan are ruled out of the Games after training falls, while reigning Olympic gold medallist Jakara Anthony advances to the women's moguls final at the Milano Cortina Games. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-10/winter-olympics-2026-live-milano-cortina-moguls-ice-hockey/106326694"
     },
     {
@@ -175,69 +238,6 @@
       "description": "Europe recorded its coldest January since 2010 as polar vortex disruptions sent Arctic air flooding across the continent, while the Southern Hemisphere simultaneously endured deadly heatwaves and wildfires, according to new data from the EU's Copernicus Climate Change Service released Tuesday.\n\nDespite the sharp regional contrasts, global temperatures remained near record levels. January 2026 was the fifth-warmest January on record, with a global average surface temperature of 12.95 degrees Celsius\u2014just 0.28 degrees Celsius cooler than January 2025, the warmest January ever recorded.[1][2][3]",
       "audio_url": "",
       "url": "europe-faces-coldest-january-i-rY35RYWNSHiMqK3FlqDnog",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-10T07:34:39.000000Z",
-      "title": "Top barrister and charity boss dead after child abuse arrest",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1e2d960620264ab8207fb6d01978c6c0?impolicy=wcms_crop_resize&amp;cropH=705&amp;cropW=1254&amp;xPos=225&amp;yPos=107&amp;width=862&amp;height=485"
-      },
-      "description": "The 60-year-old was found dead at his Leichhardt unit in Sydney's inner west on Monday evening, NSW Police said in a statement.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-10/barrister-mark-dennis-dead-child-abuse-arrest/106328484"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9fb8c050-7156-447a-a266-6d27c8e79dcf",
-      "published_datetime": "2026-02-10T07:30:29.996458",
-      "title": "Honda's quarterly operating profit drops 61% on tariffs, EV woes",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2025/05/13/honda-q4-earnings-plunge.html",
-        "name": "Honda Motor reports 76% plunge in operating profit in huge earnings miss",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--BMdtDF3W--/t_limit/https://image.cnbcfm.com/api/v1/image/108134311-1745264721955-NYIAS_DeVries_04162025-137.jpg%3Fv%3D1745265348%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--txQcRnNx--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108134311-1745264721955-NYIAS_DeVries_04162025-137.jpg%3Fv%3D1745265348%26w%3D1920%26h%3D1080"
-      },
-      "description": "Honda Motor reported a 42 percent drop in nine-month net profit on Tuesday, as the Japanese automaker continued to struggle under the weight of U.S. import tariffs, weakening electric vehicle demand, and ongoing chip supply disruptions.\n\nNet profit for the nine months ended December fell to 465.44 billion yen ($2.99 billion), down from 805.26 billion yen in the same period a year earlier, according to the company's earnings report. Nine-month revenue declined 2.2 percent to 15.976 trillion yen.[1][2]",
-      "audio_url": "",
-      "url": "honda-profit-falls-42-percent-KFT0Mvd4TPmWm1HKlJS.eQ",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-10T05:55:23.000000Z",
-      "title": "Four stand trial after man's remains found in wheelie bin",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bbcb3f35316d3a8504909d5a36730171?impolicy=wcms_crop_resize&amp;cropH=872&amp;cropW=1551&amp;xPos=130&amp;yPos=92&amp;width=862&amp;height=485"
-      },
-      "description": "Four people, including the victim's former partner, are standing trial in relation to the alleged murder of 55-year-old man Geoffrey McLean, whose remains were found in a wheelie bin in Adelaide's north in 2022. Warning: This story contains details that some readers may find distressing.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-10/trial-begins-over-alleged-murder-of-geoffrey-mclean/106325614"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d203b8ed-a574-4833-9c78-bd7fa9ea5033",
-      "published_datetime": "2026-02-10T05:51:22.171028",
-      "title": "Oil eases as traders assess supply risks from US-Iran tensions",
-      "featured_image": {
-        "url": "https://about.bnef.com/insights/commodities/oil-can-hit-91-a-barrel-in-late-2026-on-iran-disruption/",
-        "name": "Oil Can Hit $91 a Barrel in Late 2026 on Iran Disruption",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--vySC-6ln--/t_limit/https://assets.bbhub.io/image/v1/convert%3Ftype%3Dauto%26url%3Dhttps%253A%252F%252Fassets.bbhub.io%252Fprofessional%252Fsites%252F44%252Focean-oil-rig.png",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--SG1Wllza--/t_thumbnail/https://assets.bbhub.io/image/v1/convert%3Ftype%3Dauto%26url%3Dhttps%253A%252F%252Fassets.bbhub.io%252Fprofessional%252Fsites%252F44%252Focean-oil-rig.png"
-      },
-      "description": "Oil prices eased slightly on Tuesday as traders weighed the potential for supply disruptions after the United States issued fresh guidance for commercial vessels navigating the Strait of Hormuz, maintaining attention on simmering tensions between Washington and Tehran over Iran's nuclear program.\n\nBrent crude futures and West Texas Intermediate both fell by roughly 0.4% in early trading, according to Reuters. The modest pullback followed a more than 1% rise on Monday when the U.S. Department of Transportation's Maritime Administration released the new shipping advisory.[1][2]",
-      "audio_url": "",
-      "url": "oil-prices-dip-as-us-iran-tens-A28szIBSRH6cJM8ovc8oPw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ec423c5c-36bb-491b-8591-97f0a4e13358",
-      "published_datetime": "2026-02-10T04:52:27.386514",
-      "title": "DP World boss in Dubai exchanged personal and business emails with Jeffrey Epstein for years",
-      "featured_image": {
-        "url": "https://www.jafza.ae/about/leadership/sultan-ahmed-bin-sulayem/",
-        "name": "H.E Sultan Ahmed Bin Sulayem, Group Chairman and CEO, DP World",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--mM0pHAR8--/t_limit/https://cdn.jafza.ae/wp-content/uploads/2021/08/img-Sultan_001.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--KX91HA5E--/t_thumbnail/https://cdn.jafza.ae/wp-content/uploads/2021/08/img-Sultan_001.jpg"
-      },
-      "description": "Sultan Ahmed bin Sulayem, the chairman and chief executive of global logistics giant DP World, maintained a close correspondence with convicted sex offender Jeffrey Epstein for more than a decade after Epstein's 2008 conviction, according to documents released by the U.S. Department of Justice. The emails show the Dubai executive discussing sexual experiences with women and, in some cases, sharing information about prostitution services while abroad.\n\nThe disclosures emerge from more than 3 million pages of Epstein-related files released by the Justice Department on January 30 under the Epstein Files Transparency Act. Bin Sulayem stands out among the prominent figures named in the documents for the longevity of his exchanges with the disgraced financier, which continued until less than a year before Epstein's death in a New York jail cell in 2019.[1][2][3][4]",
-      "audio_url": "",
-      "url": "dp-world-boss-in-dubai-exchang-znkSTLwBQq6_pmUchpVySA",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-10T17:02:25.000974"
+  "merged_at": "2026-02-10T18:55:16.199263"
 }
