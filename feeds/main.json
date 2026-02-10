@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-10T08:15:05.000000Z",
+      "title": "Breaking: Telstra joint venture to cut up to 209 jobs as AI projects evolve",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/62ae817095a253ef721e3625fa1960ef?impolicy=wcms_crop_resize&amp;cropH=1689&amp;cropW=3000&amp;xPos=0&amp;yPos=42&amp;width=862&amp;height=485"
+      },
+      "description": "Telstra said this move will \"bring an enhanced experience\" to its customers, but did not make clear how many jobs in the joint venture (JV) are set to be moved to India.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-10/telstra-to-scrap-ai-joint-venture/106328648"
+    },
+    {
       "published_datetime": "2026-02-10T07:34:39.000000Z",
       "title": "Top barrister and charity boss dead after child abuse arrest",
       "featured_image": {
@@ -15,16 +24,16 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7c6654faed2f92b6a4d52c7312b70e80?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
       },
-      "description": "A Sydney grandmother says she suffered four broken vertebrae after being \"violently\" pushed to the ground while trying to leave a protest on Monday night.",
+      "description": "A Sydney grandmother says she suffered four broken vertebrae after being \"violently\" pushed to the ground while trying to leave a protest on Monday night. Warning: This story contains images some readers may find distressing.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-10/sydney-protesters-injured-at-isaac-herzog-protest-speak-out/106327578"
     },
     {
       "published_datetime": "2026-02-10T06:58:52.000000Z",
-      "title": "New oil and gas exploration site the 'size of Singapore' approved in Queensland",
+      "title": "Oil and gas exploration site the 'size of Singapore' approved in Queensland",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba70ebf37d14af0da541ac6a5f3de52c?impolicy=wcms_crop_resize&amp;cropH=1440&amp;cropW=2560&amp;xPos=0&amp;yPos=47&amp;width=862&amp;height=485"
       },
-      "description": "The Queensland government has approved new oil and gas exploration in a region they believe could become Australia's first new major oil province in 50 years.\u00a0",
+      "description": "The Queensland government approves new oil and gas exploration in a region they believe could become Australia's first new major oil province in 50 years.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-10/oil-gas-exploration-queensland-taroom-trough/106325922"
     },
     {
@@ -232,15 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-09T20:17:52.000000Z",
-      "title": "Live: Liberal moderates propose petition for Taylor to prove support for spill",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b842794115d9c5e71b019e4ffe97818?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "Liberal Party moderates want to force Angus Taylor and his supporters to present a petition to prove he has the numbers if he wants to trigger a spill of Sussan Ley's leadership. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-10/federal-politics-estimates-ley-albanese-taylor/106323538"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-10T07:53:51.393593"
+  "merged_at": "2026-02-10T08:40:51.995989"
 }
