@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-10/carnival-cruise-exploitation-claims-what-we-know/106325788"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1ddd72b7-beb4-49a9-981e-fe5b52c3aa82",
+      "published_datetime": "2026-02-10T02:58:50.090438",
+      "title": "Sydney researchers use liquid gallium to produce hydrogen from seawater",
+      "featured_image": {
+        "url": "https://www.eurekalert.org/news-releases/1115782",
+        "name": "Scientists use sunlight and liquid metal to produce clean ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--UWxq9-yQ--/t_limit/https://mediasvc.eurekalert.org/Api/v1/Multimedia/21c08be2-cdbc-4b52-9d24-1ce62a0af21d/Rendition/low-res/Content/Public",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--LGoIDLOe--/t_thumbnail/https://mediasvc.eurekalert.org/Api/v1/Multimedia/21c08be2-cdbc-4b52-9d24-1ce62a0af21d/Rendition/low-res/Content/Public"
+      },
+      "description": "Researchers at the University of Sydney have developed a method to produce clean hydrogen from both seawater and freshwater using liquid gallium powered by sunlight, offering a circular approach that could help advance Australia's green hydrogen ambitions.\n\nThe process, detailed in a paper published in Nature Communications in January, uses photothermal oxidation to heat liquid gallium droplets under light exposure, triggering a reaction with water that produces hydrogen and gallium oxyhydroxide. The gallium oxyhydroxide can then be electrochemically reduced back into gallium for reuse, creating what the researchers call a \"circular\" hydrogen production method.[1][2][3]",
+      "audio_url": "",
+      "url": "sydney-scientists-use-sunlight-dmyXgXsOSSSCrdAsr1SU4Q",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-10T02:23:20.000000Z",
       "title": "'He was pleased': Christchurch terrorist's former lawyer addresses court",
       "featured_image": {
@@ -217,21 +232,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-10/ai-disrupts-tech-boom-shares-drop/106323844"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d69853bb-8c80-42f4-a649-c2085b48d1df",
-      "published_datetime": "2026-02-09T19:21:28.561127",
-      "title": "Ukraine exposes 21 Russian drone makers, says most unsanctioned",
-      "featured_image": {
-        "url": "https://www.pravda.com.ua/eng/news/2026/02/09/8020091/",
-        "name": "Ukrainian intelligence agency exposes 21 Russian companies ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--nIPxy_pV--/t_limit/https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/2/767991/828668332d9932eb3198cb5da4be0b35.jpeg%3Fw%3D680%26q%3D90",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Ly180pTA--/t_thumbnail/https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/2/767991/828668332d9932eb3198cb5da4be0b35.jpeg%3Fw%3D680%26q%3D90"
-      },
-      "description": "Ukraine's Main Intelligence Directorate (HUR) has published new data identifying 21 Russian companies involved in developing and producing drones for Russia's war against Ukraine, with officials highlighting that more than half of the listed firms remain free from international sanctions.\n\nThe data, released on the HUR's War & Sanctions portal, names manufacturers responsible for producing a range of unmanned aerial vehicles currently deployed against Ukrainian forces and civilians, including cargo drones, first-person-view (FPV) attack drones, and AI-enabled kamikaze systems.[1]",
-      "audio_url": "",
-      "url": "ukrainian-intelligence-exposes-qDZVOJ1kTU.8Jt.rNLrIew",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-09T19:03:16.000000Z",
       "title": "Beyond cutting migration, what does One Nation believe in?",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-10T04:25:40.484045"
+  "merged_at": "2026-02-10T05:10:24.930209"
 }
