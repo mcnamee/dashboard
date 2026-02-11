@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/84b38a4c-42ed-4960-ba34-996d7c8c4b50",
+      "published_datetime": "2026-02-11T14:27:12.041165",
+      "title": "10 dead, including shooter, in British Columbia school shooting",
+      "featured_image": {
+        "url": "https://energeticcity.ca/2026/02/10/ten-dead-after-shooting-in-tumbler-ridge-lockdown-lifted/",
+        "name": "Ten dead after mass shooting in Tumbler Ridge, lockdown lifted",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--NUF3wrZL--/t_limit/https://dqa39nkfbkgfv.cloudfront.net/wp-content/uploads/2026/02/10180229/Tumbler-Ridge-shooter-RCMP-presence.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--OLUwnNPC--/t_thumbnail/https://dqa39nkfbkgfv.cloudfront.net/wp-content/uploads/2026/02/10180229/Tumbler-Ridge-shooter-RCMP-presence.jpg"
+      },
+      "description": "A mass shooting at Tumbler Ridge Secondary School in northeastern British Columbia on Tuesday afternoon has left ten people dead, including the suspected shooter, according to the Royal Canadian Mounted Police. Approximately 25 additional individuals are being assessed for injuries at a local medical center, marking one of the deadliest school shootings in Canadian history.\n\nThe RCMP confirmed that officers responded to reports of an active shooter at the school at approximately 1:20 p.m. local time on February 10. During their search of the building, police located six victims deceased inside the school, along with an individual believed to be the shooter who died from what appears to be a self-inflicted injury.[1][2][3]",
+      "audio_url": "",
+      "url": "ten-dead-in-shooting-at-canadi-4mDkMJLIQfySAH6HTEmgxA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-11T11:33:18.000000Z",
       "title": "PM 'not contemplating failure' as Closing the Gap deadline looms",
       "featured_image": {
@@ -50,11 +65,11 @@
     },
     {
       "published_datetime": "2026-02-11T08:43:27.000000Z",
-      "title": "Live: Aussies Anthony and Wilson advance to Olympic moguls super final",
+      "title": "Live: Aussie Anthony fails to defend Olympic moguls crown",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6cc35e906d9f25a870a212c8fb79284d?impolicy=wcms_crop_resize&amp;cropH=1855&amp;cropW=3297&amp;xPos=927&amp;yPos=272&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e4c33c8d4c7dd0fe68d4df5e258d4a74?impolicy=wcms_crop_resize&amp;cropH=1118&amp;cropW=1988&amp;xPos=219&amp;yPos=322&amp;width=862&amp;height=485"
       },
-      "description": "Australia's defending champion Jakara Anthony and teammate Charlotte Wilson are chasing gold in the women's moguls super final at the Milano Cortina Games. Follow live.",
+      "description": "Australia's defending champion Jakara Anthony finishes eighth after slipping during her second run of the women's moguls super final at the Winter Olympics. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-11/winter-olympics-2026-live-jakara-anthony-scotty-james/106329908"
     },
     {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/880652c7-b8dd-4644-88fe-99b9669f8f0b",
-      "published_datetime": "2026-02-10T17:09:54.719772",
-      "title": "Police, protesters clash in Sydney as Israeli president\u2019s visit sparks unrest",
-      "featured_image": {
-        "url": "https://english.aawsat.com/world/5238758-thousands-protest-israeli-president-herzog%E2%80%99s-visit-australia",
-        "name": "Thousands Protest Israeli President Herzog's Visit to Australia",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Dbr_B72j--/t_limit/https://english.aawsat.com/s3/files/styles/1037xauto/public/2026-02/1381060.jpeg.webp",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--4-jrmodR--/t_thumbnail/https://english.aawsat.com/s3/files/styles/1037xauto/public/2026-02/1381060.jpeg.webp"
-      },
-      "description": "Police and protesters clashed violently in central Sydney on Monday evening during demonstrations against Israeli President Isaac Herzog's visit to Australia, with 27 people arrested and at least nine facing criminal charges, including allegations of assaulting officers.[1][2][3]\n\nApproximately 6,000 people gathered at Sydney's Town Hall for what organizers, the Palestine Action Group, described as a peaceful rally opposing Herzog's four-day trip to Australia. As speeches concluded, demonstrators expressed their intention to march toward the NSW Parliament, defying protest restrictions that had been imposed under emergency powers following December's Bondi Beach terror attack.[2][3][4]",
-      "audio_url": "",
-      "url": "police-protesters-clash-in-syd-GHzAsvttTtGp.PedZzVHNA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-11T14:11:00.171131"
+  "merged_at": "2026-02-11T15:52:42.970883"
 }
