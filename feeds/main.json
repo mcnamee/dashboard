@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-11T10:32:33.000000Z",
+      "title": "Floodwaters spill inside 'number of homes' in NT's Daly River community",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f93ec624d238e0724aef97ad0d7738f5?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=167&amp;width=862&amp;height=485"
+      },
+      "description": "Floodwaters have spilled inside \"quite a number of homes\" in the remote Northern Territory town of Daly River, authorities say, with still-rising water levels delaying the return home for evacuated locals.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-11/nt-daly-river-flooding-more-homes-damaged-peak-level/106332666"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/09cddb74-a033-4226-87e7-56a8c281494b",
       "published_datetime": "2026-02-11T08:58:16.451408",
       "title": "Climate change made deadly Patagonia fires 3 times more likely, study finds",
@@ -32,11 +41,11 @@
     },
     {
       "published_datetime": "2026-02-11T08:43:27.000000Z",
-      "title": "Live: Anthony looks to defends Olympic crown as James starts medal quest",
+      "title": "Live: Anthony joined by Aussie teammate Wilson in Olympic moguls final",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12bdd216f3f0c1f06893164bacc8d4fe?impolicy=wcms_crop_resize&amp;cropH=1674&amp;cropW=2976&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/06ea3cd98f4c7802100ae7a9ac2a86eb?impolicy=wcms_crop_resize&amp;cropH=2535&amp;cropW=4507&amp;xPos=0&amp;yPos=180&amp;width=862&amp;height=485"
       },
-      "description": "Australia's defending champion Jakara Anthony is preparing for the moguls final, while Scotty James starts his quest to complete his Olympic medal set with a maiden snowboard halfpipe gold. Follow live.",
+      "description": "Australia's defending champion Jakara Anthony will compete alongside teammate Charlotte Wilson in the women's moguls final at the Milano Cortina Games. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-11/winter-olympics-2026-live-jakara-anthony-scotty-james/106329908"
     },
     {
@@ -47,15 +56,6 @@
       },
       "description": "Angus Taylor says the Liberals are at their weakest point since the party was formed as he announces his resignation from the frontbench.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-11/angus-taylor-resigns-from-frontbench-sussan-ley-leadership/106332492"
-    },
-    {
-      "published_datetime": "2026-02-11T07:55:04.000000Z",
-      "title": "Chinese flotilla sailed to edge of Australia's exclusive economic zone, says chief",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d1ed91915abefdee519420125d0f850a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
-      },
-      "description": "Under questioning in Senate estimates, the chief of the Australian Defence Force reveals that a Chinese flotilla sailed within seven nautical miles of Australia's 200 nautical mile exclusive economic zone.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-11/chinese-flotilla-edge-australian-exclusive-economic-zone/106333020"
     },
     {
       "published_datetime": "2026-02-11T07:33:04.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-11T10:40:46.728065"
+  "merged_at": "2026-02-11T11:38:24.578117"
 }
