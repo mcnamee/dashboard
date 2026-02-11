@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-11T07:55:04.000000Z",
+      "title": "Chinese flotilla sailed to edge of Australia's exclusive economic zone, says chief",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d1ed91915abefdee519420125d0f850a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
+      },
+      "description": "Under questioning in Senate estimates, the chief of the Australian Defence Force reveals that a Chinese flotilla sailed within seven nautical miles of Australia's 200 nautical mile exclusive economic zone.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-11/chinese-flotilla-edge-australian-exclusive-economic-zone/106333020"
+    },
+    {
       "published_datetime": "2026-02-11T07:33:04.000000Z",
-      "title": "Breaking: Boy's Triple Zero call to save family swept out to sea released",
+      "title": "Boy's Triple Zero call to save family swept out to sea released",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7caa73a1a4404e30b2ae5aaad8ca8cce?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
       },
@@ -17,15 +26,6 @@
       },
       "description": "A second attempt to raise taxes on high super balances has been presented to parliament, but will require the support of the Greens to secure Senate passage.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-11/labor-tries-again-on-super-taxes/106331524"
-    },
-    {
-      "published_datetime": "2026-02-11T07:09:27.000000Z",
-      "title": "RBA deputy governor says changes to 'three key facts' prompted rate rise",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a71801eae55bc6fc54b9ad4adc1b7e13?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "RBA deputy governor Andrew Hauser says central banks should not criticise normal government spending choices, but he wonders if Australia's economy is more inflation-prone because it is so finely balanced.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-11/rba-deputy-governor-says-rba-not-criticise-government-policy/106331502"
     },
     {
       "published_datetime": "2026-02-11T06:47:54.000000Z",
@@ -143,7 +143,7 @@
     },
     {
       "published_datetime": "2026-02-10T20:12:54.000000Z",
-      "title": "Live: Angus Taylor expected to resign from Liberal frontbench, supporters say",
+      "title": "Live: Angus Taylor resigns from Liberal frontbench ahead of expected leadership spill",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/88121673cad765b52656616e4f872f8f?impolicy=wcms_crop_resize&amp;cropH=447&amp;cropW=794&amp;xPos=218&amp;yPos=3&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-11T07:49:16.382363"
+  "merged_at": "2026-02-11T08:37:55.627695"
 }
