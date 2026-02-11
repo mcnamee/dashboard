@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-11T08:43:27.000000Z",
+      "title": "Live: Anthony looks to defends Olympic crown as James starts medal quest",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12bdd216f3f0c1f06893164bacc8d4fe?impolicy=wcms_crop_resize&amp;cropH=1674&amp;cropW=2976&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's defending champion Jakara Anthony is preparing for the moguls final, while Scotty James starts his quest to complete his Olympic medal set with a maiden snowboard halfpipe gold. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-11/winter-olympics-2026-live-jakara-anthony-scotty-james/106329908"
+    },
+    {
       "published_datetime": "2026-02-11T07:55:04.000000Z",
       "title": "Chinese flotilla sailed to edge of Australia's exclusive economic zone, says chief",
       "featured_image": {
@@ -47,7 +56,7 @@
     },
     {
       "published_datetime": "2026-02-11T06:29:01.000000Z",
-      "title": "New video shows full minute before protester punched by police",
+      "title": "Fresh video shows police pushing protester before fight broke out",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/01a95d6829b330f141ecde02fdca11e8?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -86,15 +95,6 @@
       },
       "description": "US politician Ro Khanna has publicly named six men whose identities were scrubbed from the Epstein files, including the former boss of Victoria's Secret, who the FBI suspected was a co-conspirator of the sex offender's crimes.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-11/ro-khanna-reveals-names-redacted-from-epstein-files/106331712"
-    },
-    {
-      "published_datetime": "2026-02-11T04:41:37.000000Z",
-      "title": "16yo injured in 'deliberate attack' by police during protest, mother says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eb6ec264c89df7bde45706877b829247?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The mother of a 16-year-old who alleges he was \"pushed, kicked, dragged on the ground\" by officers at a Sydney protest against the Israeli president's visit says she wants to press charges against police.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-11/nsw-police-protest-allegedly-assaulted-teenager-mother-claims/106329674"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2cb02048-9b17-4e23-a562-2160f9958faa",
@@ -143,7 +143,7 @@
     },
     {
       "published_datetime": "2026-02-10T20:12:54.000000Z",
-      "title": "Live: Angus Taylor resigns from Liberal frontbench ahead of expected leadership spill",
+      "title": "Live: Angus Taylor says Liberal Party at worst position ever ahead of expected spill",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/88121673cad765b52656616e4f872f8f?impolicy=wcms_crop_resize&amp;cropH=447&amp;cropW=794&amp;xPos=218&amp;yPos=3&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-11T08:37:55.627695"
+  "merged_at": "2026-02-11T09:44:05.741860"
 }
