@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-11T20:06:22.000000Z",
+      "title": "Live: Taylor 'ill-prepared' for challenge against Ley, Liberal frontbencher says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2cd2aeea67d77a125340e3bb944ed0f0?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Andrew Wallace has thrown his support behind Sussan Ley ahead of an expected leadership challenge from Angus Taylor. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-12/federal-politics-live-blog-sussan-ley/106333952"
+    },
+    {
+      "published_datetime": "2026-02-11T20:03:15.000000Z",
+      "title": "Breaking: 18yo suspect identified in Canada school shooting",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/209d2b1e1df71e958cf1e25933140aaa?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The person who carried out a school massacre is an 18-year-old woman with mental health issues, but she did not give a motive for one of the worst mass shootings in Canada's history.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-12/canadian-shooter-identified-in-school-attack/106333992"
+    },
+    {
+      "published_datetime": "2026-02-11T19:57:38.000000Z",
+      "title": "Breaking: James Van Der Beek, star of Dawson's Creek, dies aged 48",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f000c0cf4fa6c4e70c744fa5fed5a898?impolicy=wcms_crop_resize&amp;cropH=892&amp;cropW=1586&amp;xPos=74&amp;yPos=101&amp;width=862&amp;height=485"
+      },
+      "description": "The American actor was best known for his starring role as Dawson Leery in Dawson's Creek from 1998 to 2003.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-12/james-van-der-beek-dawsons-creek-star-obituary/105821848"
+    },
+    {
       "published_datetime": "2026-02-11T19:34:03.000000Z",
       "title": "Possible El Ni\u00f1o within months raises potential for hot year across Australia",
       "featured_image": {
@@ -17,33 +44,6 @@
       },
       "description": "Iran has spent decades building the largest and most diverse ballistic missile stockpile in the Middle East and is refusing US demands to put limits on the weapons program.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-12/iran-ballistic-missile-program-weapons-us-talks-trump/106307798"
-    },
-    {
-      "published_datetime": "2026-02-11T19:03:30.000000Z",
-      "title": "Old Bureau of Meteorology website still getting thousands of clicks",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a12b1abe1ccc5af1df64af1f3d0bb0c?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=98&amp;yPos=185&amp;width=862&amp;height=485"
-      },
-      "description": "The new BOM website is still drawing criticism, with 400,000 users turning to the old site, despite $1.15 million in recent updates.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-12/old-bom-website-drawing-traffic-months-after-new-page-launch/106326812"
-    },
-    {
-      "published_datetime": "2026-02-11T19:03:00.000000Z",
-      "title": "Australia's frozen ghost town leaves behind a toxic legacy",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b7a7e31257e401bc411e18293a3c49b4?impolicy=wcms_crop_resize&amp;cropH=3948&amp;cropW=7020&amp;xPos=0&amp;yPos=366&amp;width=862&amp;height=485"
-      },
-      "description": "The ABC has been given rare access to an abandoned Australian base in Antarctica that continues to pose a threat to the environment.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-12/wilkes-station-in-antarctica-a-toxic-legacy/106281888"
-    },
-    {
-      "published_datetime": "2026-02-11T18:52:41.000000Z",
-      "title": "Bougainville mine that sparked a civil war on rapid path to reopening",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/32234a42238bb36d8eddc2fae37114c2?impolicy=wcms_crop_resize&amp;cropH=2245&amp;cropW=3991&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Autonomous Bougainville Government signs a secretive deal to reopen a huge gold and copper mine that sparked a catastrophic civil war three decades ago.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-12/bougainville-signs-secretive-deal-to-reopen-panguna-mine/106331778"
     },
     {
       "published_datetime": "2026-02-11T18:40:40.000000Z",
@@ -80,7 +80,7 @@
     },
     {
       "published_datetime": "2026-02-11T18:14:57.000000Z",
-      "title": "The violent criminals and alleged killers behind alleged corruption at the CFMEU",
+      "title": "Violent criminals and alleged killers behind alleged CFMEU\u00a0corruption",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9e41ded90e1e60812e1839953a17b9a0?impolicy=wcms_crop_resize&amp;cropH=903&amp;cropW=1602&amp;xPos=0&amp;yPos=82&amp;width=862&amp;height=485"
       },
@@ -203,11 +203,11 @@
     },
     {
       "published_datetime": "2026-02-11T08:43:27.000000Z",
-      "title": "Live: Scotty James begins halfpipe campaign, Jakara Anthony crashes in final",
+      "title": "Live: Aussies James and Guseli reach halfpipe final after stunning qualifiers",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e4c33c8d4c7dd0fe68d4df5e258d4a74?impolicy=wcms_crop_resize&amp;cropH=1118&amp;cropW=1988&amp;xPos=219&amp;yPos=322&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/907697e6131bc4977f0ba3ea99fbd6a0?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Australia's defending champion Jakara Anthony finishes eighth after slipping during her second run of the women's moguls super final at the Winter Olympics. Follow live.",
+      "description": "Australian Scotty James starts his quest for a third Olympic medal, qualifying in first place with a phenomenal run in snowboard halfpipe qualifying at the Milano Cortina Winter Olympics. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-11/winter-olympics-2026-live-jakara-anthony-scotty-james/106329908"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-11T19:51:51.673679"
+  "merged_at": "2026-02-11T20:30:34.634026"
 }
