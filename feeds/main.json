@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-11T16:16:41.000000Z",
+      "title": "US officials say cartel drones behind sudden closure of Texas airport",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4b2e07e2358cf5e014646e8648144d07?impolicy=wcms_crop_resize&amp;cropH=2415&amp;cropW=4293&amp;xPos=353&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "US officials say a sudden 10-day ban came into effect around El Paso International Airport after cartel drones from nearby Mexico breached American airspace.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-12/faa-closes-airspace-around-el-paso-airport/106333810"
+    },
+    {
+      "published_datetime": "2026-02-11T15:53:47.000000Z",
+      "title": "China's president makes rare acknowledgement of corruption in army",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/620c842e08db824a72b46c3762efc927?impolicy=wcms_crop_resize&amp;cropH=1890&amp;cropW=3360&amp;xPos=0&amp;yPos=154&amp;width=862&amp;height=485"
+      },
+      "description": "Xi Jinping's comments were the first public admission of issues in China's armed forces since an investigation was launched into senior members of the body that overseas the country's military.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-12/xi-jinping-acknowledges-army-corruption-crackdown/106333834"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/84b38a4c-42ed-4960-ba34-996d7c8c4b50",
       "published_datetime": "2026-02-11T14:27:12.041165",
       "title": "10 dead, including shooter, in British Columbia school shooting",
@@ -23,15 +41,6 @@
       },
       "description": "Prime Minister Anthony Albanese is bullish on closing the gap between Indigenous and non-Indigenous people ahead of handing down his annual report card on the progress made.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-11/prime-minister-closing-the-gap-speech/106332998"
-    },
-    {
-      "published_datetime": "2026-02-11T10:32:33.000000Z",
-      "title": "Buildings in flooded NT town become 'their own individual islands'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f93ec624d238e0724aef97ad0d7738f5?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=167&amp;width=862&amp;height=485"
-      },
-      "description": "Floodwaters have spilled inside \"quite a number of homes\" in the remote Northern Territory town of Daly River, authorities say, with still-rising water levels delaying the return home for evacuated locals.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-11/nt-daly-river-flooding-more-homes-damaged-peak-level/106332666"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/09cddb74-a033-4226-87e7-56a8c281494b",
@@ -89,15 +98,6 @@
       },
       "description": "Police release the recording of the Triple Zero call made by 13-year-old Austin Appelbee after his marathon 4 kilometre swim through rough seas to save his family.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-11/austin-appelbee-triple-zero-call-released/106333174"
-    },
-    {
-      "published_datetime": "2026-02-11T07:19:03.000000Z",
-      "title": "Labor tries again on super taxes, but success will hinge on Greens support",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c13ae219b9c3fe81f182665ed55d3843?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A second attempt to raise taxes on high super balances has been presented to parliament, but will require the support of the Greens to secure Senate passage.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-11/labor-tries-again-on-super-taxes/106331524"
     },
     {
       "published_datetime": "2026-02-11T06:42:39.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-11T15:52:42.970883"
+  "merged_at": "2026-02-11T16:55:31.351693"
 }
