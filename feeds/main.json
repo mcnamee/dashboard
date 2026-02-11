@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/81b05e9f-bbbf-4d0b-95fe-8cb1e75a7389",
+      "published_datetime": "2026-02-11T21:13:24.072413",
+      "title": "Italy approves bill allowing naval blockades against migrant boats",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/europe/italys-meloni-blames-organised-crime-alarming-migrant-visa-fraud-2024-06-04/",
+        "name": "Italy's Meloni blames organised crime for 'alarming' migrant ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--PRrpHACu--/t_limit/https://www.reuters.com/resizer/v2/5FAF575ANZNDPKS4XUVBHSQN6Y.jpg%3Fauth%3D7bcca5ed5e5457357335daa42621c2f0682d450e3d9f62e3f552eba39006f760%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--gm3Y8Qs---/t_thumbnail/https://www.reuters.com/resizer/v2/5FAF575ANZNDPKS4XUVBHSQN6Y.jpg%3Fauth%3D7bcca5ed5e5457357335daa42621c2f0682d450e3d9f62e3f552eba39006f760%26width%3D1920%26quality%3D80"
+      },
+      "description": "Italy's cabinet on Wednesday approved a bill authorizing naval blockades to halt migrant boats during periods of \"exceptional pressure\" at the nation's borders, a government source told Reuters. The legislation marks one of the most aggressive measures yet by Prime Minister Giorgia Meloni's right-wing government to curb irregular migration by sea.[1][2]\n\nUnder the draft law, the Italian government could prohibit vessels from entering territorial waters for up to six months in cases involving serious threats to public order or national security. Violators would face fines of up to \u20ac50,000, with repeat offenders risking confiscation of their vessels\u2014a provision widely seen as targeting charity-operated rescue ships.[2][1]",
+      "audio_url": "",
+      "url": "italy-approves-naval-blockades-HKoNuRhzQwq.R50KAG.aUg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-11T20:45:49.000000Z",
       "title": "Live: Australian dollar rises above 71 US cents, ASX to open flat",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fb5e3750-e747-4449-916b-5186e7eb2af6",
-      "published_datetime": "2026-02-11T08:58:01.755193",
-      "title": "China tests Long March-10 rocket in key step toward 2030 moon landing",
-      "featured_image": {
-        "url": "https://www.indiatoday.in/science/story/china-long-march-10a-reusable-rocket-test-hainan-splashdown-mengzhou-spaceship-lunar-missions-2866527-2026-02-11",
-        "name": "Watch: China's Long March-10A reusable rocket nails epic ocean splashdown",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--PSs41Shq--/t_limit/https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/the-long-march-10a-first-stage-splashes-down-in-the-sea--marking-chinas-reusable-space-era-photo-114610701-16x9_0.jpg%3FVersionId%3D2CJWTQ4GRPK9jnV7bh5ECpP27AoHNyxt",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--RXRkZR7C--/t_thumbnail/https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/the-long-march-10a-first-stage-splashes-down-in-the-sea--marking-chinas-reusable-space-era-photo-114610701-16x9_0.jpg%3FVersionId%3D2CJWTQ4GRPK9jnV7bh5ECpP27AoHNyxt"
-      },
-      "description": "China conducted a successful flight test of its Long March-10 carrier rocket and Mengzhou crewed spacecraft on Wednesday, marking a milestone in the country's ambitious plans to land astronauts on the moon by 2030. The test, which launched from the Wenchang Space Launch Site in Hainan Province at 11:00 a.m. Beijing Time, achieved multiple firsts for China's human spaceflight program.[1][2][3]\n\nThe mission combined a low-altitude demonstration flight for the Long March-10 rocket with a maximum dynamic pressure abort test for the Mengzhou spacecraft\u2014simulating the most dangerous moment during launch when aerodynamic stress peaks. Both the rocket's first-stage body and the spacecraft's return capsule splashed down safely in the sea in a controlled manner, according to the China Manned Space Agency.[4][3][5][1]",
-      "audio_url": "",
-      "url": "china-tests-long-march-10-rock-oZou83AURfWm1LMqxmdpSQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-11T08:43:27.000000Z",
       "title": "Live: Olympic great impressed by Aussies as James and Guseli reach halfpipe final",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-11T21:29:32.593448"
+  "merged_at": "2026-02-11T21:39:15.723381"
 }
