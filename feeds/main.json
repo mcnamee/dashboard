@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-12T15:58:00.000000Z",
+      "title": "Trump's border tsar announces ICE withdrawal from Minnesota",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0303a628e26925dd3e5831056b03ec62?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "An immigration crackdown in the Midwestern state has been marred by protests and public anger after the shooting of two US citizens by federal agents.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-13/ice-withdrawal-minnesota-homan-trump-tsar/106339228"
+    },
+    {
       "published_datetime": "2026-02-12T14:44:05.000000Z",
       "title": "Judge sets trial date for Donald Trump's defamation case against BBC",
       "featured_image": {
@@ -95,15 +104,6 @@
       "audio_url": "",
       "url": "nissan-projects-650-billion-ye-lxTpyaD3TTml.9CLQTSHaw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-12T08:43:59.000000Z",
-      "title": "Gaza man finds bones he says are unborn daughter killed in strike",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/61ceb7dd2f3fbcb887c22f7cd6094355?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Mahmoud Hammad believes he has found his family's remains in the rubble of his house, which was destroyed more than two years ago in air strikes, killing his pregnant wife and their five children.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-12/gaza-father-searches-for-family-bones-in-house-rubble/106335798"
     },
     {
       "published_datetime": "2026-02-12T08:21:56.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-12T15:42:08.901585"
+  "merged_at": "2026-02-12T16:47:54.684410"
 }
