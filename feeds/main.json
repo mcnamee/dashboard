@@ -1,12 +1,39 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-12T06:33:12.000000Z",
+      "title": "Two Chinese nationals accused of foreign interference granted bail",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fa83e8107b8291b69171dda86795f25a?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Police allege the two Chinese nationals, who are charged with reckless foreign interference for alleged spying on the Canberra branch of a Buddhist association, are linked to a woman arrested on the same charge last year.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-12/act-two-chinese-nationals-accused-foreign-interference-bail/106335336"
+    },
+    {
+      "published_datetime": "2026-02-12T05:49:17.000000Z",
+      "title": "Whistleblower organisation supports 'on the run' ex-spy amid Bondi gunman claims",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/65184acfee3e734ded2c6a4d26867f6e?impolicy=wcms_crop_resize&amp;cropH=1128&amp;cropW=2006&amp;xPos=0&amp;yPos=77&amp;width=862&amp;height=485"
+      },
+      "description": "Former undercover agent Marcus says he shared intelligence with ASIO about Bondi gunmen Naveed and Sajid Akram's alleged terrorism associations as far back as 2019.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-12/julian-assange-s-brother-supporting-former-spy-living-in-exile/106334144"
+    },
+    {
+      "published_datetime": "2026-02-12T05:36:35.000000Z",
+      "title": "Murderer Martin Leach had to fight for end-of-life wishes, coroner finds",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dceac9f229ca240c92cea7f2cb27f994?impolicy=wcms_crop_resize&amp;cropH=469&amp;cropW=834&amp;xPos=6&amp;yPos=32&amp;width=862&amp;height=485"
+      },
+      "description": "An inquest into the 2024 death of double murderer Martin Leach raises questions about whether prisoners have a right to end-of-life care.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-12/nt-coroner-findings-into-death-of-murderer-rapist-martin-leach/106333540"
+    },
+    {
       "published_datetime": "2026-02-12T05:20:25.000000Z",
       "title": "Mother of autistic man starved to death in hospital 'satisfied' with damning investigation",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5ed51e280ec3abfda278736813c4ef4f?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
       },
-      "description": "The Queensland Health Ombudsman's investigation into Stewart Kelly's death in 2022 found there were systemic failures in the hospital's care, particularly in recognising and responding to the complex needs of Mr Kelly's neurodevelopmental disorder.",
+      "description": "Queensland\u2019s health watchdog finds Stewart Kelly's 2022 hospital death was the result of systemic failures in care, particularly around responding to his complex needs.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-12/ombudsman-investigation-robina-hospital-death/106334338"
     },
     {
@@ -118,6 +145,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-02-12T01:29:05.000000Z",
+      "title": "Teens respond to One Nation's surge in popularity in the opinion polls",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/56cd7943829eab76d3f63df5db5df2c5?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Recent opinion polls have found that, for the first time, One Nation is the second-most popular party with voters, overtaking the Coalition. So what do teenagers think of One Nation and do they still trust the major parties?",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-12/what-young-people-think-of-one-nation/106330036"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cfd21973-2f93-4d33-9ffd-cfbb1d288b31",
       "published_datetime": "2026-02-12T01:15:32.828110",
       "title": "Cisco raises revenue forecast, launches AI networking chip",
@@ -143,11 +179,11 @@
     },
     {
       "published_datetime": "2026-02-11T22:52:03.000000Z",
-      "title": "Bondi not an isolated event, Herzog tells Melbourne gathering",
+      "title": "Crowds gather in Melbourne as Isaac Herzog concludes visit",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8b1194ab8f24bf0c1d78c97dcc71733c?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=375&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3ee304fe6c9188c6345646225c3a7708?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Isaac Herzog has addressed Jewish leaders and dignitaries at an event in Southbank, while demonstrators protest the Israeli president's visit outside.",
+      "description": "A large crowd is protesting in Melbourne's CBD as Israeli President Isaac Herzog's concludes his visit to the city.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-12/vic-israeli-president-isaac-herzog-melbourne-visit/106331776"
     },
     {
@@ -166,15 +202,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-11T22:23:41.000000Z",
-      "title": "Multiple people rescued in Alice Springs flooding after becoming stranded",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fe27091ee104ff0bb2b70a966cf158e6?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
-      },
-      "description": "Northern Territory emergency services are still working to reach one person isolated by flooding in Alice Springs, after rescuing multiple people earlier this morning.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-12/alice-springs-flooding/106334186"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/81b05e9f-bbbf-4d0b-95fe-8cb1e75a7389",
       "published_datetime": "2026-02-11T21:13:24.072413",
       "title": "Italy approves bill allowing naval blockades against migrant boats",
@@ -190,15 +217,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-11T20:45:49.000000Z",
-      "title": "RBA concedes 'our forecasts are often wrong'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1eab9bca033cd7719170561a4a1bf672?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
-      },
-      "description": "Asked by a journalist, \"Was it perhaps overenthusiastic to cut interest rates three times?\" The RBA's chief economist responded, \"Forecasting is really difficult business, our forecasts are often wrong ... it is what it is.\"",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-12/asx-markets-business-news-feb12-2026/106334054"
-    },
-    {
       "published_datetime": "2026-02-11T20:35:51.000000Z",
       "title": "Epstein files hearing descends into shouting matches",
       "featured_image": {
@@ -206,15 +224,6 @@
       },
       "description": "US Attorney-General Pam Bondi faces furious questions over the censorship of names in the Epstein files at a heated hearing before a committee of Congress.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-12/pam-bondi-faces-congress-questions-over-epstein-files/106329688"
-    },
-    {
-      "published_datetime": "2026-02-11T20:31:33.000000Z",
-      "title": "'This is over for me, I'm done': Woman says man assaulted her on solo bush hike",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/03cd2b12c91905d11e42300eaede1902?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=74&amp;width=862&amp;height=485"
-      },
-      "description": "A woman's solo hike through regional Victoria took a disturbing turn near Daylesford, raising questions about safety and police responses.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-12/women-reveal-alleged-assaults-after-solo-hiker-safety-concerns/106321554"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/de3a97cf-a118-41e4-bc28-93563d54b20e",
@@ -230,15 +239,6 @@
       "audio_url": "",
       "url": "trump-and-netanyahu-meet-as-ga-ZwVBHh.eRTCNwHkPpsgkVQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-11T20:06:22.000000Z",
-      "title": "Live: Liberal frontbench resignations snowball as Ley backer resigns",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7b93b5b474f7a0814996d40e59452e9e?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
-      },
-      "description": "Angus Taylor has confirmed he will challenge Opposition Leader Sussan Ley for the leadership at the meeting. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-12/federal-politics-live-blog-sussan-ley/106333952"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-12T05:58:58.025173"
+  "merged_at": "2026-02-12T07:02:30.150853"
 }
