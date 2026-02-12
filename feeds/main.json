@@ -1,13 +1,31 @@
 {
   "items": [
     {
-      "published_datetime": "2026-02-12T07:49:48.000000Z",
-      "title": "Cars underwater, trees torn down \u2014 Alice Springs flooding in pictures",
+      "published_datetime": "2026-02-12T08:43:59.000000Z",
+      "title": "Gaza man finds bones he says are unborn daughter killed in strike",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2567d1c7643974eb4e4ae74c8521ae77?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/61ceb7dd2f3fbcb887c22f7cd6094355?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Overnight thunderstorms left Central Australian rivers inundated on Thursday, with rapidly rising floodwaters submerging cars, ripping up trees and leaving multiple people stranded.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-12/nt-alice-springs-flooding-in-pictures-floodwaters-damage/106336102"
+      "description": "Mahmoud Hammad believes he has found his family's remains in the rubble of his house, which was destroyed more than two years ago in air strikes, killing his pregnant wife and their five children.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-12/gaza-father-searches-for-family-bones-in-house-rubble/106335798"
+    },
+    {
+      "published_datetime": "2026-02-12T08:30:21.000000Z",
+      "title": "Health service under fire for inappropriate puberty blocker prescription",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d38426f9fd62e3fd7b9e441f74f8c3bc?impolicy=wcms_crop_resize&amp;cropH=823&amp;cropW=1463&amp;xPos=0&amp;yPos=68&amp;width=862&amp;height=485"
+      },
+      "description": "The review of the Cairns paediatric gender health service found that children as young as 12 were given puberty blockers inconsistently and without formal consent. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-12/qld-puberty-blockers-cairns-health-service/106336756"
+    },
+    {
+      "published_datetime": "2026-02-12T08:21:56.000000Z",
+      "title": "Live: Aussies chase moguls and snowboard cross medals at Winter Olympics",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a657891d234d68da0d7f00212541b036?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=118&amp;width=862&amp;height=485"
+      },
+      "description": "Matt Graham is hoping to be joined by Australian teammates in the men's moguls finals, while Adam Lambert and Jarryd Hughes lead the charge in the snowboard cross preliminaries. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-12/winter-olympics-2026-live-milano-cortina-matt-graham/106338490"
     },
     {
       "published_datetime": "2026-02-12T07:15:33.000000Z",
@@ -65,24 +83,6 @@
       },
       "description": "Former undercover agent Marcus says he shared intelligence with ASIO about Bondi gunmen Naveed and Sajid Akram's alleged terrorism associations as far back as 2019.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-12/julian-assange-s-brother-supporting-former-spy-living-in-exile/106334144"
-    },
-    {
-      "published_datetime": "2026-02-12T05:36:35.000000Z",
-      "title": "Murderer Martin Leach had to fight for end-of-life wishes, coroner finds",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dceac9f229ca240c92cea7f2cb27f994?impolicy=wcms_crop_resize&amp;cropH=469&amp;cropW=834&amp;xPos=6&amp;yPos=32&amp;width=862&amp;height=485"
-      },
-      "description": "An inquest into the 2024 death of double murderer Martin Leach raises questions about whether prisoners have a right to end-of-life care.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-12/nt-coroner-findings-into-death-of-murderer-rapist-martin-leach/106333540"
-    },
-    {
-      "published_datetime": "2026-02-12T05:20:25.000000Z",
-      "title": "Mother of autistic man starved to death in hospital 'satisfied' with damning investigation",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5ed51e280ec3abfda278736813c4ef4f?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
-      },
-      "description": "Queensland\u2019s health watchdog finds Stewart Kelly's 2022 hospital death was the result of systemic failures in care, particularly around responding to his complex needs.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-12/ombudsman-investigation-robina-hospital-death/106334338"
     },
     {
       "published_datetime": "2026-02-12T05:17:59.000000Z",
@@ -222,7 +222,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8b72aec5f3fef324c1dde70426e6005e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "A large crowd is protesting in Melbourne's CBD as Israeli President Isaac Herzog's concludes his visit to the city.",
+      "description": "Thousands of people have marched through Melbourne's CBD in protest as Israeli President Isaac Herzog's visit to the Australia winds up.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-12/vic-israeli-president-isaac-herzog-melbourne-visit/106331776"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-12T08:36:12.000194"
+  "merged_at": "2026-02-12T09:39:01.647124"
 }
