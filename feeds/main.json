@@ -1,13 +1,61 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-13T08:17:37.000000Z",
+      "title": "Abbott issues warning to Taylor over becoming 'One Nation-lite'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4955b233afd5bcdcfc8aaa897d6aaece?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "As Angus Taylor takes the Liberal leadership via a spill motion, a former leader with plenty of experience at that offers up some advice on dealing with One Nation and immigration.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-13/tony-abbott-on-angus-taylor-one-nation-immigration-assimilation/106342458"
+    },
+    {
+      "published_datetime": "2026-02-13T08:14:31.000000Z",
+      "title": "US aircraft carrier redeployed from Caribbean as Iran tensions rise",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/676dbcfadfb792d73241654225c05e53?impolicy=wcms_crop_resize&amp;cropH=2382&amp;cropW=4234&amp;xPos=0&amp;yPos=221&amp;width=862&amp;height=485"
+      },
+      "description": "The United States will send the USS Gerald R. Ford aircraft carrier to the Middle East amid escalating tensions with Iran, according to US media outlets.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-13/us-aircraft-carrier-carribbean-middle-east-iran/106342830"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/819293f6-560b-4aed-acae-52cfa4c72814",
+      "published_datetime": "2026-02-13T07:37:34.712490",
+      "title": "SpaceX Crew-12 cleared to launch to ISS on Friday morning",
+      "featured_image": {
+        "url": "https://www.nasa.gov/blogs/commercialcrew/2026/02/11/crew-12-targets-friday-launch-as-expedition-74-keeps-up-tech-psych-research/",
+        "name": "Crew-12 Targets Friday Launch as Expedition 74 Keeps Up Tech ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--HXcFy2Rj--/t_limit/https://images-assets.nasa.gov/image/jsc2026e004679/jsc2026e004679%7Elarge.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Id5MXaPz--/t_thumbnail/https://images-assets.nasa.gov/image/jsc2026e004679/jsc2026e004679%7Elarge.jpg"
+      },
+      "description": "Four astronauts are set to blast off to the International Space Station early Friday morning, ending a monthlong period in which the orbiting laboratory operated with a skeleton crew following the first medical evacuation in NASA's history.\n\nNASA and SpaceX received a \"go\" to proceed with the Crew-12 launch countdown on Thursday, targeting liftoff at 5:15 a.m. EST on February 13 from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. Weather forecasters issued an improved outlook with a 90% chance of acceptable conditions at launch time.[1][2][3]",
+      "audio_url": "",
+      "url": "nasa-and-spacex-prepare-crew-1-15I3cYu5TJuM.6pbsHtFHg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-13T07:22:34.000000Z",
       "title": "Children's author jailed over 'predatory' sexual messages to minors",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40e1f4dfa0529a68b7daf7c54a510826?impolicy=wcms_crop_resize&amp;cropH=1419&amp;cropW=2522&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Oliver Phommavanh was sentenced to six-and-a-half years in prison, with a non-parole period of four years.",
+      "description": "Oliver Phommavanh is sentenced to six-and-a-half years in prison with a non-parole period of four years.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-13/childrens-author-oliver-phommavanh-jailed-for-grooming-minors/106342160"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/29f9e6f7-cf00-4f5b-a92c-e93e2832ab6f",
+      "published_datetime": "2026-02-13T07:12:25.249178",
+      "title": "China completes first at-sea rocket booster recovery",
+      "featured_image": {
+        "url": "https://www.chinadailyasia.com/article/628982",
+        "name": "Long March-10's first stage retrieved from sea in China's first",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--TY_vXZwE--/t_limit/https://www.chinadailyhk.com/upload/main/image/2026/02/13/9fab1bd919cedc7677913bbe32fb40c7.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--cj4pshX---/t_thumbnail/https://www.chinadailyhk.com/upload/main/image/2026/02/13/9fab1bd919cedc7677913bbe32fb40c7.jpeg"
+      },
+      "description": "China successfully conducted a dual flight test of its next-generation Long March-10 carrier rocket and Mengzhou crewed spacecraft on February 11, marking what the China Manned Space Agency called \"major breakthroughs\" in the country's ambitious plan to land astronauts on the Moon by 2030.[1][2]\n\nThe test at the Wenchang Space Launch Site in Hainan Province achieved several firsts for China's space program, including the nation's first maximum dynamic pressure abort test of a crewed spacecraft and the first at-sea recovery of both a rocket booster and a spacecraft return capsule.[3][4]",
+      "audio_url": "",
+      "url": "china-tests-reusable-rocket-an-hV3ufwePSS.gAQ4Tm3_IDA",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-02-13T06:26:22.000000Z",
@@ -19,19 +67,25 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-13/tim-picton-accused-killer-brodie-dewar-paramount-nightclub-/106340252"
     },
     {
-      "published_datetime": "2026-02-13T05:55:03.000000Z",
-      "title": "US man linked to Wieambilla shooting handed three-year prison sentence",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2d0894e8-c6c7-4280-b3d1-1696e0cfbbb2",
+      "published_datetime": "2026-02-13T06:10:21.239149",
+      "title": "Norway charges ex-PM Jagland with corruption over Epstein ties",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b8c0662c9ee58ef21389bc268494bf3?impolicy=wcms_crop_resize&amp;cropH=405&amp;cropW=720&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485"
+        "url": "https://www.nytimes.com/2026/02/12/world/europe/thorbjorn-jagland-epstein-corruption-norway.html",
+        "name": "Ex-Leader of Norway Charged With Corruption Linked to ...",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1770962686/url_uploads/12int-Norway-Epstein-jzwp-mediumSquareAt3X_xbyn7e.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1770962686/url_uploads/12int-Norway-Epstein-jzwp-mediumSquareAt3X_xbyn7e.jpg"
       },
-      "description": "A US-based conspiracy theorist with links to the Wieambilla shooters is handed a three-year sentence for firearms offences.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-13/donald-day-wieambilla-shooting-sentence/106342394"
+      "description": "Former Norwegian Prime Minister Thorbj\u00f8rn Jagland was formally charged with gross corruption on Thursday, February 12, as investigators probe his ties to the late convicted sex offender Jeffrey Epstein. Norwegian police searched three of Jagland's properties and seized evidence after the Council of Europe lifted his diplomatic immunity just one day earlier.[1][2][3]\n\n\u00d8kokrim, Norway's economic crimes unit, confirmed that Jagland now faces charges of gross corruption\u2014a serious category under Norwegian law\u2014following allegations that he accepted benefits from Epstein between 2011 and 2018. The 75-year-old denies any criminal liability and has pledged to cooperate with the investigation, according to his lawyer Anders Brosveet.[4][2][5][1]",
+      "audio_url": "",
+      "url": "norway-ex-pm-jagland-charged-w-krVxArd9Te6LUljNboCt2w",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-02-13T05:16:42.000000Z",
-      "title": "Live: Australia rocked by Zimbabwe triple-strike in run chase of 170",
+      "title": "Live: Maxwell leads Australian recovery as run chase goes down to the wire",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f51f8cfc71e2042ceebfd47ffd2ad901?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=23&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/efa88027bb09f10969c4adda33ed1c88?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=34&amp;width=862&amp;height=485"
       },
       "description": "After a comfortable win in the World Cup opener earlier this week, Australia looks to consolidate its spot in Group B with a win over Zimbabwe in Colombo. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-13/cricket-australia-zimbabwe-t20-world-cup-live-blog-scores/106327068"
@@ -44,6 +98,21 @@
       },
       "description": "This rare desert drenching is the result of an intrusion of very humid tropical air \u2014 an air mass \u2014 which is now over Queensland, where it will stall for several days.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-13/rain-storms-for-queensland-chance-of-flooding/106342492"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e2c5b04b-4977-4cac-b9f0-0d1f603cb368",
+      "published_datetime": "2026-02-13T05:00:28.748855",
+      "title": "Bangladesh's BNP wins two-thirds majority in first post-uprising election",
+      "featured_image": {
+        "url": "https://www.bloomberg.com/news/articles/2026-02-12/bnp-gets-majority-in-bangladesh-election-local-tv-networks-say",
+        "name": "Once-Exiled Political Scion Set to Lead Bangladesh After BNP ...",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1770958298/url_uploads/-1x-1_j1snxk.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1770958298/url_uploads/-1x-1_j1snxk.jpg"
+      },
+      "description": "The Bangladesh Nationalist Party has declared victory in the country's first parliamentary election since a Gen Z-led uprising ousted longtime ruler Sheikh Hasina in 2024, positioning party leader Tarique Rahman to become the next prime minister after 17 years in exile.\n\nThe BNP and its coalition partners secured approximately 212 of 299 contested seats, surpassing the two-thirds majority threshold, according to local television reports and preliminary Election Commission data. The Islamist party Jamaat-e-Islami and its allies captured around 70 seats, with party leader Shafiqur Rahman conceding defeat and pledging to pursue \"constructive politics\" rather than obstructionist opposition.[1][2][3]",
+      "audio_url": "",
+      "url": "nationalist-party-claims-victo-1f.CvT8xRxCdGYuCJr1M.w",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-02-13T04:57:36.000000Z",
@@ -142,15 +211,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-13/sussan-ley-s-time-as-liberal-leader/106045934"
     },
     {
-      "published_datetime": "2026-02-13T00:12:57.000000Z",
-      "title": "Alice Springs woman survives 12-hour flood ordeal on Todd River",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7f3af4a97a22d93ba0d9cd270d709c55?impolicy=wcms_crop_resize&amp;cropH=2681&amp;cropW=4766&amp;xPos=0&amp;yPos=652&amp;width=862&amp;height=485"
-      },
-      "description": "When her mum was swept into the flooding Todd River this week, Alice Springs woman Latarne Wayne went in after her.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-13/alice-springs-todd-river-flood-rescue/106338710"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/14a4cc7c-d94f-455a-a0c5-d372dfd5e599",
       "published_datetime": "2026-02-12T21:43:44.697619",
       "title": "Trump repeals EPA climate finding as UN chief warns of 'new world disorder'",
@@ -178,66 +238,6 @@
       "description": "Europe's most powerful rocket successfully reached orbit for the first time on Wednesday, carrying 32 satellites for Amazon.com, Inc.'s Leo broadband internet constellation in a launch that marks a new chapter for the continent's space ambitions.\n\nThe Ariane 64 lifted off at 16:45 UTC from Europe's Spaceport in Kourou, French Guiana, deploying its payload to low-Earth orbit in a mission lasting one hour and 54 minutes. The successful debut flight confirms Europe's heavy-lift launch capability and represents the first commercial customer mission for the Ariane 6 rocket family.[1][2][3]",
       "audio_url": "",
       "url": "ariane-64-launches-32-amazon-l-XacLFpgaTaGMuWWJQwWJow",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c770fbea-28c9-4584-ba3c-1398689bfb7e",
-      "published_datetime": "2026-02-12T19:26:03.365280",
-      "title": "Anthropic closes $30B round, valuing AI firm at $380B",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/01/27/anthropic-fundraising-microsoft-nvidia.html",
-        "name": "Anthropic closes latest funding round above $10 billion and could go higher, sources say",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--wnU-KEEr--/t_limit/https://image.cnbcfm.com/api/v1/image/108254389-17689275282026-01-20t124808z_1149863023_rc205jas0xak_rtrmadp_0_davos-meeting.jpeg%3Fv%3D1768927543%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--3yuzBokM--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108254389-17689275282026-01-20t124808z_1149863023_rc205jas0xak_rtrmadp_0_davos-meeting.jpeg%3Fv%3D1768927543%26w%3D1920%26h%3D1080"
-      },
-      "description": "Anthropic announced Thursday that it has completed a $30 billion Series G funding round, valuing the San Francisco-based AI company at $380 billion post-money. The deal stands as the second-largest private technology fundraise in history, trailing only OpenAI's $40 billion round led by SoftBank in March 2025.[1][2]\n\nSingapore's sovereign wealth fund GIC and Coatue Management led the financing, with co-lead investments from D.E. Shaw, Dragoneer Investment Group, Peter Thiel's Founders Fund, ICONIQ, and Abu Dhabi's MGX, according to a GIC press release and Bloomberg reporting. Strategic investors Microsoft and Nvidia, which committed up to a combined $15 billion in Anthropic last November, participated alongside Blackstone, Sequoia Capital, and Altimeter Capital.[3][4][5][6][2]",
-      "audio_url": "",
-      "url": "anthropic-closes-historic-30-b-mFI2lTE2QSitNuRKyQdtnw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9e3bb2d9-804c-4991-9ab5-46ab7c3b3cf7",
-      "published_datetime": "2026-02-12T19:24:16.727545",
-      "title": "NASA tests repaired Artemis II rocket after hydrogen leak",
-      "featured_image": {
-        "url": "https://www.skyatnightmagazine.com/news/rocket-fuel-leak-delays-nasa-artemis-ii-mission-february-2026",
-        "name": "Rocket fuel leak delays NASA's Artemis II mission to the ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--HZIKGbcY--/t_limit/https://c02.purpledshub.com/uploads/sites/48/2026/02/artemis-ii-kennedy-space-center.jpg%3Fwebp%3D1%26w%3D1200",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--KBBsanma--/t_thumbnail/https://c02.purpledshub.com/uploads/sites/48/2026/02/artemis-ii-kennedy-space-center.jpg%3Fwebp%3D1%26w%3D1200"
-      },
-      "description": "NASA is loading liquid hydrogen into its Space Launch System rocket at Kennedy Space Center on Thursday in a previously unannounced test to verify seal repairs following a leak that halted a critical countdown rehearsal earlier this month. The test marks the latest milestone as the agency works toward launching Artemis II, the first crewed mission to the Moon since the Apollo era.",
-      "audio_url": "",
-      "url": "nasa-advances-artemis-moon-mis-hVhydvZiTweuB5y3nS0XOw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/eac557fe-a034-4147-ae5a-2b29e4835d71",
-      "published_datetime": "2026-02-12T19:23:53.350848",
-      "title": "Astronomers find 'inside out' solar system with rocky outer planet",
-      "featured_image": {
-        "url": "https://phys.org/news/2026-02-unique-planetary-reveals-rocky-outer.html",
-        "name": "Unique 'inside out' planetary system reveals rocky outer world",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--vEWorVfh--/t_limit/https://scx2.b-cdn.net/gfx/news/hires/2026/astronomers-discover-u.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--QHxUWIQv--/t_thumbnail/https://scx2.b-cdn.net/gfx/news/hires/2026/astronomers-discover-u.jpg"
-      },
-      "description": "An international team of astronomers has discovered a planetary system that challenges long-held theories about how planets form, with a rocky world orbiting farther from its star than two gas-rich planets. The discovery, published Wednesday in the journal Science, reveals the first evidence of a planet that may have formed in a gas-depleted environment.[1][2][3]\n\nThe system orbits LHS 1903, a red dwarf star located 116 light-years from Earth. Using the European Space Agency's CHEOPS satellite, researchers led by Dr. Thomas Wilson of the University of Warwick detected a fourth planet at the system's outer edge\u2014one that unexpectedly appears to be rocky rather than gaseous.[2][4]",
-      "audio_url": "",
-      "url": "astronomers-find-rare-inside-o-sOIo9Gz6QM2QSdTm_nBUPA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/860189b0-e950-4854-8ff9-ecaba94e94c9",
-      "published_datetime": "2026-02-12T18:55:14.285192",
-      "title": "European stocks reverse from record highs as AI fears grip markets",
-      "featured_image": {
-        "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-02122026-11905226",
-        "name": "Stock Market Today: Major Indexes Plunge on Tech Stock Sell-Off; Dow Sheds 550 Points; AppLovin, Cisco Dive After Earnings",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--O4xYRqv1--/t_limit/https://www.investopedia.com/thmb/okGZXAp-rbjX3yH6WlsfIG7IUOo%3D/1500x0/filters:no_upscale%2528%2529:max_bytes%2528150000%2529:strip_icc%2528%2529/GettyImages-2219242444-a9a9899a9b2c43378d6380e9c010f0db.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--VdVJlXkn--/t_thumbnail/https://www.investopedia.com/thmb/okGZXAp-rbjX3yH6WlsfIG7IUOo%3D/1500x0/filters:no_upscale%2528%2529:max_bytes%2528150000%2529:strip_icc%2528%2529/GettyImages-2219242444-a9a9899a9b2c43378d6380e9c010f0db.jpg"
-      },
-      "description": "European stock markets climbed to fresh all-time highs on Thursday morning as investors cheered positive corporate earnings from luxury and industrial companies, but gains faded later in the session as renewed fears about artificial intelligence disruption dragged global equities lower.\n\nThe pan-European STOXX 600 surged 0.7% to 625.86 points in early trading, setting a new record, according to Reuters. France's CAC 40 led regional benchmarks with a 1.4% rise. However, the rally reversed by the close, with the STOXX 600 ending down 0.5% as U.S. markets tumbled, Bloomberg reported.[1][2][3]",
-      "audio_url": "",
-      "url": "global-stocks-rise-on-strong-e-6h033coeQ6uxP93ett2SwA",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-13T07:43:50.815873"
+  "merged_at": "2026-02-13T08:33:18.596522"
 }
