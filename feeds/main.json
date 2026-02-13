@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c14598a7-b75c-4d67-af7c-367c91bd832a",
+      "published_datetime": "2026-02-13T13:23:44.808835",
+      "title": "Spain, Poland see inflation fall to multi-month lows in January",
+      "featured_image": {
+        "url": "https://www.reuters.com/business/spains-final-12-month-eu-harmonised-inflation-24-january-2026-02-13/",
+        "name": "Spain's final 12-month EU-harmonised inflation at 2.4% in ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--BhAdhtCV--/t_limit/https://www.reuters.com/resizer/v2/XFE66LNXHRJG5F5JY24VJVZLKU.jpg%3Fauth%3D90e3c5f37c20abeb6e289d9035432709c18d761c7221c86dcd33ae58e10c2160%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--8rRc9bew--/t_thumbnail/https://www.reuters.com/resizer/v2/XFE66LNXHRJG5F5JY24VJVZLKU.jpg%3Fauth%3D90e3c5f37c20abeb6e289d9035432709c18d761c7221c86dcd33ae58e10c2160%26width%3D1920%26quality%3D80"
+      },
+      "description": "Fresh inflation data released Friday showed price pressures continuing to ease in both Spain and Poland, while India rolled out a revamped consumer price index designed to better capture modern spending patterns.",
+      "audio_url": "",
+      "url": "january-inflation-updates-in-s-qekoG0OOQ5CAqc7RZX.WDw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-13T13:07:35.000000Z",
       "title": "Nine people killed in Canada mass shooting identified",
       "featured_image": {
@@ -80,11 +95,11 @@
     },
     {
       "published_datetime": "2026-02-13T08:41:31.000000Z",
-      "title": "Live: Baff claims Australia's second gold with stunning snowboard cross win",
+      "title": "'I knew I could do it': Baff wins Australia's second Olympic gold",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3e357f07cd6d1180d7626f890c986b93?impolicy=wcms_crop_resize&amp;cropH=2807&amp;cropW=4991&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Considered an unlikely medallist at the start of the knockout rounds, Australia's Josie Baff storms to a famous victory in the women's snowboard cross at the Milano Cortina Games. Follow live.",
+      "description": "Australia's Josie Baff storms to a famous victory in the women's snowboard cross at the Milano Cortina Games. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-13/winter-olympics-2026-live-milano-cortina-scotty-james/106340876"
     },
     {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/52c60f23-d484-4979-9451-ff2ec2855a97",
-      "published_datetime": "2026-02-13T02:35:38.517203",
-      "title": "Space-based solar power gains global momentum amid grid demands",
-      "featured_image": {
-        "url": "https://www.designboom.com/technology/china-build-solar-power-stations-space-transfer-energy-sun-earth-02-12-2025/",
-        "name": "china to build solar power stations in space",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--H9rgoLgP--/t_limit/https://www.designboom.com/wp-content/uploads/2025/02/china-build-solar-power-stations-space-energy-sun-earth-designboom-01.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--G-MV-wDo--/t_thumbnail/https://www.designboom.com/wp-content/uploads/2025/02/china-build-solar-power-stations-space-energy-sun-earth-designboom-01.jpg"
-      },
-      "description": "New developments in space-based solar power and radioisotope energy systems are drawing fresh attention from governments, investors, and industry leaders who say these technologies could fundamentally transform how the world generates electricity. The renewed push comes as energy demand surges and countries race to develop clean, reliable power sources that operate independently of weather and daylight constraints.",
-      "audio_url": "",
-      "url": "space-based-power-technologies-Bua9wffiRoGApOee3eSSwQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-13T00:37:34.000000Z",
       "title": "It took 80 years for a woman to become Liberal leader, and 9 months to dump her",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-13T14:37:39.937824"
+  "merged_at": "2026-02-13T15:33:55.979230"
 }
