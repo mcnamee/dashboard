@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-13T07:22:34.000000Z",
+      "title": "Children's author jailed over 'predatory' sexual messages to minors",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40e1f4dfa0529a68b7daf7c54a510826?impolicy=wcms_crop_resize&amp;cropH=1419&amp;cropW=2522&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Oliver Phommavanh was sentenced to six-and-a-half years in prison, with a non-parole period of four years.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-13/childrens-author-oliver-phommavanh-jailed-for-grooming-minors/106342160"
+    },
+    {
       "published_datetime": "2026-02-13T06:26:22.000000Z",
       "title": "New details emerge of night Labor identity Tim Picton fatally injured",
       "featured_image": {
@@ -20,9 +29,9 @@
     },
     {
       "published_datetime": "2026-02-13T05:16:42.000000Z",
-      "title": "Live: Young gun notches half-century as Zimbabwe eyes big total against Australia",
+      "title": "Live: Australia rocked by Zimbabwe triple-strike in run chase of 170",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/494b79e175cbce4440b38f5de31ed897?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=58&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f51f8cfc71e2042ceebfd47ffd2ad901?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=23&amp;width=862&amp;height=485"
       },
       "description": "After a comfortable win in the World Cup opener earlier this week, Australia looks to consolidate its spot in Group B with a win over Zimbabwe in Colombo. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-13/cricket-australia-zimbabwe-t20-world-cup-live-blog-scores/106327068"
@@ -131,15 +140,6 @@
       },
       "description": "Sussan Ley vowed to be a different opposition leader, one who consulted widely and listened to her broad church. But it left many wondering what, if anything, she stood for.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-13/sussan-ley-s-time-as-liberal-leader/106045934"
-    },
-    {
-      "published_datetime": "2026-02-13T00:19:08.000000Z",
-      "title": "Police watchdog to investigate actions of officers during protest clashes",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0adbff4867365c5c945af0bc992b6332?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
-      },
-      "description": "The Law Enforcement Conduct Commission says it will investigate the police response to the demonstration at Town Hall against Israeli President Isaac Herzog's visit on Monday night.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-13/lecc-investigates-town-hall-protest-response/106340598"
     },
     {
       "published_datetime": "2026-02-13T00:12:57.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-13T06:49:04.415292"
+  "merged_at": "2026-02-13T07:43:50.815873"
 }
