@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-13T22:45:37.000000Z",
+      "title": "The heartache of 'almost' strikes again for Scotty James",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8175015d14a325d74a66713c7829ebbe?impolicy=wcms_crop_resize&amp;cropH=2304&amp;cropW=4096&amp;xPos=0&amp;yPos=258&amp;width=862&amp;height=485"
+      },
+      "description": "Scotty James has sought what resides at the end of the Olympic rainbow his whole career. But for the third time, he's had to settle for the numbing pain of almost being an Olympic champion.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-14/scotty-james-silver-2026-milano-cortina-winter-olympics/106344652"
+    },
+    {
+      "published_datetime": "2026-02-13T22:43:27.000000Z",
+      "title": "Quick hits: Calls to investigate judging ignored, Aussies forced home",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ad291c4b173d539c10f3526816d4f296?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=69&amp;width=862&amp;height=485"
+      },
+      "description": "A petition to investigate the judging of the ice dance competition has been dismissed by the sport's governing body, as two injured Australians are forced home from the Games. Here are the quick hits from the Winter Olympics.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-14/sport-winter-olympics-day-seven-australia-injury-skating-judges/106344140"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e620c38f-b3be-4b17-b70c-e2582f3c2201",
       "published_datetime": "2026-02-13T21:49:54.347590",
       "title": "Zelensky says Ukraine won't hold referendum on 'bad' peace deal",
@@ -169,31 +187,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-14/what-we-know-about-angus-taylor-policies/106342170"
     },
     {
-      "published_datetime": "2026-02-13T18:24:06.000000Z",
-      "title": "Baff's self-belief a blessing with a gold medal payoff",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d331a8ebdd7e3539d22f11b92d5d47f2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Self-belief is the most powerful tool at an athlete's disposal, and Josie Baff utilised it to its fullest extent with a magical run to gold in the 2026 Winter Olympics snowboard cross.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-14/josie-baff-winter-olympics-snowboard-cross-gold-belief/106344394"
-    },
-    {
       "published_datetime": "2026-02-13T18:00:00.000000Z",
-      "title": "One other living former PM made the same choice as Sussan Ley",
+      "title": "One living former PM made the same choice as Sussan Ley",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/642511a7601ad3609b705aa82ca72ed7?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "The issue for the Liberal Party is not simply the toppling of a female leader. It's also about what happened to that leader while she was in the job.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-14/liberal-party-women-sussan-ley-leadership-spill/106340280"
-    },
-    {
-      "published_datetime": "2026-02-13T18:00:00.000000Z",
-      "title": "From Japan to Israel, elections are reshaping global politics",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/776959e096b8488b2eadc014262b4c4d?impolicy=wcms_crop_resize&amp;cropH=2618&amp;cropW=4654&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "At a time when so much of the global conversation is about the rapid decline of democracy, it is striking what a huge impact elections are having on world events just now.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-14/elections-japan-israel-ukraine-global-politics-trump/106337028"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bda42ab8-df0f-43aa-a238-c6b099dd6987",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-13T22:40:23.740856"
+  "merged_at": "2026-02-13T23:22:36.875191"
 }
