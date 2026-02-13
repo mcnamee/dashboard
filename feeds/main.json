@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-13T13:07:35.000000Z",
+      "title": "Nine people killed in Canada mass shooting identified",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d4d06fd879139f1cae9911047ef75244?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=64&amp;width=862&amp;height=485"
+      },
+      "description": "Six children and two adults were killed in the shooting in the remote Canadian town of Tumbler Ridge on Tuesday.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-14/tumbler-ridge-school-mass-shooting-victims-named/106343974"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/44b2fd42-7009-479c-9e0c-1268d677491b",
+      "published_datetime": "2026-02-13T10:44:54.254527",
+      "title": "Helion hits 150 million degrees in private fusion first",
+      "featured_image": {
+        "url": "https://techcrunch.com/2025/01/28/helion-raises-425m-to-help-build-a-fusion-reactor-for-microsoft/",
+        "name": "Helion raises $425M to help build a fusion reactor for ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--fPTGSz9S--/t_limit/https://techcrunch.com/wp-content/uploads/2025/01/Helion_Polaris.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--KhLIs0WJ--/t_thumbnail/https://techcrunch.com/wp-content/uploads/2025/01/Helion_Polaris.jpg"
+      },
+      "description": "Helion Energy announced Friday that its Polaris prototype reactor has reached plasma temperatures of 150 million degrees Celsius and demonstrated measurable deuterium-tritium fusion, becoming the first privately developed fusion machine to achieve both milestones. The breakthroughs represent major steps toward the company's goal of delivering commercial fusion power to Microsoft by 2028.[1][2]\n\nThe Washington-based startup began operating its seventh-generation Polaris prototype at the end of 2024 and in January became the first private fusion company to use deuterium-tritium fuel after obtaining regulatory approval to possess and use tritium for fusion energy demonstration.[1]",
+      "audio_url": "",
+      "url": "helion-hits-150-million-degree-RODw78xqS8yi4_IhxhiRkg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fcbc8d0f-fa83-45ec-9e94-3a78ac7df3b0",
+      "published_datetime": "2026-02-13T10:31:04.753810",
+      "title": "UN approves global AI scientific panel despite US objections",
+      "featured_image": {
+        "url": "https://www.aa.com.tr/en/world/un-general-assembly-approves-global-ai-scientific-panel-despite-us-objections/3828968",
+        "name": "UN General Assembly approves global AI scientific panel ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--78eZ1V9a--/t_limit/https://cdnuploads.aa.com.tr/uploads/Contents/2026/02/13/thumbs_b_c_cc8a4ad0e9b124fe2b7a10864b98651e.jpg%3Fv%3D131741",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--amGsnSmY--/t_thumbnail/https://cdnuploads.aa.com.tr/uploads/Contents/2026/02/13/thumbs_b_c_cc8a4ad0e9b124fe2b7a10864b98651e.jpg%3Fv%3D131741"
+      },
+      "description": "The United Nations General Assembly voted overwhelmingly Thursday to establish a 40-member global scientific panel dedicated to assessing the impacts and risks of artificial intelligence, overriding strong objections from the United States.\n\nThe vote in the 193-member assembly was 117-2, with the United States and Paraguay voting against the measure, while Tunisia and Ukraine abstained. American allies in Europe, Asia, and elsewhere voted in favor alongside Russia, China, and many developing nations, marking a rare instance of broad international consensus on technology governance that excluded Washington.[1][2]",
+      "audio_url": "",
+      "url": "un-approves-40-member-ai-impac-nI8nbv4LQRGnEp1356_nSA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f936c03e-63d0-4f65-a546-b5607c9749d7",
       "published_datetime": "2026-02-13T09:00:44.049694",
       "title": "Global tech stocks slide as AI disruption fears spread",
@@ -31,12 +70,21 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-13T08:41:31.000000Z",
-      "title": "Live: Norwegian gold medallist ties all-time Winter Olympics record",
+      "published_datetime": "2026-02-13T08:43:51.000000Z",
+      "title": "Coroner finds contentious police tactic not the cause of man's death in custody",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aeb3001b4ab467202c933ef9e2f75324?impolicy=wcms_crop_resize&amp;cropH=2632&amp;cropW=4679&amp;xPos=4&amp;yPos=528&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/26dbab26f7adae4e908e0f19fe633c33?impolicy=wcms_crop_resize&amp;cropH=722&amp;cropW=1283&amp;xPos=0&amp;yPos=46&amp;width=862&amp;height=485"
       },
-      "description": "Johannes H\u00f8sflot Kl\u00e6bo joins the Winter Olympics greats after winning the eighth gold medal of his career. Follow live.",
+      "description": "A Queensland coroner finds the cause of Indigenous man Steven Nixon-McKellar's death during an arrest was \"multi-factorial\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-13/steven-nixon-mckellar-coronial-findings-death-in-custody/106343656"
+    },
+    {
+      "published_datetime": "2026-02-13T08:41:31.000000Z",
+      "title": "Live: Baff wins Australia's second gold with stunning snowboard cross victory",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b98cca105f26c829288355f562b9ab9c?impolicy=wcms_crop_resize&amp;cropH=2318&amp;cropW=4120&amp;xPos=0&amp;yPos=147&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's Josie Baff storms to victory in the women's snowboard cross at the Milano Cortina Games. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-13/winter-olympics-2026-live-milano-cortina-scotty-james/106340876"
     },
     {
@@ -130,15 +178,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-13/cricket-australia-zimbabwe-t20-world-cup-live-blog-scores/106327068"
     },
     {
-      "published_datetime": "2026-02-13T05:08:57.000000Z",
-      "title": "Rain and storms forecast for Qld after record-breaking outback drenching",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1254d7b8e4a0455c0d42739b445ad90f?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
-      },
-      "description": "This rare desert drenching is the result of an intrusion of very humid tropical air \u2014 an air mass \u2014 which is now over Queensland, where it will stall for several days.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-13/rain-storms-for-queensland-chance-of-flooding/106342492"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e2c5b04b-4977-4cac-b9f0-0d1f603cb368",
       "published_datetime": "2026-02-13T05:00:28.748855",
       "title": "Bangladesh's BNP wins two-thirds majority in first post-uprising election",
@@ -193,36 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/39e7878e-2b37-4e81-b1e6-f46c45e1829c",
-      "published_datetime": "2026-02-13T01:35:10.557490",
-      "title": "Deep Space Energy raises funds for lunar power technology",
-      "featured_image": {
-        "url": "https://www.researchlatvia.gov.lv/en/latvian-startups-conquer-space-technology-field",
-        "name": "Latvian startups conquer the space technology field ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--2XtAykCd--/t_limit/https://www.researchlatvia.gov.lv/sites/default/files/styles/article_top_image/public/2025-05/satelits_research_deeptech.png%3Fitok%3DKzqeDUVd",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--2hTXbE5I--/t_thumbnail/https://www.researchlatvia.gov.lv/sites/default/files/styles/article_top_image/public/2025-05/satelits_research_deeptech.png%3Fitok%3DKzqeDUVd"
-      },
-      "description": "From solar-powered orbital data centers to compact radioisotope generators, a wave of space-based power technologies is gaining momentum as governments and private companies race to harness energy beyond Earth's atmosphere.\n\nSpaceX filed with the Federal Communications Commission in late January for approval to launch up to one million satellites that would function as orbital data centers, powered entirely by solar energy. The proposal represents the largest satellite constellation ever proposed and reflects growing interest in space as a solution to the surging energy demands of artificial intelligence computing. \"By directly harnessing near-constant solar power with little operating or maintenance cost, these satellites will achieve transformative cost and energy efficiency while significantly reducing the environmental impact associated with terrestrial data centers,\" the company stated in its FCC filing.[1][2]",
-      "audio_url": "",
-      "url": "space-based-power-technologies-oNFzrxk8RVaiCRY1Aqb01w",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fc903e9a-ea68-49a1-817d-2cf7d6de228e",
-      "published_datetime": "2026-02-13T00:59:45.334941",
-      "title": "Iran fortifies nuclear sites amid US military buildup, images show",
-      "featured_image": {
-        "url": "https://abcnews.go.com/International/wireStory/satellite-photos-show-activity-iran-nuclear-sites-tensions-129714845",
-        "name": "Satellite photos show activity at Iran nuclear sites as tensions rise ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--F6ZBwrDK--/t_limit/https://i.abcnewsfe.com/a/38a32094-b407-48bb-91a4-44ae83842b9a/wirestory_d5c78b5fe974ec2fc338b8ad6d6a7d68_16x9.jpg%3Fw%3D1600",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ZAqVeOkt--/t_thumbnail/https://i.abcnewsfe.com/a/38a32094-b407-48bb-91a4-44ae83842b9a/wirestory_d5c78b5fe974ec2fc338b8ad6d6a7d68_16x9.jpg%3Fw%3D1600"
-      },
-      "description": "Iran is reinforcing defenses at its key nuclear facilities as new satellite imagery reveals expanded fortifications and tunnel construction, with activity intensifying as diplomatic efforts with the United States continue alongside growing military pressure.\n\nFresh images analyzed by the Institute for Science and International Security show tunnel entrances at the Isfahan nuclear complex being buried under soil, while construction activity continues at an underground facility near Natanz known as \"Pickaxe Mountain,\" the BBC reported Wednesday. The developments come as President Donald Trump weighs deploying a second aircraft carrier to the Middle East and warns of \"something very tough\" if Iran fails to meet U.S. demands.[1][2]",
-      "audio_url": "",
-      "url": "iran-fortifies-natanz-nuclear-4CGpBvEAT3mnhFUvQw2srA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-13T00:37:34.000000Z",
       "title": "It took 80 years for a woman to become Liberal leader, and 9 months to dump her",
       "featured_image": {
@@ -230,15 +239,6 @@
       },
       "description": "Sussan Ley vowed to be a different opposition leader, one who consulted widely and listened to her broad church. But it left many wondering what, if anything, she stood for.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-13/sussan-ley-s-time-as-liberal-leader/106045934"
-    },
-    {
-      "published_datetime": "2026-02-13T00:12:57.000000Z",
-      "title": "Daughter risks life to save mum ahead of 12-hour flood ordeal",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7f3af4a97a22d93ba0d9cd270d709c55?impolicy=wcms_crop_resize&amp;cropH=2681&amp;cropW=4766&amp;xPos=0&amp;yPos=652&amp;width=862&amp;height=485"
-      },
-      "description": "When her mother was swept into the flooding Todd River this week, Alice Springs woman Latarne Wayne went in after her.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-13/alice-springs-todd-river-flood-rescue/106338710"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-13T12:37:53.862257"
+  "merged_at": "2026-02-13T13:56:20.107345"
 }
