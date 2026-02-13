@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/206ffbc9-72b0-491c-9128-34fcbd95aaad",
+      "published_datetime": "2026-02-13T04:05:36.390535",
+      "title": "DeepMind VP says decoding human genome is AI's next frontier",
+      "featured_image": {
+        "url": "https://mpost.io/people/pushmeet-kohli-vice-president-of-research-google-deepmind/",
+        "name": "Pushmeet Kohli, Vice President of Research, Google DeepMind ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--l_SwYNA0--/t_limit/https://mpost.io/wp-content/uploads/Screenshot-2023-12-29-at-13.11.46.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--6028_Dk2--/t_thumbnail/https://mpost.io/wp-content/uploads/Screenshot-2023-12-29-at-13.11.46.jpg"
+      },
+      "description": "Artificial intelligence could help decode the \"recipe book of life\" hidden inside human DNA and transform India into a global hub for cutting-edge scientific research, according to Google DeepMind's Vice President of Research Pushmeet Kohli.\n\nIn an interview with Moneycontrol, Kohli said AI's biggest potential lies in the democratization of science, allowing researchers with modest resources to compete with the world's best-funded laboratories. He pointed to AlphaFold, the Nobel Prize-winning protein structure prediction model developed by his teams, as proof of that transformative power. \"All of that millions of dollars and multiple years has been transformed into one click,\" Kohli said, referring to how AlphaFold has reduced work that once took years to complete to mere seconds.[1][2]",
+      "audio_url": "",
+      "url": "deepmind-s-kohli-highlights-ai-GGJT0lD7RoiIErTzOe_rWA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/52c60f23-d484-4979-9451-ff2ec2855a97",
       "published_datetime": "2026-02-13T02:35:38.517203",
       "title": "Space-based solar power gains global momentum amid grid demands",
@@ -217,21 +232,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-13/asx-boss-to-depart-as-another-controversy-unfolds/106336322"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7746742f-e7b5-4522-94d6-c9733d944b48",
-      "published_datetime": "2026-02-12T18:30:22.225330",
-      "title": "Russia dismisses Ukraine claim it can't run Zaporizhzhia plant",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2022/8/14/zaporizhzhia-nuclear-plant-risks-increasing-every-day-mayor",
-        "name": "Risks of disaster at nuclear plant \u2018increasing every day\u2019: Mayor",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--FHMnYe4R--/t_limit/https://www.aljazeera.com/wp-content/uploads/2022/08/2022-08-05T130028Z_309888905_RC2LPV9TJSL9_RTRMADP_3_UKRAINE-CRISIS-ZAPORIZHZHIA-NUCLEAR-1.jpg%3Fresize%3D770%252C513%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--716VonKu--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2022/08/2022-08-05T130028Z_309888905_RC2LPV9TJSL9_RTRMADP_3_UKRAINE-CRISIS-ZAPORIZHZHIA-NUCLEAR-1.jpg%3Fresize%3D770%252C513%26quality%3D80"
-      },
-      "description": "Ukraine's state nuclear company has warned that a restart of the Zaporizhzhia nuclear power plant under Russian control risks a nuclear accident, prompting a sharp rebuke from Moscow's atomic agency, which dismissed the allegations as unfounded.\n\nPavlo Kovtoniuk, acting chairman of Energoatom, told Reuters on Tuesday that Russia lacks the necessary equipment and spare parts to safely operate Europe's largest nuclear facility. \"Russia will not be able to restart the station. The main equipment and the control, protection, and monitoring systems are all Ukrainian,\" Kovtoniuk said. \"Without spare parts and without the project, the station simply cannot be operated.\"[1]",
-      "audio_url": "",
-      "url": "russia-and-ukraine-dispute-zap-6l0uCnHYQ_mnwTmNe7ogKw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-12T18:03:31.000000Z",
       "title": "Families 'sick of waiting for solution' as 3,100 aged care patients stranded",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-13T04:12:21.756826"
+  "merged_at": "2026-02-13T04:58:57.674226"
 }
