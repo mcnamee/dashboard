@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-13T19:32:14.000000Z",
+      "title": "Once a safe Coalition seat, Farrer is buzzing with talk of change",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5318a97b44ea65ab8d10a0854df39412?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=147&amp;width=862&amp;height=485"
+      },
+      "description": "Just minutes after deposed Liberal leader Sussan Ley announced her resignation, constituents in her electorate of Farrer began murmuring about change.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-14/farrer-constituents-react-sussan-ley-resignation/106341264"
+    },
+    {
       "published_datetime": "2026-02-13T19:26:57.000000Z",
-      "title": "'Sickening': Courtney's doctor did seven surgeries that experts say she never needed",
+      "title": "Courtney thought her doctor 'knew best'. Then she asked to see her medical records",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4507cfdab2c4859f7b779be77116790c?impolicy=wcms_crop_resize&amp;cropH=877&amp;cropW=1559&amp;xPos=0&amp;yPos=21&amp;width=862&amp;height=485"
       },
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-02-13T19:20:51.000000Z",
-      "title": "Fancy parties and crude emails reveal the entertainment world's ties to Epstein",
+      "title": "One celebrity in the entertainment world got Epstein 'withdrawal'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/876078b27447e0c7d9c4ac022d8842f5?impolicy=wcms_crop_resize&amp;cropH=1496&amp;cropW=2659&amp;xPos=0&amp;yPos=245&amp;width=862&amp;height=485"
       },
@@ -44,15 +53,6 @@
       },
       "description": "The new Liberal leader has signalled he will pursue a stricter immigration policy and a return to \"Australian values\" in his first pitch to win back voters.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-14/what-we-know-about-angus-taylor-policies/106342170"
-    },
-    {
-      "published_datetime": "2026-02-13T18:24:06.000000Z",
-      "title": "Baff's self-belief a blessing with a gold medal payoff",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d331a8ebdd7e3539d22f11b92d5d47f2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Self-belief is the most powerful tool at an athlete's disposal, and Josie Baff utilised it to its fullest extent with a magical run to gold in the 2026 Winter Olympics snowboard cross.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-14/josie-baff-winter-olympics-snowboard-cross-gold-belief/106344394"
     },
     {
       "published_datetime": "2026-02-13T18:00:00.000000Z",
@@ -224,7 +224,7 @@
     },
     {
       "published_datetime": "2026-02-13T08:41:31.000000Z",
-      "title": "Live: James in halfpipe medal hunt as Japanese rider stuns with big score",
+      "title": "Live: James takes Olympic silver in men's halfpipe after Baff claims gold in snowboard cross",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/55619d0ff73ec79aa7fa8e674f9badec?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=67&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-13T19:36:35.932159"
+  "merged_at": "2026-02-13T20:28:01.510662"
 }
