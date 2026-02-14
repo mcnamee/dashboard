@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-14T22:43:05.000000Z",
+      "title": "'Predatory' NDIS providers targeting remote communities with gifts",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eaed12d7059131ec8fcb7596be112520?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "People with disabilities in remote Northern Territory communities are being targeted by unscrupulous NDIS providers using high-pressure sales tactics and inducements including cash, cigarettes and alcohol, an ABC investigation can reveal.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-15/unscrupulous-ndis-providers-inducements-remote-nt-communities/106338736"
+    },
+    {
       "published_datetime": "2026-02-14T20:59:14.000000Z",
       "title": "Aussie quits tennis, pens 'ginormous f*** you' on social media",
       "featured_image": {
@@ -39,7 +48,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5a7ba58ad18f733101584d83ad2fb1a0?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=37&amp;width=862&amp;height=485"
       },
-      "description": "Rob Smethurst was in the throes of a four-day drunken bender when a friend called and told him his local football team was for sale. Now his tiny English club is making global headlines.",
+      "description": "Rob Smethurst was in the throes of a four-day drunken bender when a friend called and told him his local football team was for sale. Now his tiny English club is making global headlines.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-15/macclesfield-fc-plot-second-major-fa-cup-upset-against-brentford/106339326"
     },
     {
@@ -172,15 +181,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-14T08:23:48.000000Z",
-      "title": "'Freedom of memory': Ukrainian skier makes statement after helmet DQ as Australia enjoys best Winter Games",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/42fa178c51607d88b02b759918c2fce5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=67&amp;width=862&amp;height=485"
-      },
-      "description": "Ukrainian skier Kateryna Kotsar writes \"freedom of memory\" on her gloves in an apparent reference to compatriot Vladyslav Heraskevych's disqualification for wearing images of slain athletes on his helmet. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-14/winter-olympics-2026-live-milano-cortina-laura-peel/106344928"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9860205a-aef9-4bba-9ced-bb21efc882a0",
       "published_datetime": "2026-02-14T07:05:17.311294",
       "title": "Cornell study pinpoints global crop emissions to 10-kilometer resolution",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-14T22:14:37.725390"
+  "merged_at": "2026-02-14T23:16:01.423970"
 }
