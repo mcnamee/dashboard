@@ -64,6 +64,24 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-14/police-operation-kidnap-nancy-savannah-guthrie-in-tucson-arizona/106345266"
     },
     {
+      "published_datetime": "2026-02-14T08:03:22.000000Z",
+      "title": "Live: Carlton star badly injured in opening quarter of AFL Origin's return",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e72ef8a8f5984c1246b0a323a5c043d?impolicy=wcms_crop_resize&amp;cropH=1261&amp;cropW=2242&amp;xPos=0&amp;yPos=315&amp;width=862&amp;height=485"
+      },
+      "description": "The AFL superstars of WA and Victoria combine to bring State of Origin back to Australian rules football, renewing a famous rivalry in Perth. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-14/afl-state-of-origin-wa-victoria-live-blog/106345370"
+    },
+    {
+      "published_datetime": "2026-02-14T08:23:48.000000Z",
+      "title": "Live: Aussie medal hope Peel ruled out of Winter Olympics",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d3718796bc0b3d65c536e9b7dec19cfd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=95&amp;width=862&amp;height=485"
+      },
+      "description": "Aerial skier Laura Peel — one of Australia's strongest medal hopes — is forced to withdraw from the Milano Cortina Games. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-14/winter-olympics-2026-live-milano-cortina-laura-peel/106344928"
+    },
+    {
       "published_datetime": "2026-02-13T23:26:55.000000Z",
       "title": "Hume was punished after the election. Now she's been crowned Liberal deputy",
       "featured_image": {
@@ -80,24 +98,6 @@
       },
       "description": "The public's obsession with one of America's most storied political dynasties has been fuelled by tragedies, such as the doomed romance between John F Kennedy Jr and Carolyn Bessette.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-14/love-story-john-f-kennedy-jr-and-carolyn-bessette-what-happened/105519010"
-    },
-    {
-      "published_datetime": "2026-02-14T03:37:29.000000Z",
-      "title": "Elderly man kidnapped in case of 'mistaken identity'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29dd18e36364de9f4a385c55b271d71c?impolicy=wcms_crop_resize&amp;cropH=128&amp;cropW=227&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
-      },
-      "description": "Police have made a rare appeal in what they say is the mistaken identity kidnapping of an 85-year-old man in Sydney.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-14/man-kidnapped-sydney-police-say-mistaken-identity/106345228"
-    },
-    {
-      "published_datetime": "2026-02-14T01:39:17.000000Z",
-      "title": "Injured Bolton's pre-race message to golden girl Baff",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/095be56e8c1c3235bf31afa3b1801bac?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
-      },
-      "description": "The injury-ravaged Australian snowboard cross team earned an enormous boost with Josie Baff's Winter Olympic gold medal, with injured teammate Cam Bolton urging his teammate to keep the faith.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-14/cam-bolton-josie-baff-2026-winter-olympic-games-message/106344458"
     },
     {
       "published_datetime": "2026-02-14T00:28:39.000000Z",
@@ -136,13 +136,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-14/former-afl-captain-dyson-heppell-disordered-eating/106344044"
     },
     {
-      "published_datetime": "2026-02-13T18:24:06.000000Z",
-      "title": "Baff's self-belief a blessing with a gold medal payoff",
+      "published_datetime": "2026-02-14T03:37:29.000000Z",
+      "title": "'You have the wrong person': Appeal to kidnappers for safe return of elderly man",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/30b7fddec6a70a0b6556ca09b8a17da6?impolicy=wcms_crop_resize&amp;cropH=2130&amp;cropW=3786&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29dd18e36364de9f4a385c55b271d71c?impolicy=wcms_crop_resize&amp;cropH=128&amp;cropW=227&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
       },
-      "description": "Self-belief is the most powerful tool at an athlete's disposal, and Josie Baff utilised it to its fullest extent with a magical run to gold in the 2026 Winter Olympics snowboard cross.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-14/josie-baff-winter-olympics-snowboard-cross-gold-belief/106344394"
+      "description": "Police make a rare appeal in what they say is the mistaken identity kidnapping of 85-year-old Chris Baghsarian in Sydney. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-14/man-kidnapped-sydney-police-say-mistaken-identity/106345228"
     },
     {
       "published_datetime": "2026-02-13T23:27:50.000000Z",
@@ -181,13 +181,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-14/entertainment-celebrities-in-epstein-files/106317858"
     },
     {
-      "published_datetime": "2026-02-13T22:16:15.000000Z",
-      "title": "Scuba diver recounts hiding from shark when a second appeared",
+      "published_datetime": "2026-02-14T01:39:17.000000Z",
+      "title": "Injured Bolton's pre-race message to golden girl Baff",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aaefa61d76a0d0cbe0cd1602c57cefda?impolicy=wcms_crop_resize&amp;cropH=4948&amp;cropW=8797&amp;xPos=0&amp;yPos=458&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/095be56e8c1c3235bf31afa3b1801bac?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
       },
-      "description": "Phillip Ellis Wells was solo diving roughly 7 kilometres off the east coast of Tasmania when he noticed a shadow pass overhead.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-14/diver-recounts-experience-with-mako-sharks-pulfers-reef/106307276"
+      "description": "The injury-ravaged Australian snowboard cross team earned an enormous boost with Josie Baff's Winter Olympic gold medal, with injured teammate Cam Bolton urging his teammate to keep the faith.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-14/cam-bolton-josie-baff-2026-winter-olympic-games-message/106344458"
     },
     {
       "published_datetime": "2026-02-14T04:33:24.000000Z",
@@ -217,13 +217,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-14/easy-tasty-and-nutritious-recipes-for-sharing-this-ramadan/106331120"
     },
     {
-      "published_datetime": "2026-02-14T02:31:35.000000Z",
-      "title": "Wool price jumps ahead of industry-first Chinese New Year break",
+      "published_datetime": "2026-02-13T18:24:06.000000Z",
+      "title": "Baff's self-belief a blessing with a gold medal payoff",
       "featured_image": {
-        "thumbnail": ""
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/30b7fddec6a70a0b6556ca09b8a17da6?impolicy=wcms_crop_resize&amp;cropH=2130&amp;cropW=3786&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
       },
-      "description": "As wool growers enjoy their best prices since 2019, the market will now pause to respect China's request for a week off to celebrate Lunar New Year. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-14/wool-price-rising-ahead-of-chinese-new-year-break/106339658"
+      "description": "Self-belief is the most powerful tool at an athlete's disposal, and Josie Baff utilised it to its fullest extent with a magical run to gold in the 2026 Winter Olympics snowboard cross.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-14/josie-baff-winter-olympics-snowboard-cross-gold-belief/106344394"
     }
   ]
 }
