@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f919a336-9be2-44c6-88b0-873acef43633",
+      "published_datetime": "2026-02-14T14:13:44.080311",
+      "title": "SpaceX Crew-12 to dock with ISS on Valentine's Day",
+      "featured_image": {
+        "url": "https://x.com/AirProNews/status/2022176971958948167",
+        "name": "NASA and SpaceX set to launch Crew-12 to the ISS on Feb 13 ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--j9ZzNHms--/t_limit/https://pbs.twimg.com/card_img/2022176973166964736/gXhvMeOi%3Fformat%3Djpg%26name%3Dorig",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--KTbXdelL--/t_thumbnail/https://pbs.twimg.com/card_img/2022176973166964736/gXhvMeOi%3Fformat%3Djpg%26name%3Dorig"
+      },
+      "description": "A SpaceX Falcon 9 rocket lifted off early Friday morning carrying four astronauts toward the International Space Station, marking the 12th operational crew rotation mission under NASA's Commercial Crew Program. The Crew Dragon capsule \"Freedom\" is set to dock with the orbiting outpost this afternoon, delivering a relief crew after an unprecedented medical evacuation last month left the station short-staffed.\n\nThe mission launched at 5:15 a.m. EST on February 13 from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The crew consists of NASA astronauts Jessica Meir, serving as commander, and Jack Hathaway as pilot, along with mission specialists Sophie Adenot of the European Space Agency and Andrey Fedyaev of Roscosmos.[1][2][3]",
+      "audio_url": "",
+      "url": "spacex-crew12-launches-four-as-hapo_j0TQgGLksQFOEk5hQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-14T13:24:14.000000Z",
       "title": "Russia poisoned Alexei Navalny, UK and allies say",
       "featured_image": {
@@ -217,21 +232,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-14/patients-endometriosis-surgery-by-simon-gordon-unnecessary-/106330214"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c36361e5-255f-4025-823b-6bec441d9113",
-      "published_datetime": "2026-02-13T18:53:10.723777",
-      "title": "Nvidia shares stall as insiders sell $100M despite AI boom",
-      "featured_image": {
-        "url": "https://qz.com/nvidia-stock-jensen-huang-ces-keynote-ai-chip-robotics-1851733133",
-        "name": "Nvidia stock jumps 4% before CEO Jensen Huang's CES keynote",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--5nBIZ-7e--/t_limit/https://qz.com/cdn-cgi/image/width%3D1920%2Cquality%3D85%2Cformat%3Dauto/https://assets.qz.com/media/60307f5a0c0f2f7945d7502cef7929c6.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Ob8zx1Lo--/t_thumbnail/https://qz.com/cdn-cgi/image/width%3D1920%2Cquality%3D85%2Cformat%3Dauto/https://assets.qz.com/media/60307f5a0c0f2f7945d7502cef7929c6.jpg"
-      },
-      "description": "Nvidia shares have traded sideways in recent weeks, hovering near $185, even as major cloud providers announced record capital expenditure plans totaling nearly $700 billion for artificial intelligence infrastructure in 2026. The chipmaker is scheduled to report fourth-quarter fiscal 2026 results on February 25, with Wall Street expecting revenue of approximately $65 billion.\n\nThe disconnect between Nvidia's stock performance and the explosive growth in AI spending by its biggest customers has puzzled some investors. Amazon, Alphabet, Meta, and Microsoft collectively plan to spend between $635 billion and $665 billion this year, a roughly 70% increase from 2025, according to Yahoo Finance. The majority of this investment is directed toward AI chips, server infrastructure, and data center development.[1]",
-      "audio_url": "",
-      "url": "nvidia-stock-stalls-despite-su-AUypoo1ESpaERmkJS7AmSw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-13T18:00:00.000000Z",
       "title": "One living former PM made the same choice as Sussan Ley",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-14T16:18:48.224524"
+  "merged_at": "2026-02-14T17:19:49.194616"
 }
