@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-14T07:25:32.000000Z",
+      "title": "'Sick of the regime': Thousands march in support of change in Iran",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/81cd885c3cbf683c9e516982d6a7f333?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=480&amp;width=862&amp;height=485"
+      },
+      "description": "Organisers billed the protest as part of a \"global day of action in solidarity with Iran's Lion and Sun revolution\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-14/thousands-march-in-day-of-action-for-iran-regime-change-pahlavi/106336244"
+    },
+    {
+      "published_datetime": "2026-02-14T07:22:42.000000Z",
+      "title": "Police operation underway related to Nancy Guthrie",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5dbbc5ae4d06f45513d446d834eb9ede?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=177&amp;width=862&amp;height=485"
+      },
+      "description": "Law enforcement in Arizona is conducting activity related to the Nancy Guthrie case.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-14/police-operation-kidnap-nancy-savannah-guthrie-in-tucson-arizona/106345266"
+    },
+    {
       "published_datetime": "2026-02-14T05:00:46.000000Z",
       "title": "Travel industry sounds alarm as US enters another partial shutdown",
       "featured_image": {
@@ -37,15 +55,6 @@
       "page_content_url": "https://www.abc.net.au/news/health/2026-02-14/tattoo-eye-inflammation/106315444"
     },
     {
-      "published_datetime": "2026-02-14T01:25:11.000000Z",
-      "title": "'Disordered eating': Former captain on relationship with food while playing",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b0be51186e07ecd1c00826035a95fbdc?impolicy=wcms_crop_resize&amp;cropH=2723&amp;cropW=4841&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
-      },
-      "description": "Former Essendon captain Dyson Heppell has spoken about the unhealthy relationship he had with food early in his career.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-14/former-afl-captain-dyson-heppell-disordered-eating/106344044"
-    },
-    {
       "published_datetime": "2026-02-14T00:37:41.000000Z",
       "title": "These Kennedys were an 'It' couple \u2014 until their untimely demise",
       "featured_image": {
@@ -53,15 +62,6 @@
       },
       "description": "The public's obsession with one of America's most storied political dynasties has been fuelled by tragedies, such as the doomed romance between John F Kennedy Jr and Carolyn Bessette.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-14/love-story-john-f-kennedy-jr-and-carolyn-bessette-what-happened/105519010"
-    },
-    {
-      "published_datetime": "2026-02-14T00:28:39.000000Z",
-      "title": "Australia and EU on the cusp of signing landmark free trade agreement",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c3afc1803c17de23d9d2182bae332a12?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
-      },
-      "description": "Australia and the European Union are on the cusp of finally reaching a free trade agreement after years of sometimes fraught negotiations.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-14/australia-and-eu-sign-landmark-free-trade-agreement/106344826"
     },
     {
       "published_datetime": "2026-02-13T23:26:55.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-14T07:29:05.408220"
+  "merged_at": "2026-02-14T08:21:41.594235"
 }
