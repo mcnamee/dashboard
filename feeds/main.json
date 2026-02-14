@@ -2,7 +2,7 @@
   "items": [
     {
       "published_datetime": "2026-02-14T05:00:46.000000Z",
-      "title": "The US has entered another shutdown \u2013 here's what's happening this time",
+      "title": "Travel industry sounds alarm as US enters another partial shutdown",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e76bc615ebce1012030057ecdca782f7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -35,6 +35,15 @@
       },
       "description": "Eye doctors have documented 40 cases of a rare tattoo-related eye inflammation that is hard to treat and can lead to vision loss.",
       "page_content_url": "https://www.abc.net.au/news/health/2026-02-14/tattoo-eye-inflammation/106315444"
+    },
+    {
+      "published_datetime": "2026-02-14T01:25:11.000000Z",
+      "title": "'Disordered eating': Former captain on relationship with food while playing",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b0be51186e07ecd1c00826035a95fbdc?impolicy=wcms_crop_resize&amp;cropH=2723&amp;cropW=4841&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
+      },
+      "description": "Former Essendon captain Dyson Heppell has spoken about the unhealthy relationship he had with food early in his career.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-14/former-afl-captain-dyson-heppell-disordered-eating/106344044"
     },
     {
       "published_datetime": "2026-02-14T00:37:41.000000Z",
@@ -193,15 +202,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-13T18:24:06.000000Z",
-      "title": "Baff's self-belief a blessing with a gold medal payoff",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/30b7fddec6a70a0b6556ca09b8a17da6?impolicy=wcms_crop_resize&amp;cropH=2130&amp;cropW=3786&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
-      },
-      "description": "Self-belief is the most powerful tool at an athlete's disposal, and Josie Baff utilised it to its fullest extent with a magical run to gold in the 2026 Winter Olympics snowboard cross.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-14/josie-baff-winter-olympics-snowboard-cross-gold-belief/106344394"
-    },
-    {
       "published_datetime": "2026-02-13T18:00:00.000000Z",
       "title": "One living former PM made the same choice as Sussan Ley",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-14T06:34:13.223733"
+  "merged_at": "2026-02-14T07:29:05.408220"
 }
