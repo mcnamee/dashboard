@@ -2,16 +2,16 @@
   "items": [
     {
       "published_datetime": "2026-02-14T08:23:48.000000Z",
-      "title": "Live: Anthony leads Aussie charge in dual moguls at Winter Olympics",
+      "title": "Live: Jakara Anthony wins Australia's third Winter Olympics gold",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f19f7a23830e3cdf248d14a0fec6ac46?impolicy=wcms_crop_resize&amp;cropH=2269&amp;cropW=4033&amp;xPos=0&amp;yPos=172&amp;width=862&amp;height=485"
       },
-      "description": "Jakara Anthony is one of three Australians contesting the women's moguls at the Milano Cortina Games. Follow live.",
+      "description": "Australia's Jakara Anthony has won the gold medal in the women's dual moguls at the Milano Cortina Games. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-14/winter-olympics-2026-live-milano-cortina-laura-peel/106344928"
     },
     {
       "published_datetime": "2026-02-14T08:03:22.000000Z",
-      "title": "Live: Carlton star badly injured in opening quarter of AFL Origin's return",
+      "title": "Live: Carlton star badly injured as WA eyes comeback in AFL Origin",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db137a6ac7b855e0f673743b78bf8bfb?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=21&amp;width=862&amp;height=485"
       },
@@ -35,6 +35,21 @@
       },
       "description": "Law enforcement in Arizona is conducting activity related to the Nancy Guthrie case.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-14/police-operation-kidnap-nancy-savannah-guthrie-in-tucson-arizona/106345266"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9860205a-aef9-4bba-9ced-bb21efc882a0",
+      "published_datetime": "2026-02-14T07:05:17.311294",
+      "title": "Cornell study pinpoints global crop emissions to 10-kilometer resolution",
+      "featured_image": {
+        "url": "https://www.wri.org/insights/climate-emissions-growing-crops",
+        "name": "What's the Climate Cost of Growing Crops? - World Resources Institute",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--KX34gqJA--/t_limit/https://files.wri.org/d8/s3fs-public/styles/1222x722/s3/2026-02/crop-emissions-rice-farming.jpg%3FVersionId%3DQgQl9DdEszagSzd9qqNKydaERW.6IY_q%26h%3D790044f9%26itok%3Dij2SLtuE",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--TsMx8Fx---/t_thumbnail/https://files.wri.org/d8/s3fs-public/styles/1222x722/s3/2026-02/crop-emissions-rice-farming.jpg%3FVersionId%3DQgQl9DdEszagSzd9qqNKydaERW.6IY_q%26h%3D790044f9%26itok%3Dij2SLtuE"
+      },
+      "description": "Researchers have produced the most comprehensive map of global cropland greenhouse gas emissions to date, revealing that just four crops\u2014rice, maize, oil palm, and wheat\u2014account for nearly three-quarters of all emissions from farming, with rice alone responsible for 43%.\n\nThe study, published February 13 in Nature Climate Change, synthesizes data from ground measurements, remote sensing, inventory surveys, and hydrological models to achieve a spatial resolution of approximately 10 kilometers\u2014enabling emissions to be pinpointed not just by country, but by individual crops and management practices.[1][2]",
+      "audio_url": "",
+      "url": "study-unveils-most-detailed-gl-KIwY0RrxSASlmN0jYDh9Rg",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-02-14T05:00:46.000000Z",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2c0402f5-6dfd-4643-87cb-e63e9631b295",
-      "published_datetime": "2026-02-13T17:32:07.239235",
-      "title": "Musk's bankers work to refinance $18B debt ahead of SpaceX IPO",
-      "featured_image": {
-        "url": "https://www.euronews.com/business/2026/02/04/spacex-hits-106tn-after-xai-merger-as-musk-consolidates-empire",
-        "name": "SpaceX hits \u20ac1.06tn after xAI merger as Musk consolidates ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--QZptd1a6--/t_limit/https://images.euronews.com/articles/stories/09/63/81/20/1536x864_cmsv2_d9841629-7dc8-5a91-8fb9-360d16af9e8d-9638120.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--DeCUReYu--/t_thumbnail/https://images.euronews.com/articles/stories/09/63/81/20/1536x864_cmsv2_d9841629-7dc8-5a91-8fb9-360d16af9e8d-9638120.jpg"
-      },
-      "description": "Elon Musk's banking team is working on a potential financing strategy that could reduce the heavy interest burden the billionaire has accumulated through years of acquisitions, according to Bloomberg.[1]\n\nThe refinancing effort comes less than two weeks after SpaceX officially completed its merger with xAI on February 2, creating the world's most valuable private company with a combined valuation of approximately $1.25 trillion. The all-stock deal positioned the new entity ahead of what is expected to be one of the largest initial public offerings in history later this year.[2][3]",
-      "audio_url": "",
-      "url": "musk-bankers-plan-to-refinance-and7hi8GScSsXQG8Yl2aZg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-14T10:17:49.254526"
+  "merged_at": "2026-02-14T11:15:53.751747"
 }
