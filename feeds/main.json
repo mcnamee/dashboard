@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-14T08:23:48.000000Z",
+      "title": "Live: Aussie medal hope Peel ruled out of Winter Olympics",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d3718796bc0b3d65c536e9b7dec19cfd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=95&amp;width=862&amp;height=485"
+      },
+      "description": "Aerial skier Laura Peel \u2014 one of Australia's strongest medal hopes \u2014 is forced to withdraw from the Milano Cortina Games. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-14/winter-olympics-2026-live-milano-cortina-laura-peel/106344928"
+    },
+    {
+      "published_datetime": "2026-02-14T08:03:22.000000Z",
+      "title": "Live: Carlton star badly injured in opening quarter of AFL Origin's return",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e72ef8a8f5984c1246b0a323a5c043d?impolicy=wcms_crop_resize&amp;cropH=1261&amp;cropW=2242&amp;xPos=0&amp;yPos=315&amp;width=862&amp;height=485"
+      },
+      "description": "The AFL superstars of WA and Victoria combine to bring State of Origin back to Australian rules football, renewing a famous rivalry in Perth. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-14/afl-state-of-origin-wa-victoria-live-blog/106345370"
+    },
+    {
       "published_datetime": "2026-02-14T07:25:32.000000Z",
       "title": "'Sick of the regime': Thousands march in support of change in Iran",
       "featured_image": {
@@ -37,15 +55,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-14/angus-taylor-housing-affordability-cost-of-living/106344998"
     },
     {
-      "published_datetime": "2026-02-14T03:37:29.000000Z",
-      "title": "Elderly man kidnapped in case of 'mistaken identity'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29dd18e36364de9f4a385c55b271d71c?impolicy=wcms_crop_resize&amp;cropH=128&amp;cropW=227&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
-      },
-      "description": "Police have made a rare appeal in what they say is the mistaken identity kidnapping of an 85-year-old man in Sydney.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-14/man-kidnapped-sydney-police-say-mistaken-identity/106345228"
-    },
-    {
       "published_datetime": "2026-02-14T02:11:19.000000Z",
       "title": "Dozens of Australians diagnosed with tattoo-related vision loss",
       "featured_image": {
@@ -53,15 +62,6 @@
       },
       "description": "Eye doctors have documented 40 cases of a rare tattoo-related eye inflammation that is hard to treat and can lead to vision loss.",
       "page_content_url": "https://www.abc.net.au/news/health/2026-02-14/tattoo-eye-inflammation/106315444"
-    },
-    {
-      "published_datetime": "2026-02-14T00:37:41.000000Z",
-      "title": "These Kennedys were an 'It' couple \u2014 until their untimely demise",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c7488c38f9aab79720eaed865bb07743?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=5&amp;width=862&amp;height=485"
-      },
-      "description": "The public's obsession with one of America's most storied political dynasties has been fuelled by tragedies, such as the doomed romance between John F Kennedy Jr and Carolyn Bessette.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-14/love-story-john-f-kennedy-jr-and-carolyn-bessette-what-happened/105519010"
     },
     {
       "published_datetime": "2026-02-13T23:26:55.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-14T08:21:41.594235"
+  "merged_at": "2026-02-14T09:22:29.641941"
 }
