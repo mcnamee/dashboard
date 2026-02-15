@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-15T08:22:18.000000Z",
+      "title": "Live: Gold medal winner Cooper Woods headlines Aussies in action on day nine",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fbd3219c39b980cef41b3f388fb9e555?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=465&amp;width=862&amp;height=485"
+      },
+      "description": "Cooper Woods is back on the slopes after winning a gold medal earlier at the Milano Cortina Games, while Bree Walker begins her women's monobob program. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-15/winter-olympics-2026-live-updates-cooper-woods-bree-walker/106346610"
+    },
+    {
       "published_datetime": "2026-02-15T06:46:12.000000Z",
       "title": "Women's advocate quits Liberal Party after Ley defeat",
       "featured_image": {
@@ -10,13 +19,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-15/charlotte-mortlock-women-liberal-party/106347176"
     },
     {
-      "published_datetime": "2026-02-15T06:06:23.000000Z",
-      "title": "Frog toxins the latest poison identified in long line of Russian chemical attacks",
+      "published_datetime": "2026-02-15T01:59:00.000000Z",
+      "title": "PM announces $3.9b 'down payment' towards $30b submarine shipyard",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e004cd0c26a5951739b5e94e1a49ebdd?impolicy=wcms_crop_resize&amp;cropH=2267&amp;cropW=4030&amp;xPos=0&amp;yPos=263&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4d4cf99522ada337a02cb783a7acf165?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Russian opposition leader Alexei Navalny was poisoned by the Kremlin with a rare and lethal toxin found in the skin of poison dart frogs, five European countries have said. It's not the first time the country has been accused of poisoning its enemies.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-15/alexei-navalny-death-russian-history-of-poisonings/106346616"
+      "description": "The South Australian and federal government release plans for the shipyard in Adelaide that will build at least eight nuclear-powered submarines under the AUKUS pact with the US and the UK.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-15/down-payment-for-30b-adelaide-submarine-shipyard/106346484"
     },
     {
       "published_datetime": "2026-02-15T01:49:52.000000Z",
@@ -26,15 +35,6 @@
       },
       "description": "Deputy Liberal leader Jane Hume says Australia needs to be \"open minded\" on nuclear power if the country is to bring down emissions and make power cheaper.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-15/jane-hume-nuclear-angus-taylor-capital-tax-childcare-migration/106346434"
-    },
-    {
-      "published_datetime": "2026-02-15T01:46:13.000000Z",
-      "title": "A urine test for plastic chemicals set this 25-year-old on a mission to find solutions for pollution",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8d4ce2e6a7c01df91a407881e494db68?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=157&amp;width=862&amp;height=485"
-      },
-      "description": "Kal Glanznig had his urine tested as part of an upcoming documentary exploring plastic pollution in Australia. The results left him speechless.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-15/plastic-pollution-infertility-cancer-urine-test/106340122"
     },
     {
       "published_datetime": "2026-02-15T01:45:53.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-15T07:33:02.388074"
+  "merged_at": "2026-02-15T09:23:05.830244"
 }
