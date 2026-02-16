@@ -1,12 +1,21 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-16T22:15:12.000000Z",
+      "title": "Highly sensitive court data accessed by entity based in India",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a873fb7788bf1205d0fbaab6399b7cb?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=81&amp;width=862&amp;height=485"
+      },
+      "description": "Highly sensitive Australian court files have been accessed offshore in breach of the privacy act and Commonwealth contractual obligations, an ABC investigation has revealed, raising concerns of a national security risk.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/transcripts-federal-court-viq-solutions-e24-technologies-india/106349338"
+    },
+    {
       "published_datetime": "2026-02-16T18:42:32.000000Z",
       "title": "Skilled workers are considering leaving the trades — and toilets are to blame",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/410bca32baf3469e2a6c8b31a91c9e8d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=441&amp;width=862&amp;height=485"
       },
-      "description": "Tradies are walking out. Not over ability or aptitude but toilets — in a symbol of the sector's persistent barriers. ",
+      "description": "Tradies are walking out. Not over ability or aptitude but toilets — in a symbol of the sector's persistent barriers.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/tradies-created-go-company-to-help-accessability/106244286"
     },
     {
@@ -19,15 +28,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/migration-social-cohesion-language-support-division-policy/106348608"
     },
     {
-      "published_datetime": "2026-02-16T20:37:05.000000Z",
-      "title": "Ex-footballer shot multiple times in Western Sydney drive-by shooting",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3a4ecd0e7012ce581ef9fe7d6fca5372?impolicy=wcms_crop_resize&amp;cropH=965&amp;cropW=1716&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
-      },
-      "description": "Police have been told Matt Utai, who played for the Tigers and Bulldogs NRL clubs, was shot outside a home on the street by the occupants of an SUV, before they fled the scene.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-17/nsw-greenacre-shooting-police-public-place/106352298"
-    },
-    {
       "published_datetime": "2026-02-16T09:14:26.000000Z",
       "title": "Australian women and children with links to ISIS forced to head back to camp in Syria",
       "featured_image": {
@@ -37,13 +37,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-16/australian-families-with-isis-links-leave-camp-in-syria/106351298"
     },
     {
-      "published_datetime": "2026-02-16T18:44:31.000000Z",
-      "title": "Why the Reserve Bank's interest rate hike may be a one-off",
+      "published_datetime": "2026-02-16T20:37:05.000000Z",
+      "title": "Ex-footballer shot multiple times in Western Sydney drive-by shooting",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/44afee941376b92b142cc4da8c148ec4?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=257&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3a4ecd0e7012ce581ef9fe7d6fca5372?impolicy=wcms_crop_resize&amp;cropH=965&amp;cropW=1716&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
       },
-      "description": "Fresh warnings of further rate rises have been enough to send shivers up the collective spine of new homeowners, but if there's any comfort to be had, it's this: Don't believe a word of the forecasts.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-17/why-the-reserve-bank-interest-rate-hike-may-be-a-one-off/106350914"
+      "description": "Police have been told Matt Utai, who played for the Tigers and Bulldogs NRL clubs, was shot outside a home on the street by the occupants of an SUV, before they fled the scene.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/nsw-greenacre-shooting-police-public-place/106352298"
     },
     {
       "published_datetime": "2026-02-16T19:33:44.000000Z",
@@ -64,6 +64,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/federal-politics-live-blog-feb-17/106352202"
     },
     {
+      "published_datetime": "2026-02-16T18:44:31.000000Z",
+      "title": "Why the Reserve Bank's interest rate hike may be a one-off",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/44afee941376b92b142cc4da8c148ec4?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=257&amp;width=862&amp;height=485"
+      },
+      "description": "Fresh warnings of further rate rises have been enough to send shivers up the collective spine of new homeowners, but if there's any comfort to be had, it's this: Don't believe a word of the forecasts.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/why-the-reserve-bank-interest-rate-hike-may-be-a-one-off/106350914"
+    },
+    {
       "published_datetime": "2026-02-16T21:59:44.000000Z",
       "title": "Cousin says 'all I can do is utter a prayer' as he pleads with abductors",
       "featured_image": {
@@ -73,22 +82,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/kidnapping-chris-baghsarian-cousin-hostage-negotiator-sydney/106348436"
     },
     {
-      "published_datetime": "2026-02-16T09:00:08.000000Z",
-      "title": "Aussie Walker finishes outside of medals at Milano Cortina Games",
+      "published_datetime": "2026-02-16T22:21:23.000000Z",
+      "title": "How Australia leads the world in moguls skiing",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/220024aac5df72bf665d8e9c53d0f06f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=431&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed8b4a97a2287cd692a3a9da90c2be0b?impolicy=wcms_crop_resize&amp;cropH=2671&amp;cropW=4748&amp;xPos=252&amp;yPos=325&amp;width=862&amp;height=485"
       },
-      "description": "Australia's Bree Walker missed a spot on the podium but still managed a top-eight placing in the monobob at the Milano Cortina Winter Olympics.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-16/winter-olympics-2026-live-milano-cortina/106350862"
-    },
-    {
-      "published_datetime": "2026-02-16T13:08:54.000000Z",
-      "title": "'Devastated' Australia on the brink of World Cup exit after Sri Lanka's record chase",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/06a887abde7408235b97baf10d485a52?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=386&amp;width=862&amp;height=485"
-      },
-      "description": "Australia is on the cusp of a group stage exit from the T20 World Cup after crashing to an eight-wicket loss against tournament co-hosts Sri Lanka.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-17/cricket-australia-sri-lanka-t20-world-cup-live-blog/106351564"
+      "description": "To the surprise of many, the \"beach nation\" that is Australia is the best moguls skiing nation on earth. How they got there is no accident.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/australia-winter-olympics-moguls-dominance/106346256"
     },
     {
       "published_datetime": "2026-02-16T18:49:41.000000Z",
@@ -100,15 +100,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/anti-slavery-commissioner-tough-laws-dumping-ground-kmart-ansell/106349728"
     },
     {
-      "published_datetime": "2026-02-16T17:30:00.000000Z",
-      "title": "Andrew Denton was the key to The Chaser's War on Everything",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c3eacd167ad5b9d050f2ce9b445fe0b?impolicy=wcms_crop_resize&amp;cropH=323&amp;cropW=574&amp;xPos=12&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Chaser's War on Everything didn't start the fire, but the embers from the beloved satirical current affairs show are still warm after two decades.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-17/the-chasers-war-on-everything-20-year-anniversary/106340294"
-    },
-    {
       "published_datetime": "2026-02-16T18:57:54.000000Z",
       "title": "'Forced confessions' amid government crackdown spells execution fears",
       "featured_image": {
@@ -116,6 +107,15 @@
       },
       "description": "Families of Baha'i youth arrested by Iran's security forces say they've been subject to \"forced confessions\" and fear they may face the death penalty. ",
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/iran-forced-confessions-bahai-scapegoats-face-execution/106349538"
+    },
+    {
+      "published_datetime": "2026-02-16T17:30:00.000000Z",
+      "title": "Andrew Denton was the key to The Chaser's War on Everything",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c3eacd167ad5b9d050f2ce9b445fe0b?impolicy=wcms_crop_resize&amp;cropH=323&amp;cropW=574&amp;xPos=12&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The Chaser's War on Everything didn't start the fire, but the embers from the beloved satirical current affairs show are still warm after two decades.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/the-chasers-war-on-everything-20-year-anniversary/106340294"
     },
     {
       "published_datetime": "2026-02-16T21:56:48.000000Z",
@@ -132,7 +132,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c7d643511a55495396260746864ecd69?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
       },
-      "description": "The Australian share market is set to open higher as investors await half-yearly company results. Follow the day's events and insights from our business reporters on the ABC News live markets blog. ",
+      "description": "The Australian share market opens higher as investors await half-yearly company results. Follow the day's events and insights from our business reporters on the ABC News live markets blog. ",
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/asx-markets-business-news-live-updates-feb-17/106352262"
     },
     {
@@ -172,6 +172,24 @@
       "page_content_url": "https://www.abc.net.au/news/science/2026-02-17/26-billion-global-biodiversity-target-nature-subsidies/106328722"
     },
     {
+      "published_datetime": "2026-02-16T22:31:38.000000Z",
+      "title": "Austrian man faces terror charges over Taylor Swift concert plot",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4861614300b77136164c87b4b9599689?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
+      },
+      "description": "Austrian prosecutors have filed terrorism-related charges against a 21-year-old man who they say planned to carry out an Islamist militant attack at one of Taylor Swift's 2024 concerts in Vienna.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/man-charged-over-taylor-swift-concert-attack-plot/106352344"
+    },
+    {
+      "published_datetime": "2026-02-16T22:59:56.000000Z",
+      "title": "Australian facing jail in Thailand over blog posts cleared by court",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dbb85e394d29119ee122098b1bf5df99?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
+      },
+      "description": "The Malaysian Communications and Multimedia Commission has dropped a criminal defamation case against Australian writer Murray Hunter.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/australian-writer-murray-hunter-cleared-by-thai-court/106352654"
+    },
+    {
       "published_datetime": "2026-02-16T19:00:44.000000Z",
       "title": "Resource to help 'invisible' victim-survivors of sexual abuse — older women",
       "featured_image": {
@@ -206,24 +224,6 @@
       },
       "description": "The Victorian Greens are calling for broadened powers of the state's anti-corruption body after the watchdog confirmed it rejected a request by the premier for an investigation into the CFMEU scandal because it was out of scope.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/greens-call-broadened-powers-anticorruption-body-cmfeu/106350798"
-    },
-    {
-      "published_datetime": "2026-02-16T20:49:51.000000Z",
-      "title": "Farmers fear disease outbreaks from illegal foreign boats",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ec9f4a4a0a1eb1f5f63d75d41f3d8088?impolicy=wcms_crop_resize&amp;cropH=349&amp;cropW=620&amp;xPos=0&amp;yPos=56&amp;width=862&amp;height=485"
-      },
-      "description": "Australian primary producers say they are concerned about the risk of foreign pests crippling entire industries if overseas fishing boats continue to enter the nation's waters illegally.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-17/farmers-fear-pest-disease-outbreaks-from-illegal-foreign-boats/106349882"
-    },
-    {
-      "published_datetime": "2026-02-16T14:19:30.000000Z",
-      "title": "Kremlin rejects European assessment Navalny died of poisoning",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a37135d8a73658a815f68234a09afcb?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Kremlin has rejected accusations from five European countries that the Russian state had killed late Kremlin critic Alexei Navalny two years ago using toxin from poison dart frogs.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-17/kremlin-rejects-accusations-it-poisoned-navalny-frog-toxin/106351562"
     }
   ]
 }
