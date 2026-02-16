@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-16T00:56:56.000000Z",
+      "title": "Live: Police investigating videos linked to elderly man's kidnapping",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29dd18e36364de9f4a385c55b271d71c?impolicy=wcms_crop_resize&amp;cropH=128&amp;cropW=227&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
+      },
+      "description": "Detectives believe 85-year-old Chris Baghsarian was mistakenly snatched just after 5am last Friday from his bedroom after intruders forced their way into his North Ryde property.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-16/chris-baghsarian-kidnap-video-police/106346782"
+    },
+    {
+      "published_datetime": "2026-02-16T00:30:15.000000Z",
+      "title": "Bondi Beach gunman Naveed Akram fronts court for the first time",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/72924d9b129058e4c5b1aff5833e2399?impolicy=wcms_crop_resize&amp;cropH=484&amp;cropW=861&amp;xPos=0&amp;yPos=228&amp;width=862&amp;height=485"
+      },
+      "description": "Bondi Beach gunman Naveed Akram, who is charged with 15 counts of murder, has appeared via video link for the first time in a Sydney court as a senior magistrate extended existing suppression orders in the case.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-16/bondi-terror-attack-gunman-akram-appears-court-first-time/106348400"
+    },
+    {
       "published_datetime": "2026-02-15T22:41:06.000000Z",
       "title": "SA Police return to remote station in search for missing boy Gus Lamont",
       "featured_image": {
@@ -59,21 +77,12 @@
     },
     {
       "published_datetime": "2026-02-15T20:13:22.000000Z",
-      "title": "Live: Angus Taylor demands PM conduct spending audit ahead of budget",
+      "title": "Live: Taylor says nuclear should be part of Australia's energy mix",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c8cc16f5103882e359dfeaa6e9009dfb?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7e684553b2c9f73a7e0b1ff5d27ed134?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "New opposition leader Angus Taylor wants the government to set up a bipartisan taskforce to find areas to trim in the upcoming budget. Follow live.",
+      "description": "Opposition Leader Angus Taylor says nuclear energy should form part of Australia's energy mix. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-16/federal-politics-taylor-albanese-chalmers-hume/106347964"
-    },
-    {
-      "published_datetime": "2026-02-15T20:04:07.000000Z",
-      "title": "What can you eat on an island at the bottom of the world?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/22687a994566f85a46b9f9799976da16?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=26&amp;width=862&amp;height=485"
-      },
-      "description": "A tiny island off the coast of Tasmania is embracing old and new techniques to keep food on the table.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-16/alternative-foods-keep-pantry-full-on-cape-barren-island/105893250"
     },
     {
       "published_datetime": "2026-02-15T19:26:40.000000Z",
@@ -90,7 +99,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c5c5fdf7e827440df4980efe95d3bd4d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
       },
-      "description": "A fake news story about me, a series of AI breakthroughs, and a resignation in the tech world show that 2026 could be pivotal for AI.\u00a0",
+      "description": "A fake news story about me, a series of AI breakthroughs and a resignation in the tech world show that 2026 could be pivotal for AI.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-16/ai-jobs-fake-breakthrough-resignation-chat-gpt-claude/106346440"
     },
     {
@@ -125,15 +134,6 @@
       "audio_url": "",
       "url": "satellite-images-show-china-ex-Z8DIlkGCQTStnoDcE3zt7Q",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-15T18:34:01.000000Z",
-      "title": "The brilliant bronze of Australia's 'team captain' Matt Graham",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fabd810e5a1f7842b69b2d8a4a87c344?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=157&amp;width=862&amp;height=485"
-      },
-      "description": "Matt Graham's brilliant bronze in the dual moguls, and the incredible response from his teammates, proved to everyone that he is the true leader of this Winter Olympic squad.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-16/matt-graham-bronze-leader-moguls-duals-winter-olympics/106347650"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/23aae1dd-a9b8-4de4-830a-f6f03ff3a277",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-15T23:17:47.439144"
+  "merged_at": "2026-02-16T01:18:23.720927"
 }
