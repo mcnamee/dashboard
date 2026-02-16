@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-16T22:21:23.000000Z",
+      "title": "How Australia leads the world in moguls skiing",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed8b4a97a2287cd692a3a9da90c2be0b?impolicy=wcms_crop_resize&amp;cropH=2671&amp;cropW=4748&amp;xPos=252&amp;yPos=325&amp;width=862&amp;height=485"
+      },
+      "description": "To the surprise of many, the \"beach nation\" that is Australia is the best moguls skiing nation on earth. How they got there is no accident.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/australia-winter-olympics-moguls-dominance/106346256"
+    },
+    {
+      "published_datetime": "2026-02-16T22:15:12.000000Z",
+      "title": "Highly sensitive court data accessed by entity based in India",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a873fb7788bf1205d0fbaab6399b7cb?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=81&amp;width=862&amp;height=485"
+      },
+      "description": "Highly sensitive Australian court files have been accessed offshore in breach of the privacy act and Commonwealth contractual obligations, an ABC investigation has revealed, raising concerns of a national security risk.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/transcripts-federal-court-viq-solutions-e24-technologies-india/106349338"
+    },
+    {
       "published_datetime": "2026-02-16T21:59:44.000000Z",
       "title": "Cousin says 'all I can do is utter a prayer' as he pleads with abductors",
       "featured_image": {
@@ -66,7 +84,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/410bca32baf3469e2a6c8b31a91c9e8d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=441&amp;width=862&amp;height=485"
       },
-      "description": "Tradies are walking out.\u00a0Not over ability or aptitude but toilets \u2014 in a symbol of the sector's persistent barriers.\u00a0",
+      "description": "Tradies are walking out. Not over ability or aptitude but toilets \u2014 in a symbol of the sector's persistent barriers.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/tradies-created-go-company-to-help-accessability/106244286"
     },
     {
@@ -184,15 +202,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-16T13:08:54.000000Z",
-      "title": "'Devastated' Australia on the brink of World Cup exit after Sri Lanka's record chase",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/06a887abde7408235b97baf10d485a52?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=386&amp;width=862&amp;height=485"
-      },
-      "description": "Australia is on the cusp of a group stage exit from the T20 World Cup after crashing to an eight-wicket loss against tournament co-hosts Sri Lanka.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-17/cricket-australia-sri-lanka-t20-world-cup-live-blog/106351564"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9a60ee92-f0f0-44b5-a3f6-768fe835cf52",
       "published_datetime": "2026-02-16T10:56:27.082291",
       "title": "India opens AI summit as first major Global South host",
@@ -230,15 +239,6 @@
       },
       "description": "A group of Australian families with links to Islamic State fighters are forced to turn around after leaving a camp in Syria to try to begin their journey home to Australia.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-16/australian-families-with-isis-links-leave-camp-in-syria/106351298"
-    },
-    {
-      "published_datetime": "2026-02-16T09:00:08.000000Z",
-      "title": "Aussie Walker finishes outside of medals at Milano Cortina Games",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/220024aac5df72bf665d8e9c53d0f06f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=431&amp;width=862&amp;height=485"
-      },
-      "description": "Australia's Bree Walker missed a spot on the podium but still managed a top-eight placing in the monobob at the Milano Cortina Winter Olympics.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-16/winter-olympics-2026-live-milano-cortina/106350862"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-16T22:19:19.346371"
+  "merged_at": "2026-02-16T23:21:02.148312"
 }
