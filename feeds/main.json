@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-16T07:38:06.000000Z",
+      "title": "Flotilla of foreign fishing boats spotted in Torres Strait",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/42297bac0eed6acab713284200a125f4?impolicy=wcms_crop_resize&amp;cropH=338&amp;cropW=600&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
+      },
+      "description": "A surge in suspected illegal fishing activity puts the Torres Strait and Far North Queensland on high alert, with residents reporting multiple foreign vessels.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-16/foreign-fishing-boats-spotted-torres-strait/106348242"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/afea7a11-f880-473c-b799-dfba26be9ef1",
       "published_datetime": "2026-02-16T06:24:43.434264",
       "title": "Gold holds above $5,000 as stronger dollar, thin holiday trading weigh",
@@ -79,6 +88,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-16/ley-draft-migration-policy-australian-values-statement/106348870"
     },
     {
+      "published_datetime": "2026-02-16T00:56:56.000000Z",
+      "title": "Police make 'very strange' appeal for return of kidnapped 85yo Sydney man",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29dd18e36364de9f4a385c55b271d71c?impolicy=wcms_crop_resize&amp;cropH=128&amp;cropW=227&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
+      },
+      "description": "Detectives believe Chris Baghsarian was mistakenly snatched from his bedroom just after 5am on Friday by intruders who forced their way into his North Ryde property.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-16/chris-baghsarian-kidnap-video-police/106346782"
+    },
+    {
       "published_datetime": "2026-02-16T00:30:15.000000Z",
       "title": "Bondi Beach gunman Naveed Akram fronts court for the first time",
       "featured_image": {
@@ -116,24 +134,6 @@
       "audio_url": "",
       "url": "netanyahu-demands-iran-dismant-GEqinNfoQ7GK7v1knud6pw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-15T18:45:36.000000Z",
-      "title": "AI got personal last week, and it's more complicated than we think",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c5c5fdf7e827440df4980efe95d3bd4d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
-      },
-      "description": "A fake news story about me, a series of AI breakthroughs and a resignation in the tech world show that 2026 could be pivotal for AI.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-16/ai-jobs-fake-breakthrough-resignation-chat-gpt-claude/106346440"
-    },
-    {
-      "published_datetime": "2026-02-15T18:37:59.000000Z",
-      "title": "The right wing has seized control of the Liberals, but the fight has just begun",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/402b622790f84fa80d36f1677fca92ac?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Angus Taylor says he will unite the Liberal Party, but a deeper rift is forming between those who want to overhaul the party's direction and those who believe doing so would mean political death.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-16/liberal-party-right-wing-division-realignment-four-corners/106331358"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/96de662e-08aa-4efe-88c1-6e5633b7a418",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-16T07:46:47.726986"
+  "merged_at": "2026-02-16T08:36:42.264622"
 }
