@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-16T14:19:30.000000Z",
+      "title": "Kremlin rejects European assessment Navalny died of poisoning",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a37135d8a73658a815f68234a09afcb?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The Kremlin has rejected accusations from five European countries that the Russian state had killed late Kremlin critic Alexei Navalny two years ago using toxin from poison dart frogs.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/kremlin-rejects-accusations-it-poisoned-navalny-frog-toxin/106351562"
+    },
+    {
+      "published_datetime": "2026-02-16T13:08:54.000000Z",
+      "title": "Live: Spinners get Sri Lanka back in the game as Aussies collapse after big stand",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c8cee48e3f957e0bf8c3683395daa92d?impolicy=wcms_crop_resize&amp;cropH=2508&amp;cropW=4458&amp;xPos=0&amp;yPos=354&amp;width=862&amp;height=485"
+      },
+      "description": "Australia is looking to avenge a nightmare result against Zimbabwe as they take on Sri Lanka in a crucial group stage clash at the T20 World Cup. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/cricket-australia-sri-lanka-t20-world-cup-live-blog/106351564"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9a60ee92-f0f0-44b5-a3f6-768fe835cf52",
       "published_datetime": "2026-02-16T10:56:27.082291",
       "title": "India opens AI summit as first major Global South host",
@@ -91,21 +109,12 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-16T05:34:20.000000Z",
-      "title": "Firearms charges laid amid search for Gus, police say unrelated to disappearance",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/be499f313251c622b173d34743e29263?impolicy=wcms_crop_resize&amp;cropH=415&amp;cropW=738&amp;xPos=0&amp;yPos=217&amp;width=862&amp;height=485"
-      },
-      "description": "Detectives investigating the case of missing boy Gus Lamont have made an arrest during their renewed search for evidence \u2013 but say it does not relate to his disappearance.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-16/firearms-charges-renewed-search-for-gus-lamont/106349994"
-    },
-    {
       "published_datetime": "2026-02-16T03:54:00.000000Z",
-      "title": "Nine times Aussie pollies have gone viral, from Katter's croc claim to the misogyny speech",
+      "title": "Nine moments pollies went viral, from Katter's crocs to the misogyny speech",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dc8851974d379496147d33e96d5ed819?impolicy=wcms_crop_resize&amp;cropH=343&amp;cropW=610&amp;xPos=0&amp;yPos=174&amp;width=862&amp;height=485"
       },
-      "description": "From the downright weird to the speech that soared, Australia's politicians are under constant scrutiny. What are some other moments when the politician has become the meme?",
+      "description": "From the downright weird to the speech that soared, Australia's politicians are under constant scrutiny. Here are some startling moments when the politician became the meme.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-16/political-memes-angus-taylor-pauline-hanson-bob-katter/106342538"
     },
     {
@@ -116,15 +125,6 @@
       },
       "description": "Supermarket giant Coles is accused of a \"planned\" campaign to mislead customers over discounts on the first day of a bombshell Federal Court case.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-16/accc-accuses-coles-of-planned-campaign-to-mislead-customers/106295046"
-    },
-    {
-      "published_datetime": "2026-02-16T00:56:56.000000Z",
-      "title": "Police make 'very strange' appeal for return of kidnapped 85yo Sydney man",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29dd18e36364de9f4a385c55b271d71c?impolicy=wcms_crop_resize&amp;cropH=128&amp;cropW=227&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
-      },
-      "description": "Detectives believe Chris Baghsarian was mistakenly snatched from his bedroom just after 5am on Friday by intruders who forced their way into his North Ryde property.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-16/chris-baghsarian-kidnap-video-police/106346782"
     },
     {
       "published_datetime": "2026-02-16T00:30:15.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-16T14:00:19.035452"
+  "merged_at": "2026-02-16T14:46:47.001618"
 }
