@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-17T23:00:59.000000Z",
+      "title": "Hanson issues partial apology for suggestion there are no 'good' Muslims",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a999eeba0315c3d8589a99497753bfb5?impolicy=wcms_crop_resize&amp;cropH=3128&amp;cropW=5562&amp;xPos=678&amp;yPos=203&amp;width=862&amp;height=485"
+      },
+      "description": "The One Nation leader qualified her earlier remarks, which had been met with condemnation, while reiterating calls for tougher vetting processes for Muslim migrants.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-18/pauline-hanson-partially-apologises-for-muslim-remarks/106357130"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/205ad0eb-87de-48ad-906c-43186e405908",
       "published_datetime": "2026-02-17T21:37:57.893537",
       "title": "Russia, China, Iran deploy ships for joint drills in Strait of Hormuz",
@@ -16,21 +25,12 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-17T21:14:58.000000Z",
-      "title": "Iran announces closure of vital shipping route during US nuclear talks",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/04b1f645583ee7c99b9a56f110321c80?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=59&amp;width=862&amp;height=485"
-      },
-      "description": "Iran says it temporarily closed the Strait of Hormuz \u2014 a vital international shipping route \u2014 as it entered a new round of talks with the US over its nuclear capabilities.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-18/iran-announces-closure-of-hormuz-strait-amid-us-nuclear-talks/106356970"
-    },
-    {
       "published_datetime": "2026-02-17T21:00:33.000000Z",
       "title": "Live: NAB quarterly profit jumps to $2.1b, Australian dollar hits 19-month high against British pound",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d94376187b1df133e82bcd8df1e02500?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "The Australian dollar has risen to its highest level in a year and a half against the British pound, while the ASX is likely to start its day higher, and NAB reports a significant increase in its quarterly profit. Follow live.",
+      "description": "The Australian dollar has risen to its highest level in a year and a half against the British pound, while the ASX has started its day higher, and NAB reports a significant increase in its quarterly profit. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-18/asx-markets-business-live-news/106357056"
     },
     {
@@ -48,7 +48,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/409b821a7ba4bd887adf1b2799d4c3f7?impolicy=wcms_crop_resize&amp;cropH=400&amp;cropW=711&amp;xPos=4&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Ater 'Elia' Good was gunned down early this year with police alleging it was a gang-related killing. His parents say their son was not a gang member but are aware activity is on the rise.",
+      "description": "Ater \"Elia\" Good was gunned down early this year, with police alleging it was a gang-related killing. His parents say their son was not a gang member but are aware activity is on the rise.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-18/melbourne-youth-gangs-violent-murder-shooting-social-media/106332468"
     },
     {
@@ -68,11 +68,11 @@
     },
     {
       "published_datetime": "2026-02-17T20:22:44.000000Z",
-      "title": "Live: Return of IS-linked families an 'enduring problem' for Australia, O'Neil says",
+      "title": "Live: One Nation expecting a 'Melbourne Cup'-like race to decide Farrer candidate",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d4850795afc9a85174d3fb13723cd0e1?impolicy=wcms_crop_resize&amp;cropH=3314&amp;cropW=5892&amp;xPos=0&amp;yPos=553&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/536fe832f1fa8a6e4466e62b39b01756?impolicy=wcms_crop_resize&amp;cropH=1922&amp;cropW=3418&amp;xPos=919&amp;yPos=223&amp;width=862&amp;height=485"
       },
-      "description": "A Labor frontbencher has doubled down on the government's stance on the return of Australians linked to Islamic State fighters as it faces pressure on how the cohort obtained passports. Follow live.",
+      "description": "One Nation leader Pauline Hanson says about 80 people have applied to be the party's candidate for Farrer in the upcoming by-election. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-18/federal-politics-albanese-taylor-coalition-labor/106356048"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-17T22:39:43.909469"
+  "merged_at": "2026-02-17T23:21:19.951512"
 }
