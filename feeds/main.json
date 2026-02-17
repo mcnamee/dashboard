@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-17T15:15:10.000000Z",
+      "title": "'Pretty soon': Donald Trump hints at Taiwan weapons call",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5f545cdd2738b080c0ef47063eae3763?impolicy=wcms_crop_resize&amp;cropH=2313&amp;cropW=4112&amp;xPos=777&amp;yPos=168&amp;width=862&amp;height=485"
+      },
+      "description": "Despite China's President Xi Jinping warning the US not to send weapons to Taiwan, Donald Trump says he will make a decision soon.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-18/donald-trump-make-call-on-taiwan-weapons-deal-soon/106356662"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7bf78cda-d978-483c-aea3-651f1555f407",
       "published_datetime": "2026-02-17T13:04:17.230760",
       "title": "Chinese humanoid robots perform kung fu at world's most-watched TV gala",
@@ -50,11 +59,11 @@
     },
     {
       "published_datetime": "2026-02-17T09:04:50.000000Z",
-      "title": "Live: Weather plays havoc on day 11, with aerials, slopestyle final postponed",
+      "title": "Live: Klopp makes surprise Olympic appearance as weather plays havoc",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/395c6cce8c8593f9e227a1cbeda2c05d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=418&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/541360017bcfabc53b6276de1da0b165?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=9&amp;width=862&amp;height=485"
       },
-      "description": "Heavy snow has played havoc with the Winter Olympic schedule on day 11, with the women's slopestyle and men's and women's aerials events postponed. Follow live.",
+      "description": "Football manager J\u00fcrgen Klopp plays a role at a the Milano Cortina Games, as heavy snow causes several events to be postponed. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/winter-olympics-day-11-live-blog/106354466"
     },
     {
@@ -152,15 +161,6 @@
       "audio_url": "",
       "url": "bacteria-frozen-5000-years-in-7y7kZ2iITx2zw1ToGX9rFg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-17T06:21:43.000000Z",
-      "title": "'Humiliating' anti-homeless devices under city bridge switched off",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d1d523f0179a33f99f1d353e88846af7?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=365&amp;width=862&amp;height=485"
-      },
-      "description": "High-pitched noise devices installed under a bridge to deter rough sleepers are labelled \"unnecessary\" and \"humiliating\" by housing campaigners and condemned by the WA government.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-17/anti-homelessness-noise-devices-perth-bridge-removed/106354270"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d00c05bd-8ca0-4790-880e-e74f35a81403",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-17T14:01:19.034834"
+  "merged_at": "2026-02-17T15:43:11.762994"
 }
