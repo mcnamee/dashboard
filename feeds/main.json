@@ -1,23 +1,8 @@
 {
   "items": [
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/21c92c1f-fd09-4aa6-9724-7710a41a5f13",
-      "published_datetime": "2026-02-17T10:22:57.707185",
-      "title": "Experts say toxin that killed Navalny was lab-made, not from frogs",
-      "featured_image": {
-        "url": "https://www.newyorker.com/news/news-desk/alexey-navalnys-very-strange-form-of-freedom",
-        "name": "Alexey Navalny's Very Strange Form of Freedom | The New Yorker",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--nlM6OY18--/t_limit/https://media.newyorker.com/photos/59097372c14b3c606c1083c8/master/pass/Gessen-Alexei-Navalny-A-Free-Man-in-Moscow.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ln5HncEH--/t_thumbnail/https://media.newyorker.com/photos/59097372c14b3c606c1083c8/master/pass/Gessen-Alexei-Navalny-A-Free-Man-in-Moscow.jpg"
-      },
-      "description": "The toxin that European governments say killed Russian opposition leader Alexei Navalny was almost certainly manufactured in a laboratory rather than extracted from poison dart frogs in the wild, according to experts who spoke out this week following an announcement from five European nations.\n\nDays after the United Kingdom, France, Germany, Sweden, and the Netherlands jointly declared that Navalny was poisoned with epibatidine, a neurotoxin found naturally in South American dart frogs, specialists in amphibian biology and toxicology told news outlets that obtaining the substance from live frogs would be practically impossible.[1][2]",
-      "audio_url": "",
-      "url": "experts-say-toxin-that-killed-tIA035jzSlGKLV7A6Jef4g",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-17T10:00:50.000000Z",
-      "title": "Breaking: Civil rights leader Jesse Jackson dies, aged 84",
+      "title": "Civil rights leader Jesse Jackson dies, aged 84",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/91dde4fd6f534e63ee5dcb05f7b01847?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=380&amp;width=862&amp;height=485"
       },
@@ -26,11 +11,11 @@
     },
     {
       "published_datetime": "2026-02-17T09:04:50.000000Z",
-      "title": "Live: Weather plays havoc on day 11, with slopestyle final postponed",
+      "title": "Live: Weather plays havoc on day 11, with aerials, slopestyle final postponed",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8261aca06de4f1a3701889ddc5fc86d8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/395c6cce8c8593f9e227a1cbeda2c05d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=418&amp;width=862&amp;height=485"
       },
-      "description": "Heavy snow is delaying Australia's men's and women's challenge on day 11 at the Winter Olympics, but Ally Hickman will have to wait for her chance in the women's slopestyle final. Follow live.",
+      "description": "Heavy snow has played havoc with the Winter Olympic schedule on day 11, with the women's slopestyle and men's and women's aerials events postponed. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/winter-olympics-day-11-live-blog/106354466"
     },
     {
@@ -232,6 +217,21 @@
       "partition_name": "partition1"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c4488cf1-01af-4b7b-af73-7f0c2e6a8b56",
+      "published_datetime": "2026-02-17T00:34:16.149632",
+      "title": "Trash piles up in Havana as US oil sanctions cripple Cuba",
+      "featured_image": {
+        "url": "https://globalnation.inquirer.net/246914/trash-overwhelms-havana-as-garbage-trucks-lack-parts-fuel",
+        "name": "Trash overwhelms Havana as garbage trucks lack parts, fuel",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--gfvD8vk5--/t_limit/https://globalnation.inquirer.net/files/2024/08/Trash-overwhelms-Havana-as-garbage-trucks-lack-parts-fuel-scaled.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--wPNIWImz--/t_thumbnail/https://globalnation.inquirer.net/files/2024/08/Trash-overwhelms-Havana-as-garbage-trucks-lack-parts-fuel-scaled.jpg"
+      },
+      "description": "Garbage is piling up on street corners across Havana, attracting swarms of flies and emitting the stench of rotting food, as Washington's campaign to cut off oil supplies to Cuba cripples the capital's waste collection system.\n\nOnly 44 of Havana's 106 garbage trucks remain operational due to fuel shortages, state media outlet Cubadebate reported this month, according to Reuters. Cardboard boxes, plastic bottles, used bags, and rags now tower at intersections throughout the coastal city, forcing motorists, pedestrians, and cyclists to navigate around the refuse.[1]\n\n\"It's all over the city,\" resident Jose Ramon Cruz told Reuters. \"It's been more than 10 days since a garbage truck came.\"[1]",
+      "audio_url": "",
+      "url": "trash-piles-up-in-havana-as-us-T_CC7BklRbmOO3VfdDVw4Q",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-17T00:01:38.000000Z",
       "title": "'You make your bed, you lie in it': Albanese's warning to 'ISIS brides' in Syria",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-17T11:33:42.544458"
+  "merged_at": "2026-02-17T12:40:37.293916"
 }
