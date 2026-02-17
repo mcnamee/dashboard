@@ -1,17 +1,92 @@
 {
   "items": [
     {
-      "published_datetime": "2026-02-17T00:16:45.000000Z",
-      "title": "One dead, two critically injured in Sydney stabbing attack",
+      "published_datetime": "2026-02-17T03:45:23.000000Z",
+      "title": "Angus Taylor preparing to unveil shadow ministry",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c80919453e8ed3a26fda8bb20455507d?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/283a0647ef5c0200a412a64e2438341b?impolicy=wcms_crop_resize&amp;cropH=3346&amp;cropW=5949&amp;xPos=200&amp;yPos=598&amp;width=862&amp;height=485"
+      },
+      "description": "The new Liberal leader is expected to announce his shadow ministry on Tuesday afternoon, elevating prominent right-faction supporters such as West Australian MP Andrew Hastie.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/angus-taylor-preparing-to-unveil-shadow-ministry/106354092"
+    },
+    {
+      "published_datetime": "2026-02-17T02:52:49.000000Z",
+      "title": "Crews race to contain central Victorian bushfire ahead of wind change",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/315afa28cc60bc4c8c1597484c46c129?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=192&amp;width=862&amp;height=485"
+      },
+      "description": "The fire at Trawool, south of Seymour, broke out near the Goulburn Valley Highway in central Victoria on a day when half the state was facing extreme fire danger.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/fire-breaks-out-ahead-of-gusty-storms-hot-dry-victoria/106350666"
+    },
+    {
+      "published_datetime": "2026-02-17T02:15:06.000000Z",
+      "title": "How a single Louvre ticket complaint led to the bust of a $16m scam ring",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/79b7f057938a9968986dfe558b4df367?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=126&amp;width=862&amp;height=485"
+      },
+      "description": "Foreign tour guides and staff who were paid to remain silent orchestrated a counterfeit ticketing ring that robbed the Louvre of millions over more than a decade, Parisian prosecutors say.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/how-louvre-ticket-guides-ran-alleged-ticket-fraud-ring/106353046"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2edff8ff-671d-4b39-aedf-b44918138057",
+      "published_datetime": "2026-02-17T02:05:10.052547",
+      "title": "NASA says 15,000 city-killer asteroids remain undetected",
+      "featured_image": {
+        "url": "https://abc7.com/post/asteroid-2024-yr4-will-spare-earth-might-hit-moon-according-nasa/17306049/",
+        "name": "Asteroid that will spare Earth might hit the moon instead, according ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--xHLfyqGM--/t_limit/https://cdn.abcotvs.com/dip/images/17306024_072625-wls-asteroid-moon-6a-vid.jpg%3Fw%3D1600",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--llw8EQqs--/t_thumbnail/https://cdn.abcotvs.com/dip/images/17306024_072625-wls-asteroid-moon-6a-vid.jpg%3Fw%3D1600"
+      },
+      "description": "NASA's head of planetary defense has acknowledged that approximately 15,000 medium-sized asteroids capable of devastating an entire city remain undetected and untracked, leaving Earth vulnerable to a potentially catastrophic strike with little warning.\n\nDr. Kelly Fast, the agency's Acting Planetary Defense Officer, made the admission at the American Association for the Advancement of Science annual meeting in Phoenix, Arizona, which concluded on February 14. She said NASA has only identified about 40 percent of the estimated 25,000 near-Earth asteroids that are at least 140 meters in diameter, the threshold scientists consider capable of causing major regional devastation.[1][2]\n\n\"It's truly the asteroids we are unaware of that keep me up at night,\" Fast said. \"We aren't particularly concerned about the larger ones featured in movies since we know their locations. The smaller objects are constantly entering our atmosphere, and I'm not excessively worried about them. It's the intermediate-sized asteroids that could cause regional damage\u2014while not necessarily global consequences\u2014that truly concern us. And we have no idea where all of them are.\"[2]",
+      "audio_url": "",
+      "url": "nasa-says-15000-city-killer-as-cHyu0UxxSBeY4SVtzPr4Lg",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-02-17T01:51:27.000000Z",
+      "title": "'Too shattering for language': Former ACT commissioner alleges sexual assault",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7c7081399c3db45a03829554725b44ce?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
+      },
+      "description": "Vanessa Turnbull-Roberts says she stepped down as the ACT's first Aboriginal and Torres Strait Islander children and young people commissioner to prioritise her safety after being subjected to sexual harassment and sexual assault by a public servant.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/vanessa-turnbull-roberts-alleges-sexual-assault/106352482"
+    },
+    {
+      "published_datetime": "2026-02-17T01:45:45.000000Z",
+      "title": "Sydney man to be sentenced over 'abhorrent' 40-second rally speech",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/357d8de3ca1b06c5c4607d5293707d56?impolicy=wcms_crop_resize&amp;cropH=934&amp;cropW=1661&amp;xPos=215&amp;yPos=241&amp;width=862&amp;height=485"
+      },
+      "description": "Brandan Koschel was arrested after he appeared on a stage for an open mic session during the anti-immigration March for Australia event in Sydney's Moore Park.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/brandan-koschel-pleads-guilty-australia-day-antisemitic-speech/106353560"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c4488cf1-01af-4b7b-af73-7f0c2e6a8b56",
+      "published_datetime": "2026-02-17T00:34:16.149632",
+      "title": "Trash piles up in Havana as US oil sanctions cripple Cuba",
+      "featured_image": {
+        "url": "https://globalnation.inquirer.net/246914/trash-overwhelms-havana-as-garbage-trucks-lack-parts-fuel",
+        "name": "Trash overwhelms Havana as garbage trucks lack parts, fuel",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--gfvD8vk5--/t_limit/https://globalnation.inquirer.net/files/2024/08/Trash-overwhelms-Havana-as-garbage-trucks-lack-parts-fuel-scaled.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--wPNIWImz--/t_thumbnail/https://globalnation.inquirer.net/files/2024/08/Trash-overwhelms-Havana-as-garbage-trucks-lack-parts-fuel-scaled.jpg"
+      },
+      "description": "Garbage is piling up on street corners across Havana, attracting swarms of flies and emitting the stench of rotting food, as Washington's campaign to cut off oil supplies to Cuba cripples the capital's waste collection system.\n\nOnly 44 of Havana's 106 garbage trucks remain operational due to fuel shortages, state media outlet Cubadebate reported this month, according to Reuters. Cardboard boxes, plastic bottles, used bags, and rags now tower at intersections throughout the coastal city, forcing motorists, pedestrians, and cyclists to navigate around the refuse.[1]\n\n\"It's all over the city,\" resident Jose Ramon Cruz told Reuters. \"It's been more than 10 days since a garbage truck came.\"[1]",
+      "audio_url": "",
+      "url": "trash-piles-up-in-havana-as-us-T_CC7BklRbmOO3VfdDVw4Q",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-02-17T00:16:45.000000Z",
+      "title": "One man dead, two people critically injured in 'random' Sydney stabbing attack",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/095bfd697600addcd07905f7610ea203?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
       },
       "description": "Police were told on arrival at the scene in Merrylands that a man stabbed multiple people before leaving the area on foot.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/nsw-one-dead-two-critical-merrylands-stabbing/106353068"
     },
     {
       "published_datetime": "2026-02-17T00:01:38.000000Z",
-      "title": "'You make your bed, you lie in it': Albanese's warning to ISIS-linked families in Syria",
+      "title": "'You make your bed, you lie in it': Albanese's warning to 'ISIS brides' in Syria",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d849d23ad5ff961a368f63f5188b1086?impolicy=wcms_crop_resize&amp;cropH=971&amp;cropW=1726&amp;xPos=75&amp;yPos=109&amp;width=862&amp;height=485"
       },
@@ -41,15 +116,6 @@
       },
       "description": "To the surprise of many, the \"beach nation\" that is Australia is the best moguls skiing nation on earth. How the team got there is no accident.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/australia-winter-olympics-moguls-dominance/106346256"
-    },
-    {
-      "published_datetime": "2026-02-16T22:15:12.000000Z",
-      "title": "Highly sensitive court data accessed by entity based in India",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a873fb7788bf1205d0fbaab6399b7cb?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=81&amp;width=862&amp;height=485"
-      },
-      "description": "Highly sensitive Australian court files have been accessed offshore in breach of the privacy act and Commonwealth contractual obligations, an ABC investigation has revealed, raising concerns of a national security risk.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-17/transcripts-federal-court-viq-solutions-e24-technologies-india/106349338"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8dce914d-4135-42be-a3f1-944ced3ac216",
@@ -83,30 +149,12 @@
     },
     {
       "published_datetime": "2026-02-16T20:16:49.000000Z",
-      "title": "Live: Coles defends 'Down Down' discounts in major ACCC case",
+      "title": "Live: 'Too complex': Coles lawyer says grocery prices tough to understand",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a6f9a6bbc3adaab6368dc97696668d65?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Coles faces hearings on accusations of misleading customers on discounts. The Australian share market opens higher. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/asx-markets-business-news-live-updates-feb-17/106352262"
-    },
-    {
-      "published_datetime": "2026-02-16T20:08:52.000000Z",
-      "title": "What we know about the IS-linked families who want to return to Australia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b909f2de1b06703a90823bebc9e4d4f6?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=69&amp;width=862&amp;height=485"
-      },
-      "description": "Australia has made limited progress in clearing a passage for the Australian women and their children, citing safety issues in and around the camps, and security concerns back home.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-17/what-we-know-about-is-linked-families-who-want-to-return-home/106352074"
-    },
-    {
-      "published_datetime": "2026-02-16T19:33:44.000000Z",
-      "title": "Concerns after 200 dogs found on breeder's property",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7405668a4558adfbe3bca81d446db2a4?impolicy=wcms_crop_resize&amp;cropH=338&amp;cropW=600&amp;xPos=0&amp;yPos=462&amp;width=862&amp;height=485"
-      },
-      "description": "The breeder's puppies were once featured on Kleenex commercials but it is now under scrutiny from the RSPCA and other pet organisations.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-17/silverstream-labradors-under-scrutiny-after-200-dogs-discovered/106243784"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9c901ddc-a21d-4034-9e30-5ee5392c9414",
@@ -193,54 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cad60469-9df1-490c-a959-06d9b6f4febe",
-      "published_datetime": "2026-02-16T15:12:08.550232",
-      "title": "EU's Kallas rejects US criticism, urges Europe to 'reclaim agency'",
-      "featured_image": {
-        "url": "https://news.err.ee/1609255530/kaja-kallas-attends-munich-security-conference",
-        "name": "Kaja Kallas attends Munich Security Conference | News | ERR",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--nbDBEqWm--/t_limit/https://i.err.ee/smartcrop%3Ftype%3Doptimize%26width%3D1472%26aspectratio%3D16%253A10%26url%3Dhttps%253A%252F%252Fs.err.ee%252Fphoto%252Fcrop%252F2024%252F02%252F16%252F2261367h2f23.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ON0HeTvW--/t_thumbnail/https://i.err.ee/smartcrop%3Ftype%3Doptimize%26width%3D1472%26aspectratio%3D16%253A10%26url%3Dhttps%253A%252F%252Fs.err.ee%252Fphoto%252Fcrop%252F2024%252F02%252F16%252F2261367h2f23.jpg"
-      },
-      "description": "The 62nd Munich Security Conference concluded Sunday with European leaders sending a clear message: the continent must take greater responsibility for its own defense amid shifting transatlantic dynamics. Over three days of discussions, top officials outlined plans for increased military spending, nuclear deterrence cooperation, and reduced dependence on Washington.\n\nEU foreign policy chief Kaja Kallas rejected American criticism of Europe, pushing back against suggestions that \"woke and decadent Europe\" faces \"civilizational erasure.\" Speaking at the conference's closing session, Kallas outlined three priorities: defending Europe starting with Ukraine, securing the neighborhood through EU enlargement, and building global partnerships. She warned that Russia \"must not gain more at the negotiating table than it has achieved on the battlefield.\"[1][2][3][4]",
-      "audio_url": "",
-      "url": "munich-security-conference-hig-fOwUWYx3SsCFQx.dWmgVfg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6f719914-59fb-466a-abc1-c51137c7ef5b",
-      "published_datetime": "2026-02-16T15:11:40.290304",
-      "title": "Russia offers to halt strikes if Ukraine holds elections",
-      "featured_image": {
-        "url": "https://www.yahoo.com/news/articles/russia-revives-election-day-truce-180548717.html",
-        "name": "Russia revives election-day truce offer, proposes UN rule for Ukraine",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--SY__5uuH--/t_limit/https://s.yimg.com/os/en/kyiv_independent_articles_496/682697509fe0048d9df75a65beac2957",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--52gvzvjS--/t_thumbnail/https://s.yimg.com/os/en/kyiv_independent_articles_496/682697509fe0048d9df75a65beac2957"
-      },
-      "description": "Russian Deputy Foreign Minister Mikhail Galuzin announced Saturday that Moscow is prepared to suspend airstrikes on election day if Ukraine holds presidential polls, reiterating an earlier offer from President Vladimir Putin while questioning the legitimacy of President Volodymyr Zelensky's government.\n\nThe announcement comes days before a new round of trilateral talks between Russia, the United States, and Ukraine scheduled for February 17-18 in Geneva, and as Washington continues pressing Kyiv to hold elections as a condition for U.S. security guarantees.",
-      "audio_url": "",
-      "url": "russia-offers-to-halt-airstrik-rKtOK0m9R_WFluHwJgp85g",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-16T10:12:47.000000Z",
-      "title": "Taylor fails to offer original housing plan, denies knowledge of Ley immigration policy",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2eb3661a9cc696575d4af91a50fde160?impolicy=wcms_crop_resize&amp;cropH=857&amp;cropW=1523&amp;xPos=193&amp;yPos=44&amp;width=862&amp;height=485"
-      },
-      "description": "Opposition Leader Angus Taylor says he does not know anything about Sussan Ley's proposed immigration policy and that \"more supply\" is key to solving Australia's housing crisis.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-16/angus-taylor-denies-knowledge-of-immigration-policy/106351264"
-    },
-    {
-      "published_datetime": "2026-02-16T09:14:26.000000Z",
-      "title": "Australian women and children with links to ISIS forced to head back to camp in Syria",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ec561a81d95a4f09d68bdd15dd2113fa?impolicy=wcms_crop_resize&amp;cropH=492&amp;cropW=875&amp;xPos=0&amp;yPos=127&amp;width=862&amp;height=485"
-      },
-      "description": "A group of Australian families with links to Islamic State fighters are forced to turn around after leaving a camp in Syria to try and begin their journey home to Australia.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-16/australian-families-with-isis-links-leave-camp-in-syria/106351298"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-17T01:17:36.886756"
+  "merged_at": "2026-02-17T04:10:53.833259"
 }
