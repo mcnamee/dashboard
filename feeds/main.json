@@ -1,17 +1,80 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-17T06:19:46.000000Z",
+      "title": "Iran launches military drill as US deploys aircraft carrier on eve of nuclear talks",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f3264e4afb45367092bf783d4d2e5bd1?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Representatives from the two nations are set to meet in Geneva on Tuesday, local time, as US President Donald Trump tries to curb Tehran's nuclear program.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/iran-us-military-drill-trump-geneva-nuclear-talks/106353940"
+    },
+    {
+      "published_datetime": "2026-02-17T05:47:24.000000Z",
+      "title": "Third cocaine seizure brings French Polynesia haul to $2.4 billion",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a0e51108bb96efd962c4ee2cf2bb10f0?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=64&amp;width=862&amp;height=485"
+      },
+      "description": "French authorities seized a 2.4-tonne drug shipment near French Polynesia during a joint operation with the United States.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-17/french-polynesia-third-drug-shipment-cocaine/106352864"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d00c05bd-8ca0-4790-880e-e74f35a81403",
+      "published_datetime": "2026-02-17T05:36:04.119293",
+      "title": "China's clean energy capacity surpasses fossil fuels for first time",
+      "featured_image": {
+        "url": "https://www.abc.net.au/news/science/2024-07-16/chinas-renewable-energy-boom-breaks-records/104086640",
+        "name": "China is installing the wind and solar equivalent of five ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--S0I6tAGC--/t_limit/https://live-production.wcms.abc-cdn.net.au/bd73f7cfe5d5b9fd4ba7bc1a37b829df%3Fimpolicy%3Dwcms_crop_resize%26cropH%3D2246%26cropW%3D3992%26xPos%3D0%26yPos%3D245%26width%3D862%26height%3D485",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--6qQeFzy1--/t_thumbnail/https://live-production.wcms.abc-cdn.net.au/bd73f7cfe5d5b9fd4ba7bc1a37b829df%3Fimpolicy%3Dwcms_crop_resize%26cropH%3D2246%26cropW%3D3992%26xPos%3D0%26yPos%3D245%26width%3D862%26height%3D485"
+      },
+      "description": "China has crossed a historic threshold in its energy transition, with clean energy sources now accounting for more installed power capacity than fossil fuels for the first time, according to new data from Global Energy Monitor. As of February 2026, 52% of China's operating power capacity comes from non-fossil fuel sources, while 48% is derived from coal, natural gas, and other fossil fuels.[1][2][3]\n\nThe milestone places the world's largest carbon emitter alongside Brazil, France, and Germany as economies predominantly powered by clean energy. Yet China's continued construction of coal-fired power plants at record levels underscores the tensions between its climate ambitions and energy security concerns.",
+      "audio_url": "",
+      "url": "china-s-clean-energy-capacity-0FP_d7DkROi.Af7bOxIoOA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e63d8b82-a095-427a-b403-d47e8b2ddf35",
+      "published_datetime": "2026-02-17T05:24:31.938822",
+      "title": "Oil holds steady as US-Iran nuclear talks resume in Geneva",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/2/16/iran-launches-naval-drills-ahead-of-us-nuclear-talks",
+        "name": "Iran launches naval drills ahead of US nuclear talks",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--m4cFqGns--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/02/image-1771259579.jpg%3Fresize%3D1920%252C1080%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--kuSiZnac--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/02/image-1771259579.jpg%3Fresize%3D1920%252C1080%26quality%3D80"
+      },
+      "description": "Oil prices held steady on Tuesday as traders weighed supply disruption risks following Iranian naval exercises near the Strait of Hormuz, with attention focused on high-stakes nuclear talks between the United States and Iran set to begin later in the day in Geneva.\n\nBrent crude futures edged lower by 0.2 percent, while U.S. West Texas Intermediate held near Monday's closing levels, according to Reuters. Market participants are watching whether the negotiations could ease tensions or set the stage for further escalation in a region that accounts for roughly a fifth of global oil shipments.[1][2]",
+      "audio_url": "",
+      "url": "oil-holds-steady-as-us-iran-nu-v_9dIp8aTMSP3CeG9y1qQQ",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/207fefb1-22e7-4e40-bf57-21d316841200",
+      "published_datetime": "2026-02-17T05:24:04.463186",
+      "title": "Report finds 74% of Big Tech's AI climate claims lack evidence",
+      "featured_image": {
+        "url": "https://www.the-independent.com/climate-change/news/google-climate-emissions-ai-data-centers-b2572865.html",
+        "name": "Google blames AI for growing emissions that threaten its climate goals",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--vV0CB0Rn--/t_limit/https://static.the-independent.com/2022/11/22/19/iStock-1185692039.jpg%3Fquality%3D75%26width%3D1200%26auto%3Dwebp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--rMjV08ID--/t_thumbnail/https://static.the-independent.com/2022/11/22/19/iStock-1185692039.jpg%3Fquality%3D75%26width%3D1200%26auto%3Dwebp"
+      },
+      "description": "A new analysis has found that the vast majority of claims from technology companies about artificial intelligence's potential to combat climate change are unsupported by evidence, with researchers warning that the energy-intensive nature of generative AI may actually worsen global emissions.\n\nThe report, released on February 17 by climate nonprofits Beyond Fossil Fuels and Climate Action Against Disinformation, examined 154 statements from industry and institutional sources claiming AI would deliver net climate benefits. According to the study, 74 percent of these assertions lacked any verifiable evidence.[1][2]",
+      "audio_url": "",
+      "url": "report-finds-74-of-big-tech-s-tEXHckKVTYWeb85WarlgRQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-17T05:06:54.000000Z",
-      "title": "Emergency bushfire warning for area south of Launceston",
+      "title": "Fire crews battle blaze south of Launceston",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40a28c209165245826dd3d48c80a53fe?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=79&amp;width=862&amp;height=485"
       },
-      "description": "The Tasmania Fire Service has issued an emergency bushfire warning for an area south of Launceston.",
+      "description": "The Tasmania Fire Service has downgraded an emergency bushfire warning for an area south of Launceston, with helicopters and ground crews in attendance.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/bushfire-warning-for-area-south-of-launceston/106355122"
     },
     {
       "published_datetime": "2026-02-17T04:33:13.000000Z",
-      "title": "Coles downplays meaning of 'Down Down' pricing in federal court case",
+      "title": "Are discounts fair dinkum? Coles' 'Down Down' pricing in the spotlight",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/908a7a1cc58b97dd09848f016ecac8b1?impolicy=wcms_crop_resize&amp;cropH=1971&amp;cropW=3504&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
       },
@@ -20,9 +83,9 @@
     },
     {
       "published_datetime": "2026-02-17T04:25:47.000000Z",
-      "title": "Breaking: Man who allegedly threw homemade bomb in Invasion Day rally crowd named",
+      "title": "Man who allegedly threw homemade bomb in Invasion Day rally crowd named",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/44401ef92d7ac58a9daf23a87e3bce3f?impolicy=wcms_crop_resize&amp;cropH=971&amp;cropW=1726&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/934a3e0e2e2ca73c67044baf5176f40a?impolicy=wcms_crop_resize&amp;cropH=506&amp;cropW=900&amp;xPos=0&amp;yPos=21&amp;width=862&amp;height=485"
       },
       "description": "The man accused of throwing a bomb at Invasion Day protesters in an alleged terrorism act attack in Perth can be named as Liam Alexander Hall.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-17/invasion-day-alleged-terror-act-liam-alexander-hall/106353674"
@@ -85,15 +148,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-17T01:51:27.000000Z",
-      "title": "'Too shattering for language': Former ACT commissioner alleges sexual assault",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7c7081399c3db45a03829554725b44ce?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
-      },
-      "description": "Vanessa Turnbull-Roberts says she stepped down as the ACT's first Aboriginal and Torres Strait Islander children and young people commissioner to prioritise her safety after being subjected to sexual harassment and sexual assault by a public servant.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-17/vanessa-turnbull-roberts-alleges-sexual-assault/106352482"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c4488cf1-01af-4b7b-af73-7f0c2e6a8b56",
       "published_datetime": "2026-02-17T00:34:16.149632",
       "title": "Trash piles up in Havana as US oil sanctions cripple Cuba",
@@ -133,15 +187,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-16T22:21:23.000000Z",
-      "title": "'How the hell' does Australia dominate moguls? The answer is no secret",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed8b4a97a2287cd692a3a9da90c2be0b?impolicy=wcms_crop_resize&amp;cropH=2671&amp;cropW=4748&amp;xPos=252&amp;yPos=325&amp;width=862&amp;height=485"
-      },
-      "description": "To the surprise of many, the \"beach nation\" that is Australia is the best moguls skiing nation on earth. How the team got there is no accident.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-17/australia-winter-olympics-moguls-dominance/106346256"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8dce914d-4135-42be-a3f1-944ced3ac216",
       "published_datetime": "2026-02-16T22:14:04.942521",
       "title": "Google DeepMind says AlphaFold now used by 3 million researchers",
@@ -173,7 +218,7 @@
     },
     {
       "published_datetime": "2026-02-16T20:03:51.000000Z",
-      "title": "Live: Angus Taylor unveils overhauled shadow cabinet following spill",
+      "title": "Live: Ley backers demoted from shadow cabinet as Taylor unveils new front bench",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/402b622790f84fa80d36f1677fca92ac?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -193,51 +238,6 @@
       "description": "Prime Minister Mark Carney is pursuing negotiations to forge links between the European Union and the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), a move that could unite nearly 40 nations in a coordinated framework to counter American protectionism.\n\nPolitico reported Monday that the Canadian government is spearheading talks between the 27-member EU and the 11-nation CPTPP to explore harmonized \"rules of origin\" that would allow manufacturers across both blocs to trade goods and components more smoothly through a mechanism called cumulation. If formalized, this arrangement would create an integrated trade architecture spanning both sides of the globe, designed to reduce vulnerability to tariff threats from Washington.[1][2]",
       "audio_url": "",
       "url": "canada-leads-talks-to-link-eu-4BZ2YL25SXuZlN1UNi3WqQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d33bccfe-e8c4-424d-bb17-bd0018341cb4",
-      "published_datetime": "2026-02-16T18:11:48.070560",
-      "title": "Italy's Meloni publicly rejects German chancellor's MAGA criticism",
-      "featured_image": {
-        "url": "https://www.cnn.com/2022/10/21/europe/giorgia-meloni-italy-first-female-prime-minister-intl",
-        "name": "Far-right leader Giorgia Meloni named as Italy's first ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--bwqNjPiB--/t_limit/https://media.cnn.com/api/v1/images/stellar/prod/221021082039-giorgia-meloni-1010-restricted.jpg%3Fq%3Dw_1110%2Cc_fill",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--mTjr7SDI--/t_thumbnail/https://media.cnn.com/api/v1/images/stellar/prod/221021082039-giorgia-meloni-1010-restricted.jpg%3Fq%3Dw_1110%2Cc_fill"
-      },
-      "description": "The alliance between Italy and Germany that emerged as a new force in European politics faces its first test after Italian Prime Minister Giorgia Meloni publicly disagreed with German Chancellor Friedrich Merz over his criticism of the American MAGA movement, exposing divergent visions of transatlantic relations just weeks after the leaders pledged closer cooperation.\n\n\"I do not agree\" with Merz's remarks against MAGA culture, Meloni told Corriere della Sera and other Italian newspapers on February 15, returning from the African Union Assembly in Addis Ababa. While she endorsed Merz's call for Europe to strengthen its security capabilities and build a \"European pillar of NATO,\" Meloni declined to echo his broader critique of the American political movement.[1][2]",
-      "audio_url": "",
-      "url": "meloni-breaks-with-merz-on-mag-pCkoBgPASYKqhRZeZ9OJGg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5097f507-93e0-4aa6-9482-8a44267e7515",
-      "published_datetime": "2026-02-16T17:35:32.533953",
-      "title": "Finland warns Russia is building military bases on its border",
-      "featured_image": {
-        "url": "https://www.euronews.com/my-europe/2026/02/16/russia-reinforcing-nuclear-and-arctic-assets-near-finnish-border-defence-minister-warns",
-        "name": "Russia reinforcing nuclear and Arctic assets near Finnish ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--07328Ts3--/t_limit/https://images.euronews.com/articles/stories/09/65/18/84/1536x864_cmsv2_f60ac634-a142-51e7-8d34-f9aad281062f-9651884.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--aVOvxfn---/t_thumbnail/https://images.euronews.com/articles/stories/09/65/18/84/1536x864_cmsv2_f60ac634-a142-51e7-8d34-f9aad281062f-9651884.jpg"
-      },
-      "description": "Finnish Defense Minister Antti H\u00e4kk\u00e4nen warned this weekend that Russia is reinforcing its strategic nuclear presence in the Arctic and constructing new military facilities along Finland's border, signaling an intensifying security threat to Europe's northern flank.\n\n\"Russia has most of their biggest strategic capabilities in nuclear, submarines, long-range bombers in the Kola Peninsula area,\" H\u00e4kk\u00e4nen told Euronews on the sidelines of the Munich Security Conference, which concluded Sunday. \"They are building new military facilities along our border, the same as during the Cold War. It would be wise to watch the Arctic and build Arctic capabilities.\"[1]\n\nThe Kola Peninsula, a 100,000-square-kilometer region in far northwestern Russia, hosts the majority of the country's sea-based strategic nuclear arsenal, including submarines and long-range aviation assets.[2][3]",
-      "audio_url": "",
-      "url": "russia-expands-nuclear-assets-Gpkm2DrwSw.Gr9lSu6B5Xg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e32e3355-4bb6-422f-9e5b-93dac5e67a6e",
-      "published_datetime": "2026-02-16T17:10:34.466844",
-      "title": "Cuba activates 1990s-era rationing plan as Trump oil blockade deepens",
-      "featured_image": {
-        "url": "https://www.bbc.com/news/world-latin-america-48237319",
-        "name": "Cuba to increase rationing amid shortages",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--U_6a3dGj--/t_limit/https://c.files.bbci.co.uk/71D5/production/_106914192_tv053872633.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--cbeMoAMx--/t_thumbnail/https://c.files.bbci.co.uk/71D5/production/_106914192_tv053872633.jpg"
-      },
-      "description": "Cuba is facing its most severe fuel shortage since the collapse of the Soviet Union as the Trump administration's oil blockade deepens, prompting the communist government to activate emergency rationing measures while Washington simultaneously delivers humanitarian aid through the Catholic Church.\n\nThe Cuban government has announced it is implementing what it calls \"Option Zero,\" a contingency plan conceived during the 1990s Special Period that contemplates extreme rationing, local food self-sufficiency, and the use of animal traction for transport. President Miguel D\u00edaz-Canel recently confirmed the country has entered this phase, pledging to guarantee seven pounds of rice monthly per person while prioritizing locally produced goods.[1]",
-      "audio_url": "",
-      "url": "us-tightens-oil-blockade-on-cu-X5fUF_noRDCl7PWhqDJdlQ",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-17T05:52:46.487608"
+  "merged_at": "2026-02-17T06:47:09.078368"
 }
