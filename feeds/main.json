@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-18T15:07:23.000000Z",
+      "title": "Putin's Russia 'a complete s**t show' as Ukraine reclaims chunks of land",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5c79f6b02222e69019a913d45dddd45a?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=36&amp;width=862&amp;height=485"
+      },
+      "description": "Ukraine has made its largest battlefield gains in more than two-and-a-half years, retaking more than 200 square kilometres of its territory from Russia in just five days, according to a new analysis.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/ukraine-reclaims-territory-as-musk-blocks-russian-army-internet/106356642"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1bbd3751-07e6-48d9-83b3-34468cbbc761",
+      "published_datetime": "2026-02-18T14:37:57.821504",
+      "title": "US futures rise as tech recovers, Europe's Stoxx 600 hits record",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/02/16/ai-fears-hitting-software-stocks-citi-sees-opportunity-in-many-names.html",
+        "name": "AI fears are hitting software stocks the hardest. Citi sees a buying opportunity in many names",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--tLcHpI85--/t_limit/https://image.cnbcfm.com/api/v1/image/108180561-1757341872147-108180561-1754063685306-IMG_8809.jpg%3Fv%3D1765479495%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--j59w7W32--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108180561-1757341872147-108180561-1754063685306-IMG_8809.jpg%3Fv%3D1765479495%26w%3D1920%26h%3D1080"
+      },
+      "description": "US stock futures advanced on Wednesday as technology shares recovered from recent declines and concerns over artificial intelligence-driven disruptions eased. European equities also climbed, with the Stoxx Europe 600 Index reaching a record high ahead of the release of the Federal Reserve's January meeting minutes.",
+      "audio_url": "",
+      "url": "us-futures-rise-as-tech-recove-7_1e8IggTF.aHXZt4lFmyQ",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b3455d24-5c7e-45b4-bf84-b9e36654b700",
+      "published_datetime": "2026-02-18T14:36:28.277484",
+      "title": "Astronomers find 'missing link' galaxies from early universe",
+      "featured_image": {
+        "url": "https://scitechdaily.com/astronomers-discover-a-dusty-primordial-star-forming-galaxy/",
+        "name": "Astronomers Discover A Dusty Primordial Star Forming Galaxy",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--4qMGHcFf--/t_limit/https://scitechdaily.com/images/A-Primordial-Star-Forming-Galaxy.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--hMdsLizu--/t_thumbnail/https://scitechdaily.com/images/A-Primordial-Star-Forming-Galaxy.jpg"
+      },
+      "description": "An international team of 48 astronomers from 14 countries, led by the University of Massachusetts Amherst, has identified a population of dusty, star-forming galaxies at the far edges of the universe that formed approximately one billion years after the Big Bang. The discovery, published in The Astrophysical Journal Letters, may represent a \"missing link\" in the timeline of galaxy evolution.[1][2][3]",
+      "audio_url": "",
+      "url": "astronomers-find-missing-link-KDGlw4mXQtmxjGzP1aNMSQ",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9596aaca-3cbb-4b04-a3ec-5d3aea66d37d",
+      "published_datetime": "2026-02-18T14:01:49.229526",
+      "title": "European stocks hit record high as US-Iran talks show progress",
+      "featured_image": {
+        "url": "https://sightmagazine.com.au/news/iran-foreign-minister-says-progress-made-in-nuclear-talks-with-us-in-geneva/",
+        "name": "Iran foreign minister says progress made in nuclear talks ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--wg4T5RxH--/t_limit/https://sightmagazine.com.au/wp-content/uploads/2026/02/Switzerland-Geneva-Abbas-Araqchi-170226009.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--lM3WGlT---/t_thumbnail/https://sightmagazine.com.au/wp-content/uploads/2026/02/Switzerland-Geneva-Abbas-Araqchi-170226009.jpg"
+      },
+      "description": "Global equities advanced on Wednesday as investors welcomed signs of diplomatic progress between the United States and Iran following their second round of nuclear negotiations in Geneva, while oil prices hovered near two-week lows on hopes that a potential deal could ease supply disruption risks.\n\nThe STOXX 600 rose 0.8% to a record high of 626.36, led by gains in defense and banking stocks. Japan's Nikkei 225 climbed 1.02% to close at 57,143.84, snapping a four-day losing streak. Several major Asian markets, including China, Hong Kong, South Korea, and Taiwan, remained closed for Lunar New Year holidays.[1][2][3]",
+      "audio_url": "",
+      "url": "european-stocks-hit-record-hig-fCP2iU2KSMKxUn0me7zR1w",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-18T13:08:31.000000Z",
       "title": "'Blatant' fake discounting by retailers in ACCC's sights",
       "featured_image": {
@@ -8,6 +62,21 @@
       },
       "description": "ACCC chair Gina Cass-Gottlieb outlines the consumer watchdog's priorities for 2026, including targeting \"blatant\" fake discounting.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/accc-outlines-priorities-for-2026-including-fake-discounting/106359994"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2fecfbc8-0de6-419c-9142-78f9863adfb4",
+      "published_datetime": "2026-02-18T12:22:50.255731",
+      "title": "New Zealand startup achieves world-first levitated magnet plasma confinement",
+      "featured_image": {
+        "url": "https://interestingengineering.com/energy/first-plasma-confinement-via-levitated-magnet",
+        "name": "Half-ton magnet aces world-first 1.8 million\u00b0F fusion plasma ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--nxRSEfWS--/t_limit/https://interestingengineering.com/_next/image%3Furl%3Dhttps%253A%252F%252Fcms.interestingengineering.com%252Fwp-content%252Fuploads%252F2026%252F02%252FOpenStar.jpg%26w%3D3840%26q%3D75",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--aLcWk56m--/t_thumbnail/https://interestingengineering.com/_next/image%3Furl%3Dhttps%253A%252F%252Fcms.interestingengineering.com%252Fwp-content%252Fuploads%252F2026%252F02%252FOpenStar.jpg%26w%3D3840%26q%3D75"
+      },
+      "description": "A Wellington-based startup achieved what it describes as a world-first in nuclear fusion technology this week, demonstrating plasma confinement using a fully levitated superconducting magnet. The milestone drew New Zealand's Prime Minister to witness the event firsthand, as the small South Pacific nation positions itself as an unexpected player in the global race for clean energy.\n\nOpenStar Technologies publicly showcased its \"Junior\" prototype on February 16, successfully confining plasma while a 560-kilogram superconducting magnet hovered inside a vacuum chamber without mechanical support or external power connections. Prime Minister Christopher Luxon attended alongside Ministers Shane Jones and Christopher Bishop, with Luxon himself initiating plasmas in the device.[1][2][3]",
+      "audio_url": "",
+      "url": "new-zealand-startup-achieves-w-X82Lxr1mQvKwloJkLJ4cTg",
+      "partition_name": "partition1"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/438a5cfa-1ea3-4777-9fbb-837a29ade48e",
@@ -113,11 +182,11 @@
     },
     {
       "published_datetime": "2026-02-18T08:35:01.000000Z",
-      "title": "Live: Australia's Dani Scott wins silver in women's aerials",
+      "title": "Live: Frightening scenes as Aussie teen Hickman crashes in slopestyle final",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eeb25a64d18bb693b031b02deb4324ab?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=31&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a981c279c65db28240ab4cffa449f41b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=239&amp;width=862&amp;height=485"
       },
-      "description": "Australia's Danielle Scott has won silver in the women's aerials at Livigno, with Ally Hickman still to contest the women's slopestyle final on day 12 at the Winter Olympics. Follow live.",
+      "description": "Ally Hickman's slopestyle final is halted by a frightening crash that leaves her motionless on the course as Danielle Scott delivers Australia its sixth medal of the Winter Olympics. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-18/winter-olympics-day-12-live-blog/106358928"
     },
     {
@@ -128,15 +197,6 @@
       },
       "description": "Victoria loses the rights to host the Australian Motorcycle Grand Prix, ending a three-decade association with the event.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-18/victoria-loses-motogp-after-refusing-to-move-from-phillip-island/106360086"
-    },
-    {
-      "published_datetime": "2026-02-18T06:35:58.000000Z",
-      "title": "'Complete keyboard warrior' sentenced for 'unsavoury' posts about police officer",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/653398bdb1f66a6f5fc4263090bacc6c?impolicy=wcms_crop_resize&amp;cropH=618&amp;cropW=1098&amp;xPos=481&amp;yPos=386&amp;width=862&amp;height=485"
-      },
-      "description": "A man who a court heard fell victim to an \"explosion\" of extremist views and misinformation has been convicted of stalking and intimidating a Hunter Valley police officer.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-18/sovereign-citizen-convicted-stalking-nsw-police-officer/106358344"
     },
     {
       "published_datetime": "2026-02-18T06:17:20.000000Z",
@@ -179,66 +239,6 @@
       },
       "description": "Ahead of the inaugural meeting of US President Donald Trump's Board of Peace, charged with leading the way forward in Gaza, Indonesian President Prabowo Subianto faces perhaps his most significant foreign policy test yet.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-18/donald-trump-first-meeting-board-of-peace-indonesian-president/106348628"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c55795be-2229-466d-8477-6b26b4396f72",
-      "published_datetime": "2026-02-18T01:31:25.171041",
-      "title": "Japan's parliament set to reappoint Takaichi as prime minister",
-      "featured_image": {
-        "url": "https://thehill.com/homenews/ap/ap-international/ap-takaichi-will-be-reappointed-as-japans-prime-minister-with-a-goal-of-pushing-to-the-right/",
-        "name": "Takaichi will be reappointed as Japan's prime minister with ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--W4mpicj0--/t_limit/https://thehill.com/wp-content/uploads/sites/2/2026/02/69950bb8a0c607.64887817.jpeg%3Fw%3D900",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--pHBo1wh_--/t_thumbnail/https://thehill.com/wp-content/uploads/sites/2/2026/02/69950bb8a0c607.64887817.jpeg%3Fw%3D900"
-      },
-      "description": "Japanese Prime Minister Sanae Takaichi is set to be reappointed on Wednesday following her landslide election victory on February 8, which gave her Liberal Democratic Party a historic two-thirds supermajority in the lower house of parliament. Though the reappointment is largely ceremonial, Takaichi intends to leverage the day's symbolism to advance her conservative agenda on defense, immigration, and social policy.[1][2][3][4]\n\nThe LDP won 316 of the 465 seats in the powerful lower house\u2014its biggest electoral triumph in the party's seven-decade history, according to public broadcaster NHK. Together with its coalition partner, the Japan Innovation Party, the ruling bloc commands 352 seats. This supermajority gives Takaichi the ability to override opposition vetoes in the upper house, where the coalition lacks a majority.[2][5][6][7][8]",
-      "audio_url": "",
-      "url": "japan-s-parliament-set-to-reap-LmlkjoghRi6l9aShZfsnZw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3d5f816c-40d7-467d-9eea-35872f5fb46f",
-      "published_datetime": "2026-02-18T00:16:42.295635",
-      "title": "US and Iran reach 'guiding principles' in Geneva nuclear talks",
-      "featured_image": {
-        "url": "https://www.axios.com/2026/02/17/trump-iran-nuclear-deal-talks-geneva-progress",
-        "name": "U.S. and Iran say progress made in Geneva nuclear talks",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--l00Kd4tx--/t_limit/https://images.axios.com/3ntprYp6N-98oEdkdkEhgoGCvSg%3D/0x306:5000x3119/1366x768/2026/02/17/1771339543148.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--YE5ba0E7--/t_thumbnail/https://images.axios.com/3ntprYp6N-98oEdkdkEhgoGCvSg%3D/0x306:5000x3119/1366x768/2026/02/17/1771339543148.jpg"
-      },
-      "description": "U.S. stock markets closed with modest gains on Tuesday as investors balanced easing geopolitical tensions from progress in U.S.-Iran nuclear talks against persistent concerns about artificial intelligence disrupting traditional industries. Gold fell more than 2% as safe-haven demand weakened following signs of diplomatic progress in Geneva.\n\nThe S&P 500 rose 0.1% to 6,843.22 after swinging between a gain of 0.5% and a loss of nearly 1% during a volatile session, according to the Associated Press. The Dow Jones Industrial Average and Nasdaq Composite also each gained 0.1%, with trading volumes reduced following Monday's Presidents' Day holiday.[1][2][3]",
-      "audio_url": "",
-      "url": "us-and-iran-reach-guiding-prin-ThsrvL3aRmiZXvRiZlvG5g",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c7bd696d-8ff7-4d6b-abe5-5e2a901a2037",
-      "published_datetime": "2026-02-17T23:03:50.851306",
-      "title": "Ramadan begins in Gaza amid fragile ceasefire and muted spirit",
-      "featured_image": {
-        "url": "https://www.axios.com/2025/03/01/ramadan-gaza-muslims-ceasefire",
-        "name": "Ramadan kicks off in Gaza amid ceasefire deal: In photos",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--UdCy4i0---/t_limit/https://images.axios.com/2NMKo9cbCGPJDPPBi4xRFXpGyak%3D/0x0:5760x3240/1920x1080/2025/03/01/1740850769079.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--slyFQB8E--/t_thumbnail/https://images.axios.com/2NMKo9cbCGPJDPPBi4xRFXpGyak%3D/0x0:5760x3240/1920x1080/2025/03/01/1740850769079.jpg"
-      },
-      "description": "Palestinians in Gaza prepare to observe Ramadan beginning Wednesday under a tenuous ceasefire agreement, but the weight of war losses and grinding daily hardships have muted the spirit typically associated with the Muslim holy month.\n\n\"There is no joy. We lost family and loved ones,\" Fedaa Ayyad, a Gaza City resident, told the Associated Press. \"Even if we attempt to adapt to the situation, we can't genuinely feel it in our hearts. I am one of those who cannot sense the spirit of Ramadan.\"[1]\n\nThe holy month, normally a time for family gatherings, spiritual reflection, and acts of charity, arrives as Gaza endures its third consecutive Ramadan under the shadow of Israel's military campaign, which has killed more than 72,000 Palestinians\u2014mostly women and children\u2014and injured over 171,000 since October 2023.[2][3]",
-      "audio_url": "",
-      "url": "ramadan-begins-in-gaza-amid-fr-ckiAS4mAQq.5dqX5ePPzgg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4d013cc8-d385-481b-976e-80f221736836",
-      "published_datetime": "2026-02-17T22:59:54.329894",
-      "title": "Study finds climate change intensified Valencia's deadly 2024 floods",
-      "featured_image": {
-        "url": "https://www.click2houston.com/news/world/2024/10/31/climate-change-is-making-extreme-downpours-in-spain-heavier-and-more-likely-scientists-say/",
-        "name": "Climate change is making extreme downpours in Spain heavier ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--fF6oiDGS--/t_limit/https://res.cloudinary.com/graham-media-group/image/upload/q_auto/c_scale%2Cw_640/v1/media/gmg/OBXFOJM5AFDO5OXCXRX7RDVA3A.jpg%3F_a%3DDAJHqpE%2BZAAA",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--aWGiX0nh--/t_thumbnail/https://res.cloudinary.com/graham-media-group/image/upload/q_auto/c_scale%2Cw_640/v1/media/gmg/OBXFOJM5AFDO5OXCXRX7RDVA3A.jpg%3F_a%3DDAJHqpE%2BZAAA"
-      },
-      "description": "A study published this week in Nature Communications has concluded that human-caused climate change substantially amplified the catastrophic flash floods that struck Valencia, Spain in October 2024, killing 230 people in one of the deadliest natural disasters in modern Spanish history.\n\nThe research, led by scientists from several Spanish research centers, found that present-day global warming conditions increased precipitation intensity by 21 percent over a six-hour period compared to what would have occurred in pre-industrial times. The study also determined that climate change expanded the area receiving more than 180 millimeters of rain by 55 percent and raised total rainfall volume in the J\u00facar River basin by 19 percent.[1][2]",
-      "audio_url": "",
-      "url": "study-finds-climate-change-int-AJbpMdRWRWiMcmu.maxNtQ",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-18T14:02:13.914542"
+  "merged_at": "2026-02-18T16:53:26.521351"
 }
