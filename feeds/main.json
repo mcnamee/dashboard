@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3db078bc-c64c-4fee-be4d-da88dac2eab1",
+      "published_datetime": "2026-02-18T03:42:22.973006",
+      "title": "Cambodia says Thai forces occupy its territory despite ceasefire",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/asia-pacific/cambodian-pm-says-thailand-occupying-territory-after-trump-brokered-ceasefire-2026-02-18/",
+        "name": "Exclusive: Cambodian PM says Thailand is occupying territory ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--kJeWOY8b--/t_limit/https://www.reuters.com/resizer/v2/U5TNOSY2VZKQ7CEJJ3FZHE5YDY.jpg%3Fauth%3D1be1ebd6fef474e973bc9a00da51e1a9efeefdbe63128dad2f8ad1fd2f565c55%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--yXGu_1SX--/t_thumbnail/https://www.reuters.com/resizer/v2/U5TNOSY2VZKQ7CEJJ3FZHE5YDY.jpg%3Fauth%3D1be1ebd6fef474e973bc9a00da51e1a9efeefdbe63128dad2f8ad1fd2f565c55%26width%3D1920%26quality%3D80"
+      },
+      "description": "Cambodian Prime Minister Hun Manet said Tuesday that Thai military forces are occupying portions of Cambodian land following armed clashes last year, despite a peace agreement signed in late December, urging Thailand to permit a joint boundary commission to begin demarcation work along the disputed 817-kilometer border.[1][2]\n\nSpeaking to Reuters during his visit to Washington ahead of Trump's Board of Peace inaugural meeting on February 19, Hun Manet described the border situation as \"fragile\" even after a ceasefire was declared on December 27, bringing an end to the most severe fighting between the two nations in over a decade.[3][1]",
+      "audio_url": "",
+      "url": "cambodia-says-thai-forces-occu-l0c0RdYOTNOvJWdBBZAcjg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-18T03:18:15.000000Z",
       "title": "What to know about the equal time rule Stephen Colbert says led to interview being pulled",
       "featured_image": {
@@ -226,21 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/science/2026-02-18/artemis-ii-heat-shield-concerns-charlie-camarda/106233804"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4ff4c5ab-cd68-4dbe-839d-cb8cc32eb8fc",
-      "published_datetime": "2026-02-17T18:23:17.347553",
-      "title": "Emails reveal Epstein called himself 'Davos concierge' for elites",
-      "featured_image": {
-        "url": "https://www.americanfreakshow.news/p/jeffrey-epstein-the-ultimate-davos?triedRedirect=true",
-        "name": "Jeffrey Epstein: the Ultimate Davos Man - by Nina Burleigh - Substack",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--mXvvrBbw--/t_limit/https://substackcdn.com/image/fetch/%24s_%21IXnP%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto:good%2Cfl_progressive:steep%2Cg_auto/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F6fc3ff0b-bfe8-4e51-96ec-f7c1f5845b5f_4000x2250.png",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Qed4vzJQ--/t_thumbnail/https://substackcdn.com/image/fetch/%24s_%21IXnP%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto:good%2Cfl_progressive:steep%2Cg_auto/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F6fc3ff0b-bfe8-4e51-96ec-f7c1f5845b5f_4000x2250.png"
-      },
-      "description": "Jeffrey Epstein leveraged the World Economic Forum's annual gathering in Switzerland to trade influence and arrange meetings between some of the world's most powerful figures, despite claiming to \"hate\" the forum, according to emails released by the U.S. Department of Justice and a trove of messages from Epstein's Yahoo account obtained by Bloomberg.\n\nThe disgraced financier, who died in 2019 while awaiting trial on sex trafficking charges, described himself as a \"Davos concierge,\" offering to help contacts navigate the exclusive conference by securing accommodations in a venue where lodging is scarce and promising to arrange meetings with billionaires and government officials, Bloomberg reported Monday. It remains unclear how many times, if at all, Epstein actually attended the event \u2014 the World Economic Forum declined to comment on the matter.[1][2]",
-      "audio_url": "",
-      "url": "emails-reveal-epstein-called-h-GMmmfEavTp.U6mRYGEIEBw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-18T04:13:08.154336"
+  "merged_at": "2026-02-18T04:59:43.927955"
 }
