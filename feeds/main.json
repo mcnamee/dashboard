@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-02-18T06:30:12.000000Z",
-      "title": "NSW inquiry into right-wing extremism 'the tip of a much larger iceberg'",
+      "published_datetime": "2026-02-18T06:47:40.000000Z",
+      "title": "Victoria loses MotoGP after almost 30 years at Phillip Island",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a586eb234199e7c0d2cfebaa68d190a7?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/10cb1db4de849e385cd21d8943c141c5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Prevention methods to tackle radicalisation are being discussed by experts at a New South Wales inquiry into measures to combat right-wing extremism.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-18/prevention-methods-discussed-at-nsw-far-right-extremism-inquiry/106359330"
+      "description": "Victoria loses the rights to host the Australian Motorcycle Grand Prix, ending a three-decade association with the event.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-18/victoria-loses-motogp-after-refusing-to-move-from-phillip-island/106360086"
+    },
+    {
+      "published_datetime": "2026-02-18T06:35:58.000000Z",
+      "title": "'Complete keyboard warrior' sentenced for 'unsavoury' posts about police officer",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/653398bdb1f66a6f5fc4263090bacc6c?impolicy=wcms_crop_resize&amp;cropH=616&amp;cropW=1095&amp;xPos=485&amp;yPos=394&amp;width=862&amp;height=485"
+      },
+      "description": "A man who a court heard fell victim to an \"explosion\" of extremist views and misinformation has been convicted of stalking and intimidating a Hunter Valley police officer.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-18/sovereign-citizen-convicted-stalking-nsw-police-officer/106358344"
     },
     {
       "published_datetime": "2026-02-18T06:17:20.000000Z",
@@ -37,15 +46,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-18/alcoa-fined-for-clearing-jarrah-forest-for-bauxite-mine/106359988"
     },
     {
-      "published_datetime": "2026-02-18T04:29:42.000000Z",
-      "title": "Sydney man jailed for antisemitic speech in bid 'to deter others'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/357d8de3ca1b06c5c4607d5293707d56?impolicy=wcms_crop_resize&amp;cropH=934&amp;cropW=1661&amp;xPos=215&amp;yPos=241&amp;width=862&amp;height=485"
-      },
-      "description": "Brandan Koschel is jailed after pleading guilty to inciting hatred on the grounds of race during an Australia Day protest in Sydney.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-18/nsw-brandan-koschel-jailed-antisemitic-speech-australia-day/106358160"
-    },
-    {
       "published_datetime": "2026-02-18T04:15:10.000000Z",
       "title": "Mazda, Nissan and others face heavy penalties under emission laws",
       "featured_image": {
@@ -53,6 +53,15 @@
       },
       "description": "Major car brands are staring down the barrel of multi-million-dollar penalties for exceeding their emissions, the first results of the federal government's climate laws for new vehicles have revealed.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-18/new-vehicle-efficiency-standard-results-mazda-nissan-penalties/106358770"
+    },
+    {
+      "published_datetime": "2026-02-18T04:09:47.000000Z",
+      "title": "Rescuers race to save six skiers in California avalanche, 10 more missing",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a1bd038b221eceee6c2ff7b340eeb343?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
+      },
+      "description": "Rescue crews are battling blizzard conditions to reach the back-country skiers.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-18/california-avalanche-rescuers-skiers-trapped-10-missing/106359096"
     },
     {
       "published_datetime": "2026-02-18T04:07:17.000000Z",
@@ -232,15 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-17T18:35:06.000000Z",
-      "title": "Millionaire economist's dire warning for Australian property market",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1e724870f4fd9352165edd0dbdef6330?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=414&amp;width=862&amp;height=485"
-      },
-      "description": "British economist Gary Stevenson is on a speaking tour, warning Australia will follow the path of the UK with \"poverty exploding\" unless politicians deal with inequality.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-18/economist-gary-stevenson-warns-australia-losing-the-fair-go/106342536"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-18T06:52:34.665729"
+  "merged_at": "2026-02-18T07:44:46.712363"
 }
