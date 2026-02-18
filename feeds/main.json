@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-18T00:30:00.000000Z",
+      "title": "Prison conditions for Netflix star Matt Wright revealed",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4d2d062b21cec190ca78960021711cdf?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=625&amp;width=862&amp;height=485"
+      },
+      "description": "Matt Wright, the star of Netflix's Outback Wrangler, has been separated from the general prison population at the Darwin Correctional Centre, where most inmates contend with overcrowding and extreme heat.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-18/matt-wright-darwin-correctional-centre-complex-behavioural-unit/106354836"
+    },
+    {
+      "published_datetime": "2026-02-17T23:42:19.000000Z",
+      "title": "Land prices have risen by more than 500 per cent since 2000",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a94419d3bbb55257101064cc0be3bbd4?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=348&amp;width=862&amp;height=485"
+      },
+      "description": "A Housing Industry Association report says rising land prices are blocking the construction of new homes.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-18/land-prices-blocking-new-housing-report-finds/106349190"
+    },
+    {
       "published_datetime": "2026-02-17T23:00:59.000000Z",
       "title": "Hanson issues partial apology for suggestion there are no 'good' Muslims",
       "featured_image": {
@@ -23,24 +41,6 @@
       "audio_url": "",
       "url": "russia-china-iran-deploy-ships-Ly7UvkIBQSGkIoIX4ivQeA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-17T21:00:33.000000Z",
-      "title": "Live: NAB quarterly profit jumps to $2.1b, Australian dollar hits 19-month high against British pound",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d94376187b1df133e82bcd8df1e02500?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The Australian dollar has risen to its highest level in a year and a half against the British pound, while the ASX has started its day higher, and NAB reports a significant increase in its quarterly profit. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-18/asx-markets-business-live-news/106357056"
-    },
-    {
-      "published_datetime": "2026-02-17T20:45:56.000000Z",
-      "title": "Quick hits: Klopp's surprise Olympic job, hockey fight ban labelled a 'joke'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/541360017bcfabc53b6276de1da0b165?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=9&amp;width=862&amp;height=485"
-      },
-      "description": "Football manager J\u00fcrgen Klopp makes an appearance at the Milano Cortina Games, while French ice hockey players are unhappy about the ban handed to a teammate for fighting. Here are the quick hits from day 11.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-18/winter-olympics-2026-milano-cortina-day-11-quick-hits/106356448"
     },
     {
       "published_datetime": "2026-02-17T20:45:41.000000Z",
@@ -112,14 +112,14 @@
       "published_datetime": "2026-02-17T18:35:47.000000Z",
       "title": "HungryPanda delivery drivers say police contacted family back home",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4cf2926f79ab26d6b4a55f2679bc54bc?impolicy=wcms_crop_resize&amp;cropH=2444&amp;cropW=4345&amp;xPos=322&amp;yPos=485&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/61085808ad4e9ac9ddcdf516500be68e?impolicy=wcms_crop_resize&amp;cropH=2353&amp;cropW=4184&amp;xPos=782&amp;yPos=277&amp;width=862&amp;height=485"
       },
       "description": "Riders embroiled in a dispute over pay and conditions with food delivery company HungryPanda in Sydney say Chinese police have asserted pressure back home to stop them protesting.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-18/hungrypanda-riders-chinese-police-threats-sydney-australia/106353996"
     },
     {
       "published_datetime": "2026-02-17T18:35:06.000000Z",
-      "title": "Gary Stevenson's dire warning for Australian property market",
+      "title": "Millionaire economist's dire warning for Australian property market",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1e724870f4fd9352165edd0dbdef6330?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=414&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-17T23:21:19.951512"
+  "merged_at": "2026-02-18T01:19:30.265733"
 }
