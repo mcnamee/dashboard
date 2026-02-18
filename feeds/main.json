@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-18T20:08:02.000000Z",
+      "title": "Live: Burke confirms Australians in Syria linked with ISIS have passports",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8b7bc479d56b96e083cdc17d002f8d00?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=325&amp;width=862&amp;height=485"
+      },
+      "description": "Home Affairs Minister Tony Burke has confirmed the Australians in Syria linked with ISIS fighters have been issued passports. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/federal-politics-live-blog-australians-isis-syria/106361474"
+    },
+    {
+      "published_datetime": "2026-02-18T19:45:18.000000Z",
+      "title": "Eight back-country skiers found dead, one missing after avalanche in California",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c955df3af6dd41d240c3b2e995913c3d?impolicy=wcms_crop_resize&amp;cropH=622&amp;cropW=1105&amp;xPos=0&amp;yPos=64&amp;width=862&amp;height=485"
+      },
+      "description": "Eight skiers have been found dead and one is missing after an avalanche in California, making it the deadliest avalanche in the US in forty years.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/eight-skiers-found-dead-after-avalanche-in-california/106361508"
+    },
+    {
       "published_datetime": "2026-02-18T19:01:34.000000Z",
-      "title": "Australian couple's desperate plea amid international surrogacy nightmare",
+      "title": "Australian couple trapped in Argentina with no legal rights to biological child",
       "featured_image": {
         "thumbnail": ""
       },
@@ -10,13 +28,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/battle-bring-home-sophie-after-surrogacy-red-tape-argentina/106126626"
     },
     {
-      "published_datetime": "2026-02-18T19:01:04.000000Z",
-      "title": "Trump official says US did not censor Colbert interview but is probing The View",
+      "published_datetime": "2026-02-18T19:00:50.000000Z",
+      "title": "Climate disinformation, the Atlas Network and Dr Karl",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7b0749fe7a599b2d94062c4cb4592eaf?impolicy=wcms_crop_resize&amp;cropH=1257&amp;cropW=2235&amp;xPos=119&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e643e4ec38b56a32f7bcfa7969702d13?impolicy=wcms_crop_resize&amp;cropH=556&amp;cropW=988&amp;xPos=71&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The confirmation of a probe into the daytime talk show came after it interviewed the same Democratic candidate whose interview with Stephen Colbert was allegedly barred from airing.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/fcc-confirms-investigation-into-the-view/106361394"
+      "description": "The scourge of AI-slopaganda, viral disinformation campaigns, and online attacks against individuals and institutions is going to get far worse before it gets better, if the latest public hearings on the topic are any indication.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/climate-disinformation-senate-committee-dr-karl-atlas-network/106350002"
     },
     {
       "published_datetime": "2026-02-18T18:59:40.000000Z",
@@ -86,15 +104,6 @@
       "audio_url": "",
       "url": "us-sends-50-fighter-jets-to-mi-6S9Hhfv1TxuIRViMY3eK2A",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-18T18:19:18.000000Z",
-      "title": "He helped discover Antarctica but lies in an unmarked grave \u2014 until today",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f0d6f6557eb2f2ba8e1bd7135a3e91b5?impolicy=wcms_crop_resize&amp;cropH=1647&amp;cropW=2928&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Captain John King Davis was one of Australia's greatest Antarctic explorers, but for decades, his final resting place was an unmarked grave in Melbourne. Today, that will change.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/unmarked-grave-of-antarctic-pioneer-john-king-davis-found/106357712"
     },
     {
       "published_datetime": "2026-02-18T18:00:00.000000Z",
@@ -232,15 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-18/winter-olympics-day-12-live-blog/106358928"
     },
     {
-      "published_datetime": "2026-02-18T06:47:40.000000Z",
-      "title": "Victoria loses MotoGP after almost 30 years at Phillip Island",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/10cb1db4de849e385cd21d8943c141c5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
-      },
-      "description": "Victoria loses the rights to host the Australian Motorcycle Grand Prix, ending a three-decade association with the event.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-18/victoria-loses-motogp-after-refusing-to-move-from-phillip-island/106360086"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-18T19:41:53.990874"
+  "merged_at": "2026-02-18T20:29:39.922688"
 }
