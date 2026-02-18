@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-18T18:00:00.000000Z",
+      "title": "How a single cloud can make fortunes in Australia's electricity market",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ccaa1e1e19665774d7dfbf0b14958f63?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "At the interface of AI, big data, the energy transition and mind-bogglingly complex weather systems, the ongoing supply of electricity relies on answering a deceptively simple question: Will it be sunny?",
+      "page_content_url": "https://www.abc.net.au/news/science/2026-02-19/how-solar-forecasting-works-to-keep-lights-on/106332508"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/166ceb45-5700-4d0d-8ac5-7365c17db3df",
       "published_datetime": "2026-02-18T15:54:53.463267",
       "title": "Oil prices climb as U.S.-Iran tensions mount after Geneva talks",
@@ -187,15 +196,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-18/sisonke-picked-up-ied-thrown-at-perth-invasion-day-rally/106360508"
     },
     {
-      "published_datetime": "2026-02-18T09:14:13.000000Z",
-      "title": "Almost 60 arrested after weeks of violent unrest in NT community",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7020a596f439d9746b88dd1effc0ba84?impolicy=wcms_crop_resize&amp;cropH=577&amp;cropW=1026&amp;xPos=0&amp;yPos=274&amp;width=862&amp;height=485"
-      },
-      "description": "Northern Territory police have arrested 58 people in relation to weeks of unrest in the remote Top End community, which has seen brawls involving up to a few hundred of people \u2014 some of them armed \u2014 spilling out onto the streets.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-18/58-people-arrested-over-wadeye-unrest-nt-police/106333000"
-    },
-    {
       "published_datetime": "2026-02-18T08:35:01.000000Z",
       "title": "Live: Frightening scenes as Aussie teen Hickman crashes in slopestyle final",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-18T17:48:05.753242"
+  "merged_at": "2026-02-18T18:40:16.844340"
 }
