@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-19T18:11:42.000000Z",
+      "title": "Trump suggests Iran has 10 days to reach nuclear deal with US",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/615ce11601c2b2f655426992581d51d9?impolicy=wcms_crop_resize&amp;cropH=1629&amp;cropW=2896&amp;xPos=0&amp;yPos=154&amp;width=862&amp;height=485"
+      },
+      "description": "Speaking at the inaugural \"Board of Peace\" meeting in Washington DC, the US president warns \"bad things\" will happen if a \"meaningful deal\" isn't reached in nuclear talks with Iran.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-20/trump-indicates-iran-decision-likely-in-ten-days/106366370"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/beaa18af-f602-4d6d-ace2-8ae16fa207da",
       "published_datetime": "2026-02-19T16:44:33.678641",
       "title": "Scientists first directly measure upper-atmosphere pollution from SpaceX rocket reentry",
@@ -170,11 +179,11 @@
     },
     {
       "published_datetime": "2026-02-19T08:28:17.000000Z",
-      "title": "Live: US and Canada continue hockey rivalry with Olympic gold at stake",
+      "title": "Live: Top-ranked Aussie Brown begins Olympic freeski halfpipe campaign",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/925b082d227f1f02847fc518d98b3ed5?impolicy=wcms_crop_resize&amp;cropH=2734&amp;cropW=4861&amp;xPos=0&amp;yPos=82&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/05a232f10043ae7b8585b8faa671c535?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=210&amp;width=862&amp;height=485"
       },
-      "description": "The United States and Canada face off for the seventh time in a women's ice hockey final at the Winter Olympics. Follow live.",
+      "description": "Ranked number one on the World Cup standings, Australian 16-year-old Indra Brown begins her quest for Olympic gold at the Milano Cortina Games. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/winter-olympics-2026-milano-cortina-live-blog-day-13/106363160"
     },
     {
@@ -221,15 +230,6 @@
       },
       "description": "The world knows Gis\u00e8le Pelicot as the woman who waived anonymity during France's most infamous rape trial. But in her new memoir she reveals an unexpected story \u2014 the boyfriend she kept hidden and the love that helped her face an open courtroom.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/secret-boyfriend-who-stood-beside-gis%C3%A8le-pelicot/106357080"
-    },
-    {
-      "published_datetime": "2026-02-19T01:36:52.000000Z",
-      "title": "Charlie Pickering on his ADHD, satire and the 'ludicrous' Trump era",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/66c5b3716340e739001d2840998b5a91?impolicy=wcms_crop_resize&amp;cropH=1876&amp;cropW=3335&amp;xPos=0&amp;yPos=833&amp;width=862&amp;height=485"
-      },
-      "description": "Political satire occasionally comes at a price, but Charlie Pickering still believes the right joke at the right time can have a huge impact.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/charlie-pickering-the-weekly-interview/106307588"
     },
     {
       "published_datetime": "2026-02-19T00:02:48.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-19T17:43:39.452340"
+  "merged_at": "2026-02-19T18:40:40.139755"
 }
