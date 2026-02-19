@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-19T10:11:47.000000Z",
+      "title": "Breaking: Andrew Mountbatten-Windsor reportedly arrested",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bac0ff281d828725339516c4cdc9be46?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Andrew Mountbatten-Windsor has been arrested on suspicion of misconduct in public office, the BBC has reported.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/andrew-mountbatten-windsor-epstein-police/106365802"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8887b23d-b0a0-4dcd-b818-3b7cad09c3d7",
+      "published_datetime": "2026-02-19T09:12:38.613641",
+      "title": "Samsung shares hit record high on report of higher AI chip prices",
+      "featured_image": {
+        "url": "https://finance.yahoo.com/news/samsung-raised-memory-chip-prices-123648616.html",
+        "name": "Samsung raised memory chip prices by up to 60% since September, according to reports \u2014 AI data center build out strangles supply",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--G14UFXtf--/t_limit/https://s.yimg.com/ny/api/res/1.2/qPbpX5HrZnhUjdoIuYMpEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/toms_hardware_319/af60c3e7a1a6afdb5dbcb133a07d5187",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--XooCAgz4--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/qPbpX5HrZnhUjdoIuYMpEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/toms_hardware_319/af60c3e7a1a6afdb5dbcb133a07d5187"
+      },
+      "description": "Samsung Electronics stock surged to an all-time high on Thursday after local media reported the South Korean tech giant is negotiating sharply higher prices for its next-generation AI memory chips, signaling a potential turnaround in its competitive battle with smaller rival SK Hynix.\n\nThe chipmaker's shares jumped as much as 5.4% to a record 190,900 won on the Korea Exchange, closing at 190,000 won as trading resumed following a three-day holiday. The rally comes amid renewed optimism for technology stocks globally, with the Nasdaq Composite rising 0.8% on Wednesday as investors returned to semiconductor and software sectors.[1][2][3][4]",
+      "audio_url": "",
+      "url": "samsung-shares-hit-record-high-Q.ESt_LwQ3OT3CFCT9HReQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-19T08:28:17.000000Z",
       "title": "Live: Aussies among first competitors in newest Olympic sport",
       "featured_image": {
@@ -19,17 +43,8 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/greg-lynn-applies-for-bail-court/106365580"
     },
     {
-      "published_datetime": "2026-02-19T07:28:54.000000Z",
-      "title": "South Korea's ex-president Yoon Suk Yeol sentenced to life over insurrection",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d8ca82a1efca81425a2ab98a627686f9?impolicy=wcms_crop_resize&amp;cropH=2419&amp;cropW=4301&amp;xPos=0&amp;yPos=248&amp;width=862&amp;height=485"
-      },
-      "description": "Former South Korean President Yoon Suk Yeol is sentenced to life in prison on charges of rebellion for his attempt to put the country under military rule.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/south-korea-president-yoon-suk-yeol-sentenced-insurrection-guilt/106363456"
-    },
-    {
       "published_datetime": "2026-02-19T07:27:59.000000Z",
-      "title": "Coles pet range manager grilled in court about 'Down Down' pricing of dog food",
+      "title": "Coles manager admits dog food price moves were outside 'guardrails'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0793d0ff02872c8351c6ad962ef36a2e?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
       },
@@ -53,7 +68,7 @@
     },
     {
       "published_datetime": "2026-02-19T05:57:14.000000Z",
-      "title": "Visual clues show the US is on the brink of attacking Iran",
+      "title": "Visual clues show the US could be getting closer to attacking Iran",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e3ceab438735f0abc6adff9b472bf370?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e409c9ab-92b3-4e6e-aebe-e3bf6e33e1c5",
-      "published_datetime": "2026-02-18T19:40:05.320414",
-      "title": "Microsoft warns US tech firms to 'worry' about Chinese AI subsidies",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/02/18/microsoft-president-brad-smith-chinese-ai-subsidies.html",
-        "name": "Microsoft president raises concerns over Chinese AI subsidies",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--v-Qz3AHt--/t_limit/https://image.cnbcfm.com/api/v1/image/108222141-1762391153945-gettyimages-2217904928-20090101250604-99-60977.jpeg%3Fv%3D1771426451%26w%3D1600%26h%3D900",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--cintWwSd--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108222141-1762391153945-gettyimages-2217904928-20090101250604-99-60977.jpeg%3Fv%3D1771426451%26w%3D1600%26h%3D900"
-      },
-      "description": "Microsoft President Brad Smith is urging American technology companies to pay close attention to government subsidies fueling Chinese competitors in the global artificial intelligence race.\n\nSpeaking at the AI Impact Summit in New Delhi on Wednesday, Smith warned that US firms should \"worry a little bit\" about the financial backing Beijing is providing to its AI companies, according to CNBC. While acknowledging that the United States maintains \"an advantage in terms of access to the most powerful chips in the world\" and other technological innovations, Smith cautioned that Chinese government subsidies pose a mounting competitive challenge.[1][2][3]",
-      "audio_url": "",
-      "url": "microsoft-warns-us-tech-firms-lIEPJ5hnRZOyEudUepfnUg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-19T09:36:35.602606"
+  "merged_at": "2026-02-19T10:34:38.062254"
 }
