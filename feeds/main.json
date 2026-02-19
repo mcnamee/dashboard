@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-19T07:28:54.000000Z",
+      "title": "Breaking: South Korea's ex-president Yoon Suk Yeol sentenced to life over insurrection",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d8ca82a1efca81425a2ab98a627686f9?impolicy=wcms_crop_resize&amp;cropH=2419&amp;cropW=4301&amp;xPos=0&amp;yPos=248&amp;width=862&amp;height=485"
+      },
+      "description": "Former South Korean President Yoon Suk Yeol is sentenced to life in prison on charges of rebellion for his attempt to put the country under military rule.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/south-korea-president-yoon-suk-yeol-sentenced-insurrection-guilt/106363456"
+    },
+    {
+      "published_datetime": "2026-02-19T07:27:59.000000Z",
+      "title": "Dog food pricing 'not in the spirit' of Coles 'Down Down' promotion, court hears",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0793d0ff02872c8351c6ad962ef36a2e?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
+      },
+      "description": "A second Coles manager has been grilled in the federal court over whether rushing a product onto a \"Down Down\" promotion could have broken internal guidelines.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/coles-accc-federal-court-dog-food-down-down-pricing/106358664"
+    },
+    {
+      "published_datetime": "2026-02-19T06:58:34.000000Z",
+      "title": "Malinauskas criticised over aged care workforce comments",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c5c1b84428a7ed3ac64b568e9739425c?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=22&amp;width=862&amp;height=485"
+      },
+      "description": "South Australia's Premier Peter Malinauskas has been criticised across the political divide for comments he made asking One Nation voters \"who's going to feed you and bathe you and wipe your bum when you're 90\", but a government spokesperson says the comments have been mischaracterised.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/malinauskas-criticised-for-comments-on-aged-care-migrant-workers/106362214"
+    },
+    {
       "published_datetime": "2026-02-19T06:17:52.000000Z",
       "title": "Child care provider fined $35k after neurodivergent boy wanders off",
       "featured_image": {
@@ -37,15 +64,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/man-charged-with-alleged-terrorism-offences-in-south-west-sydney/106364186"
     },
     {
-      "published_datetime": "2026-02-19T03:53:08.000000Z",
-      "title": "How the deadliest avalanche in the US in 40 years unfolded",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8b5f0088f2ad9eb05f8e125dfcddf973?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "An avalanche in California has left eight back-country skiers dead and one missing. Here's how it unfolded.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/how-the-deadliest-avalanche-in-the-us-in-40-years-unfolded/106362394"
-    },
-    {
       "published_datetime": "2026-02-19T03:51:50.000000Z",
       "title": "In her memoir, Gis\u00e8le Pelicot reveals the man she kept hidden",
       "featured_image": {
@@ -68,15 +86,6 @@
       "audio_url": "",
       "url": "penn-state-researchers-develop-Hp.nYg54QoWRegD9UTlBRA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-19T03:20:22.000000Z",
-      "title": "Australian-first remotely piloted police drone trial raises surveillance questions",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a745fd59930570b126e7d7e61c01d34d?impolicy=wcms_crop_resize&amp;cropH=437&amp;cropW=776&amp;xPos=45&amp;yPos=84&amp;width=862&amp;height=485"
-      },
-      "description": "Police will control drones from more than 600 kilometres away from a rural town battling high crime rates.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/drones-over-moree-not-for-surveillance/106358042"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a1a7390a-b903-47d6-bf64-19abc0d6762d",
@@ -217,15 +226,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-18T19:01:34.000000Z",
-      "title": "Australian couple trapped in Argentina with no legal rights to biological child",
-      "featured_image": {
-        "thumbnail": ""
-      },
-      "description": "Jonathan and Amy\u00a0had a child via surrogacy in\u00a0Argentina.\u00a0They have\u00a0been stuck\u00a0there for 12 months,\u00a0unable to bring their daughter\u00a0home.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/battle-bring-home-sophie-after-surrogacy-red-tape-argentina/106126626"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1bd620ed-c2f4-408e-8b99-34543550d781",
       "published_datetime": "2026-02-18T18:40:59.173584",
       "title": "Apple plans daily product announcements leading to March 4 event",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-19T06:49:50.101124"
+  "merged_at": "2026-02-19T07:43:24.112894"
 }
