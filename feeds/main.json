@@ -1,22 +1,22 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-19T08:28:17.000000Z",
+      "title": "Live: Aussies among first competitors in newest Olympic sport",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/20f28d7bef9584fe50fab0043b25ee2b?impolicy=wcms_crop_resize&amp;cropH=2270&amp;cropW=4035&amp;xPos=0&amp;yPos=212&amp;width=862&amp;height=485"
+      },
+      "description": "Skimo, the newest sport at the Winter Olympics, makes its grand arrival in Milan Cortina, while Australia's teenage sensation Indra Brown hits the half-pipe. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/winter-olympics-milano-cortina-live-blog-day-13/106363160"
+    },
+    {
       "published_datetime": "2026-02-19T08:10:17.000000Z",
-      "title": "Breaking: Accused killer Greg Lynn applies for bail",
+      "title": "Accused High Country killer Greg Lynn applies for bail",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cad87df8a12f3c25b578124136330835?impolicy=wcms_crop_resize&amp;cropH=584&amp;cropW=1038&amp;xPos=361&amp;yPos=54&amp;width=862&amp;height=485"
       },
-      "description": "The former Jetstar pilot awaits a retrial for the murder of Carol Clay, after his 2024 conviction was quashed last year.",
+      "description": "The former Jetstar pilot awaits a retrial for the murder of Carol Clay, after his 2024 conviction was quashed in December.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/greg-lynn-applies-for-bail-court/106365580"
-    },
-    {
-      "published_datetime": "2026-02-19T08:03:34.000000Z",
-      "title": "Breaking: Gas explosion kills 16 as apartment building collapses in Pakistan",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1b9d75cd38af5b0f02c9ad5fdfd8c408?impolicy=wcms_crop_resize&amp;cropH=551&amp;cropW=980&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
-      },
-      "description": "Women and children are among 16 people killed after a gas explosion ripped through an apartment building in Pakistan on Thursday.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/gas-explosion-kills-16-apartment-building-collapses-pakistan/106365612"
     },
     {
       "published_datetime": "2026-02-19T07:28:54.000000Z",
@@ -52,15 +52,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-19T06:17:52.000000Z",
-      "title": "Childcare provider fined $35k after neurodivergent boy wanders off",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed0595a96391aec5899ee64379ba381d?impolicy=wcms_crop_resize&amp;cropH=585&amp;cropW=1041&amp;xPos=0&amp;yPos=162&amp;width=862&amp;height=485"
-      },
-      "description": "One of Australia's biggest providers of before-and-after-school care penalised after a five-year-old neurodivergent child escapes supervision unnoticed.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/samson-primary-school-after-school-care-fined-over-child-leaving/106360960"
-    },
-    {
       "published_datetime": "2026-02-19T05:57:14.000000Z",
       "title": "Visual clues show the US is on the brink of attacking Iran",
       "featured_image": {
@@ -77,6 +68,15 @@
       },
       "description": "This week, the new opposition leader revealed his shadow cabinet while Pauline Hanson spun through a cycle she knows well.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/pauline-hanson-barnaby-joyce-angus-taylor-anthony-albanese/106349216"
+    },
+    {
+      "published_datetime": "2026-02-19T03:53:08.000000Z",
+      "title": "How the deadliest US avalanche in 40 years unfolded",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ae3a5aad3b1a9ec853c78e0ee476c2a4?impolicy=wcms_crop_resize&amp;cropH=871&amp;cropW=1548&amp;xPos=0&amp;yPos=81&amp;width=862&amp;height=485"
+      },
+      "description": "Eight back-country skiers have been found dead and one is missing after an avalanche near Lake Tahoe in California, officials say.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/how-the-deadliest-avalanche-in-the-us-in-40-years-unfolded/106362394"
     },
     {
       "published_datetime": "2026-02-19T03:51:50.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-19T08:33:41.778506"
+  "merged_at": "2026-02-19T09:36:35.602606"
 }
