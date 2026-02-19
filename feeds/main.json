@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-19T20:12:21.000000Z",
+      "title": "Live: Wilson walks back suggestion Liberals would rethink RBA mandate",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b0d83427f4372d86f781fff09826e18d?impolicy=wcms_crop_resize&amp;cropH=4644&amp;cropW=8256&amp;xPos=0&amp;yPos=181&amp;width=862&amp;height=485"
+      },
+      "description": "Shadow Treasurer Tim Wilson has walked back his call to overhaul the Reserve Bank of Australia's twin focus on taming inflation and full employment. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-20/federal-politics-live-albanese-taylor-labor-coalition/106363700"
+    },
+    {
+      "published_datetime": "2026-02-19T20:11:43.000000Z",
+      "title": "Amy Taylor's Vogue shoot goes from champagne and ice cream to legal fight",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2cc39e1e659b24eda35c3d568abd31b9?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
+      },
+      "description": "What began as a photo shoot with champagne, ice cream and humorous glamour shots of Amy Taylor, singer from punk band Amyl and the Sniffers, has escalated into a legal fight over copyright, the US Constitution and an application for a restraining order.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-20/amy-taylor-amyl-and-the-sniffers-court-cases-copyright/106361084"
+    },
+    {
       "published_datetime": "2026-02-19T19:39:45.000000Z",
       "title": "Taylor walks a tightrope on immigration policy as Hanson surges",
       "featured_image": {
@@ -17,15 +35,6 @@
       },
       "description": "A lot of research has gone in to treating concussions, but now scientists are testing a new helmet to see if it can prevent them before they happen.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-20/helmet-studied-to-see-if-it-reduces-concussion-risk-footballers/106358372"
-    },
-    {
-      "published_datetime": "2026-02-19T19:17:46.000000Z",
-      "title": "We're about to find out how far one man, and the monarchy, can fall",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e572a581e3d6f26d9507b3b09c16b43?impolicy=wcms_crop_resize&amp;cropH=1440&amp;cropW=2560&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
-      },
-      "description": "British royals have lived by the adage \"never complain, never explain\", but these days, many of their subjects are demanding answers.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-20/andrew-mountbatten-windsor-arrest-a-problem-for-monarchy/106365934"
     },
     {
       "published_datetime": "2026-02-19T19:14:17.000000Z",
@@ -214,15 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-19T13:37:38.000000Z",
-      "title": "What we know about former prince Andrew's arrest",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d5c9366c34ebe4bf5e7972a336ede982?impolicy=wcms_crop_resize&amp;cropH=595&amp;cropW=1058&amp;xPos=81&amp;yPos=30&amp;width=862&amp;height=485"
-      },
-      "description": "Police are searching two addresses in the UK including Royal Lodge on the Windsor Estate where the former prince lived until last year.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-20/what-we-know-about-former-prince-andrew-arrest/106365894"
-    },
-    {
       "published_datetime": "2026-02-19T10:11:47.000000Z",
       "title": "King's brother Andrew arrested",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-19T20:23:07.774411"
+  "merged_at": "2026-02-19T21:24:05.875136"
 }
