@@ -22,7 +22,7 @@
       "published_datetime": "2026-02-19T19:05:01.000000Z",
       "title": "You can get an EV for less than a Corolla. What's holding us back?",
       "featured_image": {
-        "thumbnail": ""
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e4f37b87cdfd670489545c9bab29cde6?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=569&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "The price tag of EVs has been a barrier to uptake. As cheaper models hit the market, will more drivers go electric?",
       "page_content_url": "https://www.abc.net.au/news/2026-02-20/cart-electric-vehicles-becoming-more-affordable/106348534"
@@ -37,22 +37,31 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-20/new-england-divided-over-barnaby-joyce/106353714"
     },
     {
+      "published_datetime": "2026-02-19T23:08:06.000000Z",
+      "title": "Trump hosts first 'Board of Peace' meeting with new pledges for Gaza",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/672a3a9785b9f225c7b0d2681f299906?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "A group of nations will provide billions of dollars and thousands of troops to rebuild Gaza, according to pledges made at the inaugural meeting of Donald Trump's \"Board of Peace\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-20/donald-trump-hosts-first-board-of-peace-meeting/106366982"
+    },
+    {
+      "published_datetime": "2026-02-19T08:28:17.000000Z",
+      "title": "American star completes comeback with figure skating gold after 'retiring' at 16",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fd65945063a20f547ecd61596fc824d2?impolicy=wcms_crop_resize&amp;cropH=2730&amp;cropW=4853&amp;xPos=0&amp;yPos=253&amp;width=862&amp;height=485"
+      },
+      "description": "Alysa Liu becomes the first American woman to win singles figure skating gold in 24 years, completing her comeback after retiring in 2022 when she was only 16 years old.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/winter-olympics-2026-milano-cortina-live-blog-day-13/106363160"
+    },
+    {
       "published_datetime": "2026-02-19T19:30:22.000000Z",
-      "title": "Will this helmet prevent concussions in footballers?",
+      "title": "'This is ridiculous': Sport concussions spur inventor to design helmet",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f16826c6b160d226a4942e12509d770c?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "A lot of research has gone in to treating concussions, but now scientists are testing a new helmet to see if it can prevent them before they happen.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-20/helmet-studied-to-see-if-it-reduces-concussion-risk-footballers/106358372"
-    },
-    {
-      "published_datetime": "2026-02-19T08:28:17.000000Z",
-      "title": "Live: Aussie Indra Brown through to final after Canadian's scary halfpipe crash",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a109cd290b7aff1a966b11785bd30aec?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
-      },
-      "description": "Canadian Cassie Sharpe goes down hard in the second run of the Winter Olympics freeski halfpipe qualifying, where Australian 16-year-old Indra Brown qualifies for the final in fourth spot. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/winter-olympics-2026-milano-cortina-live-blog-day-13/106363160"
     },
     {
       "published_datetime": "2026-02-19T20:12:21.000000Z",
@@ -62,15 +71,6 @@
       },
       "description": "Shadow Treasurer Tim Wilson has walked back his call to overhaul the Reserve Bank of Australia's twin focus on taming inflation and full employment. Follow live. ",
       "page_content_url": "https://www.abc.net.au/news/2026-02-20/federal-politics-live-albanese-taylor-labor-coalition/106363700"
-    },
-    {
-      "published_datetime": "2026-02-19T19:39:45.000000Z",
-      "title": "Taylor walks a tightrope on immigration policy as Hanson surges",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2eb3661a9cc696575d4af91a50fde160?impolicy=wcms_crop_resize&amp;cropH=857&amp;cropW=1523&amp;xPos=193&amp;yPos=44&amp;width=862&amp;height=485"
-      },
-      "description": "The rifts in Australia's social cohesion can be seen in the blow-up over the so-called ISIS brides and their children, who want to come to Australia.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-20/angus-taylor-immigration-pauline-hanson/106349268"
     },
     {
       "published_datetime": "2026-02-19T18:49:53.000000Z",
@@ -100,31 +100,31 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-20/people-interacting-with-tasmanian-penguins-and-harming-them/106361614"
     },
     {
+      "published_datetime": "2026-02-19T19:39:45.000000Z",
+      "title": "Taylor walks a tightrope on immigration policy as Hanson surges",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2eb3661a9cc696575d4af91a50fde160?impolicy=wcms_crop_resize&amp;cropH=857&amp;cropW=1523&amp;xPos=193&amp;yPos=44&amp;width=862&amp;height=485"
+      },
+      "description": "The rifts in Australia's social cohesion can be seen in the blow-up over the so-called ISIS brides and their children, who want to come to Australia.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-20/angus-taylor-immigration-pauline-hanson/106349268"
+    },
+    {
       "published_datetime": "2026-02-19T20:33:01.000000Z",
-      "title": "Live: ASX set to open lower as Wall Street slumps",
+      "title": "Live: ASX opens lower as Wall Street slumps",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&amp;cropH=530&amp;cropW=942&amp;xPos=0&amp;yPos=14&amp;width=862&amp;height=485"
       },
-      "description": "The ASX 200 is set to open lower in morning trade following a slump on Wall Street. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "description": "The ASX 200 opens lower in morning trade following a slump on Wall Street. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-20/asx-markets-business-news-live-updates-friday-20-february/106366740"
     },
     {
-      "published_datetime": "2026-02-19T18:42:37.000000Z",
-      "title": "Police descend on semi-rural home in hunt for kidnapped Sydney grandfather",
+      "published_datetime": "2026-02-19T22:13:56.000000Z",
+      "title": "Bangarra Dance Theatre wins international award for creating 'radical change'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29dd18e36364de9f4a385c55b271d71c?impolicy=wcms_crop_resize&amp;cropH=128&amp;cropW=227&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/731521d0dbcedf3fa8b0977cf0b06328?impolicy=wcms_crop_resize&amp;cropH=1687&amp;cropW=3000&amp;xPos=0&amp;yPos=314&amp;width=862&amp;height=485"
       },
-      "description": "Police believe they have found a \"stronghold\" used by the kidnappers of Chris Baghsarian in Dural as the search for the 85-year-old continues.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-20/chris-baghsarian-kidnapping-dural-update/106366514"
-    },
-    {
-      "published_datetime": "2026-02-19T18:11:42.000000Z",
-      "title": "Trump suggests decision on Iran likely within 10 days",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/615ce11601c2b2f655426992581d51d9?impolicy=wcms_crop_resize&amp;cropH=1629&amp;cropW=2896&amp;xPos=0&amp;yPos=154&amp;width=862&amp;height=485"
-      },
-      "description": "Speaking at the inaugural \"Board of Peace\" meeting in Washington DC, the US president warns \"bad things\" will happen if a \"meaningful deal\" isn't reached in nuclear talks with Iran.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-20/trump-indicates-iran-decision-likely-in-ten-days/106366370"
+      "description": "Indigenous dance company Bangarra Dance Theatre has become the first company and first First Nations performers to receive the Golden Lion at Venice Danza, the international festival of contemporary dance.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-20/bangarra-dance-theatre-golden-lion-venice-biennale/106366904"
     },
     {
       "published_datetime": "2026-02-19T19:48:29.000000Z",
@@ -181,15 +181,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-20/matt-utai-greenacre-shooting-coconut-cartel-four-charged/106366832"
     },
     {
-      "published_datetime": "2026-02-19T20:54:50.000000Z",
-      "title": "Grieving dad plans surf lifesaving gala after shark attack tragedy",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0709d2dababdbf0361e04e76ee6254ad?impolicy=wcms_crop_resize&amp;cropH=394&amp;cropW=700&amp;xPos=0&amp;yPos=35&amp;width=862&amp;height=485"
-      },
-      "description": "One year after his daughter was killed by a shark, a proud Queensland surf lifesaver says her legacy lives in the ocean.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-20/surf-lifesaving-gala-for-charlize-zmuda-after-shark-attack/106363340"
-    },
-    {
       "published_datetime": "2026-02-19T21:33:37.000000Z",
       "title": "Hopes modular homes will solve outback town's housing shortage woes",
       "featured_image": {
@@ -197,6 +188,24 @@
       },
       "description": "Amid warnings regional housing shortages will deepen, one regional city in northern Western Australia is looking to a modular solution. ",
       "page_content_url": "https://www.abc.net.au/news/2026-02-20/pilbara-housing-company-seeks-modular-houses-for-rent/106354430"
+    },
+    {
+      "published_datetime": "2026-02-19T18:42:37.000000Z",
+      "title": "Police descend on semi-rural home in hunt for kidnapped Sydney grandfather",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29dd18e36364de9f4a385c55b271d71c?impolicy=wcms_crop_resize&amp;cropH=128&amp;cropW=227&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
+      },
+      "description": "Police believe they have found a \"stronghold\" used by the kidnappers of Chris Baghsarian in Dural as the search for the 85-year-old continues.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-20/chris-baghsarian-kidnapping-dural-update/106366514"
+    },
+    {
+      "published_datetime": "2026-02-19T18:11:42.000000Z",
+      "title": "Trump suggests decision on Iran likely within 10 days",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/615ce11601c2b2f655426992581d51d9?impolicy=wcms_crop_resize&amp;cropH=1629&amp;cropW=2896&amp;xPos=0&amp;yPos=154&amp;width=862&amp;height=485"
+      },
+      "description": "Speaking at the inaugural \"Board of Peace\" meeting in Washington DC, the US president warns \"bad things\" will happen if a \"meaningful deal\" isn't reached in nuclear talks with Iran.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-20/trump-indicates-iran-decision-likely-in-ten-days/106366370"
     },
     {
       "published_datetime": "2026-02-19T20:46:51.000000Z",
@@ -208,19 +217,10 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-20/afp-queensland-police-target-organised-crime-far-north/106366728"
     },
     {
-      "published_datetime": "2026-02-19T20:28:34.000000Z",
-      "title": "More 'hard and fast' rain likely for soaked parts of north Queensland",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bbcdafbe3eb46b5138232c8c54e73d79?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=192&amp;width=862&amp;height=485"
-      },
-      "description": "A risk for further heavy rainfall and thunderstorms is possible in northern parts of the state today and into the weekend.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-20/more-rainfall-forecast-for-northern-qld/106362726"
-    },
-    {
       "published_datetime": "2026-02-19T19:28:26.000000Z",
       "title": "Over-policing of children in care is 'manufacturing criminals', experts warn",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f100647f032a4c35f8700365c3dc40ba?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=355&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/567a473f0314898f6b4138d070f9635b?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Experts say over-policing and the South Australia's youth criminal justice system is helping turn children in residential care into criminals.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-20/over-policing-residential-care-children-fast-tracking-criminals/106352902"
