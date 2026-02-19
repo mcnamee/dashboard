@@ -1,12 +1,27 @@
 {
   "items": [
     {
-      "published_datetime": "2026-02-19T10:11:47.000000Z",
-      "title": "Breaking: Andrew Mountbatten-Windsor reportedly arrested",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8530ce2d-3f5e-455d-a185-5ffd4a04cbed",
+      "published_datetime": "2026-02-19T10:21:44.654708",
+      "title": "Nestl\u00e9 to sell ice cream unit to Froneri in major overhaul",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bac0ff281d828725339516c4cdc9be46?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "url": "https://www.flickr.com/photos/twiga_269/2565663038",
+        "name": "Nestl\u00e9 Headquarter | Vevey, VD - Switzerland. Si\u00e8ge Social d ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--0MSwOy1z--/t_limit/https://live.staticflickr.com/3278/2565663038_2b74654202_b.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--YjovNjXR--/t_thumbnail/https://live.staticflickr.com/3278/2565663038_2b74654202_b.jpg"
       },
-      "description": "Andrew Mountbatten-Windsor has been arrested on suspicion of misconduct in public office, the BBC has reported.",
+      "description": "Nestl\u00e9, the world's largest food and beverage company, announced Thursday that it will sell its remaining ice cream business to joint venture partner Froneri as part of a sweeping corporate overhaul aimed at streamlining operations around four core categories.\n\nThe Swiss giant, known for KitKat chocolate bars and Nescaf\u00e9 coffee, said it is in \"advanced negotiations\" to transfer the ice cream division, which includes brands like H\u00e4agen-Dazs, to Froneri\u2014a joint venture Nestl\u00e9 created in 2016 with private equity firm PAI Partners. Under the restructuring, the company will concentrate resources on coffee, petcare, nutrition, and food and snacks.[1][2][3][4]",
+      "audio_url": "",
+      "url": "nestle-to-sell-ice-cream-unit-prMRcWFsQTewysqdpt3YnQ",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-02-19T10:11:47.000000Z",
+      "title": "Live: Andrew Mountbatten-Windsor has been arrested",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bac0ff281d828725339516c4cdc9be46?impolicy=wcms_crop_resize&amp;cropH=1241&amp;cropW=2206&amp;xPos=1397&amp;yPos=53&amp;width=862&amp;height=485"
+      },
+      "description": "Andrew Mountbatten-Windsor has reportedly been arrested at his eastern England home. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/andrew-mountbatten-windsor-epstein-police/106365802"
     },
     {
@@ -28,7 +43,7 @@
       "published_datetime": "2026-02-19T08:28:17.000000Z",
       "title": "Live: Aussies among first competitors in newest Olympic sport",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/20f28d7bef9584fe50fab0043b25ee2b?impolicy=wcms_crop_resize&amp;cropH=2270&amp;cropW=4035&amp;xPos=0&amp;yPos=212&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e71195d8e335b0bf25de104e0012439c?impolicy=wcms_crop_resize&amp;cropH=2651&amp;cropW=4712&amp;xPos=0&amp;yPos=217&amp;width=862&amp;height=485"
       },
       "description": "Skimo, the newest sport at the Winter Olympics, makes its grand arrival in Milan Cortina, while Australia's teenage sensation Indra Brown hits the half-pipe. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/winter-olympics-milano-cortina-live-blog-day-13/106363160"
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d15f513e-0531-4405-bf5f-9213201227bc",
-      "published_datetime": "2026-02-18T21:18:06.380593",
-      "title": "Scientists propose ultrastable laser in moon crater for timing",
-      "featured_image": {
-        "url": "https://www.esa.int/Applications/Satellite_navigation/Telling_time_on_the_Moon",
-        "name": "ESA - Telling time on the Moon",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ZsdPe1qD--/t_limit/https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/03/moon_and_earth_imaged_by_kaguya/16870819-1-eng-GB/Moon_and_Earth_imaged_by_Kaguya_pillars.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--yYp5a-GP--/t_thumbnail/https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/03/moon_and_earth_imaged_by_kaguya/16870819-1-eng-GB/Moon_and_Earth_imaged_by_Kaguya_pillars.jpg"
-      },
-      "description": "A team of researchers from JILA, NASA, and Germany's national metrology institute has outlined a plan to deploy an ultrastable laser system within one of the Moon's perpetually dark craters, arguing the device could serve as a cornerstone for lunar timekeeping and help spacecraft land with greater precision.\n\nThe proposal, detailed in a paper posted to the arXiv preprint server this month, takes advantage of the extreme conditions found in the Moon's permanently shadowed regions, which are among the coldest environments in the solar system. Lead author Jun Ye of JILA in Boulder, Colorado, and his colleagues suggest that temperatures ranging from 20 to 50 kelvin, combined with the Moon's natural lack of vibrations and near-vacuum atmosphere, make these craters ideal hosts for a laser system that would outperform anything on Earth.[1][2][3][4]\n\n\"The whole environment is stable, that's the key,\" Ye told New Scientist. \"Even when you go through summers and winters on the moon, the temperature is still between 20 and 50 kelvin. That's an incredibly stable environment.\"[1]",
-      "audio_url": "",
-      "url": "scientists-propose-ultrastable-DNNf.d3tRkG1ZsJGk0SXIw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-19T10:34:38.062254"
+  "merged_at": "2026-02-19T11:32:17.928561"
 }
