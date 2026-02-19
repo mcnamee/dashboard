@@ -1,12 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-19T06:17:52.000000Z",
+      "title": "Child care provider fined $35k after neurodivergent boy wanders off",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed0595a96391aec5899ee64379ba381d?impolicy=wcms_crop_resize&amp;cropH=585&amp;cropW=1041&amp;xPos=0&amp;yPos=162&amp;width=862&amp;height=485"
+      },
+      "description": "One of Australia's biggest providers of before and after school care is fined after a five-year-old neurodivergent child escapes supervision unnoticed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/samson-primary-school-after-school-care-fined-over-child-leaving/106360960"
+    },
+    {
+      "published_datetime": "2026-02-19T05:57:14.000000Z",
+      "title": "Visual clues show the US is on the brink of attacking Iran",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e3ceab438735f0abc6adff9b472bf370?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The steady flow of military assets moving towards Europe and the Middle East appears to be a warning that the US could be ready to attack Iran.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/tracking-us-military-build-up-ahead-of-possible-iran-attack/106363224"
+    },
+    {
       "published_datetime": "2026-02-19T05:37:55.000000Z",
       "title": "Hanson plays into meme status, Taylor goes on tour",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e933fb409404229898b11502f34bb954?impolicy=wcms_crop_resize&amp;cropH=3121&amp;cropW=5549&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
       },
-      "description": "This week the new opposition leader revealed his shadow cabinet while Pauline Hanson spun through a cycle she knows well.\u00a0",
+      "description": "This week, the new opposition leader revealed his shadow cabinet while Pauline Hanson spun through a cycle she knows well.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/pauline-hanson-barnaby-joyce-angus-taylor-anthony-albanese/106349216"
     },
     {
@@ -17,15 +35,6 @@
       },
       "description": "A 31-year-old has been arrested a second time after police stopped and searched a vehicle in Yagoona and seized three mobile phones allegedly storing violent extremist material.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/man-charged-with-alleged-terrorism-offences-in-south-west-sydney/106364186"
-    },
-    {
-      "published_datetime": "2026-02-19T04:31:36.000000Z",
-      "title": "Hate laws put free speech at risk, constitutional expert tells inquiry",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/61028edc3238af7eb2418a78fcd3cd9b?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "An influx of federal and state laws trying to curb hateful rhetoric after a wave of antisemitic attacks are risking free speech and could anger the public, a constitutional law expert warns.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/concerns-laws-targeting-antisemitism-risk-free-speech/106363916"
     },
     {
       "published_datetime": "2026-02-19T03:53:08.000000Z",
@@ -130,15 +139,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-19T00:44:42.000000Z",
-      "title": "Unemployment rate remains at 4.1pc, leading to talk of another rate rise",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d9f22e2c86cada0764677c34a3f9a166?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=214&amp;width=862&amp;height=485"
-      },
-      "description": "Australia's unemployment rate remained at 4.1 per cent in January, with 17,800 more employed people.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/unemployment-rate-australia-january-2026-steady/106362428"
-    },
-    {
       "published_datetime": "2026-02-19T00:29:52.000000Z",
       "title": "SA secures Australian MotoGP, world-first street circuit announced",
       "featured_image": {
@@ -222,7 +222,7 @@
       "featured_image": {
         "thumbnail": ""
       },
-      "description": "Jonathan and Amy had a child via surrogacy in Argentina. They have been stuck there for 12 months, unable to bring their daughter home.",
+      "description": "Jonathan and Amy\u00a0had a child via surrogacy in\u00a0Argentina.\u00a0They have\u00a0been stuck\u00a0there for 12 months,\u00a0unable to bring their daughter\u00a0home.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/battle-bring-home-sophie-after-surrogacy-red-tape-argentina/106126626"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-19T05:53:11.712649"
+  "merged_at": "2026-02-19T06:49:50.101124"
 }
