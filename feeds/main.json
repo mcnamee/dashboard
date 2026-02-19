@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/da13fb2b-c9ba-42ca-888a-dabde1245bea",
+      "published_datetime": "2026-02-19T20:58:17.200739",
+      "title": "World Bank opens Gaza reconstruction fund as nations pledge $17B",
+      "featured_image": {
+        "url": "https://www.bostonglobe.com/2026/02/19/nation/trump-board-of-peace-gaza-iran/",
+        "name": "Trump hosts inaugural meeting of his Board of Peace ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--KRuysenD--/t_limit/https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/FPUSBZWRPZDXZFX2SJQ466XNUM.jpg%3Fauth%3Db9a605f18f95bcd8b35bd678fdbd97941d14128e0cdff9850bf7e930803847c5%26width%3D1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--pAHtYgLQ--/t_thumbnail/https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/FPUSBZWRPZDXZFX2SJQ466XNUM.jpg%3Fauth%3Db9a605f18f95bcd8b35bd678fdbd97941d14128e0cdff9850bf7e930803847c5%26width%3D1440"
+      },
+      "description": "World Bank President Ajay Banga announced Thursday that the Gaza Reconstruction and Development Fund is now ready to accept donations, marking a step toward rebuilding the war-devastated Palestinian territory as nations pledge billions at the first meeting of President Donald Trump's Board of Peace in Washington.\n\nBanga, speaking at the inaugural gathering at the Donald J. Trump Institute of Peace, said the fund would secure donor money while the Board of Peace directs disbursements for reconstruction and development projects in the Gaza Strip. He assured donors that \"robust financial, legal and oversight mechanisms\" are in place to guarantee transparency about how the money is utilized.[1][2]\n\n\"The World Bank's role is that of a limited trustee,\" Banga explained, according to Middle East Eye. \"Because of our AAA rating, we have the ability to leverage private bond money to help to create the resources we need... we can de-risk private investing.\"[2]",
+      "audio_url": "",
+      "url": "world-bank-opens-gaza-reconstr-I0WWfd1qQmGsnZYdwcFMFQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-19T20:12:21.000000Z",
       "title": "Live: Wilson walks back suggestion Liberals would rethink RBA mandate",
       "featured_image": {
@@ -208,21 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8adc8858-e8aa-429a-a795-e5c594579d27",
-      "published_datetime": "2026-02-19T15:45:36.133813",
-      "title": "South Korea's ex-president Yoon sentenced to life for insurrection",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2026/1/16/south-koreas-former-president-yoon-sentenced-to-five-years-what-we-know",
-        "name": "South Korea's former President Yoon sentenced to five years: What we know",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--AkoUHTQe--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/01/AP25314166106037-1768331933.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--vFUzkerZ--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/01/AP25314166106037-1768331933.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "Former South Korean President Yoon Suk Yeol was sentenced to life in prison on Thursday after a court found him guilty of leading an insurrection through his ill-fated declaration of martial law in December 2024, ending one of the most dramatic political crises in the country's democratic history.\n\nPresiding Judge Ji Gwi-yeon of the Seoul Central District Court ruled that Yoon \"directly and proactively planned\" the insurrection and acted \"with the purpose of subverting the Constitution by sending the military to the National Assembly to paralyze or limit its function for a substantial amount of time.\" Prosecutors had sought the death penalty, arguing that Yoon bore primary responsibility for destabilizing the constitutional order and had shown no remorse.[1][2][3]",
-      "audio_url": "",
-      "url": "south-korea-s-ex-president-yoo-vfMSQ6AwSn2cp7UeUWmc6w",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-19T10:11:47.000000Z",
       "title": "King's brother Andrew arrested",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-19T21:24:05.875136"
+  "merged_at": "2026-02-19T21:39:48.595176"
 }
