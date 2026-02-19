@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-19T10:11:47.000000Z",
+      "title": "Breaking: Andrew Mountbatten-Windsor reportedly arrested",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bac0ff281d828725339516c4cdc9be46?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Andrew Mountbatten-Windsor has been arrested on suspicion of misconduct in public office, the BBC has reported.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/andrew-mountbatten-windsor-epstein-police/106365802"
+    },
+    {
       "published_datetime": "2026-02-19T05:57:14.000000Z",
-      "title": "Visual clues show the US is on the brink of attacking Iran",
+      "title": "Visual clues show the US could be getting closer to attacking Iran",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e3ceab438735f0abc6adff9b472bf370?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -29,21 +38,12 @@
     },
     {
       "published_datetime": "2026-02-19T07:27:59.000000Z",
-      "title": "Coles pet range manager grilled in court about 'Down Down' pricing of dog food",
+      "title": "Coles manager admits dog food price moves were outside 'guardrails'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0793d0ff02872c8351c6ad962ef36a2e?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
       },
       "description": "A second Coles manager has been grilled in the federal court over whether rushing a product onto a \"Down Down\" promotion could have broken internal guidelines.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/coles-accc-federal-court-dog-food-down-down-pricing/106358664"
-    },
-    {
-      "published_datetime": "2026-02-19T03:51:50.000000Z",
-      "title": "In her memoir, Gisèle Pelicot reveals the man she kept hidden",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b351768eb9f4be62f76370f19267a5a1?impolicy=wcms_crop_resize&amp;cropH=2535&amp;cropW=4506&amp;xPos=0&amp;yPos=235&amp;width=862&amp;height=485"
-      },
-      "description": "The world knows Gisèle Pelicot as the woman who waived anonymity during France's most infamous rape trial. But in her new memoir she reveals an unexpected story — the boyfriend she kept hidden and the love that helped her face an open courtroom.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/secret-boyfriend-who-stood-beside-gis%C3%A8le-pelicot/106357080"
     },
     {
       "published_datetime": "2026-02-19T00:29:52.000000Z",
@@ -64,6 +64,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/winter-olympics-milano-cortina-live-blog-day-13/106363160"
     },
     {
+      "published_datetime": "2026-02-19T03:51:50.000000Z",
+      "title": "In her memoir, Gisèle Pelicot reveals the man she kept hidden",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b351768eb9f4be62f76370f19267a5a1?impolicy=wcms_crop_resize&amp;cropH=2535&amp;cropW=4506&amp;xPos=0&amp;yPos=235&amp;width=862&amp;height=485"
+      },
+      "description": "The world knows Gisèle Pelicot as the woman who waived anonymity during France's most infamous rape trial. But in her new memoir she reveals an unexpected story — the boyfriend she kept hidden and the love that helped her face an open courtroom.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/secret-boyfriend-who-stood-beside-gis%C3%A8le-pelicot/106357080"
+    },
+    {
       "published_datetime": "2026-02-19T00:02:48.000000Z",
       "title": "How Australia has the power to ban 'ISIS brides' from returning",
       "featured_image": {
@@ -71,15 +80,6 @@
       },
       "description": "One of the Australian women being held in a Syrian refugee camp has been barred from returning home after being given a temporary exclusion order — but the ban may not be as temporary as the name implies.  ",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/australian-citizens-banned-returning-overseas-exclusion-orders/106361634"
-    },
-    {
-      "published_datetime": "2026-02-19T07:28:54.000000Z",
-      "title": "South Korea's ex-president Yoon Suk Yeol sentenced to life over insurrection",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d8ca82a1efca81425a2ab98a627686f9?impolicy=wcms_crop_resize&amp;cropH=2419&amp;cropW=4301&amp;xPos=0&amp;yPos=248&amp;width=862&amp;height=485"
-      },
-      "description": "Former South Korean President Yoon Suk Yeol is sentenced to life in prison on charges of rebellion for his attempt to put the country under military rule.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/south-korea-president-yoon-suk-yeol-sentenced-insurrection-guilt/106363456"
     },
     {
       "published_datetime": "2026-02-19T03:53:08.000000Z",
@@ -91,6 +91,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/how-the-deadliest-avalanche-in-the-us-in-40-years-unfolded/106362394"
     },
     {
+      "published_datetime": "2026-02-19T07:28:54.000000Z",
+      "title": "South Korea's ex-president Yoon Suk Yeol sentenced to life over insurrection",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d8ca82a1efca81425a2ab98a627686f9?impolicy=wcms_crop_resize&amp;cropH=2419&amp;cropW=4301&amp;xPos=0&amp;yPos=248&amp;width=862&amp;height=485"
+      },
+      "description": "Former South Korean President Yoon Suk Yeol is sentenced to life in prison on charges of rebellion for his attempt to put the country under military rule.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/south-korea-president-yoon-suk-yeol-sentenced-insurrection-guilt/106363456"
+    },
+    {
       "published_datetime": "2026-02-19T06:17:52.000000Z",
       "title": "Childcare provider fined $35k after neurodivergent boy wanders off",
       "featured_image": {
@@ -98,15 +107,6 @@
       },
       "description": "One of Australia's biggest providers of before-and-after-school care penalised after a five-year-old neurodivergent child escapes supervision unnoticed.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/samson-primary-school-after-school-care-fined-over-child-leaving/106360960"
-    },
-    {
-      "published_datetime": "2026-02-19T08:03:34.000000Z",
-      "title": "Gas explosion kills 16 as apartment building collapses in Pakistan",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1b9d75cd38af5b0f02c9ad5fdfd8c408?impolicy=wcms_crop_resize&amp;cropH=551&amp;cropW=980&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
-      },
-      "description": "Women and children are among 16 people killed after a gas explosion ripped through an apartment building in Pakistan on Thursday.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/gas-explosion-kills-16-apartment-building-collapses-pakistan/106365612"
     },
     {
       "published_datetime": "2026-02-19T01:36:52.000000Z",
@@ -118,6 +118,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/charlie-pickering-the-weekly-interview/106307588"
     },
     {
+      "published_datetime": "2026-02-19T08:03:34.000000Z",
+      "title": "Gas explosion kills 16 as apartment building collapses in Pakistan",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1b9d75cd38af5b0f02c9ad5fdfd8c408?impolicy=wcms_crop_resize&amp;cropH=551&amp;cropW=980&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
+      },
+      "description": "Women and children are among 16 people killed after a gas explosion ripped through an apartment building in Pakistan on Thursday.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/gas-explosion-kills-16-apartment-building-collapses-pakistan/106365612"
+    },
+    {
       "published_datetime": "2026-02-19T04:52:00.000000Z",
       "title": "Extremist material allegedly found on man's phone after vehicle stop",
       "featured_image": {
@@ -125,15 +134,6 @@
       },
       "description": "A 31-year-old has been arrested a second time after police stopped and searched a vehicle in Yagoona and seized three mobile phones allegedly storing violent extremist material.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/man-charged-with-alleged-terrorism-offences-in-south-west-sydney/106364186"
-    },
-    {
-      "published_datetime": "2026-02-19T06:48:52.000000Z",
-      "title": "'Religious leader' allegedly controlled lives of youth group, court told",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/167eaad978eb6d65a7733c05b9e23722?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=349&amp;width=862&amp;height=485"
-      },
-      "description": "An alleged religious leader accused of \"controlling every aspect\" of the lives of a Venezuelan youth group has been granted release on strict home detention conditions by a South Australian court.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/bail-granted-over-alleged-youth-group-servitude/106363616"
     },
     {
       "published_datetime": "2026-02-18T23:05:24.000000Z",
@@ -152,6 +152,15 @@
       },
       "description": "This Winter Olympics aerials competition saw plenty of Aussies achieve lifetime goals, but they never forgot the one person who was missing.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/heartwarming-aerials-tribute-laura-peel/106361392"
+    },
+    {
+      "published_datetime": "2026-02-19T06:48:52.000000Z",
+      "title": "'Religious leader' allegedly controlled lives of youth group, court told",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/167eaad978eb6d65a7733c05b9e23722?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=349&amp;width=862&amp;height=485"
+      },
+      "description": "An alleged religious leader accused of \"controlling every aspect\" of the lives of a Venezuelan youth group has been granted release on strict home detention conditions by a South Australian court.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/bail-granted-over-alleged-youth-group-servitude/106363616"
     },
     {
       "published_datetime": "2026-02-19T07:25:10.000000Z",
@@ -181,15 +190,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/malinauskas-criticised-for-comments-on-aged-care-migrant-workers/106362214"
     },
     {
-      "published_datetime": "2026-02-19T06:34:47.000000Z",
-      "title": "Salmon farm antibiotics found in native species",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bb1c9751e522bec865c5d5ad48d2cb5c?impolicy=wcms_crop_resize&amp;cropH=983&amp;cropW=1748&amp;xPos=0&amp;yPos=382&amp;width=862&amp;height=485"
-      },
-      "description": "An antibiotic used by the Tasmanian salmon farming industry is detected in native species more than 10km away from the closest fish operation using it.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/salmon-farm-antibiotics-found-in-native-species/106363462"
-    },
-    {
       "published_datetime": "2026-02-19T08:39:07.000000Z",
       "title": "'There were no cowards': Bombing of Darwin commemorated 84 years on",
       "featured_image": {
@@ -197,6 +197,15 @@
       },
       "description": "Eighty-four years after Darwin was bombed in the single largest foreign attack ever mounted on Australian soil, hundreds of people have gathered to remember.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/bombing-of-darwin-commemorations-84-year-anniversary-esplanade/106362662"
+    },
+    {
+      "published_datetime": "2026-02-19T06:34:47.000000Z",
+      "title": "Salmon farm antibiotics found in native species",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bb1c9751e522bec865c5d5ad48d2cb5c?impolicy=wcms_crop_resize&amp;cropH=983&amp;cropW=1748&amp;xPos=0&amp;yPos=382&amp;width=862&amp;height=485"
+      },
+      "description": "An antibiotic used by the Tasmanian salmon farming industry is detected in native species more than 10km away from the closest fish operation using it.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-19/salmon-farm-antibiotics-found-in-native-species/106363462"
     },
     {
       "published_datetime": "2026-02-19T03:20:22.000000Z",
@@ -215,15 +224,6 @@
       },
       "description": "Jonathan and Amy had a child via surrogacy in Argentina. They have been stuck there for 12 months, unable to bring their daughter home.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-19/battle-bring-home-sophie-after-surrogacy-red-tape-argentina/106126626"
-    },
-    {
-      "published_datetime": "2026-02-19T06:23:22.000000Z",
-      "title": "Racehorse owner disqualified after gelding found dead in paddock",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/451490012280c9c1b78b8862c4e73225?impolicy=wcms_crop_resize&amp;cropH=569&amp;cropW=1011&amp;xPos=0&amp;yPos=52&amp;width=862&amp;height=485"
-      },
-      "description": "Registered owner and stablehand Brian Carey is disqualified after being found guilty by Racing NSW of failing to ensure his racehorse, City Limits, had sufficient food and water. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-19/brian-carey-city-limits-racing-nsw-racehorse-maryborough/106362914"
     }
   ]
 }
