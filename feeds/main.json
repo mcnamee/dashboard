@@ -19,6 +19,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-21/qld-child-safety-commission-of-inquiry-continues-toowoomba/106367756"
     },
     {
+      "published_datetime": "2026-02-20T20:13:59.000000Z",
+      "title": "Where cameras aren't allowed, these artists become 'king'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba12e5f24f3aa53f14b2b27c0721a873?impolicy=wcms_crop_resize&amp;cropH=705&amp;cropW=1254&amp;xPos=0&amp;yPos=43&amp;width=862&amp;height=485"
+      },
+      "description": "They're a small and curious cohort in a line of work rapidly evolving. Welcome to the world of courtroom artists.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-21/the-art-and-origins-of-the-courtroom-sketch/105817718"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1f72b95e-8851-46fd-a7c5-6494c0871b69",
       "published_datetime": "2026-02-20T18:55:00.559580",
       "title": "UK considers removing Andrew from royal succession",
@@ -185,11 +194,11 @@
     },
     {
       "published_datetime": "2026-02-20T16:36:28.000000Z",
-      "title": "Royal protection police close to Andrew Mountbatten-Windsor to be grilled",
+      "title": "UK to consider removing Andrew from royal succession line",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fcc4061f19d043c10f0ae35c5a179b89?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=274&amp;width=862&amp;height=485"
       },
-      "description": "British police officers involved in royal protection are set to be grilled as part of a review into Andrew Mountbatten-Windsor, as authorities probe information on \"anything they saw or heard\".",
+      "description": "The UK government is to look at removing Andrew Mountbatten-Windsor from the line of succession, an official says, as royal protection police face a grilling on \"anything they saw or heard\".",
       "page_content_url": "https://www.abc.net.au/news/2026-02-21/royal-protection-police-to-be-grilled-over-mountbatten-windsor/106371406"
     },
     {
@@ -230,15 +239,6 @@
       },
       "description": "The US president says he is \"absolutely ashamed\" of members of the court who struck down his global tariffs after finding he lacked the authority to implement them.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-21/supreme-court-rules-against-donald-trumps-tariffs/106371286"
-    },
-    {
-      "published_datetime": "2026-02-20T08:35:24.000000Z",
-      "title": "Live: Norway sets Winter Olympics record with 17th gold medal",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/91c115b6b1e95f7effcdf2b97a403681?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=158&amp;width=862&amp;height=485"
-      },
-      "description": "Norway breaks its own record for the most gold medals won by a nation at a single Winter Olympics. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-20/winter-olympics-day-14-live-updates-kyra-wheatley-bobsleigh/106369192"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-20T21:16:34.035087"
+  "merged_at": "2026-02-20T22:16:40.494210"
 }
