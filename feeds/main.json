@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-20T09:51:30.000000Z",
+      "title": "Trump orders release of files on aliens after Obama's 'classified' slip",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6a51c1a9498d40bd2be82be5e3ca0505?impolicy=wcms_crop_resize&amp;cropH=1548&amp;cropW=2752&amp;xPos=0&amp;yPos=146&amp;width=862&amp;height=485"
+      },
+      "description": "US President Donald Trump says he will direct federal agencies to begin \"identifying and releasing\" government files related to UFOs and aliens.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-20/trump-orders-release-ufo-uap-extraterrestrials-files/106370826"
+    },
+    {
       "published_datetime": "2026-02-20T08:35:24.000000Z",
       "title": "Live: Wheatley set for Olympic debut as women's ski cross begins",
       "featured_image": {
@@ -11,11 +20,11 @@
     },
     {
       "published_datetime": "2026-02-20T08:06:21.000000Z",
-      "title": "Police consider investigation into Pauline Hanson comments",
+      "title": "Police receive \u2018reports of crime\u2019 in relation to Hanson interview",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5b47b16bc22cfbd693199608a21388f8?impolicy=wcms_crop_resize&amp;cropH=1023&amp;cropW=1819&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Senator Pauline Hanson has accused the government of trying to put her \"back in jail\" after police said they were considering an investigation over her inflammatory comments about Muslims during a media interview.",
+      "description": "One Nation senator Pauline Hanson accuses the government of trying to put her \"back in jail\", after police received reports of a crime in relation to the senator's inflammatory comments about Muslims during a media interview.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-20/police-investigation-pauline-hanson-afp-one-nation-muslim/106370420"
     },
     {
@@ -232,15 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-19T19:12:47.000000Z",
-      "title": "Eleven Australian 'ISIS brides' are trying to come home. This is who they are",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c472383292194e347c16313d5a029303?impolicy=wcms_crop_resize&amp;cropH=581&amp;cropW=1033&amp;xPos=0&amp;yPos=14&amp;width=862&amp;height=485"
-      },
-      "description": "The ABC can reveal the names of the 11 women connected to former Islamic State fighters in Syria who attempted to journey home to Australia this week.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-20/eleven-australian-isis-brides-trying-to-leave-syria-named/106362024"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-20T09:51:14.592633"
+  "merged_at": "2026-02-20T10:29:09.494416"
 }
