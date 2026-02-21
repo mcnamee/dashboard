@@ -2,7 +2,7 @@
   "items": [
     {
       "published_datetime": "2026-02-21T04:28:05.000000Z",
-      "title": "The US Supreme Court's takedown of Trump's tariffs, explained",
+      "title": "What the take-down of Trump's tariffs means for Australia and the world",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a74ebf032f29bd2ae6a7418e5d731a09?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=275&amp;width=862&amp;height=485"
       },
@@ -19,8 +19,17 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-21/nasa-report-reveals-starliner-mission-failings/106371706"
     },
     {
+      "published_datetime": "2026-02-21T02:50:02.000000Z",
+      "title": "Yoon Suk Yeol's insurrection conviction completes a scandalous downfall",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8a4877a25bd7483c7ad153e002d37d8b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Former South Korean president Yoon Suk Yeol's sentence for insurrection comes after a tumultuous era of shamanism, Chanel bags and conspiracy theories.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-21/the-scandalous-downfall-of-yoon-suk-yeol/106358072"
+    },
+    {
       "published_datetime": "2026-02-21T02:48:30.000000Z",
-      "title": "How a window opened for IS-linked Australians to leave Syria",
+      "title": "Amid power struggles in Syria, a window opened for the 'ISIS brides'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ca24f60f737876dd2f5c881daab64eb5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -53,15 +62,6 @@
       },
       "description": "The theory goes that if you have just the right amount of workers on the unemployment scrap heap, you can keep inflation in check. The problem is that no-one knows exactly what the magic unemployment rate is.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-21/why-economists-hate-low-unemployment-for-inflation/106367852"
-    },
-    {
-      "published_datetime": "2026-02-21T00:04:31.000000Z",
-      "title": "Zempilas has three H's in mind. There's one more he'll want to avoid",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/22f449faedf743ffeef5a25e8684ea1c?impolicy=wcms_crop_resize&amp;cropH=3483&amp;cropW=6192&amp;xPos=0&amp;yPos=323&amp;width=862&amp;height=485"
-      },
-      "description": "Housing, health and household stress \u2014 that's what WA's opposition leader says he's focused on in 2026 as he and his party face an uphill battle against the state government.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-21/wa-parliament-week-one-analysis-basil-zempilas-roger-cook/106365878"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/aae055f8-5cbc-432c-9c63-e275acbfd6d9",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-21T05:05:27.496517"
+  "merged_at": "2026-02-21T06:31:22.112394"
 }
