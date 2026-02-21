@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-21T00:28:21.000000Z",
+      "title": "The dirty little secret economists never want to mention",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2cdd4b0495e141cd9e879527ce640ce8?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
+      },
+      "description": "The theory goes that if you have just the right amount of workers on the unemployment scrap heap, you can keep inflation in check. The problem is that no-one knows exactly what the magic unemployment rate is.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-21/why-economists-hate-low-unemployment-for-inflation/106367852"
+    },
+    {
       "published_datetime": "2026-02-20T22:33:54.000000Z",
       "title": "Americans fearing death of democracy have been given a glimmer of hope",
       "featured_image": {
@@ -23,6 +32,24 @@
       "audio_url": "",
       "url": "new-studies-bolster-theory-tha-eww_eQDsStWv2B16mETLew",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-02-20T21:52:27.000000Z",
+      "title": "Anna almost died in Tokyo from a disease she thought she was vaccinated against",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/67d4552a88155dfb87bbd001ec2140a4?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=463&amp;width=862&amp;height=485"
+      },
+      "description": "When 24-year-old Anna Gallo woke up shivering in a Tokyo hotel, she thought it was food poisoning. Hours later, she was in a coma fighting for her life against a disease she thought she was vaccinated against.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-21/queensland-woman-coma-meningitis-septic-shock-in-japan/106367880"
+    },
+    {
+      "published_datetime": "2026-02-20T21:30:48.000000Z",
+      "title": "NASA set to launch humans around Moon for first time in 50 years",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/813f1c5601a663359d6f4b9dc2300d07?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=61&amp;width=862&amp;height=485"
+      },
+      "description": "NASA's Artemis II mission may launch in early March. If successful, it will be the first time humans have flown beyond the Moon in more than 50 years.",
+      "page_content_url": "https://www.abc.net.au/news/science/2026-02-21/artemis-2-mission-scheduled-to-launch-humans-moon-travel/106273572"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bdbbfe18-f8b4-4095-bb6c-70ff9df8ca11",
@@ -64,15 +91,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-21/qld-child-safety-commission-of-inquiry-continues-toowoomba/106367756"
     },
     {
-      "published_datetime": "2026-02-20T20:13:59.000000Z",
-      "title": "Where cameras aren't allowed, these artists become 'king'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba12e5f24f3aa53f14b2b27c0721a873?impolicy=wcms_crop_resize&amp;cropH=705&amp;cropW=1254&amp;xPos=0&amp;yPos=43&amp;width=862&amp;height=485"
-      },
-      "description": "They're a small and curious cohort in a line of work rapidly evolving. Welcome to the world of courtroom artists.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-21/the-art-and-origins-of-the-courtroom-sketch/105817718"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1f72b95e-8851-46fd-a7c5-6494c0871b69",
       "published_datetime": "2026-02-20T18:55:00.559580",
       "title": "UK considers removing Andrew from royal succession",
@@ -101,24 +119,6 @@
       "audio_url": "",
       "url": "trump-orders-new-10-global-tar-D2z88z1KTpuHKZTrOMYRzw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-20T18:49:08.000000Z",
-      "title": "For years Andrew escaped scrutiny, but things are shifting under Charles",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/26743a254b645ad3539e092c17def018?impolicy=wcms_crop_resize&amp;cropH=1851&amp;cropW=3291&amp;xPos=0&amp;yPos=211&amp;width=862&amp;height=485"
-      },
-      "description": "Like so many of the elite caught in Epstein's web, Andrew believed he would escape scrutiny for his behaviour. But it is precisely because of his name and position that his alleged wrongdoing has now delivered him into the hands of the law.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-21/andrew-arrest-will-go-down-in-history-books/106367696"
-    },
-    {
-      "published_datetime": "2026-02-20T18:49:08.000000Z",
-      "title": "Heaviest outback rain in decades to reach SA, NSW and Victorian farmers",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8084e819308ed4947ccb5933f0e5c659?impolicy=wcms_crop_resize&amp;cropH=927&amp;cropW=1648&amp;xPos=112&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The driest belt of Australia sees its wettest month in decades, and weather modelling tips the outback rain will reach southern Australia this weekend.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-21/widespread-rain-forecast-for-south-australia-riverina-victoria/106370362"
     },
     {
       "published_datetime": "2026-02-20T18:47:38.000000Z",
@@ -237,7 +237,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c5450941a1189090e1e71ab20cb47971?impolicy=wcms_crop_resize&amp;cropH=2622&amp;cropW=4661&amp;xPos=0&amp;yPos=154&amp;width=862&amp;height=485"
       },
-      "description": "The US president says he is \"absolutely ashamed\" of members of the court who struck down his global tariffs after finding he lacked the authority to implement them.",
+      "description": "The US president says he is \"absolutely ashamed\" of members of the court who struck down his global tariffs after finding he lacked the authority to implement them. \u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-21/supreme-court-rules-against-donald-trumps-tariffs/106371286"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-20T23:35:28.936217"
+  "merged_at": "2026-02-21T01:12:38.930756"
 }
