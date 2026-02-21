@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9d832c0a-96d8-40ae-a69a-e78ff8cbcd9f",
+      "published_datetime": "2026-02-21T10:50:34.917853",
+      "title": "New battery designs tackle fire risk and scarce metals",
+      "featured_image": {
+        "url": "https://www.livescience.com/technology/artificial-intelligence/scientists-built-a-low-lithium-battery-from-a-new-material-that-took-just-hours-to-discover-thanks-to-ai",
+        "name": "Scientists used AI to build a low-lithium battery from a new ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--O--oiFhR--/t_limit/https://cdn.mos.cms.futurecdn.net/sinuC7jndmv8fCepTwUncT.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ZGsfr8IG--/t_thumbnail/https://cdn.mos.cms.futurecdn.net/sinuC7jndmv8fCepTwUncT.jpg"
+      },
+      "description": "A flurry of new studies published this week from laboratories in China, Hong Kong, and the United States detail battery designs built around safer electrolytes and more durable materials, offering a glimpse of energy storage systems that could move beyond the flammability and resource constraints of conventional lithium-ion technology.",
+      "audio_url": "",
+      "url": "new-battery-designs-tackle-fir-JlWYILOySzaGYFFTHdR_9Q",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-21T08:37:30.000000Z",
       "title": "Gout comes so close to breaking 10-second barrier, sets another record",
       "featured_image": {
@@ -11,7 +26,7 @@
     },
     {
       "published_datetime": "2026-02-21T08:30:23.000000Z",
-      "title": "Live: Australia puts itself in medal contention in mixed aerials final",
+      "title": "Live: Australia just miss out on a medal in mixed aerials",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/54c4cd4d2ca2251a03c03b8d2e24a4aa?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/439e1ffc-1945-4c88-8bd9-2ccd7a169de5",
-      "published_datetime": "2026-02-20T17:24:51.724071",
-      "title": "NASA targets March 6 for first crewed moon mission in over 50 years",
-      "featured_image": {
-        "url": "https://www.nasa.gov/blogs/missions/2026/02/19/nasa-begins-artemis-ii-launch-pad-ops-after-successful-fuel-test/",
-        "name": "NASA Begins Artemis II Launch Pad Ops After Successful Fuel Test",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_CYt41TS--/t_limit/https://images-assets.nasa.gov/image/KSC-20260210-PH-JBS01-0126/KSC-20260210-PH-JBS01-0126%7Elarge.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--hrgDxpVy--/t_thumbnail/https://images-assets.nasa.gov/image/KSC-20260210-PH-JBS01-0126/KSC-20260210-PH-JBS01-0126%7Elarge.jpg"
-      },
-      "description": "NASA announced Friday that it is targeting March 6 for the launch of Artemis II, the first crewed mission to the vicinity of the moon in more than 50 years, after engineers successfully completed a critical fueling test of the Space Launch System rocket on Thursday evening at Kennedy Space Center in Florida.[1][2]\n\nThe announcement followed a press conference in which Lori Glaze, NASA's Moon to Mars program manager, confirmed that the wet dress rehearsal \u2014 a full simulation of launch-day fueling and countdown operations \u2014 had gone as planned. \"Following that successful wet dress yesterday, we're now targeting March 6 as our earliest launch attempt,\" Glaze said, while cautioning that pad work, data analysis, and a flight readiness review still need to be completed.[3][2]",
-      "audio_url": "",
-      "url": "nasa-targets-march-6-for-first-eTSc2SRgTRuuTpjzTiiAqQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-21T11:15:40.083589"
+  "merged_at": "2026-02-21T12:28:45.256808"
 }
