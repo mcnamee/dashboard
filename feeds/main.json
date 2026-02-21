@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2a57bb4b-ad47-4979-a3d1-61413a07f7bd",
+      "published_datetime": "2026-02-21T16:35:24.374983",
+      "title": "Guterres calls for science-based AI policy at India summit",
+      "featured_image": {
+        "url": "https://thesun.my/news/world-news/asia/un-chief-warns-ai-future-cannot-be-left-to-billionaires/",
+        "name": "UN chief warns AI future cannot be left to billionaires",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Jqs4dJyN--/t_limit/https://thesun.my/wp-content/uploads/2026/02/INDIA-TECHNOLOGY-AI-075618.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--gqPgreCh--/t_thumbnail/https://thesun.my/wp-content/uploads/2026/02/INDIA-TECHNOLOGY-AI-075618.webp"
+      },
+      "description": "United Nations Secretary-General Ant\u00f3nio Guterres urged the global community to put science at the center of artificial intelligence governance, warning that \"policy cannot be built on guesswork\" and calling for evidence-based cooperation to harness AI for sustainable development. His remarks came at a side event on the role of science in international AI governance on February 20, during the final day of the India AI Impact Summit 2026 in New Delhi.[1][2][3]",
+      "audio_url": "",
+      "url": "guterres-calls-for-science-bas-_95ec1QCTL6U_I6QCy4mGw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-21T13:38:56.000000Z",
       "title": "Hungary and Slovakia threaten Ukraine over stalled Russian oil shipments",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/98b3c471-3519-400a-8f03-f08f588cb117",
-      "published_datetime": "2026-02-20T17:52:27.382606",
-      "title": "Artemis II launch set for March 6 after fueling test successful",
-      "featured_image": {
-        "url": "https://www.nasa.gov/mission/artemis-ii/",
-        "name": "Artemis II: NASA's First Crewed Lunar Flyby in 50 Years",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--0n4TeAd2--/t_limit/https://images-assets.nasa.gov/image/KSC-20230920-PH-FMX01_0467/KSC-20230920-PH-FMX01_0467%7Elarge.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Dh0gmJHL--/t_thumbnail/https://images-assets.nasa.gov/image/KSC-20230920-PH-FMX01_0467/KSC-20230920-PH-FMX01_0467%7Elarge.jpg"
-      },
-      "description": "NASA is targeting March 6 as the launch date for its Artemis II mission after engineers successfully completed a critical fueling test of the Space Launch System rocket on the evening of February 19, overcoming hydrogen leak problems that had derailed an earlier attempt and delayed the historic crewed journey to the moon.\n\nThe four-member crew \u2014 Commander Reid Wiseman, pilot Victor Glover, mission specialists Christina Koch, and Canadian Space Agency astronaut Jeremy Hansen \u2014 began preparing to enter a roughly 14-day quarantine on February 20 in Houston, a step NASA said would \"preserve flexibility in the March launch window.\"[1]",
-      "audio_url": "",
-      "url": "artemis-ii-launch-set-for-marc-Odbc3vccR5qkNCAH29bfsw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-21T18:22:29.970750"
+  "merged_at": "2026-02-21T18:45:59.718820"
 }
