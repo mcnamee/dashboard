@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-21T13:38:56.000000Z",
+      "title": "Hungary and Slovakia threaten Ukraine over stalled Russian oil shipments",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/acbcc9ffaf8cc44ab82fe0130db93e0c?impolicy=wcms_crop_resize&amp;cropH=1569&amp;cropW=2790&amp;xPos=0&amp;yPos=145&amp;width=862&amp;height=485"
+      },
+      "description": "Hungary and Slovakia, which have both received a temporary exemption from an EU policy prohibiting imports of Russian oil, have accused Ukraine of deliberately holding up supplies.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-22/hungary-and-slovakia-threaten-ukraine-russian-oil/106372526"
+    },
+    {
+      "published_datetime": "2026-02-21T11:07:58.000000Z",
+      "title": "Buy-out offer for Wang Fuk Court owners in Hong Kong",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18d7583347f4c9b45a69819146778815?impolicy=wcms_crop_resize&amp;cropH=2531&amp;cropW=4500&amp;xPos=0&amp;yPos=234&amp;width=862&amp;height=485"
+      },
+      "description": "After a deadly Hong Kong fire that killed 168 people and left thousands homeless in November, authorities have announced a buy-out offer for owners.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-21/hong-kong-fire-buyout-wang-fuk-court/106372476"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9d832c0a-96d8-40ae-a69a-e78ff8cbcd9f",
       "published_datetime": "2026-02-21T10:50:34.917853",
       "title": "New battery designs tackle fire risk and scarce metals",
@@ -26,11 +44,11 @@
     },
     {
       "published_datetime": "2026-02-21T08:30:23.000000Z",
-      "title": "Live: Australia just miss out on a medal in mixed aerials",
+      "title": "Live: Woods and Scott chosen as Aussie flag-bearers for closing ceremony",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/54c4cd4d2ca2251a03c03b8d2e24a4aa?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ac670e84449fc1291e2c58cf4e1b5965?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
       },
-      "description": "Australian teenager Indra Brown headlines the list of Australians competing for medals on day 15 of the Milano Cortina Games. Follow live.\u00a0",
+      "description": "Cooper Woods and Danielle Scott are given the honour of carrying Australia\u2019s flag at the Milano Cortina Olympics closing ceremony. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-21/winter-olympics-2026-milano-cortina-day-15-live-updates/106369762"
     },
     {
@@ -59,15 +77,6 @@
       },
       "description": "After holding a large swathe of autonomous territory that included two detention camps, Kurdish-led forces are now reluctantly handing over control to Syrian government forces, following their successful military offensive.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-21/how-a-window-opened-for-is-linked-australians-to-leave-syria/106368348"
-    },
-    {
-      "published_datetime": "2026-02-21T02:28:04.000000Z",
-      "title": "Anna Murdoch-Mann, ex-wife of Rupert Murdoch, dies aged 81",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/144876021555a3d5495df7ce2158e6b8?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=36&amp;width=862&amp;height=485"
-      },
-      "description": "The author, journalist and philanthropist was Rupert Murdoch's \"active partner\" in his media empire News Corp over their 31-year marriage.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-21/anna-murdoch-mann-dies-aged-81/106371640"
     },
     {
       "published_datetime": "2026-02-21T00:56:29.000000Z",
@@ -101,15 +110,6 @@
       "audio_url": "",
       "url": "new-studies-bolster-theory-tha-eww_eQDsStWv2B16mETLew",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-20T21:30:48.000000Z",
-      "title": "After more than 50 years, humans are set to return to the Moon",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/813f1c5601a663359d6f4b9dc2300d07?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=61&amp;width=862&amp;height=485"
-      },
-      "description": "NASA's Artemis II mission may launch in early March. If successful, it will be the first time humans have flown beyond the Moon in more than 50 years.",
-      "page_content_url": "https://www.abc.net.au/news/science/2026-02-21/artemis-2-mission-scheduled-to-launch-humans-moon-travel/106273572"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bdbbfe18-f8b4-4095-bb6c-70ff9df8ca11",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-21T13:36:38.560751"
+  "merged_at": "2026-02-21T14:18:33.675674"
 }
