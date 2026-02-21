@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-21T08:37:30.000000Z",
+      "title": "Gout comes so close to breaking 10-second barrier, sets another record",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/20f39672fcfd8ba6d6e45d4b51fa4ca5?impolicy=wcms_crop_resize&amp;cropH=2528&amp;cropW=4494&amp;xPos=0&amp;yPos=235&amp;width=862&amp;height=485"
+      },
+      "description": "Australian sprinting sensation Gout Gout comes perilously close to breaking the 10-second barrier, with another eye-catching run in Brisbane.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-21/gout-gout-sets-another-record-with-10-second-100m/106372384"
+    },
+    {
+      "published_datetime": "2026-02-21T08:30:23.000000Z",
+      "title": "Live: Indra Brown headlines Aussies competing for medals on day 15",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f1368c5c9bef7856503b3ac7c2af0082?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=357&amp;width=862&amp;height=485"
+      },
+      "description": "Australian teenager Indra Brown headlines the list of Australians competing for medals on day 15 of the Milano Cortina Games. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-21/winter-olympics-day-15-live-updates/106369762"
+    },
+    {
       "published_datetime": "2026-02-21T04:28:05.000000Z",
       "title": "What the take-down of Trump's tariffs means for Australia and the world",
       "featured_image": {
@@ -17,15 +35,6 @@
       },
       "description": "A bungled Boeing mission that left two astronauts stranded on the International Space Station for nine months has been criticised by NASA's new boss.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-21/nasa-report-reveals-starliner-mission-failings/106371706"
-    },
-    {
-      "published_datetime": "2026-02-21T02:50:02.000000Z",
-      "title": "Yoon Suk Yeol's insurrection conviction completes a scandalous downfall",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8a4877a25bd7483c7ad153e002d37d8b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Former South Korean president Yoon Suk Yeol's sentence for insurrection comes after a tumultuous era of shamanism, Chanel bags and conspiracy theories.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-21/the-scandalous-downfall-of-yoon-suk-yeol/106358072"
     },
     {
       "published_datetime": "2026-02-21T02:48:30.000000Z",
@@ -116,15 +125,6 @@
       "audio_url": "",
       "url": "noaa-adopts-new-el-nino-index-kfH2Uq5sSNCWaBPgA1RSCA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-20T21:00:00.000000Z",
-      "title": "Money, money, money: Child abuse may not spur action, but money does",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d5c9366c34ebe4bf5e7972a336ede982?impolicy=wcms_crop_resize&amp;cropH=595&amp;cropW=1058&amp;xPos=81&amp;yPos=30&amp;width=862&amp;height=485"
-      },
-      "description": "Why is an email about the trade trip apparently more compelling than the detailed and painful evidence of a woman?",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-21/andrew-mountbatten-windsor-arrest-jeffrey-epstein/106349250"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1f72b95e-8851-46fd-a7c5-6494c0871b69",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-21T08:20:32.072639"
+  "merged_at": "2026-02-21T09:22:18.231503"
 }
