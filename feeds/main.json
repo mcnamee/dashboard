@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/437bd333-8342-4e29-acca-fbdbf2753f2f",
+      "published_datetime": "2026-02-22T13:09:25.033383",
+      "title": "India postpones U.S. trade trip after Supreme Court strikes down Trump tariffs",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/02/22/trump-tariffs-india-trade-deal.html",
+        "name": "India delays Washington trade visit as U.S. policy shifts: source",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--U3zl8xXO--/t_limit/https://image.cnbcfm.com/api/v1/image/108182548-1754504663589-gettyimages-1203055296-AFP_1PA3HD.jpeg%3Fv%3D1770121503%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--1KHqKNpr--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108182548-1754504663589-gettyimages-1203055296-AFP_1PA3HD.jpeg%3Fv%3D1770121503%26w%3D1920%26h%3D1080"
+      },
+      "description": "India has postponed a key trade delegation to Washington that was set to finalize an interim bilateral trade deal, after the U.S. Supreme Court struck down President Donald Trump's sweeping tariff regime and the White House scrambled to replace it with new levies under an untested legal authority.\n\nThe Indian negotiating team, led by chief negotiator Darpan Jain, had been scheduled to begin a three-day meeting in Washington on February 23 to convert a framework agreement into a binding legal pact, according to Reuters. Both governments agreed the visit should be rescheduled after they assess the fallout from Friday's court ruling and Trump's rapid imposition of replacement tariffs.[1][2]\n\n\"The visit of the Indian chief negotiator and delegation will be scheduled later at a mutually convenient date once both governments complete internal assessments,\" a source familiar with the matter told CNBC. A new date has not been set, though sources indicated to India Today that the delay is expected to last weeks rather than months.[3][4]",
+      "audio_url": "",
+      "url": "india-postpones-u-s-trade-trip-vV6dYNJSSBiCQPECx5hSPw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-22T11:30:36.000000Z",
       "title": "Coalition calls to criminalise help to ISIS-linked Australians seeking return",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bdbbfe18-f8b4-4095-bb6c-70ff9df8ca11",
-      "published_datetime": "2026-02-20T21:26:31.168955",
-      "title": "Germany's Merz to visit China for first talks with Xi since taking office",
-      "featured_image": {
-        "url": "https://www.yahoo.com/news/germanys-merz-pushing-chinas-xi-125434739.html",
-        "name": "Germany's Merz pushing China's Xi on support for Ukraine ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s---uNhdoqn--/t_limit/https://s.yimg.com/ny/api/res/1.2/3Qq2_u_kGWrpN2LVpsz4GQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE2MDA7aD0xMDY2O2NmPXdlYnA-/https://media.zenfs.com/en/dpa_international_526/0478b791c130a3b26c6c7264a733991b",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--7ophuWBd--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/3Qq2_u_kGWrpN2LVpsz4GQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE2MDA7aD0xMDY2O2NmPXdlYnA-/https://media.zenfs.com/en/dpa_international_526/0478b791c130a3b26c6c7264a733991b"
-      },
-      "description": "Chancellor Friedrich Merz will depart Berlin on Tuesday for his first official visit to China, where he will meet with President Xi Jinping and Premier Li Qiang in what German officials described as an effort to find \"the right balance of cooperation\" between Europe's largest economy and its biggest trading partner.[1][2]",
-      "audio_url": "",
-      "url": "germany-s-merz-to-visit-china-FVU130oZQViDd3sR6G386g",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-22T14:18:14.175327"
+  "merged_at": "2026-02-22T14:33:41.428683"
 }
