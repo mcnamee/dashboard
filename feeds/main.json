@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-22T08:47:41.000000Z",
+      "title": "Live: Aussie teen Indra Brown in the medal hunt on last day of Winter Olympics",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e38f1aa3ee65d1b606d6bee6bf14f6e7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=338&amp;width=862&amp;height=485"
+      },
+      "description": "Australian 16-year-old Indra Brown is in the freeski halfpipe final on the last day of the 2026 Milano Cortina Winter Olympic Games. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-22/winter-olympics-day-16-live-updates-indra-brown/106372016"
+    },
+    {
       "published_datetime": "2026-02-22T08:05:48.000000Z",
-      "title": "Todd River expected to flow in Alice Springs amid severe weather warning",
+      "title": "Alice Springs prepares for possible flooding amid severe weather warning",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/826624b26f9f05056f023c4237beb417?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -29,7 +38,7 @@
     },
     {
       "published_datetime": "2026-02-22T04:02:30.000000Z",
-      "title": "Rescue operation carried out after boats capsize on Hobart's River Derwent",
+      "title": "Rescue operation after eight boats capsize on Hobart's River Derwent",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/72e8488179df38bbd1eaf0ce185bbf29?impolicy=wcms_crop_resize&amp;cropH=1929&amp;cropW=3431&amp;xPos=0&amp;yPos=180&amp;width=862&amp;height=485"
       },
@@ -122,15 +131,6 @@
       "audio_url": "",
       "url": "cuban-security-forces-withdraw-bri28tITRniGVuz15LY6bQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-21T18:50:45.000000Z",
-      "title": "How Epstein lured his victims, in the words of survivors",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c2c1060384175692956cdecbcff7e714?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=960&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Admission into elite universities. A job that promised travel around the world. An audition for Victoria's Secret. This is how Jeffery Epstein lured his victims.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-22/how-epstein-lured-girls-using-university-and-modelling/106320804"
     },
     {
       "published_datetime": "2026-02-21T18:39:17.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-22T08:40:50.432509"
+  "merged_at": "2026-02-22T09:22:19.072391"
 }
