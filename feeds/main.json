@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-22T14:31:10.000000Z",
+      "title": "Man carrying shotgun killed while entering Trump's Mar-a-Lago",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c193292e5a1afaefb7d7f5f82fc428d3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "A spokesperson said agents \"confronted the individual and shots were fired by law enforcement during the encounter\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-23/man-shot-dead-unlawfully-entering-mar-a-lago/106374424"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/437bd333-8342-4e29-acca-fbdbf2753f2f",
       "published_datetime": "2026-02-22T13:09:25.033383",
       "title": "India postpones U.S. trade trip after Supreme Court strikes down Trump tariffs",
@@ -41,15 +50,6 @@
       },
       "description": "Alice Springs residents and businesses prepare for possible flooding, amid a severe weather warning, and after flash flooding caused the Todd River to rise dramatically last week.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-22/alice-springs-prepares-for-flood-amid-severe-weather-warning/106373816"
-    },
-    {
-      "published_datetime": "2026-02-22T07:47:15.000000Z",
-      "title": "Search for patient who failed to return to Sydney mental health hospital",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/82a49cf72d239440791f0a07fd819c86?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=262&amp;width=862&amp;height=485"
-      },
-      "description": "Madan Pandey failed to return to Cumberland Hospital after his approved leave ended on February 21.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-22/search-psychiatric-patient-failed-return-cumberland-hospital/106373870"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/112d3a7c-1fad-4bc4-8be1-64e92c6994df",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-22T14:33:41.428683"
+  "merged_at": "2026-02-22T15:17:07.605128"
 }
