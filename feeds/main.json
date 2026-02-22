@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-22T04:02:31.000000Z",
+      "title": "Trump tells Starmer to avoid 'wokeism' in Chagos Islands agreement",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94ec4dbb2d647eb4f5a154a8f9867ec6?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=428&amp;width=862&amp;height=485"
+      },
+      "description": "The US president has told the UK it is making a \"big mistake\" in its decision to transfer sovereignty of the islands to Mauritius.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-22/chagos-islands-donald-trump-keir-starmer/106372464"
+    },
+    {
+      "published_datetime": "2026-02-22T04:02:30.000000Z",
+      "title": "Rescue operation after multiple boats capsize during Bellerive Regatta",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40a541e894b6ea5d1ddd802fb400896b?impolicy=wcms_crop_resize&amp;cropH=1765&amp;cropW=3137&amp;xPos=362&amp;yPos=611&amp;width=862&amp;height=485"
+      },
+      "description": "A gust of wind caused a number of boats to capsize in the River Derwent during a race.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-22/multiple-boats-capsize-at-bellerive-regatta/106373620"
+    },
+    {
       "published_datetime": "2026-02-22T02:13:58.000000Z",
       "title": "After a rare Supreme Court loss for Trump, here's his record with the bench",
       "featured_image": {
@@ -115,15 +133,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-22/how-epstein-lured-girls-using-university-and-modelling/106320804"
     },
     {
-      "published_datetime": "2026-02-21T18:50:31.000000Z",
-      "title": "'She left a ticking timebomb': Elizabeth, Andrew and the monarchy's future",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b5f5feda51d71c4162cf74d8115c3c9c?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=5&amp;width=862&amp;height=485"
-      },
-      "description": "It will be up to King Charles to shepherd his family's institution through its darkest hour. But could his own mother have done more to snuff out this crisis before he inherited it?",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-22/queen-elizabeth-former-prince-andrew-and-epstein/106371728"
-    },
-    {
       "published_datetime": "2026-02-21T18:39:17.000000Z",
       "title": "More assault allegations surface against footballers in tiny town of Balmoral",
       "featured_image": {
@@ -151,19 +160,10 @@
       "published_datetime": "2026-02-21T18:30:00.000000Z",
       "title": "A 'sticky' myth has returned as America's vaccine wars shake Australia",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/282652e53db1ab886538c7e72baa1352?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=62&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1eb93017f7da06e5578beff08b538e2f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
       "description": "With\u00a0immunisation rates declining and outbreaks of infectious diseases like measles increasing, the consequences of vaccine hesitancy in Australia are becoming clearer.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-22/australia-vaccine-hesitancy-fight-restore-confidence/106353012"
-    },
-    {
-      "published_datetime": "2026-02-21T18:00:00.000000Z",
-      "title": "High-spending premiers appear immune to inflation pressure",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1deb55bdd2fe42cd466c826426bf42a1?impolicy=wcms_crop_resize&amp;cropH=2553&amp;cropW=4538&amp;xPos=0&amp;yPos=237&amp;width=862&amp;height=485"
-      },
-      "description": "High-spending premiers remain popular and seemingly impervious to the rising cost-of-living anxiety piling pressure on the Albanese government.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-22/albanese-government-premiers-peter-malinauskas-david-crisafulli/106349260"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2a57bb4b-ad47-4979-a3d1-61413a07f7bd",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-22T04:08:34.184805"
+  "merged_at": "2026-02-22T05:44:29.479583"
 }
