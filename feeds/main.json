@@ -2,9 +2,9 @@
   "items": [
     {
       "published_datetime": "2026-02-22T08:47:41.000000Z",
-      "title": "Live: Aussie teen Indra Brown in the medal hunt on last day of Winter Olympics",
+      "title": "Live: Halfpipe final underway featuring Aussie teen Indra Brown as Winter Olympics wrap up",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e38f1aa3ee65d1b606d6bee6bf14f6e7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=338&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a80528f0e63a7d9fbb400f1910c4a0a2?impolicy=wcms_crop_resize&amp;cropH=1024&amp;cropW=1821&amp;xPos=0&amp;yPos=69&amp;width=862&amp;height=485"
       },
       "description": "Australian 16-year-old Indra Brown is in the freeski halfpipe final on the last day of the 2026 Milano Cortina Winter Olympic Games. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-22/winter-olympics-day-16-live-updates-indra-brown/106372016"
@@ -20,12 +20,27 @@
     },
     {
       "published_datetime": "2026-02-22T07:47:15.000000Z",
-      "title": "Third mental health patient absconds from Sydney hospital",
+      "title": "Search for patient who failed to return to Sydney mental health hospital",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/82a49cf72d239440791f0a07fd819c86?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=262&amp;width=862&amp;height=485"
       },
-      "description": "Madan Pandey absconds from Cumberland Hospital, days after two men escaped from the same facility and later allegedly killed three people.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-22/third-mental-health-patient-absconds-from-cumberland-hospital/106373870"
+      "description": "Madan Pandey failed to return to Cumberland Hospital after his approved leave ended on February 21.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-22/search-psychiatric-patient-failed-return-cumberland-hospital/106373870"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/112d3a7c-1fad-4bc4-8be1-64e92c6994df",
+      "published_datetime": "2026-02-22T07:04:56.967471",
+      "title": "Two studies reveal Greenland ice is softer and melting faster than expected",
+      "featured_image": {
+        "url": "https://www.filmogaz.com/160323",
+        "name": "Scientists Find a 'Freak of Nature' Churning Deep in the Greenland Ice Sheet",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--m629Robh--/t_limit/https://www.filmogaz.com/uploads/images/202602/image_1200x675_6999cb1b20404.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s---uXhWmT2--/t_thumbnail/https://www.filmogaz.com/uploads/images/202602/image_1200x675_6999cb1b20404.webp"
+      },
+      "description": "Two new studies published this month have reshaped scientists' understanding of the Greenland ice sheet, revealing that it harbors slow, convection-like churning deep beneath its surface and that extreme melting events have intensified at an unprecedented pace since 1990. Together, the findings underscore how climate change is transforming the world's second-largest ice mass in ways researchers did not anticipate.",
+      "audio_url": "",
+      "url": "two-studies-reveal-greenland-i-I6h7SB_KTHuUNXvG3v4VIg",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-02-22T04:02:31.000000Z",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f03559d1-7aaf-45ed-a120-9c95c8d4687f",
-      "published_datetime": "2026-02-20T21:11:51.576267",
-      "title": "NOAA adopts new El Nino index as warming outpaces old system",
-      "featured_image": {
-        "url": "https://www.walshgroup.com/ourexperience/building/office/noaapacificregionalcenter.html",
-        "name": "NOAA Pacific Regional Center",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--CpHMUIj4--/t_limit/https://walshwebsiteassets.blob.core.windows.net/sitedocs/images/noaapacificregionalcenter1-8352.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--WNPxTSUk--/t_thumbnail/https://walshwebsiteassets.blob.core.windows.net/sitedocs/images/noaapacificregionalcenter1-8352.jpg"
-      },
-      "description": "The natural El Nino cycle that shapes weather patterns around the globe is both amplifying and being reshaped by a rapidly warming planet, prompting U.S. forecasters to adopt a new measurement system and researchers to trace how the interplay between these forces helped drive recent record temperatures.",
-      "audio_url": "",
-      "url": "noaa-adopts-new-el-nino-index-kfH2Uq5sSNCWaBPgA1RSCA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-22T09:22:19.072391"
+  "merged_at": "2026-02-22T10:16:21.683623"
 }
