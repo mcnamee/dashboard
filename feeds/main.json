@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-22T08:05:48.000000Z",
+      "title": "Todd River expected to flow in Alice Springs amid severe weather warning",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/826624b26f9f05056f023c4237beb417?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Alice Springs residents and businesses prepare for possible flooding, amid a severe weather warning, and after flash flooding caused the Todd River to rise dramatically last week.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-22/alice-springs-prepares-for-flood-amid-severe-weather-warning/106373816"
+    },
+    {
+      "published_datetime": "2026-02-22T07:47:15.000000Z",
+      "title": "Third mental health patient absconds from Sydney hospital",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/82a49cf72d239440791f0a07fd819c86?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=262&amp;width=862&amp;height=485"
+      },
+      "description": "Madan Pandey absconds from Cumberland Hospital, days after two men escaped from the same facility and later allegedly killed three people.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-22/third-mental-health-patient-absconds-from-cumberland-hospital/106373870"
+    },
+    {
       "published_datetime": "2026-02-22T04:02:31.000000Z",
-      "title": "Trump tells Starmer to avoid 'wokeism' in Chagos Islands agreement",
+      "title": "Trump willing to 'militarily secure' base on Chagos Islands",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94ec4dbb2d647eb4f5a154a8f9867ec6?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=428&amp;width=862&amp;height=485"
       },
@@ -50,15 +68,6 @@
       },
       "description": "Tony Burke has also provided an update on the cohort of 34 Australians seeking to leave a Syrian refugee camp.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-22/minister-reveals-process-has-started-to-ban-hizb-ut-tahrir/106373384"
-    },
-    {
-      "published_datetime": "2026-02-22T00:02:40.000000Z",
-      "title": "British nuclear-powered attack submarine arrives in Perth for training exercises",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8b3478e1dbf928fcdc606968c0f40dae?impolicy=wcms_crop_resize&amp;cropH=757&amp;cropW=1346&amp;xPos=0&amp;yPos=29&amp;width=862&amp;height=485"
-      },
-      "description": "The two countries are expected to conduct AUKUS pillar 2 tests while HMS Anson is within Australian waters.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-22/british-nuclear-powered-submarine-in-australia/106372406"
     },
     {
       "published_datetime": "2026-02-21T23:58:29.000000Z",
@@ -113,15 +122,6 @@
       "audio_url": "",
       "url": "cuban-security-forces-withdraw-bri28tITRniGVuz15LY6bQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-21T18:51:30.000000Z",
-      "title": "Ian's bank blamed him when he was scammed. He sued for $379m",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a571fbb093e21f965c9ba6df7027a02f?impolicy=wcms_crop_resize&amp;cropH=1899&amp;cropW=3376&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Ian Williams has brought a whole new meaning to \"taking on the big guy\". When scammers stole from the pensioner the bank blamed him. So he launched a $379 million lawsuit to \"make it right\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-22/ian-williams-on-why-he-sued-nab-bank/106093720"
     },
     {
       "published_datetime": "2026-02-21T18:50:45.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-22T07:30:23.200374"
+  "merged_at": "2026-02-22T08:21:33.258792"
 }
