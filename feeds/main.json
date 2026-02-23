@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-23T18:37:12.000000Z",
+      "title": "Breaking: UK's former ambassador to US arrested as Epstein files fallout continues",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8b6cdb0a6d0bb13eabd4a6cdba524f99?impolicy=wcms_crop_resize&amp;cropH=2271&amp;cropW=4037&amp;xPos=788&amp;yPos=799&amp;width=862&amp;height=485"
+      },
+      "description": "Peter Mandelson, a political powerbroker and former government minister, has been investigated by London's Metropolitan Police for around three weeks over allegations of misconduct in public office.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/peter-mandelson-arrested-as-epstein-files-fallout-continues/106378978"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/31e52d30-f631-408d-ad92-faf0c33f29c0",
       "published_datetime": "2026-02-23T12:55:33.227917",
       "title": "Ukraine marks 4 years of war with nearly 2 million casualties and no peace deal",
@@ -208,15 +217,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-22T19:26:06.000000Z",
-      "title": "Andrew's daughters to be shielded by King Charles",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/518ccc1ac511864014afb23367ce9762?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=19&amp;width=862&amp;height=485"
-      },
-      "description": "Andrew Mountbatten-Windsor's arrest has cast another long shadow over the York family. While his ex-wife, Sarah Ferguson, has vanished from public view, their daughters Beatrice and Eugenie face an uncertain future.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-23/the-future-of-sarah-ferguson-and-princesses-beatrice-and-eugenie/106368232"
-    },
-    {
       "published_datetime": "2026-02-22T18:37:53.000000Z",
       "title": "He was gynaecology's open secret. Now women and colleagues are speaking out",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-23T17:55:42.397378"
+  "merged_at": "2026-02-23T18:52:10.026579"
 }
