@@ -16,6 +16,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-02-23T20:02:07.000000Z",
+      "title": "Live: 'Australia likes being first': PM defends bid to remove Andrew from succession",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c73f766b9f55d2ca469ac0cc7429981?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
+      },
+      "description": "The prime minister has revealed he voluntarily wrote to his UK counterpart to offer his support for removing Andrew Mountbatten-Windsor from the line of succession. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/federal-politics-albanese-taylor-rail-live-blog/106377802"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cd1ab513-ebba-4a15-9447-d00539ba9bb9",
       "published_datetime": "2026-02-23T19:49:14.699906",
       "title": "Anthropic says Chinese AI labs used 24,000 fake accounts to copy Claude",
@@ -44,15 +53,6 @@
       "audio_url": "",
       "url": "trump-s-top-general-warns-of-m-uQQzQ4tJQ7edPw_PU9yGfQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-23T19:28:32.000000Z",
-      "title": "The royal commission into antisemitism starts today. How did we get here?",
-      "featured_image": {
-        "thumbnail": ""
-      },
-      "description": "A landmark royal commission begins today to probe the prevalence of antisemitism in Australia and shed light on the events surrounding the Bondi Beach terror attack.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/royal-commission-into-antisemitism-bondi-terror-attack-begins/106363892"
     },
     {
       "published_datetime": "2026-02-23T19:25:44.000000Z",
@@ -149,7 +149,7 @@
     },
     {
       "published_datetime": "2026-02-23T11:34:56.000000Z",
-      "title": "Australia first in Commonwealth to back removing Andrew from line of succession",
+      "title": "Australia first in Commonwealth to back removing Mountabatten-Windsor from line of succession",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1be11a3351dc124f8c246687485285e4?impolicy=wcms_crop_resize&amp;cropH=2304&amp;cropW=4097&amp;xPos=473&amp;yPos=230&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-23T20:54:15.781797"
+  "merged_at": "2026-02-23T21:36:25.804953"
 }
