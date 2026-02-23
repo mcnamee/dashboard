@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/31e52d30-f631-408d-ad92-faf0c33f29c0",
+      "published_datetime": "2026-02-23T12:55:33.227917",
+      "title": "Ukraine marks 4 years of war with nearly 2 million casualties and no peace deal",
+      "featured_image": {
+        "url": "https://www.dw.com/en/ukraine-updates-kyiv-marks-2-years-since-russian-invasion/live-68358485",
+        "name": "Ukraine updates: Kyiv marks 2 years since Russian invasion",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--pJJK7i6V--/t_limit/https://static.dw.com/image/68362457_605.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--I-5zz4B4--/t_thumbnail/https://static.dw.com/image/68362457_605.jpg"
+      },
+      "description": "As Ukraine prepares to mark the fourth anniversary of Russia's full-scale invasion on February 24, the war has exacted an almost incomprehensible human cost: nearly 1.8 million military casualties on both sides, more than 15,000 civilians killed, and millions displaced from their homes, with no peace agreement in sight.",
+      "audio_url": "",
+      "url": "ukraine-marks-4-years-of-war-w-XYsh6dIdQ_6vQVIb7hik4w",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-23T11:34:56.000000Z",
       "title": "Albanese backs removal of former prince Andrew from line of succession",
       "featured_image": {
@@ -8,6 +23,36 @@
       },
       "description": "Prime Minister Anthony Albanese tells his British counterpart Keir Starmer that Australia would support the removal of Andrew Mountbatten-Windsor from the line of succession.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-23/australia-backs-removal-of-andrew-line-of-succession/106377738"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9db4090d-2ff6-4f06-99b6-36bd6498e650",
+      "published_datetime": "2026-02-23T11:30:13.480287",
+      "title": "Congo Basin lakes venting thousands-year-old carbon, study finds",
+      "featured_image": {
+        "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/02/peatland-lakes-in-the-congo-basin-release-carbon-that-is-thousands-of-years-old.html",
+        "name": "Peatland lakes in the Congo Basin release carbon that is ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--tARfDQQT--/t_limit/https://ethz.ch/en/news-and-events/eth-news/news/2026/02/peatland-lakes-in-the-congo-basin-release-carbon-that-is-thousands-of-years-old/_jcr_content/wide_content/slideshow/images/item0.imageformat.slideshow.524959567.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--_h1bV3oh--/t_thumbnail/https://ethz.ch/en/news-and-events/eth-news/news/2026/02/peatland-lakes-in-the-congo-basin-release-carbon-that-is-thousands-of-years-old/_jcr_content/wide_content/slideshow/images/item0.imageformat.slideshow.524959567.jpg"
+      },
+      "description": "Two large blackwater lakes in the heart of the Congo Basin are acting as \"chimneys,\" venting carbon that has been locked in surrounding peatlands for thousands of years, according to a study published Saturday in Nature Geoscience. The finding upends the long-held assumption that carbon stored in pristine tropical peat remains safely buried, and raises fresh concerns about the stability of one of the planet's most important carbon reservoirs.[1]",
+      "audio_url": "",
+      "url": "congo-basin-lakes-venting-thou-V432Q7h4QsOrNPaHeDHjDg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0c9bc649-b6c1-4d3e-b988-acde06ca4ff3",
+      "published_datetime": "2026-02-23T11:14:00.178432",
+      "title": "Russian small businesses buckle under wartime tax hikes as Ukraine invasion hits four years",
+      "featured_image": {
+        "url": "https://abcnews.com/Business/wireStory/bakeries-beauty-shops-russian-businesses-feeling-pain-new-130400593",
+        "name": "From bakeries to beauty shops, Russian businesses are feeling the ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--EOjRAkgD--/t_limit/https://i.abcnewsfe.com/a/9a65f378-e7a0-4ff2-bb69-f11bf7ceed04/wirestory_aa58356ff3c5cf04c5dbf795dddfb90f_16x9.jpg%3Fw%3D1600",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--uWgwCEX7--/t_thumbnail/https://i.abcnewsfe.com/a/9a65f378-e7a0-4ff2-bb69-f11bf7ceed04/wirestory_aa58356ff3c5cf04c5dbf795dddfb90f_16x9.jpg%3Fw%3D1600"
+      },
+      "description": "As Moscow's full-scale invasion of Ukraine marks its fourth anniversary, the economic toll of the war is reaching deeper into Russia's domestic economy. Small business owners across the country \u2014 from bakeries to beauty salons \u2014 report rising costs, collapsing demand, and a tax burden that has in some cases multiplied overnight, the result of sweeping fiscal reforms that took effect on January 1, 2026.\n\nThe reforms, signed into law by President Vladimir Putin in late November 2025, raised Russia's base value-added tax rate from 20% to 22% and drastically lowered the revenue threshold at which businesses must begin paying it \u2014 from 60 million rubles (approximately $783,000) to 20 million rubles ($261,000), with further reductions to 10 million rubles ($130,500) planned by 2028. The measures are designed to close a widening budget gap driven by soaring military expenditures and falling oil revenues.[1][2][3][4]",
+      "audio_url": "",
+      "url": "russian-small-businesses-buckl-w.Ar3BibRLmBSELMcKHmLA",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-02-23T11:01:54.000000Z",
@@ -196,51 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6e16e364-c03f-4a90-a0bd-6cd63fa96fee",
-      "published_datetime": "2026-02-22T18:23:18.105154",
-      "title": "Mexican army kills 'El Mencho,' leader of Jalisco cartel",
-      "featured_image": {
-        "url": "https://www.bloomberg.com/news/articles/2026-02-22/leader-of-mexico-s-jalisco-cartel-reported-slain-in-federal-raid",
-        "name": "Leader of Mexico's Jalisco Cartel Reported Slain in Federal Raid",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--2B9rpV_9--/t_limit/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1R6Hck6DBXc/v1/1200x800.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--bV-w3YY0--/t_thumbnail/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1R6Hck6DBXc/v1/1200x800.jpg"
-      },
-      "description": "The Mexican army killed Nemesio Rub\u00e9n Oseguera Cervantes, the elusive leader of the Jalisco New Generation Cartel known as \"El Mencho,\" during a military operation on Sunday in the western state of Jalisco, a federal official told the Associated Press. The death of one of the world's most wanted drug lords triggered a violent response from the cartel, with burning vehicles and roadblocks erupting across at least six Mexican states.[1][2]\n\nThe operation, carried out by special forces of the Mexican army and National Guard, took place in the mountainous area near Tapalpa in southern Jalisco, according to multiple Mexican media reports citing federal sources. El Mencho had long been reported to suffer from chronic kidney failure, which limited his mobility and forced him to rely on clandestine medical care in rural communities of Jalisco.[3][4][5][6]",
-      "audio_url": "",
-      "url": "mexican-army-kills-el-mencho-l-Rno6XM29T9Wmgme2SrAYlA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2127269c-179d-4023-bcf1-a272f9b3f743",
-      "published_datetime": "2026-02-22T17:31:38.661696",
-      "title": "Trump says US will send hospital ship to Greenland",
-      "featured_image": {
-        "url": "https://gcaptain.com/hospital-ship-usns-comfort-departs-on-humanitarian-mission/",
-        "name": "Hospital Ship USNS Comfort Departs on Humanitarian Mission",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--UnV-xity--/t_limit/https://gcaptain.com/wp-content/uploads/2022/10/211023-N-DL524-1008.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--aOMUkaX5--/t_thumbnail/https://gcaptain.com/wp-content/uploads/2022/10/211023-N-DL524-1008.jpg"
-      },
-      "description": "President Donald Trump declared Saturday that the United States would send a \"great hospital boat\" to Greenland, claiming residents of the Arctic territory are \"sick and not being taken care of.\" Denmark swiftly dismissed the plan, with the defense minister stating the self-governing territory's population already receives adequate healthcare.\n\nTrump's announcement, made on Truth Social alongside an image of the USNS Mercy, a 1,000-bed naval hospital ship, came on the same day Danish military forces evacuated a crew member from a U.S. submarine off the coast of Greenland's capital, Nuuk, for urgent medical treatment. The timing raised questions about whether the submarine incident prompted the president's post.[1]",
-      "audio_url": "",
-      "url": "trump-says-us-will-send-hospit-dmPIdjjxTm6ueQErlB0dhg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7ea5741b-0bef-4408-93a0-dde9a1082be5",
-      "published_datetime": "2026-02-22T16:18:59.907965",
-      "title": "HKU engineers find physics principle that breaks sound absorption limits",
-      "featured_image": {
-        "url": "https://www.nature.com/articles/s41427-024-00565-5",
-        "name": "Unprecedented mechanical wave energy absorption observed in ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--BH-lTTrW--/t_limit/https://media.springernature.com/lw685/springer-static/image/art%253A10.1038%252Fs41427-024-00565-5/MediaObjects/41427_2024_565_Fig6_HTML.png",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--sMXG7oM8--/t_thumbnail/https://media.springernature.com/lw685/springer-static/image/art%253A10.1038%252Fs41427-024-00565-5/MediaObjects/41427_2024_565_Fig6_HTML.png"
-      },
-      "description": "Engineers at the University of Hong Kong have identified a physics principle that redefines the limits of noise reduction in ventilated spaces, offering a potential path toward quieter buildings, vehicles, and industrial environments without sacrificing airflow.",
-      "audio_url": "",
-      "url": "hku-engineers-find-physics-pri-K7pOsL9MS82etKIRMO_Phg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-23T12:41:50.305324"
+  "merged_at": "2026-02-23T14:02:39.722314"
 }
