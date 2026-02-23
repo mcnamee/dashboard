@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0c82d2ee-05fc-4ae2-a143-dad42d741539",
+      "published_datetime": "2026-02-23T20:19:21.472244",
+      "title": "Study finds proto-writing on Stone Age artifacts in Germany from 40,000 years ago",
+      "featured_image": {
+        "url": "https://www.newscientist.com/article/2516606-stone-age-symbols-may-push-back-the-earliest-form-of-writing/",
+        "name": "Stone Age symbols may push back the earliest form of writing",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--5bVLvLTX--/t_limit/https://images.newscientist.com/wp-content/uploads/2026/02/23100759/SEI_286479671.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Aslc0ua0--/t_thumbnail/https://images.newscientist.com/wp-content/uploads/2026/02/23100759/SEI_286479671.jpg"
+      },
+      "description": "More than 40,000 years ago, early humans living in what is now southern Germany were carving structured sequences of symbols onto ivory tools and figurines \u2014 marks that a new study argues represent the earliest known precursors to writing, predating the emergence of proto-cuneiform script in Mesopotamia by more than 30,000 years.\n\nThe findings, set to be published in the Proceedings of the National Academy of Sciences, come from a collaboration between linguist Christian Bentz at Saarland University and archaeologist Ewa Dutkiewicz at the Museum of Prehistory and Early History in Berlin. Using computational methods drawn from information theory and quantitative linguistics, the team analyzed more than 3,000 individual marks found on 260 Aurignacian-era artifacts unearthed in the Swabian Jura region of southwestern Germany.[1][2]",
+      "audio_url": "",
+      "url": "study-finds-proto-writing-on-s-aW0cVPWASIyrx1MFWleQRA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cd1ab513-ebba-4a15-9447-d00539ba9bb9",
+      "published_datetime": "2026-02-23T19:49:14.699906",
+      "title": "Anthropic says Chinese AI labs used 24,000 fake accounts to copy Claude",
+      "featured_image": {
+        "url": "https://noticias.foxnews.com/politics/top-ai-firm-alleges-chinese-labs-used-24k-fake-accounts-siphon-us-tech",
+        "name": "Top AI firm alleges Chinese labs used 24K fake accounts to siphon US tech",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--3jmRG-qm--/t_limit/https://static.foxnews.com/foxnews.com/content/uploads/2026/02/us-china-chips.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--JALqm0gf--/t_thumbnail/https://static.foxnews.com/foxnews.com/content/uploads/2026/02/us-china-chips.jpg"
+      },
+      "description": "Anthropic alleged on Monday that three Chinese artificial intelligence companies \u2014 DeepSeek, Moonshot AI, and MiniMax \u2014 used roughly 24,000 fraudulent accounts to extract capabilities from its Claude chatbot in a coordinated effort the company described as industrial-scale distillation, according to a blog post and a report first obtained by Fox News Digital.[1][2]\n\nThe three firms prompted Claude more than 16 million times, siphoning outputs to train and improve their own AI systems, Anthropic said. The scale of each company's activity varied: MiniMax accounted for more than 13 million interactions, Moonshot AI for more than 3.4 million, and DeepSeek for 150,000, according to The Wall Street Journal.[3]",
+      "audio_url": "",
+      "url": "anthropic-says-chinese-ai-labs-VeL3lQGVQNK7ymbn.8CzJw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/48ee78e8-d284-4ee2-8f29-fd6cf9bb6e20",
+      "published_datetime": "2026-02-23T19:34:03.282890",
+      "title": "Trump's top general warns of major risks in Iran strike",
+      "featured_image": {
+        "url": "https://www.axios.com/2026/02/23/iran-strike-trump-gen-dan-caine-vance-rubio",
+        "name": "Trump's top general warns of Iran strike risks",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--a4XhN6HE--/t_limit/https://images.axios.com/-IPFjpSwBijfYzCrL7jc-BdDUX4%3D/0x157:5395x3192/1366x768/2026/02/23/1771858056955.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0Le8AwHd--/t_thumbnail/https://images.axios.com/-IPFjpSwBijfYzCrL7jc-BdDUX4%3D/0x157:5395x3192/1366x768/2026/02/23/1771858056955.jpeg"
+      },
+      "description": "As President Trump weighs whether to launch a military campaign against Iran, his top military adviser is delivering a sober message: this would not be another Venezuela.\n\nGen. Dan Caine, chairman of the Joint Chiefs of Staff, has been cautioning Trump and senior officials about the substantial risks of a military operation against Iran, including the prospect of U.S. casualties, strained military resources, and a prolonged regional conflict, according to an Axios report citing sources familiar with the internal deliberations. One source described Caine as a \"reluctant warrior\" on Iran, a contrast to the full-throated support he gave for the January operation to capture Venezuelan President Nicol\u00e1s Maduro.[1][2]\n\nDuring a Situation Room meeting on Wednesday, Trump pressed Caine and CIA Director John Ratcliffe for assessments of the broader Iran strategy, according to the New York Times. Where Caine had expressed a \"high probability of success\" before the Maduro operation, he has been unable to offer Trump similar reassurances on Iran, owing to the far greater complexities involved.[3][1]",
+      "audio_url": "",
+      "url": "trump-s-top-general-warns-of-m-uQQzQ4tJQ7edPw_PU9yGfQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-23T19:28:32.000000Z",
       "title": "The royal commission into antisemitism starts today. How did we get here?",
       "featured_image": {
@@ -196,51 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2a8720bb-9de9-473f-b313-f6380b9a2094",
-      "published_datetime": "2026-02-22T22:46:35.462026",
-      "title": "Trump weighs broader Iran military action, including targeting Khamenei",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2026/2/19/trump-suggests-iran-has-10-days-to-reach-agreement-with-us",
-        "name": "Iran says US risking \u2018crisis\u2019 as Trump sets \u201910, 15 days\u2019 deadline for deal",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--6JdSa1pU--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-15T190353Z_1949412274_RC27GJAEQ307_RTRMADP_3_IRAN-CRISIS-USA-CARRIER-1771514493.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--LvtSOnjv--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-15T190353Z_1949412274_RC27GJAEQ307_RTRMADP_3_IRAN-CRISIS-USA-CARRIER-1771514493.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "President Donald Trump has told his advisers that if diplomatic efforts or an initial targeted strike fail to compel Iran to abandon its nuclear ambitions, he may authorize a broader military operation in the coming months \u2014 one that could include an attempt to remove Supreme Leader Ayatollah Ali Khamenei from power, according to the New York Times, citing individuals familiar with internal discussions.[1]\n\nThe revelation comes as U.S. and Iranian negotiators prepare to meet in Geneva on Thursday in what appears to be a last-ditch round of talks, with two aircraft carrier strike groups now positioned within striking distance of Iran.[2][1]",
-      "audio_url": "",
-      "url": "trump-weighs-broader-iran-mili-ODw919IaRP.7tcf3Qc9vww",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5083c2f1-1275-47ed-adc6-ef1d85cbe4c6",
-      "published_datetime": "2026-02-22T22:46:04.855182",
-      "title": "Pentagon presented Trump with plan to target Iran's Khamenei, reports say",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/02/20/trump-says-hes-considering-limited-military-strike-against-iran.html",
-        "name": "Trump says he's considering limited military strike against Iran",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--aUEBRTzO--/t_limit/https://image.cnbcfm.com/api/v1/image/108265878-17710178552026-02-13t212338z_1039433420_rc29ljaz9m4q_rtrmadp_0_usa-trump.jpeg%3Fv%3D1771604339%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--XYh_ZhrA--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108265878-17710178552026-02-13t212338z_1039433420_rc29ljaz9m4q_rtrmadp_0_usa-trump.jpeg%3Fv%3D1771604339%26w%3D1920%26h%3D1080"
-      },
-      "description": "President Donald Trump acknowledged on Friday that he is considering a limited military strike against Iran, even as the Pentagon has presented him with a range of scenarios that include options for targeting Supreme Leader Ali Khamenei and his son Mojtaba, according to multiple reports citing senior administration officials.\n\n\"The most I can say \u2014 I am considering it,\" Trump told reporters at a White House breakfast with U.S. governors when asked about a potential limited strike if Iran fails to reach a deal over its nuclear program.[1][2][3]",
-      "audio_url": "",
-      "url": "pentagon-presented-trump-with-fJzQDX4hQi2l3XY9jykIig",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9836815b-36b7-4b49-916c-c90d7344cb9e",
-      "published_datetime": "2026-02-22T21:15:28.216814",
-      "title": "Khamenei activates succession plan amid US strike threats, Times reports",
-      "featured_image": {
-        "url": "https://www.jpost.com/middle-east/iran-news/article-887492",
-        "name": "Ali Khamenei appoints succesor in event of US assassination",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--82Nx7k24--/t_limit/https://images.jpost.com/image/upload/f_auto%2Cfl_lossy/q_auto/c_fill%2Cg_faces:center%2Ch_720%2Cw_1280/706955",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--SbUbPAsb--/t_thumbnail/https://images.jpost.com/image/upload/f_auto%2Cfl_lossy/q_auto/c_fill%2Cg_faces:center%2Ch_720%2Cw_1280/706955"
-      },
-      "description": "The Pentagon has presented President Trump with military contingency plans that include a scenario to kill Iran's Supreme Leader Ayatollah Ali Khamenei and his son Mojtaba, Axios reported Friday, a disclosure that has prompted Iran's top leader to activate emergency succession frameworks as the two nations edge closer to a potential armed confrontation.\n\n\"They have something for every scenario. One scenario takes out the ayatollah and his son and the mullahs,\" a senior Trump adviser told Axios, referring to Khamenei and Mojtaba, who is widely viewed as a likely successor. A second source confirmed the plan was floated to Trump several weeks ago. The adviser added: \"What the president chooses no one knows. I don't think he knows.\"[1][2]\n\nWhite House spokesperson Anna Kelly declined to discuss specific military plans, saying \"only President Trump knows what actions he may or may not take.\"[2][1]",
-      "audio_url": "",
-      "url": "khamenei-activates-succession-1Ar.zb.4TqeCJdwMgiaX0A",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-23T20:36:28.412362"
+  "merged_at": "2026-02-23T20:54:15.781797"
 }
