@@ -1,12 +1,21 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-23T06:57:34.000000Z",
+      "title": "UK government quietly updates passport rules for dual citizens \u2014 again",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/337348331c4410a6e570525421646fbc?impolicy=wcms_crop_resize&amp;cropH=1971&amp;cropW=3504&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
+      },
+      "description": "Travellers with both an expired UK passport, issued in 1989 or later, as well as a valid passport from a country that can issue an Electronic Travel Authorisation may now be allowed to enter the UK.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-23/more-uk-passport-rule-changes-electronic-travel-authorisation/106377682"
+    },
+    {
       "published_datetime": "2026-02-23T05:26:57.000000Z",
-      "title": "Gordon Brown urges police to investigate if Andrew used RAF bases to meet Epstein",
+      "title": "Gordon Brown writes to police urging probe into Andrew over Epstein flights",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7432c7a8e23b709bb52acd5ff3ac982c?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
       },
-      "description": "Former British prime minister Gordon Brown has urged British police to investigate if Andrew Mountbatten-Windsor used taxpayer-funded jets and Royal Air Force bases to meet with convicted sex offender Jeffrey Epstein.",
+      "description": "Former British prime minister Gordon Brown urges British police to investigate whether Andrew Mountbatten-Windsor used taxpayer-funded jets and Royal Air Force bases to meet with convicted sex offender Jeffrey Epstein.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-23/brown-urges-andrew-police-probe-over-epstein-raf-bases/106375734"
     },
     {
@@ -38,7 +47,7 @@
     },
     {
       "published_datetime": "2026-02-23T03:53:54.000000Z",
-      "title": "Centre-right 'betrayed' West, MAGA icon tells Australian conservatives",
+      "title": "Centre-right 'betrayed' West, MAGA figure tells Australian conservatives",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/81bb07738559ff9e3613d1e6299bb618?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
       },
@@ -47,7 +56,7 @@
     },
     {
       "published_datetime": "2026-02-23T02:47:20.000000Z",
-      "title": "Up to 600mm rain falls on NT station in 'once in a lifetime' event",
+      "title": "Heavy rain soaks the Barkly and Central Australia, closing roads and inundating cattle stations",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/91aefdde483d1eb26c4505f141c1827e?impolicy=wcms_crop_resize&amp;cropH=2555&amp;cropW=4543&amp;xPos=236&amp;yPos=1195&amp;width=862&amp;height=485"
       },
@@ -115,15 +124,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-22T20:18:19.000000Z",
-      "title": "Live: Coalition's approach to IS-linked families 'extraordinary', NGO says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/402b622790f84fa80d36f1677fca92ac?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Save the Children calls on political parties to \"dial down the political rhetoric\" and says no Australian child should be left \"stranded\". Follow live.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-23/federal-politics-albanese-taylor-labor-coalition-february-23-/106368876"
-    },
-    {
       "published_datetime": "2026-02-22T19:26:06.000000Z",
       "title": "Andrew's daughters face uncertain future after his shock arrest",
       "featured_image": {
@@ -143,9 +143,9 @@
     },
     {
       "published_datetime": "2026-02-22T18:37:53.000000Z",
-      "title": "'Destroyed my life': Patients of renowned surgeon speak out",
+      "title": "He was gynaecology's open secret. Now women and colleagues are speaking out",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/460c8d324a7503605727cee78240efd3?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=50&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/07900fb3f54e08a8c63f14cb0cc15acb?impolicy=wcms_crop_resize&amp;cropH=665&amp;cropW=1183&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Complaints had been made about this gynaecologist for years. Only when hospital management discovered that Four Corners was looking into his practice, did it start investigating further.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-23/endometriosis-gynaecologist-simon-gordon-complaints-four-corners/106361726"
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-23T06:00:16.950968"
+  "merged_at": "2026-02-23T07:10:36.848535"
 }
