@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ad978c94-2a25-4357-9f93-8f34f59ec4e2",
+      "published_datetime": "2026-02-23T09:08:07.227072",
+      "title": "Oil prices drop as US-Iran nuclear talks resume, tariffs rise",
+      "featured_image": {
+        "url": "https://www.aol.com/articles/oil-analysts-supply-glut-why-150108720.html",
+        "name": "Oil analysts say there is a supply glut \u2014 why that hasn't translated to lower prices this year",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--OKgZkodD--/t_limit/https://s.yimg.com/ny/api/res/1.2/ljQ1OT2fhlXOuqKXocZMxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://media.zenfs.com/en/aol_yahoo_finance_433/7b016b117bc10bfd2e82318968095998",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--xsemb9po--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/ljQ1OT2fhlXOuqKXocZMxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://media.zenfs.com/en/aol_yahoo_finance_433/7b016b117bc10bfd2e82318968095998"
+      },
+      "description": "Oil prices fell about 1% on Monday as the prospect of a third round of US-Iran nuclear talks eased fears of a military confrontation in the Middle East, while President Donald Trump's move to raise tariffs on all US imports to 15% added fresh uncertainty about the global economy.\n\nBrent crude futures declined to around $71 a barrel, and US West Texas Intermediate futures dropped to roughly $66 a barrel, retreating after both benchmarks had surged more than 5% in the prior week on fears of a US-Iran military escalation.[1][2]",
+      "audio_url": "",
+      "url": "oil-prices-drop-as-us-iran-nuc-CBjSvSn_QSqCoEo_94If8Q",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-23T07:39:49.000000Z",
       "title": "Baby unresponsive at day care may have died from bacterial infection, inquest told",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/437bd333-8342-4e29-acca-fbdbf2753f2f",
-      "published_datetime": "2026-02-22T13:09:25.033383",
-      "title": "India postpones U.S. trade trip after Supreme Court strikes down Trump tariffs",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/02/22/trump-tariffs-india-trade-deal.html",
-        "name": "India delays Washington trade visit as U.S. policy shifts: source",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--U3zl8xXO--/t_limit/https://image.cnbcfm.com/api/v1/image/108182548-1754504663589-gettyimages-1203055296-AFP_1PA3HD.jpeg%3Fv%3D1770121503%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--1KHqKNpr--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108182548-1754504663589-gettyimages-1203055296-AFP_1PA3HD.jpeg%3Fv%3D1770121503%26w%3D1920%26h%3D1080"
-      },
-      "description": "India has postponed a key trade delegation to Washington that was set to finalize an interim bilateral trade deal, after the U.S. Supreme Court struck down President Donald Trump's sweeping tariff regime and the White House scrambled to replace it with new levies under an untested legal authority.\n\nThe Indian negotiating team, led by chief negotiator Darpan Jain, had been scheduled to begin a three-day meeting in Washington on February 23 to convert a framework agreement into a binding legal pact, according to Reuters. Both governments agreed the visit should be rescheduled after they assess the fallout from Friday's court ruling and Trump's rapid imposition of replacement tariffs.[1][2]\n\n\"The visit of the Indian chief negotiator and delegation will be scheduled later at a mutually convenient date once both governments complete internal assessments,\" a source familiar with the matter told CNBC. A new date has not been set, though sources indicated to India Today that the delay is expected to last weeks rather than months.[3][4]",
-      "audio_url": "",
-      "url": "india-postpones-u-s-trade-trip-vV6dYNJSSBiCQPECx5hSPw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-23T09:44:06.885381"
+  "merged_at": "2026-02-23T10:41:09.626438"
 }
