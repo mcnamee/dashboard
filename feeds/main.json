@@ -1,17 +1,35 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-24T07:34:04.000000Z",
+      "title": "TikTok faces class action after teens take their own lives",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ee3b89047cd04526ab2756caa5d9db5f?impolicy=wcms_crop_resize&amp;cropH=1894&amp;cropW=3367&amp;xPos=509&amp;yPos=384&amp;width=862&amp;height=485"
+      },
+      "description": "France is set to follow Australia with a social media ban but for these families, who are suing TikTok over what they say is a harmful algorithm, the battle is only beginning.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/french-social-media-ban-families-suing-tiktok/106348256"
+    },
+    {
+      "published_datetime": "2026-02-24T06:50:18.000000Z",
+      "title": "Banning trans women from lesbian group could 'undermine dignity', court hears",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1f000cceb816206b8e65830dbe2125a9?impolicy=wcms_crop_resize&amp;cropH=2265&amp;cropW=4026&amp;xPos=303&amp;yPos=448&amp;width=862&amp;height=485"
+      },
+      "description": "Transgender women will have their dignity \"undermined\" and could be made to feel \"inferior\" if a lesbian group is allowed to ban them from events, a court has heard.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/trans-women-ban-could-undermine-dignity-court-hears/106379566"
+    },
+    {
       "published_datetime": "2026-02-24T06:05:47.000000Z",
-      "title": "Court shown confronting vision of swearing obstetrician before fatal crash",
+      "title": "Breaking: Obstetrician sentenced to more than 10 years in jail for woman's death in car smash",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cdc23f6887f3329fcae50ec305c3a57f?impolicy=wcms_crop_resize&amp;cropH=604&amp;cropW=1074&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
       },
-      "description": "Disturbing dash cam footage of a drunken Rhys Bellinge hurling expletives as he tears through Perth's western suburbs in his Jaguar moments before he careens into a rideshare car, killing a woman, is shown in court.",
+      "description": "A Perth obstetrician who killed a 24-year-old woman after smashing his high performance luxury car into the small hatchback she was a passenger in is sentenced to 10 years and six months in jail.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/rhys-bellinge-dash-cam-vision-shown-at-manslaughter-hearing/106379994"
     },
     {
       "published_datetime": "2026-02-24T06:04:23.000000Z",
-      "title": "Fake psychologists and brown paper bags: DVA loses nearly $500m to cannabis fraud",
+      "title": "'Brown packages filled with money' being offered in alleged DVA fraud",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d65fc6ae2a5b3059a577129593ff903e?impolicy=wcms_crop_resize&amp;cropH=3483&amp;cropW=6192&amp;xPos=0&amp;yPos=323&amp;width=862&amp;height=485"
       },
@@ -124,15 +142,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/ai-body-scrapped-15-months-spent-experts/106381560"
     },
     {
-      "published_datetime": "2026-02-24T03:47:32.000000Z",
-      "title": "Former RBA governor calls for capital gains tax discount to be scrapped",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/09ef8dab00d28bcb9af0e49391d8ed26?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Bernie Fraser tells a Senate committee hearing on capital gains tax that, if it were up to him, he would abolish the discount, as he warns younger Australians are watching the unaffordable housing market in \"dismay\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/former-rba-governor-bernie-fraser-calls-out-toxic-tax-debate-cgt/106381176"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3caaed56-f6b4-4daa-901a-7f194a1e8ce3",
       "published_datetime": "2026-02-24T03:21:16.009952",
       "title": "Ukraine reconstruction costs hit $588B as war marks four years",
@@ -232,15 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/human-remains-found-in-search-for-sydney-man-chris-baghsarian/106350124"
     },
     {
-      "published_datetime": "2026-02-23T18:41:29.000000Z",
-      "title": "Europe's 'royal highness' approach to Trump has been exposed, analyst says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/53982582456a03d09c1b1b5a2c13e568?impolicy=wcms_crop_resize&amp;cropH=2262&amp;cropW=4022&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A former chief analyst with the Danish Defence Intelligence Service warns diplomatic efforts to settle the Greenland dispute will fail.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/us-denmark-feud-over-greenland-far-from-over-warns-analyst/106359334"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-24T07:44:29.633556"
+  "merged_at": "2026-02-24T08:36:25.531837"
 }
