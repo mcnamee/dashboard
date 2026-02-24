@@ -1,22 +1,22 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-24T10:46:08.000000Z",
+      "title": "Breaking: Prime minister evacuated from The Lodge following security incident",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/74e1afb5c211fbdcf89a09498478fd7a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The incident at Mr Albanese's Canberra residence led to the prime minister being taken to another location for several hours.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/anthony-albanese-security-incident-at-lodge-police-canberra/106383816"
+    },
+    {
       "published_datetime": "2026-02-24T07:34:04.000000Z",
-      "title": "TikTok faces class action after teens take their own lives",
+      "title": "TikTok's algorithm showed Marie self-harm videos. It became too much",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ee3b89047cd04526ab2756caa5d9db5f?impolicy=wcms_crop_resize&amp;cropH=1894&amp;cropW=3367&amp;xPos=509&amp;yPos=384&amp;width=862&amp;height=485"
       },
       "description": "France is set to follow Australia with a social media ban but for these families, who are suing TikTok over what they say is a harmful algorithm, the battle is only beginning.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/french-social-media-ban-families-suing-tiktok/106348256"
-    },
-    {
-      "published_datetime": "2026-02-24T06:04:23.000000Z",
-      "title": "'Brown packages filled with money' being offered in alleged DVA fraud",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d65fc6ae2a5b3059a577129593ff903e?impolicy=wcms_crop_resize&amp;cropH=3483&amp;cropW=6192&amp;xPos=0&amp;yPos=323&amp;width=862&amp;height=485"
-      },
-      "description": "A representative for a telehealth company has been caught offering a military advocate a \"kickback\" for every veteran who signs up to an ongoing medicinal cannabis prescription.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/medicinal-cannabis-company-offered-kickback-for-veteran-referral/106354294"
     },
     {
       "published_datetime": "2026-02-24T06:05:47.000000Z",
@@ -37,8 +37,17 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/gus-lamont-parents-release-statement-and-video/106382060"
     },
     {
+      "published_datetime": "2026-02-24T06:04:23.000000Z",
+      "title": "'Brown packages filled with money' being offered in alleged DVA fraud",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d65fc6ae2a5b3059a577129593ff903e?impolicy=wcms_crop_resize&amp;cropH=3483&amp;cropW=6192&amp;xPos=0&amp;yPos=323&amp;width=862&amp;height=485"
+      },
+      "description": "A representative for a telehealth company has been caught offering a military advocate a \"kickback\" for every veteran who signs up to an ongoing medicinal cannabis prescription.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/medicinal-cannabis-company-offered-kickback-for-veteran-referral/106354294"
+    },
+    {
       "published_datetime": "2026-02-24T06:50:18.000000Z",
-      "title": "Banning trans women from lesbian group could 'undermine dignity', court hears",
+      "title": "Lesbian group has no reason to ban trans women, commission says",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1f000cceb816206b8e65830dbe2125a9?impolicy=wcms_crop_resize&amp;cropH=2265&amp;cropW=4026&amp;xPos=303&amp;yPos=448&amp;width=862&amp;height=485"
       },
@@ -64,15 +73,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/uk-passport-rule-changes-dual-citizen-home-affairs/106379838"
     },
     {
-      "published_datetime": "2026-02-23T23:30:26.000000Z",
-      "title": "Police suspect human remains to be abducted Sydney man",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29dd18e36364de9f4a385c55b271d71c?impolicy=wcms_crop_resize&amp;cropH=128&amp;cropW=227&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
-      },
-      "description": "Eighty-five-year-old Chris Baghsarian was mistakenly snatched from his North Ryde property about 5am on February 13.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/human-remains-found-in-search-for-sydney-man-chris-baghsarian/106350124"
-    },
-    {
       "published_datetime": "2026-02-24T05:03:07.000000Z",
       "title": "Wet and stormy forecast as slow moving low pressure system sets in",
       "featured_image": {
@@ -80,6 +80,15 @@
       },
       "description": "There are widespread warnings for intense rain and potential flooding, as summer storms hit southern states and an unusually slow-moving system soaks central Australia. ",
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/flood-watch-severe-summer-storms-rain-deluge/106380770"
+    },
+    {
+      "published_datetime": "2026-02-23T23:30:26.000000Z",
+      "title": "Police suspect human remains to be abducted Sydney man",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29dd18e36364de9f4a385c55b271d71c?impolicy=wcms_crop_resize&amp;cropH=128&amp;cropW=227&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
+      },
+      "description": "Eighty-five-year-old Chris Baghsarian was mistakenly snatched from his North Ryde property about 5am on February 13.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/human-remains-found-in-search-for-sydney-man-chris-baghsarian/106350124"
     },
     {
       "published_datetime": "2026-02-24T05:45:09.000000Z",
@@ -91,15 +100,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/most-flu-deaths-this-century-were-recorded-in-2025/106380626"
     },
     {
-      "published_datetime": "2026-02-24T03:47:32.000000Z",
-      "title": "Former RBA governor calls for capital gains tax discount to be scrapped",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/09ef8dab00d28bcb9af0e49391d8ed26?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Bernie Fraser tells a Senate committee hearing on capital gains tax that, if it were up to him, he would abolish the discount, as he warns younger Australians are watching the unaffordable housing market in \"dismay\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/former-rba-governor-bernie-fraser-calls-out-toxic-tax-debate-cgt/106381176"
-    },
-    {
       "published_datetime": "2026-02-23T22:21:32.000000Z",
       "title": "Victorian premier refers allegations against gynaecologist to police",
       "featured_image": {
@@ -107,6 +107,15 @@
       },
       "description": "Victorian Premier Jacinta Allan has referred allegations against gynaecologist Simon Gordon to police, but the government will not conduct its own investigation.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/simon-gordon-four-corners-allegations-premier-police-referral/106379430"
+    },
+    {
+      "published_datetime": "2026-02-24T03:47:32.000000Z",
+      "title": "Former RBA governor calls for capital gains tax discount to be scrapped",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/09ef8dab00d28bcb9af0e49391d8ed26?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Bernie Fraser tells a Senate committee hearing on capital gains tax that, if it were up to him, he would abolish the discount, as he warns younger Australians are watching the unaffordable housing market in \"dismay\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/former-rba-governor-bernie-fraser-calls-out-toxic-tax-debate-cgt/106381176"
     },
     {
       "published_datetime": "2026-02-23T18:41:29.000000Z",
@@ -136,15 +145,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/trump-us-mens-hockey-team-under-fire-mocking-womens-team/106380212"
     },
     {
-      "published_datetime": "2026-02-24T08:23:22.000000Z",
-      "title": "Barty to dust cobwebs off golf clubs at NZ Open",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9647ca308335e1cc268c76ec1057c284?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Ash Barty, Kelly Slater and Ricky Ponting are among the multi-talented sports stars in action in the pro-am component of the NZ Open. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/barty-to-dust-cobwebs-off-golf-clubs-at-nz-open/106383366"
-    },
-    {
       "published_datetime": "2026-02-24T04:00:35.000000Z",
       "title": "Australia's long wait for a high-speed train",
       "featured_image": {
@@ -161,6 +161,15 @@
       },
       "description": "In July 2007, explosive detection dog Flo Joe became the first Australian service dog to locate an improvised explosive device in Afghanistan. Today, she was posthumously recognised for her military service.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/explosive-detection-dog-honoured-for-afghanistan-service/106381612"
+    },
+    {
+      "published_datetime": "2026-02-24T08:23:22.000000Z",
+      "title": "Barty to dust cobwebs off golf clubs at NZ Open",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9647ca308335e1cc268c76ec1057c284?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Ash Barty, Kelly Slater and Ricky Ponting are among the multi-talented sports stars in action in the pro-am component of the NZ Open. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/barty-to-dust-cobwebs-off-golf-clubs-at-nz-open/106383366"
     },
     {
       "published_datetime": "2026-02-24T09:40:57.000000Z",
@@ -190,15 +199,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/inquiry-into-tammy-shipley-indigenous-death-in-custody-underway/106375872"
     },
     {
-      "published_datetime": "2026-02-24T08:57:18.000000Z",
-      "title": "Queensland man charged with 11 counts of rape, dozens of other offences",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/32b2a48e221937a2a00f937e28c25601?impolicy=wcms_crop_resize&amp;cropH=970&amp;cropW=1724&amp;xPos=122&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Sunshine Coast man Riccardo Valenza, 31, has been remanded in custody after police charged him with 31 offences relating to 11 alleged victims.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/sunshine-coast-riccardo-valenza-rape-sex-offence-charges/106383282"
-    },
-    {
       "published_datetime": "2026-02-24T03:57:48.000000Z",
       "title": "Could former prince Andrew be removed from the line of succession?",
       "featured_image": {
@@ -208,6 +208,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/could-andrew-mountbatten-windsor-be-removed-succession/106379724"
     },
     {
+      "published_datetime": "2026-02-24T08:57:18.000000Z",
+      "title": "Queensland man charged with 11 counts of rape, dozens of other offences",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/32b2a48e221937a2a00f937e28c25601?impolicy=wcms_crop_resize&amp;cropH=970&amp;cropW=1724&amp;xPos=122&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Sunshine Coast man Riccardo Valenza, 31, has been remanded in custody after police charged him with 31 offences relating to 11 alleged victims.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/sunshine-coast-riccardo-valenza-rape-sex-offence-charges/106383282"
+    },
+    {
       "published_datetime": "2026-02-24T07:43:17.000000Z",
       "title": "Notre Dame uni suddenly halts nursing course enrolments",
       "featured_image": {
@@ -215,15 +224,6 @@
       },
       "description": "Staff and prospective students say they have been left in the dark about why the university cancelled new nursing and midwifery students in the first semester of 2026.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/notre-dame-university-suddenly-halts-nursing-enrolments/106382690"
-    },
-    {
-      "published_datetime": "2026-02-24T06:51:59.000000Z",
-      "title": "Inaugural trans-Tasman yacht race postponed",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/493ce02cacfb63503e264ebaf2be324f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=42&amp;width=862&amp;height=485"
-      },
-      "description": "The first running of the Trans-Tasman Yacht Race between Sydney and Auckland is called off days out from the start, after the withdrawal of the majority of entries.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/inaugural-trans-tasman-yacht-race-postponed/106382816"
     }
   ]
 }
