@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-24T22:31:09.000000Z",
+      "title": "Wittenoom traditional owners launch $1.5 billion compensation claim",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f510e9142386c3b27ef8a623f27cdc2b?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=3840&amp;xPos=128&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Banjima traditional owners say the thousands of hectares left poisoned by decades of asbestos mining have caused one of the highest death rates of mesothelioma in the world.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-25/banjima-traditional-owners-launch-billion-dollar-wittenoom-claim/106358598"
+    },
+    {
+      "published_datetime": "2026-02-24T22:27:24.000000Z",
+      "title": "How an 'entitled' Perth obstetrician's drunken behaviour ruined multiple lives",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/636b7feb84127402ce6f4853179a7194?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Sought-after obstetrician Rhys Bellinge appeared to have it all \u2014 but that changed in an instant when his drunken, high-speed driving killed a young university graduate and left a rideshare driver with permanent injuries.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-25/perth-doctor-rhys-bellinge-killed-elizabeth-pearce-ruined-lives/106383318"
+    },
+    {
       "published_datetime": "2026-02-24T21:29:12.000000Z",
       "title": "Iran signs $700 million arms deal with Russia, reports say",
       "featured_image": {
@@ -8,15 +26,6 @@
       },
       "description": "Iran has reportedly signed a secret arms deal with Russia to acquire thousands of advanced shoulder-fired missiles to help boost its air defences.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-25/iran-missile-defence-deal-russia-verba-manpad-weapons/106380088"
-    },
-    {
-      "published_datetime": "2026-02-24T21:13:22.000000Z",
-      "title": "Outback residents 'dancing in the rain' as February record breaks",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ebe1a4cb1342b8126d70066044ca6a07?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
-      },
-      "description": "Dry red dirt turns to flowing rivers and lakes as heavy rainfall breaks a century-old record in Mount Isa.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-25/mount-isa-wettest-february-on-record/106376066"
     },
     {
       "published_datetime": "2026-02-24T20:41:14.000000Z",
@@ -59,15 +68,6 @@
       "audio_url": "",
       "url": "russia-losing-troops-faster-th-fazyyiLgTrOKVqjVXazNXQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-24T19:10:29.000000Z",
-      "title": "Antisemitism royal commission facing 'limitations'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/476b599908166e34af3f193ab16795d5?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
-      },
-      "description": "The antisemitism royal commission is underway, but it faces some real tests in delivering justice to those impacted in the wake of the Bondi terror attack.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-25/antisemitism-royal-commission-takeaways-bell-under-pressure/106382176"
     },
     {
       "published_datetime": "2026-02-24T18:55:12.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-24T22:24:39.791992"
+  "merged_at": "2026-02-24T23:23:03.489054"
 }
