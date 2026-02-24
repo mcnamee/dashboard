@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-24T14:55:17.000000Z",
+      "title": "Savannah Guthrie's family offers $1.42m reward to bring home missing mother Nancy",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b301919d42f05feae5f4420e5f90f4d8?impolicy=wcms_crop_resize&amp;cropH=303&amp;cropW=539&amp;xPos=0&amp;yPos=9&amp;width=862&amp;height=485"
+      },
+      "description": "US TV host Savannah Guthrie has posted a heart-breaking video to Instagram offering a $US1 million ($1.42 million) reward for information leading to the recovery of her missing mother Nancy Guthrie.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-25/brk-savannah-guthrie-million-dollar-reward-nancy/106384088"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/792c6b1c-f834-499a-bcec-3fba26a083db",
+      "published_datetime": "2026-02-24T14:38:06.587759",
+      "title": "Meta signs 6-gigawatt AI chip deal with AMD",
+      "featured_image": {
+        "url": "https://finance.yahoo.com/news/amd-and-oracle-announce-agreement-for-50000-gpus-as-ai-deal-spree-continues-121807781.html",
+        "name": "AMD and Oracle announce agreement for 50,000 GPUs as AI deal ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--hZOVLREd--/t_limit/https://s.yimg.com/ny/api/res/1.2/VMhgD02cSbqgn9xZBuHAIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/f4079bf0-217e-11ef-9bef-231fb55355e6",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--sIrm6MtK--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/VMhgD02cSbqgn9xZBuHAIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/f4079bf0-217e-11ef-9bef-231fb55355e6"
+      },
+      "description": "Meta Platforms and AMD on Tuesday announced a multi-year, multi-generation agreement to deploy 6 gigawatts of AMD Instinct GPUs for Meta's AI infrastructure, in a deal that could generate tens of billions of dollars in revenue for the chipmaker and reshape the competitive landscape of the AI hardware market.[1][2]\n\nThe partnership marks Meta's most direct move yet to diversify its AI compute supply chain beyond Nvidia, which secured its own sweeping deal with Meta just one week earlier. Under the agreement, AMD issued Meta a performance-based warrant for up to 160 million shares of AMD common stock \u2014 roughly 10% of the company \u2014 structured to vest as shipment milestones and stock price thresholds are achieved.[3][4][2]",
+      "audio_url": "",
+      "url": "meta-signs-6-gigawatt-ai-chip-m72ZPC5IR1WvxwgfWXQocw",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-02-24T14:01:52.000000Z",
+      "title": "Duterte drew up 'death lists' and boasted about murders, ICC prosecutor says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/baa4b0cdc9f96febe3111699b2a9b85f?impolicy=wcms_crop_resize&amp;cropH=1569&amp;cropW=2790&amp;xPos=0&amp;yPos=145&amp;width=862&amp;height=485"
+      },
+      "description": "Former Philippines president Rodrigo Duterte personally drew up \"death lists\" and boasted about murders committed during his \"war on drugs\", an International Criminal Court prosecutor alleges at a crimes against humanity hearing.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-25/rodrigo-duterte-drew-up-death-lists-icc-prosecutor-says/106383930"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/411530b2-7551-40b1-9b86-8d053c247e06",
+      "published_datetime": "2026-02-24T12:42:06.018158",
+      "title": "Russia warns US nuclear testing would trigger 'domino effect'",
+      "featured_image": {
+        "url": "https://www.cnn.com/2024/09/25/europe/putin-nuclear-warns-west-missile-strikes-ukraine-intl-latam",
+        "name": "Putin issues nuclear warning to the West over strikes on ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--f_j3DvNg--/t_limit/https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173543485-restricted.jpg%3Fc%3Doriginal",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--sUNLEWMg--/t_thumbnail/https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2173543485-restricted.jpg%3Fc%3Doriginal"
+      },
+      "description": "The United States on Monday doubled down on accusations that China conducted a secret underground nuclear test in 2020, presenting what it called newly declassified intelligence at the United Nations Conference on Disarmament in Geneva as it pushed for broader multilateral arms control negotiations.",
+      "audio_url": "",
+      "url": "russia-warns-us-nuclear-testin-4W0e9JWtRoigo7yn9BDcHg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-24T11:59:53.000000Z",
       "title": "Russell Brand pleads not guilty to further rape, sex assault charges",
       "featured_image": {
@@ -130,15 +178,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-24T05:22:03.000000Z",
-      "title": "Aussies among first to arrive in UK under controversial new passport rules",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/47a358bf613581be3b82b007d84c00d9?impolicy=wcms_crop_resize&amp;cropH=1557&amp;cropW=2768&amp;xPos=0&amp;yPos=145&amp;width=862&amp;height=485"
-      },
-      "description": "Australians flying to the United Kingdom tonight will be among the first in the world to arrive under controversial new border rules.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/uk-passport-rule-changes-dual-citizen-home-affairs/106379838"
-    },
-    {
       "published_datetime": "2026-02-24T05:03:07.000000Z",
       "title": "Wet and stormy forecast as slow moving low pressure system sets in",
       "featured_image": {
@@ -199,45 +238,6 @@
       "description": "An unidentified assailant detonated an explosive device beside a police patrol vehicle at Savyolovsky Station Square in central Moscow early Tuesday, killing himself and a traffic police officer and wounding two others, Russian authorities said. The blast came just minutes into February 24 \u2014 the fourth anniversary of Russia's full-scale invasion of Ukraine.\n\nThe attack occurred at approximately 00:05 Moscow time, according to Moscow's branch of the Interior Ministry, which said the man approached officers sitting inside a patrol car before the device went off. One officer was killed instantly, while two others were hospitalized.[1][2][3][4][5]",
       "audio_url": "",
       "url": "explosion-near-moscow-train-st-V.nVJ2aQQ1e5janDVoblGg",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-24T04:15:55.000000Z",
-      "title": "AI body scrapped after spending $188k finding experts",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fea051648f276078eab42fb5d9cffda1?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "It took 15 months to narrow a field of 270 AI experts to 12 appointees for an AI authority, at a cost of almost $200,000, before it was suddenly scrapped by the federal government.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/ai-body-scrapped-15-months-spent-experts/106381560"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3caaed56-f6b4-4daa-901a-7f194a1e8ce3",
-      "published_datetime": "2026-02-24T03:21:16.009952",
-      "title": "Ukraine reconstruction costs hit $588B as war marks four years",
-      "featured_image": {
-        "url": "https://www.lemonde.fr/en/international/article/2022/09/12/russia-hits-power-stations-after-ukraine-counteroffensive_5996571_4.html",
-        "name": "Russia hits power stations after Ukraine counter-offensive",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--wqXXzJFC--/t_limit/https://img.lemde.fr/2022/09/11/0/0/2118/1360/664/0/75/0/5a64cf0_a573e60cc211467e9ab0b5d8086850c5-a573e60cc211467e9ab0b5d8086850c5-0.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--1i23U47V--/t_thumbnail/https://img.lemde.fr/2022/09/11/0/0/2118/1360/664/0/75/0/5a64cf0_a573e60cc211467e9ab0b5d8086850c5-a573e60cc211467e9ab0b5d8086850c5-0.jpg"
-      },
-      "description": "As Russia's full-scale invasion of Ukraine enters its fifth year on February 24, 2026, UN Secretary-General Ant\u00f3nio Guterres called the war \"a stain on our collective consciousness\" and renewed his demand for \"an immediate, full and unconditional ceasefire\" as a first step toward lasting peace. In remarks to the Human Rights Council on Monday, Guterres noted that more than 15,000 civilians have been killed and declared: \"It is more than past time to end the bloodshed\".[1][2][3][4]\n\nThe anniversary comes days after the latest round of US-mediated peace talks between Russia and Ukraine ended without a breakthrough in Geneva, where negotiations on territorial control and security guarantees remain at an impasse.[5][6]",
-      "audio_url": "",
-      "url": "ukraine-reconstruction-costs-h-4oDwJcJRSFWRG_fJlBf.FA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2e525914-2fdd-46ff-a8af-3342b03782c2",
-      "published_datetime": "2026-02-24T02:34:31.024091",
-      "title": "Russian oil exports top prewar levels despite four years of sanctions",
-      "featured_image": {
-        "url": "https://shippingwatch.com/carriers/Tanker/article17315685.ece",
-        "name": "Russia's crude exports slump to the lowest in 11 months",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--eemaU-cY--/t_limit/https://imgproxy.watchmedier.dk/watchmedier/resize:fill:3840:0:0/plain/https://photos.watchmedier.dk/Images/17315692/iq2st6/ALTERNATES/master-3_2/23295337681275-4288x2848ma-jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--nHScfYLv--/t_thumbnail/https://imgproxy.watchmedier.dk/watchmedier/resize:fill:3840:0:0/plain/https://photos.watchmedier.dk/Images/17315692/iq2st6/ALTERNATES/master-3_2/23295337681275-4288x2848ma-jpg"
-      },
-      "description": "Four years after Russia's full-scale invasion of Ukraine, the volume of Russian crude oil being shipped abroad remains above prewar levels, even as the revenue Moscow earns from those barrels has fallen sharply, according to new data published on the fourth anniversary of the conflict.\n\nThe Centre for Research on Energy and Clean Air, a Finland-based think tank known as CREA, reported on Tuesday that Russian crude oil export volumes in the 12 months ending February 24, 2026, remained six percent above pre-invasion levels, totaling 215 million tonnes. Yet revenues from those crude exports dropped 18 percent year-on-year to 85.5 billion euros, as Russia has been forced to sell at steep discounts to attract buyers. Total fossil fuel export revenues fell to an estimated 193 billion euros for the period, down 27 percent from comparable pre-invasion levels.[1][2][3][4][5]",
-      "audio_url": "",
-      "url": "russian-oil-exports-top-prewar-X.WhdQ5JRT2WN9IX1U6iVA",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-24T14:05:27.724935"
+  "merged_at": "2026-02-24T15:48:12.743112"
 }
