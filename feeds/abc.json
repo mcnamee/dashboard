@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-23T23:30:26.000000Z",
+      "title": "Suspected human remains found in search for abducted Sydney man",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/99d4b2bc8bf943c9c56ecdf268627ad3?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Eighty-five-year-old Chris Baghsarian was mistakenly snatched from his North Ryde property about 5am on February 13.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/human-remains-found-in-search-for-sydney-man-chris-baghsarian/106350124"
+    },
+    {
       "published_datetime": "2026-02-23T22:21:32.000000Z",
-      "title": "Breaking: Simon Gordon allegations referred to police by Victorian premier",
+      "title": "Victorian premier refers allegations against gynaecologist to police",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/07900fb3f54e08a8c63f14cb0cc15acb?impolicy=wcms_crop_resize&amp;cropH=665&amp;cropW=1183&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -17,6 +26,15 @@
       },
       "description": "Australia's medical regulator, AHPRA, faces criticism for failing to act on complaints from patients about surgeries by Melbourne gynaecologist Simon Gordon. ",
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/endometriosis-surgeon-simon-gordon-ahpra-complaints-four-corners/106376338"
+    },
+    {
+      "published_datetime": "2026-02-24T00:24:02.000000Z",
+      "title": "Grace Tame abuser unfit to stand trial over alleged 'menacing' social media posts",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4b7e0292703b6125b2194a75fbe51832?impolicy=wcms_crop_resize&amp;cropH=3610&amp;cropW=6417&amp;xPos=0&amp;yPos=335&amp;width=862&amp;height=485"
+      },
+      "description": "Nicolaas Ockert Bester has been deemed unfit to stand trial in the Hobart Magistrates Court over three counts of using a carriage service to menace, harass or cause offence.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/grace-tame-abuser-nicolaas-bester-unfit-to-stand-trial/105640758"
     },
     {
       "published_datetime": "2026-02-23T18:41:29.000000Z",
@@ -46,31 +64,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/federal-politics-albanese-taylor-rail-live-blog/106377802"
     },
     {
-      "published_datetime": "2026-02-23T10:28:07.000000Z",
-      "title": "'Could bring down Charles': Royal biographer's warning over Andrew's emails",
+      "published_datetime": "2026-02-23T19:28:32.000000Z",
+      "title": "Agencies put on notice to produce documents for antisemitism inquiry",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/56777449049465e7a089313393b52e85?impolicy=wcms_crop_resize&amp;cropH=1859&amp;cropW=3304&amp;xPos=0&amp;yPos=115&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/476b599908166e34af3f193ab16795d5?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
       },
-      "description": "The scandal surrounding Andrew Mountbatten-Windsor has the potential to end the reign of King Charles III, claims a British historian who wrote an unofficial biography of the former prince.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-23/andrew-mountbatten-windsor-king-charles-reign-epstein-scandal/106376484"
-    },
-    {
-      "published_datetime": "2026-02-23T18:43:19.000000Z",
-      "title": "Trump's trade tantrum may drive Canada and Australia closer",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5dedd06bf030fd9d862f4ad557fbc93b?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=365&amp;width=862&amp;height=485"
-      },
-      "description": "Canberra's decision to sign a bilateral agreement with Canada to join forces on everything to do with critical minerals could prove to be a forerunner of things to come.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/critical-minerals-future-australia-canada-us-china/106368382"
-    },
-    {
-      "published_datetime": "2026-02-23T18:46:34.000000Z",
-      "title": "Staffing crunch threatens urgent care clinic sustainability",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1cc53fe0cef55e83df121370a2e9ba90?impolicy=wcms_crop_resize&amp;cropH=2811&amp;cropW=4997&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "An independent review finds Labor's urgent care clinics face workforce shortages and problems with after-hours services, with no evidence hospital waiting times have improved.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/urgent-care-clinics-not-improving-hospital-wait-times/106377942"
+      "description": "A landmark royal commission begins today to probe the prevalence of antisemitism in Australia and shed light on the events surrounding the Bondi Beach terror attack.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/royal-commission-into-antisemitism-bondi-terror-attack-begins/106363892"
     },
     {
       "published_datetime": "2026-02-23T21:32:01.000000Z",
@@ -82,22 +82,85 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/homeless-mother-denied-social-housing-queensland/106376802"
     },
     {
-      "published_datetime": "2026-02-23T22:04:53.000000Z",
-      "title": "SA Liberals indicate One Nation preference, as Alex Antic meets with Cory Bernardi",
+      "published_datetime": "2026-02-23T20:36:02.000000Z",
+      "title": "Live: BHP hits record high before ASX falls amid tariff uncertainty on Wall Street",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ff73335abfcd3f19e00de3dc1a8b41ea?impolicy=wcms_crop_resize&amp;cropH=706&amp;cropW=1255&amp;xPos=0&amp;yPos=13&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&amp;cropH=530&amp;cropW=942&amp;xPos=0&amp;yPos=14&amp;width=862&amp;height=485"
       },
-      "description": "The South Australian Liberal Party has indicated it may direct preferences to One Nation ahead of Labor and the Greens. It comes as prominent Liberal senator Alex Antic was spotted having drinks with One Nation's lead SA candidate Cory Bernardi, amid speculation over a possible defection.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/sa-liberals-may-preference-one-nation-over-labor-greens/106379200"
+      "description": "With more tariff chaos from US President Donald Trump, unsettling stocks globally, the ASX 200 is in the red on Tuesday, despite opening trading slightly higher. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/asx-markets-business-live-news-february-23-2026/106378530"
     },
     {
-      "published_datetime": "2026-02-23T19:25:44.000000Z",
-      "title": "Her son enlisted to fight for Ukraine. In a way, his death brought relief",
+      "published_datetime": "2026-02-23T18:43:19.000000Z",
+      "title": "Trump's trade tantrum may drive Canada and Australia closer",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/91c744ebae9d5d7ff6a3403beae0acdf?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=72&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5dedd06bf030fd9d862f4ad557fbc93b?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=365&amp;width=862&amp;height=485"
       },
-      "description": "Ruslana Bronovytska's son Dima did not tell her he was signing up to fight for Ukraine. When he went missing, it was the beginning of a new, hellish reality many people in the country face.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/ukraine-war-four-years-on-from-russia-full-scale-invasion/106371018"
+      "description": "Canberra's decision to sign a bilateral agreement with Canada to join forces on everything to do with critical minerals could prove to be a forerunner of things to come.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/critical-minerals-future-australia-canada-us-china/106368382"
+    },
+    {
+      "published_datetime": "2026-02-23T23:17:30.000000Z",
+      "title": "Farmers rally against 96 million litres per year water extraction and bottling facility",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e893f418ea9b82ac6e14a1937f350b43?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "A developer has lodged an application with a rural Queensland council to build a water bottling, storage and export facility.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/farmers-rally-water-extraction-bottling-cherrabah-southern-downs/106358124"
+    },
+    {
+      "published_datetime": "2026-02-23T23:25:43.000000Z",
+      "title": "More than 70 dead after Mexico's biggest drug lord 'El Mencho' killed",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cfe8c1c41a06f6e430505a161cf4e86c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "At least 73 people have died in the attempt to capture cartel leader Nemesio Oseguera Cervantes and in the aftermath of his death.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/people-dead-in-mexico-after-drug-leader-el-mencho-death/106379184"
+    },
+    {
+      "published_datetime": "2026-02-23T23:40:54.000000Z",
+      "title": "Opposition leader to boycott controversial NT administrator's swearing-in",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5dd5ba3b2217325fd151aea768bdfb3e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=189&amp;width=862&amp;height=485"
+      },
+      "description": "Northern Territory Opposition Leader Selena Uibo says she will boycott the swearing-in of incoming administrator David Connolly, whose appointment has been embroiled in controversy due to a series of past social media posts.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/new-nt-administrator-david-connolly-swearing-in-boycott/106376176"
+    },
+    {
+      "published_datetime": "2026-02-23T22:57:22.000000Z",
+      "title": "How the 'first-night effect' is affecting your sleep",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e0c12e1d754b9e1e219b50419f56a85d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "It's night-time and you're exhausted. But the hotel bed feels wrong. The mini fridge won't stop making that low, irritating hum. The power outlet lights feel brighter than the sun.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/why-its-hard-to-sleep-when-you-are-somewhere-new/106377794"
+    },
+    {
+      "published_datetime": "2026-02-23T23:55:56.000000Z",
+      "title": "Will a couples therapist take sides? An expert explains",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/95c3595a771c4ca08a61c3a3782015e0?impolicy=wcms_crop_resize&amp;cropH=1682&amp;cropW=2991&amp;xPos=0&amp;yPos=159&amp;width=862&amp;height=485"
+      },
+      "description": "Many people seek out couples counselling when going through a rough patch, or wondering how to improve their relationship. So, how do you decide if it's right for you?",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/is-couples-counselling-right-for-me/106377918"
+    },
+    {
+      "published_datetime": "2026-02-23T18:30:00.000000Z",
+      "title": "Decoding anxiety, avoiding aggression: Test yourself on dog body language",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed758e29aa52d63c87df524e743c134b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "Dog parks can be fabulous places for socialising your pets and building community. But not all dogs are suited to a frolic with four-legged friends in off-leash areas.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/dog-park-quiz-is-your-dog-ready/106358060"
+    },
+    {
+      "published_datetime": "2026-02-23T18:46:34.000000Z",
+      "title": "Staffing crunch threatens urgent care clinic sustainability",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1cc53fe0cef55e83df121370a2e9ba90?impolicy=wcms_crop_resize&amp;cropH=2811&amp;cropW=4997&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "An independent review finds Labor's urgent care clinics face workforce shortages and problems with after-hours services, with no evidence hospital waiting times have improved.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/urgent-care-clinics-not-improving-hospital-wait-times/106377942"
     },
     {
       "published_datetime": "2026-02-23T18:44:54.000000Z",
@@ -107,60 +170,6 @@
       },
       "description": "Business representatives have warned all Australian exporters they will need to monitor US trade policy carefully over coming weeks and months, as one firm owner estimates tariffs have cost him $1 million.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/australian-exporters-on-notice-as-trump-tariffs-in-chaos/106375716"
-    },
-    {
-      "published_datetime": "2026-02-23T19:28:32.000000Z",
-      "title": "Live: Royal commission in wake of Bondi Beach terror attack opens",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7a1bbcbec0c5bc4fb46d05adb72ac29f?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=104&amp;width=862&amp;height=485"
-      },
-      "description": "A landmark royal commission begins today to probe the prevalence of antisemitism in Australia and shed light on the events surrounding the Bondi Beach terror attack.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/royal-commission-into-antisemitism-bondi-terror-attack-begins/106363892"
-    },
-    {
-      "published_datetime": "2026-02-23T20:18:17.000000Z",
-      "title": "Vonn reveals amputation scare after Olympics crash left leg 'in pieces'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/039eac1c34e4c0eaeb93b6adb2279162?impolicy=wcms_crop_resize&amp;cropH=360&amp;cropW=640&amp;xPos=0&amp;yPos=388&amp;width=862&amp;height=485"
-      },
-      "description": "Lindsey Vonn credits her orthopaedic surgeon for being in Italy in the nick of time to save her left leg after her nightmare crash at the Winter Olympics.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/lindsey-vonn-amputation-near-miss-winter-olympics-crash/106379166"
-    },
-    {
-      "published_datetime": "2026-02-23T18:30:00.000000Z",
-      "title": "Decoding anxiety, avoiding aggression: Test yourself on dog body language",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d1cbf0f65161b74bffb83aa1d76d7711?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=194&amp;width=862&amp;height=485"
-      },
-      "description": "Dog parks can be fabulous places for socialising your pets and building community. But not all dogs are suited to a frolic with four-legged friends in off-leash areas.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/dog-park-quiz-is-your-dog-ready/106358060"
-    },
-    {
-      "published_datetime": "2026-02-23T22:57:22.000000Z",
-      "title": "The 'first-night effect': Why it's hard to sleep when you're somewhere new",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e0c12e1d754b9e1e219b50419f56a85d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "It's night-time and you're exhausted. But the hotel bed feels wrong. The mini fridge won't stop making that low, irritating hum. The power outlet lights feel brighter than the sun.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/why-its-hard-to-sleep-when-you-are-somewhere-new/106377794"
-    },
-    {
-      "published_datetime": "2026-02-23T18:30:00.000000Z",
-      "title": "How 19 years on Play School fed into Simon Burke's latest role",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ab6f9cfa121e6c0f6e1e0c0616ca3caf?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "After five years starring in major musicals, Simon Burke returns to a much smaller stage in a one-man play, on its 50-year anniversary: The Elocution of Benjamin Franklin.  ",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/simon-burke-the-elocution-of-benjamin-franklin-play-school/106295868"
-    },
-    {
-      "published_datetime": "2026-02-23T20:15:29.000000Z",
-      "title": "Rob Reiner's son Nick pleads not guilty to murder of parents",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6660e644c412484d2377957125c731d?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=55&amp;width=862&amp;height=485"
-      },
-      "description": "Nick Reiner has pleaded not guilty to two counts of first-degree murder in the fatal stabbing of his parents in December last year.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/nick-reiner-pleads-not-guility-to-first-degree-murder/106379080"
     },
     {
       "published_datetime": "2026-02-23T21:05:26.000000Z",
@@ -181,49 +190,40 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/rural-nsw-councils-warn-of-financial-sustainability-crisis/106358104"
     },
     {
-      "published_datetime": "2026-02-23T21:14:11.000000Z",
-      "title": "'Sydney is heartbroken': Beloved drag performer dies",
+      "published_datetime": "2026-02-23T22:04:53.000000Z",
+      "title": "SA Liberals indicate One Nation preference, as Alex Antic meets with Cory Bernardi",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dd8b458012a1dc96451077fbd654ac7e?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=190&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ff73335abfcd3f19e00de3dc1a8b41ea?impolicy=wcms_crop_resize&amp;cropH=706&amp;cropW=1255&amp;xPos=0&amp;yPos=13&amp;width=862&amp;height=485"
       },
-      "description": "Maxi Shield was a veteran of the Australian drag scene and a regular performer at venues across Sydney's Oxford Street.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/sydney-drag-queen-maxi-shield-dies-days-out-from-mardi-gras/106379108"
+      "description": "The South Australian Liberal Party has indicated it may direct preferences to One Nation ahead of Labor and the Greens. It comes as prominent Liberal senator Alex Antic was spotted having drinks with One Nation's lead SA candidate Cory Bernardi, amid speculation over a possible defection.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/sa-liberals-may-preference-one-nation-over-labor-greens/106379200"
     },
     {
-      "published_datetime": "2026-02-23T21:17:08.000000Z",
-      "title": "BAFTA and BBC apologise for racial slur during awards show",
+      "published_datetime": "2026-02-23T19:25:44.000000Z",
+      "title": "Her son enlisted to fight for Ukraine. In a way, his death brought relief",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d518aaf951ac4c7c0073ec0ec0c197d9?impolicy=wcms_crop_resize&amp;cropH=417&amp;cropW=741&amp;xPos=0&amp;yPos=32&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/81b738a729edf5eb2965a2f4a41a19d4?impolicy=wcms_crop_resize&amp;cropH=543&amp;cropW=965&amp;xPos=0&amp;yPos=229&amp;width=862&amp;height=485"
       },
-      "description": "Tourette syndrome advocate John Davidson, who shouted the slur, says it is not a reflection of his personal beliefs.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/bafta-bbc-apology-racial-slur-awards/106379194"
+      "description": "Ruslana Bronovytska's son Dima did not tell her he was signing up to fight for Ukraine. When he went missing, it was the beginning of a new, hellish reality many people in the country face.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/ukraine-war-four-years-on-from-russia-full-scale-invasion/106371018"
     },
     {
-      "published_datetime": "2026-02-23T22:53:54.000000Z",
-      "title": "Sunshine Coast live-music venue Solbar to close after more than 20 years",
+      "published_datetime": "2026-02-23T23:43:31.000000Z",
+      "title": "Walsh re-signs with Carlton on biggest contract in club history",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b38a17ca7be42c7671607aa5420fc3ac?impolicy=wcms_crop_resize&amp;cropH=879&amp;cropW=1563&amp;xPos=0&amp;yPos=584&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/34bb610b98829ab815eda1f4ab8827ac?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=135&amp;width=862&amp;height=485"
       },
-      "description": "The Sunshine Coast's longest-running live music venue will close this weekend, after more than 20 years of hosting artists and performers. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/sunshine-coast-solbar-closing-maroochydore/106379262"
+      "description": "Carlton locks down Sam Walsh to a massive eight-year contract extension as he turns down the lure of free agency.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/afl-sam-walsh-record-carlton-contract-extension/106379858"
     },
     {
-      "published_datetime": "2026-02-23T22:55:25.000000Z",
-      "title": "Two South West backpacker hostels forced to shut over asbestos risks",
+      "published_datetime": "2026-02-23T20:18:17.000000Z",
+      "title": "Vonn reveals amputation scare after Olympics crash left leg 'in pieces'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7eea322f0b5efb93d631628fb8a0110f?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/039eac1c34e4c0eaeb93b6adb2279162?impolicy=wcms_crop_resize&amp;cropH=360&amp;cropW=640&amp;xPos=0&amp;yPos=388&amp;width=862&amp;height=485"
       },
-      "description": "Two backpacker hostels in Western Australia's largest regional city have been ordered to shut due to serious health and safety concerns, including asbestos exposure risks.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/bunbury-backpackers-closed-after-asbestos-found/106377416"
-    },
-    {
-      "published_datetime": "2026-02-23T22:01:00.000000Z",
-      "title": "Brigades stretched 'babysitting' pole-top fires for Western Power",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1b0524aaab08ad1ee4465244800dda65?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=46&amp;width=862&amp;height=485"
-      },
-      "description": "Volunteer firefighters in regional Western Australia say fatigued crews are frustrated over time spent monitoring pole-top fires before Western Power crews travel to the scene.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/pole-top-fires-firefighter-concern-western-power/106358052"
+      "description": "Lindsey Vonn credits her orthopaedic surgeon for being in Italy in the nick of time to save her left leg after her nightmare crash at the Winter Olympics.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/lindsey-vonn-amputation-near-miss-winter-olympics-crash/106379166"
     }
   ]
 }
