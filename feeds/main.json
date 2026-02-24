@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/22a1f78a-c0e1-4a8f-8ea3-b85bbe3183ab",
+      "published_datetime": "2026-02-24T08:50:17.597000",
+      "title": "Asian markets split as AI fears, new tariffs rattle investors",
+      "featured_image": {
+        "url": "https://www.pbs.org/newshour/world/eu-pauses-u-s-trade-deal-as-it-seeks-clarity-over-trumps-new-15-global-tariffs",
+        "name": "EU pauses U.S. trade deal as it seeks clarity over Trump's new 15% global tariffs",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--cYxxdwQa--/t_limit/https://d3i6fh83elv35t.cloudfront.net/static/2026/02/2026-02-23T163758Z_1815830447_RC2SRJAPHNRA_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--mpXWp3lB--/t_thumbnail/https://d3i6fh83elv35t.cloudfront.net/static/2026/02/2026-02-23T163758Z_1815830447_RC2SRJAPHNRA_RTRMADP_3_USA-TRUMP-1024x683.jpg"
+      },
+      "description": "Asian stocks diverged on Tuesday as markets across the region absorbed a sharp Wall Street selloff driven by fresh concerns about artificial intelligence displacing legacy businesses, while a new 10% global tariff imposed by President Donald Trump took effect just days after the Supreme Court struck down his original trade duties.\n\nJapan's Nikkei 225 surged 0.9% to 57,354 as markets reopened from a holiday, lifted by gains in semiconductor-related stocks. South Korea's Kospi climbed 1.8% to a record 5,951.90, powered by Samsung Electronics, which jumped 3.2%, and SK Hynix, up 4.8%. Mainland China also rallied on its return from Lunar New Year, with the Shanghai Composite rising 1.2%. But Hong Kong's Hang Seng fell 1.9% to 26,564 as traders locked in profits from a recent rally.[1][2][3]",
+      "audio_url": "",
+      "url": "asian-markets-split-as-ai-fear-ZHD1rY8nQyybS5C1Z4kAmg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-24T07:34:04.000000Z",
       "title": "TikTok faces class action after teens take their own lives",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cf7ee5e0-aeba-4cf8-bdf6-1a72c3959967",
-      "published_datetime": "2026-02-24T00:54:24.531684",
-      "title": "2026 is deadliest start to a year for Mediterranean migrants, UN says",
-      "featured_image": {
-        "url": "https://www.lemonde.fr/en/europe/article/2022/11/22/migrant-boat-docks-in-crete-after-dramatic-rescue_6005234_143.html",
-        "name": "Migrant boat docks in Crete after dramatic rescue",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--jq3WmODH--/t_limit/https://img.lemde.fr/2022/11/22/0/0/6048/4024/664/0/75/0/f8fe3c4_5807154-01-06.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--4jKXJbRw--/t_thumbnail/https://img.lemde.fr/2022/11/22/0/0/6048/4024/664/0/75/0/f8fe3c4_5807154-01-06.jpg"
-      },
-      "description": "The United Nations' International Organization for Migration announced Monday that at least 606 migrants have died or gone missing in the Mediterranean Sea since the beginning of 2026, making it the deadliest start to a year since the agency began tracking such data in 2014.[1][2][3]\n\nThe grim milestone came as search operations continued off the Greek island of Crete, where a vessel carrying roughly 50 people capsized on Saturday approximately 20 nautical miles south of the port of Kali Limenes. Twenty people were rescued, including four minors, and the bodies of three men and one woman were recovered, according to the Associated Press. About 30 others remain unaccounted for.[4][1]",
-      "audio_url": "",
-      "url": "2026-is-deadliest-start-to-a-y-mgN7jW5xQcScomdCoUL_SQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-23T23:30:26.000000Z",
       "title": "Police suspect human remains to be abducted Sydney man",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-24T09:42:41.588901"
+  "merged_at": "2026-02-24T10:02:22.345933"
 }
