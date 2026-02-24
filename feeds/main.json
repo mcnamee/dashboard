@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-24T10:46:08.000000Z",
+      "title": "Breaking: Prime minister evacuated from The Lodge following security incident",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/74e1afb5c211fbdcf89a09498478fd7a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The incident at Mr Albanese's Canberra residence led to the prime minister being taken to another location for several hours.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-24/anthony-albanese-security-incident-at-lodge-police-canberra/106383816"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/22a1f78a-c0e1-4a8f-8ea3-b85bbe3183ab",
       "published_datetime": "2026-02-24T08:50:17.597000",
       "title": "Asian markets split as AI fears, new tariffs rattle investors",
@@ -17,7 +26,7 @@
     },
     {
       "published_datetime": "2026-02-24T07:34:04.000000Z",
-      "title": "TikTok faces class action after teens take their own lives",
+      "title": "TikTok's algorithm showed Marie self-harm videos. It became too much",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ee3b89047cd04526ab2756caa5d9db5f?impolicy=wcms_crop_resize&amp;cropH=1894&amp;cropW=3367&amp;xPos=509&amp;yPos=384&amp;width=862&amp;height=485"
       },
@@ -41,7 +50,7 @@
     },
     {
       "published_datetime": "2026-02-24T06:50:18.000000Z",
-      "title": "Banning trans women from lesbian group could 'undermine dignity', court hears",
+      "title": "Lesbian group has no reason to ban trans women, commission says",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1f000cceb816206b8e65830dbe2125a9?impolicy=wcms_crop_resize&amp;cropH=2265&amp;cropW=4026&amp;xPos=303&amp;yPos=448&amp;width=862&amp;height=485"
       },
@@ -65,15 +74,6 @@
       },
       "description": "A representative for a telehealth company has been caught offering a military advocate a \"kickback\" for every veteran who signs up to an ongoing medicinal cannabis prescription.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/medicinal-cannabis-company-offered-kickback-for-veteran-referral/106354294"
-    },
-    {
-      "published_datetime": "2026-02-24T05:45:09.000000Z",
-      "title": "Most flu deaths this century were recorded in 2025, ABS finds",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bac19ea024f456d0bbcdcb6513dd3ea4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "There were more deaths associated with influenza last year than any other year this century, according to the Australia Bureau of Statistics.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-24/most-flu-deaths-this-century-were-recorded-in-2025/106380626"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7bbacddb-8b78-4d8e-9ec9-d24ee8585b8b",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-24T10:39:40.869833"
+  "merged_at": "2026-02-24T11:34:20.050327"
 }
