@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/french-social-media-ban-families-suing-tiktok/106348256"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0a4c4608-ebc9-45ee-ae13-3761d4e4652c",
+      "published_datetime": "2026-02-24T07:14:34.890208",
+      "title": "MIT study rules out wildfires, volcanoes as cause of recent surface warming",
+      "featured_image": {
+        "url": "https://uk.news.yahoo.com/climate-fingerprints-mark-human-activity-173200728.html",
+        "name": "Climate 'fingerprints' mark human activity from the top of the ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--uowcKaZN--/t_limit/https://s.yimg.com/os/en/the_conversation_464/312363146cd04304d0b1d43cf8604dcb",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--pSk3__4Q--/t_thumbnail/https://s.yimg.com/os/en/the_conversation_464/312363146cd04304d0b1d43cf8604dcb"
+      },
+      "description": "A team of MIT scientists has isolated the distinct global temperature effects of three landmark natural events \u2014 the 1991 eruption of Mount Pinatubo, the 2019-2020 Australian wildfires, and the 2022 Hunga Tonga underwater volcanic eruption \u2014 using decades of satellite data and a novel signal-to-noise approach, according to a study published this week in the Proceedings of the National Academy of Sciences.[1][2]\n\nThe findings show that while all three events left measurable marks on atmospheric temperatures, none appear to explain the accelerating warming trend at Earth's surface in recent years, pointing instead to human activity as the dominant driver.[3][1]",
+      "audio_url": "",
+      "url": "mit-study-rules-out-wildfires-SplwzyixRzeuADPOSu1POA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-24T06:50:18.000000Z",
       "title": "Banning trans women from lesbian group could 'undermine dignity', court hears",
       "featured_image": {
@@ -20,7 +35,7 @@
     },
     {
       "published_datetime": "2026-02-24T06:05:47.000000Z",
-      "title": "Breaking: Obstetrician sentenced to more than 10 years in jail for woman's death in car smash",
+      "title": "Obstetrician sentenced to more than 10 years in jail for woman's death in car smash",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cdc23f6887f3329fcae50ec305c3a57f?impolicy=wcms_crop_resize&amp;cropH=604&amp;cropW=1074&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
       },
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b6cde82e-9103-4f4b-99dd-28818fe8496e",
-      "published_datetime": "2026-02-24T00:44:25.275994",
-      "title": "Slovakia cuts emergency power to Ukraine over oil dispute",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2026/2/21/slovakia-threatens-to-cut-electricity-to-ukraine-over-russian-oil-spat",
-        "name": "Slovakia threatens to cut electricity to Ukraine over Russian oil spat",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--HuYJTL8o--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-15T130848Z_1732056876_RC2CMJAU1ZKL_RTRMADP_3_USA-RUBIO-EUROPE-SLOVAKIA-1771693498.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--rV9-oc9Q--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-15T130848Z_1732056876_RC2CMJAU1ZKL_RTRMADP_3_USA-RUBIO-EUROPE-SLOVAKIA-1771693498.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "Slovak Prime Minister Robert Fico on Monday ordered the state-run Slovak Electricity Transmission System (SEPS) to suspend emergency electricity supplies to Ukraine, making good on a two-day ultimatum that expired after Kyiv did not restore oil flows through the Druzhba pipeline.\n\n\"As of today, if the Ukrainian side contacts Slovakia seeking help to stabilize the Ukrainian energy grid, such assistance will be denied,\" Fico said in a video posted to Facebook. He said the measure would be reversed \"immediately after the resumption of oil transit to Slovakia\" and warned that further \"reciprocal measures\" could follow, including reconsidering Slovakia's previously supportive stance on Ukraine's EU membership.[1][2][3]",
-      "audio_url": "",
-      "url": "slovakia-cuts-emergency-power-ycrW5zqJRvuWdt9j4guSvQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-23T23:30:26.000000Z",
       "title": "Police suspect human remains to be abducted Sydney man",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-24T08:36:25.531837"
+  "merged_at": "2026-02-24T09:42:41.588901"
 }
