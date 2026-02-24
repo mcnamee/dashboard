@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-25/brk-savannah-guthrie-million-dollar-reward-nancy/106384088"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/17037322-6f3c-4a71-aaf5-4e82b17ac7df",
+      "published_datetime": "2026-02-24T14:48:12.967228",
+      "title": "U.S. details alleged secret Chinese nuclear test, urges disarmament talks",
+      "featured_image": {
+        "url": "https://www.lemonde.fr/en/international/article/2026/02/24/us-accuses-china-of-increasing-its-nuclear-arsenal_6750810_4.html",
+        "name": "US accuses China of increasing its nuclear arsenal - Le Monde",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--R5j5WFbU--/t_limit/https://img.lemde.fr/2026/02/06/0/0/5500/3666/1440/960/60/0/7e18a41_ftp-1-97hj11qqmrm7-2026-02-06t162934z-247786789-rc22kgansoeb-rtrmadp-3-russia-usa.JPG",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--TE6orvlq--/t_thumbnail/https://img.lemde.fr/2026/02/06/0/0/5500/3666/1440/960/60/0/7e18a41_ftp-1-97hj11qqmrm7-2026-02-06t162934z-247786789-rc22kgansoeb-rtrmadp-3-russia-usa.JPG"
+      },
+      "description": "A senior American arms control official on Monday presented newly declassified details of what Washington says was a secret Chinese underground nuclear test conducted in 2020, urging the international community to pressure Beijing and Moscow toward nuclear disarmament just weeks after the last remaining U.S.-Russia arms treaty expired.",
+      "audio_url": "",
+      "url": "u-s-details-alleged-secret-chi-nkk0CBnCRX.XBqJs8HnvMg",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/792c6b1c-f834-499a-bcec-3fba26a083db",
       "published_datetime": "2026-02-24T14:38:06.587759",
       "title": "Meta signs 6-gigawatt AI chip deal with AMD",
@@ -226,21 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-24/gus-lamont-parents-release-statement-and-video/106382060"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/893f88c2-4ce6-48c9-b2a4-8353ab03730e",
-      "published_datetime": "2026-02-24T04:26:43.044314",
-      "title": "Explosion near Moscow train station kills police officer on Ukraine war anniversary",
-      "featured_image": {
-        "url": "https://www.yahoo.com/news/articles/man-kills-police-officer-moscow-011625858.html",
-        "name": "Man kills police officer in Moscow train station blast",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--DlpWNY81--/t_limit/https://s.yimg.com/ny/api/res/1.2/plJhz.00NeUfoi_90ZDR6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE1MzY7aD0xMDI0O2NmPXdlYnA-/https://media.zenfs.com/en/afp.com/b52c49dd77f460c810a829f15fa166df",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s---RAHlfmX--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/plJhz.00NeUfoi_90ZDR6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE1MzY7aD0xMDI0O2NmPXdlYnA-/https://media.zenfs.com/en/afp.com/b52c49dd77f460c810a829f15fa166df"
-      },
-      "description": "An unidentified assailant detonated an explosive device beside a police patrol vehicle at Savyolovsky Station Square in central Moscow early Tuesday, killing himself and a traffic police officer and wounding two others, Russian authorities said. The blast came just minutes into February 24 \u2014 the fourth anniversary of Russia's full-scale invasion of Ukraine.\n\nThe attack occurred at approximately 00:05 Moscow time, according to Moscow's branch of the Interior Ministry, which said the man approached officers sitting inside a patrol car before the device went off. One officer was killed instantly, while two others were hospitalized.[1][2][3][4][5]",
-      "audio_url": "",
-      "url": "explosion-near-moscow-train-st-V.nVJ2aQQ1e5janDVoblGg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-24T15:48:12.743112"
+  "merged_at": "2026-02-24T16:56:50.986331"
 }
