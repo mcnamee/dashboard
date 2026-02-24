@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-24T21:29:12.000000Z",
+      "title": "Iran signs $700 million arms deal with Russia, reports say",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5aeb3590c643247b2f7f08afab669565?impolicy=wcms_crop_resize&amp;cropH=309&amp;cropW=550&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Iran has reportedly signed a secret arms deal with Russia to acquire thousands of advanced shoulder-fired missiles to help boost its air defences.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-25/iran-missile-defence-deal-russia-verba-manpad-weapons/106380088"
+    },
+    {
       "published_datetime": "2026-02-24T21:13:22.000000Z",
       "title": "Outback residents 'dancing in the rain' as February record breaks",
       "featured_image": {
@@ -35,15 +44,6 @@
       },
       "description": "The businessman behind a proposed Trump Tower on the Gold Coast ran a development business that collapsed owing $28 million.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-25/trump-tower-altus-david-young-business-collapse/106382270"
-    },
-    {
-      "published_datetime": "2026-02-24T19:41:28.000000Z",
-      "title": "'I just burst into tears': 400yo viola found after a five-year search",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fbc4f370253bc6abbd7c6a86e4c59d07?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
-      },
-      "description": "The instrument is believed to be one of the finest tenor violas in existence and the only surviving example of its kind.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-25/416yo-maggini-viola-now-in-aco-golden-age-instrument-collection/106379198"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0f5b35c0-f65d-4c74-80ba-b8fe023a6eec",
@@ -84,7 +84,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b237d9c5b95244009b8e966623a06d94?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "For the first time since its invasion, Russia has lost troops faster than it can replace them. It's one of many grim milestones of a bloody war in Ukraine that has now been going for four years.",
+      "description": "For the first time since its invasion of Ukraine, Russia has lost troops faster than it can replace them. It's one of many grim milestones of a bloody war that has now been going for four years.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-25/russia-military-reputation-economy-after-ukraine-war-years/106382378"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-24T21:26:12.008347"
+  "merged_at": "2026-02-24T22:24:39.791992"
 }
