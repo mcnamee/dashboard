@@ -1,13 +1,37 @@
 {
   "items": [
     {
-      "published_datetime": "2026-02-25T01:49:25.000000Z",
-      "title": "Inflation slightly hotter than expected, keeping rate hike on table",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/44e7b8db-22d5-474b-a7fc-41a144976f8b",
+      "published_datetime": "2026-02-25T04:41:14.417176",
+      "title": "Gold tops $5,200 as new U.S. tariffs take effect amid trade chaos",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f5bbe75859b7d2495e5dcec57c7969ac?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "url": "https://www.cnbc.com/2026/02/23/gold-hits-three-week-high-as-us-tariff-ruling-incites-safe-haven-buying.html",
+        "name": "Gold hits three-week high as U.S. tariff ruling incites safe-haven buying",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--mBA-BKbC--/t_limit/https://image.cnbcfm.com/api/v1/image/108264268-1770790732856-gettyimages-1162569223-340262511jpeg.jpeg%3Fv%3D1771844970%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--7MLTfwYB--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108264268-1770790732856-gettyimages-1162569223-340262511jpeg.jpeg%3Fv%3D1771844970%26w%3D1920%26h%3D1080"
       },
-      "description": "Headline inflation was 3.8 per cent in January, which was unchanged from December, but underlying inflation increased slightly. Both numbers were higher than expected.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-25/inflation-australia-january-2026-hotter-than-expected/106385296"
+      "description": "Gold prices climbed to a three-week high this week as investors poured into safe-haven assets following a sudden upheaval in U.S. trade policy. The rally was triggered by the Supreme Court's decision on Friday to strike down President Donald Trump's sweeping tariffs, and then his rapid imposition of new levies under a different legal authority, injecting fresh uncertainty into global markets.",
+      "audio_url": "",
+      "url": "gold-tops-5200-as-new-u-s-tari-PSaX22m8R.GPeTMu.jAnvA",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-02-25T04:12:21.000000Z",
+      "title": "New laws flagged after 'violent' attacks on gay and bisexual Sydney teens",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/62e52af39c0c87c69753073116a67009?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The New South Wales premier has flagged harsher punishments and new criminal offences in response to gay and bisexual teens being lured online and bashed on camera.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-25/hate-laws-nsw-after-isis-inspired-sydney-attacks-on-sexuality/106386596"
+    },
+    {
+      "published_datetime": "2026-02-25T01:47:12.000000Z",
+      "title": "Shark cull and swimming ban to resume after fatal attack in New Caledonia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/93609e019c622ec257611a33d45fac24?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "New Caledonian authorities ban beach swimming and resume shark culling despite concern from environmental groups, after a wing foiler is killed in an attack.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-25/cull-and-swimming-ban-resume-fatal-shark-attack-new-caledonia/106382354"
     },
     {
       "published_datetime": "2026-02-25T01:43:17.000000Z",
@@ -29,7 +53,7 @@
     },
     {
       "published_datetime": "2026-02-25T01:37:28.000000Z",
-      "title": "IS-linked families will return 'one way or the other', doctor helping them says",
+      "title": "Sydney doctor was passport 'delivery boy' for IS-linked families in Syria",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c87633f2b6d877e7ade6813585991743?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -38,7 +62,7 @@
     },
     {
       "published_datetime": "2026-02-25T01:33:15.000000Z",
-      "title": "Security threat prompting PM evacuation linked to Chinese dance group",
+      "title": "Security threat prompting PM evacuation linked to threats aimed at Chinese dance group",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0dbcd2fb39d0bc97a0cca951b246c81b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=317&amp;width=862&amp;height=485"
       },
@@ -56,9 +80,9 @@
     },
     {
       "published_datetime": "2026-02-25T00:38:26.000000Z",
-      "title": "Live: Congressman booted as Trump swipes at Supreme Court in State of the Union",
+      "title": "Live: Trump swipes at Supreme Court in longest State of the Union speech",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18ce95da047511ae6198912833f0a1ab?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7aee7824c89ce33b5cd087dcf6f3325d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
       "description": "US President Donald Trump addresses Congress in the annual State of the Union speech. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-25/donald-trump-state-of-the-union-2026/106382332"
@@ -129,17 +153,8 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29dd18e36364de9f4a385c55b271d71c?impolicy=wcms_crop_resize&amp;cropH=128&amp;cropW=227&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
       },
-      "description": "The arrests come less than 24 hours after police discovered human remains near a golf club in Sydney's north-west.",
+      "description": "Two men are arrested less than 24 hours after police discovered human remains near a golf club in Sydney's north-west.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-25/arrests-made-in-relation-to-chris-baghsarian-kidnapping-sydney/106383878"
-    },
-    {
-      "published_datetime": "2026-02-24T20:02:34.000000Z",
-      "title": "Live: Albanese urges country to 'turn the heat down' following bomb threat",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8e6df01e454950af7cd51d98352f370?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=229&amp;width=862&amp;height=485"
-      },
-      "description": "Prime Minister Anthony Albanese has called for the heat to be taken out of political debate after a bomb threat on The Lodge. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-25/albanese-evacuation-labor-taylor-coalition-capital-gains/106382944"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0f5b35c0-f65d-4c74-80ba-b8fe023a6eec",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/792c6b1c-f834-499a-bcec-3fba26a083db",
-      "published_datetime": "2026-02-24T14:38:06.587759",
-      "title": "Meta signs 6-gigawatt AI chip deal with AMD",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/news/amd-and-oracle-announce-agreement-for-50000-gpus-as-ai-deal-spree-continues-121807781.html",
-        "name": "AMD and Oracle announce agreement for 50,000 GPUs as AI deal ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--hZOVLREd--/t_limit/https://s.yimg.com/ny/api/res/1.2/VMhgD02cSbqgn9xZBuHAIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/f4079bf0-217e-11ef-9bef-231fb55355e6",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--sIrm6MtK--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/VMhgD02cSbqgn9xZBuHAIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/f4079bf0-217e-11ef-9bef-231fb55355e6"
-      },
-      "description": "Meta Platforms and AMD on Tuesday announced a multi-year, multi-generation agreement to deploy 6 gigawatts of AMD Instinct GPUs for Meta's AI infrastructure, in a deal that could generate tens of billions of dollars in revenue for the chipmaker and reshape the competitive landscape of the AI hardware market.[1][2]\n\nThe partnership marks Meta's most direct move yet to diversify its AI compute supply chain beyond Nvidia, which secured its own sweeping deal with Meta just one week earlier. Under the agreement, AMD issued Meta a performance-based warrant for up to 160 million shares of AMD common stock \u2014 roughly 10% of the company \u2014 structured to vest as shipment milestones and stock price thresholds are achieved.[3][4][2]",
-      "audio_url": "",
-      "url": "meta-signs-6-gigawatt-ai-chip-m72ZPC5IR1WvxwgfWXQocw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-25T04:12:01.225530"
+  "merged_at": "2026-02-25T05:55:36.504816"
 }
