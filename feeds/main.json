@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-25T13:14:00.000000Z",
+      "title": "First-home buyer affordability no longer just a Sydney problem",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/56025e13bcb9e71930b3d9a6cb2188ac?impolicy=wcms_crop_resize&amp;cropH=2084&amp;cropW=3705&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The Australian dream of home ownership is becoming an increasingly unrealistic goal for young Australians, new research from Domain has found, with repayments on an entry-level house now averaging almost half a couple's combined income. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-26/first-home-buyer-affordability-slips-domain-real-estate-report/106383700"
+    },
+    {
       "published_datetime": "2026-02-25T12:26:06.000000Z",
-      "title": "Controversial NT Administrator apologises over 'hurt' from social media posts",
+      "title": "Controversial NT administrator apologises over 'hurt' from social media posts",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3c9b670acaf2f3be198207766684e431?impolicy=wcms_crop_resize&amp;cropH=835&amp;cropW=1484&amp;xPos=3&amp;yPos=413&amp;width=862&amp;height=485"
       },
@@ -175,15 +184,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-25T05:29:48.000000Z",
-      "title": "Alleged bomb threat against Gold Coast theatre over Chinese dance group",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0c41d80d5261f762607b28b125888d73?impolicy=wcms_crop_resize&amp;cropH=945&amp;cropW=1680&amp;xPos=46&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Shen Yun has been the subject of several threats, including one against Australia's prime minister on Monday.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-25/alleged-bomb-threat-against-hota-hosting-shen-yun/106387762"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2fd42f1e-08e9-44f4-8090-a5f65c6a5949",
       "published_datetime": "2026-02-25T05:12:20.791769",
       "title": "HSBC's 2025 profit beats estimates despite $5B in charges",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-25T12:42:09.073804"
+  "merged_at": "2026-02-25T14:04:06.345315"
 }
