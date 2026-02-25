@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-25T08:02:54.000000Z",
+      "title": "Trump's showmanship distracts from all that was riding on today's address",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/70a2919b06c842436e43860bfacc110e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump's showmanship and supreme confidence can easily distract from the fact that he had a lot riding on his State of the Union address on Tuesday.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-25/donald-trump-state-of-the-union-message-for-america/106387162"
+    },
+    {
       "published_datetime": "2026-02-25T01:33:15.000000Z",
-      "title": "Security threat prompting PM evacuation linked to threats aimed at Chinese dance group",
+      "title": "Security threat prompting PM evacuation linked to intimidation of Chinese dancers",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0dbcd2fb39d0bc97a0cca951b246c81b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=317&amp;width=862&amp;height=485"
       },
@@ -10,13 +19,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-25/albanese-lodge-bomb-threat-linked-chinese-dance-group/106384392"
     },
     {
-      "published_datetime": "2026-02-25T06:39:21.000000Z",
-      "title": "Five standout moments from Trump's State of the Union speech",
+      "published_datetime": "2026-02-25T05:29:48.000000Z",
+      "title": "Alleged bomb threat against Gold Coast theatre over Chinese dance group",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e95c8d0d070edc9c5db566c5161189c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=126&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0c41d80d5261f762607b28b125888d73?impolicy=wcms_crop_resize&amp;cropH=945&amp;cropW=1680&amp;xPos=46&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The president gives the longest State of the Union speech in US history, delivering a 108-minute address to shatter Bill Clinton's 89-minute record.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-25/standout-moments-from-trumps-state-of-the-union-speech/106385846"
+      "description": "Shen Yun has been the subject of several threats, including one against Australia's prime minister on Monday.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-25/alleged-bomb-threat-against-hota-hosting-shen-yun/106387762"
     },
     {
       "published_datetime": "2026-02-25T01:43:17.000000Z",
@@ -37,15 +46,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-25/accc-coles-federal-court-closing-statements/106379734"
     },
     {
-      "published_datetime": "2026-02-25T04:12:21.000000Z",
-      "title": "New laws flagged after 'violent' attacks on gay and bisexual Sydney teens",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/62e52af39c0c87c69753073116a67009?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The New South Wales premier has flagged harsher punishments and new criminal offences in response to gay and bisexual teens being lured online and bashed on camera.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-25/hate-laws-nsw-after-isis-inspired-sydney-attacks-on-sexuality/106386596"
-    },
-    {
       "published_datetime": "2026-02-24T20:41:14.000000Z",
       "title": "Human remains confirmed as abducted Sydney grandfather as two arrested",
       "featured_image": {
@@ -55,13 +55,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-25/arrests-made-in-relation-to-chris-baghsarian-kidnapping-sydney/106383878"
     },
     {
-      "published_datetime": "2026-02-25T01:02:37.000000Z",
-      "title": "Colin was on 32 medications. A pharmacist home visit changed his life",
+      "published_datetime": "2026-02-25T04:12:21.000000Z",
+      "title": "New laws flagged after 'violent' attacks on gay and bisexual Sydney teens",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fb30e849206a86edeb9044c81adead8d?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/62e52af39c0c87c69753073116a67009?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Pharmacists are calling for more funding and caps to be removed from a long-running government program that helps patients avoid hospital.",
-      "page_content_url": "https://www.abc.net.au/news/health/2026-02-25/home-medicine-review-pharmacy-patient/106380108"
+      "description": "The New South Wales premier has flagged harsher punishments and new criminal offences in response to gay and bisexual teens being lured online and bashed on camera.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-25/hate-laws-nsw-after-isis-inspired-sydney-attacks-on-sexuality/106386596"
+    },
+    {
+      "published_datetime": "2026-02-25T07:20:41.000000Z",
+      "title": "WiseTech to slash 2,000 jobs as AI ends era of 'manually writing code'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2161285d808f7eaff3bd877a6a0597b0?impolicy=wcms_crop_resize&amp;cropH=1134&amp;cropW=2016&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The company says almost one third of staff across 40 countries would be affected by the redundancies as a move towards AI sees a reshaping of its workforce. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-25/wisetech-job-losses-losing-2000-over-next-two-years-coding-era/106387486"
     },
     {
       "published_datetime": "2026-02-25T06:10:15.000000Z",
@@ -82,13 +91,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-25/ai-regulation-toby-walsh-national-press-club-warning/106384688"
     },
     {
-      "published_datetime": "2026-02-25T01:37:28.000000Z",
-      "title": "Sydney doctor was passport 'delivery boy' for IS-linked families in Syria",
+      "published_datetime": "2026-02-25T05:36:02.000000Z",
+      "title": "'Unbelievable amount of water': Towns receive over 200mm in 24 hours",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c87633f2b6d877e7ade6813585991743?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e695cebea521eb3bc639ee863057bdc?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Australian doctor Jamal Rifi has been helping to coordinate a potential repatriation effort from Syria, including by obtaining passports for the families.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-25/sydney-doctor-helping-australian-isis-families-in-syria/106385212"
+      "description": "Some pastoralists have already recorded 215mm of rain overnight, with the coming days forecast to bring an additional 100mm in some parts north-east of SA and far west NSW.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-25/far-north-sa-and-nsw-huge-rainfall-floods-after-drought-outback/106385264"
+    },
+    {
+      "published_datetime": "2026-02-25T01:02:37.000000Z",
+      "title": "Colin was on 32 medications. A pharmacist home visit changed his life",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fb30e849206a86edeb9044c81adead8d?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485"
+      },
+      "description": "Pharmacists are calling for more funding and caps to be removed from a long-running government program that helps patients avoid hospital.",
+      "page_content_url": "https://www.abc.net.au/news/health/2026-02-25/home-medicine-review-pharmacy-patient/106380108"
     },
     {
       "published_datetime": "2026-02-25T06:52:02.000000Z",
@@ -100,13 +118,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-25/william-yeates-charged-deepfake-image-creation/106387272"
     },
     {
-      "published_datetime": "2026-02-25T05:36:02.000000Z",
-      "title": "'Unbelievable amount of water': Towns receive over 200mm in 24 hours",
+      "published_datetime": "2026-02-25T01:37:28.000000Z",
+      "title": "Sydney doctor was passport 'delivery boy' for IS-linked families in Syria",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e695cebea521eb3bc639ee863057bdc?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c87633f2b6d877e7ade6813585991743?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Some pastoralists have already recorded 215mm of rain overnight, with the coming days forecast to bring an additional 100mm in some parts north-east of SA and far west NSW.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-25/far-north-sa-and-nsw-huge-rainfall-floods-after-drought-outback/106385264"
+      "description": "Australian doctor Jamal Rifi has been helping to coordinate a potential repatriation effort from Syria, including by obtaining passports for the families.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-25/sydney-doctor-helping-australian-isis-families-in-syria/106385212"
     },
     {
       "published_datetime": "2026-02-25T01:42:24.000000Z",
@@ -154,15 +172,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-25/afl-brownlow-medal-umpires-voting-statistics/106388170"
     },
     {
-      "published_datetime": "2026-02-24T19:46:44.000000Z",
-      "title": "Gold Coast Trump Tower developer was 'uncontactable' after business collapse",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/555a2b47d3445069f81033aa25eeffc2?impolicy=wcms_crop_resize&amp;cropH=506&amp;cropW=900&amp;xPos=0&amp;yPos=27&amp;width=862&amp;height=485"
-      },
-      "description": "The businessman behind a proposed Trump Tower on the Gold Coast ran a development business that collapsed owing $28 million.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-25/trump-tower-altus-david-young-business-collapse/106382270"
-    },
-    {
       "published_datetime": "2026-02-25T01:47:12.000000Z",
       "title": "Shark cull and swimming ban to resume after fatal attack in New Caledonia",
       "featured_image": {
@@ -208,22 +217,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-25/canberra-man-accused-holding-woman-captive-says-he-was-attacked/106388054"
     },
     {
-      "published_datetime": "2026-02-25T00:31:55.000000Z",
-      "title": "Lizzie McGuire and Revenge of the Nerds star dies at 71",
+      "published_datetime": "2026-02-24T19:46:44.000000Z",
+      "title": "Gold Coast Trump Tower developer was 'uncontactable' after business collapse",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/25b99dac149062ff55f4f4fe52bc9f89?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=97&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/555a2b47d3445069f81033aa25eeffc2?impolicy=wcms_crop_resize&amp;cropH=506&amp;cropW=900&amp;xPos=0&amp;yPos=27&amp;width=862&amp;height=485"
       },
-      "description": "Robert Carradine — the youngest member of a legendary Hollywood family —  dies, with his loved ones revealing his struggle with bipolar disorder.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-25/star-robert-carradine-dies-at-71/106385198"
-    },
-    {
-      "published_datetime": "2026-02-25T04:44:27.000000Z",
-      "title": "Four years' jail for man who tried to set police officer on fire",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/92f13cec7e8763576d70d3d348e6016d?impolicy=wcms_crop_resize&amp;cropH=356&amp;cropW=633&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Ian Wally attempted to use a jerry can full of petrol to set a Perth police officer on fire.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-25/wa-man-ian-wally-set-jailed-attempt-set-police-officer-on-fire/106386692"
+      "description": "The businessman behind a proposed Trump Tower on the Gold Coast ran a development business that collapsed owing $28 million.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-25/trump-tower-altus-david-young-business-collapse/106382270"
     }
   ]
 }
