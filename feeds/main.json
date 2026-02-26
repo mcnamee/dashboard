@@ -1,13 +1,49 @@
 {
   "items": [
     {
-      "published_datetime": "2026-02-26T03:35:48.000000Z",
-      "title": "Three people injured after suspected lightning strikes during Perth storm",
+      "published_datetime": "2026-02-26T05:16:38.000000Z",
+      "title": "Two dead after fungal infection outbreak at major Sydney hospital",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/67c9f51455658d8c9deb81389df137e3?impolicy=wcms_crop_resize&amp;cropH=949&amp;cropW=1687&amp;xPos=0&amp;yPos=130&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5fd88c3de2f2dd4c01782eead9a11bb1?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Two teenage girls and a man in his 70s are receiving medical care after lightning strikes in Perth.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-26/three-people-reportedly-struck-by-lightning-during-perth-storm/106391898"
+      "description": "The cluster of infections at the transplant unit at the Royal Prince Alfred Hospital late last year saw two people die, health bosses say.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-26/nsw-rpa-fungas-cluster-two-dead/106392254"
+    },
+    {
+      "published_datetime": "2026-02-26T05:02:36.000000Z",
+      "title": "One word unravels Albanese's week",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/30e86db3d65d1138615cb0cc7cef87be?impolicy=wcms_crop_resize&amp;cropH=2961&amp;cropW=5264&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
+      },
+      "description": "The prime minister was this week evacuated from the Lodge over a bomb threat and later got stuck in a tit-for-tat with a former Australian of the Year.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-26/anthony-albanese-bomb-threat-grace-tame-isis-brides/106380004"
+    },
+    {
+      "published_datetime": "2026-02-26T04:21:58.000000Z",
+      "title": "Rescuers abseil down 350m cliff to reach hikers stranded in alps",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d012e7606a6477b72f4082ac9bd9fcb0?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+      },
+      "description": "Emergency service crews have conducted a 24-hour rescue mission, involving 350 metres of a vertical climb, to locate two hikers who became stranded on a ledge in the Snowy Mountains.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-26/hikers-rescue-mission-snowy-mountains-geehi/106349146"
+    },
+    {
+      "published_datetime": "2026-02-26T04:03:34.000000Z",
+      "title": "Daylesford man, 51, charged with alleged assault of solo female hiker",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/03cd2b12c91905d11e42300eaede1902?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=74&amp;width=862&amp;height=485"
+      },
+      "description": "A Daylesford man has arrested and charged after solo female hiker was allegedly assaulted in central Victoria.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-26/daylesford-man-charged-after-alleged-assault-victoria/106391816"
+    },
+    {
+      "published_datetime": "2026-02-26T03:08:00.000000Z",
+      "title": "Mother and daughter discover contender for world's largest known coral colony",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6d428f82a5dc2df6a24c8ea71db2ad0b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Mother and daughter citizen scientists have found what is believed to be the largest coral colony on the Great Barrier Reef and possibly in the world.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-26/citizen-scientists-discover-great-barrier-reef-coral-colony/106386786"
     },
     {
       "published_datetime": "2026-02-26T02:21:26.000000Z",
@@ -17,15 +53,6 @@
       },
       "description": "Most Australians will receive a mobile phone alert in July this year, as part of a nationwide test of a new emergency warning system.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-26/national-emergency-mobile-alert-system-trials-to-begin/106390534"
-    },
-    {
-      "published_datetime": "2026-02-26T02:10:17.000000Z",
-      "title": "Children of 'ISIS brides' become a political hot potato",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2cac54fe3caf0ee6cbfd6d030c0d220f?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=83&amp;width=862&amp;height=485"
-      },
-      "description": "The fate of the \"ISIS brides\" is inextricably linked to constitutional facts but the debate about their future is not taking place in a legal chamber \u2014 it is being fought in the court of public opinion.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-26/children-isis-brides-politics-anthony-albanese-coalition-greens/106382326"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5bc9dc8a-e271-4fd5-872b-a7b0387404d4",
@@ -43,19 +70,10 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-26T02:04:13.000000Z",
-      "title": "Hearing reveals 'culture of carelessness' at Optus ahead of Triple Zero deaths",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/471cab6b08a18d9840dda4837385fdf8?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A Senate committee hears bombshell testimony about Optus's processes during an outage that led to the deaths of multiple customers who were unable to call Triple Zero.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-26/optus-call-centre-panic-during-triple-zero-crisis/106391184"
-    },
-    {
       "published_datetime": "2026-02-26T01:57:59.000000Z",
-      "title": "Hundreds join support group in wake of claims against gynaecologist",
+      "title": "Hundreds of women join support group in wake of claims against gynaecologist",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/88fb99800dabd13200f829acee93bfd8?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b2a32c5bf1533f098f1b79e5f95ed932?impolicy=wcms_crop_resize&amp;cropH=377&amp;cropW=670&amp;xPos=0&amp;yPos=80&amp;width=862&amp;height=485"
       },
       "description": "More former patients of Melbourne gynaecologist Simon Gordon have come forward to express distress over their treatment with many joining a newly-formed private support group.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-26/endometriosis-womens-health-gynaecologist-simon-gordon-/106390516"
@@ -75,17 +93,8 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/52d516b8390f8280acb70e5a731bb394?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=26&amp;width=862&amp;height=485"
       },
-      "description": "Grace Tame\u00a0has criticised Prime Minister Anthony Albanese's qualified apology after he described her as \"difficult\", saying \"what a patronising cop out\". \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
+      "description": "Grace Tame\u00a0criticises Prime Minister Anthony Albanese's qualified apology after he described her as \"difficult\", saying \"what a patronising cop out\". \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-26/albanese-apologises-for-calling-grace-tame-difficult/106389860"
-    },
-    {
-      "published_datetime": "2026-02-25T23:44:24.000000Z",
-      "title": "Teen confirmed as first Australian death from tick-induced red meat allergy",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/56337f368f542c237e8cc3be9bac8977?impolicy=wcms_crop_resize&amp;cropH=628&amp;cropW=1116&amp;xPos=54&amp;yPos=59&amp;width=862&amp;height=485"
-      },
-      "description": "Jeremy Webb's death in 2022 is the first documented fatal case of mammalian meat allergy in the country and second in the world.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-26/jeremy-webb-first-confirmed-red-meat-tick-allergy-death/106390088"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/88dfb1c7-599e-4965-abde-72afb4a83493",
@@ -131,15 +140,6 @@
       "audio_url": "",
       "url": "spanish-scientists-build-solar-sRVAXRoHTj.iwmPEX_T8Og",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-25T20:14:52.000000Z",
-      "title": "Live: Middle East situation 'fast-moving', deputy PM says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fa7b7a7b067f71e34643d81da9e0f07b?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=325&amp;width=862&amp;height=485"
-      },
-      "description": "Deputy Prime Minister Richard Marles says the situation in the Middle East is \"fast-moving\" as the government moves to evacuate dependents of Australian diplomats from Israel and Lebanon. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-26/federal-politics-live-blog-chalmers-inflation/106388618"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0218f55a-002d-4c6f-babb-eeea5e06b075",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-26T04:08:12.508301"
+  "merged_at": "2026-02-26T05:52:10.196763"
 }
