@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-26T06:37:30.000000Z",
+      "title": "Wieambilla property where officers died for sale in 'dilapidated' state",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d2c7f950ac195b4e1667d60bd4af8c27?impolicy=wcms_crop_resize&amp;cropH=637&amp;cropW=1133&amp;xPos=0&amp;yPos=87&amp;width=862&amp;height=485"
+      },
+      "description": "The property where two Queensland police officers were murdered has been put up for sale, with photos showing the house in a state of disrepair.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-26/wieambilla-property-for-sale-police-ambush/106392912"
+    },
+    {
       "published_datetime": "2026-02-26T05:49:00.000000Z",
       "title": "Former New Zealand prime minister Jacinda Ardern moves to Australia",
       "featured_image": {
@@ -28,15 +37,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-26/anthony-albanese-bomb-threat-grace-tame-isis-brides/106380004"
     },
     {
-      "published_datetime": "2026-02-26T04:56:32.000000Z",
-      "title": "'Sledgehammer to crack a nut': Activists go to court over NSW\u00a0protest laws",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/055c9e9eecc9a479b5a213a1e6351475?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The demonstrators are arguing in the state's highest court that the laws introduced by Premier Chris Minns after the Bondi Beach terror attack should be ruled unconstitutional.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-26/activists-appeal-nsw-protest-restriction-laws/106391960"
-    },
-    {
       "published_datetime": "2026-02-26T04:21:58.000000Z",
       "title": "Rescuers abseil down 350m cliff to reach hikers stranded in alps",
       "featured_image": {
@@ -59,6 +59,15 @@
       "audio_url": "",
       "url": "canada-south-korea-sign-milita-5dsOv11OTySAVEcfbApofA",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-02-26T02:01:38.000000Z",
+      "title": "Greg Lynn 'cannot possibly' have fair retrial this year, lawyers argue",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/37b9b10cd34eab03b3a727fddb203be5?impolicy=wcms_crop_resize&amp;cropH=796&amp;cropW=1415&amp;xPos=0&amp;yPos=32&amp;width=862&amp;height=485"
+      },
+      "description": "The Supreme Court of Victoria hears the former Jetstar pilot's application to be bailed ahead of his retrial over the alleged 2020 murder of Carol Clay in Victoria's High Country.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-26/former-jetstar-pilot-greg-lynn-bail-hearing/106389956"
     },
     {
       "published_datetime": "2026-02-26T01:57:59.000000Z",
@@ -187,15 +196,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-25T18:47:07.000000Z",
-      "title": "Suspected serial offender linked to IS walks free over filmed gay bashing",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/487f23045b4e34c0dcb970490446c593?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=13&amp;width=862&amp;height=485"
-      },
-      "description": "A suspected serial violent homophobe linked to an Islamic State terrorist network has walked free on probation after pleading guilty to a brutal snuff-video-style gay bashing.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-26/attacker-linked-to-islamic-state-walked-free-over-gay-bashing/106386334"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5825a336-1291-4f92-a53b-64dcd19ed8c7",
       "published_datetime": "2026-02-25T18:32:17.756603",
       "title": "Zimbabwe halts all raw mineral and lithium exports",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-26T06:49:15.932389"
+  "merged_at": "2026-02-26T07:45:04.921711"
 }
