@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-26T20:46:47.000000Z",
+      "title": "Live: Coles profit falls 11pc weighed down by court-ordered penalties",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2e01753e944462e6b938c532392c7594?impolicy=wcms_crop_resize&amp;cropH=2629&amp;cropW=4674&amp;xPos=326&amp;yPos=266&amp;width=862&amp;height=485"
+      },
+      "description": "Shares in Coles are under pressure after the supermarket giant posted a weaker first-half profit, weighed down by court-ordered penalties.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-27/asx-markets-business-live-news-feb27-2026/106394660"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/14e7982b-6055-44c5-86c6-46b0e0bbc7b0",
       "published_datetime": "2026-02-26T20:45:00.654298",
       "title": "UN denounces Taliban decree expanding executions and curbing rights",
@@ -68,15 +77,6 @@
       },
       "description": "Police provide their strongest statement yet that human bones found in the Tasmanian wilderness are likely those of missing Belgian tourist Celine Cremer.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-27/human-remains-identified-as-celine-cremer/106298210"
-    },
-    {
-      "published_datetime": "2026-02-26T19:55:33.000000Z",
-      "title": "40 flood rescues in three hours after heavy rain hits Sydney",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fab12e82321a58775f4a102034652681?impolicy=wcms_crop_resize&amp;cropH=403&amp;cropW=717&amp;xPos=280&amp;yPos=191&amp;width=862&amp;height=485"
-      },
-      "description": "Dozens of people needed to be rescued and thousands of properties were without power after intense rainfall and flash flooding wreaked havoc across Sydney.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-27/nsw-flash-flooding-homes-without-power-sydney/106393834"
     },
     {
       "published_datetime": "2026-02-26T19:30:55.000000Z",
@@ -233,11 +233,11 @@
     },
     {
       "published_datetime": "2026-02-26T11:00:05.000000Z",
-      "title": "Childcare centres face funding cuts after missing safety benchmarks",
+      "title": "Childcare centres that failed standards to remain secret unless funding cut",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/327f41f190369952e610359c08da51aa?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "A further 19 centres put on notice last year have improved, but one has closed permanently and another is still to be assessed.",
+      "description": "Nine childcare services that have failed to lift standards will only be named if the federal government decides to cut their taxpayer funding.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-26/childcare-funding-cuts-safety-rules/106392910"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-26T22:23:34.179547"
+  "merged_at": "2026-02-26T23:21:56.750780"
 }
