@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dc896b62-57a2-46c1-98de-06bada7bc7af",
+      "published_datetime": "2026-02-26T16:42:13.045409",
+      "title": "Google rolls out Nano Banana 2 as default AI image model across Gemini",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2025/11/20/google-nano-banana-pro-gemini-3.html",
+        "name": "Google launches Nano Banana Pro powered by Gemini 3 - CNBC",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Z39GyL8d--/t_limit/https://image.cnbcfm.com/api/v1/image/108229109-1763647315089-gettyimages-2235972134-avdtnmysept25lot8g.jpeg%3Fv%3D1763647342",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0VQFKAbx--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108229109-1763647315089-gettyimages-2235972134-avdtnmysept25lot8g.jpeg%3Fv%3D1763647342"
+      },
+      "description": "Google on Thursday unveiled Nano Banana 2, the latest version of its viral AI image generation tool, rolling it out as the default image model across the Gemini app, Google Search, and its video editing tool Flow. Officially designated Gemini 3.1 Flash Image, the upgrade brings capabilities previously reserved for the higher-end Nano Banana Pro model to a broader audience at faster speeds.[1][2]\n\nThe new model produces images with resolutions ranging from 512 pixels to 4K across multiple aspect ratios, supports character consistency for up to five characters, and can maintain fidelity of up to 14 objects in a single workflow, according to TechCrunch. It also inherits Nano Banana Pro's advanced world knowledge, accurate text rendering, and the ability to generate data visualizations and infographics \u2014 features that made the Pro version popular among creators and professionals.[3][2][1]",
+      "audio_url": "",
+      "url": "google-rolls-out-nano-banana-2-.i9NVBzXTqWMdJKITTCsKw",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f448aa63-46cd-4457-8672-a107b26b56c6",
       "published_datetime": "2026-02-26T15:33:51.793101",
       "title": "NASA-backed study turns recycled sewage into lunar and Martian crop fertilizer",
@@ -154,21 +169,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f57304a8-9e23-4566-b15d-bd7c0914c5cd",
-      "published_datetime": "2026-02-26T09:15:22.478131",
-      "title": "Scripps Research finds hidden structure in cell droplets, opening new drug targets",
-      "featured_image": {
-        "url": "https://phys.org/news/2021-02-membraneless-organelles.html",
-        "name": "What rules govern the structure of membraneless organelles?",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Fw3TLSZJ--/t_limit/https://scx2.b-cdn.net/gfx/news/hires/2021/whatrulesgov.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--SJRq3WKE--/t_thumbnail/https://scx2.b-cdn.net/gfx/news/hires/2021/whatrulesgov.jpg"
-      },
-      "description": "Scientists at Scripps Research have upended a long-standing assumption in cell biology by discovering that some biomolecular condensates \u2014 the membrane-less, droplet-like compartments that cells use to organize essential processes \u2014 contain intricate internal networks of protein filaments. The findings, published in Nature Structural & Molecular Biology, point to new therapeutic possibilities for diseases including cancer and neurodegeneration.[1][2]",
-      "audio_url": "",
-      "url": "scripps-research-finds-hidden-ssw5MxLAQ0SsCpO71G0.Ww",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-26T07:32:29.000000Z",
       "title": "Sexual relationship began after student graduated, former teacher tells court",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-26T18:39:59.307121"
+  "merged_at": "2026-02-26T19:01:40.714305"
 }
