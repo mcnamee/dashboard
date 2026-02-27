@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-27T19:54:40.000000Z",
+      "title": "Why a full-scale war between the Afghan Taliban and Pakistan is unlikely",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/af13adb16defd9d7663ebf89978cae2b?impolicy=wcms_crop_resize&amp;cropH=2228&amp;cropW=3961&amp;xPos=0&amp;yPos=206&amp;width=862&amp;height=485"
+      },
+      "description": "Pakistan's declaration of an \"open war\" with the Afghan Taliban sounds dangerous, but analysts say neither side has the capacity to win.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-28/afghan-taliban-pakistan-full-scale-war-not-likely/106399784"
+    },
+    {
+      "published_datetime": "2026-02-27T19:36:36.000000Z",
+      "title": "How a spark of misinformation derailed a community battery in Narrabri",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/84d1332435368cc45bbd77de0d063eac?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=508&amp;width=862&amp;height=485"
+      },
+      "description": "A community battery project three years in the making, run by a local not-for-profit and backed by the council, was killed after a spark of misinformation about its fire risk was ignited.\u00a0\u00a0\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-28/misinformation-kills-narrabri-community-battery-project/106120264"
+    },
+    {
+      "published_datetime": "2026-02-27T19:33:37.000000Z",
+      "title": "If the 'Andrew problem' remains, an almighty challenge awaits Prince William",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0260ae7f684d731c5121da92d63fed66?impolicy=wcms_crop_resize&amp;cropH=1424&amp;cropW=2531&amp;xPos=645&amp;yPos=271&amp;width=862&amp;height=485"
+      },
+      "description": "When Prince William and Princess Catherine stepped out for their first public appearance since Andrew Mountbatten-Windsor's arrest, an innocuous question was levelled at them. The candid response was perhaps more revealing than anticipated.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-28/prince-william-is-set-to-inherit-the-andrew-problem-/106385970"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/20b57b9b-2cb3-477e-8b2b-8471defe7256",
       "published_datetime": "2026-02-27T19:26:12.610113",
       "title": "Meloni calls Trump tariffs a 'mistake,' proposes EU-US free-trade zone",
@@ -16,6 +43,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-02-27T19:19:48.000000Z",
+      "title": "Sacrifice and survival: What dozens of synced videos reveal about the Bondi attack",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e49337d714251481da89f4a88d50e59e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "As gunshots rang out at Bondi, dozens of eyewitnesses risked their lives to film the horror. This is what they wanted you to see.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-28/synchronised-video-timeline-bondi-terror-attack/106282432"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e99b1d67-3260-4967-9d79-a020c9033c2d",
       "published_datetime": "2026-02-27T19:09:56.286653",
       "title": "Taliban signal willingness to talk after Pakistan launches airstrikes",
@@ -29,6 +65,24 @@
       "audio_url": "",
       "url": "taliban-signal-willingness-to-k7yInH3QSzaIePgQ7D8UHw",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-02-27T19:06:59.000000Z",
+      "title": "How a 20yo living with his parents allegedly plotted a terror attack",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f0fcfa9db4cebfbb9a03eea75d80a7b8?impolicy=wcms_crop_resize&amp;cropH=1043&amp;cropW=1855&amp;xPos=0&amp;yPos=17&amp;width=862&amp;height=485"
+      },
+      "description": "History was made in WA when police charged a person for the first time with preparing a terrorist attack. What do we know?",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-28/how-20yo-allegedly-plotted-a-terror-attack-in-wa/106399408"
+    },
+    {
+      "published_datetime": "2026-02-27T18:57:34.000000Z",
+      "title": "Warning financial abuse among First Nations elders a hidden problem",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/74a70e511ef5b9d306ba660905a4408d?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Experts are warning elders are suffering in silence and are calling for more awareness around financial abuse to understand how it manifests within families and communities.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-28/warning-financial-abuse-of-first-nations-elders-digital-literacy/106396092"
     },
     {
       "published_datetime": "2026-02-27T18:56:13.000000Z",
@@ -178,67 +232,13 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-27T12:21:42.000000Z",
-      "title": "Bondi attackers embraced as 'soldiers' by Islamic State",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/55f3c8cb21a9f24c01e40f0fe9460e4d?impolicy=wcms_crop_resize&amp;cropH=719&amp;cropW=1278&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Islamic State has embraced Sajid and Naveed Akram as \"soldiers\" and urged other supporters to continue attacks on Jews and Christians, as they claimed credit for the Bondi massacre.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-27/islamic-state-claims-credit-bondi-massacre/106399514"
-    },
-    {
-      "published_datetime": "2026-02-27T10:14:32.000000Z",
-      "title": "Traditional owners awarded $54m compensation for economic, spiritual loss",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f0d47508ae4d6b0a3c816d343781e423?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=28&amp;width=862&amp;height=485"
-      },
-      "description": "Native title holders in the Northern Territory have been awarded more than $54 million in compensation for the impacts of large-scale mining on their country, in just the second case of its kind in Australian history.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-27/nt-mcarthur-river-mine-case-traditional-owners-win-compensation/106398116"
-    },
-    {
       "published_datetime": "2026-02-27T05:57:54.000000Z",
       "title": "Police foil alleged terror attack plan on public buildings",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b907eca6d949c4ca106404e3bdae366?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85901e68545437bfbf772b2dec3670fb?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
       },
       "description": "Police have charged a 20-year-old man they allege was planning a \"mass casualty\" terror attack targeting public buildings and Muslim places of worship in Western Australia.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-27/man-charged-with-preparing-for-terrorist-act-perth/106397996"
-    },
-    {
-      "published_datetime": "2026-02-27T05:48:25.000000Z",
-      "title": "Liberal Party won't publish its review into disastrous 2025 election",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6cd6444aa8440a1cad537dd9a404fe9b?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=325&amp;width=862&amp;height=485"
-      },
-      "description": "The review received hundreds of submissions and was finished months ago, but today the Liberal Party's federal executive revealed it would never be made public.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-27/liberal-party-election-review-will-not-to-be-published/106398462"
-    },
-    {
-      "published_datetime": "2026-02-27T05:21:11.000000Z",
-      "title": "Deputy chief of army warns ADF 'detached' from violent nature of war",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8c1f3db9f4977e1976119b08258f1b99?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=116&amp;width=862&amp;height=485"
-      },
-      "description": "Major General Chris Smith delivered an excoriating address to a major conference last year, declaring \"managerial and advertising logic and double speak\" had \"polluted\" the military.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-27/deputy-army-chief-warns-adf-detached-from-violent-reality-of-war/106397538"
-    },
-    {
-      "published_datetime": "2026-02-27T02:07:10.000000Z",
-      "title": "Towns cut off, cars swept away in extreme weather across the country",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1bb7c3df0d5fa16139089002be2543c6?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "At least four states are facing extreme weather and heavy rain, with some areas tipped to receive the heaviest rainfall in more than a decade.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-27/extreme-weather-sweeps-across-large-parts-of-australia/106395148"
-    },
-    {
-      "published_datetime": "2026-02-27T01:22:12.000000Z",
-      "title": "'My whole licence gone': Drivers caught unaware by AI traffic cameras",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b6c475e42843659c205353b5f7c6f9ed?impolicy=wcms_crop_resize&amp;cropH=1734&amp;cropW=3083&amp;xPos=0&amp;yPos=457&amp;width=862&amp;height=485"
-      },
-      "description": "WA drivers given large fines or a licence suspension after their passengers were snapped wearing seatbelts incorrectly say they are being punished for behaviour beyond their control.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-27/seat-belt-cameras-catch-drivers-in-costly-mistake/106395672"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-27T19:38:20.026412"
+  "merged_at": "2026-02-27T20:19:33.991690"
 }
