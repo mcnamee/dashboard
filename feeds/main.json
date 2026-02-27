@@ -1,13 +1,142 @@
 {
   "items": [
     {
-      "published_datetime": "2026-02-27T00:30:34.000000Z",
-      "title": "Man arrested in chaotic protest against NT Administrator",
+      "published_datetime": "2026-02-27T02:52:50.000000Z",
+      "title": "Mike Fincke reveals himself as the sick astronaut evacuated from space",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8469eab4ad0603f1eed2fad53d0f4455?impolicy=wcms_crop_resize&amp;cropH=1980&amp;cropW=3520&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/91badcf43e8a654bfeaf9c4917c9e699?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "A protester has been arrested amid chaotic scenes outside of NT Parliament, where David Connolly has been sworn in as the new administrator.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-27/nt-administrator-david-connolly-swearing-in-parliament-arrest/106393862"
+      "description": "The 58-year-old spaceflight veteran has identified himself as the astronaut whose illness prompted NASA's first medical evacuation.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-27/crew-11-nasa-astronaut-behind-mission-ending-health-issues/106395048"
+    },
+    {
+      "published_datetime": "2026-02-27T02:51:02.000000Z",
+      "title": "Magda Szubanski in remission after stage 4 cancer treatment",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c4bdbcd20917c20c09d5f3c730b1fc4a?impolicy=wcms_crop_resize&amp;cropH=404&amp;cropW=718&amp;xPos=0&amp;yPos=509&amp;width=862&amp;height=485"
+      },
+      "description": "The Australian entertainer reveals she is in remission after completing chemotherapy treatment for stage 4 blood cancer.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-27/magda-szubanski-stage-4-blood-cancer-remission/106396740"
+    },
+    {
+      "published_datetime": "2026-02-27T02:38:44.000000Z",
+      "title": "What to know as ASIC takes Budget Direct owner to court",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ab3e910d3c81a3b2abc256984999714f?impolicy=wcms_crop_resize&amp;cropH=994&amp;cropW=1767&amp;xPos=0&amp;yPos=101&amp;width=862&amp;height=485"
+      },
+      "description": "Here's a quick look at ASIC's case against Auto and General, and what it means for Budget Direct customers.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-27/asic-sues-auto-and-general-budget-direct-insurance/106395912"
+    },
+    {
+      "published_datetime": "2026-02-27T02:24:12.000000Z",
+      "title": "Federal MP's event gatecrashed by ethno-nationalist organisation",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7dbe0fffce23dc5a5e76e234f68fe552?impolicy=wcms_crop_resize&amp;cropH=384&amp;cropW=683&amp;xPos=0&amp;yPos=58&amp;width=862&amp;height=485"
+      },
+      "description": "Police said they were called to the scene after the National Workers Alliance, an ethno-nationalist organisation, gatecrashed a community event held by Shadow Treasurer Tim Wilson in Melbourne on Thursday night.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-27/tim-wilson-goldstein-event-gatecrashed-national-workers-alliance/106394854"
+    },
+    {
+      "published_datetime": "2026-02-27T02:07:10.000000Z",
+      "title": "Towns cut off, cars swept away in extreme weather across the country",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1bb7c3df0d5fa16139089002be2543c6?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "At least four states are facing extreme weather and heavy rain, with some areas tipped to receive the heaviest rainfall in more than a decade.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-27/extreme-weather-sweeps-across-large-parts-of-australia/106395148"
+    },
+    {
+      "published_datetime": "2026-02-27T01:29:44.000000Z",
+      "title": "Alleged terrorist who stabbed bishop diagnosed with schizophrenia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85e7d4dbe875d5d80e15d32dd04d7378?impolicy=wcms_crop_resize&amp;cropH=760&amp;cropW=1351&amp;xPos=135&amp;yPos=99&amp;width=862&amp;height=485"
+      },
+      "description": "A teenager who slipped the intelligence net and stabbed a Sydney bishop in an alleged terrorist attack 20 months before the Bondi Beach massacre has been diagnosed with schizophrenia, a court hears.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-27/teenager-stabbed-sydney-bishop-schizophrenia-wakeley/106395940"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e66ab272-6f2f-4716-bd08-429850b9c192",
+      "published_datetime": "2026-02-27T01:13:20.735530",
+      "title": "Pakistan declares 'open war' on Afghanistan after deadly border clashes",
+      "featured_image": {
+        "url": "https://aapnews.aap.com.au/news/renewed-clashes-on-afghanistan-pakistan-border",
+        "name": "Kabul hit after clashes on Afghanistan-Pakistan border",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--GAe5nnmu--/t_limit/https://aapnews.imgdeliver.net/article-assets/2026022705028/aba0a83f-8a14-4f08-add9-dec518c73b64.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--P2EqnUm1--/t_thumbnail/https://aapnews.imgdeliver.net/article-assets/2026022705028/aba0a83f-8a14-4f08-add9-dec518c73b64.jpg"
+      },
+      "description": "Pakistan and Afghanistan plunged into their most dangerous military confrontation in years as the Taliban launched a large-scale ground offensive against Pakistani positions along the disputed Durand Line on Thursday evening, prompting Pakistani airstrikes on Kabul, Kandahar, and Paktia province hours later. Pakistan's Defence Minister Khawaja Asif declared \"open war\" against Afghanistan on Friday, posting on X: \"Our patience has reached its limit. Now it is open war between us and you.\"[1][2][3]\n\nThe rapidly escalating conflict, unfolding during the Muslim holy month of Ramadan, has shattered a fragile ceasefire brokered by Qatar last October and drawn the nuclear-armed neighbors into their most direct military engagement since the Taliban seized power in 2021.",
+      "audio_url": "",
+      "url": "pakistan-declares-open-war-on-sOhYniuzT2S3LTtlqo7pdg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8abb5a1c-d4b4-4cb3-9781-de9d32080da8",
+      "published_datetime": "2026-02-27T01:08:23.085340",
+      "title": "Germany votes to let military intercept drones",
+      "featured_image": {
+        "url": "https://www.reuters.com/business/aerospace-defense/germany-expands-military-powers-fight-drones-2026-02-26/",
+        "name": "Germany expands military powers to fight drones | Reuters",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1772154335/url_uploads/H3SRYXIXXZJ5PIDWNSK45GBCBI_bundjl.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1772154335/url_uploads/H3SRYXIXXZJ5PIDWNSK45GBCBI_bundjl.jpg"
+      },
+      "description": "Germany's parliament on Thursday voted to expand the military's authority to intercept or shoot down drones, responding to a surge in unidentified aerial activity that officials have linked to Russia's hybrid warfare campaign against Europe.[1]\n\nThe Bundestag approved an amendment to the country's air security law with support from the governing conservatives, the Social Democrats, and the far-right Alternative for Germany opposition, according to Reuters. The legislation marks the culmination of months of political urgency over rogue drones spotted near airports, military bases, and critical infrastructure across the country.[1]",
+      "audio_url": "",
+      "url": "germany-votes-to-let-military-wmuIaZkpS9uqMma2ldI40A",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/019b6d00-1e73-469f-96d9-c2b6d548bbad",
+      "published_datetime": "2026-02-27T01:05:05.628635",
+      "title": "Venezuela suspends 19 Maduro-era oil contracts",
+      "featured_image": {
+        "url": "https://www.reuters.com/business/energy/venezuela-suspends-19-oil-gas-production-sharing-contracts-signed-under-maduro-2026-02-26/",
+        "name": "Exclusive: Venezuela suspends 19 oil, gas production-sharing ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--BUhDV_DK--/t_limit/https://www.reuters.com/resizer/v2/FGBQNLRDSZOUNKCABYTO72RZFU.jpg%3Fauth%3Dd6efc5424b4c03d33b9efb1eac293227a3dc9825a88540023546290ed9fb60de%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0QhBBpF4--/t_thumbnail/https://www.reuters.com/resizer/v2/FGBQNLRDSZOUNKCABYTO72RZFU.jpg%3Fauth%3Dd6efc5424b4c03d33b9efb1eac293227a3dc9825a88540023546290ed9fb60de%26width%3D1920%26quality%3D80"
+      },
+      "description": "Venezuela's oil ministry has suspended 19 oil production-sharing contracts with private companies that were signed under the administration of former President Nicol\u00e1s Maduro, according to four sources with knowledge of the move who spoke to Reuters.[1]\n\nThe suspension has had no impact on the country's oil and gas output so far, the sources said. State oil company PDVSA continues to sell crude produced under the contracts while they are under review. Both the Venezuelan and U.S. governments are now scrutinizing the credentials of the firms involved and may recommend revoking some of the agreements.[2][1]",
+      "audio_url": "",
+      "url": "venezuela-suspends-19-maduro-e-COlihUqlSFGshPUqpermhA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/35183bfe-653e-48f7-a931-6c3358fbf46c",
+      "published_datetime": "2026-02-27T00:28:27.900046",
+      "title": "US and Congo sign $1.2B health deal amid African data-sharing concerns",
+      "featured_image": {
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/democratic-republic-congo-us-agree-12-billion-strategic-health-partnership-2026-02-26/",
+        "name": "Democratic Republic of Congo and US agree $1.2 billion ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--fghhUUnB--/t_limit/https://www.reuters.com/resizer/v2/D4XFPUODCVK77PJFOVQTKLYRGE.jpg%3Fauth%3D6d9a4ed919f2247a26604c98c1ca644ead2db7f1422ac660a56e53b17032eb20",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--WZziJcPN--/t_thumbnail/https://www.reuters.com/resizer/v2/D4XFPUODCVK77PJFOVQTKLYRGE.jpg%3Fauth%3D6d9a4ed919f2247a26604c98c1ca644ead2db7f1422ac660a56e53b17032eb20"
+      },
+      "description": "The United States and the Democratic Republic of Congo on Thursday signed a $1.2 billion health partnership, making the DRC the 19th country to enter a bilateral health agreement under the Trump administration's \"America First Global Health Strategy.\"[1][2]\n\nThe five-year memorandum of understanding, spanning 2026 to 2031, includes up to $900 million in U.S. government assistance and a commitment from the Congolese government to increase its domestic health spending by $300 million over the same period, according to a joint statement from the two governments.[3][1]",
+      "audio_url": "",
+      "url": "us-and-congo-sign-1-2b-health-nh3bmS3sSo6GgS58PyKfxg",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-02-27T00:12:25.000000Z",
+      "title": "Pakistan declares 'open war' against Afghanistan as Kabul hit by air strikes",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6a6980f337443b2b79bd4908b9e214da?impolicy=wcms_crop_resize&amp;cropH=1963&amp;cropW=3490&amp;xPos=0&amp;yPos=163&amp;width=862&amp;height=485"
+      },
+      "description": "Pakistan was responding to \"unprovoked fire\" by Afghan forces at multiple locations along the border, the Information Ministry in Islamabad says.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-27/taliban-launches-retaliatory-strikes-against-pakistan/106395580"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a0f3efab-c3bf-4152-bc33-73847811d8d6",
+      "published_datetime": "2026-02-26T23:58:13.179383",
+      "title": "Maduro asks judge to toss drug indictment over blocked legal fees",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/americas/us-says-it-has-not-offered-maduro-amnesty-since-election-2024-08-12/",
+        "name": "US says it has not offered Maduro amnesty since election ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--0dxwtwJn--/t_limit/https://www.reuters.com/resizer/v2/PFW452HCTBK2RH6VILDQKSTETQ.jpg%3Fauth%3D382b21b1ed2d3ab33b8352921b108511074a5dad2e1f0805ac6c1cf6a9f07406%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0U6VyEnv--/t_thumbnail/https://www.reuters.com/resizer/v2/PFW452HCTBK2RH6VILDQKSTETQ.jpg%3Fauth%3D382b21b1ed2d3ab33b8352921b108511074a5dad2e1f0805ac6c1cf6a9f07406%26width%3D1920%26quality%3D80"
+      },
+      "description": "Lawyers for ousted Venezuelan President Nicol\u00e1s Maduro filed a motion on Thursday in Manhattan federal court asking a judge to dismiss the indictment against him, arguing that the U.S. government has unconstitutionally blocked Venezuelan funds from paying his legal costs in violation of his Sixth Amendment right to counsel.\n\nAttorney Barry Pollack submitted the filing in the Southern District of New York, asserting that the Trump administration's refusal to allow the Venezuelan government to cover Maduro's defense amounts to a due process violation that would render any trial \"constitutionally defective,\" according to the Associated Press.[1]",
+      "audio_url": "",
+      "url": "maduro-asks-judge-to-toss-drug-GR5.tZZCTNejvJZf2r.HHQ",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-02-26T23:49:03.000000Z",
@@ -19,13 +148,49 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-27/asic-sues-budget-direct-misconduct-allegations/106395196"
     },
     {
-      "published_datetime": "2026-02-26T23:14:09.000000Z",
-      "title": "Labor not ruling out negative gearing changes",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3356b487-bbbd-4189-9d10-60eb6d5ddbd6",
+      "published_datetime": "2026-02-26T23:44:34.437426",
+      "title": "Syria, Druze factions complete first prisoner swap since summer clashes",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4799195323b504d9fde0d7b2eb468896?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
+        "url": "https://www.finedayradio.com/news/world-srn-news/syrian-government-forces-and-druze-fighters-exchange-prisoners-from-summer-clashes/",
+        "name": "Syrian government forces and Druze fighters exchange prisoners ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IsV3RJRR--/t_limit/https://www.srnnews.com/media/2026/02/1772112019766762Nvv5Ya0r5Z-apn.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--3sDYRdHj--/t_thumbnail/https://www.srnnews.com/media/2026/02/1772112019766762Nvv5Ya0r5Z-apn.jpg"
       },
-      "description": "A government source said it would make sense to consider changes to negative gearing and capital gains tax together, but that no decision was close to being made.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-27/labor-not-ruling-out-negative-gearing-changes/106395074"
+      "description": "The Syrian government and Druze factions controlling the southern city of Sweida carried out their first prisoner exchange on Thursday since deadly sectarian clashes erupted last summer, according to the Syrian government's Sweida media office. The swap marks a rare step toward a political resolution in one of the last regions of the country still outside Damascus's control.[1][2]",
+      "audio_url": "",
+      "url": "syria-druze-factions-complete-b2bG5i4xTqWaVyRXaJL9qA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d5dd2cb4-6a5f-43d2-b7c7-ee1fa8f7a0be",
+      "published_datetime": "2026-02-26T22:50:18.318247",
+      "title": "171 bodies found in mass graves near Congo's Uvira after M23 withdrawal",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2025/12/10/drc-fighting-pushes-200000-people-to-flee-as-m23-advance-dozens-killed",
+        "name": "DRC fighting forces 200,000 people to flee as M23 advances, dozens killed",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--cAob7fg4--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/12/afp_693921909e7c-1765351824.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--vXdG9qmd--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/12/afp_693921909e7c-1765351824.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "Congolese authorities on Thursday announced the discovery of two mass graves containing at least 171 bodies on the outskirts of the eastern city of Uvira, in an area the M23 rebel group recently vacated. The grim find underscores the toll of escalating violence in the region, which has persisted despite a U.S.-brokered peace deal between the Democratic Republic of Congo and Rwanda.",
+      "audio_url": "",
+      "url": "171-bodies-found-in-mass-grave-yrHzngEwSIejd2PSCZLsMw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6e914401-fee3-4c72-87ee-19d961a040a3",
+      "published_datetime": "2026-02-26T22:46:38.611861",
+      "title": "Russia says it downed 220 Ukrainian drones over nine hours",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/europe/blast-causes-crater-centre-russian-town-two-hurt-tass-2023-03-26/",
+        "name": "Three injured as Russia downs Ukrainian drone south of ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--HSMbkvBH--/t_limit/https://www.reuters.com/resizer/v2/PZBTYHZQJNJJBLOYJVCYKI2TJ4.jpg%3Fauth%3Db59a1ef0cab8d1ff5c6d293e75299b4b39d25e0339362e043448cf3ef4c3cda5%26width%3D1080%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--oaC5cwqv--/t_thumbnail/https://www.reuters.com/resizer/v2/PZBTYHZQJNJJBLOYJVCYKI2TJ4.jpg%3Fauth%3Db59a1ef0cab8d1ff5c6d293e75299b4b39d25e0339362e043448cf3ef4c3cda5%26width%3D1080%26quality%3D80"
+      },
+      "description": "Russia's Defence Ministry said on Thursday that its air defense systems intercepted 220 Ukrainian drones over a nine-hour period, including 24 headed for Moscow, in one of the largest reported waves of Ukrainian drone attacks on Russian territory this year. The interceptions came on the same day that Russia launched a mass overnight strike on Ukraine involving 420 drones and 39 missiles, and as U.S. and Ukrainian envoys met in Geneva to discuss paths to ending the war.[1][2]",
+      "audio_url": "",
+      "url": "russia-says-it-downed-220-ukra-aeN2mTK4Tki1M5g1DZ9SYA",
+      "partition_name": "partition1"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/14e7982b-6055-44c5-86c6-46b0e0bbc7b0",
@@ -43,15 +208,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-26T20:17:57.000000Z",
-      "title": "Live: Sussan Ley officially resigns two weeks after being ousted as Liberal leader",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3bd0581d81e63fc9da9d9892509b72aa?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Two weeks after losing the Liberal leadership, Sussan Ley officially handed in her resignation letter, triggering a by-election in the NSW seat of Farrer. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-27/federal-politics-live-blog-fri-feb-27/106391736"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ebff2dff-740b-4556-87f9-b7fb709de2f4",
       "published_datetime": "2026-02-26T20:12:40.370263",
       "title": "Scientists warn mega-constellations could devastate ozone layer",
@@ -67,88 +223,13 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7cdaff0e-99cc-4ab8-8d9c-79152299aae0",
-      "published_datetime": "2026-02-26T20:11:00.630828",
-      "title": "Oil prices rebound as Iran rejects uranium deal term",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/02/25/oil-hovers-near-seven-month-highs-ahead-of-us-iran-talks.html",
-        "name": "Oil hovers near seven-month highs ahead of U.S.-Iran talks",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--YQwtdoKH--/t_limit/https://image.cnbcfm.com/api/v1/image/108264227-1770775993647-gettyimages-955175174-325086872_0-3.jpeg%3Fv%3D1772019033%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--00wpRyla--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108264227-1770775993647-gettyimages-955175174-325086872_0-3.jpeg%3Fv%3D1772019033%26w%3D1920%26h%3D1080"
-      },
-      "description": "Oil prices swung sharply on Thursday, initially tumbling before reversing course, as traders weighed a massive buildup in U.S. crude inventories against signs that nuclear talks between Washington and Tehran were hitting a wall. The volatile session underscored the competing forces gripping global energy markets: ample domestic supply on one side, and the threat of military conflict in the Middle East on the other.",
-      "audio_url": "",
-      "url": "oil-prices-rebound-as-iran-rej-EvASDzX_TRSrqQCMT3rtWA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ffb81e9a-4222-4864-b617-40e388f10748",
-      "published_datetime": "2026-02-26T20:10:11.482152",
-      "title": "Zelenskiy says next Ukraine-Russia talks to move to Abu Dhabi in early March",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/liveblog/2026/1/23/ukraine-talks-live",
-        "name": "First day of trilateral talks on Russia-Ukraine war ends in Abu Dhabi",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_cN5r_ce--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-23T193143Z_913083105_RC217JA1H0DX_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-EMIRATES-TALKS-1769196939.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--90g6m2Au--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-23T193143Z_913083105_RC217JA1H0DX_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-EMIRATES-TALKS-1769196939.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "Ukrainian President Volodymyr Zelenskiy announced on Thursday that the next round of U.S.-brokered trilateral peace negotiations between Ukraine and Russia will likely take place in Abu Dhabi in early March, according to Reuters. The announcement came during Zelenskiy's evening address, following a day of preparatory bilateral talks in Geneva between Ukrainian and American officials focused on post-war reconstruction.[1][2]\n\nThe Geneva meeting \u2014 led by Ukraine's chief negotiator Rustem Umerov and U.S. Special Envoy Steve Witkoff alongside presidential adviser Jared Kushner \u2014 centered on a proposed \"prosperity package\" designed to mobilize public and private investment for Ukraine's economic recovery. Kyiv aims to attract roughly $800 billion over the next decade to rebuild the country, according to Reuters, while the World Bank's latest assessment estimates reconstruction costs at approximately $588 billion.[3][4][5]",
-      "audio_url": "",
-      "url": "zelenskiy-says-next-ukraine-ru-t2BgfYkbQ2GwPcpm_AUNtA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-26T20:02:34.000000Z",
-      "title": "Human remains found in Tasmanian wilderness 'likely' those of Celine Cremer",
+      "title": "Celine Cremer's family say they 'finally have answers'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9712fb8c06ce822e7c2d8a30951ed00e?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Police provide their strongest statement yet that human bones found in the Tasmanian wilderness are likely those of missing Belgian tourist Celine Cremer.",
+      "description": "Celine Cremer's family say she will now \"be able to rest in peace surrounded by the love that never left her side\".",
       "page_content_url": "https://www.abc.net.au/news/2026-02-27/human-remains-identified-as-celine-cremer/106298210"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e2019a5a-2d19-436d-954c-d409b325c958",
-      "published_datetime": "2026-02-26T19:17:26.765901",
-      "title": "US, Iran to hold Vienna nuclear talks next week",
-      "featured_image": {
-        "url": "https://www.axios.com/2026/02/17/trump-iran-nuclear-deal-talks-geneva-progress",
-        "name": "U.S. and Iran say progress made in Geneva nuclear talks",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--l00Kd4tx--/t_limit/https://images.axios.com/3ntprYp6N-98oEdkdkEhgoGCvSg%3D/0x306:5000x3119/1366x768/2026/02/17/1771339543148.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--YE5ba0E7--/t_thumbnail/https://images.axios.com/3ntprYp6N-98oEdkdkEhgoGCvSg%3D/0x306:5000x3119/1366x768/2026/02/17/1771339543148.jpg"
-      },
-      "description": "The United States and Iran will hold technical-level nuclear discussions next week in Vienna after concluding a third round of indirect negotiations in Geneva on Thursday, Oman's foreign minister announced.\n\n\"We have finished the day after significant progress in the negotiation between the United States and Iran,\" Omani Foreign Minister Badr Albusaidi wrote on X. \"We will resume soon after consultation in the respective capitals. Discussions on a technical level will take place next week in Vienna.\"[1][2]\n\nThe choice of Vienna, home to the International Atomic Energy Agency, underscores the increasingly technical nature of the negotiations over Tehran's nuclear program. IAEA Director General Rafael Grossi was present during Thursday's session, according to Iranian Foreign Ministry spokesperson Esmail Baghaei.[3][4]",
-      "audio_url": "",
-      "url": "us-iran-to-hold-vienna-nuclear-K7B3c5V2SlCAmR.EFxcQaA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/30156a80-f6c2-49bc-bc59-9b7620b3b165",
-      "published_datetime": "2026-02-26T19:16:12.420173",
-      "title": "Afghanistan launches border offensive against Pakistan",
-      "featured_image": {
-        "url": "https://www.npr.org/2026/02/22/nx-s1-5722854/pakistan-border-strikes-afghanistan-70-killed",
-        "name": "Pakistan claims to have killed at least 70 militants in strikes along Afghan border",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_f9AhIe6--/t_limit/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375%2B0%2B217/resize/1400/quality/85/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F97%252F1b%252Fffeb5bc54e0f9b5acdef3753fa3a%252Fap26053266170792.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Z2O4CmWB--/t_thumbnail/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375%2B0%2B217/resize/1400/quality/85/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F97%252F1b%252Fffeb5bc54e0f9b5acdef3753fa3a%252Fap26053266170792.jpg"
-      },
-      "description": "Afghanistan's Taliban forces launched what they described as large-scale offensive operations against Pakistani military positions along the Durand Line late Thursday, retaliating for Pakistani airstrikes earlier in the week that Kabul says killed civilians. Pakistan said it responded to what it called \"unprovoked fire\" across multiple sectors in its northwestern Khyber Pakhtunkhwa province, with both sides claiming to have inflicted heavy casualties on the other. The exchange threatens to unravel a fragile ceasefire that had been in place since October 2025.",
-      "audio_url": "",
-      "url": "afghanistan-launches-border-of-5Y680IPqRYKh9fVupmQlIQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0fb8a4f4-06e0-49cf-97a5-2734019e501d",
-      "published_datetime": "2026-02-26T19:08:51.177131",
-      "title": "Pentagon's kamikaze drone unit ready for Iran strikes",
-      "featured_image": {
-        "url": "https://www.bloomberg.com/news/articles/2026-02-26/pentagon-s-first-kamikaze-drone-unit-ready-for-any-iran-strikes",
-        "name": "Pentagon's Kamikaze Drone Unit Ready for Possible Iran ...",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1772132090/url_uploads/1200x800_b3bz4l.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1772132090/url_uploads/1200x800_b3bz4l.jpg"
-      },
-      "description": "The Pentagon's first one-way attack drone unit, Task Force Scorpion Strike, is operationally prepared to participate in potential strikes against Iran if President Donald Trump orders military action, according to Bloomberg, citing U.S. officials and analysts. The unit's readiness adds a new capability to an already massive American military buildup in the Middle East, where two aircraft carrier strike groups, stealth fighters, and long-range bombers are now positioned within striking range of Iran.[1][2]\n\nThe development comes as the United States and Iran held a third round of indirect nuclear negotiations in Geneva on Thursday, with the two sides exchanging proposals through Omani mediators amid deepening uncertainty over whether diplomacy can avert a military confrontation.[3][4]",
-      "audio_url": "",
-      "url": "pentagon-s-kamikaze-drone-unit-FstPeTx_SpO8Eo7GFxpz2A",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-02-26T19:02:39.000000Z",
@@ -158,87 +239,6 @@
       },
       "description": "Hillary Clinton blasts a Republican-led congressional committee for summoning her to answer questions about Jeffrey Epstein while failing to push US President Donald Trump to do the same thing.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-27/hillary-clinton-gives-deposition-at-jeffrey-epstein-committee/106394500"
-    },
-    {
-      "published_datetime": "2026-02-26T18:50:45.000000Z",
-      "title": "Inside the courts changing minds to reduce a booming prison population",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8fe3f46dab19b1bd08e5f766101e80ee?impolicy=wcms_crop_resize&amp;cropH=835&amp;cropW=1483&amp;xPos=12&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The number of Indigenous people behind bars is rising. But some judges are bucking the trend by taking a different approach.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-27/solutions-focused-courts-helping-reduce-recidivism/106391944"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bdefef0e-a203-4990-965b-240a28c7fc1c",
-      "published_datetime": "2026-02-26T18:49:12.105847",
-      "title": "US, Iran show 'unprecedented openness' in Geneva nuclear talks",
-      "featured_image": {
-        "url": "https://www.bloomberg.com/news/articles/2026-02-26/us-iran-to-hold-nuclear-talks-as-trump-s-deal-deadline-looms",
-        "name": "US, Iran Resume Nuclear Talks as Trump's Deal Deadline ...",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1772131554/url_uploads/-1x-1_fnc2fy.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1772131554/url_uploads/-1x-1_fnc2fy.jpg"
-      },
-      "description": "Iran and the United States held a third round of indirect nuclear negotiations in Geneva on Thursday, with Oman mediating the high-stakes talks as President Donald Trump's deadline for a deal rapidly approaches. The discussions, which adjourned for a midday break before resuming, were described by Iranian officials as having progressed \"very intensely and very seriously,\" according to Bloomberg.[1]\n\nOman's Foreign Minister Sayyid Badr Albusaidi, who has been shuttling between the two delegations at his country's embassy in Geneva, said the Iranian and American teams showed \"unprecedented openness to new and creative ideas and solutions\". The U.S. delegation is led by Trump's special Middle East envoy Steve Witkoff and his son-in-law Jared Kushner, while Iranian Foreign Minister Abbas Araghchi heads Tehran's team.[2][3][4][5]",
-      "audio_url": "",
-      "url": "us-iran-show-unprecedented-ope-bE5HKSAATOaaSkerDbkRaA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d2aa4b20-c2e8-4f1d-ad15-95b3b91f4e2c",
-      "published_datetime": "2026-02-26T18:47:47.589956",
-      "title": "US demands Iran dismantle nuclear sites in tense Geneva talks",
-      "featured_image": {
-        "url": "https://www.bloomberg.com/news/articles/2026-02-23/witkoff-kushner-plan-for-us-iran-talks-in-geneva-on-thursday",
-        "name": "Witkoff, Kushner to Join US-Iran Talks in Geneva as ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--L9z3eXwu--/t_limit/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUEGUV_27JLI/v1/-1x-1.webp",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--6ZMTmKeS--/t_thumbnail/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUEGUV_27JLI/v1/-1x-1.webp"
-      },
-      "description": "The United States and Iran on Thursday began a marathon third round of indirect nuclear negotiations in Geneva, with American envoys presenting sweeping demands for the dismantlement of Iran's main nuclear facilities as both sides race to avert a military confrontation.",
-      "audio_url": "",
-      "url": "us-demands-iran-dismantle-nucl-5KqY4qqOQYmnDiHgG8.OYw",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-26T18:41:52.000000Z",
-      "title": "'Massive jump' on number of first home buyers with 5pc deposit",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a68fcc3f1805d7996b0daf180d927e5c?impolicy=wcms_crop_resize&amp;cropH=1032&amp;cropW=1834&amp;xPos=245&amp;yPos=1212&amp;width=862&amp;height=485"
-      },
-      "description": "The number of people buying their first home with a 5 per cent deposit surges after the federal government makes sweeping changes to the scheme.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-27/five-pc-home-deposit-scheme-influx/106136868"
-    },
-    {
-      "published_datetime": "2026-02-26T18:41:28.000000Z",
-      "title": "Rising tide of new voters forcing a tax rethink on property",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f1a92c4d503ecfc501959cd895c23248?impolicy=wcms_crop_resize&amp;cropH=1361&amp;cropW=2420&amp;xPos=0&amp;yPos=227&amp;width=862&amp;height=485"
-      },
-      "description": "Australian real estate now is among the world's most expensive, and that has made it a red-hot political issue as demographics shift.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-27/australias-lax-property-tax-has-created-a-class-system/106391788"
-    },
-    {
-      "published_datetime": "2026-02-26T18:38:31.000000Z",
-      "title": "After years in exile, Iran's crown prince is planning for a takeover",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cb4e52599a3436a2a70fae07b5d07a2e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "As the United States and Iran held their third round of nuclear talks on Thursday in Geneva amid heightened regional fears of the prospect of another war in the Middle East, Iran's exiled crown prince Reza Pahlavi says now is the time to move forward with military intervention.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-27/reza-pahlavi-on-military-intervention-in-iran-and-his-transition/106382722"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dc896b62-57a2-46c1-98de-06bada7bc7af",
-      "published_datetime": "2026-02-26T16:42:13.045409",
-      "title": "Google rolls out Nano Banana 2 as default AI image model across Gemini",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2025/11/20/google-nano-banana-pro-gemini-3.html",
-        "name": "Google launches Nano Banana Pro powered by Gemini 3 - CNBC",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Z39GyL8d--/t_limit/https://image.cnbcfm.com/api/v1/image/108229109-1763647315089-gettyimages-2235972134-avdtnmysept25lot8g.jpeg%3Fv%3D1763647342",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0VQFKAbx--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108229109-1763647315089-gettyimages-2235972134-avdtnmysept25lot8g.jpeg%3Fv%3D1763647342"
-      },
-      "description": "Google on Thursday unveiled Nano Banana 2, the latest version of its viral AI image generation tool, rolling it out as the default image model across the Gemini app, Google Search, and its video editing tool Flow. Officially designated Gemini 3.1 Flash Image, the upgrade brings capabilities previously reserved for the higher-end Nano Banana Pro model to a broader audience at faster speeds.[1][2]\n\nThe new model produces images with resolutions ranging from 512 pixels to 4K across multiple aspect ratios, supports character consistency for up to five characters, and can maintain fidelity of up to 14 objects in a single workflow, according to TechCrunch. It also inherits Nano Banana Pro's advanced world knowledge, accurate text rendering, and the ability to generate data visualizations and infographics \u2014 features that made the Pro version popular among creators and professionals.[3][2][1]",
-      "audio_url": "",
-      "url": "google-rolls-out-nano-banana-2-.i9NVBzXTqWMdJKITTCsKw",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-27T01:12:54.623111"
+  "merged_at": "2026-02-27T04:05:04.299800"
 }
