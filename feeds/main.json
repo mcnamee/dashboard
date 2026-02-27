@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6c01e499-d61e-4f3f-9e83-19f624ab093d",
+      "published_datetime": "2026-02-27T14:25:07.138461",
+      "title": "Zelenskyy says he's ready to meet Putin for peace talks",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2026/2/25/zelenskyy-speaks-with-trump-about-peace-efforts-eyes-leaders-level-talks",
+        "name": "Zelenskyy speaks with Trump about peace efforts, eyes leaders ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--uS7r2_Yr--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/02/2025-02-12T181951Z_1144574243_RC26TCA6OZXR_RTRMADP_3_UKRAINE-CRISIS-USA-ZELENSKIY-TRUMP-1772056635.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--zgFBptXh--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/02/2025-02-12T181951Z_1144574243_RC26TCA6OZXR_RTRMADP_3_UKRAINE-CRISIS-USA-ZELENSKIY-TRUMP-1772056635.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "Ukrainian President Volodymyr Zelenskyy said he is ready to meet Russian President Vladimir Putin face-to-face to resolve the most difficult issues standing in the way of peace, while warning that surrendering Ukrainian-held fortress cities in the east remains a firm red line.\n\nIn a wide-ranging interview with Sky News published on February 27, Zelenskyy said there is a closing window to end the war \u2014 one tied to American domestic politics. \"Now I think that we have a chance,\" he told correspondent Alex Rossi. \"If it will be possible to achieve a peace, we will have, now we have this window\" \u2014 between now and the U.S. midterm elections in November.[1][2]",
+      "audio_url": "",
+      "url": "zelenskyy-says-he-s-ready-to-m-f7Bhwg.5SManS.NjPAA4pg",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7dbcc717-4435-4c2a-aeb1-37abc56111e2",
       "published_datetime": "2026-02-27T12:23:00.508611",
       "title": "Chinese scientists achieve 700 Wh/kg lithium battery breakthrough",
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/019b6d00-1e73-469f-96d9-c2b6d548bbad",
-      "published_datetime": "2026-02-27T01:05:05.628635",
-      "title": "Venezuela suspends 19 Maduro-era oil contracts",
-      "featured_image": {
-        "url": "https://www.reuters.com/business/energy/venezuela-suspends-19-oil-gas-production-sharing-contracts-signed-under-maduro-2026-02-26/",
-        "name": "Exclusive: Venezuela suspends 19 oil, gas production-sharing ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--BUhDV_DK--/t_limit/https://www.reuters.com/resizer/v2/FGBQNLRDSZOUNKCABYTO72RZFU.jpg%3Fauth%3Dd6efc5424b4c03d33b9efb1eac293227a3dc9825a88540023546290ed9fb60de%26width%3D1920%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0QhBBpF4--/t_thumbnail/https://www.reuters.com/resizer/v2/FGBQNLRDSZOUNKCABYTO72RZFU.jpg%3Fauth%3Dd6efc5424b4c03d33b9efb1eac293227a3dc9825a88540023546290ed9fb60de%26width%3D1920%26quality%3D80"
-      },
-      "description": "Venezuela's oil ministry has suspended 19 oil production-sharing contracts with private companies that were signed under the administration of former President Nicol\u00e1s Maduro, according to four sources with knowledge of the move who spoke to Reuters.[1]\n\nThe suspension has had no impact on the country's oil and gas output so far, the sources said. State oil company PDVSA continues to sell crude produced under the contracts while they are under review. Both the Venezuelan and U.S. governments are now scrutinizing the credentials of the firms involved and may recommend revoking some of the agreements.[2][1]",
-      "audio_url": "",
-      "url": "venezuela-suspends-19-maduro-e-COlihUqlSFGshPUqpermhA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-02-27T00:12:25.000000Z",
       "title": "Pakistan declares 'open war' against Afghanistan as Kabul hit by air strikes",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-27T14:33:52.120067"
+  "merged_at": "2026-02-27T15:31:28.533948"
 }
