@@ -2,7 +2,7 @@
   "items": [
     {
       "published_datetime": "2026-02-27T05:57:54.000000Z",
-      "title": "Breaking: Police foil alleged terror attack plan on police stations, parliament, religious buildings",
+      "title": "Breaking: Police foil alleged terror attack on police stations, parliament, religious buildings",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ae0427b73fa1cc835db63ab4abdc9cbc?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
       },
@@ -46,6 +46,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-27/lightning-expert-grant-kirkby-tips-avoiding-lightning-strikes/106396874"
     },
     {
+      "published_datetime": "2026-02-27T02:24:12.000000Z",
+      "title": "Federal MP's event gatecrashed by ethno-nationalist organisation",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7dbe0fffce23dc5a5e76e234f68fe552?impolicy=wcms_crop_resize&amp;cropH=384&amp;cropW=683&amp;xPos=0&amp;yPos=58&amp;width=862&amp;height=485"
+      },
+      "description": "Police said they were called to the scene after the National Workers Alliance, an ethno-nationalist organisation, gatecrashed a community event held by Shadow Treasurer Tim Wilson in Melbourne on Thursday night.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-27/tim-wilson-goldstein-event-gatecrashed-national-workers-alliance/106394854"
+    },
+    {
       "published_datetime": "2026-02-27T02:07:10.000000Z",
       "title": "Towns cut off, cars swept away in extreme weather across the country",
       "featured_image": {
@@ -53,15 +62,6 @@
       },
       "description": "At least four states are facing extreme weather and heavy rain, with some areas tipped to receive the heaviest rainfall in more than a decade.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-27/extreme-weather-sweeps-across-large-parts-of-australia/106395148"
-    },
-    {
-      "published_datetime": "2026-02-27T01:29:44.000000Z",
-      "title": "Alleged terrorist who stabbed bishop diagnosed with schizophrenia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85e7d4dbe875d5d80e15d32dd04d7378?impolicy=wcms_crop_resize&amp;cropH=760&amp;cropW=1351&amp;xPos=135&amp;yPos=99&amp;width=862&amp;height=485"
-      },
-      "description": "A teenager who slipped the intelligence net and stabbed a Sydney bishop in an alleged terrorist attack 20 months before the Bondi Beach massacre has been diagnosed with schizophrenia, a court hears.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-27/teenager-stabbed-sydney-bishop-schizophrenia-wakeley/106395940"
     },
     {
       "published_datetime": "2026-02-27T01:22:12.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-27T06:41:02.870393"
+  "merged_at": "2026-02-27T07:39:51.251147"
 }
