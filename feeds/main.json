@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-28T05:00:11.000000Z",
+      "title": "Why more gen Zs are getting cosmetic injectables such as botox",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/99a7bc5ed3433683f6edddd4af373f95?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=128&amp;width=862&amp;height=485"
+      },
+      "description": "The number of non-surgical cosmetic procedures such as botox has increased by more than 44 per cent worldwide in four years. What's driving the increase?",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-28/gen-z-driving-boost-cosmetic-injectables/106258646"
+    },
+    {
       "published_datetime": "2026-02-28T04:24:56.000000Z",
       "title": "Breaking: Triple Melbourne Cup-winning legend Makybe Diva dies from sudden illness",
       "featured_image": {
@@ -68,15 +77,6 @@
       },
       "description": "Mardi Gras organisers have issued a formal warning to Pride in Protest on Friday morning, stating they had breached the parade's terms and conditions.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-28/pride-in-protest-excluded-sydney-mardi-gras-jewish-posts/106400076"
-    },
-    {
-      "published_datetime": "2026-02-28T02:21:21.000000Z",
-      "title": "NASA revamps Artemis Moon landing program",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c41c7780e8d4cc655789743940098c3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "NASA shakes up its Artemis Moon exploration program, adding an extra practice flight before a crewed lunar landing planned for two years' time.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-28/nasa-shakes-up-moon-program-with-new-test-missio/106400186"
     },
     {
       "published_datetime": "2026-02-28T02:03:20.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-28T04:48:42.646100"
+  "merged_at": "2026-02-28T05:27:08.234544"
 }
