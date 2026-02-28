@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-28T00:35:55.000000Z",
+      "title": "Trump orders federal agencies to stop using Anthropic AI in dispute over safety",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/32b4bc12e67ebfb5463c4296c3172c9d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The Trump administration has ordered all US agencies to stop using Anthropic's artificial intelligence technology and imposed other major penalties, culminating an unusually public clash between the government and the company over AI safeguards.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-28/president-s-post-orders-six-month-phaseout-of-anthropic-technolo/106400088"
+    },
+    {
+      "published_datetime": "2026-02-28T00:34:08.000000Z",
+      "title": "Breaking: Plane carrying cash crashes in Bolivia leaving 15 dead",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/da9b3ce612ad73c3cc1554abbd4fd516?impolicy=wcms_crop_resize&amp;cropH=512&amp;cropW=911&amp;xPos=174&amp;yPos=54&amp;width=862&amp;height=485"
+      },
+      "description": "A Bolivian Air Force Hercules aircraft carrying new banknotes crashes into a busy avenue, leaving 15 people dead and at least 30 more injured.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-28/bolivia-plane-crash-carrying-banknotes-15-people-dead-el-alto/106400144"
+    },
+    {
       "published_datetime": "2026-02-27T21:21:12.000000Z",
       "title": "Dozens of US Republicans call for tariff probe into Australian lamb",
       "featured_image": {
@@ -58,19 +76,10 @@
       "page_content_url": "https://www.abc.net.au/news/2026-02-28/ryde-billion-dollar-cocaine-bust-after-kidnap-thwarted/106357602"
     },
     {
-      "published_datetime": "2026-02-27T19:54:40.000000Z",
-      "title": "Pakistan and the Taliban edge closer to 'open war' \u2014 but neither can win",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/af13adb16defd9d7663ebf89978cae2b?impolicy=wcms_crop_resize&amp;cropH=2228&amp;cropW=3961&amp;xPos=0&amp;yPos=206&amp;width=862&amp;height=485"
-      },
-      "description": "Pakistan's declaration of an \"open war\" with the Afghan Taliban sounds dangerous, but analysts say neither side has the capacity to win.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-28/afghan-taliban-pakistan-full-scale-war-not-likely/106399784"
-    },
-    {
       "published_datetime": "2026-02-27T19:36:36.000000Z",
       "title": "Locked and loaded, now gathering dust: What killed Narrabri's battery?",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/84d1332435368cc45bbd77de0d063eac?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=508&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/42ee019329c2e50354129641e105e899?impolicy=wcms_crop_resize&amp;cropH=874&amp;cropW=1555&amp;xPos=182&amp;yPos=61&amp;width=862&amp;height=485"
       },
       "description": "A community battery project three years in the making, run by a local not-for-profit and backed by the council, was killed after a spark of misinformation about its fire risk was ignited.\u00a0\u00a0\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-02-28/misinformation-kills-narrabri-community-battery-project/106120264"
@@ -155,15 +164,6 @@
       "audio_url": "",
       "url": "trump-warns-of-military-force-f6fBZojNRB2P2vJuN2JTWA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-27T18:35:33.000000Z",
-      "title": "Clinton tells Congress he had 'no inkling' of Epstein's crimes",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1086aa5852f8bb0fc9f28faf5ad56831?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=112&amp;width=862&amp;height=485"
-      },
-      "description": "The former US president is being questioned by the House Oversight Committee, which is looking into the US government's handling of the Epstein case.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-28/bill-clinton-deposed-at-congress-epstein-committee/106399884"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/10f5dd1c-d3be-4639-8921-d90178b85d64",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-27T23:31:08.009976"
+  "merged_at": "2026-02-28T01:08:04.189333"
 }
