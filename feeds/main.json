@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/da2e7e24-ccb3-4d0f-bf1a-2175a8496386",
+      "published_datetime": "2026-02-28T12:04:31.325345",
+      "title": "Trump launched Iran strikes despite intel doubting his missile threat claims",
+      "featured_image": {
+        "url": "https://www.cnn.com/2025/06/21/politics/trump-iran-air-strikes",
+        "name": "President Trump addresses the nation after US strikes nuclear sites in Iran",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--3kEbfZ6s--/t_limit/https://media.cnn.com/api/v1/images/stellar/prod/2025-06-22t023520z-1352149951-rc2e7fa1ox7v-rtrmadp-3-iran-nuclear.jpg%3Fc%3D16x9%26q%3Dw_1280%2Cc_fill",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--pzezpjYI--/t_thumbnail/https://media.cnn.com/api/v1/images/stellar/prod/2025-06-22t023520z-1352149951-rc2e7fa1ox7v-rtrmadp-3-iran-nuclear.jpg%3Fc%3D16x9%26q%3Dw_1280%2Cc_fill"
+      },
+      "description": "Just days before the United States launched what President Donald Trump called \"major combat operations\" in Iran on Saturday, intelligence sources and weapons experts were pushing back on one of the administration's central justifications for military action: that Iran was close to building missiles capable of striking the American homeland.",
+      "audio_url": "",
+      "url": "trump-launched-iran-strikes-de-gIbzYh1JSRqdTOhnDZz9Aw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-02-28T07:55:55.000000Z",
       "title": "WATCH: Donald Trump announces 'major combat operations' in Iran",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/68c0101f-4d6f-447c-ba4a-04f76ef293a2",
-      "published_datetime": "2026-02-27T16:16:13.586861",
-      "title": "Green Party wins first-ever UK by-election, pushing Labour to third",
-      "featured_image": {
-        "url": "https://sg.news.yahoo.com/uk-greens-trounce-far-key-044026610.html",
-        "name": "UK Greens trounce far right in key election as Labour fall to ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--iwXn4b0q--/t_limit/https://s.yimg.com/os/en/euronews_sg_articles_551/30e206cdb231b2e29e96e52fd455175e",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--XBbolHGk--/t_thumbnail/https://s.yimg.com/os/en/euronews_sg_articles_551/30e206cdb231b2e29e96e52fd455175e"
-      },
-      "description": "Hannah Spencer, a 34-year-old plumber and local councillor, has won the Gorton and Denton by-election in Greater Manchester, delivering a result that marks the first time in the Green Party's history that it has won a UK parliamentary by-election. The victory, declared in the early hours of Friday morning, saw Spencer capture 14,980 votes \u2014 roughly 40.7% of the total \u2014 overturning a Labour majority of more than 13,000 from the 2024 general election. The result pushes Prime Minister Keir Starmer's Labour Party into third place in a seat the party had held for nearly a century.[1][2][3][4][5][6]",
-      "audio_url": "",
-      "url": "green-party-wins-first-ever-uk-6cyGwyWqRDOGr9FCsCtr4g",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-28T12:27:23.182495"
+  "merged_at": "2026-02-28T13:31:35.201120"
 }
