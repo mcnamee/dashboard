@@ -1,10 +1,19 @@
 {
   "items": [
     {
-      "published_datetime": "2026-02-28T07:38:32.000000Z",
-      "title": "Israel and US strike Iran",
+      "published_datetime": "2026-02-28T07:55:55.000000Z",
+      "title": "WATCH: Donald Trump announces 'major combat operations' in Iran",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/96dcd30e4368542cd5fd3d1089eae17a?impolicy=wcms_crop_resize&amp;cropH=1508&amp;cropW=2680&amp;xPos=0&amp;yPos=140&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1e191fc8aa98511269daae36ed76b028?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Watch Donald Trump's full remarks announcing the US's attack on Iran.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-28/donald-trump-major-combat-operation-in-iran-underway/106400848"
+    },
+    {
+      "published_datetime": "2026-02-28T07:38:32.000000Z",
+      "title": "US and Israel strike Iran",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98997128caed2a1943da41029303f0ba?impolicy=wcms_crop_resize&amp;cropH=1434&amp;cropW=2550&amp;xPos=0&amp;yPos=43&amp;width=862&amp;height=485"
       },
       "description": "Multiple blasts have rocked Tehran as Trump confirms 'massive and ongoing' operation in Iran could lead to casualties.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-28/israel-us-attacking-iran-live-updates-blasts-in-tehran/106222024"
@@ -44,15 +53,6 @@
       },
       "description": "Terrorism police in Perth investigate a disturbance outside a Perth mosque overnight and the discovery of a \"non-suspicious substance\" on the footpath outside.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-28/perth-mosque-target-of-disturbance-terror-police-probing/106399406"
-    },
-    {
-      "published_datetime": "2026-02-28T03:17:37.000000Z",
-      "title": "Former Play School host Lorraine Bayly dies, aged 89",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6ee6cb4d311978ec3a54f4fd8d95de7?impolicy=wcms_crop_resize&amp;cropH=2188&amp;cropW=3890&amp;xPos=0&amp;yPos=835&amp;width=862&amp;height=485"
-      },
-      "description": "Lorraine Bayly, star of long-running soap opera The Sullivans and a former Play School host, has died aged 89, after years of ill health.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-28/lorraine-bayly-playschool-sullivans-actor-dies/106400388"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b48f1755-55ee-4a79-837e-78ba06381e83",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-28T11:11:53.800636"
+  "merged_at": "2026-02-28T12:27:23.182495"
 }
