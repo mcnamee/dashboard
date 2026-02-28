@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-28T20:03:56.000000Z",
+      "title": "Are Australians losing their sense of direction due to phone apps?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6de6d62db0cda5046143ff7086179404?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=515&amp;width=862&amp;height=485"
+      },
+      "description": "Google Maps has made city driving a dream, but it's putting lives at risk in the bush. Meet the mapmakers taking on Australia's roughest roads to try to change that.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-01/map-patrol-checks-remote-tracks-google-maps-cannot-cover/106259210"
+    },
+    {
+      "published_datetime": "2026-02-28T20:00:37.000000Z",
+      "title": "NSW unveils sweeping foster care reforms for vulnerable children",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/38e0a59711d7728e2e97d966c60928a5?impolicy=wcms_crop_resize&amp;cropH=863&amp;cropW=1535&amp;xPos=0&amp;yPos=109&amp;width=862&amp;height=485"
+      },
+      "description": "While some child protection services will continue to be outsourced, the NSW government will play a larger role in the sector, including through the recruitment of foster carers.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-01/nsw-foster-care-reforms-for-thousands-vulnerable-children/106398894"
+    },
+    {
       "published_datetime": "2026-02-28T19:46:22.000000Z",
       "title": "Seventh narco sub found near Australia waters signalling 'insane amount of drugs'",
       "featured_image": {
@@ -64,7 +82,7 @@
       "published_datetime": "2026-02-28T17:41:47.000000Z",
       "title": "US and Israel strike Iran",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98997128caed2a1943da41029303f0ba?impolicy=wcms_crop_resize&amp;cropH=1434&amp;cropW=2550&amp;xPos=0&amp;yPos=43&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/84975678868ee9f9f04d4cf00f0323ef?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
       "description": "Donald Trump has called on Iranians to \"rise up\" and says joint action is aimed at regime change.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-01/us-israel-launches-airstrikes-in-iran-live-blog/106401380"
@@ -175,6 +193,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-02-28T11:31:32.000000Z",
+      "title": "What we know about Iran strikes and retaliation",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94ae6d5a14ecafbba274e5a8535341be?impolicy=wcms_crop_resize&amp;cropH=473&amp;cropW=840&amp;xPos=0&amp;yPos=184&amp;width=862&amp;height=485"
+      },
+      "description": "After weeks of anticipation, Israel fired the first shot on Iran, drawing in the US and sparking retaliatory strikes that have hit several countries.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-28/what-we-know-about-the-israel-us-iran-strikes/106400988"
+    },
+    {
       "published_datetime": "2026-02-28T07:55:55.000000Z",
       "title": "WATCH: Donald Trump announces 'major combat operations' in Iran",
       "featured_image": {
@@ -182,15 +209,6 @@
       },
       "description": "Watch Donald Trump's full remarks announcing the US's attack on Iran.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-28/donald-trump-major-combat-operation-in-iran-underway/106400848"
-    },
-    {
-      "published_datetime": "2026-02-28T06:39:05.000000Z",
-      "title": "Trump says 'bombs will be dropping everywhere' as US attacks Iran",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ae41e94e126e755e5becec23a81edd10?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "US-Israeli strikes on Iran have prompted a string of retaliatory attacks and travel chaos across the region.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-28/iran-israel-explosion-tehran/106400716"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b48f1755-55ee-4a79-837e-78ba06381e83",
@@ -208,15 +226,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-02-28T02:03:20.000000Z",
-      "title": "'Sense of betrayal': The peaceful Nordic country preparing for war",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ea1f5f3d569500fe078772e380e136a8?impolicy=wcms_crop_resize&amp;cropH=663&amp;cropW=1179&amp;xPos=0&amp;yPos=425&amp;width=862&amp;height=485"
-      },
-      "description": "Denmark is fast-tracking female conscription as it muscles up to Russia and faces threats of invasion from the US.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-28/denmark-female-conscription-in-face-of-russia-us-threats/106339920"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/28648d37-7882-4644-b6e6-bc82481b334f",
       "published_datetime": "2026-02-28T01:00:40.034503",
       "title": "Chile bars Chinese hospital ship from treating locals amid US pressure",
@@ -230,15 +239,6 @@
       "audio_url": "",
       "url": "chile-bars-chinese-hospital-sh-SB6YAertRDujr3o9DxIR6w",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-27T19:33:37.000000Z",
-      "title": "Prince William's 'calm state' comment about Andrew could signal a striking shift",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0260ae7f684d731c5121da92d63fed66?impolicy=wcms_crop_resize&amp;cropH=1424&amp;cropW=2531&amp;xPos=645&amp;yPos=271&amp;width=862&amp;height=485"
-      },
-      "description": "When Prince William and Princess Catherine stepped out for their first public appearance since Andrew Mountbatten-Windsor's arrest, an innocuous question was levelled at them. The candid response was perhaps more revealing than anticipated.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-28/prince-william-is-set-to-inherit-the-andrew-problem-/106385970"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-28T20:16:28.615488"
+  "merged_at": "2026-02-28T21:13:26.013137"
 }
