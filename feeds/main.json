@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-28T06:39:05.000000Z",
+      "title": "Breaking: Israel launches 'pre-emptive strikes' against Iran, local media reports",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ae41e94e126e755e5becec23a81edd10?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Israel's defence minister says the country has launched 'pre-emptive strikes' against Iran.",
+      "page_content_url": "https://www.abc.net.au/news/2026-02-28/iran-israel-explosion-tehran/106400716"
+    },
+    {
       "published_datetime": "2026-02-28T06:05:48.000000Z",
       "title": "SA Liberal and Labor to preference David Speirs last at state election",
       "featured_image": {
@@ -20,7 +29,7 @@
     },
     {
       "published_datetime": "2026-02-28T04:24:56.000000Z",
-      "title": "Breaking: Triple Melbourne Cup-winning legend Makybe Diva dies from sudden illness",
+      "title": "Triple Melbourne Cup-winning legend Makybe Diva dies from sudden illness",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9d77078b463af2f8241619bf688a07cb?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
       },
@@ -44,15 +53,6 @@
       },
       "description": "The charging of two young West Australian men with terror offences show the challenges facing social cohesion, and solving the problem is not going to be easy.",
       "page_content_url": "https://www.abc.net.au/news/2026-02-28/wa-terror-charges-threaten-social-cohesion/106400272"
-    },
-    {
-      "published_datetime": "2026-02-28T03:17:01.000000Z",
-      "title": "First Aboriginal woman to receive PhD at Harvard remembered as 'trailblazer'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7e547b62ce9a7cb0e5011cdfde8a1324?impolicy=wcms_crop_resize&amp;cropH=202&amp;cropW=359&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "MaryAnn Bin-Sallik was the first Aboriginal nurse graduate in Darwin and the first Aboriginal person to receive a PhD at Harvard University. Following her death at age 85, the Djaru Elder is being remembered for her work in Indigenous education, health and human rights.",
-      "page_content_url": "https://www.abc.net.au/news/2026-02-28/aboriginal-professor-maryann-bin-sallik-remembered/106396478"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b48f1755-55ee-4a79-837e-78ba06381e83",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-28T06:26:40.699104"
+  "merged_at": "2026-02-28T07:20:35.187029"
 }
