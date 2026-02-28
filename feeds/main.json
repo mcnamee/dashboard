@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/36a069c6-0cc3-4ce5-a5a8-5390939016c8",
+      "published_datetime": "2026-02-28T14:24:36.500182",
+      "title": "Ohio State researchers turn moon dust into durable structures via 3D laser printing",
+      "featured_image": {
+        "url": "https://newatlas.com/3d-printed-lunar-base/26060/",
+        "name": "3D-printed lunar base may be on the way",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--qAyKPJAP--/t_limit/https://assets.newatlas.com/dims4/default/bc7f0e1/2147483647/strip/true/crop/2976x1778%2B0%2B0/resize/2880x1721%21/format/webp/quality/90/%3Furl%3Dhttps%253A%252F%252Fnewatlas-brightspot.s3.amazonaws.com%252Farchive%252F3dlunarbase.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--A4-Lv-EE--/t_thumbnail/https://assets.newatlas.com/dims4/default/bc7f0e1/2147483647/strip/true/crop/2976x1778%2B0%2B0/resize/2880x1721%21/format/webp/quality/90/%3Furl%3Dhttps%253A%252F%252Fnewatlas-brightspot.s3.amazonaws.com%252Farchive%252F3dlunarbase.jpg"
+      },
+      "description": "Researchers at Ohio State University have demonstrated that laser-based 3D printing can transform simulated lunar soil into strong, heat-resistant structures, a advance that could one day allow astronauts to build habitats on the Moon using materials already found on its surface.\n\nThe study, published in the journal Acta Astronautica, offers a proof of concept for a technique that would eliminate the need to haul construction materials from Earth \u2014 a prospect that currently costs an estimated $1 million or more per kilogram, according to the researchers.[1]",
+      "audio_url": "",
+      "url": "ohio-state-researchers-turn-mo-.JVfTiICRK.o_MyCKSRCaQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/76f9edb2-af92-4b08-9f4e-1d11d0fc4171",
       "published_datetime": "2026-02-28T13:20:11.425524",
       "title": "Czech scientists detect lightning on Mars from orbit for the first time",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f83955d6-6c8f-48d1-ae8f-d86aade07b6b",
-      "published_datetime": "2026-02-27T18:41:20.460270",
-      "title": "Trump warns of military force against Iran as nuclear talks stall",
-      "featured_image": {
-        "url": "https://www.timesofisrael.com/trumps-claim-on-iranian-missile-development-said-unsupported-by-us-intelligence/",
-        "name": "Trump's claim on Iranian missile development said ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--9kkOMqxJ--/t_limit/https://static-cdn.toi-media.com/www/uploads/2026/02/AFP__20260211__96YG7GU__v3__HighRes__TopshotIranPoliticsAnniversary-e1770803220684.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--08H9OoY6--/t_thumbnail/https://static-cdn.toi-media.com/www/uploads/2026/02/AFP__20260211__96YG7GU__v3__HighRes__TopshotIranPoliticsAnniversary-e1770803220684.jpg"
-      },
-      "description": "President Donald Trump on Friday expressed frustration with the progress of nuclear negotiations with Iran and warned that military force remains on the table, telling reporters, \"Don't want to, but sometimes you have to,\" when asked whether he would order strikes against the Islamic Republic.[1][2]\n\nSpeaking to reporters before departing the White House for a trip to Texas, Trump said he was \"not happy\" with Iran's posture in the talks and reiterated his core demand. \"I'm not happy with the fact that they're not willing to give us what we have to have. I'm not thrilled with that,\" he said, adding: \"Iran cannot have nuclear weapons\".[3][4]",
-      "audio_url": "",
-      "url": "trump-warns-of-military-force-f6fBZojNRB2P2vJuN2JTWA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-28T15:14:25.366750"
+  "merged_at": "2026-02-28T16:16:33.383858"
 }
