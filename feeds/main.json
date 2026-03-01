@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-02-28T23:11:29.000000Z",
+      "title": "Ali Khamenei mastered the art of pitting his enemies against each other",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3a8b84049738b65b0121c9e9a17daa80?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
+      },
+      "description": "A conservative Islamic scholar with a head for politics, Iran's Supreme Leader Ayatollah Ali Khamenei succeeded his mentor in the wake of the Iran-Iraq War \u2014 and consolidated his grip on power over the following decades.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-01/ayatollah-ali-khamenei-obituary-supreme-leader-iran-revolution/105436050"
+    },
+    {
       "published_datetime": "2026-02-28T21:25:03.000000Z",
       "title": "The 'lonely experience' of campus life as universities go digital",
       "featured_image": {
@@ -56,15 +65,6 @@
       "audio_url": "",
       "url": "fbi-on-high-alert-as-u-s-israe-itutyVC3QHa0jiW2j4RFKw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-02-28T20:03:56.000000Z",
-      "title": "Are Australians losing their sense of direction due to phone apps?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6de6d62db0cda5046143ff7086179404?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=515&amp;width=862&amp;height=485"
-      },
-      "description": "Google Maps has made city driving a dream, but it's putting lives at risk in the bush. Meet the mapmakers taking on Australia's roughest roads to try to change that.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-01/map-patrol-checks-remote-tracks-google-maps-cannot-cover/106259210"
     },
     {
       "published_datetime": "2026-02-28T19:46:22.000000Z",
@@ -214,15 +214,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-01/marriage-arranged-indian-astrology-dating-app-romance-love-match/106382436"
     },
     {
-      "published_datetime": "2026-02-28T18:00:00.000000Z",
-      "title": "'We all need soft spaces': Punch the monkey's reminder",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3b692d0eb5f7be5a2480022c283308bd?impolicy=wcms_crop_resize&amp;cropH=1532&amp;cropW=2723&amp;xPos=182&amp;yPos=245&amp;width=862&amp;height=485"
-      },
-      "description": "There's surely a reason we all went briefly nuts about a lonely little snow monkey called Punch living in a Japanese zoo.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-01/punch-monkey-japan-soft-spaces/106393016"
-    },
-    {
       "published_datetime": "2026-02-28T17:41:47.000000Z",
       "title": "Trump says Iran's leader is dead",
       "featured_image": {
@@ -230,6 +221,15 @@
       },
       "description": "Donald Trump has called on Iranians to \"rise up\" and says joint action is aimed at regime change.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-01/us-israel-launches-airstrikes-in-iran-live-blog/106401380"
+    },
+    {
+      "published_datetime": "2026-02-28T14:23:40.000000Z",
+      "title": "This strike is different and could lead to a longer, deadlier war",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ba341c20b89dfa501bbc1b455f80894?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "It was clear within hours that this conflict is different and threatens to engulf the region in a longer, deadlier war.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-01/us-israeli-strikes-on-iran-could-lead-to-longer-war/106401110"
     },
     {
       "published_datetime": "2026-02-28T11:31:32.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-02-28T23:14:27.677480"
+  "merged_at": "2026-03-01T01:23:40.535006"
 }
