@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fe0df406-c929-4cdd-95dc-be378e658857",
+      "published_datetime": "2026-03-01T13:37:41.853356",
+      "title": "Brent crude surges to $80 as Iran conflict shuts Strait of Hormuz",
+      "featured_image": {
+        "url": "https://www.npr.org/2026/02/28/nx-s1-5678603/iran-strikes-oil-energy-markets",
+        "name": "How could the U.S. strikes in Iran affect the world's oil supply?",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--HxmnwLgo--/t_limit/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6192x3483%2B0%2B323/resize/1400/quality/85/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fe1%252F14%252Ff5a2d66b45e8b464dfc5f6fcefb8%252Fgettyimages-2261587140.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--o2DoocyS--/t_thumbnail/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6192x3483%2B0%2B323/resize/1400/quality/85/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fe1%252F14%252Ff5a2d66b45e8b464dfc5f6fcefb8%252Fgettyimages-2261587140.jpg"
+      },
+      "description": "Brent crude surged roughly 10 percent to about $80 a barrel in off-market transactions on Sunday, as U.S. and Israeli military strikes on Iran threw global energy markets into turmoil and effectively shut down one of the world's most critical oil chokepoints.[1][2]\n\nThe spike came as shipping through the Strait of Hormuz \u2014 a narrow waterway responsible for more than 20 percent of global oil transit \u2014 ground to a halt after Iran's Revolutionary Guards contacted vessels to declare the strait closed. Iranian state television reported that an oil tanker attempting to pass through the strait was struck and was sinking, broadcasting footage of a burning vessel at sea.[3][4][5][6][7]",
+      "audio_url": "",
+      "url": "brent-crude-surges-to-80-as-ir-SJZ_0XkKTNeeN11uLCv79w",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-01T11:53:24.000000Z",
       "title": "How the internet reacted to Matildas 1-0 win over Philippines",
       "featured_image": {
@@ -190,21 +205,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-01/australians-face-murder-sentencing-in-bali-shooting-case/106398148"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4574d574-cbd6-436d-8bff-c3769a05a6d1",
-      "published_datetime": "2026-03-01T02:32:08.598807",
-      "title": "Israeli officials say strikes killed Iran\u2019s senior commanders",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/middle-east/iranian-supreme-leader-khamenei-has-been-implacable-opponent-us-israel-2025-06-17/",
-        "name": "Ayatollah Khamenei, reported killed by US-Israeli airstrikes ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--2Z9f8t7M--/t_limit/https://www.reuters.com/resizer/v2/ORO4CTA5HRMP7HUDN2SPINEMLI.jpg%3Fauth%3Dbe5658b5d5035a160f6d8d8c0921dbe6a17943508442d541127ff181cb7cbc54%26width%3D1080%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--JLY0gidt--/t_thumbnail/https://www.reuters.com/resizer/v2/ORO4CTA5HRMP7HUDN2SPINEMLI.jpg%3Fauth%3Dbe5658b5d5035a160f6d8d8c0921dbe6a17943508442d541127ff181cb7cbc54%26width%3D1080%26quality%3D80"
-      },
-      "description": "Israeli forces killed Iran's Supreme Leader Ayatollah Ali Khamenei along with several of the country's most senior military and intelligence officials in a wave of \"decapitation strikes\" that opened a massive joint U.S.-Israeli military offensive on February 28, 2026, plunging Iran into an immediate succession crisis.",
-      "audio_url": "",
-      "url": "israeli-officials-say-strikes-icLT8wihSgqoLJimxZ79nA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-01T02:30:20.000000Z",
       "title": "Rain record broken, more wild weather expected in Victoria",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-01T14:17:28.081466"
+  "merged_at": "2026-03-01T14:30:44.108357"
 }
