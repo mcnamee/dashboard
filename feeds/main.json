@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-01T08:13:07.000000Z",
+      "title": "Perth terror accused revealed as former Catholic schoolboy and labourer",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d18e28f55b094d60a091675cf65792b8?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Jayson Joseph Michaels, 20, left school to undertake a TAFE course in IT and worked as a labourer in Bindoon, the ABC can reveal.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-01/who-is-jayson-joseph-michaels-terror-accused-/106402766"
+    },
+    {
+      "published_datetime": "2026-03-01T08:06:24.000000Z",
+      "title": "Live: Sam Kerr strikes as Matildas make positive start to Asian Cup in Perth",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9cdc9738e76972cfa1fb167b574faf64?impolicy=wcms_crop_resize&amp;cropH=2591&amp;cropW=4607&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
+      },
+      "description": "The 2026 Women's Asian Cup is finally upon us, with the Matildas, in the midst of a goalkeeping injury crisis, taking on the Philippines at Perth Stadium. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-01/asian-cup-matildas-vs-philippines-live-updates/106392606"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f2c1157e-4625-44cd-926c-88255d4314c8",
       "published_datetime": "2026-03-01T07:15:51.306501",
       "title": "Iran faces leadership vacuum after Khamenei killed in U.S.-Israeli strikes",
@@ -118,15 +136,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-01T03:16:04.000000Z",
-      "title": "A Melbourne dad was shot dead in Bali. The accused argue it was a debt 'scare' gone wrong",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cdda2951305b7c623373252d61fc44fb?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Three Australian men are waiting to be sentenced after a months-long trial for the alleged murder of a Melbourne father. Police say it was a deliberate hit job, while the men say it wasn't intentional.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-01/australians-face-murder-sentencing-in-bali-shooting-case/106398148"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4574d574-cbd6-436d-8bff-c3769a05a6d1",
       "published_datetime": "2026-03-01T02:32:08.598807",
       "title": "Israeli officials say strikes killed Iran\u2019s senior commanders",
@@ -182,15 +191,6 @@
       },
       "description": "A conservative Islamic scholar with a head for politics, Iran's Supreme Leader Ayatollah Ali Khamenei succeeded his mentor in the wake of the Iran-Iraq War \u2014 and consolidated his grip on power over the following decades.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-01/ayatollah-ali-khamenei-obituary-supreme-leader-iran-revolution/105436050"
-    },
-    {
-      "published_datetime": "2026-02-28T22:49:15.000000Z",
-      "title": "'Timing is impeccable': Record rain for parts of SA",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f568349f7b14e73dfba8ebd7d5ddb4a4?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=523&amp;width=862&amp;height=485"
-      },
-      "description": "Heavy rain has fallen in parts of South Australia, bringing relief to some dry regional areas, with more expected for parts of the state.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-01/record-rain-in-eyre-peninsula-sa-west-coast/106401748"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4b3dc6fc-090f-491d-8dfc-53c0d004316b",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-01T08:39:47.845399"
+  "merged_at": "2026-03-01T09:21:24.926968"
 }
