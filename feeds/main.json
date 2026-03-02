@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-02T07:39:28.000000Z",
+      "title": "'Grossly unfair': Grandad fights AI seatbelt fines after daughter penalised",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b2b3dff2919cea6874965fe28a909111?impolicy=wcms_crop_resize&amp;cropH=506&amp;cropW=900&amp;xPos=0&amp;yPos=47&amp;width=862&amp;height=485"
+      },
+      "description": "Frustration is deepening over drivers being ordered to pay hundreds of dollars in fines for infringements incurred by their passengers \u2014 including young children and neurodivergent people not wearing seatbelts correctly.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-02/backlash-perth-ai-road-safety-cameras-speeding-seatbelt-fines/106405328"
+    },
+    {
+      "published_datetime": "2026-03-02T07:16:14.000000Z",
+      "title": "Coalition brands Australian children in Syria terrorist 'sympathisers'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ee2bfac59128aca7079f26b493b374c?impolicy=wcms_crop_resize&amp;cropH=843&amp;cropW=1499&amp;xPos=0&amp;yPos=57&amp;width=862&amp;height=485"
+      },
+      "description": "Opposition leader Angus Taylor has escalated his attack on the federal government over its response to the so-called \"ISIS brides\" cohort.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-02/coalition-brands-australian-children-terrorist-sympathisers/106406996"
+    },
+    {
       "published_datetime": "2026-03-02T06:28:49.000000Z",
-      "title": "Out-of-pocket small business 'disgusted' as controversial mine gets extension",
+      "title": "'Disgusted': NSW government grants approval to controversial mine",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fe0beb9f8d84a5701c4982d4771eb114?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
       },
@@ -26,7 +44,7 @@
     },
     {
       "published_datetime": "2026-03-02T06:08:08.000000Z",
-      "title": "Brisbane house prices increase by almost 16 per cent in a year",
+      "title": "Brisbane house prices hit new peak as national market growth continues",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b1be300c6893361611e7c8bd135a6de4?impolicy=wcms_crop_resize&amp;cropH=2213&amp;cropW=3935&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -101,15 +119,6 @@
       "audio_url": "",
       "url": "melania-trump-to-chair-un-secu-G5ldCp31QTeIoK0wkdyBqQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-03-02T05:03:44.000000Z",
-      "title": "'A tax on households': Economists warn Middle East war to spike oil",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18aadb9f6f9bf2b8ae954c68317724a5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The average household could see $14 added to their weekly petrol bill, a prominent economist has warned. While oil prices have already spiked, analysts are hopeful the conflict will be short-lived, limiting the fallout.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-02/iran-us-israel-strikes-middle-east-war-economic-oil-fallout/106405452"
     },
     {
       "published_datetime": "2026-03-02T05:02:08.000000Z",
@@ -223,15 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-01T18:50:04.000000Z",
-      "title": "The Trump insult that pushed Marjorie Taylor Greene over the edge and out of MAGA",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/55c16c9be57ee0e8cd022001a4989dc3?impolicy=wcms_crop_resize&amp;cropH=1959&amp;cropW=3483&amp;xPos=0&amp;yPos=590&amp;width=862&amp;height=485"
-      },
-      "description": "Many of Donald Trump's supporters wanted to send those implicated in Jeffrey Epstein's sex trafficking ring \"off to the gallows\", but then the president changed his mind about releasing the files. What followed was an unusual political manoeuvre, acts of immense bravery by survivors and a backflip by the president of the United States.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-02/epstein-files-majorie-taylor-greene-alliance-that-broke-trump/106391630"
-    },
-    {
       "published_datetime": "2026-03-01T18:23:52.000000Z",
       "title": "War in Middle East could last a month, Trump says",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-02T07:43:05.522398"
+  "merged_at": "2026-03-02T08:34:12.541806"
 }
