@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-02T16:18:43.000000Z",
+      "title": "War spirals in Middle East as Tehran targets energy sites",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/04eb6487a13528b06b8333c17afe4d68?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Fresh explosions rock Tehran as Israeli Prime Minister Benjamin Netanyahu vows to intensify air strikes. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-03/us-israel-attacks-iran-live-updates-middle-east-war-airstrikes/106407178"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f816d8c7-ed01-4613-9a83-7bdd9df7d399",
+      "published_datetime": "2026-03-02T14:39:24.029795",
+      "title": "Claude AI hit by worldwide outage across all platforms",
+      "featured_image": {
+        "url": "https://www.forbes.com/sites/tylerroush/2026/02/25/claude-outage-thousands-report-issues-with-anthropics-ai-chatbot/",
+        "name": "Is Claude Down? Outage Reports Briefly Spike For Anthropic's AI",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--yAIuLfqc--/t_limit/https://imageio.forbes.com/specials-images/imageserve/699f41b727d92ece2e89d1d2/0x0.jpg%3Fformat%3Djpg%26crop%3D1740%2C978%2Cx0%2Cy89%2Csafe%26height%3D600%26width%3D1200%26fit%3Dbounds",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--wurzQoFA--/t_thumbnail/https://imageio.forbes.com/specials-images/imageserve/699f41b727d92ece2e89d1d2/0x0.jpg%3Fformat%3Djpg%26crop%3D1740%2C978%2Cx0%2Cy89%2Csafe%26height%3D600%26width%3D1200%26fit%3Dbounds"
+      },
+      "description": "Anthropic's Claude AI chatbot went down on Monday in a worldwide outage that left users unable to access the platform across its web interface, mobile apps, and developer API.\n\nThe company flagged the incident on its status page at 11:49 UTC on March 2, 2026, posting an initial \"Investigating\" notice, followed by an update at 12:06 UTC stating the investigation was ongoing. Users attempting to reach the service reported failed requests, timeouts, and error messages including \"This isn't working right now\" and upstream connection termination errors.[1][2]",
+      "audio_url": "",
+      "url": "claude-ai-hit-by-worldwide-out-zQYPbIV0RtK35tqc9vzKrQ",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ace522ed-bba4-48a3-b69d-a82a2280921e",
+      "published_datetime": "2026-03-02T14:32:19.910035",
+      "title": "Three US F-15s shot down by Kuwaiti air defenses in friendly fire incident",
+      "featured_image": {
+        "url": "https://www.independent.co.uk/news/world/americas/f15-crash-kuwait-iran-war-b2930014.html",
+        "name": "Several' US fighter jets crash over Kuwait, military ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--mtjKyEDN--/t_limit/https://static.independent.co.uk/2025/10/10/18/50/GettyImages-2822809.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--oKvyfg5I--/t_thumbnail/https://static.independent.co.uk/2025/10/10/18/50/GettyImages-2822809.jpg"
+      },
+      "description": "Three US Air Force F-15E Strike Eagle fighter jets crashed in Kuwait on Monday morning after being mistakenly shot down by Kuwaiti air defenses during active combat operations against Iran, the US Central Command confirmed.\n\nAll six crew members ejected safely and are in stable condition after being recovered and transported to hospitals, CENTCOM said in a statement. The incident marks the first loss of American aircraft in the four-day-old conflict between the United States, Israel, and Iran.[1]",
+      "audio_url": "",
+      "url": "three-us-f-15s-shot-down-by-ku-Cfzk7z0CSmKBf6BBab4djw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/15f06fe2-9230-494c-95fd-4405c52e6c7d",
+      "published_datetime": "2026-03-02T13:34:34.709622",
+      "title": "India's factory growth hits 4-month high as UK, Australia slow",
+      "featured_image": {
+        "url": "https://english.aaj.tv/news/330379058/indias-bid-to-match-chinas-factory-power-gets-a-reality-check",
+        "name": "India's bid to match China's factory power gets a reality ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--7_OPdyuH--/t_limit/https://i.aaj.tv/primary/2024/09/11233449b4b6465.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--_NI1rvEs--/t_thumbnail/https://i.aaj.tv/primary/2024/09/11233449b4b6465.webp"
+      },
+      "description": "Manufacturing activity across major economies showed diverging trends in February 2026, with Australia and the United Kingdom losing steam even as India's factory sector accelerated to a four-month high, according to purchasing managers' index data released this week by S&P Global.",
+      "audio_url": "",
+      "url": "india-s-factory-growth-hits-4-fRkGkw_RQnmfGATLJKcGYg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-02T13:02:52.000000Z",
       "title": "Australia's gender pay gap has narrowed. See where your employer stands",
       "featured_image": {
@@ -151,21 +205,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-02/coalition-votes-against-hanson-censure-motion/106405622"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9a8b3176-cb7a-4c93-99df-df695d94044d",
-      "published_datetime": "2026-03-02T05:04:55.368446",
-      "title": "Melania Trump to chair UN Security Council amid US war on Iran",
-      "featured_image": {
-        "url": "https://www.the-independent.com/news/world/americas/us-politics/melania-trump-united-nations-security-council-b2928777.html",
-        "name": "Melania Trump set to make history at UN Security Council meeting",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--1y3LbBgE--/t_limit/https://static.the-independent.com/2026/02/04/22/Melania_Trump_28005.jpg%3Fwidth%3D1200%26height%3D800%26crop%3D1200%253A800",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--M-idGmCt--/t_thumbnail/https://static.the-independent.com/2026/02/04/22/Melania_Trump_28005.jpg%3Fwidth%3D1200%26height%3D800%26crop%3D1200%253A800"
-      },
-      "description": "First Lady Melania Trump is scheduled to preside over a United Nations Security Council meeting on Monday afternoon, an unprecedented appearance that was planned weeks ago but now collides with the reality of active US military operations in Iran.\n\nThe session, titled \"Children, Technology, and Education in Conflict,\" will mark the first time a sitting US First Lady has chaired the 15-member council, according to UN spokesperson Stephane Dujarric. The meeting comes as the United States assumes the rotating presidency of the Security Council for March.[1][2][3]",
-      "audio_url": "",
-      "url": "melania-trump-to-chair-un-secu-G5ldCp31QTeIoK0wkdyBqQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-02T05:02:08.000000Z",
       "title": "Father who fell to his death zip-lining was on 'bucket list' trip, inquest hears",
       "featured_image": {
@@ -173,21 +212,6 @@
       },
       "description": "A coronial inquest into the 2019 death of 50-year-old Dean Sanderson has heard the mining project manager was visiting Far North Queensland with his wife, after \"a pretty terrible health situation\".",
       "page_content_url": "https://www.abc.net.au/news/2026-03-02/queensland-inquest-tourist-death-on-zipline-tour/106404218"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d76dc0a8-1b7d-4333-ab80-d357bb63d151",
-      "published_datetime": "2026-03-02T04:34:21.832314",
-      "title": "BOJ deputy governor says rate hikes to continue",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/asia-pacific/bank-japan-deputy-governor-says-rate-hikes-likely-continue-2026-03-02/",
-        "name": "Bank of Japan deputy governor says rate hikes likely to ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--AF6hAffQ--/t_limit/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SNGMGYU7LNL2TOK66Q3Q3TNQBU.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--RbyfYViJ--/t_thumbnail/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SNGMGYU7LNL2TOK66Q3Q3TNQBU.jpg"
-      },
-      "description": "Bank of Japan Deputy Governor Ryozo Himino said Monday that the central bank should continue raising interest rates as it moves toward a more neutral monetary policy, reinforcing expectations that further tightening lies ahead even as the Japanese economy sends mixed signals.\n\n\"While the Bank's policy remains somewhat accommodative, it should gradually shift to a more neutral stance through moderate policy rate hikes,\" Himino said in a speech to local business leaders in Wakayama.[1][2]",
-      "audio_url": "",
-      "url": "boj-deputy-governor-says-rate-1LHBsRcEQNWhwTQneqz4Hw",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-03-02T04:00:22.000000Z",
@@ -215,30 +239,6 @@
       },
       "description": "Women who had surgery for \"severe\" endometriosis despite pathology showing little trace of the disease are angry and upset that Epworth Hospital has not invited them to participate in an external review.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-02/former-patients-of-gynaecologist-simon-gordon-not-part-of-review/106399180"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/eda300b6-832c-41d1-8331-60df9b2a1a87",
-      "published_datetime": "2026-03-02T00:24:47.140670",
-      "title": "Canada's Carney arrives in Delhi for Modi talks amid Iran crisis",
-      "featured_image": {
-        "url": "https://lethbridgeherald.com/news/national-news/2026/03/01/pm-carney-lands-in-new-delhi-plans-to-meet-modi-tomorrow/",
-        "name": "PM Carney lands in New Delhi, plans to meet Modi tomorrow",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--r3dd83zb--/t_limit/https://lethbridgeherald.com/wp-content/uploads/cp/2026/03/fa2f5ce52da60f03b104f31fed41ca3ead297bd91276edc0b78de7ba704943ba.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--gVCkypZg--/t_thumbnail/https://lethbridgeherald.com/wp-content/uploads/cp/2026/03/fa2f5ce52da60f03b104f31fed41ca3ead297bd91276edc0b78de7ba704943ba.jpg"
-      },
-      "description": "Canadian Prime Minister Mark Carney landed in New Delhi on Saturday as part of a three-nation tour aimed at deepening trade ties with Indo-Pacific partners, even as U.S.-Israeli military strikes on Iran and Tehran's retaliatory attacks across the Middle East cast a shadow over global diplomacy.",
-      "audio_url": "",
-      "url": "canada-s-carney-arrives-in-del-FLD3Os5yQ3Cr8xK1j5WcYw",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-03-01T18:23:52.000000Z",
-      "title": "Trump to decide how long war will last, Hegseth says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/04eb6487a13528b06b8333c17afe4d68?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Fresh explosions rock Tehran as Israeli Prime Minister Benjamin Netanyahu vows to intensify air strikes. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-02/us-israel-airstrikes-in-iran-live-blog-day-three/106403432"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-02T15:33:42.805135"
+  "merged_at": "2026-03-02T16:33:29.210309"
 }
