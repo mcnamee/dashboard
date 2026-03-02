@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ddc1d9d0-023a-433c-9fc8-d3d1623c4370",
+      "published_datetime": "2026-03-02T08:26:30.416405",
+      "title": "AWS outage spreads to Bahrain as Gulf strikes continue",
+      "featured_image": {
+        "url": "https://in.mashable.com/tech/106513/amazons-cloud-service-aws-hit-with-iranian-missile-in-uae-heres-what-the-company-stated",
+        "name": "Amazon's Cloud Service AWS Hit With Iranian Missile In UAE ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--A9y1-HaM--/t_limit/https://sm.mashable.com/mashable_in/seo/default/00-aa-banner-1200-x-675-2026-02-25t225811234-1_5m39.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--4cJt7cXw--/t_thumbnail/https://sm.mashable.com/mashable_in/seo/default/00-aa-banner-1200-x-675-2026-02-25t225811234-1_5m39.jpg"
+      },
+      "description": "Amazon Web Services suffered a major disruption to its cloud infrastructure in the United Arab Emirates after unidentified objects struck one of its data centers on Sunday, sparking a fire that forced an extended power shutdown as Iranian retaliatory strikes battered the Gulf region.\n\nAWS confirmed on its status page that at approximately 4:30 a.m. PST on March 1, its Availability Zone mec1-az2 in the ME-CENTRAL-1 Region \"was impacted by objects that struck the data center, creating sparks and fire\". The fire department cut power to the entire facility, including backup generators, while crews worked to extinguish the blaze. The company did not confirm or deny whether the incident was connected to the Iranian strikes when asked by Reuters.[1][2][3][4][5]",
+      "audio_url": "",
+      "url": "aws-outage-spreads-to-bahrain-RPXbLtoiRD2YEKyDgfjFAA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-02T07:39:28.000000Z",
       "title": "'Grossly unfair': Grandad fights AI seatbelt fines after daughter penalised",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e4b6e1b0-5e36-4501-a5aa-9ab28200fae8",
-      "published_datetime": "2026-03-01T21:07:03.833190",
-      "title": "Major shipping firms halt Suez Canal transit after strikes on Iran",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/middle-east/maersk-completes-first-red-sea-voyage-nearly-two-years-2025-12-19/",
-        "name": "Maersk tests Red Sea route as Gaza ceasefire offers hope ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--LuJYF1fY--/t_limit/https://www.reuters.com/resizer/v2/DXV4JF5Y7JPVBOMQ53QZBIWAKE.jpg%3Fauth%3Dbe09a9ca74f0780d107e23c63863c57d55a24e4071328dc8a8bf2a01be9ff070%26width%3D1920%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--qKSyEENx--/t_thumbnail/https://www.reuters.com/resizer/v2/DXV4JF5Y7JPVBOMQ53QZBIWAKE.jpg%3Fauth%3Dbe09a9ca74f0780d107e23c63863c57d55a24e4071328dc8a8bf2a01be9ff070%26width%3D1920%26quality%3D80"
-      },
-      "description": "A.P. Moller-Maersk announced on Sunday that it will halt all sailings through the Bab el-Mandeb Strait and the Suez Canal, rerouting vessels around the Cape of Good Hope after U.S. and Israeli military strikes on Iran plunged the region's key maritime chokepoints into crisis. The decision reverses the Danish shipping giant's recent move to resume transit through the Red Sea corridor, which had been disrupted by Houthi rebel attacks since late 2023.[1][2]\n\n\"Due to the deteriorating security situation in the Middle East region following the escalating military conflict, we have decided to pause future Trans-Suez sailings through the Bab el-Mandeb Strait for the time being,\" Maersk said in a statement.[3][1]",
-      "audio_url": "",
-      "url": "major-shipping-firms-halt-suez-ZFcdyQI9TxycztvA60zxTw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-01T18:23:52.000000Z",
       "title": "War in Middle East could last a month, Trump says",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-02T09:38:49.744101"
+  "merged_at": "2026-03-02T09:58:47.276204"
 }
