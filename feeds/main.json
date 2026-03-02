@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/132a2203-03d6-40bd-b530-4cc90fe568f6",
+      "published_datetime": "2026-03-02T10:55:32.277352",
+      "title": "Satellite images show smoke over Dubai as Iran's Gulf strikes enter third day",
+      "featured_image": {
+        "url": "https://www.indiatoday.in/world/story/satellite-images-show-smoke-rising-over-dubai-after-iranian-drone-missile-strikes-2876339-2026-03-02",
+        "name": "Satellite images show smoke rising over Dubai after Iranian ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--M5YzuzWX--/t_limit/https://akm-img-a-in.tosshub.com/indiatoday/styles/medium_crop_simple/public/2026-03/dubai_2.jpg%3FVersionId%3DGcAFwajWsbxT49d3TdM0qoh4vSnJmjGw%26size%3D750:%2A",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Qc0ye1mr--/t_thumbnail/https://akm-img-a-in.tosshub.com/indiatoday/styles/medium_crop_simple/public/2026-03/dubai_2.jpg%3FVersionId%3DGcAFwajWsbxT49d3TdM0qoh4vSnJmjGw%26size%3D750:%2A"
+      },
+      "description": "Satellite imagery captured on March 1 has revealed thick plumes of black smoke rising over Dubai's skyline, offering stark visual evidence of the damage caused by Iran's ongoing retaliatory missile and drone attacks across the Persian Gulf region. The before-and-after images \u2014 comparing clear skies on February 24 with smoke columns and burn marks days later \u2014 underscore how quickly the conflict between the United States and Iran has reached the doorstep of the Gulf's most prominent commercial hub.[1][2]",
+      "audio_url": "",
+      "url": "satellite-images-show-smoke-ov-9LbC0tlwTZ..JCVUZaNpLQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ddc1d9d0-023a-433c-9fc8-d3d1623c4370",
       "published_datetime": "2026-03-02T08:26:30.416405",
       "title": "AWS outage spreads to Bahrain as Gulf strikes continue",
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fbf9aa8e-d5ca-480f-849d-170fbdcd55e0",
-      "published_datetime": "2026-03-01T22:43:13.963974",
-      "title": "Trump says Iran war could last four weeks as combat operations intensify",
-      "featured_image": {
-        "url": "https://www.bloomberg.com/news/articles/2026-03-01/trump-says-strikes-to-continue-in-iran-until-objectives-are-met",
-        "name": "Iran Strikes: Trump Says More US Casualties Likely as ...",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1772404798/url_uploads/-1x-1_lh0wb5.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1772404798/url_uploads/-1x-1_lh0wb5.jpg"
-      },
-      "description": "President Donald Trump declared on Sunday that U.S. military operations in Iran will continue \"in full force\" until all American objectives are met, as the joint U.S.-Israeli campaign entered its second day with mounting casualties on all sides and retaliatory strikes reverberating across the Middle East.[1][2]\n\nIn a video posted to Truth Social, Trump acknowledged the deaths of three American service members and warned that more losses are likely. \"Combat operations continue at this time in full force, and they will continue until all of our objectives are achieved,\" he said, pledging to \"avenge\" the fallen troops. In a phone interview with the Daily Mail, Trump offered the clearest timeline yet for the campaign, saying, \"It's always been a four-week process. We figured it will be four weeks or so. It's a big country. It'll take four weeks \u2014 or less\".[2][3][4][1]",
-      "audio_url": "",
-      "url": "trump-says-iran-war-could-last-ChFjqyqPSM.TAcf4FjodGA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-01T18:23:52.000000Z",
       "title": "War in Middle East could last a month, Trump says",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-02T11:27:09.943856"
+  "merged_at": "2026-03-02T12:36:55.493822"
 }
