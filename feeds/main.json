@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-02T13:02:52.000000Z",
+      "title": "Australia's gender pay gap has narrowed. See where your employer stands",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fa27c272f45058a905c6358622bd761a?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Is your employer among the largest or smallest gender pay gaps? More than 5.9 million workers from over 10,000 employers can now see the data for themselves.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-03/australia-gender-pay-gap-narrows-segregation-persists-wgea-finds/106370434"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4fd9d9c0-0411-44bf-8d25-b6f8133965e8",
+      "published_datetime": "2026-03-02T11:41:28.488310",
+      "title": "NOAA sees up to 60% chance El Nino forms later in 2026",
+      "featured_image": {
+        "url": "https://www.accuweather.com/en/weather-forecasts/el-nino-is-brewing-heres-what-it-means-for-us-weather-in-2026/1865308",
+        "name": "El Nino is brewing: Here's what it means for US weather in 2026",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--unOlwdRq--/t_limit/https://cms.accuweather.com/wp-content/uploads/2026/02/AP18005850792739.jpg%3Fw%3D768",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--d3tHf4zM--/t_thumbnail/https://cms.accuweather.com/wp-content/uploads/2026/02/AP18005850792739.jpg%3Fw%3D768"
+      },
+      "description": "The El Ni\u00f1o weather phenomenon could develop later this year, potentially pushing global temperatures to new record heights, according to the latest forecasts from U.S. and international climate agencies.\n\nNOAA's Climate Prediction Center estimates a 50 to 60 percent chance that El Ni\u00f1o will form during the July-to-September period and beyond. The World Meteorological Organization is expected to issue an update on El Ni\u00f1o on Tuesday.[1][2]",
+      "audio_url": "",
+      "url": "noaa-sees-up-to-60-chance-el-n-I9ZNeLBjQ5OsFL2HFxhOSg",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/132a2203-03d6-40bd-b530-4cc90fe568f6",
       "published_datetime": "2026-03-02T10:55:32.277352",
       "title": "Satellite images show smoke over Dubai as Iran's Gulf strikes enter third day",
@@ -71,15 +95,6 @@
       "audio_url": "",
       "url": "iran-s-top-security-chief-reje-yUU7DzNQSMufQrBjz3swag",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-03-02T06:08:08.000000Z",
-      "title": "Brisbane house prices hit new peak as national market growth continues",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b1be300c6893361611e7c8bd135a6de4?impolicy=wcms_crop_resize&amp;cropH=2213&amp;cropW=3935&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The average home in Brisbane is now worth $1,046,000 \u2014 an increase of 15.9 per cent since the same time last year, according to data from Proptrack.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-02/qld-home-prices-increase-proptrack-february/106405100"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/12b814af-e5ab-482b-b9c5-2b13fed2a572",
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1ff7b1fe-23e1-484c-a64f-ea985d991dca",
-      "published_datetime": "2026-03-01T23:19:13.314773",
-      "title": "Trump confirms three US troops killed as he warns more may follow",
-      "featured_image": {
-        "url": "https://www.wsj.com/livecoverage/iran-strikes-2026/card/trump-warns-more-u-s-casualties-are-possible-in-iran-operation-nKM5fV4woS2Idi4OswW7",
-        "name": "Trump Warns More U.S. Casualties Are Possible in Iran Operation",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1772406622/url_uploads/im-59010185_lg5i78.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1772406622/url_uploads/im-59010185_lg5i78.jpg"
-      },
-      "description": "President Donald Trump acknowledged Sunday that three American service members had been killed during the U.S.-Israeli military offensive against Iran and warned that more casualties were likely as combat operations continue. \"We have three casualties, but we expect more; ultimately, this will lead to a significant outcome for the world,\" Trump told NBC News.[1]\n\nThe deaths, announced by U.S. Central Command at 9:30 a.m. ET on March 1, mark the first confirmed American fatalities since the joint operation \u2014 dubbed Operation Epic Fury \u2014 began early Saturday. Five additional service members were seriously wounded, while several others sustained minor shrapnel injuries and concussions and were returning to duty, CENTCOM said in a post on X.[2][3][4]",
-      "audio_url": "",
-      "url": "trump-confirms-three-us-troops-bRIKWkhtSbGXuHNDJSlbng",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-01T18:23:52.000000Z",
       "title": "War in Middle East could last a month, Trump says",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-02T12:36:55.493822"
+  "merged_at": "2026-03-02T13:54:13.825054"
 }
