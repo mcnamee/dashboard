@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-03T07:08:28.000000Z",
+      "title": "Breaking: Jackie O quits, breakfast show taken off air after Sandilands tirade",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b3d18857b8d8d86cc813023c85f24c03?impolicy=wcms_crop_resize&amp;cropH=496&amp;cropW=881&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
+      },
+      "description": "In an ASX announcement, ARN Media said Henderson \"has given notice she cannot continue to work with Mr Sandilands\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-03/nsw-kyle-and-jackie-o-split-after-25-years-kiis-radio/106411512"
+    },
+    {
+      "published_datetime": "2026-03-03T06:17:21.000000Z",
+      "title": "The narrow strait of water putting oil prices and freight costs on the brink",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/07ddbeab6bd09de81c04fadb6f60421d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "Iran's threats to attack vessels in one of the most important shipping passages will strain global supply of oil and gas, experts say \u2014 and Australia will not be immune from the fallout.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-03/iran-threatens-ships-strait-of-hormuz-oil-gas-freight/106410242"
+    },
+    {
       "published_datetime": "2026-03-03T06:13:34.000000Z",
-      "title": "Breaking: Teen guilty of Instagram threat to kill Albanese, Minns",
+      "title": "Teen who threatened to \u2018assassinate\u2019 PM and Chris Minns says he did not mean it",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed9a870ac9d4b0300c9d2dabccb80785?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=271&amp;width=862&amp;height=485"
       },
@@ -10,8 +28,23 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-03/teenager-guilty-threatening-to-kill-albanese-minns-instagram/106353378"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d6ec361d-926f-4d7d-a926-e88450a46a36",
+      "published_datetime": "2026-03-03T06:11:09.643950",
+      "title": "China set to lower growth target as parliament opens",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/china/chinas-leaders-vow-support-economy-crackdown-disorderly-competition-2025-07-30/",
+        "name": "China's leaders vow support for economy, crackdown on ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--llXwBu26--/t_limit/https://www.reuters.com/resizer/v2/V3SJY67WAVJBBNGTZ4CRGOL5BE.jpg%3Fauth%3D094903fe8994492ed319307427cd0bdea3b1a4bd304c605d3ecbe99ea96bf082%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--3fhlKVfR--/t_thumbnail/https://www.reuters.com/resizer/v2/V3SJY67WAVJBBNGTZ4CRGOL5BE.jpg%3Fauth%3D094903fe8994492ed319307427cd0bdea3b1a4bd304c605d3ecbe99ea96bf082%26width%3D1920%26quality%3D80"
+      },
+      "description": "China is poised to trim its economic growth target for the first time in four years when Premier Li Qiang delivers the government work report at the opening of the National People's Congress on March 5. Most analysts expect Beijing to set a 2026 GDP growth target of 4.5% to 5%, a step down from the \"around 5%\" goal maintained over the past three years.[1][2][3][4]",
+      "audio_url": "",
+      "url": "china-set-to-lower-growth-targ-uI6iiUO7TT.j4GZ211ctDQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-03T05:59:11.000000Z",
-      "title": "Aussies stranded in Middle East describe moment missiles struck",
+      "title": "Why the Middle East travel chaos could continue for much longer",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/faedf42ccac7d8d5b77cbd53cb6a617f?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -58,6 +91,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-03-03T04:36:10.000000Z",
+      "title": "Police wrongly granted bail to Kelly Wilkinson's murderer days before her death, inquest hears",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b88695a9bef7bd076373bd7180279ac4?impolicy=wcms_crop_resize&amp;cropH=498&amp;cropW=886&amp;xPos=0&amp;yPos=47&amp;width=862&amp;height=485"
+      },
+      "description": "Queensland Police wrongly granted bail to a man charged with the rape of his estranged wife nine days before he brutally murdered her in 2021, a coronial inquest has heard.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-03/kelly-wilkinson-inquest-probe-police-response-dv-murder/106404676"
+    },
+    {
       "published_datetime": "2026-03-03T04:03:04.000000Z",
       "title": "Israel's ambassador to Australia seeks to discredit UN",
       "featured_image": {
@@ -65,15 +107,6 @@
       },
       "description": "Israel's new ambassador to Australia seeks to discredit the United Nations by claiming the country \"can't take them seriously\".",
       "page_content_url": "https://www.abc.net.au/news/2026-03-03/israel-ambassador-discredits-united-nations-over-iran-strikes/106409814"
-    },
-    {
-      "published_datetime": "2026-03-03T01:23:14.000000Z",
-      "title": "Armed man shot dead by police in Sydney after two women assaulted",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b2e7e048ec377ad54eed97ec00cfafba?impolicy=wcms_crop_resize&amp;cropH=1447&amp;cropW=2573&amp;xPos=0&amp;yPos=134&amp;width=862&amp;height=485"
-      },
-      "description": "Police were called to a unit in inner Sydney after an armed man entered the building and assaulted two women.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-03/potts-point-police-shooting-sydney/106409596"
     },
     {
       "published_datetime": "2026-03-03T01:20:57.000000Z",
@@ -190,39 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d048139e-880b-4062-88ed-24da01e3d9a9",
-      "published_datetime": "2026-03-02T23:14:58.459484",
-      "title": "Six US troops killed in Iranian strike on Kuwait base",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2026/3/1/at-least-three-us-service-members-killed-during-iran-operation-centcom",
-        "name": "At least three US service members killed during Iran ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--2jRbZcZ_--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-01T162010Z_964351601_RC2SVJAVOZ26_RTRMADP_3_IRAN-CRISIS-1772382154.jpg%3Fresize%3D770%252C513%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ZY7v5r2a--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-01T162010Z_964351601_RC2SVJAVOZ26_RTRMADP_3_IRAN-CRISIS-1772382154.jpg%3Fresize%3D770%252C513%26quality%3D80"
-      },
-      "description": "An Iranian strike on a makeshift military operations center at a civilian port in Kuwait has killed six American service members, marking the first US casualties since the start of Operation Epic Fury against Iran on Saturday.\n\nThe death toll climbed throughout the day Monday as military teams worked to recover remains from the burning facility. US Central Command initially reported three service members killed in action on Sunday, then confirmed a fourth had succumbed to injuries early Monday morning. By Monday afternoon, CENTCOM announced the recovery of two additional service members' remains from the struck facility, bringing the total to six killed.[1][2][3][4]",
-      "audio_url": "",
-      "url": "six-us-troops-killed-in-irania-QsNpn9uBRWS8uUjHoKy_og",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-03-02T20:11:37.000000Z",
-      "title": "Live: Treasurer asks ACCC to monitor fuel prices amid Middle East conflict",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d7b94b35256c5079b19e43643a7a245f?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Treasurer Jim Chalmers has written to the Australian Competition and Consumer Commission asking it to monitor fuel prices amid the unrest in the Middle East. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-03/federal-politics-live-blog-march-3/106406902"
-    },
-    {
-      "published_datetime": "2026-03-02T19:08:27.000000Z",
-      "title": "Iran spent years building missile and drone power \u2014 it is now on display",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/499f7893e1e137796504867680b1c3d3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Several countries across the Middle East have been struck by Iranian missiles and drones in its retaliatory attacks, but analysts say Tehran's response so far was \"limited\".\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-03/iran-ballistic-missiles-suicide-drone-strikes-us-israel/106404180"
-    },
-    {
       "published_datetime": "2026-03-02T18:50:56.000000Z",
       "title": "A town in the Swiss Alps stood for 800 years. In an instant it was wiped out",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-03T06:39:13.324230"
+  "merged_at": "2026-03-03T07:36:47.446570"
 }
