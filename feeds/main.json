@@ -2,7 +2,7 @@
   "items": [
     {
       "published_datetime": "2026-03-03T07:08:28.000000Z",
-      "title": "Breaking: Jackie O quits, breakfast show taken off air after Sandilands tirade",
+      "title": "Hit radio show taken off air as Jackie O quits over Sandilands tirade",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b3d18857b8d8d86cc813023c85f24c03?impolicy=wcms_crop_resize&amp;cropH=496&amp;cropW=881&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
       },
@@ -98,6 +98,15 @@
       },
       "description": "Queensland Police wrongly granted bail to a man charged with the rape of his estranged wife nine days before he brutally murdered her in 2021, a coronial inquest has heard.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-03/kelly-wilkinson-inquest-probe-police-response-dv-murder/106404676"
+    },
+    {
+      "published_datetime": "2026-03-03T04:08:07.000000Z",
+      "title": "Tina Arena was Unstoppable, until she wasn't",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef058fcb2faf0df2d77f944d81a20c18?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=795&amp;width=862&amp;height=485"
+      },
+      "description": "Music artists Tina Arena and Ngaiire have reimagined Sia's Unstoppable while opening up about how life-saving donated blood brought them back from the brink of serious illness.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-03/tina-arena-and-ngaiire-share-blood-donors-help-save-lives/106409448"
     },
     {
       "published_datetime": "2026-03-03T04:03:04.000000Z",
@@ -223,15 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-02T18:50:56.000000Z",
-      "title": "A town in the Swiss Alps stood for 800 years. In an instant it was wiped out",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18a109d69a6fa8ced679144b8a1cb8d9?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The Swiss Alps are a natural wonder and a key part of the national identity, but life in the mountains is under threat from climate change.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-03/climate-change-in-swiss-alps-thawing-permafrost/106385694"
-    },
-    {
       "published_datetime": "2026-03-02T16:18:43.000000Z",
       "title": "Live: Middle East war leads to biggest consular operation in Australian history, Wong says",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-03T07:36:47.446570"
+  "merged_at": "2026-03-03T08:30:31.926072"
 }
