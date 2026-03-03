@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-03T19:32:46.000000Z",
+      "title": "What you need to know about Iran today, with Laura Tingle",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1737b44f9a16c836e2d673c99d174db?impolicy=wcms_crop_resize&amp;cropH=233&amp;cropW=415&amp;xPos=0&amp;yPos=91&amp;width=862&amp;height=485"
+      },
+      "description": "The ABC's global affairs editor, Laura Tingle, is in Dubai and will bring daily updates from the Middle East war.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-04/iran-us-israel-what-you-need-to-know-laura-tingle/106410846"
+    },
+    {
       "published_datetime": "2026-03-03T19:24:45.000000Z",
       "title": "Trump's Operation Epic Fury could turn out to be an epic failure",
       "featured_image": {
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-03-03T18:49:20.000000Z",
-      "title": "Digital price tags are coming and could change how much groceries cost",
+      "title": "Dynamic pricing could be coming to your local supermarket",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d9f0753fdabb181d36188a852ff287a0?impolicy=wcms_crop_resize&amp;cropH=1728&amp;cropW=3072&amp;xPos=0&amp;yPos=1197&amp;width=862&amp;height=485"
       },
@@ -20,7 +29,7 @@
     },
     {
       "published_datetime": "2026-03-03T18:48:14.000000Z",
-      "title": "We are losing the stars, night by night, light by light",
+      "title": "We are losing stars one streetlight, one neon sign, one suburb at a time",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3821318e48fa1ea6a9c8547c22c26b71?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -29,7 +38,7 @@
     },
     {
       "published_datetime": "2026-03-03T18:44:24.000000Z",
-      "title": "New court ruling could have big implications for future NDIS plans",
+      "title": "NDIS loses case with 'extremely significant' implications for plans",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/01e152982d3b947a3002c2e231fb2c15?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=43&amp;width=862&amp;height=485"
       },
@@ -103,7 +112,7 @@
       "published_datetime": "2026-03-03T16:17:44.000000Z",
       "title": "Live: Trump says 'just about everything' in Iran 'knocked out' as war continues",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/04eb6487a13528b06b8333c17afe4d68?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8e5abb5788acb792175120fbee3e0a2?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=408&amp;width=862&amp;height=485"
       },
       "description": "The United States and Israel are continuing to launch strikes at Iran as Tehran becomes increasingly isolated after attacking neighbouring countries. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/middle-east-war-iran-us-israel-lebanon-live-updates/106410862"
@@ -232,15 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-03/marty-gruszka-family-fled-doha-airport-missiles-rained-down/106411050"
     },
     {
-      "published_datetime": "2026-03-03T05:59:11.000000Z",
-      "title": "Why the Middle East travel chaos could continue for much longer",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/faedf42ccac7d8d5b77cbd53cb6a617f?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Aussie travellers trapped in the Middle East recount missile strikes and late-night evacuations as thousands remain stranded with no end in sight.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-03/iran-airstrikes-middle-east-war-aussie-travellers-trapped/106408862"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-03T19:34:05.943123"
+  "merged_at": "2026-03-03T20:23:59.081372"
 }
