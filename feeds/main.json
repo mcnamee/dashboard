@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-03T10:10:26.000000Z",
+      "title": "Breaking: Global stock markets tumble as Middle East war ignites inflation fears",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b39c9ff9e4aad6d939f9b3859d5ada6?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "It follows a surge in the price of oil as Europe woke up to news the Strait of Hormuz had been closed to shipping.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-03/global-stock-markets-tumble-middle-east-war/106412262"
+    },
+    {
+      "published_datetime": "2026-03-03T09:13:31.000000Z",
+      "title": "Key moments from the Clintons' Epstein testimonies",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1d440d356d31274f0c9eede5ca543212?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "More than nine hours of footage of Bill and Hillary Clinton's depositions on their alleged ties to Jeffrey Epstein have been released. Here are the key takeaways.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-03/key-moments-from-the-clintons-testimony-to-congress/106411242"
+    },
+    {
       "published_datetime": "2026-03-03T08:38:51.000000Z",
       "title": "Australian family stuck in Doha say it is far too unsafe to fly",
       "featured_image": {
@@ -8,15 +26,6 @@
       },
       "description": "Marty and his family were on their way to Rome for a European vacation when they were evacuated off a Qatar Airways plane as missiles flew above.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-03/marty-gruszka-family-fled-doha-airport-missiles-rained-down/106411050"
-    },
-    {
-      "published_datetime": "2026-03-03T08:28:43.000000Z",
-      "title": "Restaurant fined $40k after children served citronella instead of cranberry juice",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/52df06b7ad8f0af3d3eb827f2f314952?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=445&amp;width=862&amp;height=485"
-      },
-      "description": "The former owner of a Perth restaurant is fined after a pair of sisters were served insect repellent instead of the juice they had ordered.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-03/perth-restaurant-fined-40000-after-children-served-citronella/106411928"
     },
     {
       "published_datetime": "2026-03-03T07:08:28.000000Z",
@@ -116,15 +125,6 @@
       },
       "description": "Music artists Tina Arena and Ngaiire have reimagined Sia's Unstoppable while opening up about how life-saving donated blood brought them back from the brink of serious illness.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-03/tina-arena-and-ngaiire-share-blood-donors-help-save-lives/106409448"
-    },
-    {
-      "published_datetime": "2026-03-03T01:20:57.000000Z",
-      "title": "Satellite images show destruction at huge oil refinery, Iranian nuclear facility",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cf9142b5a3fdbbadd7374afd24ec8bb1?impolicy=wcms_crop_resize&amp;cropH=982&amp;cropW=1746&amp;xPos=95&amp;yPos=128&amp;width=862&amp;height=485"
-      },
-      "description": "Newly released satellite imagery shows the aftermath of an Iranian drone attack targeting one of the world's largest oil refineries.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-03/satellite-images-destruction-at-oil-refinery-iran-nuclear-base/106408822"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/22a45f40-3ff8-42e5-871f-ada2e30b611c",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-03T09:32:56.223275"
+  "merged_at": "2026-03-03T10:30:30.984543"
 }
