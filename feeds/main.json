@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-03T16:17:44.000000Z",
+      "title": "Live: Netantyahu vows US and Israel will keep striking Iran 'with force'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/04eb6487a13528b06b8333c17afe4d68?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The United States and Israel are continuing to launch strikes at Iran as Tehran becomes increasingly isolated after attacking neighbouring countries. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-04/middle-east-war-iran-us-israel-lebanon-live-updates/106410862"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bcff0602-c4b5-42a6-9bf2-68962e2f1607",
       "published_datetime": "2026-03-03T15:11:45.240150",
       "title": "Hardy bacterium survives Mars-like asteroid blast in lab",
@@ -232,15 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-03/inside-liberal-2025-election-review/106410316"
     },
     {
-      "published_datetime": "2026-03-02T16:18:43.000000Z",
-      "title": "Live: US warns of missile threat in Saudi Arabia, Trump tells Iran it's 'too late' to negotiate",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/04eb6487a13528b06b8333c17afe4d68?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The United States and Israel are continuing to launch strikes at Iran as Tehran becomes increasingly isolated after attacking neighbouring countries. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-03/us-israel-attacks-iran-live-updates-middle-east-war-airstrikes/106407178"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-03T15:53:45.256357"
+  "merged_at": "2026-03-03T16:36:41.847666"
 }
