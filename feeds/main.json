@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-04T07:50:55.000000Z",
+      "title": "Grant cancelled for Islamic community group amid 'social cohesion concerns'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/288b583f166a4d735f1f0e19135a5149?impolicy=wcms_crop_resize&amp;cropH=5346&amp;cropW=9504&amp;xPos=0&amp;yPos=495&amp;width=862&amp;height=485"
+      },
+      "description": "The federal government has cancelled a grant for an Islamic community association in Melbourne citing \"social cohesion concerns\" after claims surfaced the group was mourning the death of Iran's supreme leader Ayatollah Ali Khamenei.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-04/islamic-community-group-taha-humanity-association-grant-cancel/106416308"
+    },
+    {
       "published_datetime": "2026-03-04T06:39:26.000000Z",
-      "title": "Iran brings exploding drone boats into war in attack on oil tanker",
+      "title": "Iran uses kamikaze drone boats for first time in Middle East war",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cc579994babea150a9a64aff3c569e34?impolicy=wcms_crop_resize&amp;cropH=1974&amp;cropW=3510&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
       },
@@ -29,7 +38,7 @@
     },
     {
       "published_datetime": "2026-03-04T05:45:02.000000Z",
-      "title": "How airlines determine if it is safe to fly from conflict zones",
+      "title": "First flight has left Dubai for Sydney. How do airlines determine it is safe?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bd2f23c0c3845bac02fa0109ff44263c?impolicy=wcms_crop_resize&amp;cropH=1533&amp;cropW=2721&amp;xPos=0&amp;yPos=289&amp;width=862&amp;height=485"
       },
@@ -56,7 +65,7 @@
     },
     {
       "published_datetime": "2026-03-04T03:56:10.000000Z",
-      "title": "Stuck between a stone and a hard place': The Iran dilemma facing the Gulf",
+      "title": "By striking Gulf states Iran is hitting one of Trump's vulnerabilities",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98270cf8ffbb8fd5b456c76d8cc01dc5?impolicy=wcms_crop_resize&amp;cropH=1255&amp;cropW=2231&amp;xPos=0&amp;yPos=528&amp;width=862&amp;height=485"
       },
@@ -161,15 +170,6 @@
       "audio_url": "",
       "url": "iran-warns-advanced-weapons-no-UfagHzW3R9Oms8xmgpPsfQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-03-04T00:26:13.000000Z",
-      "title": "Marine traffic 'down to zero' due to Middle East conflict",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/88d3a810196f28174d3c34db951d35bb?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Strait of Hormuz normally has 50 ships moving over 100 metres, but today there are virtually zero.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-04/marine-traffic-data-shows-no-oil-tankers-strait-of-hormuz/106413082"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7778e22d-a169-4d23-8c1b-de247bbcdb96",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-04T07:32:45.314986"
+  "merged_at": "2026-03-04T08:29:14.756909"
 }
