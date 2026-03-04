@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-04T16:14:52.000000Z",
+      "title": "More than 80 Iranian sailors dead after US strike on warship in Indian Ocean",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/244120764a7a8065a8a378876698598e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=195&amp;width=862&amp;height=485"
+      },
+      "description": "US Defense Secretary Pete Hegseth confirmed American forces targeted the vessel near Sri Lanka, as Israel launched fresh strikes on Iran.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-05/us-israel-attacks-iran-live-updates-middle-east-war/106416770"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cb620566-107e-4037-a041-396d5cd649a3",
       "published_datetime": "2026-03-04T15:38:43.044404",
       "title": "US sinks Iranian warship as strikes expand inland",
@@ -232,15 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/iran-hitting-trump-via-gulf-states-after-us-israel-strikes/106412880"
     },
     {
-      "published_datetime": "2026-03-03T16:17:44.000000Z",
-      "title": "Nearly 150 missing as Iranian ship sinks, first repatriation flight lands in Sydney",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0d01adf8967c03d010c963e1a5058b3a?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Several people dead and nearly 150 missing after Iranian warship sinks off Sri Lanka. The sinking comes as the first repatriation flight from Dubai lands in Sydney.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-04/middle-east-war-iran-us-israel-lebanon-live-updates-/106410862"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-04T15:51:33.713134"
+  "merged_at": "2026-03-04T16:32:42.176634"
 }
