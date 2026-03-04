@@ -1,8 +1,86 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-04T00:50:17.000000Z",
+      "title": "Breaking: Australia's economy growing at fastest rate in almost three years",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6801b5d7a0e9e521a27cad1dfe91570e?impolicy=wcms_crop_resize&amp;cropH=1680&amp;cropW=2983&amp;xPos=17&amp;yPos=120&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's economy is growing at annual rate of 2.6 per cent, which is much stronger than forecast.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-04/december-quarter-gdp-2025-australia-economy-growing-fast/106413398"
+    },
+    {
+      "published_datetime": "2026-03-04T00:26:13.000000Z",
+      "title": "Marine traffic 'down to zero' due to Middle East conflict",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/88d3a810196f28174d3c34db951d35bb?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The Strait of Hormuz normally has 50 ships moving over 100 metres, but today there are virtually zero.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-04/marine-traffic-data-shows-no-oil-tankers-strait-of-hormuz/106413082"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/594ccab0-242e-4d87-968f-d47c5512c936",
+      "published_datetime": "2026-03-03T21:59:52.667697",
+      "title": "Iran's Assembly of Experts elects Mojtaba Khamenei as next supreme leader",
+      "featured_image": {
+        "url": "https://www.ncr-iran.org/en/iranian-regime-infighting/son-of-iranian-regimes-supreme-leader-suspends-religious-classes-amid-growing-speculation-about-succession/",
+        "name": "Son of Iranian Regime's Supreme Leader Suspends Religious ...",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1772574854/url_uploads/iran-mojtaba-khamenei_fejtyu.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1772574854/url_uploads/iran-mojtaba-khamenei_fejtyu.jpg"
+      },
+      "description": "Iran's Assembly of Experts has elected Mojtaba Khamenei, the son of slain Supreme Leader Ayatollah Ali Khamenei, as the next leader of the Islamic Republic under pressure from the Revolutionary Guards, according to Iran International, citing informed sources. The reported selection, which has not been officially confirmed by Iranian state media, came even as Israeli airstrikes struck the very building where the clerical body had gathered to count votes in the holy city of Qom.[1][2][3]\n\nThe unconfirmed appointment would mark a dramatic and controversial hereditary transfer of power in a republic whose theocratic system has never before passed the supreme leadership from father to son.",
+      "audio_url": "",
+      "url": "iran-s-assembly-of-experts-ele-GBo38MpsRRCrmUYo_PIHTg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/36cf5668-e259-49a4-91ce-ef6e8e6e7d20",
+      "published_datetime": "2026-03-03T21:52:04.861211",
+      "title": "Iran threatens to attack any ship in Strait of Hormuz as Asia scrambles for energy",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/03/03/middle-east-crisis-iran-us-shipping-oil-tankers-strait-of-hormuz.html",
+        "name": "Oil supertanker rates hit all-time high as insurers drop war risk protection in the Middle East",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--T7V7CO3U--/t_limit/https://image.cnbcfm.com/api/v1/image/108272570-1772533184255-gettyimages-2214396938-cfoto-imported250514_npoUN.jpeg%3Fv%3D1772533205%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--qMsq4Mrb--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108272570-1772533184255-gettyimages-2214396938-cfoto-imported250514_npoUN.jpeg%3Fv%3D1772533205%26w%3D1920%26h%3D1080"
+      },
+      "description": "Asian governments and energy companies are racing to secure alternative oil and gas supplies as the effective closure of the Strait of Hormuz following U.S. and Israeli military strikes on Iran threatens to choke off the region's most critical energy artery. With Iranian Revolutionary Guard Corps officials declaring the strait \"closed\" and warning that any vessel attempting to pass would be attacked, the world's most oil-dependent economies face their most serious supply disruption in decades.[1]\n\nThe strait, a narrow passage between Iran and Oman, typically carries roughly 20% of the world's oil and liquefied natural gas. An estimated 84% of crude oil and 83% of LNG transiting the waterway is destined for Asian markets, with China, India, Japan, and South Korea accounting for an estimated 69% of oil and 59% of LNG flows.[2][3]",
+      "audio_url": "",
+      "url": "iran-threatens-to-attack-any-s-dx0usnEASMuk8JG2r8vIxw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f3818158-7e77-4d68-bd6d-b28d90bf24c7",
+      "published_datetime": "2026-03-03T21:45:50.795214",
+      "title": "Syria deploys thousands of troops to Lebanon border",
+      "featured_image": {
+        "url": "https://www.reuters.com/business/aerospace-defense/syria-sends-thousands-troops-lebanon-border-sources-say-2026-03-03/",
+        "name": "Syria sends thousands of troops to Lebanon border, sources ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--q3etaEUL--/t_limit/https://www.reuters.com/resizer/v2/TW6FCSQYRVKQBKGVCFTQ7E4FPA.jpg%3Fauth%3De801cde460522043b297b56507792ec378d347fc3f38c8fa3d3c5aca6b2d4b7f%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--3jzQl17K--/t_thumbnail/https://www.reuters.com/resizer/v2/TW6FCSQYRVKQBKGVCFTQ7E4FPA.jpg%3Fauth%3De801cde460522043b297b56507792ec378d347fc3f38c8fa3d3c5aca6b2d4b7f%26width%3D1920%26quality%3D80"
+      },
+      "description": "Syria has reinforced its border with Lebanon by deploying thousands of soldiers, rocket units, and armored vehicles, according to a Reuters report citing eight Syrian and Lebanese sources. The buildup began in February but accelerated in recent days as hostilities between Israel and Hezbollah intensified across the region.[1]",
+      "audio_url": "",
+      "url": "syria-deploys-thousands-of-tro-wUT3WvxFS5iCoweTXdV2Lg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/716961df-5155-48b1-8cbf-cfc63898b219",
+      "published_datetime": "2026-03-03T21:31:07.656068",
+      "title": "Top U.S. general details timeline of Iran strikes",
+      "featured_image": {
+        "url": "https://www.stripes.com/theaters/us/2025-04-11/joint-chiefs-chairman-caine-senate-trump-17438724.html",
+        "name": "Senate confirms Air Force veteran Dan Caine as Joint Chiefs ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--nt6ZMPDf--/t_limit/https://www.stripes.com/incoming/1fic8c-20250401_john_caine_0290.jpg/alternates/LANDSCAPE_910/20250401_John_Caine_0290.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--sP4neYko--/t_thumbnail/https://www.stripes.com/incoming/1fic8c-20250401_john_caine_0290.jpg/alternates/LANDSCAPE_910/20250401_John_Caine_0290.jpg"
+      },
+      "description": "The United States and Israel launched a massive coordinated military assault against Iran on February 28, 2026, killing Supreme Leader Ayatollah Ali Khamenei and dozens of senior officials in an operation that has plunged the Middle East into its most serious conflict in decades. Now entering its fourth day, the war has drawn in Gulf Arab states through Iranian retaliatory strikes and sparked fierce international debate over its legality and endgame.",
+      "audio_url": "",
+      "url": "top-u-s-general-details-timeli-fss9nYF3RqGzjpQoY8s20A",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-03T21:19:21.000000Z",
-      "title": "Australian schoolgirl killed in snowmobile accident in Japan",
+      "title": "Schoolgirl becomes fourth Australian to die on Japan holiday this year",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f52cfc9994d66bdee4976da5c1f0dc29?impolicy=wcms_crop_resize&amp;cropH=534&amp;cropW=950&amp;xPos=0&amp;yPos=23&amp;width=862&amp;height=485"
       },
@@ -11,12 +89,87 @@
     },
     {
       "published_datetime": "2026-03-03T21:07:46.000000Z",
-      "title": "Trump says 'just about everything's been knocked out' in Iran",
+      "title": "Drones force US to close Gulf embassies as Trump rebukes Starmer",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6f144d642c28ea90f9be6d664cceeb4d?impolicy=wcms_crop_resize&amp;cropH=1996&amp;cropW=3549&amp;xPos=0&amp;yPos=185&amp;width=862&amp;height=485"
       },
       "description": "The US president says Iran's navy, air force and air detection systems have been \"knocked out\", as Israeli and US forces keep pounding targets across the country.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/donald-trump-says-everything-knocked-out-in-iran-strikes/106412642"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8ab40a2e-60b6-4ca7-b6a8-4cfbc2912d19",
+      "published_datetime": "2026-03-03T21:07:20.306594",
+      "title": "Afreximbank raises Caribbean financing cap to $5B",
+      "featured_image": {
+        "url": "https://en.amwalalghad.com/afreximbank-to-establish-its-largest-headquarters-at-egypts-nac/",
+        "name": "Afreximbank to establish its largest HQ at Egypt's new ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Q8c1-tJJ--/t_limit/https://en.amwalalghad.com/wp-content/uploads/2018/05/Afreximbank-5.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--S3dfv6cD--/t_thumbnail/https://en.amwalalghad.com/wp-content/uploads/2018/05/Afreximbank-5.jpg"
+      },
+      "description": "The African Export-Import Bank (Afreximbank) has increased its financing ceiling for the Caribbean Community (CARICOM) from $3 billion to $5 billion, marking the latest expansion of economic ties between Africa and the Caribbean diaspora.",
+      "audio_url": "",
+      "url": "afreximbank-raises-caribbean-f-kMdzO7KDSM.nAQj1o8dYHw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/399e4813-0af5-47e9-b1c2-3600907112cc",
+      "published_datetime": "2026-03-03T21:05:35.336012",
+      "title": "Sudan accuses Ethiopia of drone attacks in its civil war",
+      "featured_image": {
+        "url": "https://aapnews.aap.com.au/news/sudan-implicates-ethiopia-in-its-civil-war",
+        "name": "Sudan implicates Ethiopia in its civil war",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ocf05qfg--/t_limit/https://aapnews.imgdeliver.net/article-assets/20260304050352/e51a88bc-caf2-403a-a978-980829d755f0.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--QAJrqWTG--/t_thumbnail/https://aapnews.imgdeliver.net/article-assets/20260304050352/e51a88bc-caf2-403a-a978-980829d755f0.jpg"
+      },
+      "description": "Sudan's army-backed government has formally accused Ethiopia of allowing drones to be launched from its territory to strike targets inside Sudan, marking the first time Khartoum has directly implicated its neighbor in the nearly three-year-old civil war.[1][2]\n\nIn a statement issued Monday, March 2, the Sudanese Foreign Ministry said the government had been \"monitoring, throughout February and into early March, the ongoing unauthorized entry of unmanned aircraft (drones) from inside Ethiopian territory into Sudanese airspace, targeting locations within Sudan\". The ministry described the incursions as \"a flagrant violation of Sudan's sovereignty and a clear act of aggression against the Sudanese state\".[3][4][1]\n\nThe statement did not specify who carried out the attacks, how many occurred, or which locations were hit. However, according to Reuters, the southeastern Blue Nile state, which borders Ethiopia, has seen small skirmishes and drone attacks in recent weeks. Parts of Blue Nile are controlled by the SPLM-N rebel group, which aligned with the paramilitary Rapid Support Forces last year.[5][1]",
+      "audio_url": "",
+      "url": "sudan-accuses-ethiopia-of-dron-H92U8GKET12yE_tbxn.lSQ",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6ee95f64-d4fe-4b7a-8e86-b770865fb56f",
+      "published_datetime": "2026-03-03T20:56:59.264752",
+      "title": "Israel says it destroyed secret Iranian nuclear site near Tehran",
+      "featured_image": {
+        "url": "https://www.timesofisrael.com/israel-targeted-secret-nuclear-weapons-research-in-iran-strikes-last-month-report/",
+        "name": "Israel hit nuke weapons research site in Iran last month ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--c3QhJ5Q0--/t_limit/https://static-cdn.toi-media.com/www/uploads/2024/10/AP24301362276279-1.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--nFqGCEJ0--/t_thumbnail/https://static-cdn.toi-media.com/www/uploads/2024/10/AP24301362276279-1.jpg"
+      },
+      "description": "The Israeli military announced on Tuesday that its air force destroyed a secret Iranian nuclear weapons development facility on the outskirts of Tehran, marking the first public acknowledgment that Iran had begun rebuilding weapons capabilities dismantled during last year's 12-day war.\n\nIDF Chief Spokesman Brig. Gen. Effie Defrin identified the partially underground facility as \"Min Zadai,\" located on the northeast outskirts of the Iranian capital. According to the IDF, a group of nuclear scientists had been \"working secretly to develop capabilities required for nuclear weapons\" at the compound. Israeli intelligence tracked the scientists as they attempted to travel to the site clandestinely, ultimately revealing the nature of the work being conducted there.[1][2][3]",
+      "audio_url": "",
+      "url": "israel-says-it-destroyed-secre-lFbk85ZARRq.2O3f2KXpvw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b9495374-1ba4-417f-8862-a245f56323db",
+      "published_datetime": "2026-03-03T20:55:15.249426",
+      "title": "Macron orders evacuations, deploys forces as Iran conflict strands hundreds of thousands",
+      "featured_image": {
+        "url": "https://www.rfi.fr/en/france/20250620-macron-says-european-powers-to-offer-iran-a-diplomatic-exit-from-war-with-israel",
+        "name": "Macron says European powers to offer Iran a diplomatic exit ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--VqOsoH2O--/t_limit/https://s.rfi.fr/media/display/7b179c6e-4dc8-11f0-8346-005056bf30b7/w:1024/p:16x9/AP25171346665879.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--M78XdoZ9--/t_thumbnail/https://s.rfi.fr/media/display/7b179c6e-4dc8-11f0-8346-005056bf30b7/w:1024/p:16x9/AP25171346665879.jpg"
+      },
+      "description": "Governments across Europe scrambled on Tuesday to repatriate hundreds of thousands of their citizens stranded in the Middle East, as widespread airspace closures triggered by the US-Israeli military campaign against Iran left travelers and residents unable to return home.",
+      "audio_url": "",
+      "url": "macron-orders-evacuations-depl-ri14Jq8OQLWsxdtqsnyvJg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c7495b06-4d0f-4064-bc72-962b0c0d1d53",
+      "published_datetime": "2026-03-03T20:44:29.134116",
+      "title": "Iranian drone strikes US Consulate in Dubai as war widens across Gulf",
+      "featured_image": {
+        "url": "https://www.pbs.org/newshour/world/iranian-drones-strike-u-s-embassy-in-saudi-arabia-as-war-widens",
+        "name": "Iranian drones strike U.S. Embassy in Saudi Arabia as war ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--SCDjyBgE--/t_limit/https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2026-03-03T105844Z_1038818275_RC2YWJAQLARB_RTRMADP_3_IRAN-CRISIS-1024x683.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--R42Xkc8w--/t_thumbnail/https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2026-03-03T105844Z_1038818275_RC2YWJAQLARB_RTRMADP_3_IRAN-CRISIS-1024x683.jpg"
+      },
+      "description": "A drone struck the parking area of the US Consulate in Dubai late Tuesday, igniting a fire that was quickly extinguished by emergency teams, as Iran's retaliatory campaign against American interests across the Gulf expanded into its fourth day following the killing of Supreme Leader Ayatollah Ali Khamenei.\n\nNo casualties were reported, according to both a US official and Dubai's government media office. Videos geolocated to the consulate showed dark smoke rising from near the compound. The attack came as Iran continued to unleash projectiles on the United Arab Emirates and other Gulf states in retaliation for the US-Israeli military operation that began February 28.[1][2][3]",
+      "audio_url": "",
+      "url": "iranian-drone-strikes-us-consu-LGasKdNZRemwQF5Yq_zGcg",
+      "partition_name": "partition1"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9112cb20-0fd4-400b-9f55-f1204f547b3f",
@@ -35,33 +188,18 @@
     },
     {
       "published_datetime": "2026-03-03T20:14:00.000000Z",
-      "title": "Live: First flight from Dubai to Sydney departs",
+      "title": "Live: Taylor wants to end 'apology tour' after Liberal election review leaks",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c0007c090402305aa0c85638074185c?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/651be2c75a2850cc8d024433c6185651?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The first flight from Dubai to Sydney has departed the UAE after the conflict in the Middle East halted air travel. Follow live.\u00a0",
+      "description": "The opposition leader wants the party to move on from its \"apology tour\" after a review into the Liberal election loss was leaked. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/federal-politics-live-blog-albanese-iran-wong/106411680"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4a49bee9-77a4-4ead-9139-42794d3d4cf9",
-      "published_datetime": "2026-03-03T20:11:26.532539",
-      "title": "Ukraine refuses EU requests to inspect damaged Druzhba pipeline",
-      "featured_image": {
-        "url": "https://www.yahoo.com/news/articles/eu-welcome-ukraine-repairing-druzhba-141131917.html",
-        "name": "EU 'would welcome' Ukraine repairing Druzhba pipeline to ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--S_fUxxbp--/t_limit/https://s.yimg.com/ny/api/res/1.2/0wygHLFeA2atAeqd.njQLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg7Y2Y9d2VicA--/https://media.zenfs.com/en/kyiv_independent_articles_496/9498e77d73838a9b802487a279cb1445",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--KGVjkX_h--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/0wygHLFeA2atAeqd.njQLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg7Y2Y9d2VicA--/https://media.zenfs.com/en/kyiv_independent_articles_496/9498e77d73838a9b802487a279cb1445"
-      },
-      "description": "The European Union is stepping up pressure on Ukraine to permit independent inspection of the Druzhba oil pipeline, which has been out of service since a Russian strike on January 27 disrupted the flow of crude to Hungary and Slovakia. Kyiv has repeatedly refused access requests on security grounds, fueling a dispute that has stalled a \u20ac90 billion EU aid package for Ukraine.",
-      "audio_url": "",
-      "url": "ukraine-refuses-eu-requests-to-brN2BK.oQNKJou0AOgpCbg",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-03-03T19:32:46.000000Z",
       "title": "What you need to know about Iran today, with Laura Tingle",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1737b44f9a16c836e2d673c99d174db?impolicy=wcms_crop_resize&amp;cropH=179&amp;cropW=318&amp;xPos=51&amp;yPos=93&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b8bd02762b42d4b6e36ddd36512086f?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
       },
       "description": "The ABC's global affairs editor, Laura Tingle, is in Dubai and will bring daily updates from the Middle East war.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/iran-us-israel-what-you-need-to-know-laura-tingle/106410846"
@@ -76,91 +214,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/analysis-trump-operation-epic-fury-could-be-epic-fail/106412558"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4eb31ae0-ab97-4caa-90e0-84a279403698",
-      "published_datetime": "2026-03-03T19:13:56.736363",
-      "title": "Trump to review military escorts, insurance for Hormuz tankers",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2025/9/29/its-about-time-trump-says-he-will-join-gathering-of-us-military-leaders",
-        "name": "\u2018It\u2019s about time\u2019: Trump says he will join gathering of US military leaders",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--oHUtAKoj--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/09/reuters_68d9e342-1759109954.jpg%3Fresize%3D770%252C513%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--FK34uF_J--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/09/reuters_68d9e342-1759109954.jpg%3Fresize%3D770%252C513%26quality%3D80"
-      },
-      "description": "The Trump administration is actively considering deploying naval escorts for oil and gas tankers traversing the Strait of Hormuz as the U.S.-Iran conflict threatens to choke off a waterway responsible for roughly 20 percent of global crude and gas shipments, according to multiple reports on Tuesday.\n\n\"Military support for oil and gas supplies,\" a person familiar with the discussions told Politico. \"It's becoming a growing concern that the energy markets could face pressures in the coming days as the military campaign intensifies and expands in geographic scope. Access to the Straits of Hormuz is obviously vital for both natural gas and crude oil shipments, especially from Qatar and Saudi.\"[1]",
-      "audio_url": "",
-      "url": "trump-to-review-military-escor-LDOU8lxvQF24so3wlTK2Yw",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-03-03T18:49:20.000000Z",
-      "title": "Dynamic pricing could be coming to your local supermarket",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d9f0753fdabb181d36188a852ff287a0?impolicy=wcms_crop_resize&amp;cropH=1728&amp;cropW=3072&amp;xPos=0&amp;yPos=1197&amp;width=862&amp;height=485"
-      },
-      "description": "Paper price labels are being ditched for digital ones as online-style \"dynamic pricing\" comes to shelves in shopping centres.",
-      "page_content_url": "https://www.abc.net.au/news/science/2026-03-04/digital-price-tags-bring-dynamic-pricing-to-local-shops/106386330"
-    },
-    {
       "published_datetime": "2026-03-03T18:48:14.000000Z",
-      "title": "We are losing stars one streetlight, one neon sign, one suburb at a time",
+      "title": "Stars are disappearing before our eyes \u2014 and something in us is shifting",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3821318e48fa1ea6a9c8547c22c26b71?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "For most of human history, the night sky has been a shared inheritance, a source of wonder. Now, more than a billion children see barely any stars in the night sky above their homes. So what does that mean for humanity?",
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/light-pollution-causing-stars-to-vanish-in-urban-night-skies/106299584"
-    },
-    {
-      "published_datetime": "2026-03-03T18:40:30.000000Z",
-      "title": "Inside Operation Epic Fury and the intel that sparked the war on Iran",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a1355ec2a9b8f32eac40f500c7be167c?impolicy=wcms_crop_resize&amp;cropH=658&amp;cropW=1170&amp;xPos=471&amp;yPos=216&amp;width=862&amp;height=485"
-      },
-      "description": "Launched in broad daylight after weeks of intelligence gathering, Israel and the US's attack on Iran was designed to ensure \"speed, surprise, and violence of action\". Here's how it unfolded.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-04/how-the-israel-and-us-assault-on-iran-unfolded/106406578"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8cb01468-6fc1-4250-a4cf-fa8f5396495f",
-      "published_datetime": "2026-03-03T17:00:35.151502",
-      "title": "SpaceX's Starship faces 5-month launch gap as IPO filing nears",
-      "featured_image": {
-        "url": "https://www.axios.com/2023/04/14/spacex-starship-launch-date-time",
-        "name": "SpaceX's major Starship test delayed after technical issue",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Mto7lc5M--/t_limit/https://images.axios.com/-Xxmxdy7B0lQGM2y5904-70LFAU%3D/0x0:2047x1151/1920x1080/2023/04/17/1681737716143.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--gH6n4_PF--/t_thumbnail/https://images.axios.com/-Xxmxdy7B0lQGM2y5904-70LFAU%3D/0x0:2047x1151/1920x1080/2023/04/17/1681737716143.jpg"
-      },
-      "description": "SpaceX has gone nearly five months without a Starship launch \u2014 the longest pause since the program's early days \u2014 even as the company prepares to file paperwork for what could become the largest initial public offering in history.\n\nThe world's largest rocket last flew on October 13, 2025, when Flight 11 closed out a year of five test missions. As of early March, no official launch date has been set for Flight 12, and the mission does not appear on SpaceX's online schedule. Elon Musk suggested in a January 26 post on X that the next launch was six weeks away, pointing to a March liftoff, but that timeline has not been confirmed by the company.[1][2][3]",
-      "audio_url": "",
-      "url": "spacex-s-starship-faces-5-mont-knzbUgUkQbuKsRxwMsDKig",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/76003265-c4ba-44d3-883d-180d43b6cae2",
-      "published_datetime": "2026-03-03T16:58:42.270939",
-      "title": "Apple unveils six devices in two days, more expected",
-      "featured_image": {
-        "url": "https://www.engadget.com/computing/laptops/apple-macbook-pro-m5-14-inch-review-a-huge-graphics-upgrade-for-creators-and-gamers-170009179.html",
-        "name": "Apple MacBook Pro M5 14-inch review: A huge graphics ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--uqQN-PdC--/t_limit/https://s.yimg.com/ny/api/res/1.2/s5X51gc0orzb9dygg4LFNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03MzI-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/01c53080-aded-11f0-af73-816473ec2e2b",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--9uHqLcxK--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/s5X51gc0orzb9dygg4LFNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03MzI-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/01c53080-aded-11f0-af73-816473ec2e2b"
-      },
-      "description": "Apple has announced six new products over two days in its most aggressive spring launch in years, with at least one more device expected when the company hosts media at a hands-on \"experience\" event on Wednesday.\n\nThe announcements began Monday, March 2, with the iPhone 17e and the M4 iPad Air, followed Tuesday by the M5 MacBook Air, M5 Pro and M5 Max MacBook Pro, and a pair of new Studio Displays. Pre-orders for most of the new hardware open March 4, with availability beginning March 11.[1][2][3][4]",
-      "audio_url": "",
-      "url": "apple-unveils-six-devices-in-t-bQTQUU8GSJ.yHkxQzIuVjg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/728b9b4b-5684-47c4-8f73-1f094df3b67b",
-      "published_datetime": "2026-03-03T16:29:54.232152",
-      "title": "Dow sinks as oil surges on Iran's Strait of Hormuz shutdown",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/02/17/iran-us-strait-of-hormuz-oil-nuclear-talks-geneva.html",
-        "name": "Iran partially closes Strait of Hormuz, a vital oil choke point, as Tehran holds talks with U.S.",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--e5QSBDWP--/t_limit/https://image.cnbcfm.com/api/v1/image/108162405-1750689685731-108162405-1750681542505-gettyimages-1241742205-nikoubazl-iranmili190430_npxNQ.jpg%3Fv%3D1771333430%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--FDWpWU4n--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108162405-1750689685731-108162405-1750681542505-gettyimages-1241742205-nikoubazl-iranmili190430_npxNQ.jpg%3Fv%3D1771333430%26w%3D1920%26h%3D1080"
-      },
-      "description": "Oil prices soared for a third consecutive day on Tuesday and stocks tumbled sharply as the war between the United States and Iran entered its fourth day, with tanker traffic through the Strait of Hormuz at a near standstill and no signs of a quick resolution to the conflict.\n\nWest Texas Intermediate crude climbed roughly 8% to around $76.91 per barrel, while Brent crude jumped about 7.6% to $83.65, its highest level since mid-2024, according to CNN. The Dow Jones Industrial Average sank more than 1,000 points in early trading, while the S&P 500 fell over 2% and the Nasdaq Composite dropped by a similar margin.[1][2][3]",
-      "audio_url": "",
-      "url": "dow-sinks-as-oil-surges-on-ira-mxf4U2mTSBqDh5EODPmMPw",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-03-03T16:17:44.000000Z",
@@ -170,66 +230,6 @@
       },
       "description": "The United States and Israel are continuing to launch strikes at Iran as Tehran becomes increasingly isolated after attacking neighbouring countries. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/middle-east-war-iran-us-israel-lebanon-live-updates/106410862"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c3225520-fac4-4a13-916a-e71504d24f06",
-      "published_datetime": "2026-03-03T15:59:13.923741",
-      "title": "Indian team hits 30.2% efficiency in perovskite-silicon solar cell",
-      "featured_image": {
-        "url": "https://techxplore.com/news/2026-01-perovskite-solar-cells-power-conversion.html",
-        "name": "Perovskite solar cells maintain 95% of power conversion ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--owODJATK--/t_limit/https://scx1.b-cdn.net/csz/news/800a/2026/scientists-develop-str.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--P8TJa1v5--/t_thumbnail/https://scx1.b-cdn.net/csz/news/800a/2026/scientists-develop-str.jpg"
-      },
-      "description": "A wave of recent breakthroughs in perovskite solar cell research is bringing the promising but fragile technology closer to commercial viability, with teams across Asia and Europe reporting new methods to boost both efficiency and long-term stability in tandem perovskite-silicon devices.",
-      "audio_url": "",
-      "url": "indian-team-hits-30-2-efficien-mZQlWgWxR2iMFrQRuOLX9A",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2eccefda-7c7e-46b6-90b4-e0eb6f51a314",
-      "published_datetime": "2026-03-03T15:37:27.594846",
-      "title": "Dow drops over 1,000 points as Iran conflict roils markets",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plunge-as-fresh-strikes-intensify-iran-conflict-235309696.html",
-        "name": "Stock market today: Dow, S&P 500, Nasdaq futures plunge as fresh strikes intensify Iran conflict",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--AZ4eRnJ2--/t_limit/https://s.yimg.com/ny/api/res/1.2/Jxj6IGvppXnrXHChkQvl.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/807c6bb0-1692-11f1-bbf5-9919495d137c",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--OgjW74zk--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/Jxj6IGvppXnrXHChkQvl.Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/807c6bb0-1692-11f1-bbf5-9919495d137c"
-      },
-      "description": "A wave of selling swept through global equity markets on Monday and Tuesday as the U.S.-Israel military campaign against Iran entered its fourth day with no sign of de-escalation, rattling investors with fears of prolonged energy disruption and a fresh surge in inflation.\n\nThe Dow Jones Industrial Average plunged more than 1,000 points on Tuesday, March 3 \u2014 on pace for its largest single-day drop since April 2025, according to The Wall Street Journal. The S&P 500 and Nasdaq 100 futures fell 1.5% and 1.9%, respectively, in pre-market trading Tuesday. A day earlier, U.S. stocks had staged a late-session recovery, with the S&P 500 finishing nearly flat and the Nasdaq Composite gaining 0.4%, after initially dropping more than 1%.[1][2][3][4]",
-      "audio_url": "",
-      "url": "dow-drops-over-1000-points-as-T1f4RQoqRXu9eiUNC3MZVw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e2825c52-5418-4a45-9797-f45f1690c02f",
-      "published_datetime": "2026-03-03T15:34:32.695852",
-      "title": "Trump open to arming militias inside Iran, officials say",
-      "featured_image": {
-        "url": "https://www.axios.com/2026/03/02/trump-iran-war-kurds-iraq",
-        "name": "Scoop: Trump calls Kurdish leaders in Iran war effort",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--rexY-p1a--/t_limit/https://images.axios.com/M808xqxTpO9naaE7y4QNCgqjdmM%3D/0x625:6000x4000/1920x1080/2026/03/02/1772494628810.jpeg%3Fw%3D3840",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--LLDXy2Y3--/t_thumbnail/https://images.axios.com/M808xqxTpO9naaE7y4QNCgqjdmM%3D/0x625:6000x4000/1920x1080/2026/03/02/1772494628810.jpeg%3Fw%3D3840"
-      },
-      "description": "President Trump is open to backing armed groups inside Iran willing to fight the Islamic regime, U.S. officials told The Wall Street Journal on Monday, a move that would deepen American involvement in a conflict that has already killed Iran's supreme leader and drawn the U.S. into its largest Middle Eastern military operation in two decades.[1]\n\nThe revelation came as Trump spoke by phone on Sunday with the leaders of Iraq's two main Kurdish factions \u2014 Masoud Barzani and Bafel Talabani \u2014 to discuss the war and what might come next, according to Axios, which first reported the calls. Kurdish forces maintain thousands of troops along the Iran-Iraq border and have deep ties with Iran's Kurdish minority. The outreach was driven in part by Israeli Prime Minister Benjamin Netanyahu, who has long cultivated relationships with Kurdish groups and raised their potential role during a meeting with Trump at the White House, Axios reported.[2][3]",
-      "audio_url": "",
-      "url": "trump-open-to-arming-militias-Fpw9JDdzSWCXDzs7OMYElw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/097d10ab-92f6-49e0-b4a7-4032c52bed59",
-      "published_datetime": "2026-03-03T15:20:13.527845",
-      "title": "IAEA says no nuclear sites hit in Iran strikes as Tehran alleges Natanz was targeted",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/middle-east/iran-dramatically-increasing-enrichment-near-bomb-grade-iaea-chief-2024-12-06/",
-        "name": "Exclusive: Iran dramatically accelerating uranium enrichment ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--AVqO9EC9--/t_limit/https://www.reuters.com/resizer/v2/BKYUHXRKJFNM3LI4QDN7XHXNFU.jpg%3Fauth%3D346abf1c8d20fc51215c53681a9cbc44d39ccc77378c93e397a988e8ac461acb%26width%3D1920%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--F6J6aF2x--/t_thumbnail/https://www.reuters.com/resizer/v2/BKYUHXRKJFNM3LI4QDN7XHXNFU.jpg%3Fauth%3D346abf1c8d20fc51215c53681a9cbc44d39ccc77378c93e397a988e8ac461acb%26width%3D1920%26quality%3D80"
-      },
-      "description": "The head of the International Atomic Energy Agency told an emergency board meeting on Monday that the agency has found no evidence Iran is developing nuclear weapons, even as he warned that ongoing U.S. and Israeli military strikes risk triggering a radiological disaster.\n\nIAEA Director General Rafael Grossi addressed the agency's 35-nation Board of Governors in Vienna on March 2, convened at Russia's request following the launch of Operation Roaring Lion \u2014 a coordinated U.S.-Israeli military campaign against Iran that began on February 28. Grossi told the board that the IAEA has \"no indication\" that any nuclear installations in Iran, \"including the Bushehr Nuclear Power Plant, the Tehran Research Reactor, or other nuclear fuel cycle facilities have been damaged or hit\".[1][2][3]",
-      "audio_url": "",
-      "url": "iaea-says-no-nuclear-sites-hit-HuHnnkYiRqC6YxqRlT53lQ",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-03-03T11:56:28.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-03T23:18:06.805495"
+  "merged_at": "2026-03-04T01:14:06.530094"
 }
