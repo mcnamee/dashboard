@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-04T13:03:15.000000Z",
+      "title": "First repatriation flight out of Middle East since US struck Iran arrives in Sydney",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e0a82fbe53aa0c585530f86b8a7e688?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The plane touched down safely with 200 on board, after departing Dubai earlier this afternoon.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-05/dubai-sydney-flight-touches-down-middle-east-war/106416684"
+    },
+    {
+      "published_datetime": "2026-03-04T12:50:19.000000Z",
+      "title": "Carney warns Australia and Canada face 'subordination' by hegemonic powers",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8d73e0cfb3a43d3dc3cd46f9210665fc?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Canadian Prime Minister Mark Carney calls for middle powers to use their sovereignty in a Sydney speech echoing his Davos intervention.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-04/carney-says-australia-and-canada-need-sovereignty-from-hegemons/106417006"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1e3eeee2-df3b-4bf7-a7ea-cc0e8ef19840",
+      "published_datetime": "2026-03-04T12:12:05.369632",
+      "title": "Chinese projects in Iran face uncertainty amid US-Israeli strikes",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/liveblog/2026/3/4/iran-live-news-us-embassy-in-dubai-hit-israel-pounds-tehran-beirut",
+        "name": "Iran live news: Iran death toll at 1,145; Turkiye says missile destroyed",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--2_y8_8wh--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260303__99QZ6TW__v3__HighRes__TopshotIranUsIsraelWar-1772579422.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--_FMNuc0K--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260303__99QZ6TW__v3__HighRes__TopshotIranUsIsraelWar-1772579422.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "The US-Israeli military campaign against Iran, now in its fifth day, has effectively frozen Chinese oil imports from the Islamic Republic and thrown billions of dollars in Chinese infrastructure and energy projects into uncertainty, exposing the depth of Beijing's economic entanglement with Tehran.",
+      "audio_url": "",
+      "url": "chinese-projects-in-iran-face-kTW5X_mXSR2WQIqFxeY3Ww",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/eb5cdf0f-0837-4ce0-9556-8a9f4c5e8b78",
       "published_datetime": "2026-03-04T11:34:58.773204",
       "title": "SpaceX launches 600th Starlink satellite of 2026",
@@ -77,15 +110,6 @@
       },
       "description": "Craig Bruce helped elevate Kyle Sandilands and Jackie O. He's watched on as the pair have fallen apart underneath the weight of the richest deal in Australian media.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/craig-bruce-steve-price-kyle-sandilands-jackie-o-mistakes/106415954"
-    },
-    {
-      "published_datetime": "2026-03-04T08:39:21.000000Z",
-      "title": "Attorney-general pays taxpayer back $8,000 for flights",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c15de5819a76510c0beafbe851a8e78?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=147&amp;width=862&amp;height=485"
-      },
-      "description": "Figures from the expenses watchdog confirm Attorney-General Michelle Rowland has repaid about $8,000 spent on flights for family travel from Perth to Sydney.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-04/attorney-general-michelle-rowland-pays-taxpayer-back-for-flights/106416782"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a29c3341-ad39-4079-a7c1-bd8179bf4d14",
@@ -184,15 +208,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/how-airlines-determine-if-it-is-safe-to-fly-from-conflict-zones/106414544"
     },
     {
-      "published_datetime": "2026-03-04T05:10:17.000000Z",
-      "title": "High-profile dentist shot dead by police after allegedly attacking two women",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ec6d5553a8af1015c105c509480a41f0?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Steven Lin allegedly attacked two women while armed with a knife inside a Sydney apartment complex before being shot dead by police.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-04/dentist-shot-dead-by-police-potts-point-steven-lin-sydney/106415708"
-    },
-    {
       "published_datetime": "2026-03-04T03:56:10.000000Z",
       "title": "By striking Gulf states Iran is hitting one of Trump's vulnerabilities",
       "featured_image": {
@@ -217,27 +232,12 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1a2458d4-4703-41ea-84e3-aa3ac3fe649b",
-      "published_datetime": "2026-03-04T02:55:57.174834",
-      "title": "UN warns El Ni\u00f1o could return later this year",
-      "featured_image": {
-        "url": "https://www.severe-weather.eu/long-range-2/unusual-el-nino-event-atmospheric-pattern-winter-impact-forecast-united-states-canada-fa/",
-        "name": "El Ni\u00f1o is creating an unexpected atmospheric pattern, but ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--wqWVsmtk--/t_limit/https://www.severe-weather.eu/wp-content/uploads/2023/11/el-nino-watch-advisory-event-2023-2024-forecast-united-states-north-america-long-range-snowfall-seasonal-pattern-cold-anomaly-winter-effect.png",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Io2GOflQ--/t_thumbnail/https://www.severe-weather.eu/wp-content/uploads/2023/11/el-nino-watch-advisory-event-2023-2024-forecast-united-states-north-america-long-range-snowfall-seasonal-pattern-cold-anomaly-winter-effect.png"
-      },
-      "description": "The World Meteorological Organization warned on Tuesday that El Ni\u00f1o could develop later this year as the current La Ni\u00f1a weakens, a shift that climate scientists say could push global temperatures toward new records in 2027.\n\nThe WMO's latest update, issued March 3, forecasts a 60% chance of neutral conditions \u2014 neither El Ni\u00f1o nor La Ni\u00f1a \u2014 during March through May, rising to 70% during April through June. But the probability of El Ni\u00f1o increases steadily thereafter, reaching roughly 40% by May through July.[1][2]",
-      "audio_url": "",
-      "url": "un-warns-el-nino-could-return-fcabEzzdTPG1.kgGa8ilhw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-03T16:17:44.000000Z",
-      "title": "Live: First repatriation flight lands in Sydney, nearly 150 missing as Iranian ship sinks",
+      "title": "Live: Nearly 150 missing as Iranian ship sinks, first repatriation flight lands in Sydney",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0d01adf8967c03d010c963e1a5058b3a?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The United States and Israel are continuing to launch strikes at Iran as Tehran becomes increasingly isolated after attacking neighbouring countries. Follow live.",
+      "description": "Several people dead and nearly 150 missing after Iranian warship sinks off Sri Lanka. The sinking comes as the first repatriation flight from Dubai lands in Sydney. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/middle-east-war-iran-us-israel-lebanon-live-updates-/106410862"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-04T12:35:59.248264"
+  "merged_at": "2026-03-04T13:51:06.445573"
 }
