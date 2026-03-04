@@ -1,40 +1,13 @@
 {
   "items": [
     {
-      "published_datetime": "2026-03-03T16:17:44.000000Z",
-      "title": "Live: Nearly 150 missing as Iranian ship sinks, first repatriation flight lands in Sydney",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0d01adf8967c03d010c963e1a5058b3a?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Several people dead and nearly 150 missing after Iranian warship sinks off Sri Lanka. The sinking comes as the first repatriation flight from Dubai lands in Sydney. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-04/middle-east-war-iran-us-israel-lebanon-live-updates-/106410862"
-    },
-    {
-      "published_datetime": "2026-03-04T06:39:26.000000Z",
-      "title": "Iran uses kamikaze drone boats for first time in Middle East war",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cc579994babea150a9a64aff3c569e34?impolicy=wcms_crop_resize&amp;cropH=1974&amp;cropW=3510&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
-      },
-      "description": "Iran is using exploding drone boats for the first time in war in the Middle East, hitting an oil tanker near the Strait of Hormuz after ordering the key shipping passage closed. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-04/iran-drone-boats-attack-oil-tankers-strait-hormuz-gulf-oman/106408958"
-    },
-    {
       "published_datetime": "2026-03-04T13:03:15.000000Z",
-      "title": "'Overjoyed': Emotions run high as first flight out of Middle East lands in Sydney",
+      "title": "'Happy and overjoyed': Emotions run high as first flight out of Middle East lands in Sydney",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e0a82fbe53aa0c585530f86b8a7e688?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Emirates flight EK414 from Dubai touched down safely with around 200 Australians on board, after departing Dubai in the early hours of the morning.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-05/dubai-sydney-flight-touches-down-middle-east-war/106416684"
-    },
-    {
-      "published_datetime": "2026-03-04T07:50:55.000000Z",
-      "title": "Grant cancelled for Islamic community group amid 'social cohesion concerns'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/288b583f166a4d735f1f0e19135a5149?impolicy=wcms_crop_resize&amp;cropH=5346&amp;cropW=9504&amp;xPos=0&amp;yPos=495&amp;width=862&amp;height=485"
-      },
-      "description": "The federal government has cancelled a grant for an Islamic community association in Melbourne citing \"social cohesion concerns\" after claims surfaced the group was mourning the death of Iran's supreme leader Ayatollah Ali Khamenei.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-04/islamic-community-group-taha-humanity-association-grant-cancel/106416308"
     },
     {
       "published_datetime": "2026-03-04T03:56:10.000000Z",
@@ -55,13 +28,31 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/treasurer-jim-chalmers-warns-of-middle-east-economic-impact/106415032"
     },
     {
-      "published_datetime": "2026-03-04T09:10:35.000000Z",
-      "title": "Inquiry into anti-Indigenous racism launched after alleged Perth terror attempt",
+      "published_datetime": "2026-03-03T16:17:44.000000Z",
+      "title": "Nearly 150 missing as Iranian ship sinks, first repatriation flight lands in Sydney",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/825fdf06db4945c80b744de1ee01e4f5?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0d01adf8967c03d010c963e1a5058b3a?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The attempted alleged bombing of an Invasion Day rally in Perth has sparked a parliamentary inquiry into racism, hate and violence directed at Indigenous people.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-04/wa-invasion-day-incident-prompts-indigenous-racism-inquiry/106416796"
+      "description": "Several people dead and nearly 150 missing after Iranian warship sinks off Sri Lanka. The sinking comes as the first repatriation flight from Dubai lands in Sydney.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-04/middle-east-war-iran-us-israel-lebanon-live-updates-/106410862"
+    },
+    {
+      "published_datetime": "2026-03-04T06:39:26.000000Z",
+      "title": "Iran uses kamikaze drone boats for first time in Middle East war",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cc579994babea150a9a64aff3c569e34?impolicy=wcms_crop_resize&amp;cropH=1974&amp;cropW=3510&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
+      },
+      "description": "Iran is using exploding drone boats for the first time in war in the Middle East, hitting an oil tanker near the Strait of Hormuz after ordering the key shipping passage closed. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-04/iran-drone-boats-attack-oil-tankers-strait-hormuz-gulf-oman/106408958"
+    },
+    {
+      "published_datetime": "2026-03-04T07:50:55.000000Z",
+      "title": "Grant cancelled for Islamic community group amid 'social cohesion concerns'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/288b583f166a4d735f1f0e19135a5149?impolicy=wcms_crop_resize&amp;cropH=5346&amp;cropW=9504&amp;xPos=0&amp;yPos=495&amp;width=862&amp;height=485"
+      },
+      "description": "The federal government has cancelled a grant for an Islamic community association in Melbourne citing \"social cohesion concerns\" after claims surfaced the group was mourning the death of Iran's supreme leader Ayatollah Ali Khamenei.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-04/islamic-community-group-taha-humanity-association-grant-cancel/106416308"
     },
     {
       "published_datetime": "2026-03-04T05:45:02.000000Z",
@@ -73,6 +64,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/how-airlines-determine-if-it-is-safe-to-fly-from-conflict-zones/106414544"
     },
     {
+      "published_datetime": "2026-03-04T09:10:35.000000Z",
+      "title": "Inquiry into anti-Indigenous racism launched after alleged Perth terror attempt",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/825fdf06db4945c80b744de1ee01e4f5?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The attempted alleged bombing of an Invasion Day rally in Perth has sparked a parliamentary inquiry into racism, hate and violence directed at Indigenous people.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-04/wa-invasion-day-incident-prompts-indigenous-racism-inquiry/106416796"
+    },
+    {
       "published_datetime": "2026-03-04T12:50:19.000000Z",
       "title": "Carney warns Australia and Canada face 'subordination' by hegemonic powers",
       "featured_image": {
@@ -82,15 +82,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/carney-says-australia-and-canada-need-sovereignty-from-hegemons/106417006"
     },
     {
-      "published_datetime": "2026-03-04T09:10:19.000000Z",
-      "title": "'Insanity that should never have happened': Behind the Kyle and Jackie O split",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b3d18857b8d8d86cc813023c85f24c03?impolicy=wcms_crop_resize&amp;cropH=496&amp;cropW=881&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
-      },
-      "description": "Craig Bruce helped elevate Kyle Sandilands and Jackie O. He's watched on as the pair have fallen apart underneath the weight of the richest deal in Australian media.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-04/craig-bruce-steve-price-kyle-sandilands-jackie-o-mistakes/106415954"
-    },
-    {
       "published_datetime": "2026-03-04T08:39:21.000000Z",
       "title": "Attorney-general pays taxpayer back $8,000 for flights",
       "featured_image": {
@@ -98,6 +89,15 @@
       },
       "description": "Figures from the expenses watchdog confirm Attorney-General Michelle Rowland has repaid about $8,000 spent on flights for family travel from Perth to Sydney.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/attorney-general-michelle-rowland-pays-taxpayer-back-for-flights/106416782"
+    },
+    {
+      "published_datetime": "2026-03-04T09:10:19.000000Z",
+      "title": "'Insanity that should never have happened': Behind the Kyle and Jackie O split",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b3d18857b8d8d86cc813023c85f24c03?impolicy=wcms_crop_resize&amp;cropH=496&amp;cropW=881&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
+      },
+      "description": "Craig Bruce helped elevate Kyle Sandilands and Jackie O. He's watched on as the pair have fallen apart underneath the weight of the richest deal in Australian media.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-04/craig-bruce-steve-price-kyle-sandilands-jackie-o-mistakes/106415954"
     },
     {
       "published_datetime": "2026-03-04T05:10:17.000000Z",
@@ -118,15 +118,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/nt-health-patient-record-system-acacia-committee-inquiry/106410122"
     },
     {
-      "published_datetime": "2026-03-04T05:13:29.000000Z",
-      "title": "Long queues at servos as petrol prices surge amid Middle East war",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8228bb197cdf637edb611f8901ca0c7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=439&amp;width=862&amp;height=485"
-      },
-      "description": "Petrol retailers across the nation are being accused of \"unconscionable\" behaviour by preying on people's anxieties as fuel prices surge in the midst of the Middle East war.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-04/petrol-prices-surge-across-australia-servo-queues-middle-east/106414796"
-    },
-    {
       "published_datetime": "2026-03-04T05:45:59.000000Z",
       "title": "What does it mean if you never remember your dreams?",
       "featured_image": {
@@ -134,6 +125,15 @@
       },
       "description": "Some people are naturally better at recalling their dreams. Others worry they're not getting quality sleep if they can't remember their dreams. Here's the science.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/why-some-vividly-remember-dreams-others-dont-dream/106413370"
+    },
+    {
+      "published_datetime": "2026-03-04T05:13:29.000000Z",
+      "title": "Long queues at servos as petrol prices surge amid Middle East war",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8228bb197cdf637edb611f8901ca0c7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=439&amp;width=862&amp;height=485"
+      },
+      "description": "Petrol retailers across the nation are being accused of \"unconscionable\" behaviour by preying on people's anxieties as fuel prices surge in the midst of the Middle East war.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-04/petrol-prices-surge-across-australia-servo-queues-middle-east/106414796"
     },
     {
       "published_datetime": "2026-03-04T06:56:23.000000Z",
@@ -145,15 +145,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/mosman-park-murder-suicide-clune-family-friend-speaks/106411866"
     },
     {
-      "published_datetime": "2026-03-04T07:54:01.000000Z",
-      "title": "Young Iranian footballer fights tears as she speaks about war in Iran",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e25c299d9e7519aea5ee22824b25ea07?impolicy=wcms_crop_resize&amp;cropH=1057&amp;cropW=1879&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "On the eve of their Women's Asian Cup match against the Matildas, Iran's women's football team has expressed concern over the plight of their family and friends in Iran as war rages in the Middle East. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-04/womens-asian-cup-iran-matildas-sarah-didar-middle-east-war/106416294"
-    },
-    {
       "published_datetime": "2026-03-04T05:24:28.000000Z",
       "title": "Melbourne F1 Grand Prix rebuild sees $115m blowout due to asbestos",
       "featured_image": {
@@ -161,6 +152,15 @@
       },
       "description": "The planned rebuild of a pit lane at Albert Park has blown out by millions of dollars, with Victorian taxpayers to foot the bill.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/victoria-asbestos-albert-park-melbourne-grand-prix-blowout/106415464"
+    },
+    {
+      "published_datetime": "2026-03-04T07:54:01.000000Z",
+      "title": "Young Iranian footballer fights tears as she speaks about war in Iran",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e25c299d9e7519aea5ee22824b25ea07?impolicy=wcms_crop_resize&amp;cropH=1057&amp;cropW=1879&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "On the eve of their Women's Asian Cup match against the Matildas, Iran's women's football team has expressed concern over the plight of their family and friends in Iran as war rages in the Middle East. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-04/womens-asian-cup-iran-matildas-sarah-didar-middle-east-war/106416294"
     },
     {
       "published_datetime": "2026-03-04T04:53:10.000000Z",
@@ -208,15 +208,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/body-found-during-search-for-missing-tourist-on-gold-coast-beach/106414178"
     },
     {
-      "published_datetime": "2026-03-04T04:48:53.000000Z",
-      "title": "Man accused of killing Labor identity Tim Picton freed on bail",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/657acee559e11688ee3f771aa817cfcd?impolicy=wcms_crop_resize&amp;cropH=836&amp;cropW=1487&amp;xPos=0&amp;yPos=77&amp;width=862&amp;height=485"
-      },
-      "description": "Brodie Jake Dewar, 20, who allegedly killed Labor identity Tim Picton after striking him and causing him to fall over, is granted bail by a Perth judge.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-04/tim-picton-accused-released-on-bail/106414034"
-    },
-    {
       "published_datetime": "2026-03-04T02:23:24.000000Z",
       "title": "Two members of Gus Lamont's family 'not cooperating' directly with police",
       "featured_image": {
@@ -224,6 +215,15 @@
       },
       "description": "South Australia's Police Commissioner has said that two members of missing boy Gus Lamont's family are \"not cooperating\" with investigators, but a police spokesperson said they could not comment further on the number of suspects in the case.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-04/sa-gus-lamont-family-not-cooperating-with-police/106412974"
+    },
+    {
+      "published_datetime": "2026-03-04T04:48:53.000000Z",
+      "title": "Man accused of killing Labor identity Tim Picton freed on bail",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/657acee559e11688ee3f771aa817cfcd?impolicy=wcms_crop_resize&amp;cropH=836&amp;cropW=1487&amp;xPos=0&amp;yPos=77&amp;width=862&amp;height=485"
+      },
+      "description": "Brodie Jake Dewar, 20, who allegedly killed Labor identity Tim Picton after striking him and causing him to fall over, is granted bail by a Perth judge.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-04/tim-picton-accused-released-on-bail/106414034"
     }
   ]
 }
