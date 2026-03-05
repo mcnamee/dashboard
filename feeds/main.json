@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-05T06:31:35.000000Z",
+      "title": "Maps and photos show the Iran war has seeped into the wider Middle East",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/898fa63979b61c8123217e59ec8c0f03?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Hundreds of people have been killed as the war being waged by the US and Israel on Iran has spread across the Middle East as humanitarian bodies warn of the impact on civilians.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-05/death-toll-mounts-as-war-spreads-beyond-iran/106413198"
+    },
+    {
       "published_datetime": "2026-03-05T05:32:00.000000Z",
       "title": "Aston Martin drivers 'risk permanent nerve damage' driving for too long",
       "featured_image": {
@@ -77,6 +86,15 @@
       },
       "description": "Star casino's former top boss and its legal counsel both breached their director's duties and \"failed\" to heed warnings about money laundering by Chinese criminal syndicates, the Federal Court in Sydney has found.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-05/star-asic-judgement-china-money-casino/106418064"
+    },
+    {
+      "published_datetime": "2026-03-05T01:06:04.000000Z",
+      "title": "The US has sunk a 'prize' Iranian warship \u2014 here's how it unfolded",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3a6b13bbf30d8e905f1a7b6a1125812b?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The US military releases footage of one of its submarines opening fire on the vessel as it traversed international waters off the coast of Sri Lanka, with dozens of sailors missing.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-05/us-sub-torpedoes-iranian-warship-iris-dena-what-we-know/106417764"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/35e0a903-f4a7-406f-81d9-efe7eed8a281",
@@ -214,30 +232,12 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-04T20:49:03.000000Z",
-      "title": "Why Iran's most powerful ally is not coming to its aid",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c0a5b3101af828a55263645ae4151d3?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "China has condemned the Israel-US war with Iran, but it could benefit Beijing's strategic goals.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-05/why-iran-most-powerful-ally-is-not-coming-to-its-aid/106415362"
-    },
-    {
-      "published_datetime": "2026-03-04T20:06:04.000000Z",
-      "title": "Live: PM confirms military assets deployed to Middle East",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6ca8b85b8b912474d044f2d7c903d0dc?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The PM confirms military assets deployed to the Middle East to help stranded Australians. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-05/federal-politics-live-blog-march-5/106416338"
-    },
-    {
       "published_datetime": "2026-03-04T16:14:52.000000Z",
-      "title": "Live: Israel launches strikes on Tehran amid reports of Hamas official killed",
+      "title": "Live: PM confirms two military planes deployed to Middle East, Israel launches strikes on Tehran",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e148acf4a8d83853e3f0fd0954f40eea?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "A senior Hamas official reportedly killed by an Israeli strike marks the first targeted killing of a member of the Palestinian militant group since the war in the Middle East broke out.\u00a0",
+      "description": "\u00a0PM confirms two military assets have been deployed to Middle East to help stranded Australians.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-05/us-israel-attacks-iran-live-updates-middle-east-war/106416770"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-05T06:39:47.495567"
+  "merged_at": "2026-03-05T07:36:49.876758"
 }
