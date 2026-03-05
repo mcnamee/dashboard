@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-05T22:39:31.000000Z",
+      "title": "Drowning due to dingo attack cause of death for K'gari backpacker, coroner says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9f16b644f5bc4dd9450e9758d1efb0ff?impolicy=wcms_crop_resize&amp;cropH=743&amp;cropW=1320&amp;xPos=0&amp;yPos=57&amp;width=862&amp;height=485"
+      },
+      "description": "A coronial investigation finds 19-year-old Canadian backpacker Piper James was drowned due to a dingo attack on K'gari earlier this year.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-06/coroner-says-canadian-backpacker-piper-james-died-from-drowning/106267040"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3a1b36c4-229d-4fd6-9df8-dc64011b6d6a",
       "published_datetime": "2026-03-05T20:45:51.776107",
       "title": "Iran says it's ready for US ground invasion, rejects ceasefire",
@@ -17,11 +26,11 @@
     },
     {
       "published_datetime": "2026-03-05T20:42:15.000000Z",
-      "title": "Live: Oil spikes 4pc while Australian dollar tumbles 1pc, ASX to fall",
+      "title": "Live: Oil spikes 4pc while Australian dollar tumbles 1pc, ASX falls",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/56350bb4e8c429e1b2493b4ad9f9d9c8?impolicy=wcms_crop_resize&amp;cropH=960&amp;cropW=1707&amp;xPos=0&amp;yPos=90&amp;width=862&amp;height=485"
       },
-      "description": "A tumble on Wall Street is likely to send Australian stocks sharply lower, while oil prices surged 4 per cent as the Middle East war enters its sixth day.\u00a0Follow the latest updates in our live blog.",
+      "description": "A tumble on Wall Street has sent Australian stocks sharply lower, while oil prices surged 4 per cent as the Middle East war enters its sixth day. Follow the latest updates in our live blog.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-06/asx-markets-business-live-news-march06-2026/106422840"
     },
     {
@@ -89,7 +98,7 @@
     },
     {
       "published_datetime": "2026-03-05T19:45:21.000000Z",
-      "title": "Israel threatens to \u2018bring hell\u2019 to Beirut as war rapidly widens",
+      "title": "US 'accelerating' war in Iran as Israel threatens to 'bring hell' to Lebanon",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b3e2d501f8e0c23b54f759be639cf909?impolicy=wcms_crop_resize&amp;cropH=2295&amp;cropW=4080&amp;xPos=0&amp;yPos=5&amp;width=862&amp;height=485"
       },
@@ -113,15 +122,6 @@
       },
       "description": "A \"plucky pensioner\" from a cancelled Australian Story episode is a convicted child sex offender who has failed to pay his victim more than $385,000 in civil damages.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-06/christy-fenton-australian-story-nab-ian-williams-abuse/106409802"
-    },
-    {
-      "published_datetime": "2026-03-05T18:57:07.000000Z",
-      "title": "NSW Health apologises to whistleblowing doctors over misconduct probe",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d7defdc14fecaf79295f65d844ebdd17?impolicy=wcms_crop_resize&amp;cropH=1919&amp;cropW=3411&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "NSW Health apologises to three senior doctors at the Royal Prince Alfred Hospital after a two-year confidential investigation was found by the NSW Ombudsman to be unreasonable and unfair, in the latest example of dysfunction within two key departments.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-06/nsw-health-apology-to-rpa-hospital-doctors-over-misconduct-probe/106390886"
     },
     {
       "published_datetime": "2026-03-05T18:43:34.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-05T22:22:08.440342"
+  "merged_at": "2026-03-05T23:45:18.728174"
 }
