@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-06T20:19:30.000000Z",
+      "title": "RBA questions 'specialness' of US dollar in The Big Apple",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c55d58d2ef9e3eea14a365356da26e6?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=64&amp;width=862&amp;height=485"
+      },
+      "description": "The US dollar's status as a safe-haven currency is questioned at a business gathering in New York.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-07/safe-haven-status-of-the-us-dollar-rba/106425848"
+    },
+    {
+      "published_datetime": "2026-03-06T20:17:01.000000Z",
+      "title": "Cory Bernardi stands by bestiality claim ahead of SA election",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/acea42fa1ecf43eeebcc5fcef05adb46?impolicy=wcms_crop_resize&amp;cropH=2808&amp;cropW=4993&amp;xPos=0&amp;yPos=144&amp;width=862&amp;height=485"
+      },
+      "description": "One Nation's South Australian lead candidate Cory Bernardi says he \"100 per cent\" stands by highly controversial comments he made almost 14 years ago linking gay marriage to the social acceptance of bestiality.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-07/cory-bernardi-stands-by-bestiality-claim-ahead-of-sa-election/106423186"
+    },
+    {
       "published_datetime": "2026-03-06T19:00:00.000000Z",
       "title": "Satellite imagery shows strikes around Iranian school where girls were killed",
       "featured_image": {
@@ -8,15 +26,6 @@
       },
       "description": "ABC NEWS Verify has analysed footage and satellite imagery to investigate what happened at a girl's elementary school in Minab, Iran.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-07/verify-satellite-imagery-direct-strikes-around-minab-school/106419210"
-    },
-    {
-      "published_datetime": "2026-03-06T19:00:00.000000Z",
-      "title": "Tourists are flooding Japan's famous places. Have they reached their limit?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4cb15efff298be8cf0d7ca7e4a146a41?impolicy=wcms_crop_resize&amp;cropH=2807&amp;cropW=4991&amp;xPos=0&amp;yPos=494&amp;width=862&amp;height=485"
-      },
-      "description": "Tourism has become Japan's second largest export, after cars, but success has come at a cost for some cities.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-07/japan-addressing-overtourism-as-travel-booms/106390090"
     },
     {
       "published_datetime": "2026-03-06T18:30:00.000000Z",
@@ -38,7 +47,7 @@
     },
     {
       "published_datetime": "2026-03-06T18:00:00.000000Z",
-      "title": "Gulf nations pessimistic about what Trump will leave behind",
+      "title": "Iran's regime change unlikely but Trump's mess certain: Gulf states",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3ddb1c395b76e170ab09c0b3875ade23?impolicy=wcms_crop_resize&amp;cropH=1982&amp;cropW=3524&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
       },
@@ -232,15 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-06/adf-helicopter-evasive-action-chinese-military/106426388"
     },
     {
-      "published_datetime": "2026-03-06T04:19:15.000000Z",
-      "title": "Trump hints at which country he may focus on next after Iran war",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40f7f2d20e725c180b3922b78cd7799a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=243&amp;width=862&amp;height=485"
-      },
-      "description": "Almost a week into the war being waged by the US and Israel on Iran, Donald Trump hints that Cuba could become his next focus.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-06/cuba-may-be-trumps-next-focus-after-iran-war/106424006"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-06T20:39:54.086481"
+  "merged_at": "2026-03-06T21:21:39.103899"
 }
