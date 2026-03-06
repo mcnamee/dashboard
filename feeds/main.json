@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a1fb832e-c73e-403c-b3f3-075aadeccf6c",
+      "published_datetime": "2026-03-06T12:27:58.015277",
+      "title": "European stocks rise as oil eases after sharpest weekly surge since 2022",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/03/06/europe-stock-markets-stoxx-ftse-iran-oil-price.html",
+        "name": "European stocks to open higher amid easing oil price, Iran war",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--UBmPF7UY--/t_limit/https://image.cnbcfm.com/api/v1/image/108249125-1767753495083-gettyimages-2253776928-AFP_89FW2L6.jpeg%3Fv%3D1772782157%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--DhagMl6f--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108249125-1767753495083-gettyimages-2253776928-AFP_89FW2L6.jpeg%3Fv%3D1772782157%26w%3D1920%26h%3D1080"
+      },
+      "description": "Global financial markets entered Friday on uncertain footing as the escalating conflict between the United States and Israel on one side and Iran on the other continued to roil energy markets and rattle investor confidence. European stocks opened higher on Friday as oil prices eased slightly from their sharpest weekly surge since 2022, according to CNBC, though Asian equities largely fell amid persistent concerns over supply disruptions and inflation.[1]",
+      "audio_url": "",
+      "url": "european-stocks-rise-as-oil-ea-097fLVFMTpScyXSWPmpnaw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-06T10:12:29.000000Z",
       "title": "'Heartbreaking loss': Missing surf lifesaver found dead on Sunshine Coast",
       "featured_image": {
@@ -199,21 +214,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-06/cuba-may-be-trumps-next-focus-after-iran-war/106424006"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/44451645-7bdb-45cf-ad6c-30af4aa6d7eb",
-      "published_datetime": "2026-03-06T03:24:54.888806",
-      "title": "US weighs oil futures intervention, grants India Russian crude waiver",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/03/04/treasury-secretary-bessent-says-us-will-make-series-of-announcements-to-support-oil-trade-in-the-gulf.html",
-        "name": "Treasury Secretary Bessent says U.S. will make 'series of announcements' to support oil trade in the Gulf",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--NperpDV4--/t_limit/https://image.cnbcfm.com/api/v1/image/108258380-1769620938867-gettyimages-2258087731-TRUMP_ACCOUNTS.jpeg%3Fv%3D1772627011%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--BGw4Zjh2--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108258380-1769620938867-gettyimages-2258087731-TRUMP_ACCOUNTS.jpeg%3Fv%3D1772627011%26w%3D1920%26h%3D1080"
-      },
-      "description": "The Trump administration moved on multiple fronts Thursday to contain surging energy prices driven by the war with Iran, granting India a 30-day waiver to purchase sanctioned Russian crude and signaling it may take the unprecedented step of intervening in oil futures markets.",
-      "audio_url": "",
-      "url": "us-weighs-oil-futures-interven-b4yBFb5CSXeE9eJ.kZP7Ig",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-06T03:20:50.000000Z",
       "title": "The hidden forces driving Trump's attack on Iran",
       "featured_image": {
@@ -233,7 +233,7 @@
     },
     {
       "published_datetime": "2026-03-05T16:17:57.000000Z",
-      "title": "Live: Israel launches new wave of strikes on Beirut",
+      "title": "Live: Trump demands 'unconditional surrender' from Iran, Israel launches new strikes on Beirut",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/75ca319404a0707b91b7530a49bef3c0?impolicy=wcms_crop_resize&amp;cropH=1105&amp;cropW=1964&amp;xPos=0&amp;yPos=97&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-06T14:31:02.914992"
+  "merged_at": "2026-03-06T15:28:27.689221"
 }
