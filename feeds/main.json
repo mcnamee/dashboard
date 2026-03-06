@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-06T06:09:35.000000Z",
+      "title": "Live: DCE makes Roosters debut against Warriors before epic 2025 finals rematch",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1b9556604013f2d65986a00a49506a3d?impolicy=wcms_crop_resize&amp;cropH=2241&amp;cropW=3984&amp;xPos=0&amp;yPos=111&amp;width=862&amp;height=485"
+      },
+      "description": "The Roosters start their season in New Zealand against the Warriors before defending premiers Brisbane host the Panthers in a rematch of last year's epic preliminary final at Lang Park. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-06/nrl-live-blog-warriors-roosters-broncos-panthers/106424974"
+    },
+    {
+      "published_datetime": "2026-03-06T05:42:50.000000Z",
+      "title": "Shown pornographic images, asked for threesomes: SES women's claims of sexism",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/797d17e7006a9d2bb984ff39c39b062a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "A review into SES member experiences hears allegations of sexual harassment, stalking and pockets of \"boys' clubs\" operating throughout the state.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-06/ses-women-share-experiences-of-sexism-in-blocked-report/106420428"
+    },
+    {
       "published_datetime": "2026-03-06T05:05:24.000000Z",
       "title": "Fears for Iran's women's football team after state TV labels them 'traitors'",
       "featured_image": {
@@ -8,15 +26,6 @@
       },
       "description": "There are concerns for the safety of Iran's female footballers after they were condemned on Iranian state TV as wartime traitors for not singing the national anthem before their first game.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-06/iran-women-football-womens-asian-cup-state-tv-traitors/106425022"
-    },
-    {
-      "published_datetime": "2026-03-06T04:49:04.000000Z",
-      "title": "Live: Australia bowling first against India in Perth women's Test match",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/79c317977d221f3f4681dd9a1ce86c06?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Australia is out to seal a multi-format series victory over India as the sides meet for the sole Test match, in what will also be Alyssa Healy's final game for Australia. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-06/australia-vs-india-womens-test-day-one-live-blog/106420750"
     },
     {
       "published_datetime": "2026-03-06T04:43:15.000000Z",
@@ -86,7 +95,7 @@
     },
     {
       "published_datetime": "2026-03-06T02:54:57.000000Z",
-      "title": "Another group has flagged entering the war in Iran",
+      "title": "Kurdish forces threaten to open new front in Middle East war",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1ab56aed43b0131900121cc3b4a69d6?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -223,17 +232,8 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-05T20:42:15.000000Z",
-      "title": "Live: $100 billion wiped off ASX boards this week as war shows no signs of easing",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/56350bb4e8c429e1b2493b4ad9f9d9c8?impolicy=wcms_crop_resize&amp;cropH=960&amp;cropW=1707&amp;xPos=0&amp;yPos=90&amp;width=862&amp;height=485"
-      },
-      "description": "The Australian share market has fallen sharply with more than $100 billion wiped off the boards this week. Follow the latest updates in our live blog.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-06/asx-markets-business-live-news-march06-2026/106422840"
-    },
-    {
       "published_datetime": "2026-03-05T16:17:57.000000Z",
-      "title": "Live: Iran launches fresh missiles at Tel Aviv as Lebanon death roll rises",
+      "title": "Live: Saudi Arabia intercepts drones as Japan says two citizens detained in Iran",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/75ca319404a0707b91b7530a49bef3c0?impolicy=wcms_crop_resize&amp;cropH=1105&amp;cropW=1964&amp;xPos=0&amp;yPos=97&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-06T05:38:59.707343"
+  "merged_at": "2026-03-06T06:36:27.295563"
 }
