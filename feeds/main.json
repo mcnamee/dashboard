@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-06T10:12:29.000000Z",
+      "title": "Missing surf lifesaver found dead on Sunshine Coast",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/435a464049d059aa3131f887298aa9b7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=469&amp;width=862&amp;height=485"
+      },
+      "description": "The alarm was raised when the 18-year-old failed to return to the beach on Wednesday, setting off a major search operation.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-06/swimmer-found-dead-sunshine-coast-beach/106426896"
+    },
+    {
       "published_datetime": "2026-03-06T08:37:24.000000Z",
       "title": "Woman who put holes in friend's condoms found not guilty of intent to harm",
       "featured_image": {
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-03-06T08:25:13.000000Z",
-      "title": "Live: Humphrey helps Suns to red-hot start against Geelong",
+      "title": "Live: Suns making red-hot start to AFL season against Geelong",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/05160cd6083114fe5e6ba66dc3ed018f?impolicy=wcms_crop_resize&amp;cropH=1418&amp;cropW=2520&amp;xPos=0&amp;yPos=56&amp;width=862&amp;height=485"
       },
@@ -83,11 +92,11 @@
     },
     {
       "published_datetime": "2026-03-06T06:09:35.000000Z",
-      "title": "Live: Panthers issue reminder of their class as premiers Brisbane stumble out the gate",
+      "title": "Live: Broncos crash back to earth as Panthers get revenge in NRL opener",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2aa8ce9f0e4f8e066fde96413654d552?impolicy=wcms_crop_resize&amp;cropH=782&amp;cropW=1391&amp;xPos=0&amp;yPos=34&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3dad52dd6ca7b628e3661e516bb9bd43?impolicy=wcms_crop_resize&amp;cropH=2468&amp;cropW=4388&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The Roosters start their season in New Zealand against the Warriors before defending premiers Brisbane host the Panthers in a rematch of last year's epic preliminary final at Lang Park. Follow live.",
+      "description": "The Panthers remind the NRL of their brilliance with a ruthless 26-0 win over premiers Brisbane to kick off their 2026 season, exacting revenge for last year's epic preliminary final loss at Lang Park. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-06/nrl-live-blog-warriors-roosters-broncos-panthers/106424974"
     },
     {
@@ -182,15 +191,6 @@
       },
       "description": "For all the chaos, the terror and the loss of life in the past week following America's war on Iran, oil prices have managed to maintain a semblance of stability.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-06/oil-reaction-trump-attack-on-iran/106424164"
-    },
-    {
-      "published_datetime": "2026-03-06T03:14:52.000000Z",
-      "title": "Noem's firing proves loyalty doesn't make you untouchable",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6cdd88010ff73c9750004bff53e6c383?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=12&amp;width=862&amp;height=485"
-      },
-      "description": "Kristi Noem discovers that loyalty alone doesn't make you untouchable, becoming the first cabinet secretary to be fired in Donald Trump's second administration.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-06/kristi-noem-fired-donald-trump-homeland-secretary/106424582"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cbfccab2-036e-4c34-8695-263c5ff8b4b1",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-06T10:26:10.643881"
+  "merged_at": "2026-03-06T11:21:49.912825"
 }
