@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-06T22:56:13.000000Z",
+      "title": "'If I die, I am OK with it': The people who broke through Iran's blackout",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3ece1474b6193f226c1d4c6c7c744f72?impolicy=wcms_crop_resize&amp;cropH=1599&amp;cropW=2843&amp;xPos=963&amp;yPos=695&amp;width=862&amp;height=485"
+      },
+      "description": "While the country's strict Islamist regime has blocked the internet and other forms of communication for most people, some have found a way to get their stories out.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-07/iran-citizens-on-one-week-in-us-israel-war-and-regime-change/106426200"
+    },
+    {
+      "published_datetime": "2026-03-06T22:33:18.000000Z",
+      "title": "Breaking: 'More pain to come' as oil surges past $90 per barrel",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef8b30de98d07e644d4b6370f353a4ab?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=257&amp;width=862&amp;height=485"
+      },
+      "description": "US crude oil has posted its biggest weekly gain in futures trading history, with the war in the Middle East leading to a major disruption to global fuel supplies.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-07/iran-war-pushes-oil-price-above-90-dollars/106427656"
+    },
+    {
       "published_datetime": "2026-03-06T21:09:50.000000Z",
       "title": "LNP smashes 'break glass in case of emergency' box of distractions",
       "featured_image": {
@@ -58,15 +76,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-07/safe-haven-status-of-the-us-dollar-rba/106425848"
     },
     {
-      "published_datetime": "2026-03-06T20:17:01.000000Z",
-      "title": "Cory Bernardi stands by bestiality claim ahead of SA election",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/acea42fa1ecf43eeebcc5fcef05adb46?impolicy=wcms_crop_resize&amp;cropH=2808&amp;cropW=4993&amp;xPos=0&amp;yPos=144&amp;width=862&amp;height=485"
-      },
-      "description": "One Nation's South Australian lead candidate Cory Bernardi says he \"100 per cent\" stands by highly controversial comments he made almost 14 years ago linking gay marriage to the social acceptance of bestiality.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-07/cory-bernardi-stands-by-bestiality-claim-ahead-of-sa-election/106423186"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/55f9176b-2ba9-4c63-8ba8-a84a473cce27",
       "published_datetime": "2026-03-06T19:16:59.095127",
       "title": "Iceland sets Aug. 29 referendum on resuming EU talks",
@@ -80,15 +89,6 @@
       "audio_url": "",
       "url": "iceland-sets-aug-29-referendum-BJehJoQxRheI3dlQ6xKdUw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-03-06T19:00:00.000000Z",
-      "title": "Satellite imagery shows strikes around Iranian school where girls were killed",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1756341a00c66ecbc1128b92fb05b0a8?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "ABC NEWS Verify has analysed footage and satellite imagery to investigate what happened at a girl's elementary school in Minab, Iran.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-07/verify-satellite-imagery-direct-strikes-around-minab-school/106419210"
     },
     {
       "published_datetime": "2026-03-06T18:30:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-06T22:19:02.512533"
+  "merged_at": "2026-03-06T23:19:43.836955"
 }
