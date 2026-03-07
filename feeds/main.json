@@ -11,7 +11,7 @@
     },
     {
       "published_datetime": "2026-03-07T05:38:01.000000Z",
-      "title": "Hero teen reunited with rescuers who saved family swept out to sea",
+      "title": "'I'm not a hero': Austin Appelbee reunited with rescuers who saved family",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/44e30bb7bb31dc6a734a6af5238b1d6c?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=180&amp;width=862&amp;height=485"
       },
@@ -19,30 +19,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-07/appelbee-family-thanks-rescuers-who-saved-them/106425048"
     },
     {
-      "published_datetime": "2026-03-07T05:09:18.000000Z",
-      "title": "Media personality, broadcaster, and Agro puppeteer Jamie Dunn dies aged 76",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/407e508e662b5bd95b495038b6e7dfea?impolicy=wcms_crop_resize&amp;cropH=2266&amp;cropW=4029&amp;xPos=0&amp;yPos=144&amp;width=862&amp;height=485"
-      },
-      "description": "Dunn was a long-standing host of the B105 breakfast program but was known across the country as Agro \u2014 a puppet made out of a bath mat that rose to fame in 1990s.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-07/brisbane-media-personality-jamie-dunn-dies/106428130"
-    },
-    {
       "published_datetime": "2026-03-07T05:03:50.000000Z",
-      "title": "Live: Perry makes history at the WACA as Australia takes first-innings lead",
+      "title": "Live: Sutherland and Perry make history at the WACA as Australia takes first-innings lead",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/46e798c59da17c84c307758366d1d42c?impolicy=wcms_crop_resize&amp;cropH=2288&amp;cropW=4068&amp;xPos=0&amp;yPos=135&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d2d1b042dfbf0ef2b8ac4f39daf93ae4?impolicy=wcms_crop_resize&amp;cropH=1717&amp;cropW=3052&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
       },
       "description": "Australia will be hoping its star-studded middle order can provide it a big first-innings lead as India searches for wickets on day two at the WACA. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-07/australia-vs-india-women-s-test-day-two-live-blog/106428124"
     },
     {
       "published_datetime": "2026-03-07T04:38:43.000000Z",
-      "title": "Live: Mercedes dominate F1 qualifying, Verstappen crashes out in Melbourne",
+      "title": "Mercedes flex muscle as Russell claims pole, Piastri qualifies fifth",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c78f006ba534c803d9df76df7fdfe3df?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=7&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b918524720c1050991876356c717088d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=31&amp;width=862&amp;height=485"
       },
-      "description": "Oscar Piastri has qualified fifth for Sunday's Australian Grand Prix, as Mercedes driver George Russell dominated to take pole. Follow live.",
+      "description": "Mercedes has lived up to the preseason hype with a dominant qualifying performance, locking out the front row of the grid for Sunday's Australian Grand Prix.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-07/f1-live-australian-grand-prix-qualifying/106413532"
     },
     {
@@ -92,6 +83,15 @@
       "audio_url": "",
       "url": "iran-s-guards-dare-us-navy-to-xo3A47DLQQmK7KoZqvDaaA",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-03-07T01:15:21.000000Z",
+      "title": "The Catholic priest who quit over celibacy rules",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a30b6926d825905e1d3ee141d132ac15?impolicy=wcms_crop_resize&amp;cropH=1582&amp;cropW=2813&amp;xPos=0&amp;yPos=568&amp;width=862&amp;height=485"
+      },
+      "description": "Alberto Ravagnani quit the Catholic priesthood last month saying it was too difficult to remain celibate.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-07/alberto-ravagnani-quits-catholic-ministry/106423724"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/263866fc-28ef-4067-adea-c74a16da890a",
@@ -237,7 +237,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e3b927bd1996b2c64cadf601ad826162?impolicy=wcms_crop_resize&amp;cropH=2222&amp;cropW=3950&amp;xPos=195&amp;yPos=584&amp;width=862&amp;height=485"
       },
-      "description": "Follow live.",
+      "description": "US President Donald Trump says there will be \"no deal with Iran except unconditional surrender\", as the conflict in the Middle East enters its second week. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-07/us-israel-attacks-iran-live-updates-middle-east-war/106426908"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-07T07:22:20.998030"
+  "merged_at": "2026-03-07T08:20:04.600144"
 }
