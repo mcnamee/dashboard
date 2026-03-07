@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-07T14:15:03.000000Z",
+      "title": "Breaking: Rapper-turned-politician Balen Shah defeats former PM in historic Nepal election",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1bb2410fd3d52b49a686cdb90fef4009?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=227&amp;width=862&amp;height=485"
+      },
+      "description": "Balen Shah's Rastriya Swatantra Party is set to win a commanding share of parliamentary seats, defeating Nepal\u2019s traditional political heavyweights.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-08/nepal-election-rapper-turned-politican-balen-shah-party-victory/106428916"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/41e69d8f-8ef7-4037-b0f4-a4bbc450f9c5",
+      "published_datetime": "2026-03-07T12:20:49.239036",
+      "title": "Reports: Israel used Blue Sparrow missile to kill Khamenei",
+      "featured_image": {
+        "url": "https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed",
+        "name": "Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year iron rule",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--DpxgU8Z---/t_limit/https://media.npr.org/assets/img/2022/09/16/ap17079498857800_wide-9307243360e1a8534d95eb01476568e7f46a2b4a.jpg%3Fs%3D1400%26c%3D85%26f%3Djpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--cSBhQ2eo--/t_thumbnail/https://media.npr.org/assets/img/2022/09/16/ap17079498857800_wide-9307243360e1a8534d95eb01476568e7f46a2b4a.jpg%3Fs%3D1400%26c%3D85%26f%3Djpeg"
+      },
+      "description": "Iran's Supreme Leader Ayatollah Ali Khamenei was killed on February 28 in a joint U.S.-Israeli airstrike on his compound in Tehran, in what Israel dubbed Operation Roaring Lion. Reports now indicate that among the weapons deployed was the Blue Sparrow, an Israeli air-launched ballistic missile that briefly exits the atmosphere before plunging nearly vertically onto its target at hypersonic speed.",
+      "audio_url": "",
+      "url": "reports-israel-used-blue-sparr-.9m8Y9J2Q56zh9x2W1TByg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b1b24bbf-8414-4248-8604-8ef0bc67d84b",
+      "published_datetime": "2026-03-07T12:10:00.952341",
+      "title": "Mideast war widens as Iran missiles hit Tel Aviv, Gulf states intercept strikes",
+      "featured_image": {
+        "url": "https://www.timesofisrael.com/smaller-volleys-more-alerts-attacking-israel-anew-iran-shifts-tack-on-missile-barrages/",
+        "name": "Smaller volleys, more alerts: Attacking Israel anew, Iran ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--DYs90bEn--/t_limit/https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260302__99NF8GU__v1__HighRes__IsraelIranUsConflict.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--75NY8neO--/t_thumbnail/https://static-cdn.toi-media.com/www/uploads/2026/03/AFP__20260302__99NF8GU__v1__HighRes__IsraelIranUsConflict.jpg"
+      },
+      "description": "Iran's Islamic Revolutionary Guard Corps announced this week that its hypersonic missiles and advanced drones bypassed the US-made THAAD missile defense system and struck targets in central Israel, including the Israeli Defense Ministry building and Ben Gurion International Airport near Tel Aviv, according to the IRGC's statement carried by Iranian state news agency IRNA. The claims, which Israel has disputed, came as a Chinese research paper published days earlier predicted that US missile defenses were \"dangerously outmatched\" by hypersonic threats \u2014 an assessment that footage from the conflict appeared to support.[1]",
+      "audio_url": "",
+      "url": "mideast-war-widens-as-iran-mis-xCjw0mVgQGmk3kkVc8iFZg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3b3500e8-6e8c-4935-bd25-2676f1a60d1c",
+      "published_datetime": "2026-03-07T11:20:04.298727",
+      "title": "Chinese study on US missile defense gaps validated by Iran war, analysts say",
+      "featured_image": {
+        "url": "https://thehill.com/policy/international/4036578-iran-claims-it-has-hypersonic-missile/",
+        "name": "Iran claims it has hypersonic missile",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--XiaUbzYg--/t_limit/https://thehill.com/wp-content/uploads/sites/2/2023/06/iranhypersonicmissile_060623ap.jpg%3Fw%3D900",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--1WX92XaA--/t_thumbnail/https://thehill.com/wp-content/uploads/sites/2/2023/06/iranhypersonicmissile_060623ap.jpg%3Fw%3D900"
+      },
+      "description": "As the US-Israeli war on Iran enters its second week, Iran's deployment of hypersonic missiles has exposed vulnerabilities in some of the world's most advanced air defense systems \u2014 outcomes that a Chinese research team had predicted in a paper published before the conflict began.",
+      "audio_url": "",
+      "url": "chinese-study-on-us-missile-de-IQM8lTkWQeSZyq6mZdqr5w",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-07T09:00:55.000000Z",
       "title": "Quick hits: Verstappen's big crash and Mercedes accused of sandbagging",
       "featured_image": {
@@ -50,15 +104,6 @@
       },
       "description": "A WA family who made global headlines when they were rescued after being swept out to sea have been reunited with the local heroes who saved them.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-07/appelbee-family-thanks-rescuers-who-saved-them/106425048"
-    },
-    {
-      "published_datetime": "2026-03-07T05:03:50.000000Z",
-      "title": "Superstar Sutherland backs up record-breaking ton with key wickets",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0969c0015953c27808ca78b42a42e0de?impolicy=wcms_crop_resize&amp;cropH=2811&amp;cropW=4998&amp;xPos=0&amp;yPos=136&amp;width=862&amp;height=485"
-      },
-      "description": "An all-round masterclass by Annabel Sutherland has Australia on the brink of victory against India after day two of the day-night Test at the WACA.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-07/australia-vs-india-women-s-test-day-two-live-blog/106428124"
     },
     {
       "published_datetime": "2026-03-07T02:58:51.000000Z",
@@ -169,51 +214,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fa1d8133-b8a7-4b0a-99ca-007efb251034",
-      "published_datetime": "2026-03-07T00:01:53.882607",
-      "title": "U.S. probe points to likely American role in Iran school strike",
-      "featured_image": {
-        "url": "https://www.yahoo.com/news/articles/iranian-officials-claim-school-hit-211937436.html",
-        "name": "Iranian officials claim school hit during US-Israeli army strikes",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--UIA7fQVo--/t_limit/https://s.yimg.com/ny/api/res/1.2/XCjQAwRcN7VY.mep.gwyyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/us.abcnews.go.com/bbb7bddc82f3f735dd62d5c17264f62f",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--9FGBuKNX--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/XCjQAwRcN7VY.mep.gwyyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/us.abcnews.go.com/bbb7bddc82f3f735dd62d5c17264f62f"
-      },
-      "description": "The death toll from the U.S.-Israeli military campaign against Iran has reached at least 1,230, Iran's state-run Foundation of Martyrs and Veterans Affairs reported on Thursday, as strikes continued across the country for a sixth consecutive day since the war began on February 28. Iran's Health Ministry said 6,186 people have been wounded, with more than 2,000 hospitalized.[1][2]\n\nThe grim milestone came the same day Reuters reported that U.S. military investigators believe it is likely that American forces were responsible for the deadliest single attack of the conflict \u2014 a strike on a girls' elementary school in the southern city of Minab on the war's opening day that Iranian officials say killed at least 175 people, most of them children between the ages of 7 and 12.[3][4]",
-      "audio_url": "",
-      "url": "u-s-probe-points-to-likely-ame-h2Y5jLz_QCmKr3afOwfruA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9ec1492c-2be6-4333-845c-1279e994077e",
-      "published_datetime": "2026-03-06T23:53:25.236374",
-      "title": "Iran warns Europe of retaliation if nations join US-Israeli strikes",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/europe/eu-countries-joining-us-israel-attacks-would-become-irans-legitimate-target-2026-03-06/",
-        "name": "EU countries joining US, Israel attacks would become Iran's \"legitimate  target\", Deputy Minister says | Reuters",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--85ObJQ1N--/t_limit/https://www.reuters.com/resizer/v2/NXXXEQBAWBIS7I3EINZMHA6A3Y.jpg%3Fauth%3Dd8d18183a18c9887c5ba81f3933087f5da2bb16db8cd2e9605673c1cb179c475%26width%3D1080%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--__mxmb03--/t_thumbnail/https://www.reuters.com/resizer/v2/NXXXEQBAWBIS7I3EINZMHA6A3Y.jpg%3Fauth%3Dd8d18183a18c9887c5ba81f3933087f5da2bb16db8cd2e9605673c1cb179c475%26width%3D1080%26quality%3D80"
-      },
-      "description": "Iran's Deputy Foreign Minister Majid Takht-Ravanchi warned Friday that any European country joining the United States and Israel in military operations against Iran would become a \"legitimate target\" for Iranian retaliation, escalating a confrontation that has increasingly drawn the continent into a widening Middle East conflict.\n\n\"Any country that joins in the aggression against Iran, joins America and Israel in the aggression against Iran, definitely, they will be also legitimate targets for Iran retaliation,\" Takht-Ravanchi said in an interview with France 24. He added that Tehran had \"already informed the Europeans and everybody else that they should be careful not to be involved in this war of aggression against Iran\".[1][2][3][4]",
-      "audio_url": "",
-      "url": "iran-warns-europe-of-retaliati-sqsk.wi5TNOtkO5QwimVxA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fa128863-c583-4242-b425-6d83ed49dae6",
-      "published_datetime": "2026-03-06T23:49:16.966984",
-      "title": "UN chief warns Iran conflict could spiral out of control",
-      "featured_image": {
-        "url": "https://global.chinadaily.com.cn/a/202410/02/WS66fc4f9ea310f1265a1c5e47.html",
-        "name": "UN chief condemns broadening of conflict in Middle East ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--lHN99WRF--/t_limit/https://img2.chinadaily.com.cn/images/202410/02/66fcf38aa310f1268d8233ee.jpeg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--8Zq3ylbZ--/t_thumbnail/https://img2.chinadaily.com.cn/images/202410/02/66fcf38aa310f1268d8233ee.jpeg"
-      },
-      "description": "United Nations Secretary-General Ant\u00f3nio Guterres condemned \"unlawful attacks\" across the Middle East on Friday and warned that the week-old conflict between the United States, Israel, and Iran risks careening past the point of no return. \"The situation could spiral beyond anyone's control. It is time to stop the fighting and get to serious diplomatic negotiations,\" Guterres said in a statement.[1][2]\n\nThe warning came as the joint US-Israeli air campaign against Iran, launched on February 28, entered its seventh day with no sign of abating. Washington has said it aims to curb nuclear and missile threats from Tehran, but the strikes have also decapitated Iran's government, and President Donald Trump is now demanding \"unconditional surrender,\" according to Agence France-Presse.[2]",
-      "audio_url": "",
-      "url": "un-chief-warns-iran-conflict-c-tx7enONHQwiHZ1GgqScIFg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-06T20:45:25.000000Z",
       "title": "Good Samaritan killed while trying to protect boy from group assault",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-07T14:16:34.497446"
+  "merged_at": "2026-03-07T15:14:57.918018"
 }
