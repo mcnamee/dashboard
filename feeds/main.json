@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-07T05:03:50.000000Z",
+      "title": "Live: Perry at the crease as Australia aims for first-innings lead on day two",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b56220d2a03239b39fcd1b22f54be085?impolicy=wcms_crop_resize&amp;cropH=2064&amp;cropW=3669&amp;xPos=0&amp;yPos=113&amp;width=862&amp;height=485"
+      },
+      "description": "Australia will be hoping its star-studded middle order can provide it a first-innings lead as India searches for wickets on day two at the WACA. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-07/australia-vs-india-women-s-test-day-two-live-blog/106428124"
+    },
+    {
+      "published_datetime": "2026-03-07T05:00:03.000000Z",
+      "title": "Live: Giants, Hawks clash in Sydney before premiers open campaign in Brisbane",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d496d440b3181ab3ecf79cc6e44c4244?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "An injury-hit GWS side opens their season against Hawthorn in Sydney, before the Brisbane Lions unfurl their premiership flag against the Bulldogs. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-07/afl-opening-round-giants-hawks-lions-bulldogs-live-blog/106427374"
+    },
+    {
+      "published_datetime": "2026-03-07T04:38:43.000000Z",
+      "title": "Live: Verstappen crashes out of F1 qualifying, Piastri near the front",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a06a0ab7fae7cc2d7e5f4f56a4a6cc24?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The first qualifying session for the 2026 Formula 1 season is approaching at Albert Park. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-07/f1-live-australian-grand-prix-qualifying/106413532"
+    },
+    {
       "published_datetime": "2026-03-07T02:58:51.000000Z",
       "title": "If 'mini supreme leader' Mojtaba Khamenei rises to power, it will send a message",
       "featured_image": {
@@ -8,24 +35,6 @@
       },
       "description": "As senior clerics responsible for selecting Iran's next supreme leader met this week to discuss their pick, a familiar name emerged as the frontrunner: Mojtaba Khamenei.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-07/iran-supreme-leader-son-mojtaba-khamenei-and-war/106419508"
-    },
-    {
-      "published_datetime": "2026-03-07T02:00:00.000000Z",
-      "title": "'I'm not going to sit here and get killed': Trans lives in Trump's America",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ce30c5b070e2ca9552e7afdc14b1f1f6?impolicy=wcms_crop_resize&amp;cropH=1701&amp;cropW=3024&amp;xPos=0&amp;yPos=1166&amp;width=862&amp;height=485"
-      },
-      "description": "Since Donald Trump returned to power last year, trans Americans say they feel dehumanised, unsafe and isolated from public spaces. For some, Australia has provided a safe haven.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-07/transgender-americans-donald-trump-anti-trans-safety/106251956"
-    },
-    {
-      "published_datetime": "2026-03-07T02:00:00.000000Z",
-      "title": "We met a great wall of polite silence at China's National People's Congress",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/577f9a45338c3bfe1496eff90b67bb76?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=297&amp;width=862&amp;height=485"
-      },
-      "description": "China gives foreign journalists one chance each year to speak with politicians. Here\u2019s what happened when I tried.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-07/china-does-not-want-politicians-talking-to-reporters/106425346"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/152fdf56-95be-422d-a2cc-e346ec56c6dd",
@@ -166,15 +175,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-06T23:12:58.000000Z",
-      "title": "'Most brazen acts of corruption': Obeid family loses $30m worth of property",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5e166157f7744c3898f9af2ac4ef8232?impolicy=wcms_crop_resize&amp;cropH=798&amp;cropW=1418&amp;xPos=0&amp;yPos=12&amp;width=862&amp;height=485"
-      },
-      "description": "After investigations spanning a decade, the NSW Crime Commission says it has taken control of more than $30 million worth of properties linked to former New South Wales Labor politician Eddie Obeid.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-07/obeid-family-lose-control-of-30m-worth-sydney-properties/106427598"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/95e52560-0575-4bf9-b1b9-7d4009839630",
       "published_datetime": "2026-03-06T23:03:06.302664",
       "title": "Trump administration launches $20B reinsurance plan for Gulf shipping",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-07T04:55:38.898883"
+  "merged_at": "2026-03-07T05:33:24.843693"
 }
