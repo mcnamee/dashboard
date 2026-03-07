@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-07/f1-australian-grand-prix-qualifying-quick-hits-from-albert-park/106427712"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a0a08dfb-33ad-4963-8950-8f98340c1d4f",
+      "published_datetime": "2026-03-07T08:53:10.959324",
+      "title": "ALMA finds high methanol levels in interstellar comet 3I/ATLAS",
+      "featured_image": {
+        "url": "https://g1.globo.com/ciencia/noticia/2026/03/07/cometa-interestelar-3iatlas-tem-quantidade-incomum-de-alcool-revelam-novos-dados.ghtml",
+        "name": "Cometa interestelar 3I/ATLAS tem quantidade incomum de \u00e1lcool | G1",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--PXsmOTg1--/t_limit/https://s2-g1.glbimg.com/ddVcO5kuu-SPNhni_j5b0Zg-uXs%3D/6000x0/filters:format%2528jpeg%2529/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/X/KnVG3DThy77TBdHHJF1g/nrao-016-3i-atlas-2g-lrg.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s---tftIE_D--/t_thumbnail/https://s2-g1.glbimg.com/ddVcO5kuu-SPNhni_j5b0Zg-uXs%3D/6000x0/filters:format%2528jpeg%2529/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/X/KnVG3DThy77TBdHHJF1g/nrao-016-3i-atlas-2g-lrg.jpg"
+      },
+      "description": "Astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA) have discovered that interstellar comet 3I/ATLAS contains an unusually large amount of methanol, far exceeding what is typically found in comets born in our own solar system, according to new findings released by the National Radio Astronomy Observatory on March 6.[1][2]\n\nThe research, led by Nathan Roth of American University, reveals that 3I/ATLAS is one of the most methanol-rich comets ever studied \u2014 offering scientists a rare chemical fingerprint from another planetary system without ever leaving our own.",
+      "audio_url": "",
+      "url": "alma-finds-high-methanol-level-los0WCz3Sx2_oxWE6MEqww",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-07T08:21:52.000000Z",
       "title": "Iran's women's football team being held 'hostage' amid calls for them to remain in Australia",
       "featured_image": {
@@ -199,21 +214,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/95e52560-0575-4bf9-b1b9-7d4009839630",
-      "published_datetime": "2026-03-06T23:03:06.302664",
-      "title": "Trump administration launches $20B reinsurance plan for Gulf shipping",
-      "featured_image": {
-        "url": "https://www.bloomberg.com/news/articles/2026-03-06/us-launches-20-billion-reinsurance-plan-to-ease-gulf-oil-trade",
-        "name": "Strait of Hormuz: US Launches $20 Billion Reinsurance Plan ...",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1772838033/url_uploads/-1x-1_snzqht.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1772838033/url_uploads/-1x-1_snzqht.jpg"
-      },
-      "description": "The Trump administration on Friday unveiled a $20 billion federal reinsurance program aimed at restoring oil tanker traffic through the Strait of Hormuz, where maritime commerce has ground to a near-halt amid the escalating U.S.-Iran conflict. The program, announced jointly by the U.S. International Development Finance Corporation (DFC) and Treasury Secretary Scott Bessent, will cover war risk losses on a rolling basis for vessels transiting the volatile Gulf region.[1][2]\n\nThe DFC said in its official statement that the facility will initially focus on hull and machinery and cargo insurance, and that it has identified \"best-in-class, preferred American insurance partners\" to work alongside. The agency and Treasury are coordinating closely with U.S. Central Command on implementation.[2]",
-      "audio_url": "",
-      "url": "trump-administration-launches-DnbksS9DQ0mylRjNwk8LRg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-06T20:45:25.000000Z",
       "title": "Good Samaritan killed while trying to protect boy from group assault",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-07T11:13:04.336329"
+  "merged_at": "2026-03-07T11:26:46.201504"
 }
