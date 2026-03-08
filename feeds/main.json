@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e08dc83b-70db-4b05-bbf0-b2e8f8ea1d2d",
+      "published_datetime": "2026-03-08T15:04:44.676775",
+      "title": "Israel strikes Iran oil sites, Beirut hotel as war widens",
+      "featured_image": {
+        "url": "https://www.npr.org/2026/03/08/nx-s1-5741654/israel-iran-oil-ayatollah-successor",
+        "name": "Israel hits Iran\u2019s oil depots as clerics say consensus reached on Ayatollah successor",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--2YEY8yXy--/t_limit/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375%2B0%2B313/resize/1400/quality/85/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F4b%252F1a%252Fbd8812c648099e0e2fb59b0e698f%252Fap26067343102389.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--WabRxS-7--/t_thumbnail/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375%2B0%2B313/resize/1400/quality/85/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F4b%252F1a%252Fbd8812c648099e0e2fb59b0e698f%252Fap26067343102389.jpg"
+      },
+      "description": "The U.S.-Israeli war with Iran entered its second week on Sunday with no signs of abating, as Israel struck oil facilities in Tehran and targeted Iranian commanders in central Beirut while Iran pressed its missile and drone campaign against Gulf Arab states, hitting a desalination plant in Bahrain and fuel tanks at Kuwait's international airport.",
+      "audio_url": "",
+      "url": "israel-strikes-iran-oil-sites-E4atzUK0TIK.7laiOKL4hg",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f4c4bc47-e1ce-440c-8ca1-ff90db69bd17",
       "published_datetime": "2026-03-08T14:05:03.893386",
       "title": "Iran war puts Gulf's desalination plants at risk",
@@ -208,21 +223,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-08/ian-huntley-one-of-uk-most-notorious-child-killers-dies/106429426"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/25484752-fce0-4ee1-83e9-10504545b021",
-      "published_datetime": "2026-03-07T21:51:01.826819",
-      "title": "Iran's hypersonic missiles test US, Israeli defenses as conflict enters second week",
-      "featured_image": {
-        "url": "https://interestingengineering.com/military/did-irans-khyber-missile-pierce-israel-defense",
-        "name": "Iran claims its Khyber hypersonic missile hit near ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--JmeGRLPy--/t_limit/https://interestingengineering.com/_next/image%3Furl%3Dhttps%253A%252F%252Fcms.interestingengineering.com%252Fwp-content%252Fuploads%252F2026%252F03%252FIE-Photo-22.jpg%26w%3D3840%26q%3D75",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--S4vfG44z--/t_thumbnail/https://interestingengineering.com/_next/image%3Furl%3Dhttps%253A%252F%252Fcms.interestingengineering.com%252Fwp-content%252Fuploads%252F2026%252F03%252FIE-Photo-22.jpg%26w%3D3840%26q%3D75"
-      },
-      "description": "As the US-Israeli military campaign against Iran enters its second week, Iranian hypersonic and maneuverable ballistic missiles have repeatedly penetrated the layered air defense systems deployed across the region, raising urgent questions about the ability of existing Western interceptors to counter next-generation missile threats. A Chinese research paper published the same day the conflict began appears to have predicted those vulnerabilities with striking accuracy.",
-      "audio_url": "",
-      "url": "iran-s-hypersonic-missiles-tes-PZTas5SLSg2qiBQ5rz_PgA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-07T20:47:36.000000Z",
       "title": "Three charged with murdering 'quiet hero' at Melbourne railway station",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-08T15:15:37.112410"
+  "merged_at": "2026-03-08T15:30:53.623374"
 }
