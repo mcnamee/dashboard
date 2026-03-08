@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-08T22:03:50.000000Z",
+      "title": "'Let them go': Chaos erupts as protesters surround Iran team bus on Gold Coast",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/16751a57a67b3d9e5512ff23ee753089?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=179&amp;width=862&amp;height=485"
+      },
+      "description": "Protesters surround the Iranian women's football team bus after their final match in the Asian Cup, as fears grow for their safety.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-09/asian-cup-2026-protesters-surround-iran-team-bus/106431212"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e4136623-a105-4fa2-8dd4-2c5dd1927648",
       "published_datetime": "2026-03-08T21:13:53.630879",
       "title": "Iran reaffirms military alliance with Russia as war intensifies",
@@ -53,6 +62,15 @@
       },
       "description": "The government has urged family members and dependents of Australian officials posted to the United Arabs Emirates to leave as the conflict in the region continues. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/federal-politics-live-iran-wong-albanese-taylor/103884482"
+    },
+    {
+      "published_datetime": "2026-03-08T19:56:33.000000Z",
+      "title": "Live: ASX tumbles nearly 3pc, as oil prices surge past $US100",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f55a13d734a86c9ea418ba45250c9272?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
+      },
+      "description": "With surging oil prices and weak US jobs figures sending Wall Street lower, the ASX has been hit by heavy selling. Brent crude has spiked more than 15pc. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-09/asx-markets-business-news-live-updates-march-9/106429652"
     },
     {
       "published_datetime": "2026-03-08T19:55:08.000000Z",
@@ -109,15 +127,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-08T19:30:33.000000Z",
-      "title": "People doing EMDR mental health therapy warned they may lose legal justice",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/157c1cd64ccaa2b313f83976916d01aa?impolicy=wcms_crop_resize&amp;cropH=2402&amp;cropW=4270&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Katie Bird sought psychological help for intrusive memories related to alleged sexual abuse. Her court case was discontinued because she underwent eye movement desensitisation and reprocessing (EMDR) therapy.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-09/mental-health-emdr-therapy-may-have-cost-katie-justice/106425114"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/435bd27b-0fba-4da0-845a-052506e710fe",
       "published_datetime": "2026-03-08T19:29:42.755897",
       "title": "Israel says it killed Iran's new military bureau chief in Tehran strike",
@@ -151,7 +160,7 @@
       "published_datetime": "2026-03-08T19:19:57.000000Z",
       "title": "Live: Khamenei's son named as Iran's new supreme leader, state media reports",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/854dc9c45769dfd17b029a9f363024fe?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3f5793e469f8a7c434844ab9031b03ed?impolicy=wcms_crop_resize&amp;cropH=2221&amp;cropW=3948&amp;xPos=0&amp;yPos=206&amp;width=862&amp;height=485"
       },
       "description": "Mojtaba Khamenei will replace his father Ayatollah Ali Khamenei as the country's new supreme leader, state media has reported. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/war-in-the-middle-east-live-trump-israel-iran-live-march-9/106429686"
@@ -232,15 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/oil-markets-qatar-gulf-iran-religion-litics-straight-of-hormuz/106380388"
     },
     {
-      "published_datetime": "2026-03-08T18:00:00.000000Z",
-      "title": "The world has changed since 2003 and so has Anthony Albanese",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28ef840ff8c09c9d8a035c15854f9519?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Albanese government will need to be explicit about what it is doing in the Middle East or risk a growing concern that it is being drawn into another war.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-09/us-israel-iran-australia-labor-left-anthony-albanese-penny-wong/106419442"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-08T22:14:52.065478"
+  "merged_at": "2026-03-08T23:15:44.313217"
 }
