@@ -10,21 +10,60 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-08/government-request-military-asset-gulf-states-iran-war-/106429450"
     },
     {
-      "published_datetime": "2026-03-07T20:58:14.000000Z",
-      "title": "Matildas hope other Asian nations don't have to keep fighting for the basics",
+      "published_datetime": "2026-03-07T23:00:41.000000Z",
+      "title": "Live: Reigning champ Norris claims new F1 cars 'probably the worst' to drive",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e48e31bdb105ef65bfb43795ee021708?impolicy=wcms_crop_resize&amp;cropH=2764&amp;cropW=4913&amp;xPos=0&amp;yPos=216&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3760528c5dfa7f56846a60c7630365af?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "There was a time when the Matildas had to fight and scrap for pay, recognition, and respect. They hope the Women's Asian Cup can change things for other nations.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-08/matildas-womens-asian-cup-south-korea-fight-basic-standards/106428660"
+      "description": "The first race of the Formula 1 season is here, with thousands flocking to Melbourne's Albert Park for the Australian Grand Prix. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-08/f1-live-australian-grand-prix-2026-albert-park-melbourne/106413560"
+    },
+    {
+      "published_datetime": "2026-03-07T23:00:00.000000Z",
+      "title": "This pristine tourist hotspot is being preserved by those who love it most",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0170a1ca9b4902f909c3793c6e7320b3?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "This tiny community is enduring the ultimate balancing act, keeping hordes of tourists happy, mitigating the impacts of climate change and protecting their World Heritage-listed home. Lisa Millar explores how Shark Bay not only survives, but thrives.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-08/protecting-the-beauty-of-shark-bay/106283828"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/25484752-fce0-4ee1-83e9-10504545b021",
+      "published_datetime": "2026-03-07T21:51:01.826819",
+      "title": "Iran's hypersonic missiles test US, Israeli defenses as conflict enters second week",
+      "featured_image": {
+        "url": "https://interestingengineering.com/military/did-irans-khyber-missile-pierce-israel-defense",
+        "name": "Iran claims its Khyber hypersonic missile hit near ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--JmeGRLPy--/t_limit/https://interestingengineering.com/_next/image%3Furl%3Dhttps%253A%252F%252Fcms.interestingengineering.com%252Fwp-content%252Fuploads%252F2026%252F03%252FIE-Photo-22.jpg%26w%3D3840%26q%3D75",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--S4vfG44z--/t_thumbnail/https://interestingengineering.com/_next/image%3Furl%3Dhttps%253A%252F%252Fcms.interestingengineering.com%252Fwp-content%252Fuploads%252F2026%252F03%252FIE-Photo-22.jpg%26w%3D3840%26q%3D75"
+      },
+      "description": "As the US-Israeli military campaign against Iran enters its second week, Iranian hypersonic and maneuverable ballistic missiles have repeatedly penetrated the layered air defense systems deployed across the region, raising urgent questions about the ability of existing Western interceptors to counter next-generation missile threats. A Chinese research paper published the same day the conflict began appears to have predicted those vulnerabilities with striking accuracy.",
+      "audio_url": "",
+      "url": "iran-s-hypersonic-missiles-tes-PZTas5SLSg2qiBQ5rz_PgA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/af998c80-cbf3-4047-8765-bddef6a3f742",
+      "published_datetime": "2026-03-07T21:39:33.983405",
+      "title": "Chinese scientists use AI to build first chemical map of moon's far side",
+      "featured_image": {
+        "url": "https://www.livescience.com/space/the-moon/china-lands-change-6-sample-return-probe-on-far-side-of-the-moon",
+        "name": "China lands Chang'e 6 sample-return probe on far side of the ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--CFfxmq9r--/t_limit/https://cdn.mos.cms.futurecdn.net/4z9WkC45LiQgEPJfKtx6r7-1200-80.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--yGUA_EZM--/t_thumbnail/https://cdn.mos.cms.futurecdn.net/4z9WkC45LiQgEPJfKtx6r7-1200-80.jpg"
+      },
+      "description": "Chinese scientists have built the first high-precision chemical map of the moon's entire surface, including its long-unmapped far side, by combining artificial intelligence with data from China's historic Chang'e-6 mission, according to a study published in the peer-reviewed journal Nature Sensors.[1]\n\nThe research, led by the Shanghai Institute of Technical Physics (SITP) under the Chinese Academy of Sciences in collaboration with Tongji University and other Chinese institutions, used a residual convolutional neural network to analyze spectral imaging data calibrated with ground-truth samples retrieved from the far side. The result is the first global distribution map of major lunar oxides that incorporates actual far-side measurements rather than relying solely on near-side calibration data.[2][1]",
+      "audio_url": "",
+      "url": "chinese-scientists-use-ai-to-b-Sx3dzAP4Th.PrcO2E8cDDA",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-03-07T19:26:54.000000Z",
-      "title": "Live: US rejects Iran's claims 'several' US soldiers taken prisoner amid fresh explosions in Tehran",
+      "title": "Live: US rejects Iran's claims 'several' US soldiers captured amid fresh explosions in Tehran",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f0492f7f93391037ca9facb7f93c1e17?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
       },
-      "description": "A series of explosions has been heard in Tehran after Iran rejected the US president's demand for surrender. Follow live.",
+      "description": "Donald Trump says the US and Israel will hit Iran \"very hard\" after Tehran rejected his demand for surrender. \u00a0Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-08/war-in-the-middle-east-live-trump-israel-iran/106429250"
     },
     {
@@ -82,15 +121,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-07T19:17:45.000000Z",
-      "title": "SA government attributes email to wrong man after death, traumatising family",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a06583259ba127e262364d82a3b9f8b3?impolicy=wcms_crop_resize&amp;cropH=2809&amp;cropW=4994&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
-      },
-      "description": "A grieving woman \"feels sick\" after the government releases an email it claims was written by her deceased partner praising his hospital care, after she said ambulance ramping had denied him dignity in his final hours.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-08/sa-government-wrongly-attributes-email-to-deceased-man-/106428332"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6d9f3b71-4ccb-4bc6-b92d-bddf6d1a24c1",
       "published_datetime": "2026-03-07T19:09:58.359215",
       "title": "Dubai airport resumes flights after Iranian drone explodes near terminal",
@@ -131,9 +161,9 @@
     },
     {
       "published_datetime": "2026-03-07T18:30:00.000000Z",
-      "title": "Farrer's vast swathe of Coalition heartland 'at a crossroads' and up for grabs",
+      "title": "After 75 years of Coalition rule, Farrer's voters are ready to flip",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bc856d254c8031a2c29dfafd7d66326c?impolicy=wcms_crop_resize&amp;cropH=2374&amp;cropW=4220&amp;xPos=527&amp;yPos=233&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/07bd1ce5d93d3677d997c0169c7828c9?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "The upcoming Farrer by-election is already being talked about as a litmus test for the new opposition leader and an ascendant One Nation. It'll also be a measure of major party politics.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-08/the-battle-for-coalition-heartland-farrer/106409686"
@@ -184,21 +214,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8a1ddfe9-39d3-48af-969f-c8b3389f29e5",
-      "published_datetime": "2026-03-07T18:01:21.899262",
-      "title": "Balen Shah's party heads for landslide in Nepal's post-protest election",
-      "featured_image": {
-        "url": "https://www.indiatoday.in/world/story/nepal-elections-balendra-shah-rastriya-swatantrata-party-k-p-sharma-oli-communist-party-nepali-congress-gagan-thapa-2878043-2026-03-06",
-        "name": "Nepal's rapper-mayor Balen Shah surges ahead in polls with Gen Z ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--EZe4b_MH--/t_limit/https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/nepal-elections-2026-general-election-balendra-balen-shah-kp-sharma-oli-prachanda-pushpa-kamal-dahal-0416033-original-sixteen-to-nine.jpg%3FVersionId%3DMJyjeBJkYi8zAiw.rvvp29mZmWgGUOFi",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--yMhadoC9--/t_thumbnail/https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/nepal-elections-2026-general-election-balendra-balen-shah-kp-sharma-oli-prachanda-pushpa-kamal-dahal-0416033-original-sixteen-to-nine.jpg%3FVersionId%3DMJyjeBJkYi8zAiw.rvvp29mZmWgGUOFi"
-      },
-      "description": "Rapper-turned-politician Balendra Shah's Rastriya Swatantra Party is heading toward a sweeping victory in Nepal's general elections, upending decades of dominance by the country's traditional political establishment. As of Saturday, the RSP had won 20 seats and was leading in 98 others out of 165 directly elected constituencies in the 275-member House of Representatives, according to the latest Election Commission data reported by NDTV.[1]\n\nShah, 35, delivered the most dramatic result of the election by unseating four-time former Prime Minister KP Sharma Oli in his own stronghold of Jhapa-5. According to final results from the constituency, Shah received 68,348 votes to Oli's 18,734 \u2014 a margin of 49,614 votes. The RSP also took the lead in all constituencies across the Kathmandu Valley and made deep inroads in other provinces.[2][3][4]",
-      "audio_url": "",
-      "url": "balen-shah-s-party-heads-for-l-b2B3KeL8QWOrZgSjf4snpQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-07T18:00:00.000000Z",
       "title": "Will higher fuel prices drive EV uptake? We crunched the numbers",
       "featured_image": {
@@ -209,7 +224,7 @@
     },
     {
       "published_datetime": "2026-03-07T18:00:00.000000Z",
-      "title": "As a middle power Australia will have to stand up to allies",
+      "title": "Uncomfortable truths for Australia as a middle power",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28ef840ff8c09c9d8a035c15854f9519?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -224,21 +239,6 @@
       },
       "description": "Attila's shaky phone video of his brother lying dead in aged care documented bruises and blood. It was the start of a long campaign to understand what happened.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-08/aged-care-unexpected-death-coroner-barwon-health/106378138"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6e82b3e2-b01e-4637-9b96-7e52034090e1",
-      "published_datetime": "2026-03-07T17:04:59.594636",
-      "title": "Over 200 metabolic enzymes found on human DNA, study reveals",
-      "featured_image": {
-        "url": "https://medicalxpress.com/news/2025-01-tracking-metabolic-cancer-mosaic-cells.html",
-        "name": "Tracking the metabolic origins of cancer from a mosaic of cells",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--2Ckpc4Ci--/t_limit/https://scx2.b-cdn.net/gfx/news/2025/tracking-metabolic-ori.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--lZhHgKkj--/t_thumbnail/https://scx2.b-cdn.net/gfx/news/2025/tracking-metabolic-ori.jpg"
-      },
-      "description": "More than two hundred metabolic enzymes \u2014 many of which were thought to operate exclusively in the mitochondria \u2014 have been found sitting directly on human DNA inside the cell nucleus, according to a study published March 6 in Nature Communications. The finding reveals that each cell type, tissue, and cancer harbors a distinct \"nuclear metabolic fingerprint,\" opening a new front in understanding how tumors grow and resist treatment.[1]",
-      "audio_url": "",
-      "url": "over-200-metabolic-enzymes-fou-tENNH.pOS9Of_WP5gEgMGg",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-07T23:14:52.196820"
+  "merged_at": "2026-03-08T01:16:56.984146"
 }
