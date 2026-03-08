@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f4c4bc47-e1ce-440c-8ca1-ff90db69bd17",
+      "published_datetime": "2026-03-08T14:05:03.893386",
+      "title": "Iran war puts Gulf's desalination plants at risk",
+      "featured_image": {
+        "url": "https://www.pbs.org/newshour/world/chaos-sown-by-irans-attacks-across-the-persian-gulf-is-key-to-its-strategy",
+        "name": "Chaos sown by Iran's attacks across the Persian Gulf is key to its strategy  | PBS News",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--wo-y5GIw--/t_limit/https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2026-03-04T121023Z_480702238_RC2HXJAESZWJ_RTRMADP_3_IRAN-CRISIS-EMIRATES-1024x683.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--8wxkv10j--/t_thumbnail/https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2026-03-04T121023Z_480702238_RC2HXJAESZWJ_RTRMADP_3_IRAN-CRISIS-EMIRATES-1024x683.jpg"
+      },
+      "description": "As the U.S.-Israeli military campaign against Iran enters its second week, analysts warn that the conflict's most dangerous fallout may not be disrupted oil flows but the threat to the Persian Gulf's desalinated water supply \u2014 the invisible lifeline sustaining tens of millions of people across one of the world's driest regions.",
+      "audio_url": "",
+      "url": "iran-war-puts-gulf-s-desalinat-GnZtQBknQvOBMWAvl36Kfg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-08T11:49:10.000000Z",
       "title": "Quick hits: Catley floored and Carpenter rages as Korea frustrates Matildas",
       "featured_image": {
@@ -208,21 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/af998c80-cbf3-4047-8765-bddef6a3f742",
-      "published_datetime": "2026-03-07T21:39:33.983405",
-      "title": "Chinese scientists use AI to build first chemical map of moon's far side",
-      "featured_image": {
-        "url": "https://www.livescience.com/space/the-moon/china-lands-change-6-sample-return-probe-on-far-side-of-the-moon",
-        "name": "China lands Chang'e 6 sample-return probe on far side of the ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--CFfxmq9r--/t_limit/https://cdn.mos.cms.futurecdn.net/4z9WkC45LiQgEPJfKtx6r7-1200-80.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--yGUA_EZM--/t_thumbnail/https://cdn.mos.cms.futurecdn.net/4z9WkC45LiQgEPJfKtx6r7-1200-80.jpg"
-      },
-      "description": "Chinese scientists have built the first high-precision chemical map of the moon's entire surface, including its long-unmapped far side, by combining artificial intelligence with data from China's historic Chang'e-6 mission, according to a study published in the peer-reviewed journal Nature Sensors.[1]\n\nThe research, led by the Shanghai Institute of Technical Physics (SITP) under the Chinese Academy of Sciences in collaboration with Tongji University and other Chinese institutions, used a residual convolutional neural network to analyze spectral imaging data calibrated with ground-truth samples retrieved from the far side. The result is the first global distribution map of major lunar oxides that incorporates actual far-side measurements rather than relying solely on near-side calibration data.[2][1]",
-      "audio_url": "",
-      "url": "chinese-scientists-use-ai-to-b-Sx3dzAP4Th.PrcO2E8cDDA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-07T20:47:36.000000Z",
       "title": "Three charged with murdering 'quiet hero' at Melbourne railway station",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-08T14:17:43.589697"
+  "merged_at": "2026-03-08T15:15:37.112410"
 }
