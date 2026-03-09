@@ -10,12 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/us-israel-iran-war-oil-price-surge-share-markets/106432166"
     },
     {
+      "published_datetime": "2026-03-09T13:34:34.000000Z",
+      "title": "Breaking: Five Iranian women's soccer players to seek asylum in Australia, multiple sources say",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ee0806b79580a4f3d104678f15b2a80b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=515&amp;width=862&amp;height=485"
+      },
+      "description": "Five female soccer players who it was feared would face persecution when they returned to Iran have left their accommodation in the Gold Coast and plan to seek asylum in Australia, multiple sources have told the ABC. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-10/iranian-womens-football-escape-asylum/106434542"
+    },
+    {
       "published_datetime": "2026-03-08T19:19:57.000000Z",
-      "title": "Live: G7 to hold emergency meeting on oil prices, Iran names Khamenei's son supreme leader",
+      "title": "G7 to hold emergency meeting on oil prices, Iran names Khamenei's son supreme leader",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/854dc9c45769dfd17b029a9f363024fe?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "US President Donald Trump says he has been talking with Israeli Prime Minister Benjamin Netanyahu, who will have input on when to end the war with Iran. Follow live. ",
+      "description": "US President Donald Trump says he has been talking with Israeli Prime Minister Benjamin Netanyahu, who will have input on when to end the war with Iran. ",
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/war-in-the-middle-east-live-trump-israel-iran-live-march-9/106429686"
     },
     {
@@ -26,15 +35,6 @@
       },
       "description": "US President Donald Trump said the worst-case scenario in Iran would be if Ayatollah Ali Khamenei's successor were \"as bad as the previous person\". In many ways, the appointment of his son, Mojtaba Khamenei, delivers him that very outcome.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/mysterious-new-iran-leader-is-a-marked-man/106432718"
-    },
-    {
-      "published_datetime": "2026-03-09T07:15:54.000000Z",
-      "title": "'Every war game': The problem with the US strategy in Iran",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f957f4c15cbc22823d12ac48f07da2a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
-      },
-      "description": "A former top US diplomat says her country's efforts to topple Iran's leadership risks destabilising the region and strengthening the nation's Revolutionary Guard.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-09/attempts-to-topple-iran-leadership-may-strengthen-regime/106432844"
     },
     {
       "published_datetime": "2026-03-09T01:01:39.000000Z",
@@ -53,6 +53,15 @@
       },
       "description": "Josh Burns also acknowledged the government had not always acted fast enough to deal with antisemitism and said it was necessary to be \"humble\" in the wake of the Bondi terror attack. ",
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/labor-mp-linking-israeli-government-to-antisemitism-dangerous/106433230"
+    },
+    {
+      "published_datetime": "2026-03-09T07:15:54.000000Z",
+      "title": "'Every war game': The problem with the US strategy in Iran",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f957f4c15cbc22823d12ac48f07da2a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "A former top US diplomat says her country's efforts to topple Iran's leadership risks destabilising the region and strengthening the nation's Revolutionary Guard.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-09/attempts-to-topple-iran-leadership-may-strengthen-regime/106432844"
     },
     {
       "published_datetime": "2026-03-09T05:24:41.000000Z",
@@ -82,15 +91,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/australians-sentenced-bali-murder-zivan-radmanovic/106432062"
     },
     {
-      "published_datetime": "2026-03-09T06:13:36.000000Z",
-      "title": "NAB warns rising petrol prices could drive inflation above 5 per cent",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/130464c6e532d8f963c3250d51ed960a?impolicy=wcms_crop_resize&amp;cropH=1126&amp;cropW=2001&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "More pain could be coming from motorists if economists' predictions about the impact of rising fuel prices on inflation prove correct.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-09/fuel-rationing-petrol-stockpiling-as-oil-prices-rise/106432100"
-    },
-    {
       "published_datetime": "2026-03-09T09:37:00.000000Z",
       "title": "Katherine locals survey flood damage as volunteers rally to help",
       "featured_image": {
@@ -98,6 +98,15 @@
       },
       "description": "An \"army\" of volunteers has hit the streets of Katherine to help residents worst affected by the weekend's flooding, as they survey the damage from near-record river rises.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/nt-katherine-locals-on-homes-flooding-volunteers-help/106432418"
+    },
+    {
+      "published_datetime": "2026-03-09T06:13:36.000000Z",
+      "title": "NAB warns rising petrol prices could drive inflation above 5 per cent",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/130464c6e532d8f963c3250d51ed960a?impolicy=wcms_crop_resize&amp;cropH=1126&amp;cropW=2001&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "More pain could be coming from motorists if economists' predictions about the impact of rising fuel prices on inflation prove correct.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-09/fuel-rationing-petrol-stockpiling-as-oil-prices-rise/106432100"
     },
     {
       "published_datetime": "2026-03-09T07:24:10.000000Z",
@@ -127,15 +136,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/rory-amon-cleared-of-majority-of-charges-in-sexual-assault-trial/106413362"
     },
     {
-      "published_datetime": "2026-03-09T04:16:00.000000Z",
-      "title": "Prince Harry and Meghan Markle to visit Australia next month",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1931045954076bab876c2d5175a0be21?impolicy=wcms_crop_resize&amp;cropH=1436&amp;cropW=2552&amp;xPos=0&amp;yPos=263&amp;width=862&amp;height=485"
-      },
-      "description": "The visit will mark seven years since they last touched down in the country for their successful tour as the newlywed Duke and Duchess of Sussex.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-09/prince-harry-meghan-markle-australia-visit/106432012"
-    },
-    {
       "published_datetime": "2026-03-08T18:30:00.000000Z",
       "title": "A career break gave one woman a 'safety net' to return to her job",
       "featured_image": {
@@ -154,6 +154,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/deirdres-dilemma-what-will-happen-to-my-son-when-i-die-/106125848"
     },
     {
+      "published_datetime": "2026-03-09T04:16:00.000000Z",
+      "title": "Prince Harry and Meghan Markle to visit Australia next month",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1931045954076bab876c2d5175a0be21?impolicy=wcms_crop_resize&amp;cropH=1436&amp;cropW=2552&amp;xPos=0&amp;yPos=263&amp;width=862&amp;height=485"
+      },
+      "description": "The visit will mark seven years since they last touched down in the country for their successful tour as the newlywed Duke and Duchess of Sussex.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-09/prince-harry-meghan-markle-australia-visit/106432012"
+    },
+    {
       "published_datetime": "2026-03-09T04:18:05.000000Z",
       "title": "Dons coach leaves Merrett to prepare his way for Hawks",
       "featured_image": {
@@ -163,15 +172,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/dons-coach-leaves-merrett-to-prepare-his-way-for-hawks/106432698"
     },
     {
-      "published_datetime": "2026-03-09T00:56:01.000000Z",
-      "title": "Supply lines open after food shortage, amid major Katherine flooding",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b174ea4b40622cd6e949b8dfaf78c94a?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=299&amp;width=862&amp;height=485"
-      },
-      "description": "While Katherine remains under an emergency flood warning, water levels are now receding and food supply lines are opening up.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-09/nt-katherine-flood-food-supply-daly-river-emergency-warning/106431152"
-    },
-    {
       "published_datetime": "2026-03-08T23:00:00.000000Z",
       "title": "Are the US-Israeli strikes on Iran legal?",
       "featured_image": {
@@ -179,6 +179,15 @@
       },
       "description": "International law bans countries from using force against each other, with a few exceptions. The US and Israel have been trying to argue their operations against Iran are in self-defence.  Part of that argument is their decades-long fear that Tehran is developing a nuclear weapon. So do those self-defence arguments stack up? And if they don’t, what happens next?",
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/are-the-us-israeli-strikes-in-iran-legal-/106431022"
+    },
+    {
+      "published_datetime": "2026-03-09T00:56:01.000000Z",
+      "title": "Supply lines open after food shortage, amid major Katherine flooding",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b174ea4b40622cd6e949b8dfaf78c94a?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=299&amp;width=862&amp;height=485"
+      },
+      "description": "While Katherine remains under an emergency flood warning, water levels are now receding and food supply lines are opening up.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-09/nt-katherine-flood-food-supply-daly-river-emergency-warning/106431152"
     },
     {
       "published_datetime": "2026-03-09T03:30:34.000000Z",
@@ -206,15 +215,6 @@
       },
       "description": "Escalating geopolitical tensions mean Australians operating businesses in the Middle East have had to make quick changes to their daily operations. ",
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/australian-owned-businesses-operating-in-middle-east-conflict/106409408"
-    },
-    {
-      "published_datetime": "2026-03-08T22:04:29.000000Z",
-      "title": "Road linking Sydney to western NSW shut by damage to 194yo bridge",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8c80b002ee7b41b317fb8a1828b8aa69?impolicy=wcms_crop_resize&amp;cropH=630&amp;cropW=1120&amp;xPos=40&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Great Western Highway between Lithgow and Mount Victoria is closed due to damage discovered on a historical bridge. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-09/great-western-highway-shut-convict-bridge/106431056"
     },
     {
       "published_datetime": "2026-03-09T02:02:45.000000Z",
