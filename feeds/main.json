@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-09T13:34:34.000000Z",
+      "title": "Breaking: Five Iranian women's soccer players to seek asylum in Australia, multiple sources say",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ee0806b79580a4f3d104678f15b2a80b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=515&amp;width=862&amp;height=485"
+      },
+      "description": "Five female soccer players who it was feared would face persecution when they returned to Iran have left their accommodation in the Gold Coast and plan to seek asylum in Australia, multiple sources have told the ABC.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-10/iranian-womens-football-escape-asylum/106434542"
+    },
+    {
       "published_datetime": "2026-03-09T12:06:16.000000Z",
       "title": "Labor MP warns linking Israeli government to antisemitism is 'dangerous'",
       "featured_image": {
@@ -65,15 +74,6 @@
       },
       "description": "For more than a year, traders have been pushing markets higher on the hopes of an AI-powered economic miracle and the notion of TACO \u2014 Trump Always Chickens Out. Now it looks like the penny has dropped.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/us-israel-iran-war-oil-price-surge-share-markets/106432166"
-    },
-    {
-      "published_datetime": "2026-03-09T06:13:36.000000Z",
-      "title": "NAB warns rising petrol prices could drive inflation above 5 per cent",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/130464c6e532d8f963c3250d51ed960a?impolicy=wcms_crop_resize&amp;cropH=1126&amp;cropW=2001&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "More pain could be coming from motorists if economists' predictions about the impact of rising fuel prices on inflation prove correct.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-09/fuel-rationing-petrol-stockpiling-as-oil-prices-rise/106432100"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a9bfeece-cea2-4c39-81ac-622d2650bbde",
@@ -233,11 +233,11 @@
     },
     {
       "published_datetime": "2026-03-08T19:19:57.000000Z",
-      "title": "Live: G7 to hold emergency meeting on oil prices, Iran names Khamenei's son supreme leader",
+      "title": "G7 to hold emergency meeting on oil prices, Iran names Khamenei's son supreme leader",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/854dc9c45769dfd17b029a9f363024fe?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "US President Donald Trump says he has been talking with Israeli Prime Minister Benjamin Netanyahu, who will have input on when to end the war with Iran. Follow live.\u00a0",
+      "description": "US President Donald Trump says he has been talking with Israeli Prime Minister Benjamin Netanyahu, who will have input on when to end the war with Iran.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/war-in-the-middle-east-live-trump-israel-iran-live-march-9/106429686"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-09T12:39:32.333096"
+  "merged_at": "2026-03-09T14:00:08.954910"
 }
