@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-09T08:59:17.000000Z",
+      "title": "Live: ABC National Forum explores lives and experiences of Jewish Australians",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/207575e99d2b30d1c067ce89ae806fbb?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=85&amp;width=862&amp;height=485"
+      },
+      "description": "ABC National Forum is a new discussion program bringing together ordinary citizens, community leaders, experts and policymakers to talk about topical issues of national significance, moderated by David Speers. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-09/national-forum-bondi-terrorism-antisemitism-jewish-live-blog/106424988"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9bd45b92-e45e-4731-8640-3a99353ca0dc",
       "published_datetime": "2026-03-09T07:19:55.862405",
       "title": "Asian markets plunge as oil tops $100 amid Iran conflict",
@@ -21,7 +30,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b23e54064edceb8501555e4a0001ba8f?impolicy=wcms_crop_resize&amp;cropH=248&amp;cropW=441&amp;xPos=121&amp;yPos=154&amp;width=862&amp;height=485"
       },
-      "description": "An Indonesian court has jailed two Australian men for 16 years for the murder of Zivan Radmanovic, 32, in June last year.",
+      "description": "An Indonesian court has jailed two Australian men for 16 years for the murder of Zivan Radmanovic, 32, in June last year.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/australians-sentenced-bali-murder-zivan-radmanovic/106432062"
     },
     {
@@ -232,15 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/war-in-the-middle-east-live-trump-israel-iran-live-march-9/106429686"
     },
     {
-      "published_datetime": "2026-03-08T19:17:11.000000Z",
-      "title": "Defiant and proud \u2014 Australian Jews speak out in first ABC National Forum",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d30873780c2fa9f041ff3ada10b1cbf4?impolicy=wcms_crop_resize&amp;cropH=719&amp;cropW=1279&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
-      },
-      "description": "Along with authors, teachers, students, parents and grandparents, Kahn will tell her story of life in Australia as a Jew in the first ABC National Forum.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-09/australian-jews-speak-on-abc-national-forum/106429942"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-09T08:34:26.277552"
+  "merged_at": "2026-03-09T09:39:20.160486"
 }
