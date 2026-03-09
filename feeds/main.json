@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-09T01:01:39.000000Z",
+      "title": "Tough talk and video games: How the war is being sold to Americans",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2581bd310ecd3df2b208da9e50694cbf?impolicy=wcms_crop_resize&amp;cropH=1469&amp;cropW=2612&amp;xPos=0&amp;yPos=193&amp;width=862&amp;height=485"
+      },
+      "description": "The US administration's unapologetic stance on the war has come with a lot of bravado, but there are signs the American public is not convinced.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-09/trump-hegseth-white-house-frame-iran-middle-east-war-as-a-game/106427790"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1c6741fd-9eb0-4065-8957-e905e6962583",
       "published_datetime": "2026-03-08T23:08:08.124419",
       "title": "Iran war widens as Bahrain reports desalination plant struck, Saudi Arabia sees first deaths",
@@ -86,20 +95,20 @@
     },
     {
       "published_datetime": "2026-03-08T20:02:18.000000Z",
-      "title": "Live: Government tells dependants of officials in the UAE to leave",
+      "title": "Live: Government won't say which Gulf state requested Australia's military assistance",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aedbdd4b712d11b69c3a5e64a5ef579e?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/05c056fe572d9f31209a07124fce2371?impolicy=wcms_crop_resize&amp;cropH=3840&amp;cropW=6828&amp;xPos=0&amp;yPos=356&amp;width=862&amp;height=485"
       },
-      "description": "The government has urged family members and dependents of Australian officials posted to the United Arabs Emirates to leave as the conflict in the region continues. Follow live.\u00a0",
+      "description": "The government is currently considering a request to provide military assistance to a Gulf nation, but it won't say which one. Follow live. \u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/federal-politics-live-iran-wong-albanese-taylor/103884482"
     },
     {
       "published_datetime": "2026-03-08T19:56:33.000000Z",
-      "title": "Live: ASX tumbles nearly 3pc, as oil prices surge past $US100",
+      "title": "Live: ASX plunges 4pc, on track for worst sell-off since Trump tariffs",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f55a13d734a86c9ea418ba45250c9272?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2db27f1e22571e63ae348f2c39b9f1d6?impolicy=wcms_crop_resize&amp;cropH=2772&amp;cropW=4928&amp;xPos=0&amp;yPos=254&amp;width=862&amp;height=485"
       },
-      "description": "With surging oil prices and weak US jobs figures sending Wall Street lower, the ASX has been hit by heavy selling. Brent crude has spiked more than 15pc. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "description": "The All Ordinaries has shed 4pc, or about $120 billion in value, as global markets crumble and oil prices surge15pc towards $US110/barrel. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/asx-markets-business-news-live-updates-march-9/106429652"
     },
     {
@@ -206,7 +215,7 @@
     },
     {
       "published_datetime": "2026-03-08T19:16:15.000000Z",
-      "title": "Here's one thing you should know about the Middle East war this morning",
+      "title": "Water supply gets cut, then things get complicated. Here's today's quick scan on Iran",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b8bd02762b42d4b6e36ddd36512086f?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
       },
@@ -221,15 +230,6 @@
       },
       "description": "Deirdre Croft has dedicated 45 years to caring and advocating for her intellectually disabled son, Richard. Each passing day brings more pressure to secure his future\u00a0when she's gone.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-09/deirdres-dilemma-what-will-happen-to-my-son-when-i-die-/106125848"
-    },
-    {
-      "published_datetime": "2026-03-08T18:44:03.000000Z",
-      "title": "Australian business owners in Dubai 'staying put'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b4765460445c4076d5f98a19f7ab49bc?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485"
-      },
-      "description": "Escalating geopolitical tensions mean Australians operating businesses in the Middle East have had to make quick changes to their daily operations.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-09/australian-owned-businesses-operating-in-middle-east-conflict/106409408"
     },
     {
       "published_datetime": "2026-03-08T18:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-08T23:31:14.801709"
+  "merged_at": "2026-03-09T01:16:53.035566"
 }
