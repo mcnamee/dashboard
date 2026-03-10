@@ -1,12 +1,21 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-10T13:45:53.000000Z",
+      "title": "Lululemon fined $700,000 over hundreds of thousands of spam emails",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c5c73fbdc571fe866a05c6741544ee44?impolicy=wcms_crop_resize&amp;cropH=2534&amp;cropW=4505&amp;xPos=0&amp;yPos=435&amp;width=862&amp;height=485"
+      },
+      "description": "The Australian Communications and Media Authority says activewear fashion brand Lululemon sent more than 370,000 emails containing marketing content without an unsubscribe option.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-11/lululemon-fined-acma-over-spam-breaches/106436246"
+    },
+    {
       "published_datetime": "2026-03-10T12:48:35.000000Z",
-      "title": "Breaking: Seven members of Iran\u2019s women\u2019s football team have sought asylum, ABC understands",
+      "title": "Seven members of Iran\u2019s women\u2019s football team have sought asylum, ABC understands",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/95ca50e908250006338cee780ec7534f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
       },
-      "description": "The ABC understands at least seven members of Iran\u2019s women\u2019s football team have sought asylum in Australia.",
+      "description": "Home Affairs Minister Tony Burke, who was at the airport, said border force officials made multiple representations to all of the team before departing Sydney.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-10/iran-womens-football-team-players/106439174"
     },
     {
@@ -205,15 +214,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-10/new-laws-to-temporarily-ban-travellers-from-certain-countries/106437588"
     },
     {
-      "published_datetime": "2026-03-10T03:47:52.000000Z",
-      "title": "Family of 14yo says Aidan Becker 'risked his life to save our son'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cf485d74c4e8d9e29a855a28b373ddff?impolicy=wcms_crop_resize&amp;cropH=458&amp;cropW=814&amp;xPos=0&amp;yPos=317&amp;width=862&amp;height=485"
-      },
-      "description": "The family of a 14-year-old boy allegedly attacked in Mernda last week said Aidan Becker, who was fatally stabbed trying to protect the teenager, showed \"extraordinary courage and compassion in risking his life to save our son\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-10/mernda-death-aidan-becker-family-statement/106436700"
-    },
-    {
       "published_datetime": "2026-03-10T03:26:16.000000Z",
       "title": "What is a Wedgetail, the powerful aircraft Australia is sending to war?",
       "featured_image": {
@@ -233,9 +233,9 @@
     },
     {
       "published_datetime": "2026-03-09T18:18:04.000000Z",
-      "title": "Live: Hegseth signals 'most intense day' for US strikes, seven Iranian footballers seek asylum",
+      "title": "Hegseth signals 'most intense day' for US strikes on Iran, seven Iranian footballers seek asylum \u2014 as it happened",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/41daf14e04ae7be58490263f38c28996?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/41c8f5754a7ae93f039d23430e9a1d52?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Video captured by a protester shows an Iranian footballer being led, seemingly reluctantly, by her wrist by a team member onto a bus headed for the airport, with the opposition calling the footage \"concerning\". Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-10/war-in-the-middle-east-trump-ground-troops/106434970"
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-10T13:56:26.792313"
+  "merged_at": "2026-03-10T14:42:40.043282"
 }
