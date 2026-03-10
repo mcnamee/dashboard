@@ -19,6 +19,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-10/sa-supreme-court-dismisses-lawsuit-against-premier-malinauskas/106436432"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d35b2da4-c76f-486b-99e4-b6987da443fe",
+      "published_datetime": "2026-03-10T02:10:34.760272",
+      "title": "US rejects Iran's claim that warship sunk by torpedo was unarmed",
+      "featured_image": {
+        "url": "https://www.independent.co.uk/news/world/iran-ship-submarine-attack-sri-lanka-us-war-b2931613.html",
+        "name": "US submarine sinks Iranian warship off Sri Lanka killing at ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--mm9ArYH1--/t_limit/https://static.independent.co.uk/2026/03/04/10/21/IRAN-RUSSIA-CHINA-POLITICS-MILITARY-DRILL-ft7eotbz.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ezx7utXl--/t_thumbnail/https://static.independent.co.uk/2026/03/04/10/21/IRAN-RUSSIA-CHINA-POLITICS-MILITARY-DRILL-ft7eotbz.jpeg"
+      },
+      "description": "A U.S. Navy submarine torpedoed and sank the Iranian frigate IRIS Dena in the Indian Ocean on March 4, killing at least 84 sailors in what marked the first American submarine attack on an enemy warship since World War II. Five days later, Washington and Tehran are locked in a dispute over whether the vessel was armed when it was struck, as the incident widens the U.S.-Israel-Iran conflict far beyond the Middle East.\n\nThe U.S. Indo-Pacific Command on Sunday rejected Iran's claim that the Dena was unarmed, calling the assertion \"false\" in a statement posted on X. Iran's Deputy Foreign Minister Saeed Khatibzadeh had told reporters in New Delhi that the warship was \"ceremonial\" and \"unarmed,\" saying it had been attending India's Milan 2026 naval exercise by invitation. An Indian Navy official, speaking anonymously, said the vessel was not \"entirely unarmed\".[1][2][3]",
+      "audio_url": "",
+      "url": "us-rejects-iran-s-claim-that-w-d8A80XSCSgmu004.VMgJ2A",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/11554290-e357-4c70-a5a2-b8b9985054f8",
       "published_datetime": "2026-03-10T02:07:54.048583",
       "title": "Kuwait's emir condemns Iran's 'brutal attack' in first address since strikes began",
@@ -190,21 +205,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-10/labor-to-pass-super-tax-changes-with-support-of-greens/106435670"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4f067490-91a1-4717-8797-7abeafbb9778",
-      "published_datetime": "2026-03-09T23:51:41.514758",
-      "title": "Around 40 killed in US-Israeli strikes on Tehran residential area, Iran says",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2026/3/9/iran-says-1255-killed-in-us-israeli-attacks-mostly-civilians",
-        "name": "Iran says 1,255 people killed in US-Israeli attacks, mostly civilians",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IP_HMXhp--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/03/getty_69ae861c18-1773045276.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--CrvbqyAo--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/03/getty_69ae861c18-1773045276.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "US and Israeli forces bombed residential blocks near Resalat Square in Tehran late Monday, killing around 40 people, according to Iran's semi-official Tasnim news agency as reported by Anadolu Agency. The strikes hit several high-rise buildings in the Iranian capital, with the death toll expected to rise as search and rescue operations continue.[1][2]",
-      "audio_url": "",
-      "url": "around-40-killed-in-us-israeli-U_GPy8MXR6eKdDzUVS_x_w",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-09T20:48:42.000000Z",
       "title": "Live: ASX rises after heavy sell-off as oil prices moderate",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-10T04:00:58.567376"
+  "merged_at": "2026-03-10T04:47:08.950118"
 }
