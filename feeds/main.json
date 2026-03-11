@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-11T08:58:07.000000Z",
+      "title": "Breaking: Magnitude 4.4 earthquake shakes regional NSW",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4b6785c09044ffa7359733a2d9e18ddb?impolicy=wcms_crop_resize&amp;cropH=822&amp;cropW=1461&amp;xPos=203&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Thousands of people report feeling a magnitude 4.4 earthquake that has hit Boorowa in southern New South Wales.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-11/earthquake-hits-boorowa-nsw/106443952"
+    },
+    {
+      "published_datetime": "2026-03-11T08:03:26.000000Z",
+      "title": "Two people arrested less than a week after hate speech laws pass parliament",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/66296eecd8a8212c2f5c500c434c9f31?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Police say a man has been charged and a woman is assisting them with inquiries over the use of phrases deemed antisemitic by the Queensland government.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-11/qld-protesters-arrested-hate-speech-laws/106443370"
+    },
+    {
       "published_datetime": "2026-03-11T08:00:03.000000Z",
       "title": "What happens when online NAPLAN testing is disrupted?",
       "featured_image": {
@@ -8,24 +26,6 @@
       },
       "description": "Technical difficulties delayed NAPLAN testing across the country today. Here's how to navigate disruptions and what it means for your child.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-11/naplan-disruption-delays-online-testing-for-students/106440830"
-    },
-    {
-      "published_datetime": "2026-03-11T07:09:51.000000Z",
-      "title": "More pain to come after Qantas hikes international airfares",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6bf6bee45ac6cd73c93b76bcdd47d54c?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
-      },
-      "description": "As Qantas hikes international airfares due to a surge in fuel prices from the Middle East war, an industry expert warns it's only the start of what's to come.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-11/how-flight-prices-are-impacted-by-middle-east-war/106440468"
-    },
-    {
-      "published_datetime": "2026-03-11T06:49:31.000000Z",
-      "title": "More views of SA Liberal candidate emerge against Islam and 'trans agenda'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f33e076729ab297dc8d3be73f8f0a933?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "More views by Liberal Party candidate and evangelical Christian Carston Woodhouse emerge with the Adelaide man saying Islam is \"poisonous and wrong\" and the \"trans agenda is insanity\". Warning: This story contains content some readers might find distressing.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-11/sa-liberal-candidate-carston-woodhouse-islam-transgender-issues/106440958"
     },
     {
       "published_datetime": "2026-03-11T06:41:35.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-11T08:30:29.743767"
+  "merged_at": "2026-03-11T09:34:05.468261"
 }
