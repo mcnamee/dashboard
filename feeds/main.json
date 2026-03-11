@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-11T08:00:03.000000Z",
+      "title": "What happens when online NAPLAN testing is disrupted?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f4090f372cbc33ccf361d8e15941af3d?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Technical difficulties delayed NAPLAN testing across the country today. Here's how to navigate disruptions and what it means for your child.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-11/naplan-disruption-delays-online-testing-for-students/106440830"
+    },
+    {
       "published_datetime": "2026-03-11T07:09:51.000000Z",
       "title": "More pain to come after Qantas hikes international airfares",
       "featured_image": {
@@ -11,11 +20,11 @@
     },
     {
       "published_datetime": "2026-03-11T06:49:31.000000Z",
-      "title": "More views of SA Liberal candidate emerge against Islam and trans agenda",
+      "title": "More views of SA Liberal candidate emerge against Islam and 'trans agenda'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f33e076729ab297dc8d3be73f8f0a933?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "More views by Liberal Party candidate and evangelical Christian Carston Woodhouse emerge with the Adelaide man saying Islam is \"poisonous and wrong\" and the trans agenda is\"insanity\". Warning: This story contains content some readers might find distressing.\u00a0",
+      "description": "More views by Liberal Party candidate and evangelical Christian Carston Woodhouse emerge with the Adelaide man saying Islam is \"poisonous and wrong\" and the \"trans agenda is insanity\". Warning: This story contains content some readers might find distressing.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-11/sa-liberal-candidate-carston-woodhouse-islam-transgender-issues/106440958"
     },
     {
@@ -29,7 +38,7 @@
     },
     {
       "published_datetime": "2026-03-11T06:38:40.000000Z",
-      "title": "Borrowers told to 'brace themselves' as economists forecast rate hikes",
+      "title": "War, oil, inflation are all creating interest rate perfect storm",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3720bdd572b096bf25cba281b4222edf?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=100&amp;width=862&amp;height=485"
       },
@@ -68,15 +77,6 @@
       "audio_url": "",
       "url": "new-ai-tools-compress-months-o-zfS1B5ViQg6UnEKbl4XaqQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-03-11T04:26:37.000000Z",
-      "title": "Government doubles graduate visa fee but some countries exempt",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b7af41dbba196f57bef2dd51166b50db?impolicy=wcms_crop_resize&amp;cropH=1516&amp;cropW=2695&amp;xPos=0&amp;yPos=141&amp;width=862&amp;height=485"
-      },
-      "description": "Tiered pricing for visas is being used to support Pacific nations but some fear it could be misused to target certain communities.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-11/tiered-pricing-australia-immigration-temporary-graduate-visa/106437482"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/46969b1f-6f5f-4c6b-9361-c81ac93335bc",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-11T07:38:07.304089"
+  "merged_at": "2026-03-11T08:30:29.743767"
 }
