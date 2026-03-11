@@ -90,8 +90,17 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c662143ac8d9c8b30ac9e8cc8090ac65?impolicy=wcms_crop_resize&amp;cropH=1721&amp;cropW=3060&amp;xPos=0&amp;yPos=438&amp;width=862&amp;height=485"
       },
-      "description": "SA Police officers are continuing their resumed search for missing four-year-old Gus Lamont after returning to Oak Park Station in Yunta.",
+      "description": "SA Police officers continue their resumed search for missing four-year-old Gus Lamont after returning to Oak Park Station in Yunta.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-12/police-return-to-oak-park-station-in-search-for-gus-lamont/106442792"
+    },
+    {
+      "published_datetime": "2026-03-11T19:45:18.000000Z",
+      "title": "Evacuation warning issued as flood peak looms for Chinchilla",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ecbea2a5f9064be96c6a3eb446439ad5?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+      },
+      "description": "Residents in Chinchilla and parts of central Queensland brace for the worst as floodwater continues to rise, despite conditions easing towards the coast.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-12/major-flooding-of-burnett-river-inundates-bundaberg-homes/106441298"
     },
     {
       "published_datetime": "2026-03-11T19:45:11.000000Z",
@@ -110,15 +119,6 @@
       },
       "description": "The ABC's global affairs editor, Laura Tingle, is in Dubai and will provide daily updates on the Middle East war.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-12/iran-israel-war-daily-news-briefing-laura-tingle/106443288"
-    },
-    {
-      "published_datetime": "2026-03-11T19:16:14.000000Z",
-      "title": "'Fake family': Woman overturns 'cruel' adoption as inquiry launched",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ad04ea79b9589c81130a98e43b508017?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "A Korean-born Australian who was sexually assaulted growing up is calling for changes to adoption laws after struggling to remove her adoptive parents from her birth certificate. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-12/korean-born-australian-overturns-adoption-amid-federal-inquiry/106386588"
     },
     {
       "published_datetime": "2026-03-11T19:00:58.000000Z",
@@ -140,7 +140,7 @@
     },
     {
       "published_datetime": "2026-03-11T18:51:54.000000Z",
-      "title": "Dozens of countries agree to 'largest ever' oil stocks release",
+      "title": "Record 400 million barrels of oil to be released from reserves to stall price hike",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/08e803ee7a8d1e4f48c3c5556b7d1300?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-11T20:40:53.611808"
+  "merged_at": "2026-03-11T21:24:34.180343"
 }
