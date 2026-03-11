@@ -19,6 +19,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-12/australias-summers-are-getting-longer-with-more-extreme-heat/106419414"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c1853ba8-bc3c-42d4-85e2-a18aecc7da2c",
+      "published_datetime": "2026-03-11T20:36:26.085453",
+      "title": "CENTCOM tells civilians to evacuate Iranian ports along Strait of Hormuz",
+      "featured_image": {
+        "url": "https://www.bloomberg.com/news/articles/2026-03-11/us-military-warns-of-possible-strikes-on-iranian-civilian-ports",
+        "name": "US Military Warns of Possible Strikes on Iranian Civilian ...",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1773261192/url_uploads/-1x-1_d2xwfa.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1773261192/url_uploads/-1x-1_d2xwfa.jpg"
+      },
+      "description": "U.S. Central Command issued an urgent warning on Wednesday telling civilians to \"immediately\" avoid all port facilities along the Strait of Hormuz where Iranian naval forces are operating, a statement that signals the United States views those sites as potential military targets as the war enters its 12th day.[1][2]\n\n\"Iranian dockworkers, administrative personnel, and commercial vessel crews should avoid Iranian naval vessels and military equipment,\" CENTCOM said in the statement posted to social media. The command said Iran's regime \"is using civilian ports along the Strait of Hormuz to conduct military operations that threaten international shipping\".[3][4][2][1]",
+      "audio_url": "",
+      "url": "centcom-tells-civilians-to-eva-AQ__qPMhQU2oVj37QIW8cQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3ba02d96-236a-4f66-baec-76a58ba0b52b",
       "published_datetime": "2026-03-11T20:25:46.216133",
       "title": "Rice team turns toxic 'forever chemicals' into battery-grade lithium",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2573c479-e478-4316-9353-52b2cf9f85ef",
-      "published_datetime": "2026-03-11T17:12:46.302208",
-      "title": "Three commercial ships hit by projectiles in Strait of Hormuz attacks",
-      "featured_image": {
-        "url": "https://www.bbc.com/news/live/cd70wzw9vqlt",
-        "name": "Cargo ship catches fire in Strait of Hormuz after three ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--6EmLErGO--/t_limit/https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/vivo/live/images/2026/3/11/0068cd3f-7a7a-46ee-b273-4594039fc92f.jpg.webp",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--WXy25vwf--/t_thumbnail/https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/vivo/live/images/2026/3/11/0068cd3f-7a7a-46ee-b273-4594039fc92f.jpg.webp"
-      },
-      "description": "At least three commercial vessels were struck by unknown projectiles in and around the Strait of Hormuz on Wednesday, in the most serious escalation of maritime attacks in the waterway since the U.S.-Israel-Iran conflict began nearly two weeks ago.",
-      "audio_url": "",
-      "url": "three-commercial-ships-hit-by-a6oahQ4_QL.hkQ31sPyFkg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-11T23:17:33.487295"
+  "merged_at": "2026-03-11T23:33:39.306178"
 }
