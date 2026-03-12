@@ -10,8 +10,17 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-13/peshmerga-kurdish-troops-ready-to-attack-iranian-territory/106443186"
     },
     {
+      "published_datetime": "2026-03-12T22:57:10.000000Z",
+      "title": "Running on empty — how we were caught short of oil",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/854dc9c45769dfd17b029a9f363024fe?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "Australia is one of the biggest energy exporters on the planet as the world's third-largest exporter of LNG and the biggest seaborne supplier of thermal and metallurgical coal. But when it comes to oil, the country is horribly exposed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-13/australia-has-never-been-more-vulnerable-to-an-energy-crisis/106448236"
+    },
+    {
       "published_datetime": "2026-03-12T19:34:10.000000Z",
-      "title": "There's one risky way to bypass Iran's oil blockade. Plus what else you should know today",
+      "title": "What you need to know about Iran today, with Laura Tingle",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b8bd02762b42d4b6e36ddd36512086f?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
       },
@@ -28,24 +37,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-13/live-updates-war-in-the-middle-east-iran-us-israel/106449744"
     },
     {
-      "published_datetime": "2026-03-12T20:04:27.000000Z",
-      "title": "Live: Non-essential Australian officials directed to leave UAE, Israel",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b5f05236c738e9f58676be7eeda5c95a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Non-essential Australian officials in the United Arab Emirates and Israel have been directed to leave as the security situation in the region deteriorates. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-13/federal-politics-live-blog-officials-directed-leave-uae-israel/106449730"
-    },
-    {
-      "published_datetime": "2026-03-12T21:04:52.000000Z",
-      "title": "Live: Oil hits $US100 again as Middle East supply shocks continue",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f97a81ab1a6e607219490cb7f42b6f74?impolicy=wcms_crop_resize&amp;cropH=2361&amp;cropW=4198&amp;xPos=0&amp;yPos=437&amp;width=862&amp;height=485"
-      },
-      "description": "Wall Street has traded sharply lower overnight as pessimism about the length of the war in the Middle East continues. Follow the day's events and insights as they happen with our business reporters on the ABC News live markets blog. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-13/asx-markets-business-live-news-march-13-2026/106449894"
-    },
-    {
       "published_datetime": "2026-03-12T19:01:19.000000Z",
       "title": "Trump's war tests his 'maybe less enthusiastic' VP Vance",
       "featured_image": {
@@ -53,6 +44,15 @@
       },
       "description": "From MAGA-loathing \"hillbilly\" to vice-president, JD Vance's rise and rebirth have been something to behold. But the war in Iran may test his considerable political dexterity.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-13/jd-vance-philosophically-little-bit-different-to-me-trump-says/106449548"
+    },
+    {
+      "published_datetime": "2026-03-12T21:04:52.000000Z",
+      "title": "Live: Qantas settles class action for $105m as oil hits $US100 again",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8226d8f9440ea49bcbe0b5d5be685f1b?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=56&amp;width=862&amp;height=485"
+      },
+      "description": "Qantas has settled a years-long class action over flight credits dating back to the COVID-19 pandemic on a day when oil hit $U100 a barrel again and global markets tumbled. Follow the day's events and insights on the ABC News live markets blog.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-13/asx-markets-business-live-news-march-13-2026/106449894"
     },
     {
       "published_datetime": "2026-03-12T18:50:58.000000Z",
@@ -119,11 +119,11 @@
     },
     {
       "published_datetime": "2026-03-12T19:17:28.000000Z",
-      "title": "The one reason Latrell Mitchell broke his long-held media silence",
+      "title": "Latrell Mitchell breaks his silence but not to talk about sport",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3ee9a00f5167033e7d7820b05e1df393?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=494&amp;width=862&amp;height=485"
       },
-      "description": "NRL superstar Latrell Mitchell opens up about the Winmarra foundation, which he co-founded to empower emerging Indigenous leaders.",
+      "description": "NRL superstar Latrell Mitchell opens up about the Winmarra foundation, which he co-founded to empower emerging Indigenous leaders. ",
       "page_content_url": "https://www.abc.net.au/news/2026-03-13/latrell-mitchell-breaks-silence-for-winmarra-foundation/106449372"
     },
     {
@@ -141,7 +141,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d08f77ac45111fe6df042932a0ff8f46?impolicy=wcms_crop_resize&amp;cropH=1388&amp;cropW=2467&amp;xPos=0&amp;yPos=159&amp;width=862&amp;height=485"
       },
-      "description": "As Pokémon turns 30, a video game inspired by insect-collecting continues to shape how scientists think and teach about bugs today. ",
+      "description": "As Pokémon turns 30, a video game inspired by insect-collecting continues to shape how scientists think and teach about bugs today.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-13/pokemon-30th-anniversary-australian-bugs/106445360"
     },
     {
@@ -154,13 +154,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-13/weekly-news-quiz-march-11/106441238"
     },
     {
-      "published_datetime": "2026-03-12T19:29:09.000000Z",
-      "title": "Outback Queensland town prepares for flooding as Bundaberg clean-up begins",
+      "published_datetime": "2026-03-12T22:03:29.000000Z",
+      "title": "Search underway for Bundaberg man who disappeared from houseboat",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8e611a6de274457f74474d5ec6fff486?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=646&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fb1a7d6ced53c5533711b241bfd41354?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=150&amp;width=862&amp;height=485"
       },
-      "description": "Hundreds of people in Queensland's Bundaberg region are cleaning up their homes and businesses as floodwaters recede, while residents in western Queensland prepare for flooding.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-13/longreach-flood-preparation-bundaberg-recovery/106446072"
+      "description": "Emergency Services are searching the flooded Burnett River in Bundaberg for a man believed to be missing from a houseboat, and have airlifted a woman bitten by a snake from her isolated home.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-13/police-scour-floodwater-for-missing-bundaberg-man/106449932"
     },
     {
       "published_datetime": "2026-03-12T20:01:57.000000Z",
@@ -181,6 +181,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-13/what-should-you-do-with-family-home-after-divorce/106348144"
     },
     {
+      "published_datetime": "2026-03-12T22:20:38.000000Z",
+      "title": "Loved one stuck inside the manosphere? Here's how to help",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e33f4f0af0d7da11cb88f30bff7393f7?impolicy=wcms_crop_resize&amp;cropH=916&amp;cropW=1628&amp;xPos=146&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Don't panic, don't erupt, remain open and ask questions: Here are some of the tips from experts on how to reclaim a loved one from the manosphere.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-13/how-to-talk-to-boys-and-young-men-about-the-manosphere/106447888"
+    },
+    {
       "published_datetime": "2026-03-12T19:02:15.000000Z",
       "title": "SA Premier apologises for failing to deliver on his promise to 'fix the ramping crisis'",
       "featured_image": {
@@ -190,31 +199,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-13/sa-premier-apologises-for-failing-to-deliver-ramping-promise/106446496"
     },
     {
+      "published_datetime": "2026-03-12T19:19:09.000000Z",
+      "title": "Family of the other Stephen King speaks after SA government's email blunder",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e32f851e9edc46b93484290a1a7fdef3?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=35&amp;width=862&amp;height=485"
+      },
+      "description": "The family of a man who the state government mistook for someone else, igniting a pre-election debacle, has spoken for the first time.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-13/family-of-stephen-king-author-of-positive-email-speaks-out/106448434"
+    },
+    {
       "published_datetime": "2026-03-12T20:01:33.000000Z",
-      "title": "Swim rescue hero Austin Appelbee honoured by Irish president",
+      "title": "Irish president commends Austin Appelbee for 'immense bravery' in swim rescue",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6c36acf91b2acf001f70f76bad040807?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
       "description": "Perth schoolboy Austin Appelbee, who heroically swam for hours to save the lives of his mum and two siblings off the WA coast, is honoured with a note from Ireland's President Catherine Connolly.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-13/austin-appelbee-honoured-by-irish-president/106448682"
-    },
-    {
-      "published_datetime": "2026-03-12T12:59:01.000000Z",
-      "title": "Oil tankers burn as Iran's new leader vows to keep Strait of Hormuz closed",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f44941cc7b2d9b3789d83f00756c4ce0?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Iran's new supreme leader says the Strait of Hormuz should remain closed as a tool of pressure, vowing to \"obtain compensation from the enemy\".  ",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-12/two-tankers-set-ablaze-iraqi-waters-amid-iran-escalating-attack/106449210"
-    },
-    {
-      "published_datetime": "2026-03-12T20:48:59.000000Z",
-      "title": "Trump says Iran welcome to play World Cup, but risk 'life and safety'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8181b9a3703681cb7490bdfdcd4f54e3?impolicy=wcms_crop_resize&amp;cropH=2106&amp;cropW=3744&amp;xPos=0&amp;yPos=21&amp;width=862&amp;height=485"
-      },
-      "description": "US President Donald Trump says Iran men's national soccer team is welcome to participate in the 2026 World Cup, but believes it is not appropriate that they be there \"for their own life and safety\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-13/donald-trump-says-iran-is-welcome-in-us-for-fifa-world-cup/106449778"
     },
     {
       "published_datetime": "2026-03-12T07:56:16.000000Z",
