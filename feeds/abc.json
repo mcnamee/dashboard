@@ -2,16 +2,16 @@
   "items": [
     {
       "published_datetime": "2026-03-17T19:34:18.000000Z",
-      "title": "Live: Trump says US 'no longer' needs NATO allies, Australia in Iran war",
+      "title": "Live: Trump says US 'no longer' needs NATO allies, Australia as Iran",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/abec5529cd6881adab7488f03516ec7f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=233&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/09cc8f05ffa54eac464fb108453b4a58?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
       "description": "Donald Trump says the US \"do not need the help of anyone\" in the war against Iran, calling out NATO allies and Australia in a fiery social media post. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-18/iran-war-live-updates-israel-us-donald-trump/106464502"
     },
     {
       "published_datetime": "2026-03-17T19:31:22.000000Z",
-      "title": "What Ali Larijani's death would mean for Iran, plus what else you should know",
+      "title": "What Ali Larijani's death will mean for Iran, plus what else you should know",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bbea78d2db0bbb4c40ebbbbc955ea8e?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
       },
@@ -37,15 +37,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-18/middle-east-war-medicines-supply-costs/106465132"
     },
     {
-      "published_datetime": "2026-03-17T08:58:07.000000Z",
-      "title": "As Israel invades Lebanon, a long occupation could lead to total collapse",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2abb42ca5141df7df08bab0fb2fe782c?impolicy=wcms_crop_resize&amp;cropH=2241&amp;cropW=3984&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
-      },
-      "description": "Israel is moving more troops into southern Lebanon ahead of what some fear will be a long occupation, and experts warn further destabilisation could threaten the country's existence. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-17/israel-invasion-lebanon-risks-collapse-civil-war/106464232"
-    },
-    {
       "published_datetime": "2026-03-17T19:13:38.000000Z",
       "title": "Why Israel is trying to dismantle Hezbollah by its own means",
       "featured_image": {
@@ -55,8 +46,17 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-18/in-lebanon-anger-at-israel-and-hezbollah-takes-hold/106456504"
     },
     {
+      "published_datetime": "2026-03-17T20:35:08.000000Z",
+      "title": "'Over to my lawyers': Kyle Sandilands sacked by ARN Media",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/370731b93f6fd2f2aa5faee0434a23a1?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
+      },
+      "description": "Kyle Sandilands has announced he has been sacked by ARN Media after an on-air row with co-host Jackie Henderson last month.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-18/nsw-kyle-sandilands-arn-radio-contract-terminated/106465986"
+    },
+    {
       "published_datetime": "2026-03-17T19:07:06.000000Z",
-      "title": "Rare triple-hit cyclone possible to impact Qld, NT and WA",
+      "title": "Three states in firing line of rare triple-hit cyclone",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bc42d2443ec76721f609cdf769033548?impolicy=wcms_crop_resize&amp;cropH=360&amp;cropW=640&amp;xPos=0&amp;yPos=17&amp;width=862&amp;height=485"
       },
@@ -80,6 +80,24 @@
       },
       "description": "A Senate committee report into the capital gains tax was authored by the Greens but littered with clues about Labor's plans. ",
       "page_content_url": "https://www.abc.net.au/news/2026-03-18/capital-gains-tax-labor-policy-federal-government/106465976"
+    },
+    {
+      "published_datetime": "2026-03-17T21:00:57.000000Z",
+      "title": "Live: Chance of RBA interest rate hike in May drops to 40pc, ASX likely to rise",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/45c0d418253e25a4f5d3b74482e5844d?impolicy=wcms_crop_resize&amp;cropH=592&amp;cropW=1053&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The likelihood of a follow-up interest rate hike in May may has fallen substantially after the Reserve Bank's 5-4 vote in favour of yesterday's rate increase — the slimmest of majorities. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-18/asx-markets-business-live-news-march-18/106466908"
+    },
+    {
+      "published_datetime": "2026-03-17T19:05:04.000000Z",
+      "title": "Surge in 'increasingly real' fake cash arriving in Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7bb5e994795cfb6195dda6bdf8647287?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=68&amp;width=862&amp;height=485"
+      },
+      "description": "Cash may have declined in use during COVID but the use of it has steadied since. But technology has also opened a door to fake cash and its being seized now at much higher levels.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-18/counterfeit-cash-on-the-rise-throughout-australia/106419784"
     },
     {
       "published_datetime": "2026-03-17T12:58:27.000000Z",
@@ -107,24 +125,6 @@
       },
       "description": "One Nation South Australia candidate Rocco DeAngelis says people are \"disappointed\" in the major parties ahead of the state election, but Greens SA leader Robert Simms says the party is \"scapegoating minority groups\".",
       "page_content_url": "https://www.abc.net.au/news/2026-03-18/one-nation-impact-on-south-australian-election/106460928"
-    },
-    {
-      "published_datetime": "2026-03-17T19:05:04.000000Z",
-      "title": "Surge in 'increasingly real' fake cash arriving in Australia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7bb5e994795cfb6195dda6bdf8647287?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=68&amp;width=862&amp;height=485"
-      },
-      "description": "Cash may have declined in use during COVID but the use of it has steadied since. But technology has also opened a door to fake cash and its being seized now at much higher levels.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-18/counterfeit-cash-on-the-rise-throughout-australia/106419784"
-    },
-    {
-      "published_datetime": "2026-03-17T18:54:08.000000Z",
-      "title": "'A slow burning disaster': National court transcript service calls in administrators",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9c3526bf0c2404261b6bdb8dd000e2aa?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=93&amp;width=862&amp;height=485"
-      },
-      "description": "Four weeks after the ABC revealed sensitive court files were being accessed offshore in a potential risk to national security, the company responsible for the breach has entered into voluntary administration.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-18/court-transcripts-viq-solutions-voluntary-administration/106463942"
     },
     {
       "published_datetime": "2026-03-17T18:30:00.000000Z",
@@ -155,12 +155,21 @@
     },
     {
       "published_datetime": "2026-03-17T19:16:36.000000Z",
-      "title": "The 'new hysteria is anxiety': Teens push back against medical bias",
+      "title": "Chronic conditions dismissed as anxiety, low iron",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fae3707e50d3812c18ad1a80d41df65d?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=319&amp;width=862&amp;height=485"
       },
       "description": "Young women have detailed their experiences being dismissed and misdiagnosed as chronic pain sufferers. Now, they're teaching others how to advocate for their health.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-18/young-women-with-chronic-pain-pots-endo-adeno/106254488"
+    },
+    {
+      "published_datetime": "2026-03-17T18:54:08.000000Z",
+      "title": "Court transcription service in crisis after entering voluntary administration",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9c3526bf0c2404261b6bdb8dd000e2aa?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=93&amp;width=862&amp;height=485"
+      },
+      "description": "Four weeks after the ABC revealed sensitive court files were being accessed offshore in a potential risk to national security, the company responsible for the breach has entered into voluntary administration.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-18/court-transcripts-viq-solutions-voluntary-administration/106463942"
     },
     {
       "published_datetime": "2026-03-17T08:47:29.000000Z",
@@ -172,6 +181,24 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-17/grace-tame-comments-abc-radio-sydney-interview-on-october-7/106465388"
     },
     {
+      "published_datetime": "2026-03-17T20:18:38.000000Z",
+      "title": "Fuel and fertiliser shortage hits at crunch time for farmers",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/37c49b4b454ac83e65d9a3ba7e82a246?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Farmers are warning consumers to expect price rises in the supermarket as fuel and fertiliser shortages affect crop production and transport.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-18/fuel-and-fertiliser-shortage-hits-as-farmers-sow-winter-crops/106459560"
+    },
+    {
+      "published_datetime": "2026-03-17T21:09:40.000000Z",
+      "title": "Higher oil costs set to spike prices well beyond the fuel pump",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/337d977e2abc9e1ba2d8a18937932218?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "From mining to agriculture, higher oil prices from the war in the Middle East are not only increasing fuel costs, but prices for key chemicals as well. Can businesses cope? ",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-18/oil-prices-rise-to-increase-plastic-costs/106465914"
+    },
+    {
       "published_datetime": "2026-03-17T19:07:02.000000Z",
       "title": "Report finds 'significant and sustained shift' in support for salmon industry",
       "featured_image": {
@@ -179,33 +206,6 @@
       },
       "description": "A CSIRO report has found Tasmania's salmon farming industry has experienced a \"significant and sustained shift\" away from strong community support it experienced a decade ago.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-18/tas-support-for-tasmanian-salmon-industry-drops/106462820"
-    },
-    {
-      "published_datetime": "2026-03-17T03:10:16.000000Z",
-      "title": "Fuel shortages hit tipping point as WA miner stands down most workers",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3370d58951dd89f67a01d4d6d919a9ba?impolicy=wcms_crop_resize&amp;cropH=2744&amp;cropW=4878&amp;xPos=79&amp;yPos=628&amp;width=862&amp;height=485"
-      },
-      "description": "Fuel shortages linked to the Middle East war are forcing a WA gold miner to stand down workers, exposing how smaller operators are being squeezed while major miners maintain supply.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-17/fuel-crisis-forces-blue-cap-mining-to-send-wa-workers-home/106464056"
-    },
-    {
-      "published_datetime": "2026-03-17T19:00:07.000000Z",
-      "title": "'Lacks rationality': Japanese court rules on women's right to sterilisation",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cbed5f6d3efa5ad37d73817b22eed2c3?impolicy=wcms_crop_resize&amp;cropH=1713&amp;cropW=3046&amp;xPos=551&amp;yPos=508&amp;width=862&amp;height=485"
-      },
-      "description": "A law in Japan bans childless women from accessing voluntary sterilisation. Now a Tokyo judge has found it \"lacks rationality\" and should be debated.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-18/voluntary-sterilisation-in-japan-court-ruling/106466558"
-    },
-    {
-      "published_datetime": "2026-03-17T19:26:07.000000Z",
-      "title": "'We couldn't do without it': Fears for mobile preschool as petrol prices rise",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/76a7b701dde3b2e47ae3c0e3772d2aeb?impolicy=wcms_crop_resize&amp;cropH=2752&amp;cropW=4893&amp;xPos=107&amp;yPos=13&amp;width=862&amp;height=485"
-      },
-      "description": "Mobile services travelling across regional New South Wales say rising petrol prices are putting early childcare education at risk. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-18/rising-petrol-prices-raise-concerns-mobile-preschool/106446818"
     },
     {
       "published_datetime": "2026-03-17T18:54:08.000000Z",
@@ -217,13 +217,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-18/melbourne-activity-centre-building-heights-final-maps-released/106465496"
     },
     {
-      "published_datetime": "2026-03-17T19:41:01.000000Z",
-      "title": "NSW government paid $700 to get triple killer out of foster home",
+      "published_datetime": "2026-03-17T19:00:07.000000Z",
+      "title": "'Lacks rationality': Japanese court rules on women's right to sterilisation",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba0a48d958a0afae5ef57879c2fd5041?impolicy=wcms_crop_resize&amp;cropH=461&amp;cropW=819&amp;xPos=0&amp;yPos=82&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cbed5f6d3efa5ad37d73817b22eed2c3?impolicy=wcms_crop_resize&amp;cropH=1713&amp;cropW=3046&amp;xPos=551&amp;yPos=508&amp;width=862&amp;height=485"
       },
-      "description": "Families and Communities Minister Kate Washington was grilled in parliament over the case of triple killer Regina Arthurell, who was living with two foster children in a Western Sydney home.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-18/regina-arthurell-paid-700-dollars-to-leave-house-foster-children/106465918"
+      "description": "A law in Japan bans childless women from accessing voluntary sterilisation. Now a Tokyo judge has found it \"lacks rationality\" and should be debated.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-18/voluntary-sterilisation-in-japan-court-ruling/106466558"
     }
   ]
 }
