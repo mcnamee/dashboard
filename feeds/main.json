@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-23T22:40:14.000000Z",
+      "title": "NT rivers at risk of renewed flooding as Adelaide River surveys damage",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0cbf8d975d772025336669c37b2524c5?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "BOM is warning major riverine flooding could follow the \"moderate to heavy rainfall\" dumped across the NT by ex-Tropical Cyclone Narelle.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-24/rain-threatens-flooded-nt-rivers-ex-tropical-cyclone-narelle/106486670"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f3f6fc01-ea19-4754-ac03-46e7f9de7b50",
       "published_datetime": "2026-03-23T21:27:28.358933",
       "title": "Pakistan emerges as lead mediator between US and Iran",
@@ -107,9 +116,9 @@
     },
     {
       "published_datetime": "2026-03-23T18:52:20.000000Z",
-      "title": "The second fuel shock this decade proves you can't blockade the sun",
+      "title": "EV drivers smug as the world learns painful lesson on fossil fuel dependence",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a078f7cb8feb59b517b87a7d16af05cd?impolicy=wcms_crop_resize&amp;cropH=2132&amp;cropW=3791&amp;xPos=0&amp;yPos=197&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/76594234a3605584b5e0000db0f39428?impolicy=wcms_crop_resize&amp;cropH=1310&amp;cropW=2329&amp;xPos=753&amp;yPos=549&amp;width=862&amp;height=485"
       },
       "description": "From UN leaders to former Australian Defence Force chiefs, a growing chorus of voices argues that dependence on fossil fuels is not just a climate issue, but a national security risk \u2014 exposing countries to volatile prices and supply shocks.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-24/fuel-security-exposed-by-iran-war-but-renewables-offer-an-out/106452696"
@@ -131,15 +140,6 @@
       },
       "description": "A new algorithm for deciding how much aged care support people can receive to stay living at home is being blamed for reducing care to older Australians.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-24/aged-care-algorithm-for-home-care-under-fire/106475138"
-    },
-    {
-      "published_datetime": "2026-03-23T18:47:41.000000Z",
-      "title": "'Without dialysis I don't live': Fuel costs hit rural and regional patients",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a453da751f0f0564bcae1786d8b0f6b1?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=1156&amp;width=862&amp;height=485"
-      },
-      "description": "The Rural Doctors Association says some patients may be forced to make \"life and death\" decisions due to the rising cost of fuel in regional Australia.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-24/cost-of-fuel-impact-on-regional-health/106486092"
     },
     {
       "published_datetime": "2026-03-23T18:46:17.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-23T22:23:06.124976"
+  "merged_at": "2026-03-23T23:24:12.839517"
 }
