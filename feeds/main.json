@@ -1,21 +1,30 @@
 {
   "items": [
     {
-      "published_datetime": "2026-03-23T19:53:08.000000Z",
-      "title": "Trump looks trapped over Iran as markets gyrate and oil shortage hits heartland",
+      "published_datetime": "2026-03-23T21:04:05.000000Z",
+      "title": "When the 'Orange people' moved in, this tiny WA town fought back",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e3a2d43cd37179546a65596f085b763?impolicy=wcms_crop_resize&amp;cropH=2374&amp;cropW=4221&amp;xPos=0&amp;yPos=74&amp;width=862&amp;height=485"
+        "thumbnail": ""
+      },
+      "description": "When the Rajneesh sect moved into a small town in Western Australia, the group didn't count on the strength of the local community fighting back.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-24/the-orange-people-history-in-pemberton/106473858"
+    },
+    {
+      "published_datetime": "2026-03-23T19:53:08.000000Z",
+      "title": "Will Trump obliterate financial markets?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/df3caa9e83fb225a3573200b2590a425?impolicy=wcms_crop_resize&amp;cropH=694&amp;cropW=1234&amp;xPos=52&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Donald Trump appears to be fast running out of exits on his Iran war folly.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-24/donald-trump-iran-middle-east-war-reshape-trade-finance/106486152"
     },
     {
       "published_datetime": "2026-03-23T19:44:11.000000Z",
-      "title": "Live: Netanyahu says attacks on Iran to continue as nations ask for UN approval of force in strait",
+      "title": "Live: Trump says US and Iran 'want deal' as Tehran calls claim of talks 'fake news'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18a6a7f88be263bd9d6933abe8b634ce?impolicy=wcms_crop_resize&amp;cropH=1948&amp;cropW=3463&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f26fb3e338651cf2e541bcc1067b903a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=281&amp;width=862&amp;height=485"
       },
-      "description": "The Israeli prime minister releases a short video statement backing the US president's attempt to make a deal with Iran, but he says attacks on the country will not stop. Follow live.",
+      "description": "US President Donald Trump says there have been \"major points of agreement\" in US-Iran talks to end the war, but Iran denies those claims. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-24/iran-war-live-updates-netanyahu-says-attacks-to-continue/106488466"
     },
     {
@@ -38,7 +47,7 @@
     },
     {
       "published_datetime": "2026-03-23T18:52:20.000000Z",
-      "title": "Yet another fuel shock proves renewables are a matter of national security",
+      "title": "The second fuel shock this decade proves you can't blockade the sun",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a078f7cb8feb59b517b87a7d16af05cd?impolicy=wcms_crop_resize&amp;cropH=2132&amp;cropW=3791&amp;xPos=0&amp;yPos=197&amp;width=862&amp;height=485"
       },
@@ -56,7 +65,7 @@
     },
     {
       "published_datetime": "2026-03-23T18:50:02.000000Z",
-      "title": "Aged care algorithm 'like Russian roulette'",
+      "title": "Clinicians told to not override aged care algorithm",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c081713dcce6fbcab3fe2fdd1901a53c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -80,15 +89,6 @@
       },
       "description": "Iran has effectively blocked the only way out of the Persian Gulf, leaving about 3,000 ships stranded. But two zombie ships appear to have sailed in and out of the Gulf through the Strait of Hormuz.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-24/strait-of-hormuz-iran-us-war-trump-zombie-ships/106486194"
-    },
-    {
-      "published_datetime": "2026-03-23T18:30:47.000000Z",
-      "title": "Trump says US and Iran 'want deal' as Tehran calls claim of talks 'fake news'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a7c4d04e6682723e9bed54926dd04f06?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=139&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump says there have been \"major points of agreement\" in US-Iran talks to end the war. But Iran denies those claims.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-24/trump-says-iran-wants-a-deal-to-end-the-war/106488538"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e6b8de8e-c0ad-4e87-a8cc-1e157f043bd4",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-23T20:29:52.308621"
+  "merged_at": "2026-03-23T21:28:05.117071"
 }
