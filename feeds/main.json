@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-24T09:43:12.000000Z",
+      "title": "Trump Organization paid for Tom Tate's meals and more during visit",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/189c190a637460624a9721e603a6ce9a?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
+      },
+      "description": "The Gold Coast mayor visited the luxurious estate days before an Australian developer signed a deal to build a Trump-branded tower at Surfers Paradise.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-24/trump-organization-paid-for-tom-tates-meals-in-mar-a-lago/106493404"
+    },
+    {
       "published_datetime": "2026-03-24T08:22:19.000000Z",
       "title": "Former defence leaders say Australia is already in a fight with its biggest threats",
       "featured_image": {
@@ -8,15 +17,6 @@
       },
       "description": "Australians are already deeply emersed in a global disinformation war about fossil fuels and climate change, former defence leaders say in an extensive new review.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-24/fossil-fuel-climate-disinformation-threatens-australia/106490840"
-    },
-    {
-      "published_datetime": "2026-03-24T08:05:48.000000Z",
-      "title": "Man facing trial over Easey Street murders charged with rape",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e8f15a875948c0518130021b8cb16b09?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=226&amp;width=862&amp;height=485"
-      },
-      "description": "Prosecutors have reinstated a rape charge against accused Easey Street killer Perry Kouroumblis after a magistrate had earlier struck out the offence.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-24/perry-kouroumblis-accused-easey-street-killer-rape-charge/106493130"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/24a322ed-b124-4a7c-82e2-fb61f5a0ce9c",
@@ -89,11 +89,11 @@
     },
     {
       "published_datetime": "2026-03-24T05:51:29.000000Z",
-      "title": "Are you 'panic-buying' or 'playing it safe'?",
+      "title": "Are you 'panic buying' or 'playing it safe'?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7d9a4565dd6dacb918e9c458469ffc8e?impolicy=wcms_crop_resize&amp;cropH=1915&amp;cropW=3404&amp;xPos=0&amp;yPos=322&amp;width=862&amp;height=485"
       },
-      "description": "If you've topped up your tank at a petrol station recently, did it feel like you were \"panic-buying\"?",
+      "description": "If you've topped up your tank at a petrol station recently did it feel like you were \"panic buying\"?",
       "page_content_url": "https://www.abc.net.au/news/2026-03-24/panic-buying-fuel-groceries-iran-covid-playing-it-safe/106489580"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-24T09:45:53.772446"
+  "merged_at": "2026-03-24T10:41:59.052847"
 }
