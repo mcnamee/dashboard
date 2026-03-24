@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-24T08:22:19.000000Z",
+      "title": "Former defence leaders say Australia is already in a fight with its biggest threats",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/230843927b4adbb8b4ad16c7aa90753c?impolicy=wcms_crop_resize&amp;cropH=2619&amp;cropW=4656&amp;xPos=0&amp;yPos=243&amp;width=862&amp;height=485"
+      },
+      "description": "Australians are already deeply emersed in a global disinformation war about fossil fuels and climate change, former defence leaders say in an extensive new review.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-24/fossil-fuel-climate-disinformation-threatens-australia/106490840"
+    },
+    {
+      "published_datetime": "2026-03-24T08:05:48.000000Z",
+      "title": "Man facing trial over Easey Street murders charged with rape",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e8f15a875948c0518130021b8cb16b09?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=226&amp;width=862&amp;height=485"
+      },
+      "description": "Prosecutors have reinstated a rape charge against accused Easey Street killer Perry Kouroumblis after a magistrate had earlier struck out the offence.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-24/perry-kouroumblis-accused-easey-street-killer-rape-charge/106493130"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/da9a2ff5-de55-4c26-a33a-61fd95339ec4",
+      "published_datetime": "2026-03-24T06:44:13.468533",
+      "title": "Magnitude 7.6 earthquake strikes near Tonga; no tsunami threat",
+      "featured_image": {
+        "url": "https://www.aa.com.tr/en/americas/magnitude-76-earthquake-rattles-neiafu-tonga/3876658",
+        "name": "Magnitude 7.6 earthquake rattles Neiafu, Tonga",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--GZBoQu3v--/t_limit/https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/24/thumbs_b_c_5b606d6522e598d78b73a658b2158dac.jpg%3Fv%3D080728",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--z8VHUYpv--/t_thumbnail/https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/24/thumbs_b_c_5b606d6522e598d78b73a658b2158dac.jpg%3Fv%3D080728"
+      },
+      "description": "A magnitude 7.6 earthquake struck near Tonga in the South Pacific on Tuesday, according to the United States Geological Survey, but the deep tremor prompted no tsunami warning and there were no immediate reports of damage or casualties.",
+      "audio_url": "",
+      "url": "magnitude-7-6-earthquake-strik-S_.mDH.UQm2xSSuHMg2GFg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-24T06:03:40.000000Z",
       "title": "Labor caucus chooses new cabinet ministers as Liberals pledge election review",
       "featured_image": {
@@ -10,8 +43,23 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-24/liberal-leader-promises-review-as-labor-caucus-meets/106490152"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8206bb8e-55f3-4946-9a7f-f55c2acff569",
+      "published_datetime": "2026-03-24T05:56:02.634657",
+      "title": "AWS Bahrain region disrupted by drones for second time this month",
+      "featured_image": {
+        "url": "https://www.thenationalnews.com/business/2026/03/03/drone-strikes-damage-amazon-data-centres-in-uae-and-bahrain-disrupting-services/",
+        "name": "Drone strikes damage Amazon data centres in UAE and Bahrain ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--tgU7Y_u4--/t_limit/https://cloudfront-eu-central-1.images.arcpublishing.com/thenational/VDEO4YV3SSSKUU3A7ZMGOLHZ7Q.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--B-khrNht--/t_thumbnail/https://cloudfront-eu-central-1.images.arcpublishing.com/thenational/VDEO4YV3SSSKUU3A7ZMGOLHZ7Q.jpg"
+      },
+      "description": "Amazon said on Monday that its Amazon Web Services cloud computing region in Bahrain has \"been disrupted\" due to drone activity, marking the second time the facility has been hit since the start of the U.S.-Israeli war on Iran earlier this month.[1][2]\n\nThe disruption was first reported by Reuters, with an Amazon spokesperson confirming that the outage stemmed from drone activity in the area. Amazon said it is helping to migrate customers to alternate AWS regions while it works to recover, though the company did not disclose the extent of the damage or provide a timeline for restoration.[2][1]\n\n\"As this situation evolves and, as we have advised before, we request those with workloads in the affected regions continue to migrate to other locations,\" Amazon said in a statement Monday night.[2]",
+      "audio_url": "",
+      "url": "aws-bahrain-region-disrupted-b-ebLMwO8LS_iRhh0ByFuseg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-24T05:51:29.000000Z",
-      "title": "Most people don't think their own shopping is 'panic buying'",
+      "title": "Are you 'panic-buying' or 'playing it safe'?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7d9a4565dd6dacb918e9c458469ffc8e?impolicy=wcms_crop_resize&amp;cropH=1915&amp;cropW=3404&amp;xPos=0&amp;yPos=322&amp;width=862&amp;height=485"
       },
@@ -35,15 +83,6 @@
       },
       "description": "A key factor for shares, bonds, commodities and currencies remains consistently unchanged \u2014 the Strait of Hormuz is still effectively closed.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-24/oil-price-spikes-higher-australian-dollar-falls-strait-of-hormuz/106490764"
-    },
-    {
-      "published_datetime": "2026-03-24T04:30:48.000000Z",
-      "title": "EU leader talks of 'upside down' world in grim address to parliament",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/27a9fa05268a562705df3d3966f0efbd?impolicy=wcms_crop_resize&amp;cropH=3099&amp;cropW=5509&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "The Europe Commission president declares that Europe and Australia must rearm and decarbonise as they try to break economic and energy dependencies on China and Russia.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-24/ursula-von-der-leyen-addresses-australian-parliament/106487954"
     },
     {
       "published_datetime": "2026-03-24T03:26:27.000000Z",
@@ -107,15 +146,6 @@
       "audio_url": "",
       "url": "australia-eu-poised-to-finaliz-EOTL57tFQTO_rlR475yv8w",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-03-24T01:10:35.000000Z",
-      "title": "With Trump's backtrack, a new reality emerges in the Iran war",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0500166f47b925572d56175e7ad214cd?impolicy=wcms_crop_resize&amp;cropH=2806&amp;cropW=4988&amp;xPos=6&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "In the wake of Donald Trump's backtrack, Iran realises more clearly than ever that it wields a potent new weapon on the global stage.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-24/donald-trump-backtrack-leads-to-an-emboldened-iran/106471320"
     },
     {
       "published_datetime": "2026-03-24T01:03:37.000000Z",
@@ -202,36 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/58a7580d-a986-40f0-8519-019882dd6a20",
-      "published_datetime": "2026-03-23T22:00:09.719939",
-      "title": "Bahrain seeks UN approval of force to reopen Strait of Hormuz",
-      "featured_image": {
-        "url": "https://www.standard.co.uk/news/world/strait-of-hormuz-iran-warships-b1275478.html",
-        "name": "At least 30 warships needed to open Strait of Hormuz amid Iran blockade,  sources say | The Standard",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--jwyvz0Mk--/t_limit/https://static.standard.co.uk/2026/03/18/9/05/FILE-PHOTO-Tankers-sail-in-the-Gulf-near-the-Strait-of-Hormuz-4yj4uxqu.jpeg%3Fquality%3D75%26auto%3Dwebp%26width%3D960",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Sm7OIn4m--/t_thumbnail/https://static.standard.co.uk/2026/03/18/9/05/FILE-PHOTO-Tankers-sail-in-the-Gulf-near-the-Strait-of-Hormuz-4yj4uxqu.jpeg%3Fquality%3D75%26auto%3Dwebp%26width%3D960"
-      },
-      "description": "The UN Security Council on Monday began consultations on a draft resolution that would authorize the use of military force to secure the Strait of Hormuz, as a growing coalition of nations declared their willingness to help reopen the vital waterway that Iran has effectively shut down since late February.\n\nThe draft, circulated by Bahrain, invokes Chapter VII of the UN Charter \u2014 which grants the council authority to sanction actions ranging from targeted sanctions to the use of force \u2014 and would permit member states to employ \"all necessary means\" in and around the strait, according to a text seen by Reuters. The mandate would extend to the territorial waters of bordering states, with the aim of ensuring transit passage and deterring attempts to disrupt international navigation.[1]",
-      "audio_url": "",
-      "url": "bahrain-seeks-un-approval-of-f-nfCzyoi9SxCz2ZmCtCXLbA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f3f6fc01-ea19-4754-ac03-46e7f9de7b50",
-      "published_datetime": "2026-03-23T21:27:28.358933",
-      "title": "Pakistan emerges as lead mediator between US and Iran",
-      "featured_image": {
-        "url": "https://www.aa.com.tr/en/asia-pacific/pakistans-premier-sharif-in-saudi-arabia-after-phone-call-with-iranian-president-amid-mideast-tensions/3861467",
-        "name": "Pakistan's Premier Sharif in Saudi Arabia after phone call with Iranian  president amid Mideast tensions",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--bRlQPo-l--/t_limit/https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_35589d919d07af8560c7e7f5bac4c686.jpg%3Fv%3D142118",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--oRV70ksP--/t_thumbnail/https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_35589d919d07af8560c7e7f5bac4c686.jpg%3Fv%3D142118"
-      },
-      "description": "Pakistani Prime Minister Shehbaz Sharif spoke by phone with Iranian President Masoud Pezeshkian on Monday, expressing solidarity with the Iranian people amid the ongoing war in the Gulf region and calling for urgent collective efforts to de-escalate tensions through dialogue and diplomacy.[1][2]\n\nThe call came as Pakistan positioned itself as a lead mediator between the United States and Iran, with the Financial Times reporting that Pakistani army chief Asim Munir spoke directly with President Donald Trump on Sunday about the conflict. Senior Pakistani officials have been back-channeling communications between Tehran and Trump's envoy Steve Witkoff and Jared Kushner, according to the Financial Times, with Pakistan pitching Islamabad as a possible venue for talks as early as this week.[3][4][5][6]",
-      "audio_url": "",
-      "url": "pakistan-emerges-as-lead-media-Vs_tlmgvSeyQFpFyKZFxeQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-23T19:44:11.000000Z",
       "title": "Live: Iran launches fresh missiles at Israel, dismisses Trump's talk of negotiations as 'fake news'",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-24T07:49:08.250185"
+  "merged_at": "2026-03-24T08:40:34.756286"
 }
