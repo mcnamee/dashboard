@@ -214,6 +214,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-24/oil-price-spikes-higher-australian-dollar-falls-strait-of-hormuz/106490764"
     },
     {
+      "published_datetime": "2026-03-24T05:25:35.000000Z",
+      "title": "Tropical Cyclone Narelle to re-form and possibly intensify to category four",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7b40147976a85eb0503d0d23a1c43b06?impolicy=wcms_crop_resize&amp;cropH=586&amp;cropW=1042&amp;xPos=4&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Coastal communities in the Kimberley region will be affected in the next 24 hours as Tropical Cyclone Narelle, which had been downgraded to a low, intensifies back to cyclone level.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-24/tropical-cyclone-narelle-reform-kimberley-coast-wa/106490496"
+    },
+    {
       "published_datetime": "2026-03-24T02:58:17.000000Z",
       "title": "Iran launches longest-ever ballistic missile reaching beyond Middle East",
       "featured_image": {
@@ -230,15 +239,6 @@
       },
       "description": "When Donald Trump threatened to annex Greenland, Denmark leader Mette Frederiksen was flailing in the polls. Having stood up to the US president, she looks to have salvaged her political career.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-24/donald-trump-greenland-stance-helps-danish-pm-mette-frederiksen/106488440"
-    },
-    {
-      "published_datetime": "2026-03-23T19:44:11.000000Z",
-      "title": "Live: Pakistan prepared to host US-Iran peace talks led by JD Vance, officials say",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/84d0fa9c0bb0bf45a63f7c7b6db3026c?impolicy=wcms_crop_resize&amp;cropH=1446&amp;cropW=2570&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
-      },
-      "description": "A Pakistani official says direct talks between the US and Iran could be held in Islamabad this week, with Vice President JD Vance set to meet with Iranian officials. Follow live. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-24/iran-war-live-updates-netanyahu-says-attacks-to-continue/106488466"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-24T15:07:09.400139"
+  "merged_at": "2026-03-24T15:57:32.737155"
 }
