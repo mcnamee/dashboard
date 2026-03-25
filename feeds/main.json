@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-25T06:32:49.000000Z",
+      "title": "Seconds before LaGuardia crash, controller cleared fire truck to cross runway",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3b55066a41f187b7ef06b27a20de4d71?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=371&amp;width=862&amp;height=485"
+      },
+      "description": "US investigators are working to determine which of the airport's safety precautions failed and allowed the fire truck onto the runway, resulting in a collision that killed two pilots.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-25/laguardia-airport-crash-investigation-fire-truck-cross-runway/106495842"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f7120df2-7a66-4f04-94e4-de1cdd891efc",
+      "published_datetime": "2026-03-25T06:17:12.336789",
+      "title": "Astronomers spot two planets forming around a young star like our sun",
+      "featured_image": {
+        "url": "https://www.euronews.com/next/2026/03/25/astronomers-have-spotted-two-giant-gas-plants-forming-around-a-baby-star-in-deep-space",
+        "name": "Astronomers have spotted two giant gas plants forming around ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--OLWAykVx--/t_limit/https://images.euronews.com/articles/stories/09/69/62/22/808x454_cmsv2_bfb00b5e-6853-5986-8129-a037263a42ca-9696222.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--kmUy48sK--/t_thumbnail/https://images.euronews.com/articles/stories/09/69/62/22/808x454_cmsv2_bfb00b5e-6853-5986-8129-a037263a42ca-9696222.jpg"
+      },
+      "description": "An international team of astronomers has confirmed the discovery of a second planet forming in the dust disk surrounding the young star WISPIT 2, making it only the second known system where two planets have been directly observed taking shape around their host star. The findings, published Tuesday in The Astrophysical Journal Letters, offer what researchers describe as the closest analog yet to our own solar system in its infancy.[1][2]",
+      "audio_url": "",
+      "url": "astronomers-spot-two-planets-f-sTUNKc10R7OFyXU2_UtRzA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-25T06:16:42.000000Z",
       "title": "Australia warns Israel against south Lebanon occupation",
       "featured_image": {
@@ -8,24 +32,6 @@
       },
       "description": "Australia warns Israel against occupying parts of Lebanon, urging it to respect international law after the displacement of more than 1 million people.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-25/australia-warns-israel-against-south-lebanon-occupation/106495910"
-    },
-    {
-      "published_datetime": "2026-03-25T05:23:28.000000Z",
-      "title": "Russia fires nearly 400 drones at Ukraine with signs its spring offensive has begun",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/06a731222d6414efdc9a6efb30c443b4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Russia's anticipated annual spring offensive appears to have started, with a major drone assault on civilian areas coinciding with multiple attempts to break through frontline Ukrainian defences.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-25/russia-fires-nearly-400-drones-ukraine-spring-offensive/106495618"
-    },
-    {
-      "published_datetime": "2026-03-25T04:43:14.000000Z",
-      "title": "Shorter showers, no street lights: How Asia is responding to the energy crisis",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5d5c5e04b53b38e97481d5d35d0b0cc1?impolicy=wcms_crop_resize&amp;cropH=2694&amp;cropW=4789&amp;xPos=0&amp;yPos=276&amp;width=862&amp;height=485"
-      },
-      "description": "Countries across Asia are moving to protect their energy supplies after Iran effectively blockaded the crucial Strait of Hormuz passage in response to the United States and Israel's attacks.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-25/asia-response-to-fuel-shortages-in-middle-east-war/106494482"
     },
     {
       "published_datetime": "2026-03-25T04:40:35.000000Z",
@@ -44,15 +50,6 @@
       },
       "description": "The ceasefire plan comes as the US military prepares to call up at least 1,000 more troops to supplement those already in the Middle East.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-25/trump-administration-offers-15-point-ceasefire-plan-to-iran/106495478"
-    },
-    {
-      "published_datetime": "2026-03-25T01:52:29.000000Z",
-      "title": "Danish PM's party on track for worst election in over 100 years",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0c124ad43841174787a1c00f06e6e9cf?impolicy=wcms_crop_resize&amp;cropH=2159&amp;cropW=3838&amp;xPos=577&amp;yPos=1174&amp;width=862&amp;height=485"
-      },
-      "description": "Danish Prime Minister Mette Frederiksen's Social Democrats look set to suffer the party's worst election outcome in more than a century.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-25/denmark-election-results-social-democrats-bruised/106495180"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5ec3f512-1af6-44b9-97df-209a27dffac9",
@@ -199,19 +196,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-25/government-says-fuel-rationing-unlikely-/106494636"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4f282ce4-72f7-4436-966c-12f3422ffee8",
-      "published_datetime": "2026-03-24T23:56:25.195174",
-      "title": "Death toll rises to 69 in Colombia military plane crash",
+      "published_datetime": "2026-03-24T23:55:27.000000Z",
+      "title": "ABC managing director apologises to audience, amid strike action",
       "featured_image": {
-        "url": "https://www.aljazeera.com/news/2026/3/23/colombian-military-plane-with-125-on-board-crashes-after-takeoff",
-        "name": "Colombian military plane crash kills at least 66, wounds dozens",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--iZMutH_x--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69c17a668737-1774287462.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0FCWmGob--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69c17a668737-1774287462.jpg%3Fresize%3D1920%252C1440"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9f8adfe6efc4826a602e5e8fdaf17582?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "A Colombian Air Force C-130 Hercules transport plane crashed into dense jungle shortly after takeoff on Monday, killing 69 members of the country's security forces in one of the deadliest air disasters in Colombian military history. The death toll, updated Tuesday by the armed forces, also left 57 people injured and one still missing.[1][2][3]",
-      "audio_url": "",
-      "url": "death-toll-rises-to-69-in-colo-Zjj.vRA5QiSzkSjbi2r1Ag",
-      "partition_name": "partition1"
+      "description": "A majority of staff who voted rejected the broadcaster's latest pay offer on the three-year enterprise bargaining agreement, which paved the way for the strike action.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-25/abc-journalists-24-hour-strike-action-begins/106493282"
+    },
+    {
+      "published_datetime": "2026-03-24T21:37:49.000000Z",
+      "title": "Could Cyclone Narelle come as far south as Perth?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/65c0019c11a6cb32343345049efa1405?impolicy=wcms_crop_resize&amp;cropH=591&amp;cropW=1051&amp;xPos=0&amp;yPos=18&amp;width=862&amp;height=485"
+      },
+      "description": "Tropical Cyclone Narelle is now barrelling towards Western Australia. Could this unusual cyclone make it all the way to Perth, and how does climate change affect it?",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-25/cyclone-narelle-path-to-turn-back-towards-wa/106487794"
     },
     {
       "published_datetime": "2026-03-24T20:43:21.000000Z",
@@ -224,7 +224,7 @@
     },
     {
       "published_datetime": "2026-03-24T19:49:23.000000Z",
-      "title": "Live: Australia to restrict entry to some Iranian visa holders",
+      "title": "Live: Government will adjust Iran visitor visa rules as war develops, Burke says",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f9aae2f05c4943a1c7d35cc371cc511?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-25T06:52:53.611286"
+  "merged_at": "2026-03-25T07:47:36.290479"
 }
