@@ -1,40 +1,199 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-25T02:11:25.000000Z",
+      "title": "Man charged with murder and predatory driving over highway crash",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2b5f32535999342fd85a1451798c9cb3?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=221&amp;width=862&amp;height=485"
+      },
+      "description": "A 40-year-old Canberra man has been charged with murder after a crash that killed a Bega Valley woman on the Monaro Highway in early March.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-25/man-charged-with-murder-over-fatal-monaro-crash/106409808"
+    },
+    {
+      "published_datetime": "2026-03-25T01:52:29.000000Z",
+      "title": "Danish PM's chances of third term hit amid fight over migration, Greenland",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0c124ad43841174787a1c00f06e6e9cf?impolicy=wcms_crop_resize&amp;cropH=2159&amp;cropW=3838&amp;xPos=577&amp;yPos=1174&amp;width=862&amp;height=485"
+      },
+      "description": "Danish Prime Minister Mette Frederiksen's Social Democrats look set to suffer the party's worst election outcome in more than a century.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-25/denmark-election-results-social-democrats-bruised/106495180"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5ec3f512-1af6-44b9-97df-209a27dffac9",
+      "published_datetime": "2026-03-25T01:49:21.057370",
+      "title": "Brazil court places Bolsonaro under house arrest on health grounds",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/americas/brazil-court-places-bolsonaro-under-house-arrest-health-grounds-2026-03-24/",
+        "name": "Brazil court places Bolsonaro under house arrest on health ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--HKWegRGl--/t_limit/https://www.reuters.com/resizer/v2/JKFT6GXOFVK6DMX3LSBCJJNJSE.jpg%3Fauth%3De67473551a9010509c4e820c60d21bd6100771bb7e01811c4488a6d94e49be61%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--mJhU98vi--/t_thumbnail/https://www.reuters.com/resizer/v2/JKFT6GXOFVK6DMX3LSBCJJNJSE.jpg%3Fauth%3De67473551a9010509c4e820c60d21bd6100771bb7e01811c4488a6d94e49be61%26width%3D1920%26quality%3D80"
+      },
+      "description": "Brazilian Supreme Court Justice Alexandre de Moraes ruled on Tuesday to place former President Jair Bolsonaro under house arrest on health grounds, reversing months of denied requests from the right-wing leader's legal team, according to Reuters.[1]\n\nBolsonaro, 71, has been serving a 27-year prison sentence since November for plotting a coup after losing the 2022 election to President Luiz Inacio Lula da Silva. The house arrest will last for an initial 90-day period, after which Moraes said conditions will be reassessed. \"The presence of the requirements necessary for maintaining humanitarian house arrest will be reassessed, including a medical examination if needed,\" the justice wrote in the decision.[1]",
+      "audio_url": "",
+      "url": "brazil-court-places-bolsonaro-2EFPRdWxQ2elNK6V6VBV5g",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/358f5704-ef92-405a-acb9-318b550e3ec8",
+      "published_datetime": "2026-03-25T01:29:18.025209",
+      "title": "Oil drops as US sends Iran 15-point ceasefire proposal",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/03/18/oil-prices-drop-as-us-crude-inventories-show-an-increase.html",
+        "name": "Oil prices drop as U.S. crude inventories show an increase - CNBC",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--rBiijaj5--/t_limit/https://image.cnbcfm.com/api/v1/image/108279274-1773797612438-gettyimages-166262574-is09a64lu.jpeg%3Fv%3D1773797621%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--wmnl1YzS--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108279274-1773797612438-gettyimages-166262574-is09a64lu.jpeg%3Fv%3D1773797621%26w%3D1920%26h%3D1080"
+      },
+      "description": "Oil prices swung sharply on Monday and Tuesday as reports emerged that the United States had sent Iran a 15-point proposal to end the war now in its fourth week, offering a potential off-ramp from a conflict that has roiled global energy markets and sent American gas prices soaring.",
+      "audio_url": "",
+      "url": "oil-drops-as-us-sends-iran-15-6S6YwphXQByrElSyuMK_4w",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4d6d4591-1702-4fb4-92d3-a552320ec4eb",
+      "published_datetime": "2026-03-25T01:10:26.508343",
+      "title": "Israeli airstrike hits Christian town north of Beirut for first time",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/middle-east/airstrike-hits-lebanese-christian-town-north-beirut-state-media-says-2026-03-24/",
+        "name": "Airstrike hits Lebanese Christian town north of Beirut ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--KXAuu6fQ--/t_limit/https://www.reuters.com/resizer/v2/V4PBFOMRZVJFBNM6URZ2CQPJPQ.jpg%3Fauth%3D292da732aaeab8d32cca459eac2cc191deb1b7ebfb81fd768d5adf4aea95c5cc%26width%3D1200%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Vr5l1cXx--/t_thumbnail/https://www.reuters.com/resizer/v2/V4PBFOMRZVJFBNM6URZ2CQPJPQ.jpg%3Fauth%3D292da732aaeab8d32cca459eac2cc191deb1b7ebfb81fd768d5adf4aea95c5cc%26width%3D1200%26quality%3D80"
+      },
+      "description": "An Israeli airstrike struck the Christian town of Sahel Alma north of Beirut on Tuesday, marking the first time the area had been targeted in the expanding war between Israel and Hezbollah, according to Lebanese state media and Reuters. There were no immediate reports of casualties, but witnesses told Reuters they heard several blasts and saw white smoke rising from the town.[1][2][3]\n\nThe strike represents a widening of Israel's air campaign into areas previously untouched by the conflict, which has killed more than 1,000 people in Lebanon and displaced over one million since fighting escalated on March 2.[4][5]",
+      "audio_url": "",
+      "url": "israeli-airstrike-hits-christi-ghMBlElkSESJD889wBJGlA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c2869e6d-7775-4822-9779-04293db553df",
+      "published_datetime": "2026-03-25T00:50:30.028795",
+      "title": "Iran charges ships up to $2M for Hormuz passage",
+      "featured_image": {
+        "url": "https://www.bloomberg.com/news/articles/2026-03-24/iran-charges-some-ships-hormuz-transit-fees-for-safe-passage",
+        "name": "Iran War: Tehran Charges Some Ships Hormuz Transit Fees for Safe Passage -  Bloomberg",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1774397870/url_uploads/-1x-1_bkgn2w.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1774397870/url_uploads/-1x-1_bkgn2w.jpg"
+      },
+      "description": "Iran has begun levying transit fees of up to $2 million per voyage on some commercial vessels passing through the Strait of Hormuz, effectively creating an informal toll on the world's most critical maritime energy chokepoint, according to Bloomberg.[1]\n\nThe payments are being sought on an ad hoc basis and do not appear to be systematic, people familiar with the matter told Bloomberg. Some ships have already made the payment, though the mechanism and currency used remain unclear. Iranian authorities have officially denied that a formal policy exists, calling the reports \"unfounded\".[2][1]",
+      "audio_url": "",
+      "url": "iran-charges-ships-up-to-2m-fo-XmZ2Qp3gS6uh.bQB.fZnCg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-25T00:40:46.000000Z",
-      "title": "Breaking: Inflation falls slightly in February to 3.7 per cent",
+      "title": "Inflation cooled slightly in February before Iran war energy price spike",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2caa951bfb97072adb58424be0cbca36?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
       },
-      "description": "However, the latest monthly data does not capture the recent rise in energy prices caused by the war in the Middle East, which began on February 28.",
+      "description": "The latest monthly data does not capture the recent rise in energy prices caused by the war in the Middle East, which began on February 28.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-25/inflation-fell-slightly-in-february-underlying-figure-unchanged/106494960"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/57246b04-a541-445e-92fb-b56b1bddeed3",
+      "published_datetime": "2026-03-25T00:26:04.109361",
+      "title": "US airstrikes kill 15 Iraq PMF fighters, including Anbar commander",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/middle-east/two-iraqs-shiite-popular-mobilization-forces-fighters-killed-airstrikes-western-2026-03-23/",
+        "name": "Airstrikes in Iraq on Iran-backed paramilitary alliance kill ...",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1774398172/url_uploads/3CDGZ7FU7ZMSFPXOPB7HW3YVXM_sbbxzu.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1774398172/url_uploads/3CDGZ7FU7ZMSFPXOPB7HW3YVXM_sbbxzu.jpg"
+      },
+      "description": "Airstrikes attributed to the United States and Israel killed at least 15 fighters from Iraq's Popular Mobilization Forces and wounded 30 others in western Iraq early Tuesday, in the deadliest single attack on the Iran-backed militia coalition since the US-Israeli war on Iran began in late February.\n\nThe strikes hit a PMF command headquarters in Iraq's Anbar province during a security meeting attended by senior commanders, according to Reuters. Among the dead was Saad al-Baiji, the PMF's operations commander for Anbar province. The PMF confirmed his death along with 14 of his companions in a statement posted on social media, calling the attack \"a treacherous American targeting that struck the operations headquarters\".[1][2]",
+      "audio_url": "",
+      "url": "us-airstrikes-kill-15-iraq-pmf-eA1FDbkrTXq0Gszv3XiEqA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/40c9ccd3-ce6a-44ad-8988-0afec92a07ef",
+      "published_datetime": "2026-03-25T00:22:07.592779",
+      "title": "Netanyahu taps top aide Dermer to vet US-Iran deal",
+      "featured_image": {
+        "url": "https://www.bloomberg.com/news/articles/2026-03-24/netanyahu-tasks-key-aide-with-vetting-us-iran-deal-for-red-lines",
+        "name": "Netanyahu Taps Ron Dermer to Oversee US-Iran Deal Talks for Israeli  Interests - Bloomberg",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--zvoIgq-6--/t_limit/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDC_Xl5lGOJ0/v2/-1x-1.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Xhfqatgf--/t_thumbnail/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDC_Xl5lGOJ0/v2/-1x-1.webp"
+      },
+      "description": "Israeli Prime Minister Benjamin Netanyahu assigned his closest confidant, former Strategic Affairs Minister Ron Dermer, to monitor US-Iranian negotiations and ensure Israel's core interests are not sacrificed in any potential deal to end the war, according to Bloomberg, citing an Israeli official speaking on condition of anonymity.[1][2]\n\nDermer's primary focus is on ensuring the dismantlement of Iran's nuclear program and the removal and elimination of roughly 440 kilograms of highly enriched uranium \u2014 material that Iran reportedly boasted to White House Special Envoy Steve Witkoff was sufficient for 11 nuclear bombs, according to Jewish Insider.[3]",
+      "audio_url": "",
+      "url": "netanyahu-taps-top-aide-dermer-Vt5S.zf3Q5KGRF8V6GsQTw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a8f958f1-5cde-4749-883a-3996f0c4040c",
+      "published_datetime": "2026-03-25T00:08:36.085444",
+      "title": "Trump claims Iran gave US an energy 'present' tied to Hormuz",
+      "featured_image": {
+        "url": "https://www.cnn.com/world/video/trump-major-points-of-agreement-with-iran-after-talks-digvid",
+        "name": "Trump: 'Major points of agreement' with Iran after talks",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--yTeUhILl--/t_limit/https://media.cnn.com/api/v1/images/stellar/prod/ap26082505336152.jpg%3Fc%3D16x9%26q%3Dw_1280%2Cc_fill",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--NBv5ktg5--/t_thumbnail/https://media.cnn.com/api/v1/images/stellar/prod/ap26082505336152.jpg%3Fc%3D16x9%26q%3Dw_1280%2Cc_fill"
+      },
+      "description": "President Donald Trump said on Tuesday that Iran had made a major energy-related concession to the United States, describing it as a gift that \"arrived today\" \u2014 though he offered no specifics and Iran has repeatedly denied engaging in any negotiations with Washington.\n\n\"They gave us a present and the present arrived today, and it was a very big present, worth a tremendous amount of money,\" Trump told reporters in the Oval Office, according to Reuters. \"It wasn't nuclear; it was oil-and-gas-related, and it was a very nice thing they did.\"[1]\n\nTrump said the gesture was connected to the Strait of Hormuz, the critical waterway through which roughly 20% of the world's oil supply passes. He characterized it as proof that \"we're dealing with the right people\" in Tehran and claimed Iran had also agreed it \"will never have a nuclear weapon,\" The Independent reported.[2][3]",
+      "audio_url": "",
+      "url": "trump-claims-iran-gave-us-an-e-Q3yPf69FQf26oN3x0_jjog",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6ac181fb-17fa-400d-b115-52b753147e3d",
+      "published_datetime": "2026-03-25T00:04:05.172579",
+      "title": "Iran refuses talks with Witkoff and Kushner, eyes Vance",
+      "featured_image": {
+        "url": "https://www.thetimes.com/us/news-today/article/jd-vance-iran-war-2028-maga-tvd6pdj8w",
+        "name": "JD Vance is walking a tightrope on Iran. What does he really think?",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--fWyEATos--/t_limit/https://www.thetimes.com/imageserver/image/%252F8476b1d6-3bac-4d22-b809-4d429195b139.jpg%3Fcrop%3D2830%252C1887%252C0%252C0",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--PhCkSJUk--/t_thumbnail/https://www.thetimes.com/imageserver/image/%252F8476b1d6-3bac-4d22-b809-4d429195b139.jpg%3Fcrop%3D2830%252C1887%252C0%252C0"
+      },
+      "description": "Iran has refused to continue diplomatic engagement with President Donald Trump's top envoys Steve Witkoff and Jared Kushner, accusing them of deception in the lead-up to the U.S.-Israeli strikes that began on February 28, according to The Telegraph. Gulf sources told the publication that Tehran now views Vice President JD Vance as its preferred American interlocutor, owing to his well-documented skepticism of military intervention abroad.[1][2]\n\nThe shift comes as mediating nations work to arrange a potential meeting in Islamabad, Pakistan, that could bring together Vance and Iranian Parliament Speaker Mohammad Bagher Ghalibaf as early as this week.[3][4]",
+      "audio_url": "",
+      "url": "iran-refuses-talks-with-witkof-8xCOzdIxT8WIulxRxIVuvA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-25T00:02:32.000000Z",
-      "title": "Man dies in police custody in Darwin after being put in back of police vehicle",
+      "title": "Man dies in NT police custody after arrest and detainment in car cage",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bf0139fc6988508fca141d3304d98add?impolicy=wcms_crop_resize&amp;cropH=480&amp;cropW=852&amp;xPos=52&amp;yPos=93&amp;width=862&amp;height=485"
       },
-      "description": "Authorities have confirmed a man died in police custody in Darwin's northern suburbs overnight, after he was \"arrested without incident\".",
+      "description": "A man has died in police custody in Darwin's northern suburbs overnight, with police saying he was \"arrested without incident\".",
       "page_content_url": "https://www.abc.net.au/news/2026-03-25/nt-police-confirm-man-death-in-custody-casuarina-arrest/106494864"
     },
     {
-      "published_datetime": "2026-03-24T23:55:27.000000Z",
-      "title": "ABC managing director apologises to audience, amid strike action",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1b20d2b9-26e8-48c8-ba54-17609062cab0",
+      "published_datetime": "2026-03-25T00:00:09.838237",
+      "title": "Denmark's left bloc wins election but falls short of majority",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/566819fff18ca6a15af90cad67501269?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=100&amp;width=862&amp;height=485"
+        "url": "https://www.euronews.com/my-europe/2026/03/24/denmark-votes-in-snap-election-as-mette-frederiksen-seeks-third-term",
+        "name": "Exit polls: Frederiksen's Social Democrats win Danish election but probably  no majority",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--mFOhug6C--/t_limit/https://images.euronews.com/articles/stories/09/69/62/57/1536x864_cmsv2_9f28fe2a-93c3-5050-9ef8-03878bb610bc-9696257.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Er6BoisI--/t_thumbnail/https://images.euronews.com/articles/stories/09/69/62/57/1536x864_cmsv2_9f28fe2a-93c3-5050-9ef8-03878bb610bc-9696257.jpg"
       },
-      "description": "A majority of staff who voted rejected the broadcaster's latest pay offer on the three-year enterprise bargaining agreement, which paved the way for the strike action.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-25/abc-journalists-24-hour-strike-action-begins/106493282"
+      "description": "Denmark's left-wing bloc led by Prime Minister Mette Frederiksen emerged ahead in Tuesday's parliamentary election but failed to secure a governing majority, with the Social Democrats posting their weakest result in 125 years and leaving centrist Foreign Minister Lars L\u00f8kke Rasmussen positioned as kingmaker in what promises to be weeks of coalition negotiations.\n\nWith nearly all votes counted late Tuesday, the \"red bloc\" of left-leaning parties captured 84 seats in Denmark's 179-seat Folketing, while the right-wing \"blue bloc\" secured 77 seats \u2014 both well short of the 90 needed for a majority. Rasmussen's centrist Moderates, which won 14 seats, now hold the balance of power.[1][2]",
+      "audio_url": "",
+      "url": "denmark-s-left-bloc-wins-elect-mwRtXdYCTEO6SfVFtm2E7g",
+      "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-24T23:46:33.000000Z",
-      "title": "Jetstar reduces flights between New Zealand and Australia due to rising jet fuel prices",
+      "published_datetime": "2026-03-24T23:59:50.000000Z",
+      "title": "Government says 5 per cent inflation scenario 'pretty conservative now'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4b4464a7049b123ea06ce20575815287?impolicy=wcms_crop_resize&amp;cropH=1946&amp;cropW=3459&amp;xPos=0&amp;yPos=180&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a7d172dabd58f4b7838c462ff722ac60?impolicy=wcms_crop_resize&amp;cropH=1728&amp;cropW=3072&amp;xPos=0&amp;yPos=783&amp;width=862&amp;height=485"
       },
-      "description": "Jetstar announces it is reducing flights between Australia and New Zealand due to the rising cost of jet fuel as a result of the war in the Middle East.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-25/qantas-reduces-jetstar-flights-to-nz-cites-rise-in-jet-fuel-cost/106494584"
+      "description": "The government has requested new Treasury modelling for \"more challenging circumstances\" stemming from the Middle East war, admitting that the economic scenarios released last week \"look pretty conservative now\". \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-25/government-says-fuel-rationing-unlikely-/106494636"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4f282ce4-72f7-4436-966c-12f3422ffee8",
+      "published_datetime": "2026-03-24T23:56:25.195174",
+      "title": "Death toll rises to 69 in Colombia military plane crash",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2026/3/23/colombian-military-plane-with-125-on-board-crashes-after-takeoff",
+        "name": "Colombian military plane crash kills at least 66, wounds dozens",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--iZMutH_x--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69c17a668737-1774287462.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0FCWmGob--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69c17a668737-1774287462.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "A Colombian Air Force C-130 Hercules transport plane crashed into dense jungle shortly after takeoff on Monday, killing 69 members of the country's security forces in one of the deadliest air disasters in Colombian military history. The death toll, updated Tuesday by the armed forces, also left 57 people injured and one still missing.[1][2][3]",
+      "audio_url": "",
+      "url": "death-toll-rises-to-69-in-colo-Zjj.vRA5QiSzkSjbi2r1Ag",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-03-24T23:36:12.000000Z",
@@ -42,167 +201,8 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7d1e87680f735c9e191b77f9c0563173?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
       },
-      "description": "The Japanese-owned Iron Maiden will be the first known ship to dock in Australia after it was stranded in the Persian Gulf when the US and Israel first bombed Iran on February 28.",
+      "description": "The Japanese-owned Iron Maiden will be the first known ship to dock in Australia after it was stranded in the Persian Gulf when the US and Israel began bombing Iran on February 28.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-25/strait-of-hormuz-ship-escape-arrive-australia/106491974"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/62c0105e-84e0-42ca-b91a-fab72877e40a",
-      "published_datetime": "2026-03-24T23:10:10.565048",
-      "title": "Erdogan vows to keep Turkey out of Iran war's 'ring of fire'",
-      "featured_image": {
-        "url": "https://www.economist.com/leaders/2025/03/25/president-recep-tayyip-erdogan-is-throttling-turkeys-democracy",
-        "name": "President Recep Tayyip Erdogan is throttling Turkey's democracy",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--KKuTzogR--/t_limit/https://www.economist.com/cdn-cgi/image/width%3D1424%2Cquality%3D80%2Cformat%3Dauto/content-assets/images/20250329_LDP002.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--JTMAv4Lr--/t_thumbnail/https://www.economist.com/cdn-cgi/image/width%3D1424%2Cquality%3D80%2Cformat%3Dauto/content-assets/images/20250329_LDP002.jpg"
-      },
-      "description": "Turkish President Recep Tayyip Erdogan on Tuesday vowed that Turkey would remain outside the widening conflict engulfing the Middle East, delivering a pointed rebuke of Israeli Prime Minister Benjamin Netanyahu and warning that the world's eight billion people are paying the price for what he called \"Netanyahu's war for survival.\"\n\nSpeaking after a cabinet meeting in Ankara on the 25th day of the US-Israeli air campaign against Iran, Erdogan said Turkey is \"determined to keep our country out of this ring of fire\" and rejected attempts by warring parties to draw Ankara into the conflict.[1][2]\n\n\"We are not falling into traps set for us,\" Erdogan said, according to Turkey's state-run Anadolu Agency. \"The past 25 days have shown that while this is Israel's war, the world is paying the price.\"[2]",
-      "audio_url": "",
-      "url": "erdogan-vows-to-keep-turkey-ou-zy9lEjtaSPC2UTlm4blrhQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/54fcfd36-778a-41c3-beff-5a44d40443dc",
-      "published_datetime": "2026-03-24T23:09:02.457330",
-      "title": "Iran stops all gas exports to Turkey after South Pars strike",
-      "featured_image": {
-        "url": "https://www.thenationalnews.com/business/energy/2026/03/18/iraq-faces-power-shortage-as-iran-halts-gas-supply-after-south-pars-attack/",
-        "name": "Iraq suffers major power capacity loss as Iran halts gas flows after South  Pars strike | The National",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--2-B6MJ89--/t_limit/https://cloudfront-eu-central-1.images.arcpublishing.com/thenational/AI3SKLKEBIJ44OVJB7R2MJ5WCE.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0-PyZn5m--/t_thumbnail/https://cloudfront-eu-central-1.images.arcpublishing.com/thenational/AI3SKLKEBIJ44OVJB7R2MJ5WCE.jpg"
-      },
-      "description": "Iran has stopped all natural gas exports to Turkey following Israel's March 18 strike on the South Pars gas field, Bloomberg News reported on Tuesday, citing people familiar with the matter. The halt marks the latest energy disruption from an attack that has sent shockwaves through global markets and intensified a broader confrontation across the Middle East.[1][2]\n\nTurkey purchased approximately 14% of its natural gas from Iran last year, according to data from the Turkish Natural Gas Distributors Association cited by Bloomberg. According to T\u00fcrkiye Today, roughly 75% of Iranian gas flows to Turkey had already been cut in the immediate aftermath of the strike before the full halt took effect. The Turkish Energy Ministry declined to comment on the situation.[2][3][1]",
-      "audio_url": "",
-      "url": "iran-stops-all-gas-exports-to-nOmPFoAgTpiWYylWdZn.Nw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/79952065-197a-4096-96af-ea5ce631062e",
-      "published_datetime": "2026-03-24T23:06:39.145543",
-      "title": "Iran fires cluster bomb missile at Bnei Brak, injuring 9",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/building-collapses-after-iranian-missile-strike-on-israel",
-        "name": "Building collapses after Iranian missile strike on Israel",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1774393374/url_uploads/BNEI-BRAK-WIDE-CLEAN-1774386402_gzr5vu.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1774393374/url_uploads/BNEI-BRAK-WIDE-CLEAN-1774386402_gzr5vu.jpg"
-      },
-      "description": "Nine people, including six children, were injured on Tuesday after an Iranian ballistic missile carrying a cluster bomb warhead struck the central Israeli city of Bnei Brak, dispersing bomblets over a wide area that also reached nearby Petah Tikva. The attack was one of several Iranian missile barrages that struck Israeli cities throughout the day as the conflict between Iran and a U.S.-Israeli coalition entered its fourth week.\n\nMagen David Adom, Israel's emergency medical service, reported that a 23-year-old man was in moderate condition with shrapnel wounds, while eight others \u2014 including six children \u2014 sustained mild injuries from blast effects and shrapnel. Footage from the scene showed cluster submunitions scattered across residential areas, a weapon type Iran has repeatedly deployed against Israeli population centers during the war.[1][2][3][4]",
-      "audio_url": "",
-      "url": "iran-fires-cluster-bomb-missil-ImaII794SxyjUquKmKKWXw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d3639853-7975-4697-a84e-c16443590d40",
-      "published_datetime": "2026-03-24T23:04:00.614728",
-      "title": "Israel says it killed Quds Force operative in Beirut strike",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/middle-east/us-envoy-expected-beirut-tuesday-ceasefire-talks-2024-11-18/",
-        "name": "Israeli strike in Beirut kills five as Lebanon, Hezbollah ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--pKSeXGbP--/t_limit/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7WYS3ZVY5BLYROJR2WX7ERD7VQ.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--fjN8hUCc--/t_thumbnail/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7WYS3ZVY5BLYROJR2WX7ERD7VQ.jpg"
-      },
-      "description": "The Israeli military and Shin Bet announced on Tuesday that they killed Muhammad Ali Kourani, described as a member of Iran's Islamic Revolutionary Guard Corps Quds Force, in a naval strike on the Beirut area carried out the previous day. The Israeli Defense Forces said Kourani had been \"advancing terror attacks directed by Iranian intelligence officials\" from within Lebanon.[1][2]",
-      "audio_url": "",
-      "url": "israel-says-it-killed-quds-for-Rpa85f3VTe21yXIWlilw_Q",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/387a10b6-57ab-4734-a847-872532fd0e4a",
-      "published_datetime": "2026-03-24T22:59:43.483694",
-      "title": "Second projectile hits Iran's Bushehr nuclear plant in a week",
-      "featured_image": {
-        "url": "https://www.moneycontrol.com/world/iran-s-bushehr-nuclear-plant-hit-by-projectile-no-damage-reported-iaea-calls-for-caution-article-13864407.html",
-        "name": "Iran's Bushehr nuclear plant hit by projectile, no damage reported; IAEA  calls for caution",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--TNz-rIIt--/t_limit/https://images.moneycontrol.com/static-mcnews/2026/03/20260318142406_Bushehr-1.jpg%3Fimpolicy%3Dwebsite%26width%3D770%26height%3D431",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--uA2i6ibm--/t_thumbnail/https://images.moneycontrol.com/static-mcnews/2026/03/20260318142406_Bushehr-1.jpg%3Fimpolicy%3Dwebsite%26width%3D770%26height%3D431"
-      },
-      "description": "A projectile struck the perimeter of Iran's Bushehr Nuclear Power Plant on Tuesday evening local time, the Atomic Energy Organization of Iran reported, marking the second such incident at the facility in just over a week. The strike, which occurred at approximately 9:08 p.m. local time on March 24, resulted in no casualties, damage, or disruption to operations, according to Iran's state news agency IRNA.[1][2]\n\nThe IAEA confirmed it had been informed by Iran of the latest projectile impact at the plant. Iran's atomic energy organization accused the United States and Israel of carrying out the attack.[3][4][5]",
-      "audio_url": "",
-      "url": "second-projectile-hits-iran-s-c0YlAHLkTfS2n0UddKMmmQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/26e3cf03-d1e9-407f-a724-0f83cd1e5e9b",
-      "published_datetime": "2026-03-24T22:56:01.634169",
-      "title": "CENTCOM says 9,000 targets hit in Iran campaign's first 24 days",
-      "featured_image": {
-        "url": "https://signalscv.com/2026/03/centcom-9000-iranian-targets-hit-so-far/",
-        "name": "CENTCOM: 9,000 Iranian targets hit so far",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--3V2jsAXP--/t_limit/https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2026/03/24125703/032426_IRAN_9000_US_Navy.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--rAoGQyWa--/t_thumbnail/https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2026/03/24125703/032426_IRAN_9000_US_Navy.jpg"
-      },
-      "description": "US Central Command announced on March 23 that Operation Epic Fury has struck more than 9,000 military targets inside Iran since the campaign began on February 28, marking one of the largest American military operations in the Middle East in decades. The updated fact sheet, published by the Department of Defense, also confirmed more than 9,000 combat flights and the destruction or damage of over 140 Iranian naval vessels across the first 24 days of the operation.[1][2][3]",
-      "audio_url": "",
-      "url": "centcom-says-9000-targets-hit-jly1gSa6S8meelQIm4CWoA",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-03-24T22:49:09.000000Z",
-      "title": "Katherine braces for possibility of second major flood this month",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c2a1ce2d449d7b57e02227f5a5ef7777?impolicy=wcms_crop_resize&amp;cropH=1296&amp;cropW=2304&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Residents in Katherine are bracing for the possibility of major riverine flooding today, which would mark the second significant weather event to rock the town in a month.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-25/katherine-river-possible-major-flooding-again-bom-rain-nt-floods/106493124"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/804fc423-cd50-4eb3-add7-d2829ee0fe57",
-      "published_datetime": "2026-03-24T22:47:36.806518",
-      "title": "Saudi crown prince urges Trump to press for Iran regime's fall",
-      "featured_image": {
-        "url": "https://www.moneycontrol.com/world/saudi-arabia-uae-near-tipping-point-on-joining-us-israel-war-against-iran-reports-wall-street-journal-article-13868981.html",
-        "name": "Saudi Arabia, UAE near tipping point on joining US-Israel war against Iran,  reports Wall Street Journal",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--pGNamHVy--/t_limit/https://images.moneycontrol.com/static-mcnews/2026/03/20260324062426_Iran-flag-Tehran-AFP-March-15-2026.jpg%3Fimpolicy%3Dwebsite%26width%3D1280%26height%3D720",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--G1XFjZ8D--/t_thumbnail/https://images.moneycontrol.com/static-mcnews/2026/03/20260324062426_Iran-flag-Tehran-AFP-March-15-2026.jpg%3Fimpolicy%3Dwebsite%26width%3D1280%26height%3D720"
-      },
-      "description": "Saudi Arabia and the United Arab Emirates are taking concrete steps toward entering the month-old US-Israeli military campaign against Iran, as escalating Iranian attacks on Gulf energy infrastructure push longtime fence-sitters closer to open confrontation.",
-      "audio_url": "",
-      "url": "saudi-crown-prince-urges-trump-NVvHx7FzRja.A4Y9dS.kow",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b1da99fd-3d36-45a4-b149-3c3680c53c16",
-      "published_datetime": "2026-03-24T22:40:21.682163",
-      "title": "US sends Iran 15-point plan to end Middle East war",
-      "featured_image": {
-        "url": "https://www.aa.com.tr/en/middle-east/us-proposes-new-nuclear-deal-to-iran-during-4th-round-of-talks/3569076",
-        "name": "US proposes new nuclear deal to Iran during 4th round of talks",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--WLY8r57o--/t_limit/https://cdnuploads.aa.com.tr/uploads/Contents/2025/05/15/thumbs_b_c_bb2aa808f65e2a0b912f3469aa4ebde7.jpg%3Fv%3D152054",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--p9bilia6--/t_thumbnail/https://cdnuploads.aa.com.tr/uploads/Contents/2025/05/15/thumbs_b_c_bb2aa808f65e2a0b912f3469aa4ebde7.jpg%3Fv%3D152054"
-      },
-      "description": "The United States has transmitted a 15-point plan to Iran aimed at ending the war in the Middle East, now in its fourth week, according to The New York Times, citing two officials briefed on the diplomacy. The proposal, delivered through Pakistan, outlines sweeping demands on Iran's nuclear and ballistic missile programs alongside provisions for the Strait of Hormuz, though it remains unclear whether Tehran views it as a viable basis for negotiations.[1]",
-      "audio_url": "",
-      "url": "us-sends-iran-15-point-plan-to-ksQNf.5pS1Kyg0QAIxNpMg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5c4f1e07-ebaf-4f13-b013-d29e7f33eb0d",
-      "published_datetime": "2026-03-24T22:17:45.000143",
-      "title": "Hezbollah's missile stockpile down to one-sixth of pre-war levels, Israel says",
-      "featured_image": {
-        "url": "https://www.csis.org/analysis/hezbollahs-missiles-and-rockets",
-        "name": "Hezbollah's Missiles and Rockets",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--KJgOMTkp--/t_limit/https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/180703_hezbollah.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--uavZ89Rq--/t_thumbnail/https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/180703_hezbollah.jpg"
-      },
-      "description": "Israel's military estimates that Hezbollah now possesses between 11,000 and 13,000 missiles and rockets, a sharp reduction to roughly one-sixth of the arsenal the Iranian-backed group held before October 2023, according to The Wall Street Journal. CNN separately confirmed the figures, reporting that the group's stockpile has been depleted after years of sustained Israeli strikes.[1][2][3]\n\nThe assessment, provided by an Israeli military representative, represents a dramatic decline from the approximately 75,000 missiles and rockets Hezbollah was believed to possess before the Hamas-led attack on Israel in October 2023, according to estimates by the Alma Research and Education Center, an Israeli security think tank.[4][1]",
-      "audio_url": "",
-      "url": "hezbollah-s-missile-stockpile-_vW25K_cTLO8GklUDA29xA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/20eecb6d-f9c9-413c-a23d-62c9c21ec132",
-      "published_datetime": "2026-03-24T22:10:56.205439",
-      "title": "Israel renews Beirut bombardment, killing 3 including child",
-      "featured_image": {
-        "url": "https://www.usatoday.com/picture-gallery/news/world/2026/03/06/israeli-beirut-lebanon-attack-photos/89018822007/",
-        "name": "Beirut under fire as Israel expands air strikes in Lebanon",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IJB_pWFf--/t_limit/https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/06/USAT/89019031007-beirut-lebanon-021.jpg%3Fwidth%3D700%26height%3D467%26fit%3Dcrop%26format%3Dpjpg%26auto%3Dwebp",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--pOMBS-Ed--/t_thumbnail/https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/06/USAT/89019031007-beirut-lebanon-021.jpg%3Fwidth%3D700%26height%3D467%26fit%3Dcrop%26format%3Dpjpg%26auto%3Dwebp"
-      },
-      "description": "An Israeli airstrike on a residential apartment in the town of Bchamoun, about 10 kilometers southeast of central Beirut, killed at least three people including a three-year-old girl early Tuesday, Lebanon's Health Ministry said. Five others were wounded in the predawn attack, which came as Israel renewed its bombardment of the Lebanese capital after a two-day lull.[1][2]\n\nOnline footage showed flames engulfing at least one apartment in the struck building. The attack on Bchamoun, located in the Aley district of Mount Lebanon, hit outside the southern suburbs of Beirut where Israel had previously ordered evacuations and concentrated its strikes against Hezbollah.[2][1]",
-      "audio_url": "",
-      "url": "israel-renews-beirut-bombardme-rvTp9UPDQaSq74YirP22mA",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-03-24T21:37:49.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-25T01:19:38.027750"
+  "merged_at": "2026-03-25T04:11:27.871838"
 }
