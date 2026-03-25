@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-25T09:18:57.000000Z",
+      "title": "UK police arrest two men over arson attack on ambulances in London",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/970aa3e6f21f818a7356ca523aa150c6?impolicy=wcms_crop_resize&amp;cropH=1552&amp;cropW=2759&amp;xPos=0&amp;yPos=144&amp;width=862&amp;height=485"
+      },
+      "description": "British police arrest two men in connection with an arson attack on four ambulances belonging to a Jewish charity, which authorities are investigating as an antisemitic hate crime.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-25/uk-police-arrest-over-arson-attack-on-jewish-charity-ambulances/106496148"
+    },
+    {
       "published_datetime": "2026-03-25T08:04:05.000000Z",
       "title": "Australian shares soar on Middle East ceasefire hopes",
       "featured_image": {
@@ -17,15 +26,6 @@
       },
       "description": "NASA has cancelled plans to deploy a space station in lunar orbit and will instead build a $28.7 billion base on the moon's surface.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-25/nasa-swaps-space-station-moon-base-mars-nuclear-power/106495538"
-    },
-    {
-      "published_datetime": "2026-03-25T06:32:49.000000Z",
-      "title": "Seconds before LaGuardia crash, controller cleared fire truck to cross runway",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3b55066a41f187b7ef06b27a20de4d71?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=371&amp;width=862&amp;height=485"
-      },
-      "description": "US investigators are working to determine which of the airport's safety precautions failed and allowed the fire truck onto the runway, resulting in a collision that killed two pilots.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-25/laguardia-airport-crash-investigation-fire-truck-cross-runway/106495842"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f7120df2-7a66-4f04-94e4-de1cdd891efc",
@@ -62,7 +62,7 @@
     },
     {
       "published_datetime": "2026-03-25T04:30:07.000000Z",
-      "title": "Trump administration offers 15-point ceasefire plan to Iran",
+      "title": "Trump administration sends 15-point ceasefire plan to Iran",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85671ab827033c1a30fdc847b5e5d056?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=960&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-25T08:59:18.724028"
+  "merged_at": "2026-03-25T09:44:00.515853"
 }
