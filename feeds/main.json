@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-25T08:04:05.000000Z",
+      "title": "Australian shares soar on Middle East ceasefire hopes",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e7b24834f30812f11a0a6bc49880f93?impolicy=wcms_crop_resize&amp;cropH=420&amp;cropW=747&amp;xPos=19&amp;yPos=84&amp;width=862&amp;height=485"
+      },
+      "description": "The local share market has its best day in almost a year after reports the US is seeking a ceasefire with Iran buoyed investor sentiment, and monthly inflation was softer than expected.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-25/australian-shares-soar-on-middle-east-ceasefire-hopes/106496054"
+    },
+    {
+      "published_datetime": "2026-03-25T07:42:07.000000Z",
+      "title": "NASA pivots to moon base, nuclear propulsion in expanded multi-billion-dollar program",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/564bbe33665e9dbb095c2bdb71df1e44?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=3840&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "NASA has cancelled plans to deploy a space station in lunar orbit and will instead build a $28.7 billion base on the moon's surface.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-25/nasa-swaps-space-station-moon-base-mars-nuclear-power/106495538"
+    },
+    {
       "published_datetime": "2026-03-25T06:32:49.000000Z",
       "title": "Seconds before LaGuardia crash, controller cleared fire truck to cross runway",
       "featured_image": {
@@ -205,24 +223,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-25/abc-journalists-24-hour-strike-action-begins/106493282"
     },
     {
-      "published_datetime": "2026-03-24T21:37:49.000000Z",
-      "title": "Could Cyclone Narelle come as far south as Perth?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/65c0019c11a6cb32343345049efa1405?impolicy=wcms_crop_resize&amp;cropH=591&amp;cropW=1051&amp;xPos=0&amp;yPos=18&amp;width=862&amp;height=485"
-      },
-      "description": "Tropical Cyclone Narelle is now barrelling towards Western Australia. Could this unusual cyclone make it all the way to Perth, and how does climate change affect it?",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-25/cyclone-narelle-path-to-turn-back-towards-wa/106487794"
-    },
-    {
-      "published_datetime": "2026-03-24T20:43:21.000000Z",
-      "title": "'Major player' charged over Sydney grandfather's alleged kidnapping murder",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ab6f3fd3d43d1d25369741a5157aa944?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=347&amp;width=862&amp;height=485"
-      },
-      "description": "Police allege the 23-year-old man was a \"major player\" in organising the abduction plot.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-25/two-new-arrests-made-in-chris-baghsarian-alleged-kidnap-murder/106494164"
-    },
-    {
       "published_datetime": "2026-03-24T19:49:23.000000Z",
       "title": "Live: Government will adjust Iran visitor visa rules as war develops, Burke says",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-25T07:47:36.290479"
+  "merged_at": "2026-03-25T08:39:30.744724"
 }
