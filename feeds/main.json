@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-25T06:16:42.000000Z",
+      "title": "Australia warns Israel against south Lebanon occupation",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5ed6d901043fad39db4debffcdfab08c?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Australia warns Israel against occupying parts of Lebanon, urging it to respect international law after the displacement of more than 1 million people.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-25/australia-warns-israel-against-south-lebanon-occupation/106495910"
+    },
+    {
       "published_datetime": "2026-03-25T05:23:28.000000Z",
       "title": "Russia fires nearly 400 drones at Ukraine with signs its spring offensive has begun",
       "featured_image": {
@@ -8,15 +17,6 @@
       },
       "description": "Russia's anticipated annual spring offensive appears to have started, with a major drone assault on civilian areas coinciding with multiple attempts to break through frontline Ukrainian defences.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-25/russia-fires-nearly-400-drones-ukraine-spring-offensive/106495618"
-    },
-    {
-      "published_datetime": "2026-03-25T04:59:51.000000Z",
-      "title": "Meta ordered to pay $538m in US trial over child exploitation claims",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/215bc49c4f4a31d8f1933e205a19ba5d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
-      },
-      "description": "The verdict marks the first time a jury has ruled on such claims against Meta, as the company faces a wave of lawsuits over how its platforms affect young people's mental health.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-25/meta-ordered-to-pay-375m-in-us-trial-child-exploitation-claims/106495616"
     },
     {
       "published_datetime": "2026-03-25T04:43:14.000000Z",
@@ -44,6 +44,15 @@
       },
       "description": "The ceasefire plan comes as the US military prepares to call up at least 1,000 more troops to supplement those already in the Middle East.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-25/trump-administration-offers-15-point-ceasefire-plan-to-iran/106495478"
+    },
+    {
+      "published_datetime": "2026-03-25T01:52:29.000000Z",
+      "title": "Danish PM's party on track for worst election in over 100 years",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0c124ad43841174787a1c00f06e6e9cf?impolicy=wcms_crop_resize&amp;cropH=2159&amp;cropW=3838&amp;xPos=577&amp;yPos=1174&amp;width=862&amp;height=485"
+      },
+      "description": "Danish Prime Minister Mette Frederiksen's Social Democrats look set to suffer the party's worst election outcome in more than a century.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-25/denmark-election-results-social-democrats-bruised/106495180"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5ec3f512-1af6-44b9-97df-209a27dffac9",
@@ -166,15 +175,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-25T00:02:32.000000Z",
-      "title": "Man dies in NT police custody after arrest and detainment in car cage",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bf0139fc6988508fca141d3304d98add?impolicy=wcms_crop_resize&amp;cropH=480&amp;cropW=852&amp;xPos=52&amp;yPos=93&amp;width=862&amp;height=485"
-      },
-      "description": "A man has died in police custody in Darwin's northern suburbs overnight, with police saying he was \"arrested without incident\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-25/nt-police-confirm-man-death-in-custody-casuarina-arrest/106494864"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1b20d2b9-26e8-48c8-ba54-17609062cab0",
       "published_datetime": "2026-03-25T00:00:09.838237",
       "title": "Denmark's left bloc wins election but falls short of majority",
@@ -224,11 +224,11 @@
     },
     {
       "published_datetime": "2026-03-24T19:49:23.000000Z",
-      "title": "Live: Iran fires missiles across Middle East after Strait of Hormuz co-ordination offer",
+      "title": "Live: Australia to restrict entry to some Iranian visa holders",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f9aae2f05c4943a1c7d35cc371cc511?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
       },
-      "description": "Several countries across the Middle East confirm Iran has sent drone and missile strikes across the region. It comes after Iran told the UN that \"non-hostile vessels\" may pass through the Strait of Hormuz if they coordinate with Iranian authorities. Follow live.\u00a0",
+      "description": "Some Iranian visitor visa holders will be temporarily restricted from entering Australia, the federal government says. Meanwhile, several countries across the Middle East confirm Iran has sent drone and missile strikes across the region. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-25/iran-war-live-updates/106493818"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-25T05:55:23.429792"
+  "merged_at": "2026-03-25T06:52:53.611286"
 }
