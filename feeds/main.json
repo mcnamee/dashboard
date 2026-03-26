@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4e55423c-5de3-4978-9441-d5aa4eb16f43",
+      "published_datetime": "2026-03-26T11:00:21.743574",
+      "title": "Dollar slips in Asia as Iran diplomacy doubts dim Fed hike bets",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2025-06-26/",
+        "name": "Stocks hit fresh record, dollar weakens to lowest in three years amid Fed  worries | Reuters",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--nJSmoZkr--/t_limit/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LFXDAIS23JLKBJ4J5KVVPNQL2Y.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--691ChFUt--/t_thumbnail/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LFXDAIS23JLKBJ4J5KVVPNQL2Y.jpg"
+      },
+      "description": "The U.S. dollar edged lower in Asian trading on Thursday as investors sought clarity on whether diplomatic efforts could bring a de-escalation in the war between the United States, Israel, and Iran, while scaling back expectations for Federal Reserve interest rate hikes later this year.\n\nThe U.S. dollar index, which measures the greenback against a basket of six currencies, slipped 0.1% after posting its largest one-day gain in a week during the prior session. The dollar remained near 99.5, below the ten-month highs reached earlier in March when the conflict first sent energy prices surging.[1][2][3]",
+      "audio_url": "",
+      "url": "dollar-slips-in-asia-as-iran-d-E7BMVhyRRL2mp51MPSxfNg",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/538d1d6a-48d5-4db2-ad54-47fd9b5e07db",
       "published_datetime": "2026-03-26T10:25:53.581073",
       "title": "IBM says quantum computer matched lab data in materials simulation",
@@ -199,21 +214,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/605a7638-dc7a-460c-bf46-c5f3bebf8091",
-      "published_datetime": "2026-03-26T04:46:22.828318",
-      "title": "Artemis 2 crew flies to Florida ahead of April 1 Moon launch",
-      "featured_image": {
-        "url": "https://www.nasa.gov/blogs/missions/2025/08/14/artemis-ii-crew-train-for-night-launch-scenarios-at-kennedy-space-center/",
-        "name": "Artemis II Crew Train for Night Launch Scenarios at Kennedy ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--X5paoHnM--/t_limit/https://images-assets.nasa.gov/image/KSC-20250811-PH-KLS01_0049/KSC-20250811-PH-KLS01_0049%7Elarge.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--_NRJk3dp--/t_thumbnail/https://images-assets.nasa.gov/image/KSC-20250811-PH-KLS01_0049/KSC-20250811-PH-KLS01_0049%7Elarge.jpg"
-      },
-      "description": "Four astronauts are one week away from launching on a journey around the Moon, the first crewed lunar mission in more than 50 years. NASA is targeting April 1 at 6:24 p.m. EDT for liftoff of the Artemis 2 mission from Launch Complex 39B at Kennedy Space Center in Florida, sending Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialist Christina Koch of NASA, along with Canadian Space Agency Mission Specialist Jeremy Hansen, on a 10-day flight around the far side of the Moon and back to Earth.[1][2]",
-      "audio_url": "",
-      "url": "artemis-2-crew-flies-to-florid-DsT0K.6YR.yvCmAAFkoRCA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-26T04:37:31.000000Z",
       "title": "States to seek consistent reporting of fuel shortages at national cabinet",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-26T11:42:35.044006"
+  "merged_at": "2026-03-26T11:56:58.626837"
 }
