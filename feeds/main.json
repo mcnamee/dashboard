@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-27T22:21:15.000000Z",
+      "title": "Mapping Israel's destruction of Lebanese bridges",
+      "featured_image": {
+        "thumbnail": ""
+      },
+      "description": "Israel's expanded invasion of southern Lebanon was at least 12 days in the making, with bridges targeted to effectively cut off the south from the country's centre. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-28/verify-mapping-israel-s-bombing-of-lebanese-bridges/106504560"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/58e108a4-cbbd-4401-a404-e4abc81cc0c6",
       "published_datetime": "2026-03-27T21:20:10.432869",
       "title": "China and Pakistan agree to jointly push for ceasefire in Iran war",
@@ -92,12 +101,12 @@
     },
     {
       "published_datetime": "2026-03-27T20:44:03.000000Z",
-      "title": "Live: Ex-cyclone Narelle downgraded, continues to track along West coast",
+      "title": "Live: Ex-Cyclone Narelle downgraded as it continues to track along West coast",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5549e6830dd30b37cde594b8f9e20ffd?impolicy=wcms_crop_resize&amp;cropH=1701&amp;cropW=3024&amp;xPos=0&amp;yPos=613&amp;width=862&amp;height=485"
       },
       "description": "The storm, which has already made landfall in Far North Queensland and the Northern Territory, is now impacting the WA coast.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-28/tropical-cyclone-narelle-west-australia-live-march-28/106505520"
+      "page_content_url": "https://www.abc.net.au/news/2026-03-28/ex-tropical-cyclone-narelle-west-australia-live-march-28/106505520"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d7851019-e30d-40c5-ad17-d5221c38524e",
@@ -178,13 +187,13 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-27T19:17:36.000000Z",
-      "title": "Do we actually have the workforce for the $4b NDIS alternative?",
+      "published_datetime": "2026-03-27T19:20:10.000000Z",
+      "title": "Dementia is Australia's top killer, yet most still miss the early signs",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ffadf5cb72a3c7a3238ec224a438936?impolicy=wcms_crop_resize&amp;cropH=1968&amp;cropW=3499&amp;xPos=3&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6d54f56c4a74933bbc0efd91a24744f0?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=100&amp;width=862&amp;height=485"
       },
-      "description": "Months away from the start of a huge shift in disability support for children, the workforce expected to deliver it has concerns about its readiness.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-28/thriving-kids-therapist-teachers-workforce-questions/106442196"
+      "description": "Dementia is the leading cause of death in Australia and stigmas around the disease can delay diagnosis. But some in the community are at work to break taboos.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-28/dementia-is-australias-top-killer-most-miss-early-signs/106491576"
     },
     {
       "published_datetime": "2026-03-27T19:10:44.000000Z",
@@ -212,15 +221,6 @@
       },
       "description": "Donald Trump is deploying thousands of marines and extra battleships to the Middle East, while also claiming to be close to a deal with Iran to end the war. So is he set to wind down his war with Iran or is he thinking of escalating?",
       "page_content_url": "https://www.abc.net.au/news/2026-03-28/why-the-us-is-sending-thousands-of-marines-to-the-middle-east/106497014"
-    },
-    {
-      "published_datetime": "2026-03-27T18:47:44.000000Z",
-      "title": "'Built on deception': How one online travel site is fleecing customers",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8a5f010e50f7d54ff8d7549879f212c6?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "As holiday-makers gear up for Easter, online travel site Guest Reservations is accused of fleecing customers using hidden fees and charges with advocates calling on government and the regulator to step in.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-28/guest-reservation-travel-website-booking-com/106423574"
     },
     {
       "published_datetime": "2026-03-27T18:39:22.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-27T22:22:52.275877"
+  "merged_at": "2026-03-27T23:23:52.859759"
 }
