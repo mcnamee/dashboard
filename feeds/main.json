@@ -82,6 +82,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-27/one-nation-wins-second-sa-lower-house-seat-abc-projects/106499244"
     },
     {
+      "published_datetime": "2026-03-27T03:55:53.000000Z",
+      "title": "Jury clears men accused of raping intoxicated woman waiting for an Uber",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/070a069ae6169a70ef1fac7ea16f9c56?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Two men accused of raping a young woman they picked up while she waited for an Uber have been acquitted on all charges by a Northern Territory jury. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-27/uber-assault-verdict-not-guilty-nt-supreme-court/106497464"
+    },
+    {
       "published_datetime": "2026-03-27T03:55:26.000000Z",
       "title": "As Pakistan emerges as a US-Iran broker, it draws on relationships few others have",
       "featured_image": {
@@ -215,25 +224,16 @@
     },
     {
       "published_datetime": "2026-03-26T19:17:50.000000Z",
-      "title": "Live: Alerts sound in gulf countries after Kuwait struck by drones",
+      "title": "Live: Alerts sound in gulf countries and Israel after Kuwait struck by drones",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/240e8d59e2fde04da7eac7875536c5f2?impolicy=wcms_crop_resize&amp;cropH=888&amp;cropW=1578&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a274ecfb55a09f94a4f566652eab7a8e?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
       },
       "description": "Kuwait Ports Authority says the country's main commercial port has been hit by drones. Follow live. \u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-27/trump-extends-deadline-to-open-strait-criticises-australia/106500428"
     },
     {
-      "published_datetime": "2026-03-26T18:58:19.000000Z",
-      "title": "Is the end of the Iran war near?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f965794b68767991715f145d9a561660?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump says Iran wants a ceasefire deal. But Tehran says it's not even talking with the US. So what's going on and how likely is a ceasefire?",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-27/will-us-donald-trump-ceasefire-deal-iran-war/106500480"
-    },
-    {
       "published_datetime": "2026-03-26T18:21:09.000000Z",
-      "title": "Live: Cyclone Narelle crosses WA coast, sinking boats and cutting power on way to Carnarvon",
+      "title": "Live: Red alert in Carnarvon as destructive Cyclone Narelle closes in",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/88958f056fd2541c453af48f4b73b981?impolicy=wcms_crop_resize&amp;cropH=415&amp;cropW=738&amp;xPos=44&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-27T07:54:28.555448"
+  "merged_at": "2026-03-27T08:41:19.698904"
 }
