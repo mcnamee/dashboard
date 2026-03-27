@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-27T09:57:32.000000Z",
+      "title": "Teenagers brandish knives, hammer at Canberra shopping centre",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cb98a86b9ac71d665cf5568d97e5880a?impolicy=wcms_crop_resize&amp;cropH=1984&amp;cropW=3527&amp;xPos=0&amp;yPos=735&amp;width=862&amp;height=485"
+      },
+      "description": "Police say they were called to the Canberra Centre about 6:20pm on Friday after reports that a group of young people were involved in a disturbance, brandishing knives and a hammer.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-27/act-teenagers-brandish-knives-hammer-at-shopping-centre/106505624"
+    },
+    {
       "published_datetime": "2026-03-27T09:15:05.000000Z",
       "title": "Telstra outage in remote NT community impacting Triple Zero access",
       "featured_image": {
@@ -11,18 +20,18 @@
     },
     {
       "published_datetime": "2026-03-27T07:40:57.000000Z",
-      "title": "Live: Pies skipper overcomes injury scare as AFL considers fuel rationing impact",
+      "title": "Live: Debutant's goal lights up Magpies as Giants lament wasteful finishing",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9fabfad477d721ef9ae26eab4df26d58?impolicy=wcms_crop_resize&amp;cropH=2100&amp;cropW=3734&amp;xPos=0&amp;yPos=103&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b34a1701bdba1ad219d17d818a7721fb?impolicy=wcms_crop_resize&amp;cropH=1775&amp;cropW=3156&amp;xPos=0&amp;yPos=106&amp;width=862&amp;height=485"
       },
-      "description": "Collingwood's captain pulls up sore after going for a first quarter kick and retreats to the rooms as the impact of declining fuel supplies begin to hit the AFL. Follow live.",
+      "description": "Oscar Steene continues his impressive AFL debut with a goal in the third quarter as Collingwood continues to keep the GWS Giants at bay. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-27/afl-round-3-collingwood-magpies-gws-giants-live-blog/106505246"
     },
     {
       "published_datetime": "2026-03-27T06:29:40.000000Z",
-      "title": "Live: Manly sack Seibold as Broncos and Dolphins do battle",
+      "title": "Live: Broncos lead after spectacular opening try in frenetic Battle of Brisbane",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/95582c13d396f90323579626b3218790?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1cbb177d9a03dfaddd7fb7ee14284c3c?impolicy=wcms_crop_resize&amp;cropH=2498&amp;cropW=4441&amp;xPos=0&amp;yPos=91&amp;width=862&amp;height=485"
       },
       "description": "The Broncos host the Dolphins in the Battle of Brisbane after Wests Tigers stunned ladder leaders New Zealand Warriors in Auckland. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-27/nrl-live-updates-warriors-vs-wests-tigers-broncos-vs-dolphins/106502564"
@@ -214,15 +223,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-26T23:44:04.000000Z",
-      "title": "The 'crown jewels' of the Iranian nuclear program and why the US wants them",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a331ff24a5c80ae8b120b8b10c7a063b?impolicy=wcms_crop_resize&amp;cropH=771&amp;cropW=1370&amp;xPos=0&amp;yPos=8&amp;width=862&amp;height=485"
-      },
-      "description": "A move from Israel or the United States to find and secure Iran's enriched uranium stockpile would be dangerous, but experts say it is one of the only ways to end the war and prevent it from returning.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-27/iranian-uranium-stockpile-us-and-israel-key-to-ending-war/106471006"
-    },
-    {
       "published_datetime": "2026-03-26T19:17:50.000000Z",
       "title": "Live: UN commissioner calls for school bombing 'justice', as sites attacked across the gulf",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-27T09:45:14.981224"
+  "merged_at": "2026-03-27T10:39:08.933399"
 }
