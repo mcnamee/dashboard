@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-28T19:05:29.000000Z",
+      "title": "We asked how fuel prices are affecting you \u2014 this is what you told us",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5eabd9639ce168ff0ccc8adfd2e747db?impolicy=wcms_crop_resize&amp;cropH=2109&amp;cropW=3750&amp;xPos=0&amp;yPos=820&amp;width=862&amp;height=485"
+      },
+      "description": "From crop farmers to wildlife rescuers, here are some of the stories ABC readers told us about how the fuel crisis is impacting them.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-29/how-rising-fuel-prices-are-affecting-australians/106497626"
+    },
+    {
+      "published_datetime": "2026-03-28T18:55:55.000000Z",
+      "title": "'Don't say anything about the girl': Father's grim warning after child's death",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eb7d347df96497aa21934b248c51489b?impolicy=wcms_crop_resize&amp;cropH=2362&amp;cropW=4199&amp;xPos=0&amp;yPos=222&amp;width=862&amp;height=485"
+      },
+      "description": "Hassan Ali Al Jabal's family were all injured in an Israeli airstrike on their home in Lebanon. He does not know how to tell them one of his daughters is dead.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-29/displaced-lebanon-residents-grieve-israel-war/106502052"
+    },
+    {
+      "published_datetime": "2026-03-28T18:48:58.000000Z",
+      "title": "'It's a nightmare': Complaints pile up over Booking.com grievances",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3d47a2f3c24079565e8175ff494ccafe?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Hundreds of complaints against Booking.com are piling up as customers and hosts allege they've lost money, their property has been trashed and no one is taking responsibility.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-29/booking-com-complaints-accommodation-fair-trading/106423580"
+    },
+    {
+      "published_datetime": "2026-03-28T18:46:18.000000Z",
+      "title": "Australia has to attack misinformation about climate change, Senate report says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db7c7fc537efe03818c5933963dfded1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Australia needs to increase its efforts to fight back against misinformation about climate change, a Senate report says.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-29/senate-report-misinformation-climate-change-recommendations/106497978"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/508c2aa2-d6b9-475d-9fd9-8cd1eda928d6",
       "published_datetime": "2026-03-28T18:45:53.604019",
       "title": "Israeli airstrike kills three journalists in southern Lebanon",
@@ -29,6 +65,15 @@
       "audio_url": "",
       "url": "houthis-fire-missiles-at-israe-q.eRTC4STwaz0bKT66RPgg",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-03-28T18:44:35.000000Z",
+      "title": "Through its 'toll booth' in Hormuz, Iran is controlling the world's oil and gas",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6f8010f90113d432cdd7274854a2b72?impolicy=wcms_crop_resize&amp;cropH=1041&amp;cropW=1851&amp;xPos=0&amp;yPos=61&amp;width=862&amp;height=485"
+      },
+      "description": "Iran is running one of the world's most critical shipping lanes as a \"toll booth\" and has likely made hundreds of millions of dollars of extra income from selling its own oil since the US and Israel waged war against the regime.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-29/strait-of-hormuz-iran-control-oil-gas-us-war-israel/106491634"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b151b939-9341-4407-8e45-adf95d2d5e48",
@@ -151,13 +196,22 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-28T06:39:39.000000Z",
-      "title": "Darwin's ambulance service fails overnight as 61 Triple Zero calls abandoned",
+      "published_datetime": "2026-03-28T18:00:00.000000Z",
+      "title": "Is Labor trusting big tech too much?",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/59ec6b63d1fe724cba8ee1a2bc4a7f8b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c15de5819a76510c0beafbe851a8e78?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=147&amp;width=862&amp;height=485"
       },
-      "description": "Darwin's ambulance service has reached a \"critical failure point\" as 42 per cent of Triple Zero calls were abandoned overnight. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-28/nt-st-john-triple-zero-calls-abandoned-priority-cases-delays/106506806"
+      "description": "As an artificial intelligence revolution approaches, the government is responding to a huge opportunity in data-centre development while balancing copyright concerns and workforce anxiety.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-29/artificial-intelligence-albanese-data-centres-anthropic/106485982"
+    },
+    {
+      "published_datetime": "2026-03-28T18:00:00.000000Z",
+      "title": "Will living in an apartment harm our child? My family decided to find out",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b4efd85cadb768fdbb8c344e3d36a3f?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
+      },
+      "description": "In a quest for an affordable mortgage in our location of choice, my family decide to rent an apartment as a trial. Will high-rise living be a realistic alternative to a house as a place to bring up our child?",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-29/apartment-living-with-children-housing-density-affordability/106496900"
     },
     {
       "published_datetime": "2026-03-28T05:10:16.000000Z",
@@ -185,60 +239,6 @@
       },
       "description": "Services Australia is urging people to check if they're owed money from a $272 million pool of unclaimed money.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-28/medicare-rebates-bank-details-services-australia/106503810"
-    },
-    {
-      "published_datetime": "2026-03-28T03:33:37.000000Z",
-      "title": "Cowboys score three tries in eight minutes to complete comeback against Storm",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/57a092698535efc899802d8c701705f1?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=26&amp;width=862&amp;height=485"
-      },
-      "description": "The Cowboys completed a second half comeback, scoring three tries in eight minutes, to defeat the Storm 28-24.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-28/nrl-live-updates-bulldogs-eels-panthers-storm/106506846"
-    },
-    {
-      "published_datetime": "2026-03-28T02:18:10.000000Z",
-      "title": "Greek villages 'becoming ghost towns' as an alarming problem takes hold",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6b786855e97af24f25926ea39d83ab2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Greece's population could drop by as much as 20 per cent by 2050, with the government declaring the situation a \"national threat\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-28/greece-population-decline-demographics/106446338"
-    },
-    {
-      "published_datetime": "2026-03-28T01:14:56.000000Z",
-      "title": "'Not acceptable': Xerri facing ban after rubbing blood on Dons skipper's face",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/666bcda4d8a55cde8d1ee198f8ce47b7?impolicy=wcms_crop_resize&amp;cropH=1864&amp;cropW=3313&amp;xPos=0&amp;yPos=54&amp;width=862&amp;height=485"
-      },
-      "description": "North Melbourne survives a nervy finish to break a decade-long drought against Essendon as star ruckman Tristan Xerri rubs blood on Andrew McGrath's face in a heated exchange.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-28/afl-round-three-saturday-live-blog-stk-bris-freo-rich-ess-nm/106504564"
-    },
-    {
-      "published_datetime": "2026-03-27T19:31:20.000000Z",
-      "title": "Yemen's Houthis launch first missiles on Israel as Middle East war intensifies",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/efe951544977679d402b845b4d3342a2?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=83&amp;width=862&amp;height=485"
-      },
-      "description": "The Iranian-backed militant group took to X to make the announcement, saying it launched a salvo of ballistic rockets at military targets in southern Israel.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-28/attacks-on-iran-to-escalate-and-expand/106505482"
-    },
-    {
-      "published_datetime": "2026-03-27T18:49:32.000000Z",
-      "title": "'Got it all wrong': The miscalculation the US and Israel made over Iran",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/634c5ce158a74c2b534a769108226b85?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump is deploying thousands of marines and extra battleships to the Middle East, while also claiming to be close to a deal with Iran to end the war. So is he set to wind down his war with Iran, or is he thinking of escalating?",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-28/why-the-us-is-sending-thousands-of-marines-to-the-middle-east/106497014"
-    },
-    {
-      "published_datetime": "2026-03-27T18:00:00.000000Z",
-      "title": "Trump under pressure to find an off-ramp amid oil and munitions crisis",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db9ff75b7fb77e7add00391bf0e44bc6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=99&amp;width=862&amp;height=485"
-      },
-      "description": "While markets struggle to price a sudden collapse in oil supply, military analysts are sounding the alarm on the rate countries are burning through weapons stockpiles.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-28/trump-iran-struggle-end-war-oil-crisis-military-stockpile/106474850"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-28T18:52:19.668454"
+  "merged_at": "2026-03-28T19:23:44.415246"
 }
