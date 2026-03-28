@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/23acfaab-2394-4fa6-a11d-80c2cd60a56d",
+      "published_datetime": "2026-03-28T14:38:41.837168",
+      "title": "MIT, ASU teams crack protein motion design for drug discovery",
+      "featured_image": {
+        "url": "https://news.mit.edu/2026/mit-engineers-design-proteins-by-motion-not-just-shape-0326",
+        "name": "MIT engineers design proteins by their motion, not just ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--rzpuHg92--/t_limit/https://i.ytimg.com/vi/3F-QV69t6bg/maxresdefault.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--gLRny_-z--/t_thumbnail/https://i.ytimg.com/vi/3F-QV69t6bg/maxresdefault.jpg"
+      },
+      "description": "Two research teams have independently developed methods to design and study proteins based on how they move rather than how they look, a shift that could reshape drug discovery by treating molecular dynamics as a core design parameter.",
+      "audio_url": "",
+      "url": "mit-asu-teams-crack-protein-mo-giTdZLKHRPSTzimq5YPBfQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/449f584d-20d5-4f07-a0f2-b9e68163fa02",
       "published_datetime": "2026-03-28T11:12:23.094629",
       "title": "Japan backs US deep sea mining push in new pact",
@@ -190,21 +205,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4b88ef57-e4c5-41fd-8c20-8e4b5b183c10",
-      "published_datetime": "2026-03-28T01:26:25.807052",
-      "title": "IAEA warns strikes near Iran\u2019s Bushehr Plant risk radiological crisis",
-      "featured_image": {
-        "url": "https://www.upi.com/Top_News/World-News/2026/03/17/iran-Bushehr-nuclear-plant-hit/1941773804175/",
-        "name": "IAEA: Projectile strikes premises of Iran's Bushehr nuclear ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--YZfsYVya--/t_limit/https://cdnph.upi.com/svc/sv/upi/1941773804175/2026/1/c3853a23285289ca9c425c0249aab666/IAEA-Projectile-strikes-premises-of-Irans-Bushehr-nuclear-power-plant.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--nF8tAkLl--/t_thumbnail/https://cdnph.upi.com/svc/sv/upi/1941773804175/2026/1/c3853a23285289ca9c425c0249aab666/IAEA-Projectile-strikes-premises-of-Irans-Bushehr-nuclear-power-plant.jpg"
-      },
-      "description": "The International Atomic Energy Agency sounded its most urgent alarm yet over the safety of Iran's Bushehr Nuclear Power Plant on Thursday, warning that damage to the operational facility \"could result in a major radiological accident affecting a large area in Iran and beyond,\" as military strikes continue to land near the site during the ongoing US-Israeli campaign against Iran.\n\nIAEA Director General Rafael Grossi posted the warning on X, reiterating his \"deep concern\" about repeated strikes near the plant \u2014 Iran's only operational nuclear power station, located on the Persian Gulf coast \u2014 and calling on all parties to exercise \"maximum restraint\". He stressed the importance of adhering to the IAEA's seven-pillar framework for ensuring nuclear safety during armed conflict.[1][2][3][4]",
-      "audio_url": "",
-      "url": "iaea-warns-strikes-near-irans-U9NMdufNRbCqKt2ePqLoKw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-28T01:14:56.000000Z",
       "title": "'Not acceptable': Xerri facing ban after rubbing blood on Dons skipper's face",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-28T15:23:09.150286"
+  "merged_at": "2026-03-28T16:23:01.239863"
 }
