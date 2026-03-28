@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-28T21:39:41.000000Z",
+      "title": "One war. Two shipping lanes. And a new front. The Middle East conflict just became more complex",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e66f7820e6601a68db8d504c9311205a?impolicy=wcms_crop_resize&amp;cropH=334&amp;cropW=594&amp;xPos=124&amp;yPos=107&amp;width=862&amp;height=485"
+      },
+      "description": "One month into the Middle East conflict, the fighting has expanded again with another new front opening up as the Houthis launched their first attack. It creates further complexity for Donald Trump who now has to contain a widening conflict, writes Allyson Horn. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-29/houthis-join-iran-war-analysis/106507710"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/74982b78-ea61-4bf4-afdc-1a504b7f2899",
+      "published_datetime": "2026-03-28T20:33:43.417635",
+      "title": "Drone strike hits Kurdistan president's home in Duhok",
+      "featured_image": {
+        "url": "https://www.wsj.com/livecoverage/iran-war-middle-east-news-updates/card/iraq-says-drone-attack-targeted-kurdistan-president-s-home-kqCESsoa5T5imj06wubM",
+        "name": "Iraq Says Drone Attack Targeted Kurdistan President's Home",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--WQvYm88p--/t_limit/https://images.wsj.net/im-65176500%3Fwidth%3D620%26height%3D413",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--vyVjvmA1--/t_thumbnail/https://images.wsj.net/im-65176500%3Fwidth%3D620%26height%3D413"
+      },
+      "description": "A drone strike targeted the residence of Kurdistan Region President Nechirvan Barzani in the northern Iraqi city of Duhok on Saturday, prompting Iraqi Prime Minister Mohammed Shia al-Sudani to condemn what he called a \"brutal attack\" and order an immediate investigation, according to Reuters. No casualties were reported.[1][2]",
+      "audio_url": "",
+      "url": "drone-strike-hits-kurdistan-pr-ivLKTB6UTUeBMEW2noyKqw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-28T20:32:25.000000Z",
       "title": "Cyclone Narelle destroys banana crops, fresh food growers hit hard",
       "featured_image": {
@@ -8,6 +32,36 @@
       },
       "description": "Fruit and vegetable producers in one of Western Australia's key food growing regions are counting the cost of Cyclone Narelle, with one banana grower reporting more than 80 per cent of his crop has been destroyed.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-29/cyclone-narelle-smashes-carnarvon-banana-crops/106507310"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0f5d2fa5-0670-45cb-832b-911c49b98702",
+      "published_datetime": "2026-03-28T20:21:00.518475",
+      "title": "China launches world's first floating deep-sea research island in Shanghai",
+      "featured_image": {
+        "url": "https://interestingengineering.com/science/floating-island-china-builds-world-first",
+        "name": "China launches world's first floating deep-sea research island",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--zYXMfDdo--/t_limit/https://cms.interestingengineering.com/wp-content/uploads/2026/03/image-1920x1080-2026-03-28T191623.198.png",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--AX7Kp_PM--/t_thumbnail/https://cms.interestingengineering.com/wp-content/uploads/2026/03/image-1920x1080-2026-03-28T191623.198.png"
+      },
+      "description": "China officially launched the world's first ultra-large floating deep-sea research facility in Shanghai on Saturday, the same week a Reuters investigation revealed that dozens of Chinese research vessels have been systematically mapping the ocean floor across the Pacific, Indian, and Arctic oceans in what naval experts say is preparation for potential submarine warfare against the United States and its allies.",
+      "audio_url": "",
+      "url": "china-launches-world-s-first-f-5FFZmVSrSA2jy89FlxjMlA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0ed804d6-95e9-445e-8f6a-ca2814a1600c",
+      "published_datetime": "2026-03-28T19:54:26.083687",
+      "title": "Rosatom says Bushehr nuclear plant situation worsening after third strike",
+      "featured_image": {
+        "url": "https://www.euronews.com/2026/03/27/iran-says-nuclear-facilities-hit-by-strikes-after-israel-warns-attacks-will-escalate",
+        "name": "Iran says nuclear facilities hit by strikes after Israel ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--nLFMhp_A--/t_limit/https://images.euronews.com/articles/stories/09/70/16/02/1536x864_cmsv2_1a2efab7-b4a4-5621-bd19-756b8deda15e-9701602.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--q63TIrdP--/t_thumbnail/https://images.euronews.com/articles/stories/09/70/16/02/1536x864_cmsv2_1a2efab7-b4a4-5621-bd19-756b8deda15e-9701602.jpg"
+      },
+      "description": "A series of strikes on Iranian nuclear facilities in recent days, including the country's only operational nuclear power plant, have intensified international alarm over the risk of a radiological incident, even as authorities report no radiation leaks so far.",
+      "audio_url": "",
+      "url": "rosatom-says-bushehr-nuclear-p-cLrMVv2HSxmtE0Wkz6jI0g",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-03-28T19:28:37.000000Z",
@@ -20,11 +74,11 @@
     },
     {
       "published_datetime": "2026-03-28T19:27:35.000000Z",
-      "title": "Live: Yemen's Houthis launch first missiles on Israel as Middle East war intensifies",
+      "title": "Live: Houthis claim second missile attack on Israel, warn of more to come",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5573d3b364b283c47ea7c0817277f211?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Iranian-backed Houthi rebels claim responsibility for a missile attack on Israel as the war in the Middle East hits the one-month mark. Follow live.",
+      "description": "A statement by Iran-backed Houthi rebels says a second missile attack on Israel \"coincided with the military operations being carried out by\" Iran and Hezbollah in Lebanon. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-29/iran-war-live-updates-houthis-missiles-israel/106507524"
     },
     {
@@ -37,6 +91,51 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-29/mal-leyland-leyland-brothers-reveals-dementia-diagnosis-/106211680"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b9168bd4-4869-4756-ba3d-9399793a1624",
+      "published_datetime": "2026-03-28T19:07:13.086057",
+      "title": "Israel strikes kill paramedics, journalists as Lebanon crisis deepens",
+      "featured_image": {
+        "url": "https://english.wafa.ps/Pages/Details/151861",
+        "name": "Five paramedics killed in Israeli airstrikes on southern Lebanon",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--WSzm1LmG--/t_limit/https://english.wafa.ps/image/NewsThumbImg/Default/d9a35a50-a54b-4db8-a6fa-a4b5553c8a6e.PNG",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--JSIRQEwR--/t_thumbnail/https://english.wafa.ps/image/NewsThumbImg/Default/d9a35a50-a54b-4db8-a6fa-a4b5553c8a6e.PNG"
+      },
+      "description": "The United Nations sounded urgent alarms on Friday over Lebanon's rapidly deteriorating humanitarian situation, with UNHCR warning the country is on the brink of a \"humanitarian catastrophe\" as Israeli strikes and ground operations enter their fourth week. More than 1.2 million people have been displaced since fighting escalated on March 2, including over 370,000 children uprooted at a rate of 19,000 per day, according to UN officials briefing reporters in Geneva.[1][2][3]",
+      "audio_url": "",
+      "url": "israel-strikes-kill-paramedics-QS3B34EmSI2aZgGwBk2a9A",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/981909c5-f67f-4343-b273-a259c7dbb3a8",
+      "published_datetime": "2026-03-28T19:06:31.990838",
+      "title": "IRGC claims US Marines killed in strike on Kuwait",
+      "featured_image": {
+        "url": "https://caliber.az/en/post/mehr-irgc-strikes-us-israeli-forces-on-kuwait-s-bubiyan-island",
+        "name": "Mehr: IRGC strikes US, Israeli forces on Kuwait's Bubiyan Island",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--u4PkH2K8--/t_limit/https://caliber.az/media/photos/original/fefaaa5faa21000135837d6c98a9d1e5.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--zsItedIk--/t_thumbnail/https://caliber.az/media/photos/original/fefaaa5faa21000135837d6c98a9d1e5.webp"
+      },
+      "description": "Iran's Islamic Revolutionary Guard Corps claimed Saturday that its naval forces struck US Marine positions on Kuwait's Bubiyan Island with a combined barrage of drones and ballistic missiles, alleging that \"a large number\" of American troops were killed. The Pentagon had not confirmed casualties at the time of reporting.",
+      "audio_url": "",
+      "url": "irgc-claims-us-marines-killed-lp67uFnyTxu_Vy4z53h1zg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5829842f-2a92-4c07-956b-3198df2133d5",
+      "published_datetime": "2026-03-28T19:05:35.851165",
+      "title": "Bahrain says it intercepted 559 Iranian missiles and drones",
+      "featured_image": {
+        "url": "https://www.azerbaycan24.com/en/bahrain-air-defense-systems-intercept-over-150-missiles-and-360-drones/",
+        "name": "Bahrain air defense systems intercept over 150 missiles and 360 drones",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--csiEjmC5--/t_limit/https://images.report.az/2026/03/27/mnv4FgG4kbJpFWS3PmwwTR6ggjS6oPRqpecNzpM5_1200.png",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--8Z1CLU3A--/t_thumbnail/https://images.report.az/2026/03/27/mnv4FgG4kbJpFWS3PmwwTR6ggjS6oPRqpecNzpM5_1200.png"
+      },
+      "description": "Bahrain's Defense Force announced Saturday that its air defense systems have intercepted and destroyed a cumulative total of 174 missiles and 385 drones since Iranian attacks on the Gulf kingdom began on February 28. The latest figures mark a sharp increase from earlier this week, when Bahrain reported intercepting 154 missiles and 362 drones, underscoring the relentless pace of strikes nearly a month into the conflict.[1][2][3][4]",
+      "audio_url": "",
+      "url": "bahrain-says-it-intercepted-55-EB03CtJbR0CZAv3ULIDjtg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-28T19:05:29.000000Z",
       "title": "We asked how fuel prices are affecting you \u2014 this is what you told us",
       "featured_image": {
@@ -44,6 +143,51 @@
       },
       "description": "From crop farmers to wildlife rescuers, here are some of the stories ABC readers told us about how the fuel crisis is impacting them.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-29/how-rising-fuel-prices-are-affecting-australians/106497626"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0c3c361c-c1b6-47d8-8acc-79d7b0096229",
+      "published_datetime": "2026-03-28T19:05:27.969667",
+      "title": "Russian and Iranian foreign ministers weigh conflict settlement options",
+      "featured_image": {
+        "url": "https://www.timesofisrael.com/liveblog_entry/russias-lavrov-discusses-tehrans-nuclear-program-with-iranian-fm-araghchi/",
+        "name": "Russia's Lavrov discusses Tehran's nuclear program with ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--p0RzB1MF--/t_limit/https://static-cdn.toi-media.com/www/uploads/2025/02/AFP__20250225__36YK7HF__v1__HighRes__IranRussiaPoliticsDiplomacy.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--kD8P8zTT--/t_thumbnail/https://static-cdn.toi-media.com/www/uploads/2025/02/AFP__20250225__36YK7HF__v1__HighRes__IranRussiaPoliticsDiplomacy.jpg"
+      },
+      "description": "Russian Foreign Minister Sergei Lavrov spoke by phone on Friday with Iranian counterpart Abbas Araqchi to discuss the possibility of a diplomatic resolution to the month-long war between the United States, Israel, and Iran, as multiple diplomatic tracks gained momentum heading into the conflict's fifth week.",
+      "audio_url": "",
+      "url": "russian-and-iranian-foreign-mi-Rlsqw7o1QzKBTKbTuIrgIg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d86ea599-e5c0-4ec0-942f-370ad15fc1a5",
+      "published_datetime": "2026-03-28T19:01:32.459994",
+      "title": "Debris from intercepted Iranian missile injures 5 in Abu Dhabi",
+      "featured_image": {
+        "url": "https://www.axios.com/2026/03/03/uae-iran-missiles-strike-israel",
+        "name": "UAE considers striking Iranian missile sites as regional war spreads",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ilKVGX1x--/t_limit/https://images.axios.com/9MqKzZHtbCePxwtjLMQYOJ7DWwc%3D/0x502:4813x3209/1366x768/2026/03/03/1772552743292.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Ru9fBmV0--/t_thumbnail/https://images.axios.com/9MqKzZHtbCePxwtjLMQYOJ7DWwc%3D/0x502:4813x3209/1366x768/2026/03/03/1772552743292.jpeg"
+      },
+      "description": "The United Arab Emirates intercepted six ballistic missiles and nine unmanned aerial vehicles launched from Iran on March 27, the UAE Ministry of Defence announced, as the Gulf nation endures near-daily attacks that have now stretched into a second month.[1][2]\n\nThe interception brought the UAE's cumulative defense tally since the start of the conflict to 378 ballistic missiles, 15 cruise missiles, and 1,835 drones destroyed, according to the ministry. On Saturday morning, falling debris from another intercepted missile sparked two fires in the Khalifa Economic Zones Abu Dhabi, injuring five Indian nationals, according to CNN-News18.[2][3][1]",
+      "audio_url": "",
+      "url": "debris-from-intercepted-irania-aIf4Sh9zRJepk2ZJso.0fQ",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/acc07da5-1b30-4808-8ce4-1ea95b6890c9",
+      "published_datetime": "2026-03-28T18:59:59.005080",
+      "title": "'No Kings' protests sweep Europe as London draws half a million",
+      "featured_image": {
+        "url": "https://www.irishtimes.com/world/uk/2026/03/28/anti-racism-protesters-hopeful-london-turnout-has-intimidated-far-right-to-stay-away/",
+        "name": "Half a million march in London for 'biggest ever' protest against  far-right, say organisers \u2013 The Irish Times",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Np-YuRpu--/t_limit/https://www.irishtimes.com/resizer/v2/2DMNNMLBGVFBSUKARUIP4FR7PI.jpg%3Fauth%3D42eb4ccdd8c2ce4d4a9c143676c8ce28c7bb8b99c5bf41843e54e6a7c2aa8d4a%26smart%3Dtrue%26width%3D1600%26height%3D1200",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Ibmzek-r--/t_thumbnail/https://www.irishtimes.com/resizer/v2/2DMNNMLBGVFBSUKARUIP4FR7PI.jpg%3Fauth%3D42eb4ccdd8c2ce4d4a9c143676c8ce28c7bb8b99c5bf41843e54e6a7c2aa8d4a%26smart%3Dtrue%26width%3D1600%26height%3D1200"
+      },
+      "description": "Protesters poured into the streets of cities across Europe, Australia, and beyond on Saturday, extending the American \"No Kings\" movement into a global day of action against what demonstrators described as authoritarian governance and the ongoing U.S. military conflict in Iran.",
+      "audio_url": "",
+      "url": "no-kings-protests-sweep-europe-QfUZzBKCSRCl637pPFsq6Q",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-03-28T18:55:55.000000Z",
@@ -55,6 +199,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-29/displaced-lebanon-residents-grieve-israel-war/106502052"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9dda367c-5842-49ed-899a-841603ba9af4",
+      "published_datetime": "2026-03-28T18:52:37.223689",
+      "title": "Iran says it targeted US vessel near Oman as war widens",
+      "featured_image": {
+        "url": "https://www.pbs.org/newshour/world/u-s-troops-wounded-planes-damaged-in-iranian-strike-on-saudi-air-base-official-says",
+        "name": "U.S. troops wounded, planes damaged in Iranian strike on Saudi air base, official says",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--uQtIN9pY--/t_limit/https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2026-03-27T130347Z_450469685_RC2LBKAZEZPI_RTRMADP_3_IRAN-CRISIS-ISRAEL-PALESTINIANS-1024x684.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--KLCkF3BL--/t_thumbnail/https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2026-03-27T130347Z_450469685_RC2LBKAZEZPI_RTRMADP_3_IRAN-CRISIS-ISRAEL-PALESTINIANS-1024x684.jpg"
+      },
+      "description": "Iran's military said Saturday that it had targeted a U.S. logistics vessel near the Omani port of Salalah, marking another escalation in a monthlong conflict that has now drawn in Yemen's Houthi rebels and rattled Gulf states from Saudi Arabia to the UAE.\n\n\"A logistics vessel supporting the aggressive US army was targeted by the armed forces of the Islamic Republic of Iran at a considerable distance from the port of Salalah in Oman,\" Ebrahim Zolfaghari, a spokesman for Iran's central military command, said in a statement carried by Iranian state television, according to AFP.[1]",
+      "audio_url": "",
+      "url": "iran-says-it-targeted-us-vesse-6JU6PrnyQvC2qKQMu4lr2A",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-28T18:48:58.000000Z",
       "title": "'It's a nightmare': Complaints pile up over Booking.com grievances",
       "featured_image": {
@@ -62,36 +221,6 @@
       },
       "description": "Hundreds of complaints against Booking.com are piling up as customers and hosts allege they've lost money, their property has been trashed and no one is taking responsibility.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-29/booking-com-complaints-accommodation-fair-trading/106423580"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/508c2aa2-d6b9-475d-9fd9-8cd1eda928d6",
-      "published_datetime": "2026-03-28T18:45:53.604019",
-      "title": "Israeli airstrike kills three journalists in southern Lebanon",
-      "featured_image": {
-        "url": "https://x.com/manniefabian/status/2037850775859118437",
-        "name": "Lebanese media reports that a prominent Hezbollah-affiliated journalist was  killed in an Israeli airstrike a short while ago. According to the reports, Ali  Shoeib, who works for the Al-Manar TV network associated",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--6Xx3WAY---/t_limit/https://pbs.twimg.com/media/HEfmbMhbcAEWkx1.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--2-zbMZhk--/t_thumbnail/https://pbs.twimg.com/media/HEfmbMhbcAEWkx1.jpg"
-      },
-      "description": "An Israeli airstrike on a media vehicle near the town of Jezzine in southern Lebanon killed at least three journalists on Saturday, according to Lebanese media reports, in one of the deadliest single attacks on press workers since the current round of fighting began in early March.\n\nAli Shoeib, a prominent correspondent for the Hezbollah-affiliated Al-Manar TV, and Fatima Ftouni, a reporter for Al-Mayadeen, were among those killed when the strike hit the car they were traveling in. A third victim, reported to be Ftouni's brother and cameraman, also died in the attack, according to the Lebanese newspaper L'Orient-Le Jour, as cited by Spain's El Pa\u00eds. A fourth occupant, identified as Shoeib's son, was also in the vehicle.[1][2][3]",
-      "audio_url": "",
-      "url": "israeli-airstrike-kills-three-Hhr3JDstQmeX4CJgSbmdug",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1b1e52f7-49b5-4858-9c19-376127ee9b72",
-      "published_datetime": "2026-03-28T18:45:47.237347",
-      "title": "Houthis fire missiles at Israel, warn of Red Sea blockade",
-      "featured_image": {
-        "url": "https://tass.com/world/2101769",
-        "name": "Yemeni Houthis threaten to block Bab el-Mandeb Strait in ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--HuUF6OgZ--/t_limit/https://cdn-media.tass.ru/width/1020_b9261fa1/tass/m2/en/uploads/i/20260315/1468243.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Q0FDybr8--/t_thumbnail/https://cdn-media.tass.ru/width/1020_b9261fa1/tass/m2/en/uploads/i/20260315/1468243.jpg"
-      },
-      "description": "Yemen's Houthi rebels launched their first missile attack on Israel early Saturday, firing a barrage of ballistic missiles at what they described as \"sensitive Israeli military installations\" in the country's south, and warned that closing the Bab el-Mandeb Strait remains on the table \u2014 a move that could compound what is already a severe global energy crisis.[1][2]\n\nThe Israeli military said it intercepted a missile launched from Yemen, reporting no casualties. Brigadier General Yahya Saree, the Houthi military spokesperson, claimed responsibility in a broadcast on the group's Al-Masirah channel, declaring the attacks would continue \"until the aggression on all resistance fronts comes to a halt\". The strikes mark the Houthis' formal entry into the month-old war between the United States, Israel, and Iran.[3][4][5]",
-      "audio_url": "",
-      "url": "houthis-fire-missiles-at-israe-q.eRTC4STwaz0bKT66RPgg",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-03-28T18:44:35.000000Z",
@@ -103,142 +232,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-29/strait-of-hormuz-iran-control-oil-gas-us-war-israel/106491634"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b151b939-9341-4407-8e45-adf95d2d5e48",
-      "published_datetime": "2026-03-28T18:43:15.095417",
-      "title": "Trump weighs stripping NATO voting rights over Iran war dispute",
-      "featured_image": {
-        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-news-conference-at-nato-summit",
-        "name": "WATCH: Trump defends U.S. strikes on Iran at NATO summit news conference",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--otVoahLj--/t_limit/https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2025-06-25T145405Z_140837178_RC2Q9FAY68US_RTRMADP_3_NATO-SUMMIT-TRUMP-1024x683.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--8OH0frTk--/t_thumbnail/https://d3i6fh83elv35t.cloudfront.net/static/2025/06/2025-06-25T145405Z_140837178_RC2Q9FAY68US_RTRMADP_3_NATO-SUMMIT-TRUMP-1024x683.jpg"
-      },
-      "description": "President Donald Trump escalated his confrontation with NATO on Friday, telling a major investment conference in Miami that the United States may no longer come to the defense of alliance members who refused to support American military operations against Iran. Speaking at the Future Investment Initiative Priority Summit on March 27, Trump called NATO allies' absence from the now month-old conflict a \"tremendous mistake\" and questioned the fundamental bargain underpinning the 77-year-old alliance.[1][2]",
-      "audio_url": "",
-      "url": "trump-weighs-stripping-nato-vo-jW_xigOzQI2I_6rHhBoDeg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3ff2fbbc-b088-4e5c-95ab-bbe34504fbce",
-      "published_datetime": "2026-03-28T18:36:29.553292",
-      "title": "Explosion hits near Erbil airport as Kurdistan attacks persist",
-      "featured_image": {
-        "url": "https://www.turkiyetoday.com/region/explosion-reported-near-erbil-airport-in-northern-iraq-3216540",
-        "name": "Explosion reported near Erbil airport in northern Iraq ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--W8TC6e4h--/t_limit/https://img.turkiyetoday.com/images/2026/3/19/explosion-reported-near-erbil-airport-in-northern-iraq-3216540_20260319163251_20260319163251.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--BGHTEyRS--/t_thumbnail/https://img.turkiyetoday.com/images/2026/3/19/explosion-reported-near-erbil-airport-in-northern-iraq-3216540_20260319163251_20260319163251.jpg"
-      },
-      "description": "An explosion was heard Saturday morning near the international airport of Erbil, the capital of Iraq's autonomous Kurdistan Region, according to an AFP journalist on the ground. A witness reported seeing smoke rising from the area near the airport perimeter. No details on casualties or the cause of the blast were immediately available.[1][2]",
-      "audio_url": "",
-      "url": "explosion-hits-near-erbil-airp-jOrI3xxZT8KDuLdN6qdhRQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/264d6937-7e15-4ea7-8309-55906f84f9a2",
-      "published_datetime": "2026-03-28T18:34:01.369883",
-      "title": "IDF needs 'a few more weeks' to degrade Iran's military, Israeli official says",
-      "featured_image": {
-        "url": "https://www.timesofisrael.com/idf-planning-for-at-least-1-2-more-weeks-of-iran-ops-over-5000-bombs-dropped/",
-        "name": "IDF planning for at least 1-2 more weeks of Iran ops; over ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--bpAFcdLv--/t_limit/https://static-cdn.toi-media.com/www/uploads/2026/03/5ecc5f15-64d3-4783-9a6f-ab7c8ed19b6d.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--giWtCx68--/t_thumbnail/https://static-cdn.toi-media.com/www/uploads/2026/03/5ecc5f15-64d3-4783-9a6f-ab7c8ed19b6d.jpg"
-      },
-      "description": "A senior Israeli security official told ABC News that the Israel Defense Forces need \"a few more weeks\" to fully degrade Iranian military capabilities, casting doubt on the prospect of a swift diplomatic resolution to the month-old war even as President Donald Trump extended a deadline threatening Iran's energy infrastructure.",
-      "audio_url": "",
-      "url": "idf-needs-a-few-more-weeks-to-DxmuxGNbT9aYGqoNh_2uNA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/426ca923-baef-416d-8f63-a6d4df80780b",
-      "published_datetime": "2026-03-28T18:32:23.704507",
-      "title": "Iranian strike damages major UAE aluminum plant, workers injured",
-      "featured_image": {
-        "url": "https://media.ega.ae/egas-al-taweelah-alumina-refinery-enters-final-stages-of-commissioning/",
-        "name": "EGA's Al Taweelah alumina refinery enters final stages of commissioning",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--AOLFQ__x--/t_limit/https://content.presspage.com/uploads/2833/1920_tlp_ega_jan19-0658-19-954171.jpg%3F10000",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--P8JrsebJ--/t_thumbnail/https://content.presspage.com/uploads/2833/1920_tlp_ega_jan19-0658-19-954171.jpg%3F10000"
-      },
-      "description": "Emirates Global Aluminium's Al Taweelah site in Abu Dhabi, the largest aluminum-producing complex in the United Arab Emirates, sustained significant damage on Saturday during Iranian missile and drone attacks, according to a Reuters report. A number of workers at the facility were injured in the strike, Aluminium Today reported.[1][2]",
-      "audio_url": "",
-      "url": "iranian-strike-damages-major-u-AkgfRFlVQtmQMZDlUOlm7A",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3566a61f-831c-4856-83e8-85c0dd5e2367",
-      "published_datetime": "2026-03-28T18:31:56.532084",
-      "title": "Zelenskyy signs 10-year defense pact with Qatar, capping Gulf tour",
-      "featured_image": {
-        "url": "https://dohanews.co/qatar-ukraine-sign-defence-agreement-as-zelenskyy-meets-amir-in-doha/",
-        "name": "Qatar, Ukraine sign defence agreement as Zelenskyy meets Amir in Doha -  Doha News | Qatar",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--O3GUV0cH--/t_limit/https://dohanews.co/wp-content/uploads/2026/03/HEfo-XMbEAAdmDO-scaled.jpeg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--1x_j_mMQ--/t_thumbnail/https://dohanews.co/wp-content/uploads/2026/03/HEfo-XMbEAAdmDO-scaled.jpeg"
-      },
-      "description": "Ukrainian President Volodymyr Zelenskyy wrapped up a whirlwind three-day tour of the Gulf this week, signing defense cooperation agreements with Saudi Arabia and Qatar and reaching a security pact with the United Arab Emirates \u2014 all while pressing oil-rich partners to help avert a looming diesel crisis back home.",
-      "audio_url": "",
-      "url": "zelenskyy-signs-10-year-defens-5OlvPJInQz2hbZXuCY7MLg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8d59ea67-95c2-4eed-b0b6-1ed0dc531a32",
-      "published_datetime": "2026-03-28T18:30:54.134210",
-      "title": "Israeli forces push 8 km into south Lebanon toward Litani River",
-      "featured_image": {
-        "url": "https://www.axios.com/2026/03/14/israel-lebanon-ground-invasion-hezbollah",
-        "name": "Israel planning massive ground invasion of Lebanon ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--mATgg2yE--/t_limit/https://images.axios.com/HrDuw0fqw4c9R0wIK0viWwr7PF8%3D/0x814:7787x5194/1920x1080/2026/03/13/1773442908317.jpeg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--3_IHgffH--/t_thumbnail/https://images.axios.com/HrDuw0fqw4c9R0wIK0viWwr7PF8%3D/0x814:7787x5194/1920x1080/2026/03/13/1773442908317.jpeg"
-      },
-      "description": "Israeli ground forces have advanced roughly eight kilometers into southern Lebanon along the coast toward the town of Bayada, according to a United Nations official and Lebanon's defense minister, as Israel's military leadership signals its intent to seize and hold territory stretching to the Litani River \u2014 an area amounting to nearly a tenth of the country.[1][2]",
-      "audio_url": "",
-      "url": "israeli-forces-push-8-km-into-fQpaEZzIQDyjMumOPjLHYQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/608bc771-32af-479b-b4cb-805ec2a11144",
-      "published_datetime": "2026-03-28T18:29:56.119480",
-      "title": "French police foil bomb attack outside Bank of America in Paris",
-      "featured_image": {
-        "url": "https://www.bbc.com/news/articles/ce5564x3167o",
-        "name": "French police arrest Russian-Ukrainian man on bomb-making charges",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--wAUjqtrR--/t_limit/https://c.files.bbci.co.uk/7f02/live/c8be2ee0-2369-11ef-952f-7ba836bfb1a8.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--YxRCkzHp--/t_thumbnail/https://c.files.bbci.co.uk/7f02/live/c8be2ee0-2369-11ef-952f-7ba836bfb1a8.jpg"
-      },
-      "description": "French police thwarted an attempted bombing outside Bank of America offices in Paris early Saturday morning, arresting one suspect as he prepared to ignite a homemade explosive device, according to sources close to the investigation cited by Agence France-Presse. A second suspect fled the scene and remains at large.[1][2][3]",
-      "audio_url": "",
-      "url": "french-police-foil-bomb-attack-vPlejvy6QryMA7nEheiknw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6ef50a64-e414-48e2-b0d2-323618e29880",
-      "published_datetime": "2026-03-28T18:27:36.874947",
-      "title": "Poland extends border checks with Germany, Lithuania until October",
-      "featured_image": {
-        "url": "https://tvpworld.com/88981299/poland-wants-to-extend-germany-and-lithuania-border-checks",
-        "name": "Poland seeks to extend border checks with Germany and Lithuania",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--m726ZiEu--/t_limit/https://s4.tvp.pl/images2/d/3/0/uid_d303da1222ff42a18274b0c1b262bfc7_width_1280_play_0_pos_0_gs_0_height_720.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--cmWiOg2y--/t_thumbnail/https://s4.tvp.pl/images2/d/3/0/uid_d303da1222ff42a18274b0c1b262bfc7_width_1280_play_0_pos_0_gs_0_height_720.jpg"
-      },
-      "description": "Poland announced on Saturday that it will extend temporary border controls along its frontiers with Germany and Lithuania by six months, keeping the checks in place until October 1. The decision prolongs what has become an increasingly entrenched suspension of the Schengen Area's open-border regime, with Warsaw citing persistent irregular migration and internal security concerns as justification.",
-      "audio_url": "",
-      "url": "poland-extends-border-checks-w-98eTpzXBT.uPPmjb0m2NXA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-28T18:00:00.000000Z",
       "title": "In a quest for an affordable mortgage in our location of choice, my family tried apartment living",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b4efd85cadb768fdbb8c344e3d36a3f?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7ad3893f08bb6ea5e7cdf2aad5560966?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=130&amp;width=862&amp;height=485"
       },
       "description": "In a quest for an affordable mortgage in our location of choice, my family decide to rent an apartment as a trial. Will high-rise living be a realistic alternative to a house as a place to bring up our child?",
       "page_content_url": "https://www.abc.net.au/news/2026-03-29/apartment-living-with-children-housing-density-affordability/106496900"
-    },
-    {
-      "published_datetime": "2026-03-28T18:00:00.000000Z",
-      "title": "Is Labor trusting big tech too much?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c15de5819a76510c0beafbe851a8e78?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=147&amp;width=862&amp;height=485"
-      },
-      "description": "As an artificial intelligence revolution approaches, the government is responding to a huge opportunity in data-centre development while balancing copyright concerns and workforce anxiety.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-29/artificial-intelligence-albanese-data-centres-anthropic/106485982"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-28T21:22:01.872545"
+  "merged_at": "2026-03-28T22:19:40.522487"
 }
