@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-28T20:32:25.000000Z",
+      "title": "Cyclone Narelle destroys banana crops, fresh food growers hit hard",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/707874589c4c74ec24afb53dd893587c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Fruit and vegetable producers in one of Western Australia's key food growing regions are counting the cost of Cyclone Narelle, with one banana grower reporting more than 80 per cent of his crop has been destroyed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-29/cyclone-narelle-smashes-carnarvon-banana-crops/106507310"
+    },
+    {
       "published_datetime": "2026-03-28T19:28:37.000000Z",
       "title": "The unexpected type of man more women want to date",
       "featured_image": {
@@ -20,7 +29,7 @@
     },
     {
       "published_datetime": "2026-03-28T19:19:19.000000Z",
-      "title": "Mal Leyland is slowly losing his memory. But there's someone\u00a0he'll never forget",
+      "title": "'A lover of life': Mal Leyland eyes off one final trip before dementia decline",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/448a88969beb61e4be9a1890641067ff?impolicy=wcms_crop_resize&amp;cropH=2025&amp;cropW=3600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -53,15 +62,6 @@
       },
       "description": "Hundreds of complaints against Booking.com are piling up as customers and hosts allege they've lost money, their property has been trashed and no one is taking responsibility.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-29/booking-com-complaints-accommodation-fair-trading/106423580"
-    },
-    {
-      "published_datetime": "2026-03-28T18:46:18.000000Z",
-      "title": "Australia has to attack misinformation about climate change, Senate report says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db7c7fc537efe03818c5933963dfded1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Australia needs to increase its efforts to fight back against misinformation about climate change, a Senate report says.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-29/senate-report-misinformation-climate-change-recommendations/106497978"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/508c2aa2-d6b9-475d-9fd9-8cd1eda928d6",
@@ -224,21 +224,21 @@
     },
     {
       "published_datetime": "2026-03-28T18:00:00.000000Z",
+      "title": "In a quest for an affordable mortgage in our location of choice, my family tried apartment living",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b4efd85cadb768fdbb8c344e3d36a3f?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
+      },
+      "description": "In a quest for an affordable mortgage in our location of choice, my family decide to rent an apartment as a trial. Will high-rise living be a realistic alternative to a house as a place to bring up our child?",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-29/apartment-living-with-children-housing-density-affordability/106496900"
+    },
+    {
+      "published_datetime": "2026-03-28T18:00:00.000000Z",
       "title": "Is Labor trusting big tech too much?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c15de5819a76510c0beafbe851a8e78?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=147&amp;width=862&amp;height=485"
       },
       "description": "As an artificial intelligence revolution approaches, the government is responding to a huge opportunity in data-centre development while balancing copyright concerns and workforce anxiety.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-29/artificial-intelligence-albanese-data-centres-anthropic/106485982"
-    },
-    {
-      "published_datetime": "2026-03-28T18:00:00.000000Z",
-      "title": "Will living in an apartment harm our child? My family decided to find out",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b4efd85cadb768fdbb8c344e3d36a3f?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
-      },
-      "description": "In a quest for an affordable mortgage in our location of choice, my family decide to rent an apartment as a trial. Will high-rise living be a realistic alternative to a house as a place to bring up our child?",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-29/apartment-living-with-children-housing-density-affordability/106496900"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-28T20:39:26.917310"
+  "merged_at": "2026-03-28T21:22:01.872545"
 }
