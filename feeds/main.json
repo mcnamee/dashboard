@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-28T06:39:39.000000Z",
+      "title": "Darwin's ambulance service fails overnight as 61 Triple Zero calls abandoned",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/59ec6b63d1fe724cba8ee1a2bc4a7f8b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
+      },
+      "description": "Darwin's ambulance service has reached a \"critical failure point\" as 42 per cent of Triple Zero calls were abandoned overnight. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-28/nt-st-john-triple-zero-calls-abandoned-priority-cases-delays/106506806"
+    },
+    {
       "published_datetime": "2026-03-28T05:10:16.000000Z",
       "title": "Cyclone Narelle devastates WA tourist town, airport 'obliterated'",
       "featured_image": {
@@ -44,11 +53,11 @@
     },
     {
       "published_datetime": "2026-03-28T03:33:37.000000Z",
-      "title": "Live: Marquee halfback clash poised to light up battle of the west",
+      "title": "Live: Penrith punish Parramatta in brutal first-half blitz",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/41dda3fec8e512f5ec8e58b5a9714aed?impolicy=wcms_crop_resize&amp;cropH=1336&amp;cropW=2375&amp;xPos=0&amp;yPos=158&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1836d272cc1cd95aa7d25f920308b840?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "There's never any love lost when the Panthers play the Eels and a mouth-watering play-making duel between Nathan Cleary and Mitchell Moses beckons. Follow live.",
+      "description": "Penrith have handed their western Sydney rivals a serious reality check with a dominant first half putting them in the box seat against Parramatta. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-28/nrl-live-updates-bulldogs-eels-panthers-storm/106506846"
     },
     {
@@ -107,11 +116,11 @@
     },
     {
       "published_datetime": "2026-03-28T01:14:56.000000Z",
-      "title": "Live: Dockers battle Tigers after Lions flex premiership muscle to beat Saints",
+      "title": "Live: Dockers take control against Tigers as AFL probes Saint's alleged slur",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d812c29250ba0cc15b6fcaeb1d295a15?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=135&amp;width=862&amp;height=485"
       },
-      "description": "Fremantle plays host to Richmond with one eye on the weather in Perth, while Brisbane has too much run and too much class for St Kilda in a 33-point win. Follow live.",
+      "description": "Fremantle takes charge against Richmond after half-time as St Kilda confirms it is aware of an alleged incident in the VFL involving one of its young players. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-28/afl-round-three-saturday-live-blog-stk-bris-freo-rich-ess-nm/106504564"
     },
     {
@@ -205,21 +214,12 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-27T20:24:49.000000Z",
-      "title": "Tiger Woods arrested following car crash near Florida home",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0e633373bc847614fd1ea6e36b05dd8a?impolicy=wcms_crop_resize&amp;cropH=1050&amp;cropW=1867&amp;xPos=0&amp;yPos=227&amp;width=862&amp;height=485"
-      },
-      "description": "Golf legend Tiger Woods is arrested in Florida after refusing to submit a urine sample following a car crash near his Florida home.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-28/tiger-woods-involved-in-car-crash-near-florida-home/106506348"
-    },
-    {
       "published_datetime": "2026-03-27T19:31:20.000000Z",
-      "title": "Live: Israel accuses Yemen of entering conflict, explosions in Beirut and Damascus",
+      "title": "Live: Houthis join Iran war after Israel accuses Yemen of entering conflict",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/efe951544977679d402b845b4d3342a2?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=83&amp;width=862&amp;height=485"
       },
-      "description": "Israel\u2019s military says it has detected a missile launched from Yemen toward its territory and that its aerial defence systems were engaged to intercept the incoming threat after explosions were heard in Damascus and Beirut. Follow live.",
+      "description": "The Iranian-backed militant group took to X to make the announcement, saying it launched a salvo of ballistic rockets at military targets in southern Israel. It came after Israel\u2019s military says it has detected a missile launched from Yemen toward its territory. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-28/attacks-on-iran-to-escalate-and-expand/106505482"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-28T06:47:23.719202"
+  "merged_at": "2026-03-28T07:39:07.562497"
 }
