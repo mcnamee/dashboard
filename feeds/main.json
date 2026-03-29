@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-29T09:46:35.000000Z",
+      "title": "Quick hits: F1 driver limps from crash, teenager sets more records",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/96d74f06ab13284fbec944b8f3e54038?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Oliver Bearman limped away from a big crash after he needed to take evasive action. Here are the quick hits from the F1 Japanese Grand Prix.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-29/f1-japanese-grand-prix-quick-hits-oliver-bearman-crash/106508684"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2d0f6425-9abe-42b8-bab9-04025f4f677c",
       "published_datetime": "2026-03-29T06:35:07.989326",
       "title": "North Korea tests upgraded missile engine with higher thrust",
@@ -74,11 +83,11 @@
     },
     {
       "published_datetime": "2026-03-29T04:38:31.000000Z",
-      "title": "Live: Titans and Dragons fight for first NRL win of 2026",
+      "title": "Dragons playmaker Flanagan hospitalised following head knock against Gold Coast",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c292767e12bf301630079b8c80fc31fa?impolicy=wcms_crop_resize&amp;cropH=1268&amp;cropW=2255&amp;xPos=0&amp;yPos=117&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2182875638c69ffd4eb8b8c03cac591a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Neither St George Illawarra nor Gold Coast have won an NRL game in 2026 but with the two sides facing off to finish Round 4 somebody will break their duck. Follow live.",
+      "description": "St George Illawarra five-eighth Kyle Flanagan was transported to hospital after a head knock in the Dragons' 22-14 loss to the Gold Coast Titans. \u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-29/nrl-live-updates-raiders-harks-titans-dragons/106508782"
     },
     {
@@ -143,15 +152,6 @@
       },
       "description": "Liberal frontbencher Stephen Patterson loses his bid to be re-elected in the beachside seat of Morphett in the South Australian state election.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-29/sa-labor-wins-morphett/106508638"
-    },
-    {
-      "published_datetime": "2026-03-29T02:57:12.000000Z",
-      "title": "Piastri finishes second, ill-timed safety car denies him victory in Japan",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c400233d5400b24ec7fd2aec1fcf8737?impolicy=wcms_crop_resize&amp;cropH=1841&amp;cropW=3273&amp;xPos=0&amp;yPos=170&amp;width=862&amp;height=485"
-      },
-      "description": "An ill-timed safety car has denied Oscar Piastri a stunning Japanese Grand Prix victory, with Italian Kimi Antonelli benefiting to secure successive wins.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-29/f1-live-japanese-grand-prix-oscar-piastri/106009308"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/78182ef8-b6a8-4f47-901b-847fe0ad88da",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-29T09:28:55.742291"
+  "merged_at": "2026-03-29T10:24:11.190242"
 }
