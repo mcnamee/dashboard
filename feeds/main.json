@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/39b7aa9c-c0a7-4d31-9cc7-f0bd547a603b",
+      "published_datetime": "2026-03-29T21:31:14.213568",
+      "title": "Iran vows permanent overhaul of Strait of Hormuz rules",
+      "featured_image": {
+        "url": "https://www.newarab.com/news/twenty-countries-pledge-secure-strait-hormuz",
+        "name": "Twenty countries pledge to secure Strait of Hormuz",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--oGxZh3p1--/t_limit/https://www.newarab.com/sites/default/files/2266152789.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--GkEmNgMw--/t_thumbnail/https://www.newarab.com/sites/default/files/2266152789.jpeg"
+      },
+      "description": "Iran is tightening its grip over the Strait of Hormuz while selectively opening the waterway to allied nations, a strategy that is reshaping one of the world's most vital shipping corridors as the US-Israeli war with Tehran enters its fifth week.",
+      "audio_url": "",
+      "url": "iran-vows-permanent-overhaul-o-Cd1eKHUVTDutRiLLqbK3yg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-29T21:00:01.000000Z",
       "title": "Exmouth beaches a 'graveyard' after ex-Tropical Cyclone Narelle",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9957a9c5-abdd-4a0b-bed4-2f1251ce75d2",
-      "published_datetime": "2026-03-29T16:38:52.222409",
-      "title": "Study pinpoints sun's storm engine 200,000 km below surface",
-      "featured_image": {
-        "url": "https://www.iac.es/en/outreach/multimedia-gallery/media/visualization-solar-interior-tachocline",
-        "name": "Visualization of the solar interior with the tachocline | Instituto de  Astrof\u00edsica de Canarias \u2022 IAC",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--K6spHZTU--/t_limit/https://www.iac.es/sites/default/files/styles/color/public/images/media/image/sol_sdo_tacolina.jpg%3Fitok%3Dqi95s948",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--yV7tLzl---/t_thumbnail/https://www.iac.es/sites/default/files/styles/color/public/images/media/image/sol_sdo_tacolina.jpg%3Fitok%3Dqi95s948"
-      },
-      "description": "Physicists at the New Jersey Institute of Technology have pinpointed the origin of solar storms to a thin boundary layer buried roughly 200,000 kilometers beneath the sun's visible surface, providing the first direct observational evidence that this region drives the star's magnetic activity cycle.",
-      "audio_url": "",
-      "url": "study-pinpoints-sun-s-storm-en-HlkREX8ZQKWVtDxLAB1L6Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-29T22:21:26.430154"
+  "merged_at": "2026-03-29T22:38:50.316520"
 }
