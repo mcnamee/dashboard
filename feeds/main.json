@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9957a9c5-abdd-4a0b-bed4-2f1251ce75d2",
+      "published_datetime": "2026-03-29T16:38:52.222409",
+      "title": "Study pinpoints sun's storm engine 200,000 km below surface",
+      "featured_image": {
+        "url": "https://www.iac.es/en/outreach/multimedia-gallery/media/visualization-solar-interior-tachocline",
+        "name": "Visualization of the solar interior with the tachocline | Instituto de  Astrof\u00edsica de Canarias \u2022 IAC",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--K6spHZTU--/t_limit/https://www.iac.es/sites/default/files/styles/color/public/images/media/image/sol_sdo_tacolina.jpg%3Fitok%3Dqi95s948",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--yV7tLzl---/t_thumbnail/https://www.iac.es/sites/default/files/styles/color/public/images/media/image/sol_sdo_tacolina.jpg%3Fitok%3Dqi95s948"
+      },
+      "description": "Physicists at the New Jersey Institute of Technology have pinpointed the origin of solar storms to a thin boundary layer buried roughly 200,000 kilometers beneath the sun's visible surface, providing the first direct observational evidence that this region drives the star's magnetic activity cycle.",
+      "audio_url": "",
+      "url": "study-pinpoints-sun-s-storm-en-HlkREX8ZQKWVtDxLAB1L6Q",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-29T09:46:35.000000Z",
       "title": "Quick hits: F1 driver limps from crash, teenager sets more records",
       "featured_image": {
@@ -217,21 +232,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-29/australians-may-be-losing-faith-in-us-alliance-hastie-says/106508216"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3477fb1b-3f50-4c64-b6b5-314cf2e95bd9",
-      "published_datetime": "2026-03-28T21:39:44.746184",
-      "title": "Houthis launch first missile attack on Israel as U.S. Marines reach Middle East",
-      "featured_image": {
-        "url": "https://time.com/article/2026/03/24/marines-deployed-iran-war-trump/",
-        "name": "U.S. to Deploy Marines to Middle East. Here's What They Could Be ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ZemsXGFI--/t_limit/https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt4cef277782fc5fa8/69c2dcd53488f96a53e57deb/AP107218849347.jpg%3Fbranch%3Dproduction%26width%3D3840%26quality%3D75%26auto%3Dwebp%26crop%3D16%253A9",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--9FmcomM2--/t_thumbnail/https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt4cef277782fc5fa8/69c2dcd53488f96a53e57deb/AP107218849347.jpg%3Fbranch%3Dproduction%26width%3D3840%26quality%3D75%26auto%3Dwebp%26crop%3D16%253A9"
-      },
-      "description": "The USS Tripoli and roughly 2,500 Marines arrived in the Middle East on Friday as Iran-backed Houthi rebels in Yemen launched their first missile attack on Israel since the war began, opening a new front in a rapidly expanding regional conflict now one month old.\n\nU.S. Central Command announced Saturday that the Tripoli Amphibious Ready Group and the embarked 31st Marine Expeditionary Unit reached its area of responsibility on March 27, carrying approximately 3,500 sailors and Marines along with strike fighter aircraft and amphibious assault assets. The America-class amphibious assault ship had departed its homeport of Sasebo, Japan, earlier this month after Defense Secretary Pete Hegseth approved a CENTCOM request for reinforcements.[1][2][3][4]",
-      "audio_url": "",
-      "url": "houthis-launch-first-missile-a-aZB4wXpUTjapazUWUnflbg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-28T19:27:35.000000Z",
       "title": "Iran warns US against ground invasion as key diplomats meet in Pakistan for talks",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-29T16:25:31.408347"
+  "merged_at": "2026-03-29T17:22:27.225443"
 }
