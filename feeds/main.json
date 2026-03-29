@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-29T21:00:01.000000Z",
+      "title": "Exmouth beaches a 'graveyard' after ex-Tropical Cyclone Narelle",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/23f3fb5909cc936f0fa166cdd1a3665e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "In the popular tourist destination, it appears the category four cyclone has chewed up and spat out whole sections of the Ningaloo Reef onto dry land.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-30/tropical-cyclone-narelle-kills-wildlife-damages-businesses/106508416"
+    },
+    {
+      "published_datetime": "2026-03-29T20:23:46.000000Z",
+      "title": "Breaking: 'I feel betrayed': New scam figures show Australians lost more than $2 billion",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7c914c23f0e6a86d939ae923afc8c29a?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Australians lost more than $2 billion to scammers in 2025, the latest data from the Australian Competition and Consumer Commission has revealed.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-30/accc-scam-figures-released-two-billion-loss/106502482"
+    },
+    {
       "published_datetime": "2026-03-29T20:00:21.000000Z",
       "title": "Live: National cabinet to meet for second time over fuel crisis",
       "featured_image": {
@@ -19,40 +37,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-30/iran-war-live-updates-us-ground-operation/106509210"
     },
     {
-      "published_datetime": "2026-03-29T19:52:33.000000Z",
-      "title": "Kylie Minogue to lead AFL grand final entertainment, ending Aussie drought",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db0b388656ec30c4b44a0d8c949a80ae?impolicy=wcms_crop_resize&amp;cropH=2666&amp;cropW=4740&amp;xPos=0&amp;yPos=55&amp;width=862&amp;height=485"
-      },
-      "description": "Pop superstar Kylie Minogue has been named as the men's AFL grand final pre-match entertainment, the first time since 2021 that an Australian artist has headlined the event.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-30/kylie-minogue-named-afl-grand-final-pre-game-entertainment/106509752"
-    },
-    {
       "published_datetime": "2026-03-29T19:39:00.000000Z",
       "title": "Israel edited photo of journalist killed in strike, and what else you should know",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8baa5a7b584dd85104e8b5e6771e0f6?impolicy=wcms_crop_resize&amp;cropH=2336&amp;cropW=4153&amp;xPos=0&amp;yPos=219&amp;width=862&amp;height=485"
       },
-      "description": "Israel's Prime Minister Benjamin Netanyahu has announced an expansion of his country\u2019s invasion of southern Lebanon, pushing further into the area it's been attacking for more than three weeks.",
+      "description": "The Israel Defense Forces has been forced to admit it edited a photo of Ali Shoeib to show him in a military uniform.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-30/iran-israel-war-daily-news-briefing/106502922"
     },
     {
       "published_datetime": "2026-03-29T18:50:09.000000Z",
-      "title": "'Out of the pocket of taxpayers': Unis spend $1.8b on consultants and contractors",
+      "title": "'Shockingly high': Unis spend $1.8b on consultants and contractors",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85e102021c39721d5d9342d317862116?impolicy=wcms_crop_resize&amp;cropH=2495&amp;cropW=4436&amp;xPos=0&amp;yPos=464&amp;width=862&amp;height=485"
       },
       "description": "Consultancies have been accused of infiltrating universities and wasting scarce public funds on questionable advice about cutting courses and jobs.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-30/university-consultants-fees-uts-kpmg-four-corners/106499192"
-    },
-    {
-      "published_datetime": "2026-03-29T18:44:33.000000Z",
-      "title": "Do you know who owns your GP clinic? The answer might surprise you",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f083ae2a16faaa82221c636cf921a29c?impolicy=wcms_crop_resize&amp;cropH=1664&amp;cropW=2959&amp;xPos=0&amp;yPos=154&amp;width=862&amp;height=485"
-      },
-      "description": "Major insurers like Medibank Private and Bupa are buying up GP clinics in a move that could lead to US-style managed care.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-30/major-insurers-buying-up-gp-clinics-could-be-tip-of-managed-care/106491728"
     },
     {
       "published_datetime": "2026-03-29T18:44:21.000000Z",
@@ -74,7 +74,7 @@
     },
     {
       "published_datetime": "2026-03-29T18:41:19.000000Z",
-      "title": "Hunter lived in his home for more than 10 years. Within weeks, he was homeless",
+      "title": "How single parent families face an 'almost hidden crisis'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d3746ae72577e14c4271a8e6ce7bdcb4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-29T20:21:48.816488"
+  "merged_at": "2026-03-29T21:23:54.183666"
 }
