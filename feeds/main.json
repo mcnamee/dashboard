@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2d0f6425-9abe-42b8-bab9-04025f4f677c",
+      "published_datetime": "2026-03-29T06:35:07.989326",
+      "title": "North Korea tests upgraded missile engine with higher thrust",
+      "featured_image": {
+        "url": "https://koreajoongangdaily.joins.com/news/2026-03-29/national/northKorea/North-Koreas-Kim-oversees-ground-test-of-new-highthrust-missile-engine-KCNA/2556087",
+        "name": "North Korea's Kim oversees ground test of new high-thrust missile engine:  KCNA",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--uEJ-g78H--/t_limit/https://koreajoongangdaily.joins.com/data/photo/2026/03/29/9e9e3a9b-4a0c-46b9-ad4b-53d4b3306209.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--vPXXBudb--/t_thumbnail/https://koreajoongangdaily.joins.com/data/photo/2026/03/29/9e9e3a9b-4a0c-46b9-ad4b-53d4b3306209.jpg"
+      },
+      "description": "North Korean leader Kim Jong Un supervised a ground test of a newly upgraded high-thrust solid-fuel missile engine, state media reported on Sunday, marking a step forward in the country's drive to bolster its long-range strike capabilities.",
+      "audio_url": "",
+      "url": "north-korea-tests-upgraded-mis-3cC0ExW1TW2mJ1AVFC604Q",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bd3a7f03-b525-4637-b663-106360a265c8",
       "published_datetime": "2026-03-29T05:35:22.005291",
       "title": "WTO talks enter final day with U.S., India deadlocked on e-commerce duties",
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7110f4a3-73e3-4590-80d2-24211da44b64",
-      "published_datetime": "2026-03-28T21:16:50.865493",
-      "title": "WHO says nine paramedics killed in southern Lebanon",
-      "featured_image": {
-        "url": "https://www.dropsitenews.com/p/lebanon-medical-workers-paramedics-israel-targeted-ambulances-hezbollah-islamic-health-authority",
-        "name": "Israel Killed Over a Dozen Lebanese Paramedics in Three Days ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--s6JgP_B3--/t_limit/https://substackcdn.com/image/fetch/%24s_%21q1dE%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto:good%2Cfl_progressive:steep%2Cg_auto/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F01f2c541-93dd-4061-b742-96b58d21189a_4000x2667.jpeg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Lybu5FKe--/t_thumbnail/https://substackcdn.com/image/fetch/%24s_%21q1dE%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto:good%2Cfl_progressive:steep%2Cg_auto/https%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F01f2c541-93dd-4061-b742-96b58d21189a_4000x2667.jpeg"
-      },
-      "description": "The World Health Organization said Saturday that nine paramedics were killed and seven others wounded in five separate attacks on healthcare teams in southern Lebanon, bringing the total number of health workers killed since the Israeli military escalation began on March 2 to 51.[1][2]\n\nWHO Director-General Tedros Adhanom Ghebreyesus detailed the strikes in a post on X, saying medics were hit while on duty in five villages. In Zoutar al-Sharqiya, five health workers were killed and two injured, one critically. Two more were killed and three wounded in Kfar Tibnit. One paramedic died in each of Ghandouriyeh and Jezzine, while two were wounded in Kfar Dajjal.[2][3]\n\n\"The repeated attacks on health care are severely disrupting the delivery of services in southern Lebanon,\" Tedros wrote, adding that \"the only way to end these tragedies is to end attacks on health care, NOW\".[2]",
-      "audio_url": "",
-      "url": "who-says-nine-paramedics-kille-rFhH5F10TXmgkE5k_dPhQA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-28T19:27:35.000000Z",
       "title": "Live: Pentagon 'preparing for weeks of Iran ground operations', WaPo reports",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-29T08:32:26.461687"
+  "merged_at": "2026-03-29T08:51:17.621662"
 }
