@@ -1,13 +1,106 @@
 {
   "items": [
     {
-      "published_datetime": "2026-03-30T03:23:30.000000Z",
-      "title": "The key moments in the long search for a police killer",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5f17c3f4-a9ff-4d0e-9332-c033c5eab0a4",
+      "published_datetime": "2026-03-30T05:51:06.390252",
+      "title": "US stock futures slide as Iran war enters fifth week",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/561ba21e284c342c7a620e7793cfc745?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "url": "https://www.cnbc.com/2026/03/27/stock-market-next-week-outlook-for-march-30-april-3-2026.html",
+        "name": "The S&P 500 could join other U.S. benchmarks in a correction next week. Here's what's ahead",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ZSCbVHvV--/t_limit/https://image.cnbcfm.com/api/v1/image/108279586-1773844636408-gettyimages-2266676946-AFP_A3RK8AJ.jpeg%3Fv%3D1774534692%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--c3VvpG19--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108279586-1773844636408-gettyimages-2266676946-AFP_A3RK8AJ.jpeg%3Fv%3D1774534692%26w%3D1920%26h%3D1080"
       },
-      "description": "Dezi Freeman fatally shot two officers and injured a third before he vanished into remote bushland. Here is what we know about the events leading up to the fatal shooting \u2014 and the months-long manhunt that followed.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-30/dezi-freeman-timeline-key-people-police-shooting-porepunkah/105856850"
+      "description": "US stock futures dropped on Sunday night as investors grappled with the economic fallout of the Iran war and braced for a critical jobs report at the end of a holiday-shortened trading week.\n\nDow Jones Industrial Average futures slid more than 300 points, or 0.7%, late Sunday, while S&P 500 futures fell 0.7% and Nasdaq-100 futures dropped 0.8%, according to MarketWatch. The declines followed a bruising Friday session that pushed the Dow into correction territory \u2014 a drop of at least 10% from a recent high \u2014 joining the Nasdaq, which had already crossed that threshold. The S&P 500 closed at its lowest level since last July.[1]",
+      "audio_url": "",
+      "url": "us-stock-futures-slide-as-iran-OAVomV5CRIugdNlimvZziA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1bd857ef-1c27-453c-9a34-0f35e60de567",
+      "published_datetime": "2026-03-30T05:49:07.552385",
+      "title": "Trump claims progress on Iran peace plan as Tehran denies any talks",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/03/24/trump-iran-war-negotiations.html",
+        "name": "Iran has received Trump's 15-point plan to end war, report says",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--VNTL8qik--/t_limit/https://image.cnbcfm.com/api/v1/image/108282399-1774377513808-gettyimages-2268177418-_s015382_oegwuhhj.jpeg%3Fv%3D1774485623%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--b-OeG3wP--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108282399-1774377513808-gettyimages-2268177418-_s015382_oegwuhhj.jpeg%3Fv%3D1774485623%26w%3D1920%26h%3D1080"
+      },
+      "description": "President Donald Trump claimed Sunday that Iran has agreed to \"most\" of the demands in a 15-point peace proposal the United States delivered through Pakistani intermediaries, describing talks aimed at ending the month-old war as going \"very well.\" But the assertion was swiftly contradicted by Iranian officials, who denied any negotiations are underway and accused Washington of pursuing surrender terms disguised as diplomacy.",
+      "audio_url": "",
+      "url": "trump-claims-progress-on-iran-4rH3QQT6RJuW0W7di7ij7A",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-03-30T05:02:51.000000Z",
+      "title": "Townsville mother found not guilty of manslaughter over drowning of two sons",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fbae667efc446c3cbbfae857dfb8bbf0?impolicy=wcms_crop_resize&amp;cropH=960&amp;cropW=1707&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Townsville mother Leeanne Eatts has been found not guilty of the manslaughter of her two sons who drowned in the Ross River in February 2019.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-30/leeanne-eatts-manslaughter-verdict-townsville-court/106512236"
+    },
+    {
+      "published_datetime": "2026-03-30T04:54:58.000000Z",
+      "title": "Mining company found guilty over worker's 2021 death",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/80182d646a1e1a98d37890df8ca1c6b5?impolicy=wcms_crop_resize&amp;cropH=986&amp;cropW=1752&amp;xPos=0&amp;yPos=317&amp;width=862&amp;height=485"
+      },
+      "description": "A Queensland mining company has been found guilty of industrial manslaughter over the death of a worker at a central Queensland mine site.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-30/mastermyne-crinum-operations-found-guilty-2021-worker-death/106492296"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3d1d4828-a9b1-4749-be06-00f7a8381f7a",
+      "published_datetime": "2026-03-30T04:35:47.158962",
+      "title": "Pakistan offers to host U.S.-Iran talks after Hormuz summit",
+      "featured_image": {
+        "url": "https://www.newindianexpress.com/world/2026/Mar/29/ready-for-talks-between-us-iran-pakistan-after-meeting-with-foreign-ministers-of-saudi-egypt-turkiye",
+        "name": "Will host US-Iran talks in coming days: Pakistan after meeting with ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_nZP924w--/t_limit/https://media.newindianexpress.com/newindianexpress%252F2026-03-29%252Fywzgf721%252FAP26088456058845.jpg%3Fw%3D1200%26ar%3D40%253A21%26auto%3Dformat%252Ccompress%26ogImage%3Dtrue%26mode%3Dcrop%26enlarge%3Dtrue%26overlay%3Dfalse%26overlay_position%3Dbottom%26overlay_width%3D100",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--tLQJy3Mi--/t_thumbnail/https://media.newindianexpress.com/newindianexpress%252F2026-03-29%252Fywzgf721%252FAP26088456058845.jpg%3Fw%3D1200%26ar%3D40%253A21%26auto%3Dformat%252Ccompress%26ogImage%3Dtrue%26mode%3Dcrop%26enlarge%3Dtrue%26overlay%3Dfalse%26overlay_position%3Dbottom%26overlay_width%3D100"
+      },
+      "description": "Foreign ministers from Turkey, Egypt, and Saudi Arabia gathered in Islamabad on Sunday for talks aimed at ending the month-old war between the United States and Iran, with discussions centered on proposals to reopen the Strait of Hormuz to global shipping.",
+      "audio_url": "",
+      "url": "pakistan-offers-to-host-u-s-ir-vrAgeHlcROmLM8CmnqWZlg",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-03-30T04:22:33.000000Z",
+      "title": "Apocalyptic scenes from Australia ahead of cyclone make worldwide news",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/92111b8924394d468d76cb5bce1bb5f2?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=416&amp;width=862&amp;height=485"
+      },
+      "description": "Cyclone Narelle turned the sky over parts of Western Australia's north into an ominous red, sparking headlines across the globe.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-30/red-sky-in-wa-ahead-of-cyclone-narelle/106511080"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e7feff0f-04b6-4b09-b39d-b764b3cf3d7a",
+      "published_datetime": "2026-03-30T03:45:22.817488",
+      "title": "Trump says Iran agreed to let 20 oil ships pass through Strait of Hormuz",
+      "featured_image": {
+        "url": "https://www.axios.com/2026/03/14/trump-iran-war-ships-strait-hormuz",
+        "name": "Trump claims coalition to send war ships to reopen strait of Hormuz",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IW9IseXV--/t_limit/https://images.axios.com/RjJh8MDJGA58Ketvv525JoVSEzE%3D/0x0:6400x3600/1366x768/2026/03/14/1773499809142.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--LE96ohWT--/t_thumbnail/https://images.axios.com/RjJh8MDJGA58Ketvv525JoVSEzE%3D/0x0:6400x3600/1366x768/2026/03/14/1773499809142.jpeg"
+      },
+      "description": "President Donald Trump said Sunday night that Iran had agreed to release 20 more cargo ships carrying oil through the Strait of Hormuz beginning Monday morning, in what the president called a \"sign of respect\" and evidence of Tehran's willingness to negotiate an end to the war.[1][2]\n\nSpeaking to reporters aboard Air Force One as he flew back to Washington, Trump offered a largely optimistic view of the state of talks with Iran, claiming Tehran had agreed to \"most of the points\" in a 15-point ceasefire proposal the United States delivered through Pakistan. \"They're going to give up nuclear weapons. They're going to give us the nuclear dust,\" Trump said, referring to Iran's stockpiles of enriched uranium. \"They're going to do everything that we want to do.\"[2]",
+      "audio_url": "",
+      "url": "trump-says-iran-agreed-to-let-.Ai55d2OQ_WSDmMunIKM3w",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9fc054ec-b3f1-4083-b6e6-cab50c35d3f6",
+      "published_datetime": "2026-03-30T03:22:06.711776",
+      "title": "Oil tops $100 as Houthis join Iran war, threatening Red Sea route",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html",
+        "name": "Experts weigh potential scenarios for oil if Strait of Hormuz closes",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--2MZM4ETe--/t_limit/https://image.cnbcfm.com/api/v1/image/108162591-1750694632193-gettyimages-2221006178-AFP_63G96JB.jpeg%3Fv%3D1750694774",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--lG1eOGvs--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108162591-1750694632193-gettyimages-2221006178-AFP_63G96JB.jpeg%3Fv%3D1750694774"
+      },
+      "description": "Crude oil prices climbed sharply as the war between the United States, Israel, and Iran entered its fifth week, with Houthi rebels in Yemen opening a new front by launching missile attacks on Israel and raising fresh fears over global energy supply routes.\n\nU.S. oil futures rose to above $100 a barrel on Sunday, while Brent crude climbed above $114, according to Fortune futures data. The gains extended a week in which May WTI crude surged 5.46% on Friday alone, closing near $100 a barrel, and Brent crude reached $107.81 earlier in the week. Oil prices have risen roughly 50% since the war began on February 28.[1][2][3][4][5]",
+      "audio_url": "",
+      "url": "oil-tops-100-as-houthis-join-i-xByURZj3RHieOEGYUE0I2Q",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-03-30T02:57:06.000000Z",
@@ -26,15 +119,6 @@
       },
       "description": "The IDF has admitted the image of a killed journalist in military uniform it posted on its official X account was faked.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-30/idf-misinformation-on-lebanese-journalist/106511282"
-    },
-    {
-      "published_datetime": "2026-03-30T02:21:06.000000Z",
-      "title": "Storm forward hospitalised after suspected stroke in 'medical episode'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/24a89543ae6fe2c8037045298d817aeb?impolicy=wcms_crop_resize&amp;cropH=814&amp;cropW=1447&amp;xPos=0&amp;yPos=69&amp;width=862&amp;height=485"
-      },
-      "description": "The Melbourne Storm say Tui Kamikamica is receiving the best possible care after being rushed to a hospital following a \"medical episode\" this morning.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-30/nrl-melbourne-storm-tui-kamikamica-in-hospital-suspected-stroke/106511438"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6818dff2-221c-4f3b-a24c-d3c68fc958f9",
@@ -91,17 +175,8 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-29T23:03:02.000000Z",
-      "title": "The volatile, 'unemployable' man who became a notorious police killer",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1fea1917abf241619e3abcd51d156a8?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=206&amp;width=862&amp;height=485"
-      },
-      "description": "Before Dezi Freeman's death brought an end to a long manhunt, his friends say he was a troubled and divisive figure who was drawn to the anti-authority \"sovereign citizen\" movement.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-30/search-for-dezi-freeman-ends-death-police-porepunkah/105731958"
-    },
-    {
       "published_datetime": "2026-03-29T22:55:11.000000Z",
-      "title": "Live: Dezi Freeman shot in stand-off with police following months on the run",
+      "title": "Live: Victorian premier says 'an evil man is dead' after Dezi Freeman killed in police stand off",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3d064353f0eb5da2d64c3c0d636bf8b5?impolicy=wcms_crop_resize&amp;cropH=678&amp;cropW=1206&amp;xPos=0&amp;yPos=609&amp;width=862&amp;height=485"
       },
@@ -148,21 +223,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-30/asx-markets-business-news-live-updates/106509200"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a11997af-6d11-46c8-9152-9267b2594a77",
-      "published_datetime": "2026-03-29T20:04:09.459939",
-      "title": "France arrests two more in foiled Paris Bank of America bombing",
-      "featured_image": {
-        "url": "https://www.thetimes.com/us/news-today/article/bomb-attack-bank-of-america-paris-foiled-iran-mknt7hk2q",
-        "name": "Bomb attack at Bank of America branch in Paris foiled by police",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_hskp8m1--/t_limit/https://www.thetimes.com/imageserver/image/b21c3715-24fb-4340-9693-70e15ddc4019.jpg%3Fstrip%3Dall%26format%3Dwebp%26crop%3D3925px%252C2208px%252C1427px%252C1604px%26resize%3D2360",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--iHCMaY4r--/t_thumbnail/https://www.thetimes.com/imageserver/image/b21c3715-24fb-4340-9693-70e15ddc4019.jpg%3Fstrip%3Dall%26format%3Dwebp%26crop%3D3925px%252C2208px%252C1427px%252C1604px%26resize%3D2360"
-      },
-      "description": "French authorities have detained three suspects in connection with a thwarted bombing attempt outside Bank of America's Paris headquarters, the country's anti-terrorism prosecutor's office said Sunday. The arrests mark a widening investigation into what officials suspect may be part of an Iranian-linked campaign of attacks on Western interests across Europe.",
-      "audio_url": "",
-      "url": "france-arrests-two-more-in-foi-ZUut.6s5R7.8LUGDofUwyQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-03-29T20:00:21.000000Z",
       "title": "Live: Chalmers writes to ACCC to ensure fuel retailers pass on excise cut",
       "featured_image": {
@@ -173,72 +233,12 @@
     },
     {
       "published_datetime": "2026-03-29T19:55:30.000000Z",
-      "title": "Live: Donald Trump says he wants to 'take the oil' in Iran",
+      "title": "Live: Trump wants to 'take the oil' in Iran, as PM urges service stations to 'do the right thing'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/988f6abc189a6418774481072a90f5e6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
       "description": "\u00a0US President Donald Trump says he wanted to \"take the oil\" in Iran. Follow our live coverage.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-30/iran-war-live-updates-us-ground-operation/106509210"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ab363f68-da27-42a0-b6be-1eb30709f94c",
-      "published_datetime": "2026-03-29T19:45:10.761207",
-      "title": "Iran threatens Gulf university campuses as strikes pound region",
-      "featured_image": {
-        "url": "https://www.lemonde.fr/en/international/article/2026/03/29/iran-s-revolutionary-guard-threatens-us-universities-in-the-middle-east_6751905_4.html",
-        "name": "Iran's Revolutionary Guard threatens US universities in the Middle ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--98-JjWaH--/t_limit/https://img.lemde.fr/2026/03/24/0/0/5419/3612/1440/960/60/0/996aaf1_ftp-1-bcodkqdyad9l-2026-03-24t181156z-780189050-rc25vhava5tw-rtrmadp-3-iran-crisis-pause.JPG",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--GbBPu1U6--/t_thumbnail/https://img.lemde.fr/2026/03/24/0/0/5419/3612/1440/960/60/0/996aaf1_ftp-1-bcodkqdyad9l-2026-03-24t181156z-780189050-rc25vhava5tw-rtrmadp-3-iran-crisis-pause.JPG"
-      },
-      "description": "Iran unleashed a fresh barrage of missile and drone attacks across Gulf states over the weekend, hitting Kuwait's main airport, Oman's Salalah port, and a key U.S. air base in Saudi Arabia while issuing threats against American and Israeli universities in the region. The strikes, spanning March 27 to 29, mark a continued broadening of Tehran's retaliation one month into the war that began with joint U.S.-Israeli strikes on Iran on February 28.",
-      "audio_url": "",
-      "url": "iran-threatens-gulf-university-UNd21DTvRAKaCXIYiCym5Q",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/860fb726-7344-4c88-aeaa-d3ed905eb65a",
-      "published_datetime": "2026-03-29T19:25:03.357863",
-      "title": "NASA begins final countdown for Artemis II moon launch",
-      "featured_image": {
-        "url": "https://www.bbc.com/news/articles/c0q4w3l0wdvo",
-        "name": "When is Nasa's Moon mission launch and what will Artemis do? - BBC",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--14UwO27L--/t_limit/https://s.yimg.com/os/en/bbc_us_articles_995/df531c1a8e63edd1b9601cf788c80d1b",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--566rGHyA--/t_thumbnail/https://s.yimg.com/os/en/bbc_us_articles_995/df531c1a8e63edd1b9601cf788c80d1b"
-      },
-      "description": "Four astronauts are days away from departing for the moon aboard NASA's Artemis II mission, with liftoff targeted for 6:24 p.m. EDT on Wednesday, April 1, from Kennedy Space Center in Florida. If all goes as planned, it will mark the first crewed lunar voyage since Apollo 17 in December 1972.[1][2]",
-      "audio_url": "",
-      "url": "nasa-begins-final-countdown-fo-okwndOamTUetRnrMI7tBUg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bc68f04d-5329-4832-86f1-6ebe4e96f628",
-      "published_datetime": "2026-03-29T19:00:54.081095",
-      "title": "Zelensky signs Gulf defense deals as Ukraine-Russia talks remain frozen",
-      "featured_image": {
-        "url": "https://www.lemonde.fr/en/international/article/2026/03/28/zelensky-says-ukraine-and-uae-agreed-to-cooperate-on-defense_6751895_4.html",
-        "name": "Zelensky agrees defense cooperation with UAE, Qatar on Gulf tour",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--yCm2eVtD--/t_limit/https://img.lemde.fr/2026/03/28/0/0/4200/2800/1440/960/60/0/135c0a3_ftp-1-nzuf4dzdqqzb-5615766-01-06.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--k-ypuCRA--/t_thumbnail/https://img.lemde.fr/2026/03/28/0/0/4200/2800/1440/960/60/0/135c0a3_ftp-1-nzuf4dzdqqzb-5615766-01-06.jpg"
-      },
-      "description": "The Kremlin is intensifying its calls for the United States to leverage its influence over Kyiv to secure a peace deal favorable to Moscow, as US-brokered negotiations on ending the four-year war in Ukraine remain stalled by the widening conflict in the Middle East.",
-      "audio_url": "",
-      "url": "zelensky-signs-gulf-defense-de-fIBl1q8uS0SlyRdXJv3DfQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d9e11fd5-1294-4944-84e2-16d57f111371",
-      "published_datetime": "2026-03-29T18:40:19.166985",
-      "title": "Iran warns against ground invasion as diplomats meet in Pakistan",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2026/3/29/pakistan-maintains-delicate-balancing-act-as-it-hosts-iran-talks",
-        "name": "Pakistan maintains 'delicate balancing act' as it hosts Iran talks",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--0kPyLMW_--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69c93851c0d0-1774794833.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--VbOnbLEp--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69c93851c0d0-1774794833.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "Foreign ministers from Saudi Arabia, Turkey, and Egypt gathered in Islamabad on Sunday for a two-day summit aimed at charting a path toward ending the month-long war between the United States, Israel, and Iran, even as fighting continued and Tehran publicly rejected the terms on offer. Pakistan's Deputy Prime Minister and Foreign Minister Ishaq Dar is leading the talks, which officials have described as the most coordinated regional diplomatic effort since the conflict began on February 28.[1][2][3]\n\nNeither the United States, Iran, nor Israel is participating in the meetings. Egyptian Foreign Minister Badr Abdelatty said the goal was to open \"direct dialogue\" between Washington and Tehran, which have so far communicated only through intermediaries. Turkey's Hakan Fidan and Saudi Arabia's Prince Faisal bin Farhan rounded out the gathering, which Pakistani Prime Minister Shehbaz Sharif set up after holding what he called \"extensive discussions\" with Iranian President Masoud Pezeshkian on Saturday.[3][4][5]",
-      "audio_url": "",
-      "url": "iran-warns-against-ground-inva-hUE0FHqrSGStQBJRCrtVzA",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-30T04:38:08.464084"
+  "merged_at": "2026-03-30T06:25:08.955633"
 }
