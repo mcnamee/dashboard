@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-30T19:51:41.000000Z",
+      "title": "Live: Donald Trump interested in Arab countries paying for Iran war, White House says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bbf8d147b05297bace7713866f7620ef?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "White House press secretary Karoline Leavitt says US President Donald Trump is interested in getting Arab countries to pay for the war in the Middle East. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-31/iran-war-live-updates-us-kharg-island-fuel-excise-petrol/106514216"
+    },
+    {
       "published_datetime": "2026-03-30T19:31:35.000000Z",
       "title": "Petrol stations tried to 'shape' the market \u2013 now it's shaping them",
       "featured_image": {
@@ -10,17 +19,17 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-31/petrol-prices-accc-shape-market/106504912"
     },
     {
-      "published_datetime": "2026-03-30T19:25:03.000000Z",
-      "title": "Israel passes death penalty for Palestinians convicted of lethal attacks",
+      "published_datetime": "2026-03-30T19:29:07.000000Z",
+      "title": "Israel backs down over holy site, Pope rebukes Hegseth, and what else you should know",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/47389f86c3f643d3b1a4734c9d50edaf?impolicy=wcms_crop_resize&amp;cropH=1551&amp;cropW=2758&amp;xPos=0&amp;yPos=147&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8baa5a7b584dd85104e8b5e6771e0f6?impolicy=wcms_crop_resize&amp;cropH=2336&amp;cropW=4153&amp;xPos=0&amp;yPos=219&amp;width=862&amp;height=485"
       },
-      "description": "The law, long-sought by Israel's far-right politicians, makes death by hanging the default punishment for West Bank Palestinians convicted of killing Israelis.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-31/israel-passes-death-penalty-sentence-nationalist-killings/106514372"
+      "description": "Donald Trump renews threats against Iran's energy infrastructure while his secretary of war faces an apparent rebuke from the pope.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-31/iran-israel-war-daily-news-briefing/106502924"
     },
     {
       "published_datetime": "2026-03-30T18:49:51.000000Z",
-      "title": "Police killer Dezi Freeman may be dead but many questions still remain",
+      "title": "From Porepunkah to Thologolong: The long search for Dezi Freeman",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1fea1917abf241619e3abcd51d156a8?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=206&amp;width=862&amp;height=485"
       },
@@ -37,17 +46,8 @@
       "page_content_url": "https://www.abc.net.au/news/2026-03-31/simon-kadwills-identity-was-stolen-by-gary-felton-to-run-a-cult/106350742"
     },
     {
-      "published_datetime": "2026-03-30T18:43:24.000000Z",
-      "title": "Transphobia nearly killed Kaz. Now he just wants to be 'me'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/63b7caa9412c694119a97dc652f1efd8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=469&amp;width=862&amp;height=485"
-      },
-      "description": "This WA teenager was depressed, ill, and missing out on school. He says it was part of the toll transphobia took on him.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-31/coming-out-as-trans-in-wa-reflecting-on-trans-day-of-visibility/106254518"
-    },
-    {
       "published_datetime": "2026-03-30T18:39:16.000000Z",
-      "title": "Worst case government modelling shows how long fuel stockpile lasts if imports slow",
+      "title": "Worst-case government modelling shows how long fuel stockpile lasts if imports slow",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f737d115f4bcc1e401792bd032adfe32?impolicy=wcms_crop_resize&amp;cropH=2880&amp;cropW=5120&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -98,11 +98,11 @@
     },
     {
       "published_datetime": "2026-03-30T18:00:00.000000Z",
-      "title": "China and Iran's oil corridor signals a new global divide",
+      "title": "Iran's 'safe passage' signals a new global divide",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e622d2d3eae4b73d31c4ae663d178217?impolicy=wcms_crop_resize&amp;cropH=1416&amp;cropW=2517&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "China is now the world's largest crude oil importer, and Iran \u2014 though a discounted and often opaque supplier \u2014 remains a consistent part of that supply mix.\u00a0",
+      "description": "China is now the world's largest crude oil importer, and Iran \u2014 though a discounted and often opaque supplier \u2014 remains a consistent part of that supply mix. \u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-03-31/strait-of-hormuz-iran-russia-india-china-oil-trade/106510800"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-30T19:49:42.087414"
+  "merged_at": "2026-03-30T20:36:01.109305"
 }
