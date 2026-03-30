@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-30T07:41:51.000000Z",
+      "title": "Economists warn fuel price cut likely to come with 'sting in the tail'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18147d3c900fa185bc2622decdbcea5b?impolicy=wcms_crop_resize&amp;cropH=1447&amp;cropW=2573&amp;xPos=0&amp;yPos=135&amp;width=862&amp;height=485"
+      },
+      "description": "Australians will pay about 26.3 cents less on every litre of fuel they buy for three months, but some economists warn it could ultimately leave Australians worse off.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-30/economists-warn-fuel-excise-cut-impacts-economy/106511336"
+    },
+    {
+      "published_datetime": "2026-03-30T07:10:58.000000Z",
+      "title": "Banned Xerri reveals Essendon abuse leading to blood-wiping incident",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/666bcda4d8a55cde8d1ee198f8ce47b7?impolicy=wcms_crop_resize&amp;cropH=1864&amp;cropW=3313&amp;xPos=0&amp;yPos=54&amp;width=862&amp;height=485"
+      },
+      "description": "Kangaroos ruckman Tristan Xerri gives evidence at the AFL tribunal as he accepts a suspension for rubbing blood from his nose on the face of Essendon captain Andrew McGrath.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-30/afl-tristan-xerri-suspended-andrew-mcgrath-blood-tribunal/106513512"
+    },
+    {
+      "published_datetime": "2026-03-30T06:46:27.000000Z",
+      "title": "From 'AI factory' to laid off: Former PwC staffer issues warning",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0bfc4e39c7f0d398b3fb6b47189d343a?impolicy=wcms_crop_resize&amp;cropH=1300&amp;cropW=2310&amp;xPos=25&amp;yPos=165&amp;width=862&amp;height=485"
+      },
+      "description": "Tasked with training AI systems to perform jobs traditionally done by humans, former PwC employee Donald King says he faced a moral dilemma.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-30/ai-jobs-cuts-companies-losses-agents-replacement-humans/106491600"
+    },
+    {
+      "published_datetime": "2026-03-30T06:45:32.000000Z",
+      "title": "No clear evidence ANU's course and job cuts were needed, draft report finds",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/752202dc94188f64ae0fd50e5543ba49?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=365&amp;width=862&amp;height=485"
+      },
+      "description": "ANU's council approved a massive $250 million cost-cutting program without clear evidence it was needed or achievable, according to an assessment in a draft audit office report.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-30/anu-cost-cutting-national-audit-office-review-four-corners/106501952"
+    },
+    {
+      "published_datetime": "2026-03-30T06:18:17.000000Z",
+      "title": "Albanese wants Trump to recognise damage Iran war has caused",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f737d115f4bcc1e401792bd032adfe32?impolicy=wcms_crop_resize&amp;cropH=2880&amp;cropW=5120&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Anthony Albanese wants \"more certainty\" from the United States on its war objectives in Iran and says the administration must be clear if it is still pursuing regime change.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-30/albanese-calls-for-certainty-on-us-objectives-in-iran-war/106513202"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5f17c3f4-a9ff-4d0e-9332-c033c5eab0a4",
       "published_datetime": "2026-03-30T05:51:06.390252",
       "title": "US stock futures slide as Iran war enters fifth week",
@@ -29,24 +74,6 @@
       "audio_url": "",
       "url": "trump-claims-progress-on-iran-4rH3QQT6RJuW0W7di7ij7A",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-03-30T05:02:51.000000Z",
-      "title": "Townsville mother found not guilty of manslaughter over drowning of two sons",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fbae667efc446c3cbbfae857dfb8bbf0?impolicy=wcms_crop_resize&amp;cropH=960&amp;cropW=1707&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Townsville mother Leeanne Eatts has been found not guilty of the manslaughter of her two sons who drowned in the Ross River in February 2019.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-30/leeanne-eatts-manslaughter-verdict-townsville-court/106512236"
-    },
-    {
-      "published_datetime": "2026-03-30T04:54:58.000000Z",
-      "title": "Mining company found guilty over worker's 2021 death",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/80182d646a1e1a98d37890df8ca1c6b5?impolicy=wcms_crop_resize&amp;cropH=986&amp;cropW=1752&amp;xPos=0&amp;yPos=317&amp;width=862&amp;height=485"
-      },
-      "description": "A Queensland mining company has been found guilty of industrial manslaughter over the death of a worker at a central Queensland mine site.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-30/mastermyne-crinum-operations-found-guilty-2021-worker-death/106492296"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3d1d4828-a9b1-4749-be06-00f7a8381f7a",
@@ -101,15 +128,6 @@
       "audio_url": "",
       "url": "oil-tops-100-as-houthis-join-i-xByURZj3RHieOEGYUE0I2Q",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-03-30T02:57:06.000000Z",
-      "title": "Trump has 'no problem' with Russian oil shipment to Cuba",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/323ea03a134efb3843715427dd9f168a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=113&amp;width=862&amp;height=485"
-      },
-      "description": "President Donald Trump has said he has \"no problem\" with a Russian oil tanker off the coast of Cuba delivering relief to the island, which has been brought to its knees by a US oil blockade.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-30/trump-says-he-has-no-problem-with-russian-oil-tanker-at-cuba/106511328"
     },
     {
       "published_datetime": "2026-03-30T02:51:31.000000Z",
@@ -214,24 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-03-29T20:25:23.000000Z",
-      "title": "Live: ASX down 0.8pc to follow Wall Street, oil up sharply as Houthis enter war",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/11c8ebd886e21a09ab773da9d1026e8a?impolicy=wcms_crop_resize&amp;cropH=472&amp;cropW=840&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The ASX 200 has recovered some of its earlier losses to be down by just 0.8 per cent in Monday trade after investors dumped banks and tech stocks in the wake of Wall Street losses on Friday night. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-30/asx-markets-business-news-live-updates/106509200"
-    },
-    {
-      "published_datetime": "2026-03-29T20:00:21.000000Z",
-      "title": "Live: Chalmers writes to ACCC to ensure fuel retailers pass on excise cut",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a407efd3e7bea0c1fbfee7efa6c21dfb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Treasurer Jim Chalmers says the cost of halving the fuel excise will be $2.55 billion. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-30/federal-politics-live-blog-albanese-fuel-national-cabinet/106509730"
-    },
-    {
       "published_datetime": "2026-03-29T19:55:30.000000Z",
       "title": "Live: Trump wants to 'take the oil' in Iran, as PM urges service stations to 'do the right thing'",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-30T06:25:08.955633"
+  "merged_at": "2026-03-30T08:17:19.779113"
 }
