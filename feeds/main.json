@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2760f371-56a2-405a-a449-641d8811401a",
+      "published_datetime": "2026-03-30T08:41:50.328548",
+      "title": "Gold holds near $4,490 as surging oil kills Fed rate cut hopes",
+      "featured_image": {
+        "url": "https://finance.yahoo.com/news/gold-futures-in-new-york-whipsaw-as-tariff-confusion-sweeps-precious-metal-market-185006850.html",
+        "name": "Gold futures in New York whipsaw as tariff confusion sweeps precious metal  market",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--HSBL0w2w--/t_limit/https://s.yimg.com/ny/api/res/1.2/H4PdLZ9wpFmXrHApdOLKkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMzkw/https://s.yimg.com/os/creatr-uploaded-images/2025-08/8316ef90-7466-11f0-af63-03b158225e1d",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--F4yeIC_---/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/H4PdLZ9wpFmXrHApdOLKkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMzkw/https://s.yimg.com/os/creatr-uploaded-images/2025-08/8316ef90-7466-11f0-af63-03b158225e1d"
+      },
+      "description": "Gold prices held steady near $4,490 per ounce as the final week of March drew to a close, with the precious metal caught between safe-haven demand from the escalating Middle East conflict and downward pressure from surging oil prices that have all but extinguished hopes for Federal Reserve rate cuts this year.[1][2]",
+      "audio_url": "",
+      "url": "gold-holds-near-4490-as-surgin-N.DtA7.0RmmXunMS1TXpQw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-03-30T08:25:12.000000Z",
       "title": "What Australia could learn from the G7's fuel crisis measures",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/39b7aa9c-c0a7-4d31-9cc7-f0bd547a603b",
-      "published_datetime": "2026-03-29T21:31:14.213568",
-      "title": "Iran vows permanent overhaul of Strait of Hormuz rules",
-      "featured_image": {
-        "url": "https://www.newarab.com/news/twenty-countries-pledge-secure-strait-hormuz",
-        "name": "Twenty countries pledge to secure Strait of Hormuz",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--oGxZh3p1--/t_limit/https://www.newarab.com/sites/default/files/2266152789.jpeg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--GkEmNgMw--/t_thumbnail/https://www.newarab.com/sites/default/files/2266152789.jpeg"
-      },
-      "description": "Iran is tightening its grip over the Strait of Hormuz while selectively opening the waterway to allied nations, a strategy that is reshaping one of the world's most vital shipping corridors as the US-Israeli war with Tehran enters its fifth week.",
-      "audio_url": "",
-      "url": "iran-vows-permanent-overhaul-o-Cd1eKHUVTDutRiLLqbK3yg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-30T10:07:55.695176"
+  "merged_at": "2026-03-30T11:49:26.339117"
 }
