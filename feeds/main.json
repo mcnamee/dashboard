@@ -115,6 +115,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-03-30T19:51:41.000000Z",
+      "title": "Live: Spain closes airspace to US planes involved in Middle East war",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8bd337a86ff9c2d1a438b567eef0c5f3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=184&amp;width=862&amp;height=485"
+      },
+      "description": "White House press secretary Karoline Leavitt says US President Donald Trump is interested in getting Arab countries to pay for the war in the Middle East. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-03-31/iran-war-live-updates-us-kharg-island-fuel-excise-petrol/106514216"
+    },
+    {
       "published_datetime": "2026-03-30T19:31:35.000000Z",
       "title": "Petrol stations tried to 'shape' the market \u2013 now it's shaping them",
       "featured_image": {
@@ -175,7 +184,7 @@
       "published_datetime": "2026-03-30T18:45:12.000000Z",
       "title": "How one man's stolen identity was used to run a cult",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4ff1e5059a58f3a26927f1e4cf150cca?impolicy=wcms_crop_resize&amp;cropH=646&amp;cropW=1148&amp;xPos=0&amp;yPos=31&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4ff1e5059a58f3a26927f1e4cf150cca?impolicy=wcms_crop_resize&amp;cropH=566&amp;cropW=1006&amp;xPos=17&amp;yPos=40&amp;width=862&amp;height=485"
       },
       "description": "In mid-2009 British citizen Simon Kadwill-Kelly was catching a ferry returning from France. Within minutes of trying to board he found out his identity had been stolen.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-31/simon-kadwills-identity-was-stolen-by-gary-felton-to-run-a-cult/106350742"
@@ -184,14 +193,14 @@
       "published_datetime": "2026-03-30T18:43:24.000000Z",
       "title": "Transphobia nearly killed Kaz. Now he just wants to be 'me'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/63b7caa9412c694119a97dc652f1efd8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=469&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/63b7caa9412c694119a97dc652f1efd8?impolicy=wcms_crop_resize&amp;cropH=2374&amp;cropW=4220&amp;xPos=780&amp;yPos=627&amp;width=862&amp;height=485"
       },
-      "description": "This WA teenager was depressed, ill, and missing out on school. He says it was part of the toll transphobia took on him.",
+      "description": "This WA teenager was depressed, ill and missing out on school. He says it was part of the toll transphobia took on him.",
       "page_content_url": "https://www.abc.net.au/news/2026-03-31/coming-out-as-trans-in-wa-reflecting-on-trans-day-of-visibility/106254518"
     },
     {
       "published_datetime": "2026-03-30T18:39:16.000000Z",
-      "title": "Worst-case government modelling shows how long fuel stockpile lasts if imports slow",
+      "title": "Early government modelling shows how long fuel stockpile lasts if imports slow",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f737d115f4bcc1e401792bd032adfe32?impolicy=wcms_crop_resize&amp;cropH=2880&amp;cropW=5120&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -200,7 +209,7 @@
     },
     {
       "published_datetime": "2026-03-30T18:36:13.000000Z",
-      "title": "Insiders profit as pressure points mount on global economy",
+      "title": "A minute before Trump's wild Iran claim, oil traders made 'abnormal' moves",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6f8010f90113d432cdd7274854a2b72?impolicy=wcms_crop_resize&amp;cropH=1041&amp;cropW=1851&amp;xPos=0&amp;yPos=61&amp;width=862&amp;height=485"
       },
@@ -221,15 +230,6 @@
       "audio_url": "",
       "url": "trump-confirms-us-is-negotiati-_jcDh2c3Rzex2S0hmHvfdA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-03-30T18:16:18.000000Z",
-      "title": "Trump threatens to 'obliterate' Kharg Island if Iran refuses deal to end war",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1238d84006e28a9b552ac0dde7bdb442?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
-      },
-      "description": "As thousands more US troops arrive in the Middle East, Donald Trump threatens to wipe out Iran's energy plants and oil wells if it does not reopen the Strait of Hormuz.",
-      "page_content_url": "https://www.abc.net.au/news/2026-03-31/iran-us-donald-trump-kharg-island-oil-energy-obliterate/106514068"
     },
     {
       "published_datetime": "2026-03-30T18:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-30T21:50:33.953995"
+  "merged_at": "2026-03-30T22:26:06.552284"
 }
