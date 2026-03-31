@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/05a39d44-4d05-434b-87a1-dfecd9c4bb24",
+      "published_datetime": "2026-03-31T11:37:54.404955",
+      "title": "Global banks turn to Chinese stocks as Iran war roils markets",
+      "featured_image": {
+        "url": "https://www.globaltimes.cn/page/202504/1331830.shtml",
+        "name": "Chinese stock market rallying on Thursday with Shanghai ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--k55Sj5X5--/t_limit/https://www.globaltimes.cn/Portals/0/attachment/2024/2024-12-12/c2d900b7-e4b1-4262-bebf-0538fc096cb8.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--MwwulCKZ--/t_thumbnail/https://www.globaltimes.cn/Portals/0/attachment/2024/2024-12-12/c2d900b7-e4b1-4262-bebf-0538fc096cb8.jpeg"
+      },
+      "description": "As the month-long U.S.-Israeli military campaign against Iran roils global markets and sends oil prices soaring, Chinese equities \u2014 and the country's dominant renewable energy sector in particular \u2014 have emerged as a rare bright spot for investors seeking refuge from the turmoil.",
+      "audio_url": "",
+      "url": "global-banks-turn-to-chinese-s-PFqK_jkLTS6qK9HeNHLi9g",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/41abc056-0fd0-4dfd-b5c9-4b7c136e085f",
       "published_datetime": "2026-03-31T07:59:28.341028",
       "title": "Australia, Indonesia probe tech giants over under-16 bans",
@@ -136,21 +151,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cdf32a9a-578c-4351-86db-8c5a104f1cbf",
-      "published_datetime": "2026-03-31T00:02:29.742934",
-      "title": "Iran's parliament approves plan to toll ships in Strait of Hormuz",
-      "featured_image": {
-        "url": "https://abcnews.com/International/trump-extends-deadline-2nd-time-iran-open-strait/story?id=131431039",
-        "name": "Trump extends deadline 2nd time for Iran to open the Strait of ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--eAt7NXkx--/t_limit/https://i.abcnewsfe.com/a/6daf2a90-a7f0-4ac2-b344-2ace4dee2053/oil-tanker-rt-jt-260314_1773503739436_hpMain_16x9.jpg%3Fw%3D1600",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--juagzW4B--/t_thumbnail/https://i.abcnewsfe.com/a/6daf2a90-a7f0-4ac2-b344-2ace4dee2053/oil-tanker-rt-jt-260314_1773503739436_hpMain_16x9.jpg%3Fw%3D1600"
-      },
-      "description": "Iran's parliamentary security commission on Monday approved a plan to impose tolls on vessels transiting the Strait of Hormuz, formalizing a fee system that has been operating on an ad hoc basis since the outbreak of war in late February and setting up a likely flashpoint in ongoing peace negotiations with the United States.",
-      "audio_url": "",
-      "url": "iran-s-parliament-approves-pla-iRIDucx.SSST14RHmLwLNQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -218,5 +218,5 @@
   "abc_items": 0,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-31T12:55:47.734698"
+  "merged_at": "2026-03-31T14:24:05.349464"
 }
