@@ -40,6 +40,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-03-31T20:09:09.000000Z",
+      "title": "One of Australia's biggest 'giveaway' clubs has its licence cancelled",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/19853877a4006dc67d93fb3483a101d6?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=135&amp;width=862&amp;height=485"
+      },
+      "description": "RS Rewards claims to have given away more than $10 million worth of cars, houses and cash. But its licence has just been cancelled.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-01/rs-rewards-giveaway-club-loses-licence/106510494"
+    },
+    {
       "published_datetime": "2026-03-31T20:07:33.000000Z",
       "title": "Mine may be shut down amid money laundering allegations, bikie claims",
       "featured_image": {
@@ -47,15 +56,6 @@
       },
       "description": "The Tasmanian government has taken steps to revoke the operating licence of one of the state's biggest mining operations, after being warned it was allegedly used as a \"vehicle for money laundering\" and former owners were associated with underworld figures.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-01/tas-hellyer-mine-bikie-links-and-troubles/106464982"
-    },
-    {
-      "published_datetime": "2026-03-31T20:05:13.000000Z",
-      "title": "Less than half of states signed up as national gun reform deadline passes",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ab312f279a31b071af4efd943fd0e84?impolicy=wcms_crop_resize&amp;cropH=1484&amp;cropW=2639&amp;xPos=0&amp;yPos=136&amp;width=862&amp;height=485"
-      },
-      "description": "The federal government's March deadline for national gun reform has come and gone, with more than half the states and territories still opposed to parts of the plan. Only four have committed to a gun buyback scheme.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-01/government-deadline-for-gun-reform-passes-gun-buyback/106516422"
     },
     {
       "published_datetime": "2026-03-31T19:52:59.000000Z",
@@ -105,7 +105,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/beb7304bfe6cacdb6e62a44eb88b458f?impolicy=wcms_crop_resize&amp;cropH=3211&amp;cropW=5709&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
       },
-      "description": "The government is urging people to carry on as normal despite fuel shortages, because it knows that panic will make matters worse. But it may need to consider more drastic economic intervention.",
+      "description": "The government is urging people to carry on as normal, despite fuel shortages, because it knows that panic will make matters worse. But it may need to consider more drastic economic intervention.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-01/recession-could-happen-without-fuel-shortage/106511610"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-31T21:48:56.220677"
+  "merged_at": "2026-03-31T22:26:30.697539"
 }
