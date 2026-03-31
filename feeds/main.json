@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "published_datetime": "2026-03-31T20:14:14.000000Z",
+      "title": "Live: Motorists may not see cheaper fuel for days or weeks",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e7c339ea0ae8aa394d89f93c55a3c4ec?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=344&amp;width=862&amp;height=485"
+      },
+      "description": "Labor says it may take a couple of days, or even weeks if for those living in regions where fuel stocks are not turned over quickly, for the savings from the fuel excise cut to flow through. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-01/federal-politics-live-blog-fuel-iran-albanese-labor-taylor/106518176"
+    },
+    {
+      "published_datetime": "2026-03-31T20:05:13.000000Z",
+      "title": "Less than half of states signed up as national gun reform deadline passes",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ab312f279a31b071af4efd943fd0e84?impolicy=wcms_crop_resize&amp;cropH=1484&amp;cropW=2639&amp;xPos=0&amp;yPos=136&amp;width=862&amp;height=485"
+      },
+      "description": "The federal government's March deadline for national gun reform has come and gone, with more than half the states and territories still opposed to parts of the plan. Only four have committed to a gun buyback scheme.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-01/government-deadline-for-gun-reform-passes-gun-buyback/106516422"
+    },
+    {
+      "published_datetime": "2026-03-31T19:52:59.000000Z",
+      "title": "Iran sets 24-hour deadline on missile threat. Here's what you should know this morning",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8baa5a7b584dd85104e8b5e6771e0f6?impolicy=wcms_crop_resize&amp;cropH=2336&amp;cropW=4153&amp;xPos=0&amp;yPos=219&amp;width=862&amp;height=485"
+      },
+      "description": "US companies including Microsoft, Google and Apple could be targeted, while Donald Trump urges the world to buy American fuel.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-01/iran-israel-war-daily-news-briefing/106502926"
+    },
+    {
+      "published_datetime": "2026-03-31T19:45:22.000000Z",
+      "title": "Live: Iranian president says Tehran willing to end war but needs guarantees",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7e2d1b29f0914d3df38e94e7da8f8049?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Iran has the \"necessary will\" to end the war with the United States and Israel, Iranian President Masoud Pezeshkian says, stressing that Tehran is seeking guarantees the conflict will not flare up again.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-01/iran-war-live-updates-us-israel-australia-petrol-oil/106518848"
+    },
+    {
+      "published_datetime": "2026-03-31T19:10:35.000000Z",
+      "title": "'We'll see more deaths': Experts warn about vaccine decline",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85dbd4070c2ca204e5a65bc0dcfe1adb?impolicy=wcms_crop_resize&amp;cropH=1375&amp;cropW=2445&amp;xPos=0&amp;yPos=127&amp;width=862&amp;height=485"
+      },
+      "description": "The latest immunisation data shows more than 80,000 Australian children aged five and under are not fully up to date with their vaccinations.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-01/australian-kids-fall-behind-in-vaccinations/106515032"
+    },
+    {
+      "published_datetime": "2026-03-31T18:49:14.000000Z",
+      "title": "A recession could happen even without a fuel shortage. Here's how",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/beb7304bfe6cacdb6e62a44eb88b458f?impolicy=wcms_crop_resize&amp;cropH=3211&amp;cropW=5709&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
+      },
+      "description": "The government is urging people to carry on as normal despite fuel shortages, because it knows that panic will make matters worse. But it may need to consider more drastic economic intervention.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-01/recession-could-happen-without-fuel-shortage/106511610"
+    },
+    {
+      "published_datetime": "2026-03-31T18:47:37.000000Z",
+      "title": "Public should not expect clear trigger for fuel rationing",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/758892741dbc5b876b38426487cf6569?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The federal government is not expected to publicly nominate a clear trigger point for fuel rationing, despite internal modelling outlining potential thresholds.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-01/public-should-not-expect-clear-trigger-for-fuel-rationing/106513970"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/21becb41-a0bd-4725-9504-9d5a151f0d01",
       "published_datetime": "2026-03-31T18:41:11.659724",
       "title": "France denies blocking US military overflights after Trump threatens 'USA will remember'",
@@ -14,6 +77,15 @@
       "audio_url": "",
       "url": "france-denies-blocking-us-mili-mwgdWxRlR2mT4lC7jmxrFw",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-03-31T18:20:37.000000Z",
+      "title": "Two shootings, 150km apart: Dezi Freeman's final destination mystifies locals",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e80084fa66bc9419c48ba27fa922e8b?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The fugitive resurfaced more than 150 kilometres away from the town where he shot and killed two police officers seven months ago. Mystified locals are questioning how.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-01/dezi-freeman-locals-react-fugitive-police-shooting/106517746"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5e062e3a-0d47-41e5-9b9c-8de3443e3e20",
@@ -59,6 +131,24 @@
       "audio_url": "",
       "url": "king-charles-confirms-first-us-6f4iBmM5S5uEn.6XFjZhxg",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-03-31T16:42:58.000000Z",
+      "title": "Trump tells allies 'go get your own oil' from Strait of Hormuz",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/47bea9d4402d911c4cf20c483b2546bb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=95&amp;width=862&amp;height=485"
+      },
+      "description": "The US president again attacks America's allies over their reluctance to get involved in the Iran war, warning them the \"US won't be there to help you anymore, just like you weren't there for us\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-01/trump-anger-at-allies-as-hegseth-visits-mideast/106519152"
+    },
+    {
+      "published_datetime": "2026-03-31T15:50:05.000000Z",
+      "title": "Trump tells UK to 'fight for yourself' as king confirms state visit",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28cfbc2c74d5ea1cfea750e0607d8761?impolicy=wcms_crop_resize&amp;cropH=2668&amp;cropW=4743&amp;xPos=0&amp;yPos=64&amp;width=862&amp;height=485"
+      },
+      "description": "US President Donald Trump lashed out at the UK just before the visit was confirmed as France, Spain and Italy restrict airspace to US war planes.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-01/king-confirms-usstate-visit-/106518932"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4c58e0b9-015b-4687-8b2b-c7ba4b4513c3",
@@ -214,9 +304,9 @@
       "page_content_url": "https://drydenwire.com/news/morning-headlines-tuesday-dec-30-2025/"
     }
   ],
-  "total_items": 17,
-  "abc_items": 0,
+  "total_items": 27,
+  "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-03-31T19:49:44.657833"
+  "merged_at": "2026-03-31T20:34:50.199053"
 }
