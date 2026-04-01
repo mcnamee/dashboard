@@ -37,6 +37,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-02/permanent-migrants-skills-wasted-in-australia-martin-parkinson/106519816"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0812eb67-81ac-4bc6-a073-e2ec2a746891",
+      "published_datetime": "2026-04-01T19:13:20.033628",
+      "title": "Italy recovers 19 bodies from migrant boat near Lampedusa",
+      "featured_image": {
+        "url": "https://english.aawsat.com/world/5257684-19-migrants-found-dead-italian-coastguard-lampedusa",
+        "name": "19 Migrants Found Dead by Italian Coastguard off Lampedusa",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ShEWjWpA--/t_limit/https://static.srpcdigital.com/styles/1200x600/public/2026-04/1468884_0.jpeg.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--O6jW-eeX--/t_thumbnail/https://static.srpcdigital.com/styles/1200x600/public/2026-04/1468884_0.jpeg.webp"
+      },
+      "description": "Italy's coast guard recovered the bodies of 19 migrants and rescued 58 survivors from a dinghy that broke down while attempting to cross the central Mediterranean from Libya, officials said on Wednesday. The vessel was intercepted on Tuesday night roughly 80 nautical miles south of the island of Lampedusa amid rough weather conditions.[1][2][3]",
+      "audio_url": "",
+      "url": "italy-recovers-19-bodies-from-9J4ADDyfS0asckBNhAKqRw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-01T19:13:05.000000Z",
       "title": "US burning through years' worth of critical weapons stockpiles in Iran",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dcbffcf8-0b5d-484f-9a39-4d2e5661262c",
-      "published_datetime": "2026-04-01T16:29:57.994194",
-      "title": "UAE prepares to join coalition to reopen Strait of Hormuz by force",
-      "featured_image": {
-        "url": "https://theukrainianreview.info/uae-ready-to-join-mission-to-reopen-shipping-through-the-strait-of-hormuz/",
-        "name": "UAE to deploy naval forces to secure Strait of Hormuz",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--yq6BvLH7--/t_limit/https://theukrainianreview.info/wp-content/uploads/2026/03/ormuzka-protoka.jpg.webp",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--b-QiAPRf--/t_thumbnail/https://theukrainianreview.info/wp-content/uploads/2026/03/ormuzka-protoka.jpg.webp"
-      },
-      "description": "A growing coalition of nations led by Britain and France is racing to organize a multinational mission to reopen the Strait of Hormuz, the critical shipping lane that Iran has effectively shut down since the start of the US-Israeli war on Iran in late February. The effort has now drawn more than 30 countries into military planning talks, even as deep divisions over the broader war strategy were laid bare at a G7 foreign ministers meeting in France last week.",
-      "audio_url": "",
-      "url": "uae-prepares-to-join-coalition-twU._PtqSu23UHCh5LQDXg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-01T20:36:01.416827"
+  "merged_at": "2026-04-01T20:54:02.406566"
 }
