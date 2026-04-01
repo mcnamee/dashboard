@@ -1,26 +1,35 @@
 {
   "items": [
     {
-      "published_datetime": "2026-04-01T19:53:22.000000Z",
-      "title": "The movement on the rise that police believe aided fugitive Dezi Freeman",
+      "published_datetime": "2026-04-01T20:49:33.000000Z",
+      "title": "Live: NASA's Artemis II mission to the Moon set to launch within the hour",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3d064353f0eb5da2d64c3c0d636bf8b5?impolicy=wcms_crop_resize&amp;cropH=678&amp;cropW=1206&amp;xPos=0&amp;yPos=609&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/09342c160ec7242935359a52930fa4ea?impolicy=wcms_crop_resize&amp;cropH=1908&amp;cropW=3392&amp;xPos=537&amp;yPos=834&amp;width=862&amp;height=485"
       },
-      "description": "As detectives investigate whether the sovereign citizen community helped harbour police killer Dezi Freeman, researchers say the anti-government movement appears to be surging in regional Australia.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-02/sovereign-citizens-in-the-spotlight-dezi-freeman-shooting/106520988"
+      "description": "Four astronauts are on board the Orion capsule atop NASA's next-generation SLS rocket as humanity prepares to return to the Moon for the first time since 1972. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-02/artemis-ii-launch-abc-live-blog-moon-mission/106513102"
+    },
+    {
+      "published_datetime": "2026-04-01T20:15:23.000000Z",
+      "title": "Government to wave 'big stick' at gas exporters to shore up winter supply",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/effad7763638bb562e1eb3919574e6f2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "It is the first time the government has taken a step towards using the powers it has to limit exports, and it comes at a time when the profits from those exports appear set to surge.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-02/government-to-wave-big-stick-at-gas-exporters/106524288"
     },
     {
       "published_datetime": "2026-04-01T19:41:53.000000Z",
-      "title": "Iran briefing: Trump says Iran's 'new president' asked for truce but there isn't one",
+      "title": "Iran briefing: Regardless of what Trump says today, keep an eye on Netanyahu",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8baa5a7b584dd85104e8b5e6771e0f6?impolicy=wcms_crop_resize&amp;cropH=2336&amp;cropW=4153&amp;xPos=0&amp;yPos=219&amp;width=862&amp;height=485"
       },
-      "description": "The ABC's Middle East correspondent, Matthew Doran, is in Jerusalem and providing daily updates on the Middle East war.\u00a0",
+      "description": "Israel sends a reminder that this war is broader than Donald Trump. Plus, confusion around an alleged truce offer from Iran's \"new president\".",
       "page_content_url": "https://www.abc.net.au/news/2026-04-02/iran-israel-war-daily-news-briefing/106502928"
     },
     {
       "published_datetime": "2026-04-01T19:39:35.000000Z",
-      "title": "Live: Trump threatens to pull out of NATO, Australia to join talks on Strait of Hormuz reopening",
+      "title": "Live: Trump threatens to pull out of NATO, Australia to join talks on reopening Strait of Hormuz",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6627888dbbf1f9bbf86607d9f57bad7c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=176&amp;width=862&amp;height=485"
       },
@@ -77,15 +86,6 @@
       },
       "description": "A One Nation candidate in the South Australian election was accused of domestic abuse, bullying and harassment, while another made racist, antisemitic and homophobic social media posts, raising fresh questions about the party's vetting processes as it surges in popularity.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-02/fresh-questions-over-one-nation-candidate-vetting-processes/106517960"
-    },
-    {
-      "published_datetime": "2026-04-01T18:58:19.000000Z",
-      "title": "Next generation heads for the Moon",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6641799b2287b624ac7ce0ca169b4a26?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=63&amp;width=862&amp;height=485"
-      },
-      "description": "If all goes well for NASA's Artemis II mission, the astronauts aboard could fly the furthest that humans have ever gone. What should we be looking out for?",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-02/the-artemis-ii-mission-to-the-moon/106300532"
     },
     {
       "published_datetime": "2026-04-01T18:57:50.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-01T20:54:02.406566"
+  "merged_at": "2026-04-01T21:34:09.607078"
 }
