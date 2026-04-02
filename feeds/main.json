@@ -28,6 +28,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-02/anthony-albanese-national-address-press-club-angus-taylor-car/106510742"
     },
     {
+      "published_datetime": "2026-04-02T05:32:33.000000Z",
+      "title": "Trump's speech was significant for what he did not say",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/13b131a5d9ff801684991bae662d8beb?impolicy=wcms_crop_resize&amp;cropH=691&amp;cropW=1229&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
+      },
+      "description": "The US president's national address was largely a cobble-together of past talking points and Truth Social posts. Perhaps the most notable takeaways relate to what went unmentioned.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-02/donald-trump-addresses-nation-on-iran-war-analysis/106524864"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/011a3ee4-2dc4-4bda-ae58-5587abe1682c",
       "published_datetime": "2026-04-02T05:30:03.750761",
       "title": "NASA's Artemis II crew orbits Earth after historic moonshot launch",
@@ -67,17 +76,8 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-02/covid-vaccine-injury-victims-health-deteriorating-compensation/106512348"
     },
     {
-      "published_datetime": "2026-04-02T04:43:05.000000Z",
-      "title": "New pact affirms NZ as Pacific nation's partner of choice after spat over China",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e314f8eb8b508a7d45b42cd5ff3be4b3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=258&amp;width=862&amp;height=485"
-      },
-      "description": "New Zealand and the Cook Islands have mended their relationship with a pact that restores funding to the Pacific island nation.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-02/new-zealand-and-cook-islands-security-declaration-ends-dispute/106525810"
-    },
-    {
       "published_datetime": "2026-04-02T03:20:16.000000Z",
-      "title": "'Worth the risk': Aussies ignore travel warnings to keep flying via Middle East",
+      "title": "Travellers 'take the plunge' with cheap flights via Middle East despite warnings",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d975b4a9f3f38a8c1cdec91e236c465f?impolicy=wcms_crop_resize&amp;cropH=485&amp;cropW=862&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -107,6 +107,15 @@
       },
       "description": "Gambling ads to be partially restricted on television and radio, with opt-out rules for online promotions and a ban in stadiums and on jerseys under reforms unveiled by Labor.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-02/anthony-albanese-gambling-reform-national-press-club/106525548"
+    },
+    {
+      "published_datetime": "2026-04-02T02:52:40.000000Z",
+      "title": "In pictures: Artemis II NASA's first mission to the Moon in decades",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/58bb5fcb9b392d8842f2ddfcfa0ca304?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=55&amp;width=862&amp;height=485"
+      },
+      "description": "For the first time in more than 50 years NASA has sent astronauts around the Moon, marking a major milestone in a new era of space exploration.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-02/in-pictures-artemis-ii-launch-nasa-mission-to-the-moon/106524886"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b39a1485-1ee7-430b-8d43-488b2c95d7c9",
@@ -232,15 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-02/the-artemis-ii-mission-to-the-moon/106300532"
     },
     {
-      "published_datetime": "2026-04-01T05:14:44.000000Z",
-      "title": "Track the latest petrol and diesel prices around Australia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/92ba505806b533eefd2afb0b8b433396?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=79&amp;yPos=93&amp;width=862&amp;height=485"
-      },
-      "description": "See what's happening with petrol and diesel prices near you, updated constantly.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-01/petrol-diesel-price-tracker/106513484"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-02T07:59:47.718346"
+  "merged_at": "2026-04-02T09:01:23.823973"
 }
