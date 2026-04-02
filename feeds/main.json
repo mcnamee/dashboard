@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "published_datetime": "2026-04-02T20:22:28.000000Z",
-      "title": "Police release body cam footage showing Tiger Woods stunned over arrest",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2117c3f169bf131da5a180e1ca4ebb30?impolicy=wcms_crop_resize&amp;cropH=1392&amp;cropW=2474&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Body camera footage shows Tiger Woods expressing astonishment as he was handcuffed after crashing his SUV last week in Florida.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-03/tiger-woods-police-body-cam-footage-released-car-crash-florida/106529526"
-    },
-    {
       "published_datetime": "2026-04-02T19:56:25.000000Z",
       "title": "'Evil': Dezi Freeman's sister speaks about her killer brother",
       "featured_image": {
@@ -31,7 +22,7 @@
       "published_datetime": "2026-04-02T19:46:37.000000Z",
       "title": "Live: US, Israel step up strikes as coalition of 40 countries demand Iran reopen Strait",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fa7735af9b75a39f699c36ca02a76b03?impolicy=wcms_crop_resize&amp;cropH=2732&amp;cropW=4856&amp;xPos=0&amp;yPos=330&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a2fb160615ea8c5416f1e45279ea6797?impolicy=wcms_crop_resize&amp;cropH=686&amp;cropW=1220&amp;xPos=0&amp;yPos=16&amp;width=862&amp;height=485"
       },
       "description": "US President Donald Trump shares a video of what he says is the biggest bridge in Iran being taken down in a strike, and urges Iran to make a deal \"before it is too late\". Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-03/iran-war-live-updates-us-trump-israel-australia/106529076"
@@ -61,6 +52,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-03/australian-business-venture-asia-markets-culture-differences/106492642"
     },
     {
+      "published_datetime": "2026-04-02T19:11:05.000000Z",
+      "title": "How Asia's air travel crisis could be 'canary in the coal mine for Australia'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c9a14e38d057ca88ed7e774da325cac8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+      },
+      "description": "Australia imports most of its jet fuel from Asia, particularly China, Singapore and South Korea. But those countries rely on the Middle East for crude oil, meaning they are particularly vulnerable to the impacts of war.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-03/asian-fuel-suppliers-restricting-exports-australia/106521808"
+    },
+    {
       "published_datetime": "2026-04-02T19:03:03.000000Z",
       "title": "'Everything's dead': How the fuel crisis is hitting small-town Australia",
       "featured_image": {
@@ -88,6 +88,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-03/donald-trump-warns-iran-as-more-us-assets-stream-into-war-arena/106521962"
     },
     {
+      "published_datetime": "2026-04-02T18:30:00.000000Z",
+      "title": "Chance of an 'extremely rare' double comet event this month",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a293b43ebf59a7c15642bbccb0a96d9?impolicy=wcms_crop_resize&amp;cropH=1013&amp;cropW=1800&amp;xPos=0&amp;yPos=188&amp;width=862&amp;height=485"
+      },
+      "description": "Two comets are currently hurtling towards the Sun. If they survive the trip, they may put on a dazzling show for Australian stargazers this month.",
+      "page_content_url": "https://www.abc.net.au/news/science/2026-04-03/two-comets-might-be-visible-with-the-naked-eye-in-april/106523442"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4ce0e40e-c2db-4c61-8f9f-caff9dcc5774",
       "published_datetime": "2026-04-02T18:28:10.681734",
       "title": "SpaceX holds talks with Saudi fund for $5B stake in record IPO",
@@ -110,15 +119,6 @@
       },
       "description": "Heavy drinking on the occasional Saturday night \u2014 even if you don't drink at all for the rest of the month \u2014 may damage your liver more than previously understood.",
       "page_content_url": "https://www.abc.net.au/news/health/2026-04-03/heavy-drinking-fatty-liver-disease/106499570"
-    },
-    {
-      "published_datetime": "2026-04-02T17:26:40.000000Z",
-      "title": "Trump fires US Attorney-General Pam Bondi",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94f85b03626cb6b79b9c8cfb8465cbb4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "US President Donald Trump has been growing increasingly frustrated with Pam Bondi's performance, especially over her handling of the Epstein files, according to US media.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-03/trump-sacks-us-attorney-general-pam-bondi/106529422"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bf490a08-430e-45e1-8a02-828a8fd1e654",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-02T22:23:50.499520"
+  "merged_at": "2026-04-02T23:26:09.354361"
 }
