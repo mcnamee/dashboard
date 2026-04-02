@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3db0f9b6-91c3-453a-8af3-8c1cc9e27e12",
+      "published_datetime": "2026-04-02T10:33:38.559510",
+      "title": "Korean researchers achieve lithium-air battery breakthrough",
+      "featured_image": {
+        "url": "https://interestingengineering.com/innovation/korean-teams-battery-breakthrough",
+        "name": "Korean team's battery breakthrough locks anode materials in ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--K3sm5GCL--/t_limit/https://cms.interestingengineering.com/wp-content/uploads/2025/10/Lithium-battery.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--dlEXG0AA--/t_thumbnail/https://cms.interestingengineering.com/wp-content/uploads/2025/10/Lithium-battery.jpg"
+      },
+      "description": "A joint research team from South Korea has developed a novel catalyst that overcomes key performance barriers in lithium-air batteries, a technology long considered the holy grail of energy storage for its potential to deliver up to ten times the energy density of conventional lithium-ion systems.[1]",
+      "audio_url": "",
+      "url": "korean-researchers-achieve-lit-foY_X.U4TTyH_DWFug6FKA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-02T07:04:14.000000Z",
       "title": "Angus Taylor says 'put Australia first' during national address",
       "featured_image": {
@@ -208,27 +223,12 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d846b5ba-fde1-44c7-a14c-facf0463feee",
-      "published_datetime": "2026-04-01T20:06:03.748027",
-      "title": "Iran's Pezeshkian tells Americans his country 'harbors no enmity' toward them",
-      "featured_image": {
-        "url": "https://www.cnn.com/2026/03/07/middleeast/iran-pezeshkian-message-analysis-intl",
-        "name": "Iran sends first significant message of de-escalation, but with ... - CNN",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Mr2dyJPh--/t_limit/https://s.yimg.com/os/en/cnn_articles_875/57243cd711c3280b98bf9bac1f7e1b84",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--cRB_dRTI--/t_thumbnail/https://s.yimg.com/os/en/cnn_articles_875/57243cd711c3280b98bf9bac1f7e1b84"
-      },
-      "description": "Iranian President Masoud Pezeshkian on Wednesday released an open letter addressed to the American people, declaring that Iran \"harbors no enmity\" toward ordinary Americans and arguing that portraying Iran as a threat was \"neither consistent with historical reality nor with present-day observable facts,\" according to Reuters and Iran's state-run Press TV.[1][2]\n\nThe letter represents a direct diplomatic appeal to the U.S. public amid an ongoing military conflict between the United States, Israel, and Iran that began on February 28 and is now in its fifth week.[3][4]",
-      "audio_url": "",
-      "url": "iran-s-pezeshkian-tells-americ-sKwHmttXTKGTZ6sXNp6s2Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-04-01T19:39:35.000000Z",
-      "title": "Live: Iran's military vows 'crushing' attacks against US and Israel after Trump threats",
+      "title": "Live: Reopening Hormuz by force 'unrealistic', says Macron, as key summit gets underway",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db359e07b799f0bb6d0dc482771d27e7?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e300283dfdb215136f85102714b1ba96?impolicy=wcms_crop_resize&amp;cropH=2180&amp;cropW=3875&amp;xPos=0&amp;yPos=202&amp;width=862&amp;height=485"
       },
-      "description": "Iran's armed forces spokesperson says the war will continue until the \"enemies surrender\", hours after US President Donald Trump threatened to hit Iran \"extremely hard\". Follow live.",
+      "description": "The French president has expressed scepticism about how the key waterway could be reopened as war in the Middle East continues. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-02/iran-war-live-updates-trump-prime-time-address-peace-deal/106524270"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-02T11:39:15.884971"
+  "merged_at": "2026-04-02T12:51:56.357611"
 }
