@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-02T16:22:19.000000Z",
+      "title": "Iran \u2018holding global economy hostage\u2019 as Australia joins urgent Hormuz talks",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a894e14813c5530b76d13cd418f5bc48?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=13&amp;width=862&amp;height=485"
+      },
+      "description": "Military planners are set to meet after ministers from 40 countries, including Australia's Penny Wong, attended virtual talks on reopening the Strait of Hormuz.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-03/strait-of-hormuz-virtual-summit/106529136"
+    },
+    {
+      "published_datetime": "2026-04-02T15:51:44.000000Z",
+      "title": "Iranian Nobel laureate suffers suspected heart attack in prison, family says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7018d7dd276dd27778b9c47b3728ac7a?impolicy=wcms_crop_resize&amp;cropH=960&amp;cropW=1707&amp;xPos=0&amp;yPos=377&amp;width=862&amp;height=485"
+      },
+      "description": "Iranian activist and Nobel Peace Prize winner Narges Mohammadi has been repeatedly charged and imprisoned by the regime over the past 25 years.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-03/marges-mohammadi-iranian-nobel-laureate-heart-attack/106529226"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2d7c4706-cd9e-4941-a447-15a15899c7c5",
       "published_datetime": "2026-04-02T13:45:20.418594",
       "title": "UK hosts 35-nation summit on reopening Strait of Hormuz",
@@ -184,15 +202,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-02/anthony-albanese-gambling-reform-national-press-club/106525548"
     },
     {
-      "published_datetime": "2026-04-02T02:52:40.000000Z",
-      "title": "In pictures: Artemis II NASA's first mission to the Moon in decades",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/58bb5fcb9b392d8842f2ddfcfa0ca304?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=55&amp;width=862&amp;height=485"
-      },
-      "description": "For the first time in more than 50 years NASA has sent astronauts around the Moon, marking a major milestone in a new era of space exploration.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-02/in-pictures-artemis-ii-launch-nasa-mission-to-the-moon/106524886"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b39a1485-1ee7-430b-8d43-488b2c95d7c9",
       "published_datetime": "2026-04-02T02:07:45.517282",
       "title": "Trump declares Iran war 'nearing completion' in primetime address",
@@ -221,15 +230,6 @@
       "audio_url": "",
       "url": "trump-declares-iran-war-windin-mGpeQxSqR.KAxhI5y5mZrQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-01T19:39:35.000000Z",
-      "title": "Reopening Hormuz by force 'unrealistic', says Macron, as key summit gets underway",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e300283dfdb215136f85102714b1ba96?impolicy=wcms_crop_resize&amp;cropH=2180&amp;cropW=3875&amp;xPos=0&amp;yPos=202&amp;width=862&amp;height=485"
-      },
-      "description": "The French president has expressed scepticism about how the key waterway could be reopened as war in the Middle East continues.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-02/iran-war-live-updates-trump-prime-time-address-peace-deal/106524270"
     },
     {
       "published_datetime": "2026-04-01T18:58:19.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-02T15:52:18.409870"
+  "merged_at": "2026-04-02T16:46:55.820918"
 }
