@@ -28,6 +28,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-02/travel-middle-east-stop-over-flights-australia/106519716"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ad9e2bee-5a2c-43af-86fc-60e78c16a4c0",
+      "published_datetime": "2026-04-02T03:11:13.518924",
+      "title": "Trump vows to hit Iran 'extremely hard' for weeks",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/04/01/trump-address-nation-iran-live-updates.html",
+        "name": "Trump speech live updates: President addresses the nation on Iran",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--u9TciJs---/t_limit/https://image.cnbcfm.com/api/v1/image/108286211-1775071731678-gettyimages-2268703974-TRUMP_MAIL-IN.jpeg%3Fv%3D1775071774%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ws1paZHH--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108286211-1775071731678-gettyimages-2268703974-TRUMP_MAIL-IN.jpeg%3Fv%3D1775071774%26w%3D1920%26h%3D1080"
+      },
+      "description": "President Donald Trump told the nation on Wednesday night that the United States would continue striking Iran \"extremely hard\" for another two to three weeks, dashing investor hopes for a clearer signal that the month-long conflict was winding down and sending markets into retreat overnight.",
+      "audio_url": "",
+      "url": "trump-vows-to-hit-iran-extreme-_UQjjWvzSUWOGjYpC9BBKg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-02T02:54:51.000000Z",
       "title": "PM announces gambling ad ban in stadiums, during school pick-up",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/217dc9a4-b4b2-4574-a51f-2a41e4aeaed1",
-      "published_datetime": "2026-04-01T18:55:01.949074",
-      "title": "UK to host 35-nation summit on reopening Strait of Hormuz",
-      "featured_image": {
-        "url": "https://www.bloomberg.com/news/articles/2026-03-31/starmer-s-labour-suspends-critic-as-premier-girds-for-challenge",
-        "name": "Labour Suspends MP Karl Turner as Starmer Faces Internal ...",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1775069536/url_uploads/-1x-1_veczxz.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1775069536/url_uploads/-1x-1_veczxz.jpg"
-      },
-      "description": "British Prime Minister Keir Starmer announced on Wednesday that the UK will host a virtual summit of approximately 35 countries on Thursday to discuss diplomatic and military steps to restore freedom of navigation in the Strait of Hormuz, the vital waterway effectively shut down by the ongoing conflict between the US and Israel against Iran.",
-      "audio_url": "",
-      "url": "uk-to-host-35-nation-summit-on-n9VD2chgSJePrnSjk7DDPw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-04-01T05:14:44.000000Z",
       "title": "Track the latest petrol and diesel prices around Australia",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-02T04:21:50.634555"
+  "merged_at": "2026-04-02T05:08:40.963046"
 }
