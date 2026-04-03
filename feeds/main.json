@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-03T04:09:09.000000Z",
+      "title": "Trump has again fired one of his top female defenders",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f7ecb069337616223cba119c041163ef?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=229&amp;width=862&amp;height=485"
+      },
+      "description": "Pam Bondi and Kristi Noem were both fired after controversial tenures carrying out Donald Trump's instructions in two of the trickiest roles in his administration.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-03/trump-fires-pam-bondi-analysis/106530130"
+    },
+    {
+      "published_datetime": "2026-04-03T04:05:28.000000Z",
+      "title": "'There's a chance of a recession,' warns Westpac boss",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b63812502b02ee43b4a5a2507fe96d3c?impolicy=wcms_crop_resize&amp;cropH=638&amp;cropW=1134&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Westpac's chief executive, Anthony Miller, says Australians need to acknowledge there is a growing risk the country could slip into recession, amid the Iran war-driven fuel crisis and rising interest rates.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-03/westpac-chief-executive-andrew-miller-recession-interest-rates/106525336"
+    },
+    {
+      "published_datetime": "2026-04-03T02:59:16.000000Z",
+      "title": "FIFA raises top ticket price for World Cup final to nearly $16,000",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/37ceba2f1e1273cf6adfa30b079d97ad?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "The top ticket price was $15,900, a sharp increase from the original $12,560 when FIFA sold tickets after the tournament draw in December.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-03/fifa-world-cup-ticket-prices-glitch-price-rise/106530084"
+    },
+    {
+      "published_datetime": "2026-04-03T02:31:44.000000Z",
+      "title": "Broken toilet, emails down: The first 24 hours in space on Artemis II",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/989cbcbb0ff3181a61526f8ec72dc46c?impolicy=wcms_crop_resize&amp;cropH=1378&amp;cropW=2450&amp;xPos=0&amp;yPos=138&amp;width=862&amp;height=485"
+      },
+      "description": "The Orion capsule carrying four astronauts in NASA's Artemis II mission successfully fired its engines this morning, kicking the crew out of Earth's orbit and towards the moon.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-03/nasa-artemis-ii-orion-astronauts-rocket-towards-moon/106529936"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a74e3238-6671-4634-96fe-6a930ddc2921",
       "published_datetime": "2026-04-03T01:13:20.995410",
       "title": "Half of Iran's missile launchers intact after weeks of strikes, assessment finds",
@@ -17,7 +53,7 @@
     },
     {
       "published_datetime": "2026-04-03T01:02:44.000000Z",
-      "title": "Former US envoy says Trump 'seeking to deceive' on Iran and nuclear",
+      "title": "'Every word is delusional': Trump's speech lashed by former US envoy to Iran",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/255087e488cf919be67fb00eb58a906c?impolicy=wcms_crop_resize&amp;cropH=2325&amp;cropW=4133&amp;xPos=0&amp;yPos=3&amp;width=862&amp;height=485"
       },
@@ -40,15 +76,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-03T00:53:34.000000Z",
-      "title": "Pete Hegseth asks the US Army's top uniformed officer to step down",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/101d68ceb9b3cd8ec83f6439c385902c?impolicy=wcms_crop_resize&amp;cropH=2741&amp;cropW=4872&amp;xPos=0&amp;yPos=226&amp;width=862&amp;height=485"
-      },
-      "description": "The ousting comes nearly five weeks into US-Israeli attacks on Iran and with no clear timeline from President Donald Trump on when the war may end.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-03/hegseth-sacks-army-general-coalition-strait-of-hormuz/106529858"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/eeb6f87a-0c64-4d3f-b176-f2be37b5ce7b",
       "published_datetime": "2026-04-03T00:35:37.211365",
       "title": "SpaceX in talks with Saudi fund for $5B anchor stake in record IPO",
@@ -65,7 +92,7 @@
     },
     {
       "published_datetime": "2026-04-03T00:28:23.000000Z",
-      "title": "Judge dismisses Blake Lively's sexual harassment claims against Justin Baldoni",
+      "title": "Judge dismisses Lively's sexual harassment claims against Baldoni",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/68b3f3eeba3a5ec7ab45066c3aa0b231?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=17&amp;width=862&amp;height=485"
       },
@@ -157,21 +184,12 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-03/tiger-woods-police-body-cam-footage-released-car-crash-florida/106529526"
     },
     {
-      "published_datetime": "2026-04-02T19:56:25.000000Z",
-      "title": "Dezi Freeman's sister details a timeline of horror",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bc4dc0043273cf87295c18081e58252e?impolicy=wcms_crop_resize&amp;cropH=556&amp;cropW=989&amp;xPos=115&amp;yPos=33&amp;width=862&amp;height=485"
-      },
-      "description": "Dezi Freeman's sister says her brother \"wreaked havoc and evil\" as she opens up on a man who had become lost.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-03/dezi-freemans-sister-speaks-out/106528326"
-    },
-    {
       "published_datetime": "2026-04-02T19:46:37.000000Z",
-      "title": "Live: Supertankers cross strait after Iran accused of holding economy 'hostage'",
+      "title": "Live: Fuel ships on the way as hundreds of petrol stations dry over long weekend",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b15a54849a058a5d9431f8c1ec8adb11?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=297&amp;width=862&amp;height=485"
       },
-      "description": "Two non-Iranian oil supertankers become the first to sail through the Strait of Hormuz since the start of the war with Iran, indicating potential progress in negotiations with Oman, as both countries draft a plan to control the vital shipping lane.",
+      "description": "Energy Minister Chris Bowen says more than 50 fuel ships are bound for Australian shores as the latest tally of petrol stations facing shortages remains in the hundreds.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-03/iran-war-live-updates-us-trump-israel-australia/106529076"
     },
     {
@@ -193,28 +211,19 @@
       "published_datetime": "2026-04-02T19:03:03.000000Z",
       "title": "'Everything's dead': How the fuel crisis is hitting small-town Australia",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/87562190c6ece29f795034976d5b1220?impolicy=wcms_crop_resize&amp;cropH=2807&amp;cropW=4990&amp;xPos=10&amp;yPos=398&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/595d4547ce51f3dfba7327b709ef5b0b?impolicy=wcms_crop_resize&amp;cropH=1404&amp;cropW=2496&amp;xPos=0&amp;yPos=210&amp;width=862&amp;height=485"
       },
       "description": "In one community, the effects of the fuel crisis are not always where you would think.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-03/fuel-crisis-hits-small-towns-like-foster-ripple-effects/106469842"
     },
     {
-      "published_datetime": "2026-04-02T18:57:42.000000Z",
-      "title": "US military vs Iran's 'arch defence': Dangerous new phase of war looms",
+      "published_datetime": "2026-04-02T18:59:07.000000Z",
+      "title": "Are we there yet? Why fuel prices could go much higher",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bc4b1c6f1f3814764b4c774e7debd3b4?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bc816368b0d0b4ca3a5245fa0eb8f534?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "While Donald Trump talks about ending and winning the war in Iran, major US military assets are still on their way to the Middle East. These are the options they give him.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-03/donald-trump-warns-iran-as-more-us-assets-stream-into-war-arena/106521962"
-    },
-    {
-      "published_datetime": "2026-04-02T18:30:00.000000Z",
-      "title": "Chance of an 'extremely rare' double comet event this month",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a293b43ebf59a7c15642bbccb0a96d9?impolicy=wcms_crop_resize&amp;cropH=1013&amp;cropW=1800&amp;xPos=0&amp;yPos=188&amp;width=862&amp;height=485"
-      },
-      "description": "Two comets are currently hurtling towards the Sun. If they survive the trip, they may put on a dazzling show for Australian stargazers this month.",
-      "page_content_url": "https://www.abc.net.au/news/science/2026-04-03/two-comets-might-be-visible-with-the-naked-eye-in-april/106523442"
+      "description": "Trying to guess exactly where the oil price tops out is fast becoming the chocolate wheel of choice among politicians, economists and oil experts.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-03/why-fuel-prices-could-go-much-higher-iran-conflict/106526748"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4ce0e40e-c2db-4c61-8f9f-caff9dcc5774",
@@ -230,15 +239,6 @@
       "audio_url": "",
       "url": "spacex-holds-talks-with-saudi-y5QxxmvTQPe8uBXUBZxPNw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-02T17:30:00.000000Z",
-      "title": "Modern life the 'perfect tsunami' for poor liver health",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f76d35adf857cd142d80b95b715b0b1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Heavy drinking on the occasional Saturday night \u2014 even if you don't drink at all for the rest of the month \u2014 may damage your liver more than previously understood.",
-      "page_content_url": "https://www.abc.net.au/news/health/2026-04-03/heavy-drinking-fatty-liver-disease/106499570"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-03T02:55:03.655756"
+  "merged_at": "2026-04-03T04:22:48.775155"
 }
