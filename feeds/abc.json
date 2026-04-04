@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-04-03T16:36:05.000000Z",
-      "title": "Search continues for missing US pilot, Iran says strike near nuclear facility kills one",
+      "published_datetime": "2026-04-04T19:27:03.000000Z",
+      "title": "'Completely shameless': Children as young as 12 recruited to join Iran war",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ea66079959c9294588b267cc0f8752bd?impolicy=wcms_crop_resize&amp;cropH=479&amp;cropW=852&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Kids as young as 12 are being given guns in Iran, as Donald Trump threatens a ground invasion. Here's what people in Iran are feeling. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-05/kids-with-guns-and-iranians-preparing-for-ground-invasion/106531072"
+    },
+    {
+      "published_datetime": "2026-04-04T19:49:28.000000Z",
+      "title": "Live: US and Iran race to find missing pilot as Trump threatens 'Hell' if deal not reached",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/71adb1df2d65ffa178e0a915b4d5a583?impolicy=wcms_crop_resize&amp;cropH=2067&amp;cropW=3675&amp;xPos=0&amp;yPos=241&amp;width=862&amp;height=485"
       },
-      "description": "The US and Iran are racing to find a missing American pilot after their fighter jet was shot down over the remote Khuzestan province in south-west Iran.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-04/iran-middle-east-war-live-updates/106530628"
+      "description": "Donald Trump gives Iran 48 hours to make a deal before \"all Hell will reign down on them\", as the US and Iran race to find a missing American pilot. Follow live. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-05/iran-middle-east-war-us-israel-live-updates/106531798"
     },
     {
       "published_datetime": "2026-04-04T18:00:00.000000Z",
@@ -19,22 +28,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-05/gambling-advertising-labor-anthony-albanese-murphy-report/106510878"
     },
     {
-      "published_datetime": "2026-04-04T18:58:19.000000Z",
-      "title": "High fuel prices mean some young Australians cannot afford to get to work",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3689bdb24377263921ba43135f6ed211?impolicy=wcms_crop_resize&amp;cropH=4578&amp;cropW=8138&amp;xPos=0&amp;yPos=800&amp;width=862&amp;height=485"
-      },
-      "description": "Young people are taking extraordinary steps to deal with the fuel crisis, including cutting back on work because the cost of fuel to get there is now higher than the money they will earn for the shift.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-05/high-fuel-prices-mean-young-australians-cannot-get-to-work-/106527196"
-    },
-    {
       "published_datetime": "2026-04-04T18:00:00.000000Z",
-      "title": "The 'enshitification' of the system has left Australia's unis at a crossroad",
+      "title": "The quiet crisis unfolding inside Australia's universities",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/af75d57df04e7d3afa0ace9a2b7e776f?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
       },
       "description": "A generation ago studying in Australia opened doors. Today rising costs and falling satisfaction are making international students think twice, and locals feel sidelined.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-05/university-education-international-students-losing-reputation/106527604"
+    },
+    {
+      "published_datetime": "2026-04-04T18:58:19.000000Z",
+      "title": "'Doesn't make any sense': Young Aussies can't justify fuel costs to get to work",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3689bdb24377263921ba43135f6ed211?impolicy=wcms_crop_resize&amp;cropH=4578&amp;cropW=8138&amp;xPos=0&amp;yPos=800&amp;width=862&amp;height=485"
+      },
+      "description": "Young people are taking extraordinary steps to deal with the fuel crisis, including cutting back on work because the cost of fuel to get there is now higher than the money they will earn for the shift.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-05/high-fuel-prices-mean-young-australians-cannot-get-to-work-/106527196"
     },
     {
       "published_datetime": "2026-04-04T19:09:38.000000Z",
@@ -47,9 +56,9 @@
     },
     {
       "published_datetime": "2026-04-04T18:50:07.000000Z",
-      "title": "Secret tunnels and 'tonnes' of cocaine as boat's 'bizarre' journey ends in Sydney",
+      "title": "Police look for missing cocaine after ocean 'drop off' during 'bizarre' journey",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ab198300ba370df98e237d30e9648711?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4720215a15f00689afe7e38c7499f53d?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Setting off from Panama just before Christmas, police say the MV Raider started its journey towards Sydney with almost six tonnes of cocaine aboard worth nearly $2 billion.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-05/mv-raider-cocaine-smuggling-panama-sydney/106521308"
@@ -64,6 +73,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-05/queen-elizabeth-100-centenary-fashion-andrew-what-the-queen-knew/106517734"
     },
     {
+      "published_datetime": "2026-04-04T19:29:58.000000Z",
+      "title": "From vanishing forests to deadly disasters: The hidden forces behind Aceh's lethal catastrophe",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c5e11174bd93f7042cd87efd87d3453?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Months after floods killed more than a thousand people across Sumatra, residents are still digging their way out of the wreckage. While survivors are eager to rebuild, many just can’t shake the fear that the next catastrophe is just around the corner.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-05/sumatra-floods-disaster-reforestation-climate/106443342"
+    },
+    {
       "published_datetime": "2026-04-04T04:33:26.000000Z",
       "title": "Two arrested as part of investigation into movements of Dezi Freeman",
       "featured_image": {
@@ -71,24 +89,6 @@
       },
       "description": "Two people have been arrested as police investigate the movements of Dezi Freeman, who was fatally shot by police last week after months on the run. ",
       "page_content_url": "https://www.abc.net.au/news/2026-04-04/two-arrested-police-investigation-dezi-freeman-movements/106531570"
-    },
-    {
-      "published_datetime": "2026-04-04T06:26:31.000000Z",
-      "title": "Watch as Olympic silver medallist destroys the Stawell Gift field",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a5072a0468238d7dfcf13628e8443440?impolicy=wcms_crop_resize&amp;cropH=1464&amp;cropW=2603&amp;xPos=0&amp;yPos=314&amp;width=862&amp;height=485"
-      },
-      "description": "Drone footage shows the US sprint superstar dominate her 120m sprint heat from the back marker.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-04/shacarri-richardson-christian-coleman-stawell-gift-heats/106531620"
-    },
-    {
-      "published_datetime": "2026-04-04T02:58:28.000000Z",
-      "title": "Supermarkets asked to pay more for produce to absorb fuel costs for farmers",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d05906c139c852f99cdb1c5b76e53900?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The effects of Australia's fuel shortage begin to compound for farmers, who have called on supermarkets to help relieve the pressure, while the government urges consumers not to panic-buy.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-04/fuel-shortage-fears-keep-demand-high-in-australia-despite-supply/106531446"
     },
     {
       "published_datetime": "2026-04-04T02:01:40.000000Z",
@@ -100,13 +100,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-04/russian-military-strikes-kyiv-residential-buildings-good-friday/106531332"
     },
     {
-      "published_datetime": "2026-04-03T23:27:34.000000Z",
-      "title": "'Extraordinary' images of home as astronauts pass halfway mark to Moon",
+      "published_datetime": "2026-04-04T20:06:02.000000Z",
+      "title": "Aerial photographer's hunt for 'Easter eggs' yields stunning images",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/736f067c8fedc70f60acbcdcf7cc6cc4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/291ea1ed3b59ced8a01d76306a2be272?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=113&amp;width=862&amp;height=485"
       },
-      "description": "As Artemis II astronauts forge ahead, NASA has released new images from inside the Orion spacecraft, including a portrait of Earth's deep blue oceans.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-04/artemis-ii-moon-nasa-orion-astronauts-earth-images-pictures/106531232"
+      "description": "Scott McCook spends his spare time photographing the salt lakes of WA's Wheatbelt, which look uncannily like giant eggs when viewed from the air. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-05/easter-egg-salt-lakes-photography-by-scott-mccook-wa-wheatbelt/106516520"
     },
     {
       "published_datetime": "2026-04-04T06:18:43.000000Z",
@@ -154,13 +154,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-05/thom-yorke-live-sydney-opera-house-solo-tour-concert-film/106418362"
     },
     {
-      "published_datetime": "2026-04-03T19:39:26.000000Z",
-      "title": "Cyclone Narelle's destructive path across Australia, in pictures and video",
+      "published_datetime": "2026-04-03T23:27:34.000000Z",
+      "title": "'Extraordinary' images of home as astronauts pass halfway mark to Moon",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3cfdbdad166626aeee734b2370a37dd3?impolicy=wcms_crop_resize&amp;cropH=1440&amp;cropW=2560&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/736f067c8fedc70f60acbcdcf7cc6cc4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
       },
-      "description": "From the very first news reports about Severe Tropical Cyclone Narelle, it was clear this wasn't just another storm. This is the story of how the cyclone impacted the entire span of northern Australia and how communities came together to pick up the pieces.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-04/cyclone-narelle-destructive-path-across-australia-pictures-video/106513492"
+      "description": "As Artemis II astronauts forge ahead, NASA has released new images from inside the Orion spacecraft, including a portrait of Earth's deep blue oceans.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-04/artemis-ii-moon-nasa-orion-astronauts-earth-images-pictures/106531232"
+    },
+    {
+      "published_datetime": "2026-04-04T02:58:28.000000Z",
+      "title": "Supermarkets asked to pay more for produce to absorb fuel costs for farmers",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d05906c139c852f99cdb1c5b76e53900?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The effects of Australia's fuel shortage begin to compound for farmers, who have called on supermarkets to help relieve the pressure, while the government urges consumers not to panic-buy.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-04/fuel-shortage-fears-keep-demand-high-in-australia-despite-supply/106531446"
     },
     {
       "published_datetime": "2026-04-04T06:14:27.000000Z",
@@ -172,22 +181,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-04/search-for-missing-woman-naomi-marie-duckett-the-gap-albany-wa/106531548"
     },
     {
-      "published_datetime": "2026-04-03T21:13:32.000000Z",
-      "title": "Who is eligible for the new nasal spray flu vaccine?",
+      "published_datetime": "2026-04-04T19:21:14.000000Z",
+      "title": "'My kneecap was halfway up my thigh': How Sam came back from the brink",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f566c2e1d57fd31746bf235e1046f05a?impolicy=wcms_crop_resize&amp;cropH=2195&amp;cropW=3903&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/25a3ce631839541581481c87183cab74?impolicy=wcms_crop_resize&amp;cropH=1698&amp;cropW=3019&amp;xPos=813&amp;yPos=310&amp;width=862&amp;height=485"
       },
-      "description": "It's been available in the northern hemisphere for years, now Australian children can receive a nasal spray vaccine for the flu.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-04/nasal-spray-vaccine-approved-tga/106518564"
-    },
-    {
-      "published_datetime": "2026-04-04T00:38:14.000000Z",
-      "title": "'Adrenaline rush' of adaptive skateboarding redefines inclusive sport",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/90f931ad415328f1c0a723018f44e30f?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "Using a specially designed skate frame, adaptive skateboarding allows participants to stand safely while trained instructors guide and stabilise them. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-04/adaptive-skateboarding-opens-doors-for-people-with-disability/106515066"
+      "description": "A career-threatening knee injury denied swimmer Sam Williamson the chance to defend his world title. Now he's back and looking to replicate the form that took him to the top of the world, by earning a place at the Commonwealth Games.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-05/sam-williamson-injury-return-commonwealth-games-hot-cross-buns/106492330"
     },
     {
       "published_datetime": "2026-04-03T21:45:41.000000Z",
