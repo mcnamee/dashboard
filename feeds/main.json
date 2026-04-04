@@ -1,10 +1,19 @@
 {
   "items": [
     {
-      "published_datetime": "2026-04-04T04:48:30.000000Z",
-      "title": "Live: Tigers, Power at the MCG kick off an Easter double-header",
+      "published_datetime": "2026-04-04T06:18:43.000000Z",
+      "title": "Live: Desperate Dragons fighting for first win of NRL season",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fd5bcbf0ccc5ed7c9f1a966f94f7d24e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=12&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/300665f377a348e2d0e7f9c36992afeb?impolicy=wcms_crop_resize&amp;cropH=1461&amp;cropW=2597&amp;xPos=0&amp;yPos=163&amp;width=862&amp;height=485"
+      },
+      "description": "St George Illawarra are the only team in the NRL yet to win a game this season as they prepare to host the resurgent North Queensland Cowboys. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-04/nrl-live-updates-dragons-cowboys-titans-broncos/106531642"
+    },
+    {
+      "published_datetime": "2026-04-04T04:48:30.000000Z",
+      "title": "Live: Rioli big mark sparks Tigers fightback at MCG",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9902a58cd1f3b492be262d712649bc9a?impolicy=wcms_crop_resize&amp;cropH=1941&amp;cropW=3450&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Richmond kick off Easter Saturday football at the MCG looking for their first win of the season against Port Adelaide, before the Eagles host the Swans in Perth. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-04/afl-easter-saturday-live-blog-rich-port-wce-syd/106530538"
@@ -20,9 +29,9 @@
     },
     {
       "published_datetime": "2026-04-04T02:58:28.000000Z",
-      "title": "Fuel demand stays high, as farmers urge supermarkets to pay more for fresh produce",
+      "title": "Supermarkets asked to pay more for produce to absorb fuel costs for farmers",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/39d57b3542f156bd4871b83fd0c24820?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d05906c139c852f99cdb1c5b76e53900?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "The effects of Australia's fuel shortage begin to compound for farmers, who have called on supermarkets to help relieve the pressure, while the government urges consumers not to panic-buy.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-04/fuel-shortage-fears-keep-demand-high-in-australia-despite-supply/106531446"
@@ -196,15 +205,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-04/artemis-ii-moon-nasa-orion-astronauts-earth-images-pictures/106531232"
     },
     {
-      "published_datetime": "2026-04-03T21:45:41.000000Z",
-      "title": "More people are using this 'secret deal' to get an EV. Here's what to know",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bc6f07fdce6d81299a32900a77f1cf74?impolicy=wcms_crop_resize&amp;cropH=2635&amp;cropW=4684&amp;xPos=0&amp;yPos=459&amp;width=862&amp;height=485"
-      },
-      "description": "With the petrol bowser continuing to hurt wallets, more Australians than ever are considering purchasing an electric vehicle through a novated lease.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-04/novated-leases-electric-vehicles-explainer/106527770"
-    },
-    {
       "published_datetime": "2026-04-03T19:56:23.000000Z",
       "title": "Strategically critical Pacific island divided over growing US military presence",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-04T05:51:36.997449"
+  "merged_at": "2026-04-04T06:49:39.169212"
 }
