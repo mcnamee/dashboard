@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-04/fuel-shortage-fears-keep-demand-high-in-australia-despite-supply/106531446"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bd63fea0-84ca-4339-9d93-89bce802e268",
+      "published_datetime": "2026-04-04T02:24:16.672262",
+      "title": "Asia fuel crisis deepens as Songkran, Easter travel face sweeping flight cuts",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/03/30/asia-budget-airlines-fuel-costs-middle-east-routes-demand.html",
+        "name": "Airlines get crushed by fuel costs, budget airlines try to cope - CNBC",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--it1Z2JYT--/t_limit/https://image.cnbcfm.com/api/v1/image/108283911-1774604235205-gettyimages-2168972356-AA_01092024_1842451.jpeg%3Fv%3D1774851789%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--em5F5pk---/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108283911-1774604235205-gettyimages-2168972356-AA_01092024_1842451.jpeg%3Fv%3D1774851789%26w%3D1920%26h%3D1080"
+      },
+      "description": "A cascading jet fuel crisis triggered by the U.S.-Israel military strikes on Iran on February 28 is upending travel plans across two continents as the Easter holiday weekend and Southeast Asia's Songkran New Year celebrations approach, with airlines slashing routes, raising fares, and warning of further disruptions ahead.",
+      "audio_url": "",
+      "url": "asia-fuel-crisis-deepens-as-so-GVRIx4GpQ0aMDesGfGY6oA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3eabb657-a48e-4754-b47f-1accd5e08195",
       "published_datetime": "2026-04-04T02:16:00.469801",
       "title": "Min Aung Hlaing wins parliamentary vote to become Myanmar president",
@@ -154,21 +169,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3317288a-5493-4512-946e-2d9846c313e5",
-      "published_datetime": "2026-04-04T00:51:17.728206",
-      "title": "U.S. tells Israel Iran negotiations have hit a deadlock",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/sectors/energy/articles/iran-oil-revenue-soars-only-094117119.html",
-        "name": "Iran Oil Revenue Soars as It's the Only Exporter Out of Hormuz",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ZTRT_4_d--/t_limit/https://s.yimg.com/ny/api/res/1.2/E3.16O7vQ.juohMUeKW3dA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_holding_pen_162/2ee195a611f251e97d6035bbee8c100e",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--vBY__LzE--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/E3.16O7vQ.juohMUeKW3dA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_holding_pen_162/2ee195a611f251e97d6035bbee8c100e"
-      },
-      "description": "Five weeks into the U.S.-Israeli war on Iran, the conflict's cascading economic and humanitarian toll is reshaping energy markets, stranding thousands of mariners, and frustrating diplomatic efforts to bring fighting to an end. On Friday, the U.S. informed Israel that negotiations with Iran had hit a deadlock, even as tentative signs of resumed commercial shipping offered a sliver of hope in the otherwise shuttered Strait of Hormuz.[1]",
-      "audio_url": "",
-      "url": "u-s-tells-israel-iran-negotiat-Ic5y6i22Q8mEQOdPVqdIZQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-04-03T23:51:25.000000Z",
       "title": "Sunken trawler alerts police to alleged drug-smuggling plan",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-04T04:09:08.645041"
+  "merged_at": "2026-04-04T05:01:55.169669"
 }
