@@ -1,19 +1,28 @@
 {
   "items": [
     {
-      "published_datetime": "2026-04-04T06:18:43.000000Z",
-      "title": "Live: Desperate Dragons fighting for first win of NRL season",
+      "published_datetime": "2026-04-04T06:26:31.000000Z",
+      "title": "Watch as Olympic silver medallist destroys the Stawell Gift field",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/300665f377a348e2d0e7f9c36992afeb?impolicy=wcms_crop_resize&amp;cropH=1461&amp;cropW=2597&amp;xPos=0&amp;yPos=163&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a5072a0468238d7dfcf13628e8443440?impolicy=wcms_crop_resize&amp;cropH=1464&amp;cropW=2603&amp;xPos=0&amp;yPos=314&amp;width=862&amp;height=485"
       },
-      "description": "St George Illawarra are the only team in the NRL yet to win a game this season as they prepare to host the resurgent North Queensland Cowboys. Follow live.",
+      "description": "Drone footage shows the US sprint superstar dominate her 120m sprint heat from the back marker.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-04/shacarri-richardson-christian-coleman-stawell-gift-heats/106531620"
+    },
+    {
+      "published_datetime": "2026-04-04T06:18:43.000000Z",
+      "title": "Live: Dragons booed off after horror first half",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/382ba69c93786f00580cd3309b52b33a?impolicy=wcms_crop_resize&amp;cropH=2098&amp;cropW=3729&amp;xPos=0&amp;yPos=32&amp;width=862&amp;height=485"
+      },
+      "description": "St George Illawarra's poor form has continued with the Red V faithful showing their displeasure by booing their team as the left the field at halftime. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-04/nrl-live-updates-dragons-cowboys-titans-broncos/106531642"
     },
     {
       "published_datetime": "2026-04-04T04:48:30.000000Z",
-      "title": "Live: Rioli big mark sparks Tigers fightback at MCG",
+      "title": "Live: Port poised for first away win of the season as Richmond wilts at the MCG",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9902a58cd1f3b492be262d712649bc9a?impolicy=wcms_crop_resize&amp;cropH=1941&amp;cropW=3450&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/96c826c69a2f326a6b2ba4aa7f935b7c?impolicy=wcms_crop_resize&amp;cropH=1896&amp;cropW=3370&amp;xPos=0&amp;yPos=38&amp;width=862&amp;height=485"
       },
       "description": "Richmond kick off Easter Saturday football at the MCG looking for their first win of the season against Port Adelaide, before the Eagles host the Swans in Perth. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-04/afl-easter-saturday-live-blog-rich-port-wce-syd/106530538"
@@ -197,21 +206,12 @@
     },
     {
       "published_datetime": "2026-04-03T23:27:34.000000Z",
-      "title": "'Extraordinary' images of home as astronauts head towards Moon",
+      "title": "'Extraordinary' images of home as astronauts pass halfway mark to Moon",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/736f067c8fedc70f60acbcdcf7cc6cc4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
       },
       "description": "As Artemis II astronauts forge ahead, NASA has released new images from inside the Orion spacecraft, including a portrait of Earth's deep blue oceans.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-04/artemis-ii-moon-nasa-orion-astronauts-earth-images-pictures/106531232"
-    },
-    {
-      "published_datetime": "2026-04-03T19:56:23.000000Z",
-      "title": "Strategically critical Pacific island divided over growing US military presence",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7d7c8de5b7e0b84a1fae2a5d0fda81e2?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Pacific Island of Guam sits at the centre of a struggle between the world's most powerful military and the right of its people to determine their own future.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-04/us-military-expansion-threat-or-saviour-in-guam/106516124"
     },
     {
       "published_datetime": "2026-04-03T19:32:15.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-04T06:49:39.169212"
+  "merged_at": "2026-04-04T07:43:04.127688"
 }
