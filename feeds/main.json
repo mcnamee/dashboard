@@ -1,8 +1,35 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-05T21:04:53.000000Z",
+      "title": "Angry customers who lost $10m in Zone RV collapse urge ASIC to investigate",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5dcb72826f6b1500a18763e9441a1c55?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=168&amp;width=862&amp;height=485"
+      },
+      "description": "With retirement dreams dashed, customers launch a nationwide campaign for the corporate watchdog to investigate the caravan company's former director over insolvent trading claims.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-06/angry-customers-zone-rv-urge-asic-investigation/106446428"
+    },
+    {
+      "published_datetime": "2026-04-05T20:40:50.000000Z",
+      "title": "Threats tell us more about Trump's frustration than anything else",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8baa5a7b584dd85104e8b5e6771e0f6?impolicy=wcms_crop_resize&amp;cropH=2336&amp;cropW=4153&amp;xPos=0&amp;yPos=219&amp;width=862&amp;height=485"
+      },
+      "description": "It's day 37 of the war in the Middle East. The ABC's Middle East correspondent Matthew Doran is in Jerusalem, where Donald Trump's threats to obliterate Iran are starting to feel like business as usual.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-06/iran-israel-war-daily-news-briefing/106525578"
+    },
+    {
+      "published_datetime": "2026-04-05T20:13:47.000000Z",
+      "title": "Live: Trump threatens to bomb Iran power plants in expletive-laden post",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0086ec1d4b0c21333cbb3e53ba36487c?impolicy=wcms_crop_resize&amp;cropH=691&amp;cropW=1229&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump amps up pressure on Iran to open the Strait of Hormuz, threatening in an expletive-laden social media post to target the country's power plants and bridges if the shipping lane is not opened. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-06/iran-middle-east-war-live-updates-april-6-2026/106533544"
+    },
+    {
       "published_datetime": "2026-04-05T18:48:15.000000Z",
-      "title": "How close a tree is planted can affect property prices, new report shows",
+      "title": "How one extra tree too close to your house could cost you thousands",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/de9fbdd3af5ef9e8b7a0186a5d52110b?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
       },
@@ -214,33 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-05T06:02:00.000000Z",
-      "title": "Fiji cruise ship runs aground after hitting reef near 'Cast Away island'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/919b7121e8fd69b0d7d5b9cb4045c447?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Thirty passengers have reportedly been rescued after a cruise ship ran aground on a reef near the island where the film Cast Away was shot.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-05/fiji-cruise-ship-runs-aground-on-reef/106532734"
-    },
-    {
-      "published_datetime": "2026-04-05T04:25:01.000000Z",
-      "title": "Japan assures Australia will get 'normal supply' of fuel",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2d7e542c260b97fd25dade78eca5f985?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=95&amp;width=862&amp;height=485"
-      },
-      "description": "Fuel will continue to flow from Japan into Australia under assurances given during recent talks between the two countries.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-05/japan-fuel-supply-assurance-sanae-takaichi-visit-planned/106532548"
-    },
-    {
-      "published_datetime": "2026-04-04T19:49:28.000000Z",
-      "title": "Trump threatens to bomb Iran power plants in expletive-laden post",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db9ff75b7fb77e7add00391bf0e44bc6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=99&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump has threatened to attack Iranian energy and infrastructure in an expletive-laden social post, as part of a renewed warning to Iran to open the Strait of Hormuz by Monday.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-05/iran-middle-east-war-us-israel-live-trump-pilot/106531798"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-05T20:22:47.051030"
+  "merged_at": "2026-04-05T21:23:10.803416"
 }
