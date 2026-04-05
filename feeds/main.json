@@ -55,15 +55,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-05T04:59:06.000000Z",
-      "title": "Australians find joy amid global uncertainty in Easter celebrations",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5d292c1a8484027541c0387a38c61d07?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
-      },
-      "description": "Christians of all denominations gather at churches and cathedrals to mark Easter and reflect on their faith amid recent global turmoil.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-05/australia-easter-egg-hunt-christianity-national-wrap-2026/106532532"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9c0fe390-5412-4e60-9a4c-fbb3c7acf328",
       "published_datetime": "2026-04-05T04:55:21.021707",
       "title": "Western carriers seize routes as Iran war guts Gulf aviation hubs",
@@ -77,6 +68,15 @@
       "audio_url": "",
       "url": "western-carriers-seize-routes-m5RX_qbiTAK4R56RKsQCqw",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-04-05T04:54:38.000000Z",
+      "title": "Live: Demons stun the Suns at MCG ahead of Bulldogs vs Bombers",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f35f849de0c6e9cf26d7587bc3ac302e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=99&amp;width=862&amp;height=485"
+      },
+      "description": "Gold Coast and Western Bulldogs look to maintain the last remaining 100 per cent records in the AFL, as they take on the Demons at the MCG and the Bombers at Docklands. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-05/afl-easter-sunday-live-blog/106530544"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d8136264-061e-4104-a05e-cf51fc75c0a4",
@@ -125,15 +125,6 @@
       },
       "description": "The Kremlin is increasing its efforts to dictate the narrative in Russia by shutting off the internet, restricting foreign messenger apps and punishing citizens for speaking out.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-05/russia-internet-crackdown-vladimir-putin/106492926"
-    },
-    {
-      "published_datetime": "2026-04-05T03:20:49.000000Z",
-      "title": "Kings break NBL trophy after dramatic overtime win in finals game five",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b371de0c3f37219775259936e047827a?impolicy=wcms_crop_resize&amp;cropH=673&amp;cropW=1196&amp;xPos=138&amp;yPos=143&amp;width=862&amp;height=485"
-      },
-      "description": "After trailing by six points late in regulation time, a dominant overtime display has earned the Sydney Kings a 113-101 victory in the fifth and deciding match of the NBL Finals.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-05/nbl-finals-live-game-five-sydney-kings-vs-adelaide-36ers/106531510"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0580aad4-930d-49bb-99f2-1d6eaa52b5fa",
@@ -223,6 +214,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-05/mv-raider-cocaine-smuggling-panama-sydney/106521308"
     },
     {
+      "published_datetime": "2026-04-04T18:30:00.000000Z",
+      "title": "Queen at 100 is honoured in fashion exhibition as Andrew scandal bites",
+      "featured_image": {
+        "thumbnail": ""
+      },
+      "description": "Within palace walls the Queen was a godlike figure. As her glorious fashion goes on display to commemorate what would have been her 100th birthday, how would she have responded to the Andrew crisis if alive today?",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-05/queen-elizabeth-100-centenary-fashion-andrew-what-the-queen-knew/106517734"
+    },
+    {
       "published_datetime": "2026-04-04T18:00:00.000000Z",
       "title": "As reputation frays, Australia's $54b university brand faces a reckoning",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-05T07:50:44.802310"
+  "merged_at": "2026-04-05T08:33:46.692360"
 }
