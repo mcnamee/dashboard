@@ -1,21 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-06T08:03:34.000000Z",
+      "title": "Chinese AI helping Iran target US forces with 'incredible precision'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/30253e34d2afc4a2c9eb252abf4d174d?impolicy=wcms_crop_resize&amp;cropH=723&amp;cropW=1286&amp;xPos=21&amp;yPos=37&amp;width=862&amp;height=485"
+      },
+      "description": "Chinese satellite images enhanced by artificial intelligence could help Iran target US and allied forces to within a third of a square metre, military analysts say.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-06/chinese-satellite-intelligence-helping-iran-target-us-forces/106535420"
+    },
+    {
       "published_datetime": "2026-04-06T06:03:19.000000Z",
-      "title": "'Very deep poverty': Exposing the UK's hidden shame",
+      "title": "Britain has become a broken, poverty-riddled 'living nightmare'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a978f1d434f907a16c430c31a40def65?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=97&amp;width=862&amp;height=485"
       },
-      "description": "London. It's the epicentre of Britain but without it the UK's GDP is equivalent to the poorest state in the US. And one fifth of the total population is living in poverty.",
+      "description": "Once a mighty empire, Britain is now a broken kingdom. A staggering one fifth of the nation lives in poverty and that number is rising.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-06/broken-britain-poverty-crisis-pushing-voters-to-reform-uk/106354940"
     },
     {
       "published_datetime": "2026-04-06T04:18:22.000000Z",
-      "title": "Live: Hawthorn pegged back by Geelong after fast start as Dogs count injury toll",
+      "title": "Live: Gunston kicks behind in dying seconds to win epic over Cats",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7b9c3e49b262b5daa92e746a730fa445?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=106&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f22739947d6e2d2405681a75c366d249?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
       },
-      "description": "Hawthorn and Geelong meet in their traditional Easter Monday clash at the MCG as the Western Bulldogs receive some bad news. Follow live.",
+      "description": "Hawthorn's Jack Gunston has kicked a behind in the dying seconds to defeat Geelong by one point in an Easter Monday classic. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-06/afl-round-4-hawthorn-hawks-geelong-cats-live-blog-easter-monday/106535162"
     },
     {
@@ -206,11 +215,11 @@
     },
     {
       "published_datetime": "2026-04-05T20:13:47.000000Z",
-      "title": "Live: Iran warns of 'devastating' retaliation after Trump vows to 'blow up whole country'",
+      "title": "Live: Iran and US considering plan for 45-day ceasefire \u2014 reports",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0086ec1d4b0c21333cbb3e53ba36487c?impolicy=wcms_crop_resize&amp;cropH=691&amp;cropW=1229&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Tehran is warning of \"much more devastating\" retaliation after US President Donald Trump's expletive-laden outburst on social media called on Iran once again to open the Strait of Hormuz. Follow live.\u00a0",
+      "description": "Iran and the US receive a plan for a ceasefire from Pakistani mediators, reports suggest. It comes after Tehran and Washington earlier exchanged threats of escalation. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-06/iran-war-live-updates-trump-issues-new-strait-deadline/106533544"
     },
     {
@@ -230,15 +239,6 @@
       },
       "description": "Perched on Tasmania's wild north-west coast, Cape Grim has been quietly tracking the world's cleanest air for 50 years. Its data tell an interesting story about how our world has changed over half a century, including rare success stories.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-06/cape-grim-50-year-record-climate-history/106520544"
-    },
-    {
-      "published_datetime": "2026-04-05T18:42:10.000000Z",
-      "title": "US intelligence says Chinese satellite imagery of bases is helping Iran",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3635d5705c84dfdf41bd9663d71b1123?impolicy=wcms_crop_resize&amp;cropH=752&amp;cropW=1337&amp;xPos=0&amp;yPos=47&amp;width=862&amp;height=485"
-      },
-      "description": "A Chinese company's publication of AI-enhanced satellite imagery of US bases in the Middle East is helping Iranian forces identify targets, US intelligence believes.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-06/us-intelligence-chinese-satellite-imagery-middle-east/106508322"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-06T06:25:42.520737"
+  "merged_at": "2026-04-06T08:18:38.236614"
 }
