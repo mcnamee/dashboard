@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-06T10:55:05.000000Z",
+      "title": "Toddler dies after being pulled from water on Queensland property",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c204faab47693c197327e3e08fdd9d92?impolicy=wcms_crop_resize&amp;cropH=756&amp;cropW=1344&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "An 18-month-old boy has died after being pulled from water at a private property on the Western Downs.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-06/toddler-dies-tara-hospital-western-downs-drowning/106535356"
+    },
+    {
       "published_datetime": "2026-04-06T08:03:34.000000Z",
       "title": "Chinese AI helping Iran target US forces with 'incredible precision'",
       "featured_image": {
@@ -35,7 +44,7 @@
     },
     {
       "published_datetime": "2026-04-06T06:03:19.000000Z",
-      "title": "Britain has become a broken, poverty-riddled 'living nightmare'",
+      "title": "The first world country in the grip of a poverty crisis",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a978f1d434f907a16c430c31a40def65?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=97&amp;width=862&amp;height=485"
       },
@@ -199,15 +208,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-05T21:18:48.000000Z",
-      "title": "Commuters are switching from cars to e-bikes to save money on fuel",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cd2e176dff3e37150443d4909d7f9ec7?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=210&amp;width=862&amp;height=485"
-      },
-      "description": "As high fuel prices continue to affect motorists, Australians are turning to e-bikes as an alternative form of transport, with retailers reporting a surge in sales.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-06/ebike-retailers-seeing-increase-in-sales-as-fuel-costs-soar/106526470"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/428c141d-f2f0-4193-b52d-d09c8debc1a9",
       "published_datetime": "2026-04-05T21:00:36.967316",
       "title": "Trump threatens to bomb Iran's infrastructure in Easter ultimatum",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-06T10:01:22.063187"
+  "merged_at": "2026-04-06T11:41:33.145520"
 }
