@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-06T12:19:28.000000Z",
+      "title": "Aussie stars testing the waters at Australian Open",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fd758335ec49209aaf3774bdcf53842b?impolicy=wcms_crop_resize&amp;cropH=2064&amp;cropW=3669&amp;xPos=0&amp;yPos=169&amp;width=862&amp;height=485"
+      },
+      "description": "Molly O'Callaghan and Kyle Chalmers claimed Australian Open gold medals in the 100m freestyle events, while Sam Short showed his 400m rivals a clean pair of heels on night one at the Gold Coast Aquatic Centre.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-06/australian-open-swimming-molly-ocallaghan-sam-short-kyle-chalmer/106535948"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/afef76ab-1dad-4893-a202-b688761ac9db",
       "published_datetime": "2026-04-06T11:05:12.074503",
       "title": "Study: 84% of fire-vulnerable species face rising wildfire risk by 2100",
@@ -14,15 +23,6 @@
       "audio_url": "",
       "url": "study-84-of-fire-vulnerable-sp-crjfqDyTQh2bFFRpFcMXOg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-06T10:55:05.000000Z",
-      "title": "Toddler dies after being pulled from water on Queensland property",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c204faab47693c197327e3e08fdd9d92?impolicy=wcms_crop_resize&amp;cropH=756&amp;cropW=1344&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "An 18-month-old boy has died after being pulled from water at a private property on the Western Downs.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-06/toddler-dies-tara-hospital-western-downs-drowning/106535356"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ad372669-2e45-44a3-8b3b-1eab6c36f1b9",
@@ -224,18 +224,18 @@
     },
     {
       "published_datetime": "2026-04-05T20:13:47.000000Z",
-      "title": "Live: Iran and US considering plan for 45-day ceasefire \u2014 reports",
+      "title": "Live: Iran says US-Israeli strikes killed intelligence chief",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0086ec1d4b0c21333cbb3e53ba36487c?impolicy=wcms_crop_resize&amp;cropH=691&amp;cropW=1229&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c303097e4093d17ed757966948547161?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=960&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Iran and the US receive a plan for a ceasefire from Pakistani mediators, reports suggest. It comes after Tehran and Washington earlier exchanged threats of escalation. Follow live.\u00a0",
+      "description": "Iran says the intelligence chief of Iran's Revolutionary Guards, Major General Majid Khademi, was killed by US-Israeli strikes. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-06/iran-war-live-updates-trump-issues-new-strait-deadline/106533544"
     },
     {
       "published_datetime": "2026-04-05T18:46:31.000000Z",
       "title": "The cleanest air on Earth holds a powerful lesson about our climate",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f33b33bdc61661dc743fe1efd44fceaf?impolicy=wcms_crop_resize&amp;cropH=882&amp;cropW=1568&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/422251e06006ef993e48b9152dc71862?impolicy=wcms_crop_resize&amp;cropH=266&amp;cropW=472&amp;xPos=0&amp;yPos=83&amp;width=862&amp;height=485"
       },
       "description": "Perched on Tasmania's wild north-west coast, Cape Grim has been quietly tracking the world's cleanest air for 50 years. Its data tell an interesting story about how our world has changed over half a century, including rare success stories.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-06/cape-grim-50-year-record-climate-history/106520544"
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-06T11:52:50.001661"
+  "merged_at": "2026-04-06T12:50:23.935728"
 }
