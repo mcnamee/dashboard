@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-07T10:40:29.000000Z",
+      "title": "Passengers vomiting 'up and down' aisles as Fiji flight aborts three landings",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0241a849b0e159187393a0f7c0e8ea6a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=242&amp;width=862&amp;height=485"
+      },
+      "description": "A Fiji Airways flight from Sydney had to divert after bad weather from a tropical cyclone thwarted its attempts to land.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-07/fiji-flight-diverted-after-three-landing-attempts/106539854"
+    },
+    {
+      "published_datetime": "2026-04-07T09:58:54.000000Z",
+      "title": "David Warner charged with mid-range drink driving",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/df5276744763ea666c910fbebed72fb3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=14&amp;width=862&amp;height=485"
+      },
+      "description": "Former Australian Test cricketer David Warner is charged with mid-range drink driving in Sydney's east over the weekend.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-07/australian-cricketer-david-warner-faces-drink-driving-charge/106539912"
+    },
+    {
       "published_datetime": "2026-04-07T09:00:01.000000Z",
       "title": "Thousands of sites taken down as experts warn AI is increasing scams",
       "featured_image": {
@@ -58,15 +76,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-07T06:42:42.000000Z",
-      "title": "Tributes for Aboriginal health leader and The Sapphires singer",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/737772a89bcc8edf075dee4c781de6f6?impolicy=wcms_crop_resize&amp;cropH=2807&amp;cropW=4991&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
-      },
-      "description": "Dr Naomi Mayers helped establish the first Aboriginal medical services in Australia, turning self-determination into a model of care across the country. Her death came days before Wiradjuri woman and \"fierce trailblazer\" Ann Weldon.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-07/dr-naomi-mayers-aboriginal-health-leader-the-sapphires-singer/106534236"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ae1b6eb3-78f7-4a87-a75a-fe2ac66f84ae",
       "published_datetime": "2026-04-07T05:53:03.240670",
       "title": "Trump's Tuesday deadline for Iran looms as oil markets surge",
@@ -101,7 +110,7 @@
     },
     {
       "published_datetime": "2026-04-07T04:45:09.000000Z",
-      "title": "Artemis II reveals previously unseen far side of the Moon",
+      "title": "Artemis II reveals previously unseen views of far side of the Moon",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/99317f6f9275c00f9ffe5b4cb5c9d691?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=180&amp;width=862&amp;height=485"
       },
@@ -137,15 +146,6 @@
       "audio_url": "",
       "url": "iran-urges-youth-to-form-human-nLzAhdVJS_SaaH8xMvXAKQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-07T04:41:09.000000Z",
-      "title": "New EV sales data proves fuel crisis sparks consumer shift",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/44b4227c641f4e4bcd6e04130d8b6960?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
-      },
-      "description": "EV sales have surged in March, a month into the war in Iran. But it is not the only signal indicating a move away from fuel cars.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-07/australia-ev-sales-spike-amid-fuel-fears-rising-petrol-prices/106516598"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2c131d77-e98b-4948-864d-1276c34f52cd",
@@ -233,11 +233,11 @@
     },
     {
       "published_datetime": "2026-04-06T16:12:24.000000Z",
-      "title": "Live: Israel warns Iranians against train travel as Tehran calls for human chains around power plants",
+      "title": "Live: Gunmen attack Israeli Consulate in Istanbul",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/39ab09532fa12193ca052ea81e13f2f7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fe50a0b247201d463d4c4d75b2ecb69d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Iran calls on its youth to make \"human chains\" around key energy infrastructure after US President Donald Trump threatened that Iran \"could be taken out in one night\". Follow live.",
+      "description": "Turkish authorities say at least one attacker has been killed and two others wounded in a gunfight with police outside a building housing the Israeli Consulate in Istanbul. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-07/iran-war-live-updates-trump-press-conference/106534506"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-07T09:59:55.278526"
+  "merged_at": "2026-04-07T10:58:58.411218"
 }
