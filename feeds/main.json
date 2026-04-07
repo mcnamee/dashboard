@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-07T18:25:19.000000Z",
+      "title": "'Huge mistake': Trump's latest Iran threats prompt political allies to push back",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e562879eea8707b2fcce9b8816325eb2?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump says a \"whole civilisation will die\" if the US and Iran do not reach a deal in the coming hours \u2014 another escalation in the threat to harm Iran's population if its rulers do not comply.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-08/donald-trump-says-entire-iran-civilisation-will-die/106540310"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/af5afe86-fa7f-418f-b066-11bfd50728fa",
       "published_datetime": "2026-04-07T16:16:25.941858",
       "title": "Vance says he's 'here to help' Orban win Hungary election",
@@ -62,7 +71,7 @@
     },
     {
       "published_datetime": "2026-04-07T15:54:47.000000Z",
-      "title": "Live: Trump warns 'entire civilisation will die' if Iran ultimatum expires",
+      "title": "Live: Trump warns 'whole civilisation will die' if Iran ultimatum expires",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f2a16a6f39bdc7ee121ddd8714709d22?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -176,15 +185,6 @@
       "audio_url": "",
       "url": "iea-chief-says-middle-east-war-75IKcP1GSzS0_1xwrCdGrQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-07T10:40:29.000000Z",
-      "title": "Passengers vomiting 'up and down' aisles as Fiji flight aborts three landings",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0241a849b0e159187393a0f7c0e8ea6a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=242&amp;width=862&amp;height=485"
-      },
-      "description": "A Fiji Airways flight from Sydney had to divert after bad weather from a tropical cyclone thwarted its attempts to land.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-07/fiji-flight-diverted-after-three-landing-attempts/106539854"
     },
     {
       "published_datetime": "2026-04-07T09:58:54.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-07T17:51:01.017153"
+  "merged_at": "2026-04-07T18:51:00.299558"
 }
