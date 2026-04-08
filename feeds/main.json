@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-08T17:11:54.000000Z",
+      "title": "US architect admits killing eight women in Gilgo Beach murders",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7373188d444e74809e579b81a95882a5?impolicy=wcms_crop_resize&amp;cropH=1018&amp;cropW=1810&amp;xPos=0&amp;yPos=259&amp;width=862&amp;height=485"
+      },
+      "description": "Rex Heuermann pleads guilty to seven murders and admits to the killing of another woman, solving a notorious case known as the Gilgo Beach killings.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-09/long-island-man-pleads-guilty-to-murder-of-eight-women/106544536"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f871ae72-9413-497c-9990-e8c1b9ccd0c3",
       "published_datetime": "2026-04-08T14:51:43.906636",
       "title": "Oman rejects Iran's Hormuz toll plan in ceasefire dispute",
@@ -157,15 +166,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-08/jackie-o-henderson-kyle-sandilands-complaints-arn-media/106543280"
     },
     {
-      "published_datetime": "2026-04-08T07:47:45.000000Z",
-      "title": "Human bones found on Rottnest Island, investigation underway",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/16f29b72a55f36c657c7710746f6a8ff?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Police are investigating the origin of what are believed to be several human bones that were found on Rottnest Island.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-08/bones-found-rottnest-island/106543774"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2fb4ae9d-453e-4873-99f8-1382108b3af8",
       "published_datetime": "2026-04-08T07:35:50.278518",
       "title": "IATA chief warns jet fuel recovery will take months despite ceasefire",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-08T16:10:01.030642"
+  "merged_at": "2026-04-08T18:00:10.964818"
 }
