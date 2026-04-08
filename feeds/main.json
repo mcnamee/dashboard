@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/605ce649-5b6a-4be6-ab62-64ecd002ce1d",
+      "published_datetime": "2026-04-08T21:03:09.218121",
+      "title": "NATO chief Rutte meets Trump amid US threat to leave alliance",
+      "featured_image": {
+        "url": "https://www.pbs.org/newshour/world/trump-is-expected-to-meet-with-rutte-as-he-muses-about-pulling-out-of-nato",
+        "name": "Trump is expected to meet with Rutte as he muses about pulling out ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--C0c0XEnA--/t_limit/https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-08T014030Z_29138359_RC2U5JAZKG1H_RTRMADP_3_IRAN-CRISIS-TRUMP-NATO-1024x683.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--lZCPBLXo--/t_thumbnail/https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-08T014030Z_29138359_RC2U5JAZKG1H_RTRMADP_3_IRAN-CRISIS-TRUMP-NATO-1024x683.jpg"
+      },
+      "description": "NATO Secretary-General Mark Rutte arrived at the White House on Wednesday for what may be the most consequential meeting in the alliance's 77-year history, as President Donald Trump's threats to withdraw the United States from the military bloc have plunged transatlantic relations into uncharted territory.\n\nThe meeting, confirmed by NATO and the Associated Press, comes after Trump told Reuters and The Telegraph in recent interviews that he is \"absolutely\" considering pulling the US out of NATO, citing what he called \"disgust\" with the alliance over European members' refusal to support the US-Israeli air campaign against Iran, launched on February 28. \"I was never swayed by NATO,\" Trump said. \"I always knew they were a paper tiger, and Putin knows that too, by the way.\"[1][2]",
+      "audio_url": "",
+      "url": "nato-chief-rutte-meets-trump-a-RFLiCZxsSeGJ5ttt41gL1A",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-04-08T20:55:04.000000Z",
+      "title": "Live: Federal government calls for protection of aid workers in Lebanon",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0d0238e41cebb3ff98be83b1ddfa060e?impolicy=wcms_crop_resize&amp;cropH=2066&amp;cropW=3672&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Australia has signed a joint statement calling for the protection of aid workers in Lebanon, and an urgent end to hostilities in the country. It's feared hundreds of people have been killed in Lebanon after an intense wave of Israeli strikes across the country against claimed Hezbollah targets. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-09/federal-politics-live-blog-fuel-albanese-singapore-wong-lebanon/106542790"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/325c303c-2431-4047-a8c5-db7372fe3add",
+      "published_datetime": "2026-04-08T20:51:47.478736",
+      "title": "Israeli strike kills Al Jazeera journalist in Gaza",
+      "featured_image": {
+        "url": "https://x.com/MarioNawfal/status/2041954107854815403",
+        "name": "\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Al Jazeera condemned the deliberate targeting of their journalist  Mohammed Wishah, who was killed in an Israeli drone strike west of Gaza.  They call it a \u201cheinous crime\u201d and part of",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--kw_QIewo--/t_limit/https://pbs.twimg.com/media/HFZ6b-pWEAAs0QD.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--o4MQIRG6--/t_thumbnail/https://pbs.twimg.com/media/HFZ6b-pWEAAs0QD.jpg"
+      },
+      "description": "Israeli forces killed at least 10 Palestinians in Gaza on Tuesday and carried out further strikes on Wednesday, including one that killed Al Jazeera correspondent Mohammed Wishah, as the U.S.-brokered ceasefire agreement continues to unravel six months after it took effect.",
+      "audio_url": "",
+      "url": "israeli-strike-kills-al-jazeer-gVBmxZFHRw.VFizkEAMvjQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-08T20:23:16.000000Z",
       "title": "With Israel's 'finger on the trigger', can the truce last? Matthew Doran has what you need to know",
       "featured_image": {
@@ -10,15 +49,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-09/iran-israel-war-daily-briefing/106544586"
     },
     {
-      "published_datetime": "2026-04-08T20:16:03.000000Z",
-      "title": "Iran and US already at odds over ceasefire terms",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98270cf8ffbb8fd5b456c76d8cc01dc5?impolicy=wcms_crop_resize&amp;cropH=1255&amp;cropW=2231&amp;xPos=0&amp;yPos=528&amp;width=862&amp;height=485"
-      },
-      "description": "Israeli strikes on Lebanon threaten to scuttle the US-Iran ceasefire as Iranian state media reports the Strait of Hormuz has been closed.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-09/iran-and-us-at-odds-over-ceasefire-terms/106544598"
-    },
-    {
       "published_datetime": "2026-04-08T20:06:58.000000Z",
       "title": "Top neuroscientist slams AFL move to back new headgear",
       "featured_image": {
@@ -26,6 +56,36 @@
       },
       "description": "The AFL has backed a new helmet that aims to reduce the risk of concussion, but a top neuroscientist is calling it \"bad scientific practice\".",
       "page_content_url": "https://www.abc.net.au/news/2026-04-09/gamegear-helmet-neuroscience-investigation/106534722"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1b76645c-e6db-4518-a86e-290a946dacc8",
+      "published_datetime": "2026-04-08T20:00:03.778749",
+      "title": "Vance to lead US delegation in Iran talks in Islamabad",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/us-vp-vance-spoke-intermediaries-about-iran-conflict-recently-tuesday-source-2026-04-01/",
+        "name": "US Vice President Vance spoke to intermediaries about Iran ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--s6QQl7oP--/t_limit/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3Y5ZMDHCP5LZBGKRJCWOFDSDQ4.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--jUqJ4D4H--/t_thumbnail/https://cloudfront-us-east-2.images.arcpublishing.com/reuters/3Y5ZMDHCP5LZBGKRJCWOFDSDQ4.jpg"
+      },
+      "description": "The United States and Iran are preparing for their first face-to-face negotiations since the outbreak of war, with Vice President JD Vance set to lead the American delegation to Islamabad this weekend for talks aimed at forging a lasting peace agreement. Iran's Parliament Speaker Mohammad Bagher Ghalibaf will head Tehran's team, according to Iran's semi-official ISNA news agency. The high-stakes diplomacy follows a two-week ceasefire agreed to on Tuesday night, brokered largely through Pakistan's mediation.[1][2]",
+      "audio_url": "",
+      "url": "vance-to-lead-us-delegation-in-V_Om8b3vTcqApZzozl3K2Q",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ba5e6697-5ad3-452e-bf42-47d4f14709a2",
+      "published_datetime": "2026-04-08T19:51:07.088731",
+      "title": "UN envoy arrives in Iran amid fragile US ceasefire",
+      "featured_image": {
+        "url": "https://tribune.com.pk/story/2599348/un-chief-names-arnault-as-me-envoy",
+        "name": "UN chief names Arnault as ME envoy",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--JKOBizRT--/t_limit/https://i.tribune.com.pk/media/images/foto_jean_arnault_01616048618-0/foto_jean_arnault_01616048618-0.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--gsxXwiOd--/t_thumbnail/https://i.tribune.com.pk/media/images/foto_jean_arnault_01616048618-0/foto_jean_arnault_01616048618-0.jpg"
+      },
+      "description": "UN Secretary-General Ant\u00f3nio Guterres's personal envoy Jean Arnault has arrived in Iran as part of a regional tour aimed at supporting \"a comprehensive and durable resolution\" to the conflict engulfing the Middle East, the United Nations announced on Wednesday. The visit comes amid a fragile two-week ceasefire between the United States and Iran brokered just one day earlier with Pakistan's mediation.[1][2][3][4]",
+      "audio_url": "",
+      "url": "un-envoy-arrives-in-iran-amid-ppe2ZZXYTAyoOgBcTYzUQg",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-04-08T19:30:05.000000Z",
@@ -128,7 +188,7 @@
     },
     {
       "published_datetime": "2026-04-08T17:22:50.000000Z",
-      "title": "Live: Ceasefire tested after Israel pounds Lebanon with wave of strikes",
+      "title": "Live: Ceasefire tested as Israel strikes Lebanon and Iran says Strait of Hormuz closed",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a328966e113ecf8c28c420dd5aae6ef7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=103&amp;width=862&amp;height=485"
       },
@@ -178,66 +238,6 @@
       "description": "Israel was not formally part of the negotiations that produced the two-week cease-fire between the United States and Iran announced on Tuesday, and Israeli officials were unhappy to learn that a deal had been finalized without prior consultation, according to a Wall Street Journal exclusive report citing mediators and a person familiar with the matter.[1]\n\nThe extent of Israel's involvement amounted to a phone call from President Donald Trump to Prime Minister Benjamin Netanyahu shortly before the cease-fire was publicly announced, a White House official told the Journal. Netanyahu agreed to participate in the cease-fire during that call.[1]",
       "audio_url": "",
       "url": "israel-learned-of-iran-cease-f-9ePh8.B2S_Ko5j2T_awDWQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0466e0ee-f6f0-48cb-8083-e6402da36c3f",
-      "published_datetime": "2026-04-08T16:28:44.190549",
-      "title": "Meta unveils Muse Spark, its first AI model from superintelligence team",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2024/10/04/meta-announces-new-ai-model-that-can-generate-video-with-sound.html",
-        "name": "Meta announces new AI model that can generate video with sound",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ujTDQbX7--/t_limit/https://image.cnbcfm.com/api/v1/image/108039162-17272877402024-09-25t180807z_254912789_rc2u7aaxwajp_rtrmadp_0_meta-platforms-virtual-reality.jpeg%3Fv%3D1739984866",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--PAHRbFgn--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108039162-17272877402024-09-25t180807z_254912789_rc2u7aaxwajp_rtrmadp_0_meta-platforms-virtual-reality.jpeg%3Fv%3D1739984866"
-      },
-      "description": "Meta on Wednesday unveiled Muse Spark, the first artificial intelligence model produced by its superintelligence division, marking the company's most substantial AI release in over a year as it races to close a gap with rivals OpenAI, Anthropic, and Google. The model, developed over roughly nine months under the internal codename Avocado, is now powering the Meta AI app and website in the United States, with a broader rollout planned in the coming weeks across Instagram, Facebook, WhatsApp, and Meta's smart glasses.[1][2][3]",
-      "audio_url": "",
-      "url": "meta-unveils-muse-spark-its-fi-fK02lsikRhSldo6FTkQWJA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/32b14ecd-db31-4473-a599-cdfaf6ab1dfe",
-      "published_datetime": "2026-04-08T16:09:12.280241",
-      "title": "Ceasefire frays as Iran strikes Gulf states, refinery hit",
-      "featured_image": {
-        "url": "https://aapnews.aap.com.au/news/us-objectives-in-iran-have-not-changed-hegseth-says",
-        "name": "Iran hits Kuwaiti oil refinery, blasts boom over Tehran",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--3pm9vbNm--/t_limit/https://aapnews.imgdeliver.net/article-assets/20260320180352/dc596c9c-77c1-4a2e-9dca-7eb29b5c69a4.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--iPriisi9--/t_thumbnail/https://aapnews.imgdeliver.net/article-assets/20260320180352/dc596c9c-77c1-4a2e-9dca-7eb29b5c69a4.jpg"
-      },
-      "description": "The ink was barely dry on the two-week ceasefire between the United States and Iran when fresh violence erupted across the Middle East on Wednesday, underscoring the fragility of an agreement reached just hours before President Trump's deadline threatening the destruction of Iranian \"civilization.\"[1][2]\n\nIran launched a wave of missiles and drones at targets in the United Arab Emirates and Kuwait early Wednesday, claiming retaliation for a strike on its oil facilities, according to Al Jazeera. The UAE Defense Ministry said its air defenses were \"actively engaging\" Iranian ballistic missiles, cruise missiles, and drones, while Kuwait reported intercepting 28 Iranian drones targeting oil facilities, power plants, and water desalination sites, with some causing infrastructure damage. Separately, Iran's state-owned refiner NIORDC confirmed that a 55,000-barrel-per-day refinery on Lavan Island was struck in what it called a \"cowardly attack by enemies\" around 10 a.m. local time Wednesday, though no casualties were reported.[3][4][5][6]",
-      "audio_url": "",
-      "url": "ceasefire-frays-as-iran-strike-VWDnNCrVSxShFyVhUZmIDg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f871ae72-9413-497c-9990-e8c1b9ccd0c3",
-      "published_datetime": "2026-04-08T14:51:43.906636",
-      "title": "Oman rejects Iran's Hormuz toll plan in ceasefire dispute",
-      "featured_image": {
-        "url": "https://www.firstpost.com/explainers/oman-rejects-irans-hormuz-toll-demand-can-such-fees-be-levied-on-ships-legally-13998073.html",
-        "name": "Oman rejects Iran's Hormuz toll demand. Can such fees be levied on ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--zBMqHwau--/t_limit/https://images.firstpost.com/uploads/2026/04/1-2026-04-ad7226c176ae5325cf119e58cb356487.jpg%3Fim%3DFitAndFill%253D%25281200%252C675%2529",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--mpjvdFXR--/t_thumbnail/https://images.firstpost.com/uploads/2026/04/1-2026-04-ad7226c176ae5325cf119e58cb356487.jpg%3Fim%3DFitAndFill%253D%25281200%252C675%2529"
-      },
-      "description": "Iran's push to charge vessels up to $2 million each for transiting the Strait of Hormuz has become one of the most contentious elements of the two-week ceasefire agreed with the United States on Tuesday, drawing sharp opposition from Oman, Gulf states, and international legal experts who say the fees violate maritime law.",
-      "audio_url": "",
-      "url": "oman-rejects-iran-s-hormuz-tol-i77Sf29eTwGKtNcXxyS37Q",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d9b824e0-4b7c-4c1e-9919-e2722773f2e1",
-      "published_datetime": "2026-04-08T14:35:52.475465",
-      "title": "Vance calls Iran ceasefire 'fragile,' set to lead talks Friday",
-      "featured_image": {
-        "url": "https://tass.com/world/2112765",
-        "name": "US proposes replacing Witkoff with JD Vance on negotiating team ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--rIB92hUj--/t_limit/https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260407/1470401.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--8wu2fcmi--/t_thumbnail/https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260407/1470401.jpg"
-      },
-      "description": "US Vice President JD Vance on Wednesday described the newly struck ceasefire between the United States and Iran as a \"fragile truce,\" urging Tehran to negotiate in good faith and warning that President Donald Trump is \"not one to mess around.\"\n\nSpeaking at the Mathias Corvinus Collegium in Budapest during a two-day visit to Hungary, Vance said Trump is \"impatient to make progress\" and that Iran faces serious consequences if it does not engage sincerely in upcoming talks.[1][2]\n\n\"If the Iranians are willing in good faith to work with us, I think we can make an agreement,\" Vance said. But he cautioned: if Iran refuses to come to the negotiating table, \"they're going to find out that the President of the United States is not one to mess around\".[1]",
-      "audio_url": "",
-      "url": "vance-calls-iran-ceasefire-fra-9p66l_SZRDCBWY3MLlpu_w",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-08T21:34:42.638374"
+  "merged_at": "2026-04-08T22:30:39.992229"
 }
