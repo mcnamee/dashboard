@@ -19,6 +19,24 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-09/iran-and-us-at-odds-over-ceasefire-terms/106544598"
     },
     {
+      "published_datetime": "2026-04-08T20:06:58.000000Z",
+      "title": "Top neuroscientist slams AFL move to back new headgear",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e5198d756fa28cc125c8a5212ea409d3?impolicy=wcms_crop_resize&amp;cropH=619&amp;cropW=1100&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The AFL has backed a new helmet that aims to reduce the risk of concussion, but a top neuroscientist is calling it \"bad scientific practice\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-09/gamegear-helmet-neuroscience-investigation/106534722"
+    },
+    {
+      "published_datetime": "2026-04-08T19:30:05.000000Z",
+      "title": "Brisbane suburbs set to become 'mini CBDs' as city prepares for population surge",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3c06a5e5e8404598a0e91ab6c23c37b5?impolicy=wcms_crop_resize&amp;cropH=3078&amp;cropW=5472&amp;xPos=0&amp;yPos=285&amp;width=862&amp;height=485"
+      },
+      "description": "As Brisbane prepares for an expected surge in population over the next 15 years, the council has introduced a plan to allow high-rise apartments in some of the city's suburban hubs.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-09/brisbane-sky-high-housing-plan-to-meet-population-growth/106518230"
+    },
+    {
       "published_datetime": "2026-04-08T19:28:50.000000Z",
       "title": "Family still waits to know how their loved one died, one year on",
       "featured_image": {
@@ -26,15 +44,6 @@
       },
       "description": "The family of Indigenous man Kumanjayi White has criticised the secrecy around the independent review into his death, which has been handed to NT Police and the DPP but not released publicly.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-09/nt-police-urged-to-release-review-into-kumanjayi-white-death/106542476"
-    },
-    {
-      "published_datetime": "2026-04-08T19:04:56.000000Z",
-      "title": "'Ketamine Queen' jailed for 15 years over death of Friends star Matthew Perry",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7b0f4460456d19eba7be58956018b339?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=113&amp;width=862&amp;height=485"
-      },
-      "description": "Jayvee Sangha admits to running a \"stash house\" that helped supply the famous Friends star ketamine in the months before his death.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-09/ketamine-queen-jailed-over-matthew-perry-death/106544564"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f800be55-884a-4233-af95-29c2fb7d9ffc",
@@ -84,7 +93,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0a93ccda0526918029cae8cb6aeca691?impolicy=wcms_crop_resize&amp;cropH=3441&amp;cropW=6117&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Neither side of politics in Australia rushed to celebrate the temporary ceasefire that followed US President Donald Trump's threat with too much enthusiasm.",
+      "description": "Neither side of politics in Australia rushed to enthusiastically celebrate the ceasefire deal that followed US President Donald Trump's threat.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-09/trump-iran-albanese-response/106544288"
     },
     {
@@ -119,7 +128,7 @@
     },
     {
       "published_datetime": "2026-04-08T17:22:50.000000Z",
-      "title": "Live: Ceasefire on brink after Israel pounds Lebanon with wave of strikes",
+      "title": "Live: Ceasefire tested after Israel pounds Lebanon with wave of strikes",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a328966e113ecf8c28c420dd5aae6ef7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=103&amp;width=862&amp;height=485"
       },
@@ -140,15 +149,6 @@
       "audio_url": "",
       "url": "iran-faces-economic-collapse-a-xZLYb3X5RkiX8Be18Yt1Bg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-08T17:11:54.000000Z",
-      "title": "US architect admits killing eight women in Gilgo Beach murders",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7373188d444e74809e579b81a95882a5?impolicy=wcms_crop_resize&amp;cropH=1018&amp;cropW=1810&amp;xPos=0&amp;yPos=259&amp;width=862&amp;height=485"
-      },
-      "description": "Rex Heuermann pleads guilty to seven murders and admits to the killing of another woman, solving a notorious case known as the Gilgo Beach killings.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-09/long-island-man-pleads-guilty-to-murder-of-eight-women/106544536"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/bd11a6e0-913c-46ae-a6fa-18942743c9ae",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-08T20:53:53.218534"
+  "merged_at": "2026-04-08T21:34:42.638374"
 }
