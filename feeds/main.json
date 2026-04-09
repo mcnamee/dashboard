@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-09T17:50:34.000000Z",
+      "title": "Israel agrees to Lebanon peace talks as strike death toll passes 300",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2b4b4eeaa665a2952e142ca94a970707?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=323&amp;width=862&amp;height=485"
+      },
+      "description": "The shaky ceasefire between the US, Israel and Iran remains in place ahead of peace talks due to begin in Pakistan on Saturday. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-10/iran-war-live-updates-trump-peace-talks-lebanon-israel/106547276"
+    },
+    {
+      "published_datetime": "2026-04-09T17:20:39.000000Z",
+      "title": "NATO chief defends alliance as Trump threatens US withdrawal over Iran",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40e084412b28ab91a822c6ddccde8df4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=40&amp;width=862&amp;height=485"
+      },
+      "description": "Mark Rutte says European nations and other US allies are playing a vital role in supporting American military operations as he seeks to defend the alliance from Donald Trump's attacks.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-10/rutte-trump-australia-strait-of-hormuz/106549290"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/93f2d435-ed89-4c7b-a588-613fcbbdbfc3",
       "published_datetime": "2026-04-09T16:43:27.129642",
       "title": "Iran envoy deletes post on Islamabad delegation amid ceasefire rift",
@@ -196,15 +214,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-09/how-the-iran-oil-shock-left-vladimir-putin-a-winner/106547558"
     },
     {
-      "published_datetime": "2026-04-09T06:58:25.000000Z",
-      "title": "Canavan's rebrand and new Facebook photo, Albanese's Trump rebuke",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e51f142e969d9f90d04f2c3ba37b8a9?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "With retro shades, big rhetoric and a rejection of net zero, Matt Canavan is hoping to reshape the Nationals. His first big test is just weeks away.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-09/matt-canavan-pit-viper-brand-albanese-trump/106536778"
-    },
-    {
       "published_datetime": "2026-04-09T06:12:49.000000Z",
       "title": "Gang rapist on the run after escaping custody at Sydney hospital",
       "featured_image": {
@@ -230,15 +239,6 @@
       },
       "description": "The high cost of fuel is making it even more difficult for people living in their cars to afford food, electricity and transport.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-09/people-living-in-cars-hit-hard-by-fuel-crisis/106538490"
-    },
-    {
-      "published_datetime": "2026-04-08T17:22:50.000000Z",
-      "title": "Israel issues new warnings for Lebanon amid US-Israel-Iran ceasefire",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a328966e113ecf8c28c420dd5aae6ef7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=103&amp;width=862&amp;height=485"
-      },
-      "description": "Meanwhile, US Donald Trump says if an agreement is not reached, the \"shootin' starts bigger and better and stronger than anyone has ever seen before\".\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-09/iran-war-live-updates-trump-ceasefire-deal/106543418"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-09T17:56:24.496686"
+  "merged_at": "2026-04-09T18:54:59.018502"
 }
