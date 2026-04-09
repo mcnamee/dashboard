@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-09T21:31:00.000000Z",
+      "title": "Breaking: Queensland state MP Jimmy Sullivan found dead",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98e983459f2238a8e989901938c6c902?impolicy=wcms_crop_resize&amp;cropH=1488&amp;cropW=2646&amp;xPos=1405&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "MP for Stafford Jimmy Sullivan has been found dead in Brisbane.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-10/jimmy-sulivan-state-politician-queensland-dead/106549668"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9cacc644-2fa4-49d8-9542-fa26ceb67d25",
       "published_datetime": "2026-04-09T21:15:12.280960",
       "title": "Oil prices rebound as Iran accuses U.S. of ceasefire breach",
@@ -14,15 +23,6 @@
       "audio_url": "",
       "url": "oil-prices-rebound-as-iran-acc-jYyigdnbRdS3FA0An1TlgQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-09T21:14:06.000000Z",
-      "title": "Live: Albanese says Singapore, Australia 'have each others' backs ahead of talks",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5da2510661942ee2e7435e0213b9d0f0?impolicy=wcms_crop_resize&amp;cropH=3102&amp;cropW=5515&amp;xPos=0&amp;yPos=288&amp;width=862&amp;height=485"
-      },
-      "description": "Prime Minister Anthony Albanese has touched down in Singapore for talks with his counterpart as he tries to shore up fuel supplies. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-10/federal-politics-live-fuel-singapore-albanese-iran/106549564"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f2d7508b-645e-4513-b312-4c6b1039a977",
@@ -143,11 +143,11 @@
     },
     {
       "published_datetime": "2026-04-09T17:50:34.000000Z",
-      "title": "Live: Iran's leader declares victory, Kuwait says it's being attacked by drones",
+      "title": "Live: Trump rails at reported Strait of Hormuz tolls as attacks continue across gulf",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2b4b4eeaa665a2952e142ca94a970707?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=323&amp;width=862&amp;height=485"
       },
-      "description": "Ayatollah Mojtaba Khamenei says the Iranian people are the \u201cdefinitive victors\u201d in the conflict, ahead of peace talks due to begin in Pakistan on Saturday. Follow live.",
+      "description": "US President Donald Trump issues a fresh warning to Iran over charging ships using the Strait of Hormuz, as parts of Kuwait and Lebanon come under attack. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-10/iran-war-live-updates-trump-peace-talks-lebanon-israel/106547276"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-09T21:54:22.061835"
+  "merged_at": "2026-04-09T22:32:50.959532"
 }
