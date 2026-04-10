@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-10T00:58:56.000000Z",
+      "title": "Sean 'Diddy' Combs's four-year prison sentence questioned in appeals court",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/43822aef9a1d5646e3e0d9380861a7a2?impolicy=wcms_crop_resize&amp;cropH=2590&amp;cropW=4605&amp;xPos=0&amp;yPos=111&amp;width=862&amp;height=485"
+      },
+      "description": "Sean \"Diddy\" Combs's lawyers argue his four-year prison term for prostitution-related charges is too harsh.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-10/sean-combs-diddy-lawyers-appeal-prison-sentence-judge-court/106550060"
+    },
+    {
+      "published_datetime": "2026-04-10T00:44:41.000000Z",
+      "title": "The last-minute diplomacy that brought Trump back from the brink",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2aa7059202cd122256126987a31a4a4f?impolicy=wcms_crop_resize&amp;cropH=1542&amp;cropW=2742&amp;xPos=0&amp;yPos=127&amp;width=862&amp;height=485"
+      },
+      "description": "For a few volatile hours, the war in the Middle East appeared to be tipping past the point of no return \u2014 until a last-minute push of diplomacy pulled it back.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-10/how-pakistan-brought-trump-back-from-the-brink-iran-war/106548806"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9cacc644-2fa4-49d8-9542-fa26ceb67d25",
       "published_datetime": "2026-04-09T21:15:12.280960",
       "title": "Oil prices rebound as Iran accuses U.S. of ceasefire breach",
@@ -116,7 +134,7 @@
     },
     {
       "published_datetime": "2026-04-09T18:43:36.000000Z",
-      "title": "Construction businesses vulnerable to supply chain shock, experts warn",
+      "title": "This couple has a fixed price contract to build their home, it's just gone up $120,000",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a5d1999f8935c743bdb0a4ee444a8330?impolicy=wcms_crop_resize&amp;cropH=610&amp;cropW=1086&amp;xPos=0&amp;yPos=57&amp;width=862&amp;height=485"
       },
@@ -124,31 +142,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-10/construction-sector-warns-of-housing-delays-mass-layoffs/106548194"
     },
     {
-      "published_datetime": "2026-04-09T18:42:50.000000Z",
-      "title": "Why Albanese's visit to Singapore is 'very necessary'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/deb571b906fa954989af058d60dca269?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
-      },
-      "description": "Experts say visits like Anthony Albanese's trip to Singapore are important for securing Australia's energy supplies. As one observer puts it: \"When you don't have the stock, you need friends.\"",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-10/how-the-pms-singapore-visit-could-help-our-fuel-supply/106543820"
-    },
-    {
       "published_datetime": "2026-04-09T18:38:15.000000Z",
-      "title": "Inside the church of the man who has been leading the US through war",
+      "title": "Hegseth's religious rhetoric and Pentagon prayers rile some Americans",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/82bb58e35be6e3fe479e0eb1344b205c?impolicy=wcms_crop_resize&amp;cropH=2061&amp;cropW=3665&amp;xPos=695&amp;yPos=252&amp;width=862&amp;height=485"
       },
       "description": "The ABC visits US Defense Secretary Pete Hegseth's church, whose leaders challenge the legitimacy of democracy and key principles in the US constitution.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-10/pete-hegseth-holy-war-in-iran-christian-nationalism/106500910"
-    },
-    {
-      "published_datetime": "2026-04-09T17:50:34.000000Z",
-      "title": "Live: Trump rails at reported Strait of Hormuz tolls as attacks continue across gulf",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2b4b4eeaa665a2952e142ca94a970707?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=323&amp;width=862&amp;height=485"
-      },
-      "description": "US President Donald Trump issues a fresh warning to Iran over charging ships using the Strait of Hormuz, as parts of Kuwait and Lebanon come under attack. Follow live.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-10/iran-war-live-updates-trump-peace-talks-lebanon-israel/106547276"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/93f2d435-ed89-4c7b-a588-613fcbbdbfc3",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-09T23:31:17.347531"
+  "merged_at": "2026-04-10T01:28:35.426773"
 }
