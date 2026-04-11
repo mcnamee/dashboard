@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-11T07:51:43.000000Z",
+      "title": "How NASA and the Artemis II crew completed the 'perfect' splashdown",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f1cb05a7f67a7537c1d89e965928ed66?impolicy=wcms_crop_resize&amp;cropH=2067&amp;cropW=3675&amp;xPos=858&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Nine days, one hour, 32 minutes and 15 seconds, a journey deeper into space than ever before and a rapt Earth watching on. This is how four astronauts made history.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-11/artemis-nasa-landing-moon/106545514"
+    },
+    {
       "published_datetime": "2026-04-11T06:26:16.000000Z",
       "title": "Live: JD Vance arrives in Pakistan for peace talks with Iran",
       "featured_image": {
@@ -29,11 +38,11 @@
     },
     {
       "published_datetime": "2026-04-11T04:36:53.000000Z",
-      "title": "Live: Raiders just hold on in wild west shoot-out",
+      "title": "Live: Baffling Bunker call denies Roosters a try",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c2c5134b1be72b8db0812b5276e5c97?impolicy=wcms_crop_resize&amp;cropH=2195&amp;cropW=3902&amp;xPos=0&amp;yPos=203&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a76d81282a5ccc4026b404ac6784d5a1?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=209&amp;width=862&amp;height=485"
       },
-      "description": "Canberra have ended their losing streak in dramatic fashion with a high-scoring win over a fast-finishing South Sydney. Follow live.",
+      "description": "The Roosters chances of pulling off a comeback win over the Sharks have taken a blow following a questionable call from the Bunker. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-11/nrl-live-broncos-souths-raiders-sharks-roosters-storm-warriors/106554540"
     },
     {
@@ -107,15 +116,6 @@
       "audio_url": "",
       "url": "macron-invites-trump-to-versai-VdJpXWp1SQWmLdF6MBRD0w",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-10T21:50:46.000000Z",
-      "title": "Live: Artemis II astronauts hoisted to recovery ship after 'perfect bullseye' landing",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/76adac2b8a8d0093d7fbe721420e4419?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
-      },
-      "description": "The crew on board the Orion has returned to Earth, splashing down in the Pacific Ocean in a perfect '\"bullseye\". Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-11/artemis-ii-splashdown-landing-abc-live-blog-moon-mission/106551526"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/05801cce-2980-4fbb-a208-19b1a94dd8aa",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-11T07:43:54.731399"
+  "merged_at": "2026-04-11T08:32:30.077855"
 }
