@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4daec039-0d4f-4832-9650-45e70487083f",
+      "published_datetime": "2026-04-12T14:53:42.529825",
+      "title": "Putin offers to mediate after US-Iran talks collapse in Islamabad",
+      "featured_image": {
+        "url": "https://www.newarab.com/news/russia-seeks-serve-mediator-between-us-and-iran",
+        "name": "Russia seeks to serve as mediator between US and Iran",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--lzh8mzJt--/t_limit/https://www.newarab.com/sites/default/files/2190074321.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--s1vkXlVQ--/t_thumbnail/https://www.newarab.com/sites/default/files/2190074321.jpeg"
+      },
+      "description": "Russian President Vladimir Putin told Iranian President Masoud Pezeshkian on Sunday that Moscow stands ready to mediate between the United States and Iran, hours after marathon negotiations in Islamabad ended without an agreement and raised fears that a fragile ceasefire could unravel.\n\n\"Vladimir Putin emphasized his readiness to further facilitate the search for a political and diplomatic settlement to the conflict, and to mediate efforts to achieve a just and lasting peace in the Middle East,\" the Kremlin said in its readout of the call.[1][2]",
+      "audio_url": "",
+      "url": "putin-offers-to-mediate-after-BOisy1YZQGqEMyvJ0IRY2A",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-12T13:56:47.000000Z",
       "title": "Trump says US Navy will begin Strait of Hormuz blockade after failed talks",
       "featured_image": {
@@ -226,21 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-12/afl-gather-round-sunday-blog-geel-wc-gws-rich-port-stk/106543636"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c98b35d7-4d6c-437c-bd2c-aa936715af57",
-      "published_datetime": "2026-04-12T00:49:45.889813",
-      "title": "Lebanon death toll passes 2,000 as Israel-Hezbollah fighting intensifies",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2024/10/19/drone-hits-netanyahus-home-as-hezbollah-rockets-target-northern-israel",
-        "name": "Hezbollah rockets target Israel\u2019s north as Israel pounds Beirut suburbs",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--nUYLZ1By--/t_limit/https://www.aljazeera.com/wp-content/uploads/2024/10/2024-10-19T153912Z_575966367_RC2RNAAEM5BP_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON-1729357179.jpg%3Fresize%3D770%252C513%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--fXKN4yz---/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2024/10/2024-10-19T153912Z_575966367_RC2RNAAEM5BP_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON-1729357179.jpg%3Fresize%3D770%252C513%26quality%3D80"
-      },
-      "description": "Lebanon's Health Ministry confirmed Saturday that at least 2,020 people have been killed and 6,436 wounded since the country was drawn into the broader U.S.-Israel conflict with Iran on March 2, as Israeli forces showed no signs of halting operations against Hezbollah despite ongoing ceasefire negotiations between Washington and Tehran.[1][2]\n\nThe grim milestone came as the Israel Defense Forces reported striking approximately 200 Hezbollah targets across Lebanon overnight Friday and into Saturday, hitting what it described as terror infrastructure and rocket launchers in support of ground operations in southern Lebanon. Hezbollah, meanwhile, continued to fire rockets and drones into northern Israel, with sirens sounding across the Galilee region and a rocket striking the city of Safed on Thursday, injuring several people.[3][4][5][6]",
-      "audio_url": "",
-      "url": "lebanon-death-toll-passes-2000-mKP4WR.iQx.xevUz4B2WdA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-12T16:28:10.275911"
+  "merged_at": "2026-04-12T17:27:48.497576"
 }
