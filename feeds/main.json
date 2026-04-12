@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-12T13:56:47.000000Z",
+      "title": "Trump says US Navy will begin Strait of Hormuz blockade after failed talks",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c49a57e4a8c3cc4a21e93697c195fd69?impolicy=wcms_crop_resize&amp;cropH=2531&amp;cropW=4500&amp;xPos=0&amp;yPos=386&amp;width=862&amp;height=485"
+      },
+      "description": "US President Donald Trump made the comments after the US and Iran failed to reach an agreement after 21 hours in talks in Islamabad.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-12/trump-blockades-strait-of-hormuz-iran-us-war/106556552"
+    },
+    {
+      "published_datetime": "2026-04-12T10:28:22.000000Z",
+      "title": "Hull closes national titles on her terms with 5k win after shock 1,500m fall",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed9470925ad1d9391a9f2616fef2c228?impolicy=wcms_crop_resize&amp;cropH=2164&amp;cropW=3847&amp;xPos=0&amp;yPos=162&amp;width=862&amp;height=485"
+      },
+      "description": "Olympic silver medallist Jess Hull was reeling after her fall in the 1,500m at the Australian Athletics Championships, but has regrouped to win the 5,000m.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-12/jess-hull-5000m-win-after-1500m-shock-fall-athletics-champs/106556436"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/72665bcf-673d-4d25-a9c3-1baf6cc0832b",
       "published_datetime": "2026-04-12T10:12:57.114610",
       "title": "USS John P. Murtha returns to San Diego with Artemis II Orion capsule",
@@ -178,15 +196,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-12T00:41:59.000000Z",
-      "title": "No work, no savings, no way to wait: India's migrant workers head home",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d87250ebcc7943517895239442b4bff5?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=108&amp;width=862&amp;height=485"
-      },
-      "description": "The war in the Middle East has brought one of India's largest industrial hubs to a standstill. In the city of Morbi, hundreds of thousands of workers have lost their jobs, after gas supplies were disrupted thousands of kilometres away.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-12/iran-war-shut-down-indias-ceramics-capital/106546296"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3d02b3bc-e2f1-4e6f-bd58-fe1f7f3b70a8",
       "published_datetime": "2026-04-12T00:41:07.531080",
       "title": "Trump says 'we win' regardless of Iran talks outcome",
@@ -230,15 +239,6 @@
       "audio_url": "",
       "url": "pope-leo-xiv-decries-delusion-RMlSvXxRSfKqgqAyjyKlKg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-11T06:26:16.000000Z",
-      "title": "Vance says no deal struck with Iran after 21 hours of negotiations \u2014 as it happened",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f9fda69ec1b05bb2a358c790c1eca0fd?impolicy=wcms_crop_resize&amp;cropH=1430&amp;cropW=2543&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "US Vice-President JD Vance says 21 hours of negotiations with Iranian delegates in Pakistan have failed to produce a deal \u2014 as it happened.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-11/iran-war-live-updates-pakistan-peace-talks-trump-vance/106554508"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-12T13:54:34.258643"
+  "merged_at": "2026-04-12T14:34:48.801782"
 }
