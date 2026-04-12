@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/72665bcf-673d-4d25-a9c3-1baf6cc0832b",
+      "published_datetime": "2026-04-12T10:12:57.114610",
+      "title": "USS John P. Murtha returns to San Diego with Artemis II Orion capsule",
+      "featured_image": {
+        "url": "https://www.thetimes.com/us/news-today/article/artemis-2-splashdown-live-return-earth-ltvr2vm5t",
+        "name": "Artemis II makes 'perfect' splashdown after historic mission",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--D2k0dDUb--/t_limit/https://www.thetimes.com/imageserver/image/a004fc85-bc4f-402d-948a-c8a1d4ee22f9.jpg%3Fstrip%3Dall%26format%3Dwebp%26crop%3D4796px%252C2698px%252C565px%252C951px%26resize%3D2360",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Mux9dNQP--/t_thumbnail/https://www.thetimes.com/imageserver/image/a004fc85-bc4f-402d-948a-c8a1d4ee22f9.jpg%3Fstrip%3Dall%26format%3Dwebp%26crop%3D4796px%252C2698px%252C565px%252C951px%26resize%3D2360"
+      },
+      "description": "The amphibious transport dock USS John P. Murtha (LPD 26) returned to Naval Base San Diego on Saturday morning carrying NASA's Orion capsule after recovering the spacecraft and its four-person crew from the Pacific Ocean following the Artemis II lunar mission.[1][2]",
+      "audio_url": "",
+      "url": "uss-john-p-murtha-returns-to-s-x1jxyQpLTJ2H4R8N8dZcTQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-12T07:39:43.000000Z",
       "title": "Emergency warning issued after blaze at Perth battery recycling facility",
       "featured_image": {
@@ -140,11 +155,11 @@
     },
     {
       "published_datetime": "2026-04-12T02:00:52.000000Z",
-      "title": "Live: Power launch massive fightback against Saints",
+      "title": "Saints lift when it counts to beat Power in Gather Round finale",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/efca85fb3903e5f94f7c9712d30686ca?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=98&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7252197f5246fa4090a288cf5d52d01a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=72&amp;width=862&amp;height=485"
       },
-      "description": "Gather Round wraps up at Adelaide Oval, with the Power facing off with the Saints. Follow live.",
+      "description": "Port Adelaide throws out a challenge to St Kilda in the third quarter, but the Saints find enough in the tank to record a 14-point win.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-12/afl-gather-round-sunday-blog-geel-wc-gws-rich-port-stk/106543636"
     },
     {
@@ -214,21 +229,6 @@
       "description": "Pope Leo XIV delivered his sharpest condemnation yet of the U.S.-Israel war in Iran on Saturday, presiding over an evening prayer vigil at St. Peter's Basilica where he denounced the \"delusion of omnipotence\" driving the conflict and demanded world leaders choose negotiation over military force.\n\nThe vigil, which featured Scripture readings and meditative recitation of Rosary prayers, coincided with the start of historic face-to-face peace talks between the United States and Iran in Islamabad, Pakistan \u2014 the first direct dialogue between Washington and Tehran since the 1979 Islamic Revolution.[1]",
       "audio_url": "",
       "url": "pope-leo-xiv-decries-delusion-RMlSvXxRSfKqgqAyjyKlKg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/49e4afeb-5791-4d6e-9270-9d6a47a800dc",
-      "published_datetime": "2026-04-11T22:07:49.748444",
-      "title": "Netanyahu says Israel's Iran campaign 'not over' as U.S.-Iran talks begin in Islamabad",
-      "featured_image": {
-        "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-says-campaign-against-iran-not-over-admits-more-to-do-as-he-touts-historic-achievements/",
-        "name": "Netanyahu says campaign against Iran 'not over,' admits ...",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1775943994/url_uploads/F67F8404-3C8D-460F-B780-49B3BBCFE709_1_201_a-e1775930932340_ua3yvp.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1775943994/url_uploads/F67F8404-3C8D-460F-B780-49B3BBCFE709_1_201_a-e1775930932340_ua3yvp.jpg"
-      },
-      "description": "Israeli Prime Minister Benjamin Netanyahu declared Saturday night that Israel's campaign against Iran \"is not over,\" issuing a video statement that touted what he called \"historic achievements\" while acknowledging that \"we still have more to do,\" even as U.S. and Iranian negotiators held their first round of ceasefire talks in Islamabad.[1][2]",
-      "audio_url": "",
-      "url": "netanyahu-says-israel-s-iran-c-uI7gX..PQK.oEeTdpnsObQ",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-12T11:27:30.809571"
+  "merged_at": "2026-04-12T12:40:19.371016"
 }
