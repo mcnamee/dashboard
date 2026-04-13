@@ -11,12 +11,21 @@
     },
     {
       "published_datetime": "2026-04-13T14:01:21.000000Z",
-      "title": "Live: US Navy begins blockade of Iranian ports after failed peace talks",
+      "title": "Live: US Navy begins blockade of Hormuz, Trump claims Iran 'very badly' wants deal",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c49a57e4a8c3cc4a21e93697c195fd69?impolicy=wcms_crop_resize&amp;cropH=2531&amp;cropW=4500&amp;xPos=0&amp;yPos=386&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dc03a1b350fddddca168fd859bf7f8c2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
       "description": "The US Navy is expected to begin its blockade of the Strait of Hormuz after Trump warned he would do so following failed peace talks with Iran. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-14/iran-war-live-updates-blockade-strait-of-hormuz-begins-trump/106559224"
+    },
+    {
+      "published_datetime": "2026-04-13T14:01:00.000000Z",
+      "title": "Australia's LNG exporters will face a tougher future, new report says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9f1c013c2bb34a7d25916afd59d6a508?impolicy=wcms_crop_resize&amp;cropH=1345&amp;cropW=2400&amp;xPos=368&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The long-term outlook for Australia's liquefied natural gas exports is structurally constrained by declining demand, and the current war in the Middle East may hasten that shift away from gas, a new report claims.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-14/australia-lng-export-window-closing-climate-resource-report/106557570"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/efa5a904-a606-433a-8efc-2bceb5f52192",
@@ -131,15 +140,6 @@
       "audio_url": "",
       "url": "wise-reports-26-q4-volume-surg-ESByZu4DQBy.QS03dsdkmg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-13T08:33:18.000000Z",
-      "title": "Federal MPs urged not to speak out about looming Ben Roberts-Smith trial",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ae356f132b4b7d7787b709dd9cbf8ddc?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=367&amp;width=862&amp;height=485"
-      },
-      "description": "A federal MP and former commando has urged colleagues from across the aisle to refrain from speaking out about the arrest of accused war criminal Ben Roberts-Smith.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-13/nt-labor-mp-luke-gosling-warning-over-ben-roberts-smith-trial/106559926"
     },
     {
       "published_datetime": "2026-04-13T08:26:26.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-13T16:55:11.253173"
+  "merged_at": "2026-04-13T17:52:52.901257"
 }
