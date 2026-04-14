@@ -13,9 +13,9 @@
       "published_datetime": "2026-04-14T11:31:44.000000Z",
       "title": "Breaking: Magnitude-4.5 earthquake felt across large parts of NSW",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1274683239db9d590f4d60843351fd49?impolicy=wcms_crop_resize&amp;cropH=326&amp;cropW=579&amp;xPos=0&amp;yPos=30&amp;width=862&amp;height=485"
+        "thumbnail": ""
       },
-      "description": "The NSW Central West has been hit by a one of the largest earthquakes ever recorded in the region.",
+      "description": "The NSW Central West has been hit by the largest earthquake ever recorded in the region.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-14/orange-earthquake-widely-felt-in-nsw/106565244"
     },
     {
@@ -82,6 +82,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-14/prince-harry-meghan-markle-melbourne-royal-visit/106562088"
     },
     {
+      "published_datetime": "2026-04-14T10:25:15.000000Z",
+      "title": "Founder of China property giant Evergrande pleads guilty to fraud",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f035d2f7575e290e296163bba2560e32?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Hui Ka Yan's plea comes after three years in detention, while Evergrande's liquidators are battling in court outside mainland China to freeze the offshore assets of the founder and his ex-spouse over billions of US dollars in dividends and remuneration.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-14/evergrande-founder-pleads-guilty-to-fraud/106564948"
+    },
+    {
       "published_datetime": "2026-04-14T06:48:41.000000Z",
       "title": "Coalition's migration proposal faces practical questions",
       "featured_image": {
@@ -107,15 +116,6 @@
       },
       "description": "A group of Palestinian human rights organisations launch legal action against the defence minister seeking transparency over Australia's arms exports to Israel.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-14/palestinian-legal-action-australia-weapons-exports-israel-f-35/106558340"
-    },
-    {
-      "published_datetime": "2026-04-14T06:06:06.000000Z",
-      "title": "Harvey Weinstein to face retrial on New York rape charge",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9562f0dd881ec2c0c16b5bad6d2fb872?impolicy=wcms_crop_resize&amp;cropH=2025&amp;cropW=3600&amp;xPos=0&amp;yPos=327&amp;width=862&amp;height=485"
-      },
-      "description": "Former Hollywood magnate Harvey Weinstein is again going on trial on a rape charge in New York City. He will remain imprisoned for other offences regardless of the verdict.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-14/harvey-weinstein-faces-retrial-of-rape-case-in-new-york/106563996"
     },
     {
       "published_datetime": "2026-04-14T03:31:49.000000Z",
@@ -152,6 +152,15 @@
       },
       "description": "A 21-year-old woman was charged with reckless driving after dash cam video allegedly caught her overtaking a triple road train in an \"unsafe\" manner.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-14/truck-near-misses-on-wa-highway-prompts-safety-call/106562806"
+    },
+    {
+      "published_datetime": "2026-04-14T06:06:06.000000Z",
+      "title": "Harvey Weinstein to face retrial on New York rape charge",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9562f0dd881ec2c0c16b5bad6d2fb872?impolicy=wcms_crop_resize&amp;cropH=2025&amp;cropW=3600&amp;xPos=0&amp;yPos=327&amp;width=862&amp;height=485"
+      },
+      "description": "Former Hollywood magnate Harvey Weinstein is again going on trial on a rape charge in New York City. He will remain imprisoned for other offences regardless of the verdict.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-14/harvey-weinstein-faces-retrial-of-rape-case-in-new-york/106563996"
     },
     {
       "published_datetime": "2026-04-14T07:59:58.000000Z",
@@ -199,15 +208,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-14/gavin-preston-cafe-shooting-underworld-court/106564232"
     },
     {
-      "published_datetime": "2026-04-14T04:58:46.000000Z",
-      "title": "Australia's largest cattle feedlot on the market as grain-fed beef surges",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b87bbfd61be429e97efd5bf897fb323a?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=214&amp;width=862&amp;height=485"
-      },
-      "description": "Mort &amp; Co, which fattens hundreds of thousands of cattle on grain before being slaughtered for beef, puts the majority of its assets on the market.  ",
-      "page_content_url": "https://www.abc.net.au/news/rural/2026-04-14/lotfeeder-mort-and-co-selling-majority-of-assets/106562294"
-    },
-    {
       "published_datetime": "2026-04-14T06:18:50.000000Z",
       "title": "Blow to cartography in Australia as The Map Shop prepares to close",
       "featured_image": {
@@ -217,13 +217,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-14/the-map-shop-prepares-to-close-its-doors-in-adelaide/106563300"
     },
     {
-      "published_datetime": "2026-04-14T07:34:03.000000Z",
-      "title": "Man who sent threatening letters was 'drinking himself to sleep'",
+      "published_datetime": "2026-04-14T04:58:46.000000Z",
+      "title": "Australia's largest cattle feedlot on the market as grain-fed beef surges",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/060a25173d153a2932c62ec9646cd787?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=225&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b87bbfd61be429e97efd5bf897fb323a?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=214&amp;width=862&amp;height=485"
       },
-      "description": "A man who sent threatening letters to a Sydney mosque was \"drinking himself to sleep\" and \"fell into some type of internet rabbit hole\", a court hears.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-14/nsw-lakemba-mosque-court-raymonb-brookes-sentenced/106564506"
+      "description": "Mort &amp; Co, which fattens hundreds of thousands of cattle on grain before being slaughtered for beef, puts the majority of its assets on the market.  ",
+      "page_content_url": "https://www.abc.net.au/news/rural/2026-04-14/lotfeeder-mort-and-co-selling-majority-of-assets/106562294"
     }
   ]
 }
