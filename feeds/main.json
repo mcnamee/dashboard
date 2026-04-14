@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-14T21:12:21.000000Z",
+      "title": "Live: PM in Brunei for fuel talks as Chalmers heads to Washington",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/beb7304bfe6cacdb6e62a44eb88b458f?impolicy=wcms_crop_resize&amp;cropH=3211&amp;cropW=5709&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
+      },
+      "description": "Anthony Albanese will leverage Australia's food exports while in Brunei in a bid to shore up long-term fuel supplies. Meanwhile, Treasurer Jim Chalmers is off to Washington following the release of the IMF's latest global economic outlook. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-15/federal-politics-blog-albanese-fuel-iran-chalmers-taylor-imf/106565674"
+    },
+    {
+      "published_datetime": "2026-04-14T21:04:26.000000Z",
+      "title": "Struggling to pay attention? Here's what's happening in your brain",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cade25bd96cd6dba95966c60e2dd3ed2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "If it feels harder to concentrate than it used to, it's not just you. Scientists say your brain is reacting exactly as it was designed to \u2014 but in a very different world.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-15/attention-distraction-psychology-digital-technology-/106388742"
+    },
+    {
       "published_datetime": "2026-04-14T20:04:32.000000Z",
       "title": "Peace talks, strait closed, China calls out US blockade: What to know today",
       "featured_image": {
@@ -33,7 +51,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d108ed70dcf9aca093bae12dc0592e18?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Australia controls less than 20 per cent of our liquid fuel supply and relies on imports for the other 80-plus per cent we need to keep the nation moving. But proponents of biofuels argue that it does not need to be this way.",
+      "description": "Australia controls less than 20 per cent of our liquid fuel supply and relies on imports for the other 80-plus per cent we need to keep the nation moving. But proponents of biofuels argue it does not need to be this way.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-15/biofuels-potential-to-bolster-australias-fuel-security/106511646"
     },
     {
@@ -223,24 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-14T11:31:44.000000Z",
-      "title": "Magnitude-4.5 earthquake near mine felt across large parts of NSW",
-      "featured_image": {
-        "thumbnail": ""
-      },
-      "description": "The NSW Central West has been hit by the largest earthquake ever recorded in the region.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-14/orange-earthquake-widely-felt-in-nsw/106565244"
-    },
-    {
-      "published_datetime": "2026-04-14T06:58:20.000000Z",
-      "title": "Billionaire's 'slow moving car crash' leads to individuals being investigated by ASIC",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c9ecff992677335126e61621e7ae3b75?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "After years of financial red flags, corporate watchdog ASIC confirms it has multiple investigations underway into Sanjeev Gupta's troubled empire, following multiple collapses that have left hundreds of workers facing an uncertain future.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-14/sanjeev-gupta-portfolio-three-companies-collapsed-asic/106559684"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-14T20:43:48.749172"
+  "merged_at": "2026-04-14T21:42:51.610177"
 }
