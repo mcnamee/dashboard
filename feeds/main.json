@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-14T04:04:35.000000Z",
+      "title": "Stagflation is a 'central banker's nightmare', says RBA deputy governor",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a71801eae55bc6fc54b9ad4adc1b7e13?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "RBA deputy governor Andrew Hauser says stagflation is a \"central banker's nightmare\" and the coming months will be challenging for Australia.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-14/stagflation-central-banks-nightmare-says-rba-deputy-governor/106561900"
+    },
+    {
+      "published_datetime": "2026-04-14T03:58:02.000000Z",
+      "title": "Breaking: WA government says it has secured 4 million litres of diesel",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18147d3c900fa185bc2622decdbcea5b?impolicy=wcms_crop_resize&amp;cropH=1447&amp;cropW=2573&amp;xPos=0&amp;yPos=135&amp;width=862&amp;height=485"
+      },
+      "description": "Four million litres of diesel is set to arrive in Western Australia \"in the coming weeks\" as part of a strategic stockpile to address acute, localised fuel shortages across the state.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-14/wa-government-says-it-has-secured-4-million-litres-of-diesel/106563508"
+    },
+    {
+      "published_datetime": "2026-04-14T03:23:53.000000Z",
+      "title": "Prince Harry and Meghan kick off Australia visit with stop at Melbourne hospital",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e60459ab726fb2b3b235359fd9fe7324?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The Duke and Duchess of Sussex have begun their multi-day visit to Australia in Melbourne, meeting with patients at a children's hospital.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-14/prince-harry-meghan-markle-melbourne-royal-visit/106562088"
+    },
+    {
+      "published_datetime": "2026-04-14T03:13:44.000000Z",
+      "title": "How the AFL's gamble with conflict of interest concerns didn't pay off",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/50d7ff8d3af04e15a8490e300966e2ce?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
+      },
+      "description": "The AFL gambled that concerns over a conflict of interest with one of its umpires wouldn't be an issue, but that call has come back to bite them \u2014 and it's not the umpire's fault.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-14/afl-analysis-zak-butters-and-nick-foot-incident-a-tough-call/106561896"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3202df79-7be9-49ba-bee6-ec43c4c405df",
+      "published_datetime": "2026-04-14T02:59:08.071951",
+      "title": "Trump rejects Iran's 5-year enrichment offer as ceasefire deadline nears",
+      "featured_image": {
+        "url": "https://www.axios.com/2025/03/30/trump-iran-nuclear-deal-bombing",
+        "name": "Trump threatens Iran with bombs unless nuclear deal reached",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--CAKvMMWU--/t_limit/https://images.axios.com/s8g_pNL-EjB3jh2G8yJJ0oU86do%3D/0x314:7779x4690/1920x1080/2025/03/30/1743346717773.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--3zJmFa3s--/t_thumbnail/https://images.axios.com/s8g_pNL-EjB3jh2G8yJJ0oU86do%3D/0x314:7779x4690/1920x1080/2025/03/30/1743346717773.jpg"
+      },
+      "description": "Iran formally responded on Monday to a U.S. demand that it freeze uranium enrichment for 20 years, offering instead to suspend enrichment activities for up to five years, according to two senior Iranian officials and a U.S. official cited by The New York Times. President Trump rejected the proposal, deepening the impasse between Washington and Tehran as a ceasefire deadline looms on April 21.[1][2][3]",
+      "audio_url": "",
+      "url": "trump-rejects-iran-s-5-year-en-kBeT85MUQu2etKjolCDVHw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/19946750-0e41-461b-88d4-2e56f48e01b8",
+      "published_datetime": "2026-04-14T02:50:19.869623",
+      "title": "Aalto team traps light on a chip for millions of cycles",
+      "featured_image": {
+        "url": "https://techxplore.com/news/2024-05-high-efficiency-photonic-circuit.html",
+        "name": "A new, low-cost, high-efficiency photonic integrated circuit",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--eK4jMa_f--/t_limit/https://scx2.b-cdn.net/gfx/news/hires/2024/a-new-low-cost-high-ef.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--G--7NUft--/t_thumbnail/https://scx2.b-cdn.net/gfx/news/hires/2024/a-new-low-cost-high-ef.jpg"
+      },
+      "description": "Researchers at Aalto University have developed a fabrication technique that allows atomically thin materials to trap light on a chip for millions of cycles, a result they say surpasses previous performance by three orders of magnitude. The work, published in Nature Materials on April 13, was carried out by an international team and addresses one of the longest-standing barriers in the development of photonic chips built from so-called van der Waals materials.[1][2]",
+      "audio_url": "",
+      "url": "aalto-team-traps-light-on-a-ch-H8qR7rlhQjmOEJGihqdnWw",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-04-14T02:39:01.000000Z",
+      "title": "Palestinian groups take Australia to court over Israel arms exports",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7acaf8188aa5687604ab0b8162fa6706?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "A group of Palestinian human rights organisations launch legal action against the defence minister seeking transparency over Australia's arms exports to Israel.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-14/palestinian-legal-action-australia-weapons-exports-israel-f-35/106558340"
+    },
+    {
       "published_datetime": "2026-04-14T01:14:40.000000Z",
       "title": "Safety alert issued amid explosion of illegal peptide use",
       "featured_image": {
@@ -11,7 +86,7 @@
     },
     {
       "published_datetime": "2026-04-14T01:04:22.000000Z",
-      "title": "Breaking: Qantas cuts domestic flights and raises fares as fuel costs blow out",
+      "title": "Qantas cuts domestic flights and raises fares as fuel costs blow out",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2097b84ddbe99f2507c5af40b06217fe?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=97&amp;width=862&amp;height=485"
       },
@@ -19,58 +94,82 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-14/qantas-cuts-domestic-flights-as-iran-war-fuel-rises-hit/106562204"
     },
     {
-      "published_datetime": "2026-04-13T22:29:44.000000Z",
-      "title": "Why Gout's incredible run deserves equal measures of praise and patience",
+      "published_datetime": "2026-04-14T01:01:34.000000Z",
+      "title": "'Make a noise': The ordinary people who took their case to our highest court",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fb69a2e8aaa9dc28788ff2af38228953?impolicy=wcms_crop_resize&amp;cropH=2093&amp;cropW=3720&amp;xPos=0&amp;yPos=194&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dbd217102fe8bc1c90392e57f9c361f1?impolicy=wcms_crop_resize&amp;cropH=1942&amp;cropW=3452&amp;xPos=0&amp;yPos=818&amp;width=862&amp;height=485"
       },
-      "description": "Gout Gout was on the lips of every athletics fan across the globe on the weekend, but elements of his record-breaking run need to be treated with caution.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-14/analysis-gout-gouts-200m-run-shows-a-maturing-athlete/106561332"
+      "description": "From love and freedom to native title and the right to vote, these are some of the High Court cases that have helped define our nation, and the ordinary people behind them.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-14/high-court-cases-that-have-shaped-australia/106541696"
     },
     {
-      "published_datetime": "2026-04-13T21:04:59.000000Z",
-      "title": "Live: Australia to join UK, France at summit on Strait of Hormuz",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/603ef6b3-6ef9-43df-be0b-eb05c56dc658",
+      "published_datetime": "2026-04-14T00:47:18.490454",
+      "title": "Vance says ball is in Iran's court as US naval blockade takes effect",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c8127a333ed18860eef5c892fdf3a292?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "url": "https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse",
+        "name": "The U.S. military says it will blockade Iranian ports as Iran peace talks collapse",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--e-HYd-Rn--/t_limit/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7502x4220%2B0%2B781/resize/1400/quality/85/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F08%252F77%252F74a21f2c44a1b36ae7e1aa7a8a4f%252Fap26081545222382.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--OLsQtQuq--/t_thumbnail/https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7502x4220%2B0%2B781/resize/1400/quality/85/format/jpeg/%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F08%252F77%252F74a21f2c44a1b36ae7e1aa7a8a4f%252Fap26081545222382.jpg"
       },
-      "description": "Australia will join more than 40 nations to discuss safeguarding shipping in the Strait of Hormuz, Labor's Pat Conroy has confirmed. Follow live. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-14/federal-politics-live-blog-taylor-migration-labor-drones-fuel/106558928"
+      "description": "Vice President JD Vance said Monday that the next move in U.S.-Iran peace negotiations rests with Tehran, as a naval blockade on Iranian ports took effect following the collapse of weekend talks in Islamabad.\n\n\"The ball is very much in their court,\" Vance told Fox News anchor Bret Baier on \"Special Report.\" \"You ask what happens next, I think the Iranians are going to determine what happens next.\"[1][2]",
+      "audio_url": "",
+      "url": "vance-says-ball-is-in-iran-s-c-CURTgtBXSlqPEG2oBXLZ_g",
+      "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-13T20:31:54.000000Z",
-      "title": "Global food crisis warning, accusations of Hormuz piracy as the blockade begins",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c71d6d5f-270f-4cf9-b8b3-2a8f58178aed",
+      "published_datetime": "2026-04-14T00:27:32.257675",
+      "title": "Israeli airstrikes kill four in Gaza as Cairo talks stall",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7612ba025c1a767296ee56983ee41212?impolicy=wcms_crop_resize&amp;cropH=2083&amp;cropW=3703&amp;xPos=237&amp;yPos=97&amp;width=862&amp;height=485"
+        "url": "https://www.axios.com/2026/01/14/gaza-phase-two-hamas-disarm-israel",
+        "name": "White House announces \"phase two\" of Gaza ceasefire deal - Axios",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--HS54u5GF--/t_limit/https://images.axios.com/UeedBi6u2mwFTDkJnQ7esWXZwfw%3D/0x673:6720x4453/1366x768/2026/01/14/1768414562999.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--GOK3nfmC--/t_thumbnail/https://images.axios.com/UeedBi6u2mwFTDkJnQ7esWXZwfw%3D/0x673:6720x4453/1366x768/2026/01/14/1768414562999.jpeg"
       },
-      "description": "The fragile truce in the Middle East and the situation in the Strait of Hormuz have dire consequences for the rest of the world.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-14/iran-israel-war-daily-briefing/106561186"
+      "description": "An Israeli airstrike killed at least three Palestinians in the central Gaza Strip on Monday, health officials said, even as mediators from Egypt, Turkey, and Qatar met with Hamas and other Palestinian faction leaders in Cairo in an effort to advance a stalled ceasefire deal.[1][2]\n\nThe strike hit a group of men outside a school in Deir al-Balah, according to medics. There was no immediate comment from the Israeli military. At Al-Aqsa Hospital, relatives arrived to bid farewell to the dead, their bodies laid in white shrouds outside the morgue. \"This isn't a truce; it's a trap for our young men. Every day there are martyrs, every single day,\" said Umm Hussam Abu El-Rous, a relative of one of the victims, according to Reuters.[2][1]",
+      "audio_url": "",
+      "url": "israeli-airstrikes-kill-four-i-A95keBVmRc2olsdGWZS9VA",
+      "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-13T20:22:05.000000Z",
-      "title": "Trump's 'AI Jesus' post sparks backlash as pope responds to attack",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/94729fae-cc78-4a6b-a758-8584ee9d4579",
+      "published_datetime": "2026-04-13T23:45:08.861168",
+      "title": "US offered Iran 20-year enrichment freeze as talks collapsed",
       "featured_image": {
-        "thumbnail": ""
+        "url": "https://www.nbcnews.com/world/iran/us-iran-hold-high-stakes-nuclear-talks-geneva-threat-war-looms-rcna259304",
+        "name": "U.S. and Iran tout progress in nuclear talks as supreme ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--AJh_Pqz1--/t_limit/https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w%2Cf_auto%2Cq_auto:best/rockcms/2026-02/260217-Araghchi-Grossi-rs-471d68.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--xT3B09wn--/t_thumbnail/https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w%2Cf_auto%2Cq_auto:best/rockcms/2026-02/260217-Araghchi-Grossi-rs-471d68.jpg"
       },
-      "description": "Donald Trump is criticised by religious sections of his supporter base after publishing, then deleting, the image, but the US president says: \"I thought it was me as a doctor.\"",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-14/donald-trumps-ai-jesus-post-sparks-backlash/106561182"
+      "description": "The United States asked Iran to accept a 20-year moratorium on uranium enrichment during weekend negotiations in Islamabad, marking a shift from Washington's earlier demand that Tehran permanently abandon enrichment on its soil, according to The Wall Street Journal and Axios. Iran rejected the proposal, countering with a far shorter \"single-digit\" timeframe, and the marathon talks ended without a deal after 21 hours.[1][2][3][4]",
+      "audio_url": "",
+      "url": "us-offered-iran-20-year-enrich-ICFnA6NVRS2UZOkpdS2rqQ",
+      "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-13T19:33:09.000000Z",
-      "title": "Ex-One Nation candidate wants Hanson 'held accountable' for rehiring rapist ex-staffer",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b8e3cf14-8194-42bc-92ce-b960d0fb351b",
+      "published_datetime": "2026-04-13T23:20:18.055224",
+      "title": "Israeli troops fire tear gas at schoolchildren in West Bank",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c86daf524fdf03aec965818e6b6d899?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=4&amp;width=862&amp;height=485"
+        "url": "https://www.arabnews.jp/en/middle-east/article_168139/",
+        "name": "Israeli troops fire tear gas at Palestinian schoolchildren ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--B54IVREq--/t_limit/https://www.arabnews.jp/en/wp-content/uploads/sites/2/2026/04/gas.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--MAn5Obre--/t_thumbnail/https://www.arabnews.jp/en/wp-content/uploads/sites/2/2026/04/gas.jpg"
       },
-      "description": "Two former One Nation candidates have accused party leader Pauline Hanson and chief of staff James Ashby of dismissing concerns raised internally about the convicted rapist and former campaign director Sean Black.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-14/former-one-nation-candidates-say-hanson-ashby-ignored-concerns/106559022"
+      "description": "Israeli forces fired tear gas at Palestinian schoolchildren staging a sit-in in the occupied West Bank on Monday, according to AFP footage from the scene, as students attempted to return to class for the first time in more than 40 days.[1][2]\n\nThe incident took place at Umm al-Khair, a small village in the southern West Bank region of Masafer Yatta, south of Hebron. Israeli settlers from the nearby Carmel settlement had erected a barbed wire fence overnight blocking the road to the village school, preventing students and residents from reaching it.[3][1]",
+      "audio_url": "",
+      "url": "israeli-troops-fire-tear-gas-a-dJzj_JvISbG1MtgiDvyj3Q",
+      "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-13T19:23:16.000000Z",
-      "title": "As the Sussexes return to Australia, 'unusual' commercial engagements are raising eyebrows",
+      "published_datetime": "2026-04-13T21:35:52.000000Z",
+      "title": "Live: Business confidence crashes to lowest level since April 2020",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3d20521b2b27b55d6f4afcb85af5eb22?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/79c3a12294eaecc1f6b4a1b638cfbe13?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=461&amp;width=862&amp;height=485"
       },
-      "description": "Harry and Meghan will be travelling under their titles of Duke and Duchess of Sussex, and will appear at two major, ticketed events as well as making the rounds of various charities and causes.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-14/prince-harry-and-meghan-visit-australia/106559094"
+      "description": "The outbreak of the war in the Middle East saw business confidence post its second-largest monthly fall on record, a NAB survey found. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-14/asx-markets-business-live-news-stocks-rally/106561428"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/60923058-5bc0-4ec3-bbdf-ef7d80a4d7c3",
@@ -86,15 +185,6 @@
       "audio_url": "",
       "url": "trump-says-iran-called-seeking-CIbuuXbqQ5WZFUGQCKILzA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-13T18:36:21.000000Z",
-      "title": "Debunking four myths about Australia's fuel crisis",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7436b2b3ac361b65998ed4cd835fcb88?impolicy=wcms_crop_resize&amp;cropH=480&amp;cropW=855&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "If you listen to increasingly shrill calls, it is time to rebuild our oil industry. While the sentiments might be well-meant, a few unfortunate facts have been overlooked. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-14/debunking-four-myths-around-australias-fuel-crisis/106558264"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5a51b744-ce85-4f28-8d95-0d7b83360bf1",
@@ -142,103 +232,13 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d59ce971-f3df-4b6f-8396-c9912d931f95",
-      "published_datetime": "2026-04-13T16:49:22.020636",
-      "title": "US begins naval blockade of Iranian ports after peace talks collapse",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/04/12/oil-prices-iran-war-strait-hormuz-blockade.html",
-        "name": "Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s---PNaFdJ0--/t_limit/https://image.cnbcfm.com/api/v1/image/108289565-1775785418104-gettyimages-2265219111-dji_0492.jpeg%3Fv%3D1776027449%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--pLV_4Uqc--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108289565-1775785418104-gettyimages-2265219111-dji_0492.jpeg%3Fv%3D1776027449%26w%3D1920%26h%3D1080"
-      },
-      "description": "The United States military began enforcing a naval blockade of all Iranian ports on Monday at 10 a.m. Eastern Time, a dramatic escalation in the six-week conflict that came after marathon peace negotiations in Pakistan ended without a deal over the weekend.",
-      "audio_url": "",
-      "url": "us-begins-naval-blockade-of-ir-3f8U3vaiSmCKE2juKBQkOQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/45d68ccb-f2ad-4529-a273-0ad6f3d6d7d2",
-      "published_datetime": "2026-04-13T16:20:05.898332",
-      "title": "Trump warns Iran 'fast-attack' ships near blockade will be 'eliminated'",
-      "featured_image": {
-        "url": "https://english.aawsat.com/gulf/5261908-trump-says-iranian-fast-attack-ships-come-close-us-blockade-will-be-eliminated",
-        "name": "Trump Says Iranian 'Fast-attack' Ships that Come Close to US ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--KI6yfygu--/t_limit/https://english.aawsat.com/s3/files/styles/1200x600/public/2026-04/Screenshot%25202026-04-13%2520175623.png.webp",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--59Uje3re--/t_thumbnail/https://english.aawsat.com/s3/files/styles/1200x600/public/2026-04/Screenshot%25202026-04-13%2520175623.png.webp"
-      },
-      "description": "President Donald Trump warned on Monday that any Iranian \"fast-attack\" ships approaching the U.S. naval blockade of Iranian ports would be \"immediately eliminated,\" escalating a confrontation with Tehran just as the blockade took effect in the Strait of Hormuz.\n\n\"Iran's Navy is laying at the bottom of the sea, completely obliterated \u2014 158 ships,\" Trump wrote on Truth Social. \"What we have not hit are their small number of, what they call, 'fast attack ships,' because we did not consider them much of a threat.\" He added that any such vessels approaching the blockade would be destroyed \"using the same system of kill that we use against the drug dealers on boats at Sea. It is quick and brutal.\"[1][2][3][4]",
-      "audio_url": "",
-      "url": "trump-warns-iran-fast-attack-s-IBPUs95nTDeEwvpSlar5Nw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-04-13T14:01:21.000000Z",
       "title": "Live: US accuses Iran of 'economic terrorism' over Strait of Hormuz obstruction as blockade begins",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dc03a1b350fddddca168fd859bf7f8c2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "US Vice-President JD Vance accuses the Iranian government of engaging in \"economic terrorism\" by blocking traffic through the Strait of Hormuz as the US Navy begins its blockade of the key shipping waterway. Follow live.\u00a0",
+      "description": "US Vice-President JD Vance accuses the Iranian government of engaging in \"economic terrorism\" by blocking traffic through the Strait of Hormuz as the US Navy begins its blockade of the key shipping waterway. Follow live. \u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-14/iran-war-live-updates-blockade-strait-of-hormuz-begins-trump/106559224"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/efa5a904-a606-433a-8efc-2bceb5f52192",
-      "published_datetime": "2026-04-13T13:27:06.537828",
-      "title": "Ship traffic halts in Strait of Hormuz as U.S. blockade begins",
-      "featured_image": {
-        "url": "https://www.arabnews.com/node/2639692/middle-east",
-        "name": "What a US-led Hormuz strait naval blockade would look like ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--f3Qgxuiu--/t_limit/https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2026/04/12/4702191-1589892722.jpg%3Fitok%3D3HypbZ7i",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--NU7dwmZt--/t_thumbnail/https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2026/04/12/4702191-1589892722.jpg%3Fitok%3D3HypbZ7i"
-      },
-      "description": "Ship traffic through the Strait of Hormuz appeared to halt on Monday after President Donald Trump announced on social media that the United States would blockade the critical waterway, sending oil prices surging and deepening a global energy crisis triggered by weeks of conflict between the U.S., Israel, and Iran.\n\nLloyd's List Intelligence reported that ships had stopped moving through the strait, while Brent crude surged more than 8 percent to above $103 per barrel and U.S. West Texas Intermediate crude jumped roughly 8 percent past $104. Wholesale gasoline prices spiked 6 percent and heating oil climbed 10 percent in early trading.[1][2][3][4][5]",
-      "audio_url": "",
-      "url": "ship-traffic-halts-in-strait-o-Zvltt75WTDWnUiJYvtnZYg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4b6d9cae-0181-49d5-8ac1-168bbe5ab248",
-      "published_datetime": "2026-04-13T13:25:03.560803",
-      "title": "Pope Leo says he does not fear Trump amid Iran war feud",
-      "featured_image": {
-        "url": "https://time.com/article/2026/04/13/trump-pope-leo-war-iran/",
-        "name": "Trump Berates Pope Leo",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--OyNLnMdW--/t_limit/https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt67b64436b062daaa/69dc9db040819085088c6034/pope-leo.jpg%3Fbranch%3Dproduction%26width%3D2400%26quality%3D75%26auto%3Dwebp%26crop%3D16%253A9",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ldPrCWTy--/t_thumbnail/https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt67b64436b062daaa/69dc9db040819085088c6034/pope-leo.jpg%3Fbranch%3Dproduction%26width%3D2400%26quality%3D75%26auto%3Dwebp%26crop%3D16%253A9"
-      },
-      "description": "Pope Leo XIV on Monday said he has \"no intention to debate\" with President Donald Trump, hours after the U.S. president launched a sweeping attack on the pontiff over his condemnation of the war in Iran. Speaking to reporters aboard a papal flight to Algiers, where he is beginning a 10-day tour of Africa, the pope said he would not be deterred from advocating for peace.[1][2]\n\n\"I will continue to speak out loudly against war, looking to promote peace, promoting dialogue and multilateral relationships among the states to look for just solutions to problems,\" Leo told Reuters. \"Too many people are suffering in the world today. Too many innocent people are being killed. And I think someone has to stand up and say, 'There's a better way.'\"[2]",
-      "audio_url": "",
-      "url": "pope-leo-says-he-does-not-fear-gBJJoMuqQO2dJfh3zotXkw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cba51141-2d10-48a0-86d8-033b7f5298a9",
-      "published_datetime": "2026-04-13T12:00:13.646541",
-      "title": "China dismisses Iran arms reports as 'baseless smears' amid Trump tariff threat",
-      "featured_image": {
-        "url": "https://www.globaltimes.cn/page/202604/1358456.shtml",
-        "name": "Chinese FM addresses inquiry regarding Iranian ambassador ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--CqFHApJ---/t_limit/https://www.globaltimes.cn/Portals/0/attachment/2026/2026-04-02/ecca2bde-3acf-4f95-9739-ae425e9965f0.jpeg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--IGeCBIRz--/t_thumbnail/https://www.globaltimes.cn/Portals/0/attachment/2026/2026-04-02/ecca2bde-3acf-4f95-9739-ae425e9965f0.jpeg"
-      },
-      "description": "President Donald Trump warned on Sunday that China would face a 50 per cent tariff on all goods entering the United States if Beijing is found to be supplying weapons to Iran, escalating a confrontation that now spans the Middle East conflict, nuclear diplomacy and global trade.\n\nThe threat came hours after marathon US-Iran peace talks in Islamabad collapsed without agreement, and as a CNN report citing three US intelligence sources indicated that China is preparing to deliver shoulder-fired anti-aircraft missile systems, known as MANPADs, to Tehran within weeks.[1][2]",
-      "audio_url": "",
-      "url": "china-dismisses-iran-arms-repo-9oVafT7qQViXZ65_fKqhdw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e4e2ffa8-cd12-4b86-b9d4-7aed5bfcc630",
-      "published_datetime": "2026-04-13T11:25:39.977438",
-      "title": "Eni CEO urges EU to rethink Russian gas ban ahead of April 25 deadline",
-      "featured_image": {
-        "url": "https://www.offshore-energy.biz/descalzi-gets-third-term-as-eni-chief-executive-officer/",
-        "name": "Descalzi gets third term as Eni chief executive officer ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Qqdw7mln--/t_limit/https://www.offshore-energy.biz/wp-content/uploads/sites/6/2020/05/eni_ceo_claudio_descalzi_source_eni.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--mnvwADqz--/t_thumbnail/https://www.offshore-energy.biz/wp-content/uploads/sites/6/2020/05/eni_ceo_claudio_descalzi_source_eni.jpg"
-      },
-      "description": "Claudio Descalzi, chief executive of Italian energy group Eni, called on the European Union to rethink its plan to progressively ban imports of Russian gas from the start of 2027, warning that the bloc has no clear way to replace the supplies it stands to lose.\n\nSpeaking on Sunday at an event organized by Italy's co-ruling League party, Descalzi said it was unclear how Europe could substitute roughly 20 billion cubic meters of Russian gas, which he described as providing vital flexibility to the continent's power stations, according to Reuters. He called the ongoing conflict in Iran \"the most significant event of the last 40 years\" in terms of energy supply disruption.[1][2][3]",
-      "audio_url": "",
-      "url": "eni-ceo-urges-eu-to-rethink-ru-h1Kddv6DSDWhaZ65JZ_.bA",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-14T01:46:34.935852"
+  "merged_at": "2026-04-14T04:39:13.059229"
 }
