@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-14T06:06:06.000000Z",
+      "title": "Harvey Weinstein to face retrial on New York rape charge",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9562f0dd881ec2c0c16b5bad6d2fb872?impolicy=wcms_crop_resize&amp;cropH=2025&amp;cropW=3600&amp;xPos=0&amp;yPos=327&amp;width=862&amp;height=485"
+      },
+      "description": "Former Hollywood magnate Harvey Weinstein is again going on trial on a rape charge in New York City. He will remain imprisoned for other offences regardless of the verdict.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-14/harvey-weinstein-faces-retrial-of-rape-case-in-new-york/106563996"
+    },
+    {
+      "published_datetime": "2026-04-14T05:26:20.000000Z",
+      "title": "Fuel excise cut 'too focused on politics', analysts say as concerns grow",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b30d2b5a3c20e0350317223e0c4e825c?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Some energy analysts are questioning the federal government's temporary tax cuts on fuel, warning that lower prices may work against Australia's long-term needs and goals.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-14/fuel-excise-cut-questioned-as-iran-war-continues/106559252"
+    },
+    {
+      "published_datetime": "2026-04-14T05:15:57.000000Z",
+      "title": "The warning signs a health practitioner wants to exploit your superannuation",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a636258023a20317ce185fecbca48a33?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "The healthcare regulator and tax office are cracking down on health\u00a0practitioners who help patients access their superannuation early after one Perth doctor signed off on a $20,000 withdrawal for liposuction.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-14/doctor-suspended-superannuation-release-for-lipsuction/106562598"
+    },
+    {
+      "published_datetime": "2026-04-14T05:09:45.000000Z",
+      "title": "Live: Umpire '100 per cent adamant' he heard Butters sledge correctly",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/393f7219d393999dffb16eb1021739e8?impolicy=wcms_crop_resize&amp;cropH=2252&amp;cropW=4004&amp;xPos=0&amp;yPos=76&amp;width=862&amp;height=485"
+      },
+      "description": "Port Adelaide's acting captain Zak Butters will face the AFL Tribunal to fight allegations he asked umpire Nick Foot \"how much are they paying you?\" during the game against St Kilda. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-14/zak-butters-afl-tribunal-case-umpire-abuse-nick-foot/106563638"
+    },
+    {
       "published_datetime": "2026-04-14T04:04:35.000000Z",
       "title": "Stagflation is a 'central banker's nightmare', says RBA deputy governor",
       "featured_image": {
@@ -8,15 +44,6 @@
       },
       "description": "RBA deputy governor Andrew Hauser says stagflation is a \"central banker's nightmare\" and the coming months will be challenging for Australia.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-14/stagflation-central-banks-nightmare-says-rba-deputy-governor/106561900"
-    },
-    {
-      "published_datetime": "2026-04-14T03:58:02.000000Z",
-      "title": "Breaking: WA government says it has secured 4 million litres of diesel",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18147d3c900fa185bc2622decdbcea5b?impolicy=wcms_crop_resize&amp;cropH=1447&amp;cropW=2573&amp;xPos=0&amp;yPos=135&amp;width=862&amp;height=485"
-      },
-      "description": "Four million litres of diesel is set to arrive in Western Australia \"in the coming weeks\" as part of a strategic stockpile to address acute, localised fuel shortages across the state.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-14/wa-government-says-it-has-secured-4-million-litres-of-diesel/106563508"
     },
     {
       "published_datetime": "2026-04-14T03:23:53.000000Z",
@@ -28,13 +55,19 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-14/prince-harry-meghan-markle-melbourne-royal-visit/106562088"
     },
     {
-      "published_datetime": "2026-04-14T03:13:44.000000Z",
-      "title": "How the AFL's gamble with conflict of interest concerns didn't pay off",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3b8f70b6-fde1-4dd5-94c7-683b16e50bd5",
+      "published_datetime": "2026-04-14T03:21:48.841091",
+      "title": "Carney's Liberals secure majority in Canadian by-elections",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/50d7ff8d3af04e15a8490e300966e2ce?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
+        "url": "https://www.pbs.org/newshour/show/how-mark-carney-led-canadas-liberal-party-to-an-election-win",
+        "name": "How Mark Carney led Canada's Liberal Party to election win",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--LzTKHJKt--/t_limit/https://d3i6fh83elv35t.cloudfront.net/static/2025/04/Canada-1024x683.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--T2aV0Svo--/t_thumbnail/https://d3i6fh83elv35t.cloudfront.net/static/2025/04/Canada-1024x683.jpg"
       },
-      "description": "The AFL gambled that concerns over a conflict of interest with one of its umpires wouldn't be an issue, but that call has come back to bite them \u2014 and it's not the umpire's fault.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-14/afl-analysis-zak-butters-and-nick-foot-incident-a-tough-call/106561896"
+      "description": "Prime Minister Mark Carney's Liberal Party secured a parliamentary majority on Monday after voters in three by-elections in Ontario and Quebec delivered the seats needed to push the party past the 172-seat threshold in the 343-seat House of Commons.[1][2][3]\n\nThe Liberals entered the day holding 171 seats, meaning a single victory in any of the three contested ridings \u2014 Scarborough Southwest, University-Rosedale, and Terrebonne \u2014 would clinch the majority. Polls had shown the party favored to win at least two of the three.[4][2][5][1]",
+      "audio_url": "",
+      "url": "carney-s-liberals-secure-major-mbliVKBTTs6ZqqcFiGMz0Q",
+      "partition_name": "partition1"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3202df79-7be9-49ba-bee6-ec43c4c405df",
@@ -76,15 +109,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-14/palestinian-legal-action-australia-weapons-exports-israel-f-35/106558340"
     },
     {
-      "published_datetime": "2026-04-14T01:14:40.000000Z",
-      "title": "Safety alert issued amid explosion of illegal peptide use",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/152f2b3e62a5f8536bfe4a1d2d671a2a?impolicy=wcms_crop_resize&amp;cropH=2962&amp;cropW=5265&amp;xPos=735&amp;yPos=1030&amp;width=862&amp;height=485"
-      },
-      "description": "The medicines regulator issues a health alert about the risks of using unregulated peptides amid a surge in the use of potentially unsafe injectables.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-14/tga-alert-risks-of-unregulated-peptides/106559738"
-    },
-    {
       "published_datetime": "2026-04-14T01:04:22.000000Z",
       "title": "Qantas cuts domestic flights and raises fares as fuel costs blow out",
       "featured_image": {
@@ -92,15 +116,6 @@
       },
       "description": "Qantas will cut domestic flights due to higher fuel costs and the uncertainty of the Middle East war, as it flags as much as $800 million in extra fuel costs.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-14/qantas-cuts-domestic-flights-as-iran-war-fuel-rises-hit/106562204"
-    },
-    {
-      "published_datetime": "2026-04-14T01:01:34.000000Z",
-      "title": "'Make a noise': The ordinary people who took their case to our highest court",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dbd217102fe8bc1c90392e57f9c361f1?impolicy=wcms_crop_resize&amp;cropH=1942&amp;cropW=3452&amp;xPos=0&amp;yPos=818&amp;width=862&amp;height=485"
-      },
-      "description": "From love and freedom to native title and the right to vote, these are some of the High Court cases that have helped define our nation, and the ordinary people behind them.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-14/high-court-cases-that-have-shaped-australia/106541696"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/603ef6b3-6ef9-43df-be0b-eb05c56dc658",
@@ -217,27 +232,12 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/933cf6dd-0c3b-4829-9c05-d10575807bef",
-      "published_datetime": "2026-04-13T16:50:48.649333",
-      "title": "Iran says it hasn't charged Indian ships tolls as U.S. blockade takes effect",
-      "featured_image": {
-        "url": "https://www.marinelink.com/news/two-indiabound-tankers-pass-strait-hormuz-537174",
-        "name": "Two India-Bound Tankers Pass Through Strait Of Hormuz",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--aBxt2hPO--/t_limit/https://images.marinelink.com/images/maritime/pawinee-adobe-169124.jpeg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--1PhaMr0R--/t_thumbnail/https://images.marinelink.com/images/maritime/pawinee-adobe-169124.jpeg"
-      },
-      "description": "Iran's ambassador to India declared on Monday that Tehran has not charged Indian vessels any tolls for transiting the Strait of Hormuz, seeking to reassure New Delhi of continued support even as a U.S. naval blockade of Iranian ports took effect the same day.\n\n\"You can ask the Indian government if we have charged anything up to now,\" Ambassador Mohammad Fathali told reporters at a briefing at Iran's embassy in New Delhi, according to Reuters. \"In this difficult time, we have good relations. We believe Iran and India share common interests and a common fate.\"[1]",
-      "audio_url": "",
-      "url": "iran-says-it-hasn-t-charged-in-.oA_kn5_SMqWLAzjQZw1Tw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-04-13T14:01:21.000000Z",
-      "title": "Live: US accuses Iran of 'economic terrorism' over Strait of Hormuz obstruction as blockade begins",
+      "title": "Live: Several ships seen passing through the Strait of Hormuz as US blockade continues",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dc03a1b350fddddca168fd859bf7f8c2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f5a875324cf8eda70a23bb0a01af762c?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
       },
-      "description": "US Vice-President JD Vance accuses the Iranian government of engaging in \"economic terrorism\" by blocking traffic through the Strait of Hormuz as the US Navy begins its blockade of the key shipping waterway. Follow live. \u00a0",
+      "description": "US Vice-President JD Vance accuses the Iranian government of engaging in \"economic terrorism\" by blocking traffic through the Strait of Hormuz as the US Navy begins its blockade of Iran's ports. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-14/iran-war-live-updates-blockade-strait-of-hormuz-begins-trump/106559224"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-14T04:39:13.059229"
+  "merged_at": "2026-04-14T06:26:28.660241"
 }
