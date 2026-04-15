@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-15T12:36:07.000000Z",
+      "title": "Defence spending to climb by $53 billion as 'international norms' erode",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/242902019a7d9656aecaeab63f008666?impolicy=wcms_crop_resize&amp;cropH=3215&amp;cropW=5717&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's defence spending will climb by $53 billion over the next decade amid what the federal government says are \"intensifying\" global risks.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-15/defence-spend-53b-next-decade-intensifying-risks-richard-marles/106568890"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9bb63c92-8f42-40c1-adfe-c4af11502f1b",
       "published_datetime": "2026-04-15T07:41:31.616398",
       "title": "IAEA chief warns North Korea rapidly expanding nuclear weapons capacity",
@@ -122,15 +131,6 @@
       },
       "description": "The Federal Court allows a lesbian action group's appeal to be allowed to legally exclude transgender women from its public events.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-15/lesbian-action-group-court-judgment/106561902"
-    },
-    {
-      "published_datetime": "2026-04-15T04:35:15.000000Z",
-      "title": "Teen admits creating deepfakes in Australian-first prosecution",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dfa2dbbb55bed560b9180a29f495d015?impolicy=wcms_crop_resize&amp;cropH=802&amp;cropW=1426&amp;xPos=0&amp;yPos=232&amp;width=862&amp;height=485"
-      },
-      "description": "An Adelaide teenager who was the first person charged under new nationwide laws aimed at tackling adult deepfake pornography has pleaded guilty to two counts of creating or altering sexual material without consent.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-15/sa-teen-pleads-guilty-over-deepfake-images/106567132"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/286cb352-0df9-4dad-89c3-0e594e7e6c4c",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-15T11:49:43.556030"
+  "merged_at": "2026-04-15T13:02:49.892499"
 }
