@@ -1,8 +1,35 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-15T19:00:00.000000Z",
+      "title": "Albanese government's frustration rises alongside fuel prices and inflation",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9bb6fe150041f0c6324e2480c7a56698?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Fuel prices and inflation aren't the only metrics climbing as the Strait of Hormuz remains shut. The Albanese government's level of frustration is rising just as fast.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/strait-of-hormuz-albanese-government-fuel-prices-inflation/106485664"
+    },
+    {
+      "published_datetime": "2026-04-15T18:59:18.000000Z",
+      "title": "Creators of fuel dashboard quoted by News Corp have links to Liberals",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aac3d3a5e37b20029f65b27f87e239b0?impolicy=wcms_crop_resize&amp;cropH=602&amp;cropW=1071&amp;xPos=0&amp;yPos=29&amp;width=862&amp;height=485"
+      },
+      "description": "An ABC NEWS Verify investigation raises questions about popular independent fuel security dashboards that have emerged online, including one whose creators are linked to the Liberal Party.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/ai-fuel-tracking-slop-sites-alternates-links-to-liberal-party/106568004"
+    },
+    {
+      "published_datetime": "2026-04-15T18:46:13.000000Z",
+      "title": "Ukraine calls for more aid as Russia continues daily drone strikes",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94b5911a78834faf114e7299a4cca8c6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Western officials and analysts say Ukrainian forces have disrupted Russia's planned spring offensive and managed to retake territory.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/ukraine-russia-invasion-war-drone-territory/106569536"
+    },
+    {
       "published_datetime": "2026-04-15T16:56:28.000000Z",
-      "title": "Live: Trump says war 'close to over' as Israeli ministers mull Lebanon ceasefire",
+      "title": "Live: Trump says Iran war 'close to over', Israel continues strikes on Hezbollah",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a804f41a7362d05cc5aa3b7112daf2e7?impolicy=wcms_crop_resize&amp;cropH=2079&amp;cropW=3696&amp;xPos=0&amp;yPos=193&amp;width=862&amp;height=485"
       },
@@ -172,6 +199,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-04-15T12:36:07.000000Z",
+      "title": "Defence spending to climb by $53 billion as 'international norms' erode",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/242902019a7d9656aecaeab63f008666?impolicy=wcms_crop_resize&amp;cropH=3215&amp;cropW=5717&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's defence spending will climb by $53 billion over the next decade amid what the federal government says are \"intensifying\" global risks.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-15/defence-spend-53b-next-decade-intensifying-risks-richard-marles/106568890"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9bb63c92-8f42-40c1-adfe-c4af11502f1b",
       "published_datetime": "2026-04-15T07:41:31.616398",
       "title": "IAEA chief warns North Korea rapidly expanding nuclear weapons capacity",
@@ -196,49 +232,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-15/coalition-migration-plan-angus-taylor-screening-taskforce/106567104"
     },
     {
-      "published_datetime": "2026-04-15T07:02:01.000000Z",
-      "title": "Brunei's fertiliser could feed to Australia following meeting of leaders",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/79ed1eb13dc3cecc4e5b6163478ab4c1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=147&amp;width=862&amp;height=485"
-      },
-      "description": "Brunei may be able to help Australia weather the economic chaos caused by the Iran war by sending additional supplies of fertiliser, the prime minister says.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-15/anthony-albanese-brunei-visit-energy-security-trade-iran-war/106568168"
-    },
-    {
-      "published_datetime": "2026-04-15T06:59:23.000000Z",
-      "title": "Strait of Hormuz blockade could turn into global agrifood crisis",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c836c96d2bec0e531cf7c25551797b5?impolicy=wcms_crop_resize&amp;cropH=840&amp;cropW=1492&amp;xPos=8&amp;yPos=64&amp;width=862&amp;height=485"
-      },
-      "description": "The Food and Agriculture Organization of the United Nations says ships in the Strait of Hormuz need to start moving again to avoid a global agrifood crisis. Here's why.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-15/strait-of-hormuz-blockade-could-turn-into-global-agrifood-crisis/106566496"
-    },
-    {
       "published_datetime": "2026-04-15T06:00:00.000000Z",
-      "title": "Here's what you need to know about today's Gina Rinehart court ruling",
+      "title": "Here's what you need to know about the Gina Rinehart court ruling",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/71d48a1a1f8f7f2f8b5242e0ba8d7631?impolicy=wcms_crop_resize&amp;cropH=1294&amp;cropW=2306&amp;xPos=85&amp;yPos=60&amp;width=862&amp;height=485"
       },
-      "description": "Today's blockbuster court ruling over mining tenements worth billions of dollars in WA's iron ore rich Pilbara is the culmination of a complicated legal battle spanning more than a decade that has pitted family against family and siblings against each other.\u00a0",
+      "description": "The blockbuster court ruling over mining tenements worth billions of dollars in WA's iron ore rich Pilbara is the culmination of a complicated legal battle spanning more than a decade that has pitted family against family and siblings against each other.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-15/gina-rinehart-hancock-prospecting-court-case-explainer/106567844"
-    },
-    {
-      "published_datetime": "2026-04-15T05:32:41.000000Z",
-      "title": "'Your courage does not end': Prince Harry mingles with veterans in solo Canberra trip",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a7ffab94064dd1cca0437273e0ff912?impolicy=wcms_crop_resize&amp;cropH=3359&amp;cropW=5972&amp;xPos=311&amp;yPos=66&amp;width=862&amp;height=485"
-      },
-      "description": "The Duke of Sussex was in the nation's capital without his wife Meghan and addressed an Invictus Australia event.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-15/prince-harry-canberra-australian-war-memorial/106567280"
-    },
-    {
-      "published_datetime": "2026-04-15T03:49:40.000000Z",
-      "title": "Split decision as Gina Rinehart, Wright family both claim legal wins",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c7e0d327c758c5830d1225f0b26632bc?impolicy=wcms_crop_resize&amp;cropH=1784&amp;cropW=3172&amp;xPos=0&amp;yPos=219&amp;width=862&amp;height=485"
-      },
-      "description": "Gina Rinehart is dealt a blow, with a court finding the family of her father's former business partner has the right to potentially hundreds of millions of dollars in royalties from lucrative Pilbara mining assets.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-15/gine-rinehart-hancock-wright-prospecting-legal-judgement/106566372"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-15T17:59:33.106133"
+  "merged_at": "2026-04-15T19:20:20.632819"
 }
