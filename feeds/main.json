@@ -1,8 +1,44 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-15T20:19:00.000000Z",
+      "title": "Iran briefing with Matthew Doran: There could be respite for Lebanon despite Netanyahu's latest orders",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a2f16e134f755ae65ddfb292e234f3a0?impolicy=wcms_crop_resize&amp;cropH=2350&amp;cropW=4177&amp;xPos=0&amp;yPos=220&amp;width=862&amp;height=485"
+      },
+      "description": "Israeli forces are expected to \"overwhelm\" parts of southern Lebanon and yet a ceasefire may still be only a matter of days away.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/iran-israel-war-daily-briefing/106569780"
+    },
+    {
+      "published_datetime": "2026-04-15T20:01:50.000000Z",
+      "title": "Proposal to block non-citizens from first homebuyer scheme slammed",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/22dd443dc40e14f6b74855294b749351?impolicy=wcms_crop_resize&amp;cropH=2956&amp;cropW=5256&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Multicultural groups are concerned Angus Taylor's proposal to prevent permanent residents from accessing the Australian Government 5% Deposit Scheme could deter skilled migrants from coming to Australia.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/proposal-to-block-5pc-deposit-scheme-for-non-citizens-condemned/106564820"
+    },
+    {
+      "published_datetime": "2026-04-15T19:36:04.000000Z",
+      "title": "Dozens of workers with disability made redundant by award-winning charity",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2fd55dd17fccaf06cdae0b98cb6ac730?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Help Enterprises made 41 positions redundant weeks after being named Brisbane's social enterprise of the year.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/workers-with-disability-lose-jobs-at-charity-help-enterprises/106563222"
+    },
+    {
+      "published_datetime": "2026-04-15T19:14:24.000000Z",
+      "title": "'Canary in coal mine' warning as marine pest found in new area",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/856a2e62ea6059aba307e140d10fd055?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The discovery on Tasmania's west coast has scientists and fishers alike fearing the spread of a destructive species to another previously untouched part of the state's marine environment.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/invasive-sea-urchin-spreads-to-tasmania-west-coast/106567644"
+    },
+    {
       "published_datetime": "2026-04-15T19:00:00.000000Z",
-      "title": "Albanese government's frustration rises alongside fuel prices and inflation",
+      "title": "Albanese government's frustration rises as Australians pay price for war",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9bb6fe150041f0c6324e2480c7a56698?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -20,12 +56,57 @@
     },
     {
       "published_datetime": "2026-04-15T18:46:13.000000Z",
-      "title": "Ukraine calls for more aid as Russia continues daily drone strikes",
+      "title": "Ukraine looking to 'capitalise' on new momentum against Russia",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94b5911a78834faf114e7299a4cca8c6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
       "description": "Western officials and analysts say Ukrainian forces have disrupted Russia's planned spring offensive and managed to retake territory.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-16/ukraine-russia-invasion-war-drone-territory/106569536"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dfdad865-af6c-4a22-85dc-dce4836dd808",
+      "published_datetime": "2026-04-15T18:36:58.754621",
+      "title": "Cadence taps Google's Gemini to power AI chip design agent",
+      "featured_image": {
+        "url": "https://www.bez-kabli.pl/cadences-new-chipstack-ai-super-agent-claims-10x-faster-chip-design-work/",
+        "name": "Cadence's new ChipStack AI \u201csuper agent\u201d claims 10x faster ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--HWycewny--/t_limit/https://www.bez-kabli.pl/wp-content/uploads/2026/02/cadences-new-chipstack-ai-super-agent-claims-10x-faster-chip-design-work-featured-1024x683.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--zoWp8wUW--/t_thumbnail/https://www.bez-kabli.pl/wp-content/uploads/2026/02/cadences-new-chipstack-ai-super-agent-claims-10x-faster-chip-design-work-featured-1024x683.jpg"
+      },
+      "description": "Cadence Design Systems announced a collaboration with Google on Tuesday to optimize its ChipStack AI Super Agent with Gemini on Google Cloud, the latest in a series of partnerships aimed at embedding artificial intelligence across the semiconductor design process. The announcement, made as the company kicked off its CadenceLIVE Silicon Valley conference, builds on an expanded collaboration with Nvidia first revealed in March.\n\nThe Google partnership pairs Cadence's agentic chip design platform with Google's Gemini large language models, hosted on Google Cloud infrastructure. The goal is to improve the accuracy of AI-generated outputs for chip design tasks, with Google Cloud providing the compute needed to run Gemini alongside Cadence's electronic design automation tools. The ChipStack AI Super Agent is now available through the Google Cloud Marketplace.[1][2]\n\n\"By merging ChipStack AI Agent with Gemini, we are propelling forward the evolution of intelligent design \u2014 leveraging the reasoning capabilities of large language models alongside Cadence's premier EDA engines,\" said Paul Cunningham, Cadence's senior vice president and general manager.[2]",
+      "audio_url": "",
+      "url": "cadence-taps-google-s-gemini-t-MvrceY9oQqSDAKLf6GQWJA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f549db05-9f36-4df0-a213-b1ea0240ef60",
+      "published_datetime": "2026-04-15T17:36:37.652344",
+      "title": "Iran warns U.S. naval blockade could unravel ceasefire as energy crisis accelerates EV shift",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/04/15/us-strait-of-hormuz-blockade-navy-iran-seaborne-trade-oil-trump.html",
+        "name": "U.S. says Hormuz blockade 'fully implemented,' while signaling diplomatic off-ramp for Iran",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--cSfOlH3l--/t_limit/https://image.cnbcfm.com/api/v1/image/106874868-1619587461561-gettyimages-1183449975-191119-n-wf663-1054.jpeg%3Fv%3D1776220647%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--zaK1FKUA--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/106874868-1619587461561-gettyimages-1183449975-191119-n-wf663-1054.jpeg%3Fv%3D1776220647%26w%3D1920%26h%3D1080"
+      },
+      "description": "The war between the United States, Israel, and Iran \u2014 now in its seventh week \u2014 has triggered a global energy shock that is accelerating the world's pivot toward renewable power and electric vehicles, even as a fragile ceasefire and fresh U.S. naval blockade keep oil markets on edge.\n\nSince the conflict began on February 28, the closure of the Strait of Hormuz has choked off roughly one-fifth of global oil and gas trade, sending Brent crude surging more than 60 percent in March alone, the largest monthly jump since the 1980s. Although a two-week ceasefire brokered on April 8 brought prices down sharply, oil remains roughly 30 percent above pre-war levels, and Iran warned on Wednesday that the newly enforced U.S. naval blockade of its ports could unravel the truce. The Associated Press reported that a Pakistani delegation arrived in Tehran on Wednesday to arrange a possible second round of U.S.-Iran talks.[1][2][3][4][5][6]",
+      "audio_url": "",
+      "url": "iran-warns-u-s-naval-blockade-jI3gPgPFTjOJP3DbHZc4Kw",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/68914766-2ea6-4daa-be82-720e16bf3dd2",
+      "published_datetime": "2026-04-15T17:02:27.246523",
+      "title": "BBC to cut up to 2,000 jobs in sweeping overhaul",
+      "featured_image": {
+        "url": "https://www.bbc.com/news/articles/clyzg6n7pplo",
+        "name": "BBC to make hundreds of millions of pounds of cuts",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--tdvgGclg--/t_limit/https://s.yimg.com/ny/api/res/1.2/ua_IaduK_5z3vyQ43wBVlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/a34bbc6489cd40ed58c2eaff4635d847",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--aR14bY1S--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/ua_IaduK_5z3vyQ43wBVlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/a34bbc6489cd40ed58c2eaff4635d847"
+      },
+      "description": "The BBC is planning to cut up to 2,000 jobs across its departments, amounting to roughly one in 10 of its workforce, in one of the most far-reaching restructuring efforts in the broadcaster's recent history. Staff are expected to be briefed on the scale of the reductions at an all-staff meeting on Tuesday, according to the Financial Times.[1][2]",
+      "audio_url": "",
+      "url": "bbc-to-cut-up-to-2000-jobs-in-wCLiFIUdRyGmqEZPbubC9w",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-04-15T16:56:28.000000Z",
@@ -68,9 +149,9 @@
     },
     {
       "published_datetime": "2026-04-15T15:34:52.000000Z",
-      "title": "Firefighters tackle blaze at Geelong oil refinery 'not yet under control'",
+      "title": "Out-of-control fire rages at one of Australia's two oil refineries",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ca4af963ff3f28ccf72e27201d09bd2b?impolicy=wcms_crop_resize&amp;cropH=483&amp;cropW=859&amp;xPos=6&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bd4b61c2aa58871c21983650f87c7c65?impolicy=wcms_crop_resize&amp;cropH=550&amp;cropW=978&amp;xPos=529&amp;yPos=407&amp;width=862&amp;height=485"
       },
       "description": "Authorities were called to one of Australia's two operational oil refineries around 11pm after residents reported \"explosions and flames\".\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-16/geelong-corio-refinery-fire/106569692"
@@ -130,15 +211,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-15T14:14:21.000000Z",
-      "title": "American YouTuber jailed in South Korea for being a public nuisance",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a0d047b4209105a87f7b26b80ee1e77e?impolicy=wcms_crop_resize&amp;cropH=841&amp;cropW=1495&amp;xPos=0&amp;yPos=327&amp;width=862&amp;height=485"
-      },
-      "description": "A Seoul court found Johnny Somali displayed \u201csevere\u201d disrespect for South Korean law over a series of provocative stunts he live-streamed.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/youtuber-johnny-somali-jailed-for-disrespecting-south-korean-law/106569500"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f2ad6135-cab3-40bc-b58d-07bdd4242eb4",
       "published_datetime": "2026-04-15T13:51:47.273591",
       "title": "Iran threatens to block Red Sea trade as US blockade chokes its ports",
@@ -167,78 +239,6 @@
       "audio_url": "",
       "url": "chinese-tanker-defies-us-block-aA39EapTQ7SJ1iHkT2_XFg",
       "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3af5dd81-f380-4bd6-a977-d97263124fc6",
-      "published_datetime": "2026-04-15T13:39:53.688387",
-      "title": "Northwestern chemists turn methane into methanol with 'bottled lightning'",
-      "featured_image": {
-        "url": "https://gizmodo.com/scientists-are-using-lightning-in-a-bottle-to-turn-methane-into-methanol-2000746416",
-        "name": "Scientists Are Using Lightning in a Bottle to Turn Methane Into ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--kXNV_jf6--/t_limit/https://gizmodo.com/app/uploads/2026/04/plasma-in-a-tube-methane-methanol-catalysis-northwestern-1200x675.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--bFkNpPxz--/t_thumbnail/https://gizmodo.com/app/uploads/2026/04/plasma-in-a-tube-methane-methanol-catalysis-northwestern-1200x675.jpg"
-      },
-      "description": "Northwestern University chemists have developed a plasma-based method to convert methane directly into methanol in a single step, bypassing the energy-intensive, multi-step industrial process used for decades. The study, published Wednesday in the Journal of the American Chemical Society, describes a technique that uses bursts of high-voltage electricity to generate miniature \"lightning bolts\" inside a glass reactor submerged in water.[1][2]",
-      "audio_url": "",
-      "url": "northwestern-chemists-turn-met-qW65A7x3Q6yRzjFwy6EsQg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/26d48b5f-c5c5-455d-bdd9-290b4777d5e6",
-      "published_datetime": "2026-04-15T12:49:04.436212",
-      "title": "AI-designed proteins work as smart biosensors, study shows",
-      "featured_image": {
-        "url": "https://310.ai/blog/ai-designs-protein-with-applications-for-heart-disease",
-        "name": "AI designs protein with applications for heart disease",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--bYB2xzs8--/t_limit/https://cdn.sanity.io/images/touxmdqc/production/ab78c4cab1b04625471db9d9dc82b5b1591c21c1-1718x1125.png",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Lc6qpQUt--/t_thumbnail/https://cdn.sanity.io/images/touxmdqc/production/ab78c4cab1b04625471db9d9dc82b5b1591c21c1-1718x1125.png"
-      },
-      "description": "Two studies published in Nature Biotechnology are pushing the boundaries of AI-driven protein engineering \u2014 one by turning AI-designed proteins into functional biosensors, and another by solving a persistent data bottleneck that has limited the technology's potential.",
-      "audio_url": "",
-      "url": "ai-designed-proteins-work-as-s-HTY6mnCqRZGpM1qUkT6Upg",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-15T12:36:07.000000Z",
-      "title": "Defence spending to climb by $53 billion as 'international norms' erode",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/242902019a7d9656aecaeab63f008666?impolicy=wcms_crop_resize&amp;cropH=3215&amp;cropW=5717&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
-      },
-      "description": "Australia's defence spending will climb by $53 billion over the next decade amid what the federal government says are \"intensifying\" global risks.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-15/defence-spend-53b-next-decade-intensifying-risks-richard-marles/106568890"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9bb63c92-8f42-40c1-adfe-c4af11502f1b",
-      "published_datetime": "2026-04-15T07:41:31.616398",
-      "title": "IAEA chief warns North Korea rapidly expanding nuclear weapons capacity",
-      "featured_image": {
-        "url": "https://www.upi.com/Top_News/World-News/2026/03/03/IAEA-Rafael-Grossi-North-Korea-uranium-enrichment-Kangson-Yongbyon/3631772521945/",
-        "name": "IAEA chief raises 'serious concern' over N. Korea uranium enrichment",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--n9uhLb1_--/t_limit/https://s.yimg.com/os/en/united_press_international_articles_356/4e9a10fc1d05b8a69d783975a4525a8c",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--nh3pirIQ--/t_thumbnail/https://s.yimg.com/os/en/united_press_international_articles_356/4e9a10fc1d05b8a69d783975a4525a8c"
-      },
-      "description": "North Korea has made a \"very serious increase\" in its nuclear weapons production capabilities, the head of the International Atomic Energy Agency said Wednesday during a visit to Seoul, confirming a rapid expansion of activity across the country's key nuclear complex and the likely addition of a new uranium enrichment facility.",
-      "audio_url": "",
-      "url": "iaea-chief-warns-north-korea-r-7GBi._U0Qwan4k7cxuya8Q",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-15T07:15:02.000000Z",
-      "title": "Taylor's migration plan doesn't make much sense. It doesn't have to",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bd358b3d795ecc169c72449c02576de1?impolicy=wcms_crop_resize&amp;cropH=2880&amp;cropW=5120&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "More than a day after Angus Taylor unveiled the first plank of the Coalition's long-awaited migration policy and many media interviews later, it's still unclear what the opposition is actually proposing to change.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-15/coalition-migration-plan-angus-taylor-screening-taskforce/106567104"
-    },
-    {
-      "published_datetime": "2026-04-15T06:00:00.000000Z",
-      "title": "Here's what you need to know about the Gina Rinehart court ruling",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/71d48a1a1f8f7f2f8b5242e0ba8d7631?impolicy=wcms_crop_resize&amp;cropH=1294&amp;cropW=2306&amp;xPos=85&amp;yPos=60&amp;width=862&amp;height=485"
-      },
-      "description": "The blockbuster court ruling over mining tenements worth billions of dollars in WA's iron ore rich Pilbara is the culmination of a complicated legal battle spanning more than a decade that has pitted family against family and siblings against each other.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-15/gina-rinehart-hancock-prospecting-court-case-explainer/106567844"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-15T19:20:20.632819"
+  "merged_at": "2026-04-15T20:39:27.799553"
 }
