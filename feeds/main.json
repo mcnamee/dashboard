@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-15T07:15:02.000000Z",
+      "title": "Taylor's migration plan doesn't make much sense. It doesn't have to",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bd358b3d795ecc169c72449c02576de1?impolicy=wcms_crop_resize&amp;cropH=2880&amp;cropW=5120&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "More than a day after Angus Taylor unveiled the first plank of the Coalition's long-awaited migration policy and many media interviews later, it's still unclear what the opposition is actually proposing to change.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-15/coalition-migration-plan-angus-taylor-screening-taskforce/106567104"
+    },
+    {
+      "published_datetime": "2026-04-15T07:02:01.000000Z",
+      "title": "Brunei's fertiliser could feed to Australia following meeting of leaders",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/79ed1eb13dc3cecc4e5b6163478ab4c1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=147&amp;width=862&amp;height=485"
+      },
+      "description": "Brunei may be able to help Australia weather the economic chaos caused by the Iran war by sending additional supplies of fertiliser, the prime minister says.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-15/anthony-albanese-brunei-visit-energy-security-trade-iran-war/106568168"
+    },
+    {
       "published_datetime": "2026-04-15T06:00:00.000000Z",
       "title": "Here's what you need to know about today's Gina Rinehart court ruling",
       "featured_image": {
@@ -10,21 +28,12 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-15/gina-rinehart-hancock-prospecting-court-case-explainer/106567844"
     },
     {
-      "published_datetime": "2026-04-15T05:51:37.000000Z",
-      "title": "Man cleared of stalking Israeli President Herzog during Sydney trip",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d0e06f4a4779dea086d3fc63939326af?impolicy=wcms_crop_resize&amp;cropH=276&amp;cropW=491&amp;xPos=0&amp;yPos=142&amp;width=862&amp;height=485"
-      },
-      "description": "Rajab Ali was arrested in February while President Isaac Herzog was in Sydney to pay tribute to the 15 people killed in the Bondi Beach terror attack.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-15/nsw-man-cleared-of-stalking-israeli-president-isaac-herzog/106567912"
-    },
-    {
       "published_datetime": "2026-04-15T05:37:25.000000Z",
       "title": "Police investigating claim Katy Perry sexually assaulted Ruby Rose",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/428621bda8a3b23abb9002f6646d2ade?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=960&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Melbourne-born actress Ruby Rose claims US popstar Katy Perry assaulted her at a nightclub in 2010.",
+      "description": "Melbourne-born actress Ruby Rose claims US pop star Katy Perry assaulted her at a nightclub in 2010.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-15/ruby-rose-katy-perry-sexual-assault-allegations/106567308"
     },
     {
@@ -37,21 +46,12 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-15/png-hotel-lodge-10-refugee-cost-court-case-australian-government/106566082"
     },
     {
-      "published_datetime": "2026-04-15T05:32:41.000000Z",
-      "title": "Duke of Sussex honours Indigenous veterans in Canberra visit",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fd189b4fba4b665b097d32273c72dc86?impolicy=wcms_crop_resize&amp;cropH=2347&amp;cropW=4172&amp;xPos=381&amp;yPos=109&amp;width=862&amp;height=485"
-      },
-      "description": "The Duke of Sussex is in the nation's capital without his wife Meghan and will speak at an Invictus Australia event.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-15/prince-harry-canberra-australian-war-memorial/106567280"
-    },
-    {
       "published_datetime": "2026-04-15T04:58:56.000000Z",
-      "title": "Federal Court allows appeal by lesbian group seeking to ban trans women",
+      "title": "Lesbian Action Group wins appeal in case seeking to ban trans women",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/79fce302feb0108df44e5de3ff483ad7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "The Federal Court has allowed a lesbian action group\u2019s appeal to legally exclude transgender women from its public events.\u00a0",
+      "description": "The Federal Court allows a lesbian action group's appeal to be allowed to legally exclude transgender women from its public events.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-15/lesbian-action-group-court-judgment/106561902"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-15T06:28:07.209270"
+  "merged_at": "2026-04-15T08:23:01.172164"
 }
