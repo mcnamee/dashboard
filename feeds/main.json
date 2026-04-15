@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-15T15:34:52.000000Z",
+      "title": "Breaking: Large fire reported at oil refinery in Geelong",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/408331888b5d0dd0f23aa5841b2e488d?impolicy=wcms_crop_resize&amp;cropH=483&amp;cropW=859&amp;xPos=6&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Authorities were called to one of Australia's two operational oil refineries around 11pm after reports of a large blaze.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/geelong-corio-refinery-fire/106569692"
+    },
+    {
+      "published_datetime": "2026-04-15T15:26:37.000000Z",
+      "title": "Boy kills students and teacher in school shooting in T\u00fcrkiye",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cef49fdbf1d93c831950273d4f4f9bba?impolicy=wcms_crop_resize&amp;cropH=949&amp;cropW=1687&amp;xPos=0&amp;yPos=176&amp;width=862&amp;height=485"
+      },
+      "description": "A boy, believed to be aged about 13, carried out the shooting in southeastern T\u00fcrkiye, killing his fellow students and a teacher. It is the second school shooting in the country in two days.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/turkiye-shooting/106569648"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f321d2b2-703f-433d-8d9d-97b2febb2ab4",
+      "published_datetime": "2026-04-15T14:53:35.723888",
+      "title": "AMD, Arm, and Qualcomm invest $60M in self-driving startup Wayve",
+      "featured_image": {
+        "url": "https://www.ft.com/content/67c3cbad-330d-4dfa-8483-2b96c5b36430?syn-25a6b1a6=1",
+        "name": "Can Wayve make London a self-driving city?",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Gd8cy9gb--/t_limit/https://images.ft.com/v3/image/raw/https%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F11871bf8-45c7-43f8-b37e-0af8ac720a9e.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--uu7t6_Vi--/t_thumbnail/https://images.ft.com/v3/image/raw/https%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F11871bf8-45c7-43f8-b37e-0af8ac720a9e.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1"
+      },
+      "description": "Three of the world's largest chipmakers have joined forces to back Wayve, the London-based autonomous driving startup, investing a combined $60 million as part of an extension to its Series D funding round. AMD, Arm, and Qualcomm Ventures announced the investment on Wednesday, deepening the semiconductor industry's bet on a software-first approach to self-driving cars.[1][2]\n\nThe deal means Wayve now counts all four major automotive chip suppliers \u2014 including Nvidia, which invested in the original round \u2014 among its shareholders, giving the startup relationships across essentially every compute platform an automaker might use.[2]",
+      "audio_url": "",
+      "url": "amd-arm-and-qualcomm-invest-60-1pSqwlahQuiQUSMH86XzzQ",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/358dd88f-e401-446b-b386-f3efc2f3f592",
+      "published_datetime": "2026-04-15T14:33:28.857912",
+      "title": "MIT quantum sensor measures multiple properties at once",
+      "featured_image": {
+        "url": "https://www.innovationnewsnetwork.com/diamond-based-quantum-sensor-technology-fast-magnetic-imaging/33984/",
+        "name": "Diamond-based quantum sensor technology for fast magnetic ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--LFz1fNE0--/t_limit/https://www.innovationnewsnetwork.com/wp-content/uploads/2023/06/6c759a2b-44ed-4e62-9f5b-732ffac7a156-ag.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--8TwWKgFC--/t_thumbnail/https://www.innovationnewsnetwork.com/wp-content/uploads/2023/06/6c759a2b-44ed-4e62-9f5b-732ffac7a156-ag.jpg"
+      },
+      "description": "Researchers at the Massachusetts Institute of Technology have developed a quantum sensor capable of measuring several physical properties simultaneously, overcoming a long-standing limitation of solid-state sensors that has confined them to reading only one quantity at a time.",
+      "audio_url": "",
+      "url": "mit-quantum-sensor-measures-mu-XRyLfaGDQ7yjEE5YaLf.Xg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/17957f6a-da3a-4a13-849d-eb483ac9d838",
+      "published_datetime": "2026-04-15T14:21:40.433317",
+      "title": "Inflation climbs in India, Greece, and France as energy costs surge",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/04/10/cpi-inflation-march-2026-breakdown.html",
+        "name": "Here's the inflation breakdown for March 2026 \u2014 in one chart - CNBC",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--amoybQn9--/t_limit/https://image.cnbcfm.com/api/v1/image/108289768-1775833805310-108289768-1775824842952-gettyimages-2270016385-AFP_A7BX86N.jpg%3Fv%3D1775833812%26w%3D1920%26h%3D1080",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Epl2HZtP--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108289768-1775833805310-108289768-1775824842952-gettyimages-2270016385-AFP_A7BX86N.jpg%3Fv%3D1775833812%26w%3D1920%26h%3D1080"
+      },
+      "description": "Fresh data released this week showed inflation accelerated in India, Greece, and France during March, with rising energy and food prices fanning price pressures across three continents amid the fallout from the conflict in the Middle East.",
+      "audio_url": "",
+      "url": "inflation-climbs-in-india-gree-eE7eg.5FQcCKmZpyJ0wuFA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-15T14:14:21.000000Z",
       "title": "American YouTuber jailed in South Korea for being a public nuisance",
       "featured_image": {
@@ -8,6 +71,51 @@
       },
       "description": "A Seoul court found Johnny Somali displayed \u201csevere\u201d disrespect for South Korean law over a series of provocative stunts he live-streamed.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-16/youtuber-johnny-somali-jailed-for-disrespecting-south-korean-law/106569500"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f2ad6135-cab3-40bc-b58d-07bdd4242eb4",
+      "published_datetime": "2026-04-15T13:51:47.273591",
+      "title": "Iran threatens to block Red Sea trade as US blockade chokes its ports",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/economy/2026/4/15/us-military-says-blockade-of-iran-ports-completely-halts-economic-trade",
+        "name": "US military says blockade of Iran ports \u2018completely\u2019 halts economic trade",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Js3758Bs--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-08T172614Z_79253224_RC2PWJA4W5Y5_RTRMADP_3_IRAN-CRISIS-USA-CONGRESS-1776228792.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Vdf8TvMy--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-08T172614Z_79253224_RC2PWJA4W5Y5_RTRMADP_3_IRAN-CRISIS-USA-CONGRESS-1776228792.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "Iran's armed forces warned on Wednesday that they would disrupt trade across the Red Sea, the Persian Gulf, and the Sea of Oman if the United States continues its naval blockade of Iranian ports, dramatically raising the stakes in one of the world's most critical shipping corridors as a fragile ceasefire hangs in the balance.\n\nAli Abdollahi, commander of Iran's Khatam al-Anbiya Central Headquarters \u2014 the country's highest operational command \u2014 delivered the threat on Iranian state television. \"The powerful armed forces of the Islamic Republic will not allow any exports or imports to continue in the Persian Gulf, the Sea of Oman, and the Red Sea,\" Abdollahi said, according to AFP. He argued that the US blockade \"creates insecurity for Iran's commercial vessels and oil tankers\" and constitutes \"a prelude\" to violating the two-week ceasefire brokered by Pakistan on April 8.[1][2][3][4]",
+      "audio_url": "",
+      "url": "iran-threatens-to-block-red-se-oiz4adBrQRyhOwy5pohewA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0891c6af-d0d8-418f-a0c4-12e198d33b92",
+      "published_datetime": "2026-04-15T13:49:46.137802",
+      "title": "Chinese tanker defies US blockade as Trump preps for Xi summit",
+      "featured_image": {
+        "url": "https://jang.com.pk/en/63661-china-defies-us-blockade-tanker-sails-through-strait-of-hormuz-news",
+        "name": "China defies US blockade: Tanker sails through Strait of Hormuz",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--1DSK7GPq--/t_limit/https://jang.com.pk/assets/uploads/english_news/2026-04-14/63661_115352_eng.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--VZHAHP4m--/t_thumbnail/https://jang.com.pk/assets/uploads/english_news/2026-04-14/63661_115352_eng.jpg"
+      },
+      "description": "The U.S. naval blockade of Iranian ports is threatening to upend a carefully planned summit between President Donald Trump and Chinese President Xi Jinping, scheduled for May 14 and 15 in Beijing, as Washington tightens its grip on a waterway that carries much of China's energy supply.\n\nTrump met with U.S. Ambassador to China David Perdue on Tuesday to prepare for the high-stakes visit, even as his Treasury Secretary Scott Bessent publicly escalated rhetoric against Beijing. Bessent accused China of being \"an unreliable global partner\" for hoarding oil during the Middle East war and warned that Chinese tankers carrying Iranian oil would be blocked. \"They're not going to be able to get their oil. They can get oil. Not Iranian oil,\" Bessent told reporters in Washington.[1][2][3]",
+      "audio_url": "",
+      "url": "chinese-tanker-defies-us-block-aA39EapTQ7SJ1iHkT2_XFg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3af5dd81-f380-4bd6-a977-d97263124fc6",
+      "published_datetime": "2026-04-15T13:39:53.688387",
+      "title": "Northwestern chemists turn methane into methanol with 'bottled lightning'",
+      "featured_image": {
+        "url": "https://gizmodo.com/scientists-are-using-lightning-in-a-bottle-to-turn-methane-into-methanol-2000746416",
+        "name": "Scientists Are Using Lightning in a Bottle to Turn Methane Into ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--kXNV_jf6--/t_limit/https://gizmodo.com/app/uploads/2026/04/plasma-in-a-tube-methane-methanol-catalysis-northwestern-1200x675.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--bFkNpPxz--/t_thumbnail/https://gizmodo.com/app/uploads/2026/04/plasma-in-a-tube-methane-methanol-catalysis-northwestern-1200x675.jpg"
+      },
+      "description": "Northwestern University chemists have developed a plasma-based method to convert methane directly into methanol in a single step, bypassing the energy-intensive, multi-step industrial process used for decades. The study, published Wednesday in the Journal of the American Chemical Society, describes a technique that uses bursts of high-voltage electricity to generate miniature \"lightning bolts\" inside a glass reactor submerged in water.[1][2]",
+      "audio_url": "",
+      "url": "northwestern-chemists-turn-met-qW65A7x3Q6yRzjFwy6EsQg",
+      "partition_name": "partition1"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/26d48b5f-c5c5-455d-bdd9-290b4777d5e6",
@@ -67,15 +175,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-15/anthony-albanese-brunei-visit-energy-security-trade-iran-war/106568168"
     },
     {
-      "published_datetime": "2026-04-15T06:59:23.000000Z",
-      "title": "Strait of Hormuz blockade could turn into global agrifood crisis",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c836c96d2bec0e531cf7c25551797b5?impolicy=wcms_crop_resize&amp;cropH=840&amp;cropW=1492&amp;xPos=8&amp;yPos=64&amp;width=862&amp;height=485"
-      },
-      "description": "The Food and Agriculture Organization of the United Nations says ships in the Strait of Hormuz need to start moving again to avoid a global agrifood crisis. Here's why.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-15/strait-of-hormuz-blockade-could-turn-into-global-agrifood-crisis/106566496"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5911e8b4-8357-46f4-a707-0737a05c19f1",
       "published_datetime": "2026-04-15T06:49:36.938912",
       "title": "Satellite study finds urban methane emissions far exceed official estimates",
@@ -124,45 +223,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-15/prince-harry-canberra-australian-war-memorial/106567280"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d8664878-3ac0-4e08-8e65-b59e320b1550",
-      "published_datetime": "2026-04-15T05:19:41.753744",
-      "title": "Google rolls out Gemini Personal Intelligence globally, excluding Europe",
-      "featured_image": {
-        "url": "https://www.digitaltrends.com/computing/google-is-expanding-personal-intelligence-to-gemini-users-globally-and-its-a-huge-shift/",
-        "name": "Google is expanding Personal Intelligence to Gemini users ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--3JKtWD2S--/t_limit/https://www.digitaltrends.com/tachyon/2026/04/gemini-personal-intelligence-connect-apps.jpg%3Fresize%3D1920%252C1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Tf2O9xff--/t_thumbnail/https://www.digitaltrends.com/tachyon/2026/04/gemini-personal-intelligence-connect-apps.jpg%3Fresize%3D1920%252C1080"
-      },
-      "description": "Google on Monday began rolling out its Personal Intelligence feature for Gemini to users globally, extending the AI personalization tool beyond the United States for the first time since its debut in January. The expansion, which covers paid subscribers on AI Plus, Pro, and Ultra plans, notably excludes the European Economic Area, Switzerland, and the United Kingdom.[1][2]",
-      "audio_url": "",
-      "url": "google-rolls-out-gemini-person-Qtodc6uiRACaKHtsbPVgFA",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-15T04:58:56.000000Z",
-      "title": "Lesbian Action Group wins appeal in case seeking to ban trans women",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/79fce302feb0108df44e5de3ff483ad7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The Federal Court allows a lesbian action group's appeal to be allowed to legally exclude transgender women from its public events.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-15/lesbian-action-group-court-judgment/106561902"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/286cb352-0df9-4dad-89c3-0e594e7e6c4c",
-      "published_datetime": "2026-04-15T04:05:58.782563",
-      "title": "Pope Leo celebrates Mass at St. Augustine's basilica in Algeria",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/pope-leo-xiv-leads-a-mass-at-the-basilica-of-st-augustine-news-photo/2270819410",
-        "name": "ALGERIA-VATICAN-DIPLOMACY",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1776225700/getty_uploads/2270819410_dorz02.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1776225700/getty_uploads/2270819410_dorz02.jpg"
-      },
-      "description": "Pope Leo XIV celebrated Mass on Tuesday at the Basilica of St. Augustine in Annaba, Algeria, completing a deeply personal pilgrimage to the land where one of Christianity's most influential thinkers lived and died \u2014 and marking the first time a pope has ever set foot in the North African country.[1][2][3]",
-      "audio_url": "",
-      "url": "pope-leo-celebrates-mass-at-st-KpQ71xjISniy4ijR7BdZMQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-04-15T03:49:40.000000Z",
       "title": "Split decision as Gina Rinehart, Wright family both claim legal wins",
       "featured_image": {
@@ -170,66 +230,6 @@
       },
       "description": "Gina Rinehart is dealt a blow, with a court finding the family of her father's former business partner has the right to potentially hundreds of millions of dollars in royalties from lucrative Pilbara mining assets.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-15/gine-rinehart-hancock-wright-prospecting-legal-judgement/106566372"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2be8023b-c6bb-46a7-be11-a48396b20ec9",
-      "published_datetime": "2026-04-15T02:59:43.496300",
-      "title": "Iran restores limited internet for businesses after 46-day blackout",
-      "featured_image": {
-        "url": "https://www.bloomberg.com/news/articles/2026-04-14/iran-offers-limited-internet-in-rare-move-to-stem-war-losses",
-        "name": "Iran Internet Blackout Eases Slightly as Businesses Face ...",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1776221642/url_uploads/-1x-1_aah3qc.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1776221642/url_uploads/-1x-1_aah3qc.jpg"
-      },
-      "description": "Iran has begun restoring a sliver of internet connectivity to select businesses after a nationwide blackout that has now stretched past six weeks, in what observers describe as an attempt to stem mounting economic damage rather than a meaningful loosening of digital controls.\n\nState-backed telecom firms are offering a \"pro internet\" package that companies can apply for through a formal identity verification process, according to digital rights group ASL19. Applicants must explain why they need connectivity and provide supporting documentation to receive access to online services outside Iran, ASL19 and fellow monitoring group Miaan Group said.[1][2]",
-      "audio_url": "",
-      "url": "iran-restores-limited-internet-_sOgH6KLTI.0L6YTkYNq3w",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ce1ca095-dca7-4e4f-9ed6-e5fe5df4db06",
-      "published_datetime": "2026-04-15T01:12:50.085391",
-      "title": "About 250 missing after Rohingya boat capsizes in Andaman Sea",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2026/4/14/hundreds-missing-after-rohingya-boat-capsizes-in-andaman-sea-un",
-        "name": "Hundreds missing after Rohingya boat capsizes in Andaman Sea: UN",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--f3DSKNKA--/t_limit/https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-21T061331Z_2124869948_RC26Q6A6H8OM_RTRMADP_3_MIGRATION-ROHINGYA-INDONESIA-1711075543.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--2FuJ9nCb--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-21T061331Z_2124869948_RC26Q6A6H8OM_RTRMADP_3_MIGRATION-ROHINGYA-INDONESIA-1711075543.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "Around 250 people, including Rohingya refugees and Bangladeshi nationals, are feared missing after a Malaysia-bound trawler capsized in the Andaman Sea, the United Nations said on Tuesday in a joint statement by the UNHCR and the International Organization for Migration.[1][2][3]\n\nThe vessel departed from Teknaf in southern Bangladesh around April 4 carrying an estimated 250 to 280 men, women, and children before sinking on approximately April 9 \"due to heavy winds, rough seas, and overcrowding,\" according to the UNHCR. Only nine survivors have been found, raising fears that the rest perished at sea.[2][4][5]",
-      "audio_url": "",
-      "url": "about-250-missing-after-rohing-iNA_fCTeR_C66Gr1d5J0kg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/04edd01a-ad29-45ed-858b-b04fd4ee49e4",
-      "published_datetime": "2026-04-14T23:38:54.559138",
-      "title": "Israel, Lebanon agree to direct negotiations after first talks in over 30 years",
-      "featured_image": {
-        "url": "https://www.kurdistan24.net/en/story/908067/israel-lebanon-agree-to-launch-direct-talks-after-productive-washington-meeting",
-        "name": "Israel, Lebanon Agree to Launch Direct Talks After 'Productive' Washington Meeting",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--c6Gz4cLE--/t_limit/https://d2wqffb2bc8st5.cloudfront.net/images/1776195840_kurdistan24.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--09BhQZMq--/t_thumbnail/https://d2wqffb2bc8st5.cloudfront.net/images/1776195840_kurdistan24.jpg"
-      },
-      "description": "Israel and Lebanon on Tuesday agreed to begin direct peace negotiations following what the U.S. State Department called \"productive discussions\" at the first high-level meeting between the two governments in more than three decades. The agreement, reached after talks hosted by Secretary of State Marco Rubio at the State Department in Washington, sets the stage for formal negotiations at \"a mutually agreed time and venue,\" according to a department statement.[1][2]",
-      "audio_url": "",
-      "url": "israel-lebanon-agree-to-direct-ifYQy_qRTF.loox9BLkCmQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ad898132-797d-46ea-9d2f-195a20c38c43",
-      "published_datetime": "2026-04-14T22:23:56.830309",
-      "title": "OECD warns fuel-tax relief risks repeating 2022 mistakes amid oil crisis",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-jump-fears-153334174.html",
-        "name": "Crude Oil Prices Jump on Fears of a Wider Conflict in the Middle East",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ZdIagPm0--/t_limit/https://s.yimg.com/ny/api/res/1.2/WcuIvLCux1NTgnh1FCG__w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/ca88e087f12a3f8d2cc35756e5cb650e",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--fMWtTTvo--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/WcuIvLCux1NTgnh1FCG__w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/ca88e087f12a3f8d2cc35756e5cb650e"
-      },
-      "description": "The ongoing war in the Middle East, which has disrupted roughly a fifth of global oil supply since Iran's blockade of the Strait of Hormuz in early March, is fueling a fierce debate over the world's dependence on fossil fuels \u2014 even as governments rush to cushion consumers from soaring energy costs.",
-      "audio_url": "",
-      "url": "oecd-warns-fuel-tax-relief-ris-QQCTOaM4QuCf1bVqG70Ekg",
-      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-04-14T14:48:43.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-15T14:59:59.641548"
+  "merged_at": "2026-04-15T16:07:34.324861"
 }
