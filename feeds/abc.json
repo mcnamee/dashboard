@@ -29,12 +29,21 @@
     },
     {
       "published_datetime": "2026-04-16T18:44:15.000000Z",
-      "title": "Fears of another lockdown amid fuel shortages and recession risk",
+      "title": "Oil price shock has heightened the risk of recession",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bcfcfa87fd1a75b82a826c89ba28e399?impolicy=wcms_crop_resize&amp;cropH=1916&amp;cropW=3407&amp;xPos=410&amp;yPos=251&amp;width=862&amp;height=485"
       },
       "description": "As fuel costs surge and supply fears grow, businesses and households say the economic shock from the war in the Middle East is already hitting home.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-17/fears-of-another-lockdown-amid-fuel-shortages-recession-risk/106568312"
+    },
+    {
+      "published_datetime": "2026-04-16T21:02:50.000000Z",
+      "title": "Live: PM visits refinery after fire, Viva hopeful of 'minimal' disruption",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c7bd8b0233b0ae96a409a902eae5766?impolicy=wcms_crop_resize&amp;cropH=866&amp;cropW=1540&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485"
+      },
+      "description": "A fire that ripped through a refinery in Geelong will have minimal impact on fuel supply, Richard Marles says. Follow live. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-17/federal-politics-live-blog-albanese-fuel-geelong-refinery/106573110"
     },
     {
       "published_datetime": "2026-04-16T20:23:40.000000Z",
@@ -46,15 +55,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-17/fuel-price-supply-explainer/106570280"
     },
     {
-      "published_datetime": "2026-04-16T19:02:35.000000Z",
-      "title": "In charts: A look at Australia's record spending on defence",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ea098b6f3b5314edd7bcbc32e40bab8b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=78&amp;width=862&amp;height=485"
-      },
-      "description": "The Defence Department reveals where the money will be going as Australia plans to spend a record $425 billion over the next decade.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-17/australia-defence-spending-in-charts-military-investment-adf/106572172"
-    },
-    {
       "published_datetime": "2026-04-16T18:56:08.000000Z",
       "title": "What we know about the 'small fire' that became an 'unprecedented' Geelong refinery blaze",
       "featured_image": {
@@ -64,13 +64,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-17/geelong-refinery-fire-visual-explainer/106571216"
     },
     {
-      "published_datetime": "2026-04-16T14:27:12.000000Z",
-      "title": "Pope blasts 'tyrants' spending big on war following public spat with Trump",
+      "published_datetime": "2026-04-16T19:02:35.000000Z",
+      "title": "In charts: A look at Australia's record spending on defence",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6fc6a048fcd81c2e4274ef3d80fb82eb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ea098b6f3b5314edd7bcbc32e40bab8b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=78&amp;width=862&amp;height=485"
       },
-      "description": "The US-born pope has praised peace movements and peace makers during his visit to the African nation of Cameroon as the rift with US President Donald Trump intensifies.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-17/pope-blasts-tyrants-amid-disagreement-with-trump/106573962"
+      "description": "The Defence Department reveals where the money will be going as Australia plans to spend a record $425 billion over the next decade.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-17/australia-defence-spending-in-charts-military-investment-adf/106572172"
     },
     {
       "published_datetime": "2026-04-16T18:59:14.000000Z",
@@ -101,7 +101,7 @@
     },
     {
       "published_datetime": "2026-04-16T19:04:18.000000Z",
-      "title": "'Never thought we'd be homeless': Mother of 13 pleads for help",
+      "title": "Mother of 13 who 'never thought we’d be homeless' pleads for help",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cab7749a19dae585d0730fd544dac08e?impolicy=wcms_crop_resize&amp;cropH=2129&amp;cropW=3784&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -109,8 +109,17 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-17/family-of-13-becomes-homeless-amid-rental-shortage/106570802"
     },
     {
+      "published_datetime": "2026-04-16T14:27:12.000000Z",
+      "title": "Pope blasts 'tyrants' spending big on war following public spat with Trump",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6fc6a048fcd81c2e4274ef3d80fb82eb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "The US-born pope has praised peace movements and peace makers during his visit to the African nation of Cameroon as the rift with US President Donald Trump intensifies.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-17/pope-blasts-tyrants-amid-disagreement-with-trump/106573962"
+    },
+    {
       "published_datetime": "2026-04-16T19:22:08.000000Z",
-      "title": "AFL-backed helmet company erases concussion protection claims",
+      "title": "AFL-backed helmet company pulls concussion claims after ABC report",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ea0e740791ac5bb01178b600dd1a10ce?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=357&amp;width=862&amp;height=485"
       },
@@ -118,13 +127,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-17/afl-backed-helmet-gamegear-pulls-concussion-protection-claims/106572742"
     },
     {
-      "published_datetime": "2026-04-16T20:00:47.000000Z",
-      "title": "Decision looms as Ben Roberts-Smith expected to apply for bail",
+      "published_datetime": "2026-04-16T18:30:00.000000Z",
+      "title": "Are you growing Australia’s next invasive weeds in your garden?",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d0aefeabdd7df4fa8e94a53287bc7697?impolicy=wcms_crop_resize&amp;cropH=2713&amp;cropW=4823&amp;xPos=116&amp;yPos=620&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e693ce1273bf379277f83ec4fa8eb6cd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Australia's most decorated living soldier has spent more than a week in custody. Today in court, he is expected to make a bid to be released on bail after being charged with war crimes.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-17/ben-roberts-smith-bail-bid-in-custody-for-war-crime-charges/106569286"
+      "description": "Agapanthus, morning glory or gazanias might be easy-growing plants in your home but their invasive nature can damage your garden and the environment. Here's what experts recommend.  ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-17/invasive-plants-in-australian-homes-damaging-gardens-environment/106492040"
     },
     {
       "published_datetime": "2026-04-16T18:30:00.000000Z",
@@ -137,7 +146,7 @@
     },
     {
       "published_datetime": "2026-04-16T18:30:00.000000Z",
-      "title": "Ephemeral nature of fungi has this photographer hooked on forest life",
+      "title": "How mobile phone cameras have helped unearth a mysterious kingdom",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6625583e21e14260ee3f0f24d48c02a8?impolicy=wcms_crop_resize&amp;cropH=582&amp;cropW=1034&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -145,40 +154,40 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-17/entanglements-with-fungi-wama-foraging-mushrooms/106566492"
     },
     {
-      "published_datetime": "2026-04-16T18:30:00.000000Z",
-      "title": "Invasive species you should avoid — and what to plant instead",
+      "published_datetime": "2026-04-16T21:05:03.000000Z",
+      "title": "Elderly couple beg council to let them stay in Gold Coast caravan park",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e693ce1273bf379277f83ec4fa8eb6cd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/560c2e27232e6ca0bdbdbc2463c7ef17?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=64&amp;width=862&amp;height=485"
       },
-      "description": "Agapanthus, morning glory or gazanias might be easy-growing plants in your home but their invasive nature can damage your garden and the environment. Here's what experts recommend.  ",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-17/invasive-plants-in-australian-homes-damaging-gardens-environment/106492040"
+      "description": "Time is running out for residents facing eviction from Kirra Beach Tourist Park. In 2018, the council told them they needed to move out by 2028 to make way for tourists, but with rising rent and property prices, they say they cannot afford to live anywhere else.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-17/kirra-beach-tourist-park-residents-face-eviction/106479458"
     },
     {
-      "published_datetime": "2026-04-16T04:41:05.000000Z",
-      "title": "Prince Harry tells summit he's 'felt lost, betrayed, or completely powerless’",
+      "published_datetime": "2026-04-16T21:42:55.000000Z",
+      "title": "Live: Wall Street pushes record highs",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2da6c9e9374e0c4991f315263e0b161d?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&amp;cropH=530&amp;cropW=942&amp;xPos=0&amp;yPos=14&amp;width=862&amp;height=485"
       },
-      "description": "The Duke and Duchess of Sussex are back together in Melbourne after spending the second day of their Australian tour apart.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/prince-harry-and-meghan-return-to-melbourne-australia-visit/106571184"
+      "description": "Wall Street markets post record highs despite the uncertainty of the Middle East conflict. Follow the day's events and insights from our business reporters on the ABC News live markets blog. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-17/asx-markets-business-live-news-april-17-2026/106573954"
     },
     {
-      "published_datetime": "2026-04-16T09:06:32.000000Z",
-      "title": "Trbojevic injures hamstring as Manly thrash Cowboys",
+      "published_datetime": "2026-04-16T21:18:37.000000Z",
+      "title": "'Shattered' Blue feels he let Carlton down in narrow loss to Collingwood",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/af44879232981aeb223b54c05deb2606?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6f07e34a41f0e469604130aab815cf72?impolicy=wcms_crop_resize&amp;cropH=1265&amp;cropW=2248&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The Sea Eagles have smashed North Queensland but the win has come at a heavy cost following a hamstring injury to star fullback Tom Trbojevic. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/manly-sea-eagles-tom-trbojevic-hamstring-cowboys/106573478"
+      "description": "Carlton coach Michael Voss says the club will support Elijah Hollands after his performance against Collingwood last night.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-17/elijah-hollands-shattered-carlton-collingwood-afl-loss/106574584"
     },
     {
-      "published_datetime": "2026-04-16T08:30:53.000000Z",
-      "title": "Daicos inspires Magpies to win as Blues youngster misses kick after siren",
+      "published_datetime": "2026-04-16T20:00:47.000000Z",
+      "title": "Decision looms as Ben Roberts-Smith expected to apply for bail",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9f2fa6f69d9eabcc12c1b3c3c4f1ad23?impolicy=wcms_crop_resize&amp;cropH=2033&amp;cropW=3614&amp;xPos=0&amp;yPos=142&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d0aefeabdd7df4fa8e94a53287bc7697?impolicy=wcms_crop_resize&amp;cropH=2713&amp;cropW=4823&amp;xPos=116&amp;yPos=620&amp;width=862&amp;height=485"
       },
-      "description": "Nick Daicos stars in the final quarter to inspire Collingwood to a win as Carlton youngster Talor Byrne misses a kick after the siren to tie the scores.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/afl-round-6-carlton-blues-collingwood-magpies-mcg-live-blog/106573626"
+      "description": "Australia's most decorated living soldier has spent more than a week in custody. Today in court, he is expected to make a bid to be released on bail after being charged with war crimes.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-17/ben-roberts-smith-bail-bid-in-custody-for-war-crime-charges/106569286"
     },
     {
       "published_datetime": "2026-04-16T19:44:25.000000Z",
@@ -190,6 +199,24 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-17/myanmar-sham-election-coup-leader-legitimacy-wealth-thailand/106558954"
     },
     {
+      "published_datetime": "2026-04-16T20:43:09.000000Z",
+      "title": "'Plate to paddock': How a festival's waste became a farmer's treasure",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6454442ed7eb7b9711c7684c34dad9d9?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+      },
+      "description": "Tonnes of organic waste from the National Folk Festival are being turned into fertiliser on a farm outside Canberra in a circular economy project delivering more benefits than just waste reduction.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-17/braidwood-farm-turns-national-folk-festival-waste-fertiliser/106573750"
+    },
+    {
+      "published_datetime": "2026-04-16T09:06:32.000000Z",
+      "title": "Trbojevic injures hamstring as Manly thrash Cowboys",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/af44879232981aeb223b54c05deb2606?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The Sea Eagles have smashed North Queensland but the win has come at a heavy cost following a hamstring injury to star fullback Tom Trbojevic. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/manly-sea-eagles-tom-trbojevic-hamstring-cowboys/106573478"
+    },
+    {
       "published_datetime": "2026-04-16T16:40:34.000000Z",
       "title": "Mandelson failed vetting but was given UK ambassador to US job anyway",
       "featured_image": {
@@ -197,33 +224,6 @@
       },
       "description": "Peter Mandelson was sacked from the role after revelations about his connections with the late sex offender became public.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-17/lord-mandelson-failed-vetting-starmer-epstein/106574120"
-    },
-    {
-      "published_datetime": "2026-04-16T07:09:17.000000Z",
-      "title": "How to tell if your dog is in pain and what to do if they are",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/44ffa6b40c402d94e51dbb7bae940ee6?impolicy=wcms_crop_resize&amp;cropH=1407&amp;cropW=2500&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "New research suggests that many dog owners are not skilled in recognising pain in their pets. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/how-to-tell-if-your-dog-is-in-pain/106572808"
-    },
-    {
-      "published_datetime": "2026-04-16T20:18:01.000000Z",
-      "title": "BreastScreen SA did not get ethics approval or consent before needle study, ombudsman finds",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0891920f3e9e8fe8528caea227dd5679?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "South Australia's public breast cancer screening service conducted research without ethics approval or consent from almost 100 patients, who it asked to do a second breast needle biopsy, prompting the service to \"unreservedly\" apologise. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-17/breastscreen-sa-did-not-get-ethics-approvals-before-studies/106570768"
-    },
-    {
-      "published_datetime": "2026-04-16T07:41:52.000000Z",
-      "title": "US alliance indispensable as Marles looks to build more self-sufficient ADF",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0cb6108ffe7ad7cfc5c2b41ab3b393e4?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=61&amp;width=862&amp;height=485"
-      },
-      "description": "Defence Minister Richard Marles has declared the United States alliance will remain indispensable for Australian national security even while Australia looks to build a more self-reliant defence force.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/richard-marles-defence-spending-us-alliance-rules-based-order/106571434"
     }
   ]
 }
