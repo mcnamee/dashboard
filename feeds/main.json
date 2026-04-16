@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-16T01:37:44.000000Z",
+      "title": "Breaking: Unemployment rate remains at 4.3pc",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/61d6d45253364af63ceb0d24e9c14090?impolicy=wcms_crop_resize&amp;cropH=1488&amp;cropW=2645&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's unemployment rate remained at 4.3 per cent in March, the same as February, in seasonally adjusted terms.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/unemployment-rate-steady-march-2026-australia/106570400"
+    },
+    {
+      "published_datetime": "2026-04-16T01:08:40.000000Z",
+      "title": "Australia's rarest reptile found after being considered extinct",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2692f0068eda05eb12939a78d2159826?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=180&amp;width=862&amp;height=485"
+      },
+      "description": "Not found anywhere else on Earth, a skink considered functionally extinct has been found in a national park in far west NSW.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/rarest-reptile-kungaka-skink-found-mutawinji-national-park-nsw/106567310"
+    },
+    {
+      "published_datetime": "2026-04-16T00:34:40.000000Z",
+      "title": "Former US Marines pilot Dan Duggan loses bid to avoid extradition from Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/380602bc478cc2b8abb41ff7f4b70c43?impolicy=wcms_crop_resize&amp;cropH=995&amp;cropW=1768&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Former United States Marine Corp pilot Dan Duggan\u2019s Federal Court bid to avoid extradition from Australia is dismissed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/former-us-marine-pilot-dan-duggan-to-be-extradited-australia/106570508"
+    },
+    {
+      "published_datetime": "2026-04-15T23:38:06.000000Z",
+      "title": "Video shows father and son illegally scuttling boat off NSW South Coast",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/05e1fe52d27b7d13d9e43ff913e7685d?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The two fishermen were fined $15,000 for towing their vessel out to sea and illegally scuttling in a historic judgement.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/video-mark-marcus-mcdermott-released-boat-scuttling-courts/106568116"
+    },
+    {
       "published_datetime": "2026-04-15T23:26:46.000000Z",
       "title": "Why Australia turned to tiny nation to secure critical fertiliser supplies",
       "featured_image": {
@@ -10,12 +46,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-16/why-australia-turned-to-brunei-for-urea-crop-fertiliser-supplies/106566544"
     },
     {
-      "published_datetime": "2026-04-15T22:56:00.000000Z",
-      "title": "Live: Geelong oil refinery fire 'very confronting', CEO says as blaze rages out of control",
+      "published_datetime": "2026-04-15T23:02:57.000000Z",
+      "title": "New data reveals age group spending up big",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fedf5e8d1a2ad961d49ce66d2978bbda?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=960&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/816cf69dc3efaf037a0d33d9eee78c18?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Authorities are working to douse an out-of-control blaze engulfing the Geelong Viva Enery oil refinery, one of two major refineries in the country. Follow live.",
+      "description": "Australians spent more in March as the outbreak of the Iran war drove up petrol prices. Older Australians increased their spending at the fastest pace, CBA data shows.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/household-spending-rises-in-march-driven-by-fuel-over-65s-cba/106568310"
+    },
+    {
+      "published_datetime": "2026-04-15T22:56:00.000000Z",
+      "title": "Live: Equipment failure to blame for Geelong oil refinery fire, firefighters say",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e4ffe93c37c8beadbb4f7d82876991aa?impolicy=wcms_crop_resize&amp;cropH=485&amp;cropW=862&amp;xPos=0&amp;yPos=45&amp;width=862&amp;height=485"
+      },
+      "description": "Authorities are fighting a fire engulfing the Geelong Viva Enery oil refinery, one of two major refineries in the country. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-16/geelong-oil-refinery-fire-live-updates/106570266"
     },
     {
@@ -41,15 +86,6 @@
       "audio_url": "",
       "url": "centcom-says-iran-naval-blocka-FRINDCbuQ8.0tG4ggFAMww",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-15T21:24:40.000000Z",
-      "title": "Live: Markets set to open flat with fuel crisis likely to worsen",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&amp;cropH=530&amp;cropW=942&amp;xPos=0&amp;yPos=14&amp;width=862&amp;height=485"
-      },
-      "description": "The fuel crisis is set to worsen after a massive fire at one of Australia's two oil refineries. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/asx-markets-business-live-news-april-16/106569522"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/290d94b9-5018-496f-a1cf-029fa7160e96",
@@ -80,15 +116,6 @@
       "audio_url": "",
       "url": "chinese-tanker-turned-back-at-3y8nS9FrS_uvlV6TbEuxRg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-15T20:19:00.000000Z",
-      "title": "Talk of ceasefire in Lebanon as strait blockade continues: What to know today on Iran",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3609aec22ae28d93a6b578aaa8508069?impolicy=wcms_crop_resize&amp;cropH=2350&amp;cropW=4177&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Israeli forces are expected to \"overwhelm\" parts of southern Lebanon and yet a ceasefire may still be only a matter of days away.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/iran-israel-war-daily-briefing/106569780"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a1d5bf42-f693-4dc3-b005-b8ee5e5fe720",
@@ -134,33 +161,6 @@
       "audio_url": "",
       "url": "nasa-says-god-of-chaos-asteroi-3BMrubepSvGqE8F1WJTo8g",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-15T19:00:00.000000Z",
-      "title": "Albanese government's frustration rises as Australians pay price for war",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9bb6fe150041f0c6324e2480c7a56698?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Fuel prices and inflation aren't the only metrics climbing as the Strait of Hormuz remains shut. The Albanese government's level of frustration is rising just as fast.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/strait-of-hormuz-albanese-government-fuel-prices-inflation/106485664"
-    },
-    {
-      "published_datetime": "2026-04-15T18:59:18.000000Z",
-      "title": "Creators of fuel dashboard quoted by News Corp have links to Liberals",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aac3d3a5e37b20029f65b27f87e239b0?impolicy=wcms_crop_resize&amp;cropH=602&amp;cropW=1071&amp;xPos=0&amp;yPos=29&amp;width=862&amp;height=485"
-      },
-      "description": "An ABC NEWS Verify investigation raises questions about popular independent fuel security dashboards that have emerged online, including one whose creators are linked to the Liberal Party.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/ai-fuel-tracking-slop-sites-alternates-links-to-liberal-party/106568004"
-    },
-    {
-      "published_datetime": "2026-04-15T18:46:13.000000Z",
-      "title": "Ukraine looking to 'capitalise' on new momentum against Russia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94b5911a78834faf114e7299a4cca8c6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Western officials and analysts say Ukrainian forces have disrupted Russia's planned spring offensive and managed to retake territory.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/ukraine-russia-invasion-war-drone-territory/106569536"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dfdad865-af6c-4a22-85dc-dce4836dd808",
@@ -213,7 +213,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef3e5ae9e191ba16f7f3ded39a5baa39?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
       },
-      "description": "The US president says a deal with Iran is \"preferable\" and people should expect an \"amazing two days\" ahead. Follow live.",
+      "description": "The US president has said a deal with Iran is \"preferable\" and to expect an \"amazing two days\" ahead. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-16/iran-war-live-updates-ceasefire-extension-lebanon-israel/106569698"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-15T23:34:48.577428"
+  "merged_at": "2026-04-16T01:50:12.669984"
 }
