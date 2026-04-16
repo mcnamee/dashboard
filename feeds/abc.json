@@ -2,7 +2,7 @@
   "items": [
     {
       "published_datetime": "2026-04-15T22:56:00.000000Z",
-      "title": "Live: Firefighters say they have extinguished Geelong oil refinery blaze",
+      "title": "Live: Refinery hit by major blaze says fuel production secure, gas leak under investigation",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e4ffe93c37c8beadbb4f7d82876991aa?impolicy=wcms_crop_resize&amp;cropH=485&amp;cropW=862&amp;xPos=0&amp;yPos=45&amp;width=862&amp;height=485"
       },
@@ -10,22 +10,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-16/geelong-oil-refinery-fire-live-updates/106570266"
     },
     {
-      "published_datetime": "2026-04-16T04:12:40.000000Z",
-      "title": "Why oil refineries are designed not to catch fire",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e4ffe93c37c8beadbb4f7d82876991aa?impolicy=wcms_crop_resize&amp;cropH=485&amp;cropW=862&amp;xPos=0&amp;yPos=45&amp;width=862&amp;height=485"
-      },
-      "description": "A former refinery safety manager says preventing fires is hardwired into refining plants.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/refinery-safety-manager-says-fires-geelong-designed-not-happen/106571640"
-    },
-    {
       "published_datetime": "2026-04-15T16:56:28.000000Z",
-      "title": "Live: Iranian-flagged ship tries to evade US blockade as Australia calls for peace deal",
+      "title": "Live: Australia secures additional diesel shipments as Trump rules out extending ceasefire",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef3e5ae9e191ba16f7f3ded39a5baa39?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
       },
       "description": "US President Donald Trump says a long-term peace deal with Iran is \"preferable\" and to expect an \"amazing two days\" ahead. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-16/iran-war-live-updates-ceasefire-extension-lebanon-israel/106569698"
+    },
+    {
+      "published_datetime": "2026-04-16T05:24:07.000000Z",
+      "title": "Australian dollar surges to four-year high as traders see end to Iran war",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7e09bfefee9a08d20852eac3a902cfbd?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "Analysts say the mood on global financial markets has improved considerably over the past few days.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/australian-dollar-surges-to-four-year-high/106571996"
     },
     {
       "published_datetime": "2026-04-15T21:06:07.000000Z",
@@ -37,13 +37,31 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-16/federal-politics-blog-bowen-oil-refinery-fire/106566214"
     },
     {
-      "published_datetime": "2026-04-16T01:37:44.000000Z",
-      "title": "Unemployment rate remains at 4.3pc in 'calm before the storm'",
+      "published_datetime": "2026-04-16T04:47:53.000000Z",
+      "title": "Is LIV Golf dead? Not yet, but the vultures are circling",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/61d6d45253364af63ceb0d24e9c14090?impolicy=wcms_crop_resize&amp;cropH=1488&amp;cropW=2645&amp;xPos=0&amp;yPos=276&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0af04cfd3a9dcac4643b8792f19b9ad8?impolicy=wcms_crop_resize&amp;cropH=2148&amp;cropW=3818&amp;xPos=0&amp;yPos=129&amp;width=862&amp;height=485"
       },
-      "description": "Australia's unemployment rate remained at 4.3 per cent in March, but economists say cracks could start appearing in coming months.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/unemployment-rate-steady-march-2026-australia/106570400"
+      "description": "Rumours of LIV Golf's immediate demise look wide of the mark, but the smoke is only growing thicker as denials from the league's CEO help paint a bleak picture. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/is-liv-golf-dead-not-yet-but-the-vultures-are-circling/106571420"
+    },
+    {
+      "published_datetime": "2026-04-16T04:41:05.000000Z",
+      "title": "Prince Harry to headline mental health summit on day three of Australian visit",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/197a9e21bced5ae18048c8b430d6b5b0?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "The Duke and Duchess of Sussex are back together in Melbourne after spending the second day of their Australian tour apart.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/prince-harry-and-meghan-return-to-melbourne-australia-visit/106571184"
+    },
+    {
+      "published_datetime": "2026-04-16T05:15:18.000000Z",
+      "title": "Controversial laws to restrict protests in NSW struck down by top court",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9dd9ed3d4720ccd7cf27efb531211dde?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+      },
+      "description": "The laws, rushed through parliament after the Bondi Beach terrorist attack, have been found to be unconstitutional by the state's highest court.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/chief-justice-findings-on-nsw-protest-law-reform/106570860"
     },
     {
       "published_datetime": "2026-04-15T23:02:57.000000Z",
@@ -55,13 +73,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-16/household-spending-rises-in-march-driven-by-fuel-over-65s-cba/106568310"
     },
     {
-      "published_datetime": "2026-04-15T23:38:06.000000Z",
-      "title": "Video shows father and son illegally scuttling boat off NSW South Coast",
+      "published_datetime": "2026-04-15T23:26:46.000000Z",
+      "title": "Why Australia turned to tiny nation to secure critical fertiliser supplies",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/05e1fe52d27b7d13d9e43ff913e7685d?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/897607739b3af0293c211d90131acdd4?impolicy=wcms_crop_resize&amp;cropH=718&amp;cropW=1276&amp;xPos=0&amp;yPos=88&amp;width=862&amp;height=485"
       },
-      "description": "In a historic judgment, the two fishermen are fined $15,000 for towing their vessel out to sea and illegally scuttling it.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/video-mark-marcus-mcdermott-released-boat-scuttling-courts/106568116"
+      "description": "The Middle East conflict has disrupted the flow of Australia's imports of the fertiliser urea. Facing the potential threat of reduced crop yields, Anthony Albanese looked to Australia's neighbours.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/why-australia-turned-to-brunei-for-urea-crop-fertiliser-supplies/106566544"
+    },
+    {
+      "published_datetime": "2026-04-16T01:37:44.000000Z",
+      "title": "Unemployment rate remains at 4.3pc in 'calm before the storm'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/61d6d45253364af63ceb0d24e9c14090?impolicy=wcms_crop_resize&amp;cropH=1488&amp;cropW=2645&amp;xPos=0&amp;yPos=276&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's unemployment rate remained at 4.3 per cent in March, but economists say cracks could start appearing in coming months.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/unemployment-rate-steady-march-2026-australia/106570400"
     },
     {
       "published_datetime": "2026-04-16T01:15:21.000000Z",
@@ -73,67 +100,31 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-16/new-count-in-key-sa-state-election-seat-of-narungga/106570406"
     },
     {
-      "published_datetime": "2026-04-16T00:34:40.000000Z",
-      "title": "'Into the hands of Trump': Dan Duggan's bid to avoid extradition fails",
+      "published_datetime": "2026-04-16T05:46:15.000000Z",
+      "title": "Underworld figure had 'never' sat outside at cafe until day he was shot, court told",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/380602bc478cc2b8abb41ff7f4b70c43?impolicy=wcms_crop_resize&amp;cropH=995&amp;cropW=1768&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/260fc966487580d24cdf390bf7d8d4e6?impolicy=wcms_crop_resize&amp;cropH=539&amp;cropW=958&amp;xPos=0&amp;yPos=270&amp;width=862&amp;height=485"
       },
-      "description": "Former United States Marine Corps pilot Dan Duggan’s Federal Court bid to avoid extradition from Australia is dismissed.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/former-us-marine-pilot-dan-duggan-to-be-extradited-australia/106570508"
+      "description": "Victoria's Supreme Court is told underworld figure Gavin Preston was cautious about his surroundings and \"never\" sat outside a cafe he regularly attended — other than the day he was shot dead. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/gavin-preston-murder-trial-hears-details-of-day-of-shooting/106572486"
     },
     {
-      "published_datetime": "2026-04-15T23:26:46.000000Z",
-      "title": "Why Australia turned to tiny nation to secure critical fertiliser supplies",
+      "published_datetime": "2026-04-16T05:54:26.000000Z",
+      "title": "Liberty Bell Bay workers told to take leave without pay or be sacked",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/897607739b3af0293c211d90131acdd4?impolicy=wcms_crop_resize&amp;cropH=718&amp;cropW=1276&amp;xPos=0&amp;yPos=88&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/480318fde43e1b181d21e7d22663968e?impolicy=wcms_crop_resize&amp;cropH=4566&amp;cropW=8118&amp;xPos=0&amp;yPos=423&amp;width=862&amp;height=485"
       },
-      "description": "The Middle East conflict has disrupted the flow of Australia's imports of the fertiliser urea. Facing the potential threat of reduced crop yields, Anthony Albanese looked to Australia's neighbours.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/why-australia-turned-to-brunei-for-urea-crop-fertiliser-supplies/106566544"
+      "description": "About 175 workers at Australia's only manganese smelter, Liberty Bell Bay, have been told they will be laid off at the end of next week unless they take leave without pay.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/liberty-bell-bay-smelter-workers-face-being-stood-down/106571896"
     },
     {
-      "published_datetime": "2026-04-15T21:24:40.000000Z",
-      "title": "Live: Unemployment remains at 4.3pc, Viva Energy in trading halt after fire",
+      "published_datetime": "2026-04-15T23:12:01.000000Z",
+      "title": "Rebel Wilson's The Deb is a delight despite the ongoing legal drama",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&amp;cropH=530&amp;cropW=942&amp;xPos=0&amp;yPos=14&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/90a541a32d8c0f6bb58a16b68ad9951f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Viva Energy is in a trading halt after a fire at its Geelong oil refinery. Follow the day's events and insights from our business reporters on the ABC News live markets blog. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/asx-markets-business-live-news-april-16/106569522"
-    },
-    {
-      "published_datetime": "2026-04-16T04:23:28.000000Z",
-      "title": "Launceston councillor Danny Gibson resigns after scandal-plagued term",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/760d77b47f3d6a1a8bbdaa7b3ab2827b?impolicy=wcms_crop_resize&amp;cropH=322&amp;cropW=572&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The former mayor and councillor of Tasmanian's second-largest city resigns effective immediately, years after an ABC investigation uncovered historical allegations about his conduct towards young men in the theatre scene.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/tas-danny-gibson-resigns-from-launceston-city-council/106571142"
-    },
-    {
-      "published_datetime": "2026-04-16T03:39:49.000000Z",
-      "title": "AFL 'firestorm' taking heavy toll on players, Saints coach says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/56677f54c2a0b5ed38e1a4e208c10649?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=460&amp;width=862&amp;height=485"
-      },
-      "description": "St Kilda coach Ross Lyon says the damage from a \"firestorm\" around the AFL Tribunal is weighing heavily as his club signals it may appeal against Lance Collard's suspension.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/afl-tribunal-firestorm-taking-a-heavy-toll-on-players-ross-lyon/106571692"
-    },
-    {
-      "published_datetime": "2026-04-16T04:18:15.000000Z",
-      "title": "SA government has 'assurances' from LIV Golf as course upgrade under fresh scrutiny",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f4957d53712ec4bc61bbb8d33b6d410f?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=365&amp;width=862&amp;height=485"
-      },
-      "description": "The South Australian government has reaffirmed its commitment to a $45 million upgrade of the North Adelaide public golf course to host LIV Golf in 2028, and has \"assurances\" about the tour's future.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/sa-liv-golf-future-with-north-adelaide-golf-course/106570520"
-    },
-    {
-      "published_datetime": "2026-04-16T01:08:40.000000Z",
-      "title": "Australia's rarest reptile found after being considered extinct",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2692f0068eda05eb12939a78d2159826?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=180&amp;width=862&amp;height=485"
-      },
-      "description": "Not found anywhere else on Earth, a skink considered functionally extinct has been found in a national park in far west NSW.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/rarest-reptile-kungaka-skink-found-mutawinji-national-park-nsw/106567310"
+      "description": "Plus a powerful look Palestinian life through multiple generations and a buzzy Japanese video game adaptation makes it to Australian shores.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/what-to-watch-in-cinemas-april/106566118"
     },
     {
       "published_datetime": "2026-04-15T18:30:00.000000Z",
@@ -154,13 +145,67 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-16/how-this-tiny-town-welcomed-sydney-youth-orchestra/106283848"
     },
     {
-      "published_datetime": "2026-04-15T23:12:01.000000Z",
-      "title": "Rebel Wilson's The Deb is a delight despite the ongoing legal drama",
+      "published_datetime": "2026-04-15T23:38:06.000000Z",
+      "title": "Video shows father and son illegally scuttling boat off NSW South Coast",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/90a541a32d8c0f6bb58a16b68ad9951f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/05e1fe52d27b7d13d9e43ff913e7685d?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Plus a powerful look Palestinian life through multiple generations and a buzzy Japanese video game adaptation makes it to Australian shores.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/what-to-watch-in-cinemas-april/106566118"
+      "description": "In a historic judgment, the two fishermen are fined $15,000 for towing their vessel out to sea and illegally scuttling it.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/video-mark-marcus-mcdermott-released-boat-scuttling-courts/106568116"
+    },
+    {
+      "published_datetime": "2026-04-15T21:24:40.000000Z",
+      "title": "Live: Unemployment remains at 4.3pc, Viva Energy in trading halt after fire",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&amp;cropH=530&amp;cropW=942&amp;xPos=0&amp;yPos=14&amp;width=862&amp;height=485"
+      },
+      "description": "Viva Energy is in a trading halt after a fire at its Geelong oil refinery. Follow the day's events and insights from our business reporters on the ABC News live markets blog. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/asx-markets-business-live-news-april-16/106569522"
+    },
+    {
+      "published_datetime": "2026-04-16T05:00:18.000000Z",
+      "title": "Russian missiles hit Kyiv and other Ukrainian cities, 12 dead",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/adacffbeb3421afcee761d7f99313918?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=274&amp;width=862&amp;height=485"
+      },
+      "description": "Russian forces have attacked the Ukrainian capital Kyiv and other cities, killing 12 people, as the defence leaders of more than 50 countries say they are aiming to send more aid to Ukraine.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/ukraine-latest-death-toll-russian-missile-attack/106570958"
+    },
+    {
+      "published_datetime": "2026-04-16T04:46:13.000000Z",
+      "title": "Man, 53, charged over seizure of more than 350 cannabis plants",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c2e01bae5208fb6d7bc2a19978f81c76?impolicy=wcms_crop_resize&amp;cropH=849&amp;cropW=1509&amp;xPos=0&amp;yPos=79&amp;width=862&amp;height=485"
+      },
+      "description": "A 53-year-old Kalgoorlie man is released on bail after the seizure of more than 350 cannabis plants from a property WA Police allege had been converted for the purpose of growing hydroponic cannabis.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/police-seize-more-than-350-cannabis-plants-from-kalgoorlie-house/106571660"
+    },
+    {
+      "published_datetime": "2026-04-16T04:23:28.000000Z",
+      "title": "Former Launceston mayor resigns from council after scandal-plagued term",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/760d77b47f3d6a1a8bbdaa7b3ab2827b?impolicy=wcms_crop_resize&amp;cropH=322&amp;cropW=572&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The former mayor and councillor of Tasmanian's second-largest city resigns effective immediately, years after an ABC investigation uncovered historical allegations about his conduct towards young men in the theatre scene.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/tas-danny-gibson-resigns-from-launceston-city-council/106571142"
+    },
+    {
+      "published_datetime": "2026-04-16T05:08:44.000000Z",
+      "title": "Smoky Sydney as 5,000 hectares burned in hazard reduction blitz",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b305c337651da87d156c2f107826dd18?impolicy=wcms_crop_resize&amp;cropH=665&amp;cropW=1182&amp;xPos=0&amp;yPos=141&amp;width=862&amp;height=485"
+      },
+      "description": "Smoky conditions across Greater Sydney are tipped to ease tomorrow as the wind picks up, after firefighters had a productive week burning hazards around Sydney's fringes. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/sydney-smoke-as-rfs-takes-advantage-of-favourable-conditions/106570464"
+    },
+    {
+      "published_datetime": "2026-04-16T05:40:34.000000Z",
+      "title": "Pandemic, 'ice epidemic' worsened Qld child safety pressures, ex-minister says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3e3eae21b21e4f01d01b843e2d264cd9?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "An inquiry into Queensland's child safety system hears the former minister was made aware of the sector's resource issues, as well as the \"significant increase\" in children entering residential care.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/former-child-safety-minister-inquiry/106571558"
     },
     {
       "published_datetime": "2026-04-15T20:50:01.000000Z",
@@ -172,58 +217,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-16/arrest-warrant-issued-legal-battle-for-long-service-leave/106556456"
     },
     {
-      "published_datetime": "2026-04-16T03:59:12.000000Z",
-      "title": "Queensland massage therapist faces 18 sexual assault charges",
+      "published_datetime": "2026-04-16T00:20:52.000000Z",
+      "title": "Soldier protest prompts review of recruitment in PNG defence force",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fe61c3af6a44c2dd7c208488b680f9d5?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=960&amp;xPos=0&amp;yPos=341&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c3ae96d3d049a52a5b019e4322e6e863?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "A Queensland massage therapist arrested in February over the alleged sexual assault of four clients is facing 11 fresh charges after another four female clients came forward.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/sunshine-coast-massage-therapist-extra-sexual-assault-charges/106571366"
-    },
-    {
-      "published_datetime": "2026-04-16T04:11:57.000000Z",
-      "title": "Man found not criminally responsible for fatal hospital attack on 80yo woman",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4515eb38345e945bfc7f7d0386a1daa4?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=16&amp;width=862&amp;height=485"
-      },
-      "description": "A man charged with choking and bashing an elderly woman at a Sydney hospital who later died has been found not criminally responsible due to a psychotic episode and likely schizophrenia.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/richard-po-lun-lim-not-criminally-responsible-for-choking-80yo/106570772"
-    },
-    {
-      "published_datetime": "2026-04-16T01:23:08.000000Z",
-      "title": "Two men found guilty of manslaughter over 1999 death of Irma Palasics",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f8c0cecc86cf1b9cee3925ef3f94a032?impolicy=wcms_crop_resize&amp;cropH=1132&amp;cropW=2013&amp;xPos=0&amp;yPos=273&amp;width=862&amp;height=485"
-      },
-      "description": "Two Melbourne men are found guilty of the manslaughter of Canberra woman Irma Palasics during a violent home invasion in 1999.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/men-found-guilty-of-manslaughter-1999-death-irma-palasics/106560260"
-    },
-    {
-      "published_datetime": "2026-04-15T20:42:34.000000Z",
-      "title": "NSW premier says accidental prisoner release is 'embarrassing'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3857398360e787fb5fc206d4db3a6d85?impolicy=wcms_crop_resize&amp;cropH=356&amp;cropW=633&amp;xPos=0&amp;yPos=203&amp;width=862&amp;height=485"
-      },
-      "description": "The ABC understands Kyle Quayle was mistakenly released from Clarence Correctional Centre on Tuesday and is believed to be in the Newcastle area.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/manhunt-underway-after-prisoner-mistakenly-released-from-jail/106569828"
-    },
-    {
-      "published_datetime": "2026-04-16T01:06:14.000000Z",
-      "title": "BBC to cut up to 2,000 jobs in response to 'financial pressures'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e4dfbcb98cc544379ce3f2065666e3c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The BBC is planning to cut up to 2,000 jobs to save 10 per cent of its annual budget — 500 million pounds ($945 million) — over the next two years.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/bbc-to-cut-up-to-2000-jobs-to-reduce-costs/106570450"
-    },
-    {
-      "published_datetime": "2026-04-16T02:51:35.000000Z",
-      "title": "NRL has 'lost the fabric of the game' with six-again rule",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5478e86a9124369a89fe9eef7360f99e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Canberra Raiders coach Ricky Stuart says the NRL has lost the fabric of its game, leading to anger over the league's controversial six-again rule change.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/nrl-six-again-rule-should-be-scrapped-says-ricky-stuart/106571326"
+      "description": "A small group of officers deserted their posts this week in protest over alleged government corruption.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/james-marape-announces-png-defence-forces-recruitment-probe/106570080"
     }
   ]
 }
