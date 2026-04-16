@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-16T14:27:12.000000Z",
+      "title": "Pope blasts 'tyrants' spending big on war following public spat with Trump",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6fc6a048fcd81c2e4274ef3d80fb82eb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "The US-born pope has praised peace movements and peace makers during his visit to the African nation of Cameroon as the rift with US President Donald Trump intensifies.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-17/pope-blasts-tyrants-amid-disagreement-with-trump/106573962"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9937e62d-3921-4a20-9a7a-4dff73ddc394",
       "published_datetime": "2026-04-16T13:40:09.472233",
       "title": "Study projects Atlantic current system to weaken 51% by 2100",
@@ -91,24 +100,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-16T09:06:32.000000Z",
-      "title": "Live: Manly overcome Trbojevic injury to smash Cowboys",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bc9a8d19281b320d3f11b774171f7633?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=335&amp;width=862&amp;height=485"
-      },
-      "description": "The Sea Eagles have smashed North Queensland but the win has come at a heavy cost following a hamstring injury to star fullback Tom Trbojevic. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/nrl-live-updates-north-queensland-cowboys-manly-sea-eagles/106573478"
-    },
-    {
-      "published_datetime": "2026-04-16T08:30:53.000000Z",
-      "title": "Live: Daicos inspires Magpies to win as Blues youngster misses kick after siren",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9f2fa6f69d9eabcc12c1b3c3c4f1ad23?impolicy=wcms_crop_resize&amp;cropH=2033&amp;cropW=3614&amp;xPos=0&amp;yPos=142&amp;width=862&amp;height=485"
-      },
-      "description": "Nick Daicos stars in the final quarter to inspire Collingwood to a win as Carlton youngster Talor Byrne misses a kick after the siren to tie the scores. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-16/afl-round-6-carlton-blues-collingwood-magpies-mcg-live-blog/106573626"
-    },
-    {
       "published_datetime": "2026-04-16T07:41:52.000000Z",
       "title": "US alliance indispensable as Marles looks to build more self-sufficient ADF",
       "featured_image": {
@@ -161,6 +152,15 @@
       },
       "description": "Analysts say the mood on global financial markets has improved considerably over the past few days.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-16/australian-dollar-surges-to-four-year-high/106571996"
+    },
+    {
+      "published_datetime": "2026-04-16T05:00:18.000000Z",
+      "title": "Russia launches deadliest attack on Ukraine this year, killing 17",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/adacffbeb3421afcee761d7f99313918?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=274&amp;width=862&amp;height=485"
+      },
+      "description": "Russian forces have attacked the Ukrainian capital Kyiv and other cities, killing 17 people, as the defence leaders of more than 50 countries say they are aiming to send more aid to Ukraine.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-16/ukraine-latest-death-toll-russian-missile-attack/106570958"
     },
     {
       "published_datetime": "2026-04-16T04:41:05.000000Z",
@@ -233,11 +233,11 @@
     },
     {
       "published_datetime": "2026-04-15T16:56:28.000000Z",
-      "title": "Live: Israel takes out key bridge in southern Lebanon ahead of vital talks",
+      "title": "Israel takes out key bridge in Lebanon, Hegseth threatens Iranian infrastructure",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4f8e9a60f87e24d148e0da33634db87b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=284&amp;width=862&amp;height=485"
       },
-      "description": "An Israeli strike has severed the last bridge linking southern Lebanon to the rest of the country ahead of mooted talks between Israeli Prime Minister Benjamin Netanyahu and Lebanese President Joseph Aoun. Follow live.",
+      "description": "An Israeli strike has severed the last bridge linking southern Lebanon to the rest of the country ahead of mooted talks between Israeli Prime Minister Benjamin Netanyahu and Lebanese President Joseph Aoun.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-16/iran-war-live-updates-ceasefire-extension-lebanon-israel/106569698"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-16T15:01:23.772447"
+  "merged_at": "2026-04-16T15:19:14.478720"
 }
