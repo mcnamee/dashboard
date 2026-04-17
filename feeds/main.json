@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-17T22:27:15.000000Z",
+      "title": "Frustrated parents look to enforce 'ineffective' social media ban",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c3c8505b4cbe49e8e865bf403eb3c17a?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Tech companies are coming under fire as Australian parents increasingly voice concerns that some online platforms are failing to keep kids under 16 off their platforms.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-18/parents-say-social-media-ban-for-under-16s-ineffective/106573126"
+    },
+    {
+      "published_datetime": "2026-04-17T21:29:07.000000Z",
+      "title": "An executive at FIFA's new betting partner settled an insider-trading lawsuit",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/96592ac9251bbed1190132b15233a087?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "The backstory of the prediction market industry's newest entrant has done little to calm concerns as it partners with several giants of sports broadcasting.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-18/fifa-betting-partner-adi-predict-street-insider-trading/106574988"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a7eee819-94e7-4bf4-be13-c5ad10545d55",
       "published_datetime": "2026-04-17T21:11:25.367021",
       "title": "Trump says US has 'prohibited' Israel from bombing Lebanon",
@@ -14,15 +32,6 @@
       "audio_url": "",
       "url": "trump-says-us-has-prohibited-i-mmwJnetbTt2i3XwtUXz.lA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-17T21:07:38.000000Z",
-      "title": "The 'immense complexity' facing Ben Roberts-Smith's prosecutors",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a1d10b5284fcafad971a3ef73314252f?impolicy=wcms_crop_resize&amp;cropH=2809&amp;cropW=4994&amp;xPos=0&amp;yPos=10&amp;width=862&amp;height=485"
-      },
-      "description": "A legal expert says the criminal prosecution of former soldier Ben Roberts-Smith will test Australia's war crimes legal framework in ways never seen before, as the case moves toward a trial.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-18/ben-roberts-smith-legal-case-explained/106571908"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dd91bccd-6f55-4bd9-98c5-dbacf3c31864",
@@ -149,21 +158,12 @@
     },
     {
       "published_datetime": "2026-04-17T18:30:00.000000Z",
-      "title": "The Windsor playbook with a twist: Harry and Meghan's royal model",
+      "title": "Harry and Meghan seek duty and dollars on tour",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ae0c12d51b6f7cc6012120d8e1eee67?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Mixing philanthropy, influencing and brand building, Harry and Meghan\u2019s Australian tour revives a question Queen Elizabeth once shut down: can the 'half in, half out' royal life work?",
       "page_content_url": "https://www.abc.net.au/news/2026-04-18/prince-harry-meghan-australian-tour-royal-brand-sussex/106575674"
-    },
-    {
-      "published_datetime": "2026-04-17T18:25:09.000000Z",
-      "title": "Oil prices plunge after news Strait of Hormuz to open",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1525237cee826fe6bd08f3f7c5033ffd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=384&amp;width=862&amp;height=485"
-      },
-      "description": "Oil prices plunged more than 10 per cent after Iran declared the Strait of Hormuz would be \"completely open\" but shipping giants are approaching the situation with caution.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-18/oil-price-plunge-after-iran-announcement/106579276"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/54422269-1426-40a6-bcc1-7cecbe953e50",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-17T22:29:46.473042"
+  "merged_at": "2026-04-17T23:31:22.852324"
 }
