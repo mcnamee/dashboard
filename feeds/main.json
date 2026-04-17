@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-17T08:14:57.000000Z",
+      "title": "PM to join leaders meeting on securing Strait of Hormuz",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a96bc044057f78ef2ffb7c969ff4093e?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Anthony Albanese will join a virtual meeting of world leaders tonight to discuss how the Strait of Hormuz can be secured after the conflict in the region ends.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-17/albanese-international-leaders-meeting-strait-hormuz-reopen/106578022"
+    },
+    {
       "published_datetime": "2026-04-17T07:33:23.000000Z",
       "title": "Pacific leaders declare emergency over potential fuel shortages",
       "featured_image": {
@@ -44,7 +53,7 @@
     },
     {
       "published_datetime": "2026-04-17T05:07:12.000000Z",
-      "title": "Young people leaving Sydney 'en mass' over housing affordability",
+      "title": "Young people leaving Sydney 'en masse' over housing affordability",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/35478c46e9dfb68071858af2bcf18416?impolicy=wcms_crop_resize&amp;cropH=2328&amp;cropW=4139&amp;xPos=0&amp;yPos=218&amp;width=862&amp;height=485"
       },
@@ -101,7 +110,7 @@
     },
     {
       "published_datetime": "2026-04-17T02:22:39.000000Z",
-      "title": "Breaking: Ben Roberts-Smith leaves jail after securing bail over alleged war crimes",
+      "title": "Ben Roberts-Smith leaves jail after securing bail over alleged war crimes",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e3f4f8b3b4a6cb112e3dadb1e5b25322?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -116,15 +125,6 @@
       },
       "description": "The Israel Defense Forces labelled it Operation Eternal Darkness. Inside Lebanon, it's now called Black Wednesday. ABC NEWS Verify has geolocated the explosions across 10 minutes of chaos.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-17/ten-minutes-black-wednesday-lebanon-verify/106564594"
-    },
-    {
-      "published_datetime": "2026-04-17T01:56:32.000000Z",
-      "title": "Travellers in Europe may face major flight disruption over jet fuel crisis",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3855cb09a080cc65cddfe129451f01de?impolicy=wcms_crop_resize&amp;cropH=1971&amp;cropW=3504&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
-      },
-      "description": "Europe could experience major flight disruptions within weeks as global energy officials warn the continent has \"maybe six weeks of jet fuel left\", which could lead to further price hikes and cancellations for Australian travellers.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-17/jet-fuel-shortage-europe-travel-disruption-price-hikes/106574848"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/78fc8f74-db4f-4aad-9801-0efb84578b1b",
@@ -233,11 +233,11 @@
     },
     {
       "published_datetime": "2026-04-16T16:01:54.000000Z",
-      "title": "Live: Trump says Iran war going 'swimmingly' as Lebanon says Israel violated ceasefire",
+      "title": "Live: Trump hails ceasefire as 'historic day for Lebanon' as displaced residents make journey home",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/139536abdb5584ea8e99f359553aa980?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=258&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/04c418ef25604f68167967cf187ababc?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Several hours into the ceasefire between Israel and Lebanon, the Lebanese Army says \"a number of violations\" have occurred. Follow live.",
+      "description": "Thousands of displaced people in Lebanon are returning to their homes following a 10-day ceasefire deal with Israel. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-17/iran-war-live-updates-trump-lebanon-israel-ceasefire/106574286"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-17T08:22:04.472876"
+  "merged_at": "2026-04-17T10:06:26.196983"
 }
