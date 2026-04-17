@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-17T13:00:57.000000Z",
+      "title": "Aung San Suu Kyi to be freed sooner as Myanmar releases her ally from jail",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/22128d0d5a1d40780a2239492de4d2dc?impolicy=wcms_crop_resize&amp;cropH=2387&amp;cropW=4243&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
+      },
+      "description": "Myanmar's ex-leader Aung San Suu Kyi has her prison sentence cut as thousands of prisoners are freed. Meanwhile, the UN reveals 2025 marked the deadliest year on record for Rohingya refugees fleeing Myanmar.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-17/former-myanmar-president-released-from-jail/106578702"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ba02fba0-66e5-476d-a796-ade175c66eb1",
       "published_datetime": "2026-04-17T11:39:28.326408",
       "title": "Trump says Iran deal is close as Lebanon ceasefire takes hold",
@@ -92,15 +101,6 @@
       },
       "description": "The prime minister of Solomon Islands says Pacific leaders have declared an emergency over the looming threat of fuel shortages, while the Australian government contemplates a plan which could see stocks of diesel held by the US military sent to Pacific nations suffering shortages.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-17/pacific-leaders-declare-emergency-fuel-shortages/106577980"
-    },
-    {
-      "published_datetime": "2026-04-17T06:10:45.000000Z",
-      "title": "Australian woman killed in alleged DV murder in the US",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a0d43c92b08a6f50e89bc86f99521572?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=97&amp;width=862&amp;height=485"
-      },
-      "description": "A woman from the NSW Central Coast has died from stab wounds allegedly inflicted by her husband at their home in the US state of Florida.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-17/terrigal-woman-allegedly-murdered-by-husband-in-florida/106574630"
     },
     {
       "published_datetime": "2026-04-17T06:04:48.000000Z",
@@ -233,7 +233,7 @@
     },
     {
       "published_datetime": "2026-04-16T16:01:54.000000Z",
-      "title": "Live: Trump hails ceasefire as 'historic day for Lebanon' as displaced residents make journey home",
+      "title": "Live: Iran to reopen Strait of Hormuz during ceasefire, thousands of Lebanese return home",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/04c418ef25604f68167967cf187ababc?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-17T12:58:06.993803"
+  "merged_at": "2026-04-17T14:19:43.620064"
 }
