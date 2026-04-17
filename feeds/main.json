@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a7eee819-94e7-4bf4-be13-c5ad10545d55",
+      "published_datetime": "2026-04-17T21:11:25.367021",
+      "title": "Trump says US has 'prohibited' Israel from bombing Lebanon",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/liveblog/2026/4/17/iran-war-live-ceasefire-starts-in-lebanon-as-trump-says-tehran-deal-close",
+        "name": "Iran war live: Strait of Hormuz open \u2018for remaining period of ceasefire\u2019",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--804Q-Eh2--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-17T045958Z_980427794_RC2SQKAHIYUG_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-1776402872.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--4i0CB_rC--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-17T045958Z_980427794_RC2SQKAHIYUG_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-1776402872.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "President Donald Trump declared on Friday that the United States has banned Israel from conducting further airstrikes in Lebanon, issuing his strongest public directive yet to constrain Israeli military operations as a fragile 10-day ceasefire between the two countries enters its first full day.\n\n\"Israel will not be bombing Lebanon any longer. They are PROHIBITED from doing so by the USA. Enough is enough,\" Trump wrote on Truth Social. The statement came as part of a broader post in which Trump also pushed back against Iran's efforts to link the Lebanon truce to ongoing U.S.-Iran ceasefire negotiations. \"This deal is in no way subject to Lebanon, either, but the USA will, separately, work with Lebanon, and deal with the Hezboolah situation in an appropriate manner,\" he wrote.[1][2][3]",
+      "audio_url": "",
+      "url": "trump-says-us-has-prohibited-i-mmwJnetbTt2i3XwtUXz.lA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dd91bccd-6f55-4bd9-98c5-dbacf3c31864",
       "published_datetime": "2026-04-17T20:27:18.299288",
       "title": "Trump says US will recover enriched uranium from Iran",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d91d8b00-0bea-4b37-af2d-d2b933512a83",
-      "published_datetime": "2026-04-17T13:26:21.311296",
-      "title": "Pope Leo XIV draws massive crowd at Douala Mass",
-      "featured_image": {
-        "url": "https://globalnation.inquirer.net/318732/more-than-500000-expected-at-pope-leo-xivs-mass-in-cameroon",
-        "name": "More than 500,000 expected at Pope Leo XIV's Mass in Cameroon",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--sLoSGTIG--/t_limit/https://globalnation.inquirer.net/files/2026/04/AP26106522963217-scaled.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--18XHYDQ6--/t_thumbnail/https://globalnation.inquirer.net/files/2026/04/AP26106522963217-scaled.jpg"
-      },
-      "description": "Pope Leo XIV celebrated Mass before a crowd expected to number 600,000 at Japoma Stadium in Douala, Cameroon, on Friday, marking the largest gathering of his 11-day apostolic journey across Africa. The Vatican had predicted the turnout would be the biggest of the tour, though reports from the ground suggested attendance may have fallen short of projections due to extreme heat and tight security.[1][2]\n\nThe liturgy in Cameroon's economic capital came on the pontiff's third day in the country, part of a broader April 13\u201323 tour that began in Algeria and will continue to Angola and Equatorial Guinea. It is the first time an American pope has visited the African continent.[3][4]",
-      "audio_url": "",
-      "url": "pope-leo-xiv-draws-massive-cro-C5G_GagaSWSFB4L7UVMILA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-17T21:34:07.186904"
+  "merged_at": "2026-04-17T21:52:41.038195"
 }
