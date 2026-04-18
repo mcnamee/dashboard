@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-04-18T09:19:12.000000Z",
-      "title": "Breaking: Pedestrian killed, another injured in collision outside Melbourne showgrounds",
+      "published_datetime": "2026-04-18T10:42:07.000000Z",
+      "title": "Japan, Australia sign deal for production of first three frigates",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a75cd8cc1debda753f1f116e0ffda521?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=639&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3692b1d4d49a71fe6180c2f06e6a88b9?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=224&amp;width=862&amp;height=485"
       },
-      "description": "Police say a car mounted a kerb on Langs Road in Ascot Vale and struck two pedestrians and one of them has died at the scene. The other pedestrian has been taken to hospital with life-threatening injuries.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-18/pedestrian-fatal-struck-ascot-vale-collision/106580174"
+      "description": "Defence Minister Richard Marles and his Japanese counterpart, Koizumi Shinjir\u014d, signed the deal aboard one of the warships docked in Melbourne.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-18/japan-warship-deal-australia-with-mogami-frigate-richard-marles/106579734"
+    },
+    {
+      "published_datetime": "2026-04-18T09:19:12.000000Z",
+      "title": "Car hits pedestrians in Melbourne, killing Supernova Comic Con attendee",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5a41b21f65cc44df392010312749172e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A young man who was killed when a car struck a group of pedestrians in Melbourne's north-west was on his way home from attending the Supernova Comic Con &amp; Gaming convention, police say.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-18/supernova-comic-con-attendee-killed-by-car-ascot-vale/106580174"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/52bd5263-65c1-4c3e-abce-107d22735702",
@@ -70,7 +79,7 @@
       "published_datetime": "2026-04-18T04:21:05.000000Z",
       "title": "Live: Broncos hit with more injury agony as Payne Haas limps from field",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/973155024345d0642668925bccdd05ac?impolicy=wcms_crop_resize&amp;cropH=2631&amp;cropW=4678&amp;xPos=0&amp;yPos=128&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3a23261a46eab8c5493a31ffa07728a0?impolicy=wcms_crop_resize&amp;cropH=1304&amp;cropW=2318&amp;xPos=1082&amp;yPos=126&amp;width=862&amp;height=485"
       },
       "description": "Brisbane star Payne Haas leaves the game after sustaining a knee injury against the high-flying Wests Tigers in Campbelltown. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-18/nrl-live-warriors-titans-rabbitohs-dragons-tigers-broncos/106576324"
@@ -83,15 +92,6 @@
       },
       "description": "The largest democracy in the world has rejected a move to increase the number of women in parliament. What could have been a 'beacon' for global women's rights became marred by controversy.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-18/india-rejects-move-to-increase-women-in-parliament/106578754"
-    },
-    {
-      "published_datetime": "2026-04-18T03:04:20.000000Z",
-      "title": "Indemnified soldiers give evidence in war veteran's case, documents show",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d0aefeabdd7df4fa8e94a53287bc7697?impolicy=wcms_crop_resize&amp;cropH=2713&amp;cropW=4823&amp;xPos=116&amp;yPos=620&amp;width=862&amp;height=485"
-      },
-      "description": "Ben Roberts-Smith was on Friday granted bail in the NSW Local Court, with his case over war crimes charges expected to return to court in early June.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-18/indemnified-soldiers-give-evidence-in-ben-roberts-smith-case/106579530"
     },
     {
       "published_datetime": "2026-04-18T02:45:41.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-18T10:32:45.581435"
+  "merged_at": "2026-04-18T11:28:12.348988"
 }
