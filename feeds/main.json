@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-18T23:01:26.000000Z",
+      "title": "Supernova Comic Con to open for second day after 'appalling' death of attendee",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a75cd8cc1debda753f1f116e0ffda521?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=639&amp;width=862&amp;height=485"
+      },
+      "description": "Organisers say a minute of silence will be held at 10am for the family and friends of the victims before the event opens for another day.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-19/supernova-comic-con-attendee-pedestrian-killed-police-update/106580858"
+    },
+    {
+      "published_datetime": "2026-04-18T22:25:00.000000Z",
+      "title": "Hospital staff using ChatGPT to calculate medication doses, nurses claim",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b238eb88ac21839518980e9e96446e0?impolicy=wcms_crop_resize&amp;cropH=2063&amp;cropW=3667&amp;xPos=0&amp;yPos=278&amp;width=862&amp;height=485"
+      },
+      "description": "Whistleblowers say understaffing at the Northern Territory's busiest hospital is forcing nurses to take on unsafe patient loads, and some are teaching themselves medical procedures via YouTube.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-19/rdh-nurses-whistleblowers-patient-safety-royal-darwin-hospital/106570668"
+    },
+    {
       "published_datetime": "2026-04-18T21:23:18.000000Z",
       "title": "Andrew and Tristan Tate's renewed defamation claim names Australian YouTuber",
       "featured_image": {
@@ -26,15 +44,6 @@
       },
       "description": "The prospect of mines in the Strait of Hormuz has highlighted a gap in US naval capabilities and reinforced its need for NATO help.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-19/us-israel-strikes-on-iran-strait-of-hormuz-mine-clearing/106569736"
-    },
-    {
-      "published_datetime": "2026-04-18T19:28:11.000000Z",
-      "title": "The mystery of an outback 'catch and kill' squad during WWII has been solved",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7ddd03b1de450c9e51ab904469d10a64?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "In the 1940s, a shadowy military unit was assembled to catch and kill Japanese soldiers on Australia's remote northern coast. The identity of the so-called Solomons Six was a mystery \u2014 until now.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-19/solomons-six-mystery-wwii-kill-squad/106498028"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cef382a0-c9b0-4d51-93b5-24ed1f1469ad",
@@ -90,7 +99,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c24540e4435a7ff8889c64dbaae4ec79?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=8&amp;width=862&amp;height=485"
       },
-      "description": "US President Donald Trump described Pope Leo XIV's accession to the papacy as a meaningful moment for America. But now he has said the pontiff is hurting the Catholic Church, and is weak. Here's how their relationship has developed over the lpst year.",
+      "description": "US President Donald Trump described Pope Leo XIV's accession to the papacy as a meaningful moment for America. But now he has said the pontiff is hurting the Catholic Church, and is weak. Here's how their relationship has developed over the past year.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-19/trump-pope-leo-relationship/106575088"
     },
     {
@@ -170,15 +179,6 @@
       "audio_url": "",
       "url": "iran-s-mosquito-fleet-holds-ho-A2y0yb9gTSSP7pGrI5ABWQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-18T10:42:07.000000Z",
-      "title": "Japan, Australia sign deal for production of first three frigates",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3692b1d4d49a71fe6180c2f06e6a88b9?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=224&amp;width=862&amp;height=485"
-      },
-      "description": "Defence Minister Richard Marles and his Japanese counterpart, Koizumi Shinjir\u014d, signed the deal aboard one of the warships docked in Melbourne.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-18/japan-warship-deal-australia-with-mogami-frigate-richard-marles/106579734"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/52bd5263-65c1-4c3e-abce-107d22735702",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-18T22:25:09.276730"
+  "merged_at": "2026-04-18T23:26:32.854659"
 }
