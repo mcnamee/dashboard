@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-18T21:23:18.000000Z",
+      "title": "Andrew and Tristan Tate's renewed defamation claim names Australian YouTuber",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fb32ce2fca0d4686f31069f562234e4a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "An Adelaide YouTuber has been identified in a renewed defamation lawsuit self-described misogynist Andrew Tate and his brother Tristan have lodged with a US court against some of their online critics.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-19/adelaide-youtuber-named-in-andrew-tate-defamation-lawsuit/106521002"
+    },
+    {
       "published_datetime": "2026-04-18T19:50:56.000000Z",
       "title": "Live: Iran opens fire on ships travelling through Strait of Hormuz",
       "featured_image": {
@@ -28,6 +37,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-19/solomons-six-mystery-wwii-kill-squad/106498028"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cef382a0-c9b0-4d51-93b5-24ed1f1469ad",
+      "published_datetime": "2026-04-18T19:23:47.825988",
+      "title": "Iran says no new talks until framework agreed",
+      "featured_image": {
+        "url": "https://www.cnn.com/2025/11/17/world/video/iran-deputy-foreign-minister-khatibzadeh-interview-pleitgen-ldn-digvid",
+        "name": "Exclusive: Iranian official talks nuclear program with CNN",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--v--XiPKW--/t_limit/https://media.cnn.com/api/v1/images/stellar/prod/fred-iran-deputy-foreign-minister-thumbnail-1.jpg%3Fc%3Doriginal",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--bU24XjzC--/t_thumbnail/https://media.cnn.com/api/v1/images/stellar/prod/fred-iran-deputy-foreign-minister-thumbnail-1.jpg%3Fc%3Doriginal"
+      },
+      "description": "Iran's Deputy Foreign Minister Saeed Khatibzadeh on Saturday dismissed US President Donald Trump's claims about enriched uranium, declaring that Tehran will not hand over its stockpiles to the United States and that no date has been set for a new round of negotiations. Speaking to journalists on the sidelines of the Antalya Diplomatic Forum in Turkey, Khatibzadeh said the Iranians were not ready for face-to-face talks because the American negotiating position had not changed.[1][2][3]\n\n\"Until we agree on the framework, we cannot set the date,\" Khatibzadeh told reporters, according to Reuters. His remarks came days after Trump said on April 16 that the United States was \"very close\" to a deal and that Iran had \"agreed to almost everything,\" including handing over its enriched uranium stockpile.[4][1]",
+      "audio_url": "",
+      "url": "iran-says-no-new-talks-until-f-F1zkWHNZTImtTRXQtJom9Q",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-18T19:19:39.000000Z",
       "title": "The quiet disappearance of Australia's rainfall observation network",
       "featured_image": {
@@ -35,6 +59,21 @@
       },
       "description": "For more than 60 years, Frank Pritchard has diligently checked the weather, adding to a record that stretches back more than a century. But he's part of a quietly shrinking network of observers around Australia. Without it, scientists say we risk missing out on important information that could help improve weather forecast models and climate projections.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-19/australias-shrinking-rainfall-observation-network/106502184"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9edeb0b0-30c5-4606-b888-86d8a83ccaa9",
+      "published_datetime": "2026-04-18T19:19:18.734872",
+      "title": "US says 21 ships turned back under Iran blockade",
+      "featured_image": {
+        "url": "https://www.tribuneindia.com/news/usa-news/21-ships-turned-back-to-iran-since-us-blockade-began-says-centcom/",
+        "name": "21 ships turned back to Iran since US blockade began, says ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--5WB3wm19--/t_limit/https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high%3Furl%3DdGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA0NGUyMzYwLTNhZDktMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc%253D",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--av-EDf9V--/t_thumbnail/https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high%3Furl%3DdGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA0NGUyMzYwLTNhZDktMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc%253D"
+      },
+      "description": "The United States Navy has compelled 21 vessels to reverse course since the start of a naval blockade on Iranian ports, US Central Command announced on Friday, as enforcement operations expanded into open waters and began disrupting Iranian oil shipments well beyond the Strait of Hormuz.",
+      "audio_url": "",
+      "url": "us-says-21-ships-turned-back-u-zAGHT1HlTgO0uBO5RoVecA",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-04-18T19:15:49.000000Z",
@@ -53,15 +92,6 @@
       },
       "description": "US President Donald Trump described Pope Leo XIV's accession to the papacy as a meaningful moment for America. But now he has said the pontiff is hurting the Catholic Church, and is weak. Here's how their relationship has developed over the lpst year.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-19/trump-pope-leo-relationship/106575088"
-    },
-    {
-      "published_datetime": "2026-04-18T19:08:41.000000Z",
-      "title": "Out at sea, 35 million barrels of oil buffer Japan from the fuel crisis",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7df54ae269db71e2a09c9abbfb6839b0?impolicy=wcms_crop_resize&amp;cropH=2232&amp;cropW=3968&amp;xPos=0&amp;yPos=166&amp;width=862&amp;height=485"
-      },
-      "description": "Japan has oil stockpile sites littered around the country, and as the world faces a fuel crisis, neighbours in Asia have been turning to Tokyo for assistance.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-19/iran-war-japan-oil-stockpile-model-for-asia/106570634"
     },
     {
       "published_datetime": "2026-04-18T19:05:45.000000Z",
@@ -211,36 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/264092e6-10db-44cb-bd1c-97b4a9cfb4e3",
-      "published_datetime": "2026-04-18T01:39:54.350501",
-      "title": "Israeli drone kills one in southern Lebanon hours into ceasefire",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2025/2/19/israeli-drone-attack-kills-1-in-southern-lebanon-despite-ceasefire-deal",
-        "name": "Israeli drone attack kills 1 in southern Lebanon despite ceasefire deal",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1776476119/url_uploads/2025-02-19T113507Z_2117198280_RC2JXCA2D82I_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON-1739966829_jtbevy.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1776476119/url_uploads/2025-02-19T113507Z_2117198280_RC2JXCA2D82I_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON-1739966829_jtbevy.jpg"
-      },
-      "description": "An Israeli drone struck a motorcycle in southern Lebanon on Friday, killing one person on the first full day of a US-brokered 10-day ceasefire, even as President Trump declared on social media that Israel was \"PROHIBITED\" from bombing Lebanon.\n\nLebanon's state-run National News Agency reported that a motorcyclist was killed in the town of Kounine, in the Bint Jbeil district, after being targeted by an Israeli drone. The Lebanese army reported additional violations on Friday morning, including intermittent shelling of several southern villages and firing on an ambulance team in Kounine.[1][2][3][4][5]",
-      "audio_url": "",
-      "url": "israeli-drone-kills-one-in-sou-4EY4YOemQheBH2ZaoLdhyg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9adc3a36-93e4-476d-a75c-ccc1b9603784",
-      "published_datetime": "2026-04-18T01:15:23.804094",
-      "title": "Iran threatens to reclose Strait of Hormuz if US blockade continues",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/middle-east/ships-crossing-hormuz-need-irgc-ok-unfreezing-assets-part-deal-iran-official-2026-04-17/",
-        "name": "Ships crossing Hormuz need OK from IRGC, unfreezing funds ...",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1776474660/url_uploads/44WODPBNTNIEJNHYHHMK4LQPFQ_ieqzhb.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1776474660/url_uploads/44WODPBNTNIEJNHYHHMK4LQPFQ_ieqzhb.jpg"
-      },
-      "description": "Hours after declaring the Strait of Hormuz fully reopened to commercial shipping, Iran warned on Friday that it could shut the waterway again if the United States maintains its naval blockade of Iranian ports, escalating a standoff over one of the world's most vital energy corridors.",
-      "audio_url": "",
-      "url": "iran-threatens-to-reclose-stra-803SKpi7Tlay.vLDZVuf4Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-18T21:25:43.032180"
+  "merged_at": "2026-04-18T22:25:09.276730"
 }
