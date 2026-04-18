@@ -10,6 +10,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-18/protesters-arrested-at-pro-palestine-rally/106579810"
     },
     {
+      "published_datetime": "2026-04-18T06:24:14.000000Z",
+      "title": "'Humble' Buddy praised on return to country footy roots",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/970b02cae6186f7748f29c418b0bc25d?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Lance Franklin has pulled on the boots to help the Dowerin Tigers, where he played his formative footy, raise much-needed funds for lights and facilities.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-18/afl-buddy-franklin-dowerin-game/106550940"
+    },
+    {
       "published_datetime": "2026-04-18T04:39:13.000000Z",
       "title": "Why Australian tea tree oil could be banned in Europe",
       "featured_image": {
@@ -44,9 +53,9 @@
     },
     {
       "published_datetime": "2026-04-18T04:21:05.000000Z",
-      "title": "Live: Dragons lose hooker 15 minutes before kick-off against Rabbitohs",
+      "title": "Live: Souths snatch half-time lead despite being down to 12 men against Dragons",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c9223200a80045df271de0c72b944503?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c3e1b0c8502739b6a9794a182cfd5565?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=32&amp;width=862&amp;height=485"
       },
       "description": "The New Zealand Warriors have withstood a late flurry from the Gold Coast Titans to secure a 28-20 win at Mt Smart Stadium. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-18/nrl-live-warriors-titans-rabbitohs-dragons-tigers-broncos/106576324"
@@ -71,7 +80,7 @@
     },
     {
       "published_datetime": "2026-04-18T02:45:41.000000Z",
-      "title": "Live: Port blitz Hawks in second term burst, AFL addresses Hollands concerns",
+      "title": "Live: Hawks respond to Power blitz, AFL addresses Hollands concerns",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a852a1977776876291094d05101a3c21?impolicy=wcms_crop_resize&amp;cropH=1655&amp;cropW=2942&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -178,15 +187,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-17T22:27:15.000000Z",
-      "title": "Desperate for social media ban to work, but parents say it\u2019s 'impossible'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c3c8505b4cbe49e8e865bf403eb3c17a?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Tech companies are coming under fire as Australian parents increasingly voice concerns that some online platforms are failing to keep kids under 16 off their platforms.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-18/parents-say-social-media-ban-for-under-16s-ineffective/106573126"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b494a8a8-65ef-4609-ac79-25db63f198eb",
       "published_datetime": "2026-04-17T22:00:57.660824",
       "title": "UNICEF reports 172 children killed as Lebanon ceasefire takes effect",
@@ -233,7 +233,7 @@
     },
     {
       "published_datetime": "2026-04-17T19:54:41.000000Z",
-      "title": "Live: Trump says he may end ceasefire if no deal is agreed by Wednesday",
+      "title": "Live: Trump may end ceasefire if no deal with Iran by Wednesday",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/26e28f5736181aa01f37caed66614c22?impolicy=wcms_crop_resize&amp;cropH=1748&amp;cropW=3107&amp;xPos=0&amp;yPos=162&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-18T07:54:30.993500"
+  "merged_at": "2026-04-18T08:39:04.525264"
 }
