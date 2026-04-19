@@ -28,6 +28,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-20/iran-israel-war-daily-news-briefing/106582220"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/14bc0f83-ce3d-45bb-990f-fa07c833ded4",
+      "published_datetime": "2026-04-19T20:18:30.700123",
+      "title": "Trump says US seized Iranian ship as talks falter",
+      "featured_image": {
+        "url": "https://www.bloomberg.com/news/articles/2026-04-19/trump-says-us-seized-iranian-ship-blew-hole-in-its-engine-room",
+        "name": "US Navy Seizes Iranian-Flagged Cargo Ship in Gulf of Oman ...",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1776629671/url_uploads/-1x-1_eg4prz.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1776629671/url_uploads/-1x-1_eg4prz.jpg"
+      },
+      "description": "President Donald Trump announced on Sunday that American forces had captured an Iranian-flagged cargo vessel near the Strait of Hormuz, escalating tensions just as Washington pushes to restart stalled peace negotiations with Tehran. Hours later, Iran rejected the proposed second round of talks, casting fresh doubt on the prospects for a diplomatic resolution before a fragile ceasefire expires on Wednesday.",
+      "audio_url": "",
+      "url": "trump-says-us-seized-iranian-s-lWSyf.xsRJSOnXBi56XDyA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a33c29be-dffa-44d3-802b-2cd17383c5da",
       "published_datetime": "2026-04-19T19:43:58.852156",
       "title": "Iran refuses to negotiate while US naval blockade remains in place",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8cb61e6e-08f4-4bcc-b5f7-a91b370ecd5f",
-      "published_datetime": "2026-04-19T02:28:52.811356",
-      "title": "Iran calls free transit through Hormuz 'a fiction' as Europe plans naval mission",
-      "featured_image": {
-        "url": "https://www.egyptindependent.com/why-are-some-ships-going-through-the-strait-of-hormuz-during-a-blockade/",
-        "name": "Why are some ships going through the Strait of Hormuz during ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--m0nwZrB7--/t_limit/https://amayei.nyc3.digitaloceanspaces.com/2026/04/2025-06-25t142906z-741008927-rc29u4attb3y-rtrmadp-3-iran-nuclear-hormuz-straita_jpg-780x470.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--pEGMQlhj--/t_thumbnail/https://amayei.nyc3.digitaloceanspaces.com/2026/04/2025-06-25t142906z-741008927-rc29u4attb3y-rtrmadp-3-iran-nuclear-hormuz-straita_jpg-780x470.jpg"
-      },
-      "description": "Iran pushed back forcefully against European calls to reopen the Strait of Hormuz on Saturday, even as dozens of countries gathered in Paris a day earlier to plan a multinational naval mission to restore free passage through one of the world's most critical shipping lanes.",
-      "audio_url": "",
-      "url": "iran-calls-free-transit-throug-2nZf9yUnSdOaR6xTJ0UE5g",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-19T21:26:51.813190"
+  "merged_at": "2026-04-19T22:26:13.627337"
 }
