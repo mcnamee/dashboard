@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5dcfbd8e-29e5-4a53-8038-54026b8b099a",
+      "published_datetime": "2026-04-19T14:35:22.592144",
+      "title": "U.S. backs $50M rare earth project in South Africa to cut China reliance",
+      "featured_image": {
+        "url": "https://apnews.com/article/us-south-africa-china-minerals-rare-earths-8bfd695cfbbda2f73fbd32cca0326006",
+        "name": "US backs a South Africa project to extract rare earths as it ... - AP News",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--H07kAhyR--/t_limit/https://dims.apnews.com/dims4/default/1c16063/2147483647/strip/true/crop/7952x5299%2B0%2B2/resize/980x653%21/quality/90/%3Furl%3Dhttps%253A%252F%252Fassets.apnews.com%252F5f%252F7f%252F8a9087c77f68d802ab77062d8b4c%252Fc4b19ace4d8441d8a4e0657e66a4c00c",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s---8gJW47W--/t_thumbnail/https://dims.apnews.com/dims4/default/1c16063/2147483647/strip/true/crop/7952x5299%2B0%2B2/resize/980x653%21/quality/90/%3Furl%3Dhttps%253A%252F%252Fassets.apnews.com%252F5f%252F7f%252F8a9087c77f68d802ab77062d8b4c%252Fc4b19ace4d8441d8a4e0657e66a4c00c"
+      },
+      "description": "A U.S.-backed project in South Africa aims to extract rare earth minerals from massive industrial waste dunes, part of a broader push by Washington to loosen China's grip on the critical minerals supply chain.",
+      "audio_url": "",
+      "url": "u-s-backs-50m-rare-earth-proje-jbtF9mfWQPG.7i.a7txh2w",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-19T07:51:39.000000Z",
       "title": "Schools deemed safe after WA's biggest lithium-ion battery fire",
       "featured_image": {
@@ -199,21 +214,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0ffbe20c-252c-4982-bff8-1caaef69847e",
-      "published_datetime": "2026-04-18T21:18:41.284479",
-      "title": "NATO chief Rutte calls US withdrawal speculation 'absurd'",
-      "featured_image": {
-        "url": "https://www.brusselstimes.com/1249224/mark-rutte-takes-up-position-as-head-of-nato",
-        "name": "Mark Rutte takes up position as head of NATO",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ZVmsjOqf--/t_limit/https://api.brusselstimes.com/wp-content/uploads/2024/10/2542f2e8-afd7-4383-90b7-e8d3d14cbc45-1024x683.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--67JwmaqN--/t_thumbnail/https://api.brusselstimes.com/wp-content/uploads/2024/10/2542f2e8-afd7-4383-90b7-e8d3d14cbc45-1024x683.jpg"
-      },
-      "description": "NATO Secretary General Mark Rutte has pushed back against growing speculation that the United States could leave the alliance, declaring in an interview published by German newspaper Welt am Sonntag that he does not foresee such a departure. \"I don't see the USA leaving NATO,\" Rutte said, calling the speculation \"absurd.\"[1][2]\n\nThe remarks come after weeks of heightened anxiety across European capitals following President Donald Trump's repeated threats to reconsider US membership in the nearly eight-decade-old defense bloc. Trump told Reuters in early April that he was \"absolutely\" considering trying to withdraw the US from NATO, criticizing allied nations for what he described as insufficient support during the war against Iran.[3][4]",
-      "audio_url": "",
-      "url": "nato-chief-rutte-calls-us-with-lupfDXhXQJyzmU5.IkSvJA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-04-18T19:50:56.000000Z",
       "title": "Trump announces new round of Iran talks as Strait of Hormuz traffic halts",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-19T15:30:26.536644"
+  "merged_at": "2026-04-19T15:44:48.521100"
 }
