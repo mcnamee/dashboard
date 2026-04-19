@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4ddfd09e-a8b7-491b-b64d-6946afa1ae1d",
+      "published_datetime": "2026-04-19T16:40:07.516051",
+      "title": "Trump sends envoys to Pakistan for new Iran talks",
+      "featured_image": {
+        "url": "https://www.pbs.org/newshour/world/pakistan-proposes-second-round-of-u-s-iran-talks-as-standoff-deepens",
+        "name": "Pakistan proposes second round of U.S.-Iran talks as standoff ... - PBS",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--fpOOxDss--/t_limit/https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-14T074521Z_988534792_RC2HMKAXER36_RTRMADP_3_IRAN-CRISIS-PAKISTAN-TALKS-1024x683.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--TPs-SBX1--/t_thumbnail/https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-14T074521Z_988534792_RC2HMKAXER36_RTRMADP_3_IRAN-CRISIS-PAKISTAN-TALKS-1024x683.jpg"
+      },
+      "description": "President Donald Trump announced Sunday that White House envoys Steve Witkoff and Jared Kushner are heading to Islamabad for a second round of direct negotiations with Iran, with talks set to begin Tuesday, as the ceasefire between Washington and Tehran approaches its April 22 expiration.[1][2]\n\nIn an interview with Fox News, Trump warned that if Tehran does not agree to a deal, the whole of Iran will be \"blown up,\" specifically threatening to target bridges and power plants. He demanded that Iran reopen the Strait of Hormuz and surrender its highly enriched uranium stockpile.[2][1]",
+      "audio_url": "",
+      "url": "trump-sends-envoys-to-pakistan-GlLj8pLZRmOSL6M.YDXTNA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5dcfbd8e-29e5-4a53-8038-54026b8b099a",
       "published_datetime": "2026-04-19T14:35:22.592144",
       "title": "U.S. backs $50M rare earth project in South Africa to cut China reliance",
@@ -199,21 +214,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f958d0e9-ec89-4009-8749-57efcf9a7f08",
-      "published_datetime": "2026-04-18T21:46:26.006299",
-      "title": "U.S. prepares to board Iran-linked ships worldwide",
-      "featured_image": {
-        "url": "https://fortune.com/2026/04/18/us-iran-blockade-oil-weapons-strait-hormuz-marine-corps-maritime-raids/",
-        "name": "The US is ready to seize Iran-linked ships with boarding ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s---dTanN6F--/t_limit/https://fortune.com/img-assets/wp-content/uploads/2026/04/9620664.jpg%3Fformat%3Dwebp%26w%3D1440%26q%3D100",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--94lQbU6o--/t_thumbnail/https://fortune.com/img-assets/wp-content/uploads/2026/04/9620664.jpg%3Fformat%3Dwebp%26w%3D1440%26q%3D100"
-      },
-      "description": "The U.S. military is preparing to board Iran-linked oil tankers and seize commercial vessels in international waters within the coming days, the Wall Street Journal reported Saturday, marking a sharp expansion of the naval pressure campaign against Tehran beyond the Middle East.[1][2][3]\n\nThe move comes as the Trump administration's Operation Economic Fury enters a new phase, extending enforcement of the naval blockade of Iranian ports \u2014 now in its sixth day \u2014 to a global maritime pursuit of vessels tied to Iran's oil trade. A temporary ceasefire between Washington and Tehran is set to expire next week.[2][3]",
-      "audio_url": "",
-      "url": "u-s-prepares-to-board-iran-lin-duQywMY2RR2VZzjlXO_D_Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-04-18T19:50:56.000000Z",
       "title": "Trump announces new round of Iran talks as Strait of Hormuz traffic halts",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-19T17:28:44.546227"
+  "merged_at": "2026-04-19T18:35:32.434912"
 }
