@@ -1,12 +1,21 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-19T20:22:18.000000Z",
+      "title": "Blood donation eligibility expands for gay and bisexual men, transgender people",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/350a369da52fe4bd24320cf7a80f4f04?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
+      },
+      "description": "From today, Australian Red Cross Lifeblood will use gender-neutral assessments for blood and platelets donations.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-20/lifeblood-gender-neutral-assessment-for-blood-donation/106578630"
+    },
+    {
       "published_datetime": "2026-04-19T19:19:40.000000Z",
-      "title": "Live: Iran rejects second round of talks with US as Trump threatens attacks",
+      "title": "Live: US Navy opens fire on an Iranian cargo ship, Trump says",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3fc933b182ac118fe6d9c5a786f570f0?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The Strait of Hormuz was declared open and then later closed again by Iran as the US continues its naval blockade of the vital waterway. Follow live.",
+      "description": "Donald Trump says the US Navy has opened fire on an Iranian-flagged cargo ship that tried to get through the Strait of Hormuz in an attempt to break the American blockade of the shipping channel. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-20/iran-war-live-updates-blockade-hormuz-us-negotiations/106581706"
     },
     {
@@ -20,7 +29,7 @@
     },
     {
       "published_datetime": "2026-04-19T19:05:54.000000Z",
-      "title": "Is free public transport enough to change driving habits?",
+      "title": "Free public transport is popular, but may not shift many drivers",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c9e16eaadb5a329f0fd80e9b0d1d2a16?impolicy=wcms_crop_resize&amp;cropH=3424&amp;cropW=6087&amp;xPos=0&amp;yPos=827&amp;width=862&amp;height=485"
       },
@@ -29,21 +38,12 @@
     },
     {
       "published_datetime": "2026-04-19T18:42:35.000000Z",
-      "title": "The one man primed to benefit from a global food crisis \u2014 Vladimir Putin",
+      "title": "The world is on the cusp of record hunger levels. Enter Vladimir Putin",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fba58e71c861e0cbd13aeff0c7313646?impolicy=wcms_crop_resize&amp;cropH=2695&amp;cropW=4791&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "With fears hunger could hit record levels, Vladimir Putin and Russia are poised to capitalise \u2014 financially and diplomatically.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-20/russia-poised-to-capitalise-from-global-fertiliser-crisis/106565418"
-    },
-    {
-      "published_datetime": "2026-04-19T18:40:49.000000Z",
-      "title": "Netball star calls for pay increase after new broadcast deal",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba745ce3445250aa07f6d74fb2c50005?impolicy=wcms_crop_resize&amp;cropH=1615&amp;cropW=2872&amp;xPos=0&amp;yPos=151&amp;width=862&amp;height=485"
-      },
-      "description": "Diamonds and Melbourne Vixens star Jo Weston calls for a pay increase after a new free-to-air broadcast deal.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-20/jo-weston-calls-for-netballers-pay-increase-after-broadcast-deal/106581576"
     },
     {
       "published_datetime": "2026-04-19T18:40:21.000000Z",
@@ -65,9 +65,9 @@
     },
     {
       "published_datetime": "2026-04-19T18:34:17.000000Z",
-      "title": "Lost, alone and out of range. How phone maps failed to save Celine Cremer",
+      "title": "Why Celine Cremer's family don't live with anger after remains found in forest",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ca7fbd7ae9186000e6c337b27d816098?impolicy=wcms_crop_resize&amp;cropH=432&amp;cropW=768&amp;xPos=0&amp;yPos=443&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94c73a054a62eceacb6dcd4f017ea5ed?impolicy=wcms_crop_resize&amp;cropH=1157&amp;cropW=2056&amp;xPos=0&amp;yPos=4&amp;width=862&amp;height=485"
       },
       "description": "Backpacker Celine Cremer set off on a short walk with only a phone to guide her\u00a0\u2014 and vanished. More than two years later,\u00a0her family has an urgent message for other travellers.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-20/celine-cremer-missing-backpacker-tasmania-mother-phone-maps/106538504"
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-19T19:35:35.927347"
+  "merged_at": "2026-04-19T20:27:44.673747"
 }
