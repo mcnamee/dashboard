@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-20T18:37:03.000000Z",
+      "title": "FBI director sues The Atlantic for $348m over report detailing misconduct",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/31aab4d5743b79166e8c50ab6c2b858e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Kash Patel denies all allegations in the report, which quotes numerous sources alleging drinking and absences.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-21/fbi-director-kash-patel-sues-the-atlantic/106586372"
+    },
+    {
+      "published_datetime": "2026-04-20T18:13:50.000000Z",
+      "title": "Live: Fate of Iran peace talks uncertain as ceasefire deadline approaches",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/352959e0027ee1179691a8e3d327bfdf?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Iran is yet to formally outline whether it has decided to send a negotiating team, with Tehran stating many of the US's positions are \"unrealistic\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-21/iran-war-us-negotiations-pakistan-talks/106586280"
+    },
+    {
+      "published_datetime": "2026-04-20T18:08:56.000000Z",
+      "title": "US singer D4vd charged with murdering 14yo girl found in his Tesla",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dc9ab043cbc62d714e72c5cd219f7b02?impolicy=wcms_crop_resize&amp;cropH=1655&amp;cropW=2943&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The 21-year-old, who rose to fame after going viral on TikTok, is facing charges including first-degree murder, lewd and lascivious acts with an individual under 14, and mutilating a body.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-21/d4vd-charged-with-murder/106586428"
+    },
+    {
       "published_datetime": "2026-04-20T17:36:11.000000Z",
       "title": "UK PM shifts blame to Foreign Office in bid to contain Mandelson scandal",
       "featured_image": {
@@ -196,15 +223,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-20/fair-work-commission-order-on-subcontractors-deal-/106584968"
     },
     {
-      "published_datetime": "2026-04-20T06:21:24.000000Z",
-      "title": "Former footballer Barry Cable found not guilty of sexually abusing child",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dc3327a473378448b6a7d6d2009c56eb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
-      },
-      "description": "Former Australian Rules footballer Barry Cable has been found not guilty of sexually abusing a child in Perth in the 1960s.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-20/barry-cable-found-not-guilty-of-sexually-abusing-child/106570596"
-    },
-    {
       "published_datetime": "2026-04-20T05:02:18.000000Z",
       "title": "EV drivers are being left waiting with just 45 chargers per car in Australia",
       "featured_image": {
@@ -221,24 +239,6 @@
       },
       "description": "The war in the Middle East has caused chaos across some of the world's busiest aviation regions, with many Australians now reconsidering their travel plans \u2014 or abandoning them altogether.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-20/soaring-airfares-international-travel-plans-australians/106571280"
-    },
-    {
-      "published_datetime": "2026-04-20T04:44:06.000000Z",
-      "title": "Prospector finds 800,000 year old australite",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b6295fe459af8a1bcca4715c201ed041?impolicy=wcms_crop_resize&amp;cropH=726&amp;cropW=1290&amp;xPos=0&amp;yPos=531&amp;width=862&amp;height=485"
-      },
-      "description": "The object formed when a meteorite slammed into Earth more than 800,000 years ago.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-20/prospector-finds-rare-australite-wa-goldfields/106576110"
-    },
-    {
-      "published_datetime": "2026-04-19T19:19:40.000000Z",
-      "title": "US delegation led by Vance to go to Pakistan for Iran peace talks, says Trump",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3fc933b182ac118fe6d9c5a786f570f0?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A US delegation will head to Pakistan for potential peace talks with Iran, Donald Trump says, adding that he assumes \"nobody's playing games\".\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-20/iran-war-live-updates-blockade-hormuz-us-negotiations/106581706"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-20T17:51:45.878551"
+  "merged_at": "2026-04-20T18:53:06.774480"
 }
