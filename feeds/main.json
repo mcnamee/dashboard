@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-20T01:11:31.000000Z",
+      "title": "Breaking: ACT Greens leader Shane Rattenbury quitting politics",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/00be851d81328e1a8b97c9cbb90811f4?impolicy=wcms_crop_resize&amp;cropH=1361&amp;cropW=2420&amp;xPos=0&amp;yPos=227&amp;width=862&amp;height=485"
+      },
+      "description": "The leader of the ACT Greens and former attorney-general Shane Rattenbury has announced he is leaving politics after more than 17 years in the Legislative Assembly.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-20/shane-rattenbury-steps-down-as-act-greens-leader/106582540"
+    },
+    {
       "published_datetime": "2026-04-19T22:30:37.000000Z",
-      "title": "Plans emerge for 1 gigawatt AI data centre in the Kimberley",
+      "title": "Australia's biggest AI factory planned for remote WA",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dfc744c034bcb452079a31619a5156a9?impolicy=wcms_crop_resize&amp;cropH=580&amp;cropW=1031&amp;xPos=84&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -10,12 +19,57 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-20/plans-emerge-gigawatt-scale-ai-data-centre-kimberley/106567332"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0ca1fb06-9792-4997-98d6-a5fb1b201b5e",
+      "published_datetime": "2026-04-19T22:11:27.064880",
+      "title": "UAE asks U.S. for dollar swap line as Iran war strains economy",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/economy/2026/3/31/iran-war-wipes-120bn-off-dubai-abu-dhabi-stock-markets",
+        "name": "Iran war wipes $120bn off Dubai, Abu Dhabi stock markets",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s---A_l0m2W--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/03/AP25121234056293-1774926412.jpg%3Fresize%3D1920%252C1365",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--hPhnwV08--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/03/AP25121234056293-1774926412.jpg%3Fresize%3D1920%252C1365"
+      },
+      "description": "The United Arab Emirates has quietly initiated discussions with the United States about a potential financial safety net as the war with Iran continues to strain its economy, according to a report by The Wall Street Journal on Saturday.[1][2]\n\nUAE Central Bank Governor Khaled Mohamed Balama raised the idea of a dollar currency-swap line with Treasury Secretary Scott Bessent and Federal Reserve officials during meetings in Washington last week, where the Central Bank of the UAE was participating in the IMF and World Bank spring meetings. U.S. officials described the overture as precautionary rather than a formal request, with Emirati representatives stressing that they have so far managed to avoid the worst economic consequences of the conflict but may still need a backstop.[3][1]",
+      "audio_url": "",
+      "url": "uae-asks-u-s-for-dollar-swap-l-dTF_rRr4SPmmB3LMdvrqHg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b3181404-fe1c-4a69-b742-4087fead3cf3",
+      "published_datetime": "2026-04-19T22:08:14.730530",
+      "title": "Exit polls show Radev winning Bulgaria election by wide margin",
+      "featured_image": {
+        "url": "https://www.gettyimages.com/detail/news-photo/progressive-bulgaria-coalitions-leader-and-former-president-news-photo/2271522621",
+        "name": "BULGARIA-VOTE",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1776622644/getty_uploads/2271522621_bhzend.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1776622644/getty_uploads/2271522621_bhzend.jpg"
+      },
+      "description": "Former Bulgarian President Rumen Radev's Progressive Bulgaria coalition is on track to win Sunday's parliamentary election by a commanding margin, exit polls showed, raising hopes of ending years of political chaos in the Balkan nation but also stoking concern over a potential shift in the country's stance toward Russia and Ukraine.\n\nExit surveys by the Trend research group projected Radev's center-left coalition at roughly 39% of the vote, more than double the share of his closest rival, the center-right GERB party led by longtime Prime Minister Boyko Borissov, which polled at about 15%. A separate Alpha Research exit poll broadly confirmed the result. Six parties are expected to clear the 4% threshold needed to enter the 240-seat National Assembly.[1][2][3]",
+      "audio_url": "",
+      "url": "exit-polls-show-radev-winning-DTNuxlWnQn6EXCvxttK0pA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7fc2308c-4448-4716-a86a-b0755c11ce5c",
+      "published_datetime": "2026-04-19T21:30:58.211638",
+      "title": "Hamas signals readiness to hand over some weapons in Gaza",
+      "featured_image": {
+        "url": "https://www.nytimes.com/2026/04/19/world/middleeast/hamas-weapons-israel.html",
+        "name": "Hamas Officials Say Group Is Ready to Hand Over Some ...",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1776633590/url_uploads/19int-hamas-proposal-001-vltp-videoSixteenByNine3000_kc8t1c.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1776633590/url_uploads/19int-hamas-proposal-001-vltp-videoSixteenByNine3000_kc8t1c.jpg"
+      },
+      "description": "Two senior Hamas officials in Gaza have told The New York Times that the group is prepared to hand over thousands of automatic rifles and other weapons held by its police and internal security forces to a new Palestinian administrative committee, marking what could be the first concrete step toward disarmament \u2014 or a calculated attempt to deflect mounting international pressure.[1]",
+      "audio_url": "",
+      "url": "hamas-signals-readiness-to-han-p953JLeBSaezXyMDyV6bfw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-19T21:04:19.000000Z",
-      "title": "Live: Chalmers to target red tape in budget amid warning from business groups",
+      "title": "Live: Chalmers to hold talks with states as he flags further NDIS 'savings'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b2ca58fb38d7b17e248fa3b78fcc0590?impolicy=wcms_crop_resize&amp;cropH=2880&amp;cropW=5120&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Cutting red tape and compliance costs will be a focus of next month's federal budget, Treasurer Jim Chalmers says, as a group of businesses call for a slash to regulatory costs in response to the Middle East war. Follow live.\u00a0",
+      "description": "Treasurer Jim Chalmers is flagging more \"savings\" to the National Disability Insurance Scheme as the government seeks to curb growth to about 5 per cent. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-20/federal-politics-live-blog-chalmers-budget-fuel-iran-labor/106582270"
     },
     {
@@ -37,6 +91,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-20/iran-israel-war-daily-news-briefing/106582220"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/14bc0f83-ce3d-45bb-990f-fa07c833ded4",
+      "published_datetime": "2026-04-19T20:18:30.700123",
+      "title": "Trump says US seized Iranian ship as talks falter",
+      "featured_image": {
+        "url": "https://www.bloomberg.com/news/articles/2026-04-19/trump-says-us-seized-iranian-ship-blew-hole-in-its-engine-room",
+        "name": "US Navy Seizes Iranian-Flagged Cargo Ship in Gulf of Oman ...",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1776629671/url_uploads/-1x-1_eg4prz.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1776629671/url_uploads/-1x-1_eg4prz.jpg"
+      },
+      "description": "President Donald Trump announced on Sunday that American forces had captured an Iranian-flagged cargo vessel near the Strait of Hormuz, escalating tensions just as Washington pushes to restart stalled peace negotiations with Tehran. Hours later, Iran rejected the proposed second round of talks, casting fresh doubt on the prospects for a diplomatic resolution before a fragile ceasefire expires on Wednesday.",
+      "audio_url": "",
+      "url": "trump-says-us-seized-iranian-s-lWSyf.xsRJSOnXBi56XDyA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a33c29be-dffa-44d3-802b-2cd17383c5da",
       "published_datetime": "2026-04-19T19:43:58.852156",
       "title": "Iran refuses to negotiate while US naval blockade remains in place",
@@ -53,16 +122,16 @@
     },
     {
       "published_datetime": "2026-04-19T19:19:40.000000Z",
-      "title": "Live: US Navy opens fire on an Iranian cargo ship, Trump says",
+      "title": "Live: Iran vows retaliation over ship attack; Australia's treasurer says economy in part 'hostage' to US, Iran moves",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2e680400e9b41ba4931de26323cfae59?impolicy=wcms_crop_resize&amp;cropH=527&amp;cropW=937&amp;xPos=54&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Donald Trump says the US Navy has opened fire on an Iranian-flagged cargo ship that tried to get through the Strait of Hormuz in an attempt to break the American blockade of the shipping channel. Follow live.",
+      "description": "Iran's top joint military command accuses the US of violating a ceasefire by firing at an Iranian commercial ship in the Gulf of Oman and vows to retaliate. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-20/iran-war-live-updates-blockade-hormuz-us-negotiations/106581706"
     },
     {
       "published_datetime": "2026-04-19T18:42:35.000000Z",
-      "title": "The world is on the cusp of record hunger levels. Enter Vladimir Putin",
+      "title": "The world is on the cusp of an 'era of extreme scarcity'. Enter Vladimir Putin",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fba58e71c861e0cbd13aeff0c7313646?impolicy=wcms_crop_resize&amp;cropH=2695&amp;cropW=4791&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -92,15 +161,6 @@
       "audio_url": "",
       "url": "iran-refuses-to-send-negotiato-247Rm.QDRu67Wa8RluqJ1A",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-19T18:34:17.000000Z",
-      "title": "Why Celine Cremer's family don't live with anger after remains found in forest",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94c73a054a62eceacb6dcd4f017ea5ed?impolicy=wcms_crop_resize&amp;cropH=1157&amp;cropW=2056&amp;xPos=0&amp;yPos=4&amp;width=862&amp;height=485"
-      },
-      "description": "Backpacker Celine Cremer set off on a short walk with only a phone to guide her\u00a0\u2014 and vanished. More than two years later,\u00a0her family has an urgent message for other travellers.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-20/celine-cremer-missing-backpacker-tasmania-mother-phone-maps/106538504"
     },
     {
       "published_datetime": "2026-04-19T18:30:00.000000Z",
@@ -181,66 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/37baf0bc-1d31-4f2d-b3d7-a149f8495774",
-      "published_datetime": "2026-04-19T05:46:20.210428",
-      "title": "Iran regains 60% of missile launchers during ceasefire, US intelligence estimates",
-      "featured_image": {
-        "url": "https://www.timesofisrael.com/liveblog_entry/iran-reportedly-recovering-bombed-missile-bunkers-within-hours-after-being-struck/",
-        "name": "Iran reportedly recovering bombed missile bunkers within ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--NN68UAQA--/t_limit/https://static-cdn.toi-media.com/www/uploads/2026/03/AP26083587833190-1-e1774550910561.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--d7qAmyWw--/t_thumbnail/https://static-cdn.toi-media.com/www/uploads/2026/03/AP26083587833190-1-e1774550910561.jpg"
-      },
-      "description": "Seven weeks after the United States and Israel launched Operation Epic Fury against Iran, American intelligence and military officials now estimate that Tehran still holds roughly 60 percent of its pre-war missile launchers and about 40 percent of its long-range attack drone arsenal, according to a report by The New York Times published on Friday. The assessment underscores a widening gap between the Trump administration's claims of having devastated Iran's military and the reality on the ground.[1][2][3]",
-      "audio_url": "",
-      "url": "iran-regains-60-of-missile-lau-E0m.OPx5SXm4B3fQAPSagQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cd4519bc-6d4e-421f-9bcf-8c5b75bec5d7",
-      "published_datetime": "2026-04-19T04:50:00.117107",
-      "title": "Penn State develops 3D-printed brain sensors tailored to each patient",
-      "featured_image": {
-        "url": "https://www.voxelmatters.com/penn-state-researchers-develop-3d-printed-bioelectrodes-tailored-to-individual-brain-geometry/",
-        "name": "Penn State researchers develop 3D printed bioelectrodes ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--4Fw5gq6u--/t_limit/https://www.voxelmatters.com/wp-content/uploads/2026/04/Penn-State-Brain-Study-01.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--4WqHtY0E--/t_thumbnail/https://www.voxelmatters.com/wp-content/uploads/2026/04/Penn-State-Brain-Study-01.jpg"
-      },
-      "description": "Researchers at Penn State have unveiled a method for 3D printing soft, stretchable brain electrodes customized to the unique folds of each patient's brain, a development that could reshape how neurological diseases are monitored and treated.",
-      "audio_url": "",
-      "url": "penn-state-develops-3d-printed-aTNsshu8RB.qpnORVWH_oQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7d266bb3-e3bb-497b-b197-b407b02f0968",
-      "published_datetime": "2026-04-19T03:01:50.621056",
-      "title": "French peacekeeper killed as Lebanon ceasefire frays",
-      "featured_image": {
-        "url": "https://www.lemonde.fr/en/international/article/2024/10/25/in-southern-lebanon-un-peacekeepers-are-caught-in-a-vice_6730441_4.html",
-        "name": "In southern Lebanon, UN peacekeepers are caught in a vice",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--v4Ec_N1r--/t_limit/https://img.lemde.fr/2024/10/24/0/0/8192/5464/664/0/75/0/bc32fba_1729777346959-lbn-lemonde-diegoibarrasanchez-004.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Y3CqmBuc--/t_thumbnail/https://img.lemde.fr/2024/10/24/0/0/8192/5464/664/0/75/0/bc32fba_1729777346959-lbn-lemonde-diegoibarrasanchez-004.jpg"
-      },
-      "description": "Israeli forces continued shelling and demolition operations across southern Lebanon on Saturday, less than two days after a US-brokered 10-day ceasefire took effect, raising doubts about the durability of the truce even as a French UN peacekeeper was killed in a separate attack attributed to Hezbollah.",
-      "audio_url": "",
-      "url": "french-peacekeeper-killed-as-l-HcxCqDNyQB6bD7_nQ9iS1g",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8cb61e6e-08f4-4bcc-b5f7-a91b370ecd5f",
-      "published_datetime": "2026-04-19T02:28:52.811356",
-      "title": "Iran calls free transit through Hormuz 'a fiction' as Europe plans naval mission",
-      "featured_image": {
-        "url": "https://www.egyptindependent.com/why-are-some-ships-going-through-the-strait-of-hormuz-during-a-blockade/",
-        "name": "Why are some ships going through the Strait of Hormuz during ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--m0nwZrB7--/t_limit/https://amayei.nyc3.digitaloceanspaces.com/2026/04/2025-06-25t142906z-741008927-rc29u4attb3y-rtrmadp-3-iran-nuclear-hormuz-straita_jpg-780x470.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--pEGMQlhj--/t_thumbnail/https://amayei.nyc3.digitaloceanspaces.com/2026/04/2025-06-25t142906z-741008927-rc29u4attb3y-rtrmadp-3-iran-nuclear-hormuz-straita_jpg-780x470.jpg"
-      },
-      "description": "Iran pushed back forcefully against European calls to reopen the Strait of Hormuz on Saturday, even as dozens of countries gathered in Paris a day earlier to plan a multinational naval mission to restore free passage through one of the world's most critical shipping lanes.",
-      "audio_url": "",
-      "url": "iran-calls-free-transit-throug-2nZf9yUnSdOaR6xTJ0UE5g",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-19T23:28:05.042778"
+  "merged_at": "2026-04-20T01:51:49.362610"
 }
