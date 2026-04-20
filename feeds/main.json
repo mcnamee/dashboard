@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/996352d9-e813-4c06-8f34-24514e809018",
+      "published_datetime": "2026-04-20T10:20:08.291688",
+      "title": "Eni announces giant gas discovery offshore Indonesia",
+      "featured_image": {
+        "url": "https://www.linkedin.com/posts/welligence_indonesias-exploration-update-skk-migas-activity-7404037349946449920-Ct7m",
+        "name": "Indonesia Gas Discovery at Konta-1 Dir Well in Kutai Basin ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--o2RTC92a--/t_limit/https://media.licdn.com/dms/image/v2/D5622AQHbz1alzR6rhw/feedshare-shrink_800/B56Zs00KWuG8Ag-/0/1766117648531%3Fe%3D2147483647%26v%3Dbeta%26t%3D59juT9yaw7IwvQrZJ0XOPwm298hT2qTgW3upA1RwngQ",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--_vPVQ_SE--/t_thumbnail/https://media.licdn.com/dms/image/v2/D5622AQHbz1alzR6rhw/feedshare-shrink_800/B56Zs00KWuG8Ag-/0/1766117648531%3Fe%3D2147483647%26v%3Dbeta%26t%3D59juT9yaw7IwvQrZJ0XOPwm298hT2qTgW3upA1RwngQ"
+      },
+      "description": "Eni announced on Monday a giant gas discovery at the Geliga-1 exploration well in the Ganal block of the Kutei Basin, offshore Indonesia, with preliminary estimates pointing to in-place resources of approximately 5 trillion cubic feet of gas and 300 million barrels of condensate.[1][2]\n\nThe find adds to a string of deepwater successes for the Italian energy company in Southeast Asia and could pave the way for a third production hub in one of Indonesia's most prolific offshore basins.",
+      "audio_url": "",
+      "url": "eni-announces-giant-gas-discov-5pMnucm0TaOYq07EnfkDeA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/606d817d-dd42-4f19-aac5-6b2ea5749a89",
+      "published_datetime": "2026-04-20T10:10:39.635627",
+      "title": "Second round of US-Iran talks set to begin amid uranium standoff",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining",
+        "name": "Pakistan ready for multi-day US-Iran talks, but Tehran unsure about ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--633ywp6T--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-19T123707Z_1836245749_RC2ASKAR90YF_RTRMADP_3_IRAN-CRISIS-PAKISTAN-1776628145.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--qAO8hNl0--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-19T123707Z_1836245749_RC2ASKAR90YF_RTRMADP_3_IRAN-CRISIS-PAKISTAN-1776628145.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "The fate of Iran's enriched uranium stockpile has emerged as the central obstacle in US-Iran negotiations, with Washington demanding Tehran relinquish the material and Iran insisting it will not be \"transferred anywhere\" \u2014 even as a fragile ceasefire nears expiration on April 22.",
+      "audio_url": "",
+      "url": "second-round-of-us-iran-talks-2eyjb638Q_25lAyeiUBkog",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a8d85e03-9285-4d75-8b5e-e07ea7422a50",
+      "published_datetime": "2026-04-20T09:49:52.395079",
+      "title": "7.5-magnitude earthquake off Japan triggers tsunami warnings",
+      "featured_image": {
+        "url": "https://www.cnn.com/2025/12/08/asia/tsunami-warning-japan-earthquake-intl",
+        "name": "Japan rattled by 7.5-magnitude earthquake, tsunami warning ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--d2GTzT_W--/t_limit/https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2250187285.jpg%3Fc%3Doriginal%26q%3Dw_860%2Cc_fill",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--tFIdW-I1--/t_thumbnail/https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2250187285.jpg%3Fc%3Doriginal%26q%3Dw_860%2Cc_fill"
+      },
+      "description": "A powerful earthquake struck off the northeastern coast of Japan on Monday afternoon, prompting tsunami warnings across several prefectures and shaking buildings as far south as Tokyo. The Japan Meteorological Agency reported the quake hit at 4:53 p.m. local time in the Pacific waters off Iwate prefecture, registering a preliminary magnitude of 7.5 at a shallow depth of about 10 kilometers below the sea surface.[1][2][3]\n\nThe JMA warned that tsunami waves of up to 3 meters could reach the northern shoreline, urging residents to evacuate immediately from coastal and riverside areas to higher ground. Tsunami warnings \u2014 the second-highest level of alert \u2014 were issued for the Pacific coasts of Iwate, Aomori, and southeastern Hokkaido, while milder advisories were posted for the coasts of Miyagi and Fukushima to the south.[4][5][1]",
+      "audio_url": "",
+      "url": "7-5-magnitude-earthquake-off-j-MP17VDWaS_iJqDfZTb2qcA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-20T08:27:22.000000Z",
       "title": "Live: Tsunami alert issued after powerful quake off Japan's northern coast",
       "featured_image": {
@@ -187,51 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0ca1fb06-9792-4997-98d6-a5fb1b201b5e",
-      "published_datetime": "2026-04-19T22:11:27.064880",
-      "title": "UAE asks U.S. for dollar swap line as Iran war strains economy",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/economy/2026/3/31/iran-war-wipes-120bn-off-dubai-abu-dhabi-stock-markets",
-        "name": "Iran war wipes $120bn off Dubai, Abu Dhabi stock markets",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s---A_l0m2W--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/03/AP25121234056293-1774926412.jpg%3Fresize%3D1920%252C1365",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--hPhnwV08--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/03/AP25121234056293-1774926412.jpg%3Fresize%3D1920%252C1365"
-      },
-      "description": "The United Arab Emirates has quietly initiated discussions with the United States about a potential financial safety net as the war with Iran continues to strain its economy, according to a report by The Wall Street Journal on Saturday.[1][2]\n\nUAE Central Bank Governor Khaled Mohamed Balama raised the idea of a dollar currency-swap line with Treasury Secretary Scott Bessent and Federal Reserve officials during meetings in Washington last week, where the Central Bank of the UAE was participating in the IMF and World Bank spring meetings. U.S. officials described the overture as precautionary rather than a formal request, with Emirati representatives stressing that they have so far managed to avoid the worst economic consequences of the conflict but may still need a backstop.[3][1]",
-      "audio_url": "",
-      "url": "uae-asks-u-s-for-dollar-swap-l-dTF_rRr4SPmmB3LMdvrqHg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b3181404-fe1c-4a69-b742-4087fead3cf3",
-      "published_datetime": "2026-04-19T22:08:14.730530",
-      "title": "Exit polls show Radev winning Bulgaria election by wide margin",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/progressive-bulgaria-coalitions-leader-and-former-president-news-photo/2271522621",
-        "name": "BULGARIA-VOTE",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1776622644/getty_uploads/2271522621_bhzend.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1776622644/getty_uploads/2271522621_bhzend.jpg"
-      },
-      "description": "Former Bulgarian President Rumen Radev's Progressive Bulgaria coalition is on track to win Sunday's parliamentary election by a commanding margin, exit polls showed, raising hopes of ending years of political chaos in the Balkan nation but also stoking concern over a potential shift in the country's stance toward Russia and Ukraine.\n\nExit surveys by the Trend research group projected Radev's center-left coalition at roughly 39% of the vote, more than double the share of his closest rival, the center-right GERB party led by longtime Prime Minister Boyko Borissov, which polled at about 15%. A separate Alpha Research exit poll broadly confirmed the result. Six parties are expected to clear the 4% threshold needed to enter the 240-seat National Assembly.[1][2][3]",
-      "audio_url": "",
-      "url": "exit-polls-show-radev-winning-DTNuxlWnQn6EXCvxttK0pA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7fc2308c-4448-4716-a86a-b0755c11ce5c",
-      "published_datetime": "2026-04-19T21:30:58.211638",
-      "title": "Hamas signals readiness to hand over some weapons in Gaza",
-      "featured_image": {
-        "url": "https://www.nytimes.com/2026/04/19/world/middleeast/hamas-weapons-israel.html",
-        "name": "Hamas Officials Say Group Is Ready to Hand Over Some ...",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1776633590/url_uploads/19int-hamas-proposal-001-vltp-videoSixteenByNine3000_kc8t1c.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1776633590/url_uploads/19int-hamas-proposal-001-vltp-videoSixteenByNine3000_kc8t1c.jpg"
-      },
-      "description": "Two senior Hamas officials in Gaza have told The New York Times that the group is prepared to hand over thousands of automatic rifles and other weapons held by its police and internal security forces to a new Palestinian administrative committee, marking what could be the first concrete step toward disarmament \u2014 or a calculated attempt to deflect mounting international pressure.[1]",
-      "audio_url": "",
-      "url": "hamas-signals-readiness-to-han-p953JLeBSaezXyMDyV6bfw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-04-19T19:19:40.000000Z",
       "title": "Live: Iran says it has no plan for peace talks and will 'take action' over US ship attack",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-20T11:12:50.559001"
+  "merged_at": "2026-04-20T11:23:49.630214"
 }
