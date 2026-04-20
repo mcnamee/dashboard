@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-20T23:21:42.000000Z",
+      "title": "Residents urged to evacuate after New Zealand's capital floods",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db1004b0e3109d1f7a066e48bee37a6f?impolicy=wcms_crop_resize&amp;cropH=676&amp;cropW=1201&amp;xPos=0&amp;yPos=385&amp;width=862&amp;height=485"
+      },
+      "description": "People living in low-lying areas of New Zealand's capital city, Wellington, have been urged to evacuate, as heavy rain continued to drench the city.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-21/new-zealand-flooding-capital-wellington-evacuation-order/106586718"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/420e6ef3-29f2-413b-8c1a-9cbac9703f69",
+      "published_datetime": "2026-04-20T22:22:26.719043",
+      "title": "LHC experiment finds high-significance crack in the Standard Model",
+      "featured_image": {
+        "url": "https://uk.news.yahoo.com/large-hadron-collider-results-hint-091221052.html",
+        "name": "Our Large Hadron Collider results hint at undiscovered physics",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--6YUbXEwz--/t_limit/https://s.yimg.com/os/en/the_conversation_464/4ba35c604f1853cd9c51f14a3510a3d5",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--evUw735P--/t_thumbnail/https://s.yimg.com/os/en/the_conversation_464/4ba35c604f1853cd9c51f14a3510a3d5"
+      },
+      "description": "Physicists working on the Large Hadron Collider at CERN in Geneva have reported a measurement that deviates from the predictions of the Standard Model of particle physics by four standard deviations \u2014 a result that, if confirmed, could represent the first crack in the theory that has dominated the field for half a century.",
+      "audio_url": "",
+      "url": "lhc-experiment-finds-high-sign-.Ma8XbwERiCxFEQn1g1rRA",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-04-20T22:12:14.000000Z",
+      "title": "Dezi Freeman's shipping container entered by YouTubers, police investigate",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2530a7b031fb63296e9c1cb3a3c7ab65?impolicy=wcms_crop_resize&amp;cropH=678&amp;cropW=1205&amp;xPos=11&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "YouTubers are being investigated for trespass after filming inside the converted shipping container where fugitive gunman Dezi Freeman hid after shooting dead two police officers.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-21/vic-youtubers-film-inside-dezi-freeman-hideout/106586580"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a0df0d0c-9974-458a-8d69-42d7c8e03426",
       "published_datetime": "2026-04-20T21:29:31.870042",
       "title": "Iraq, Syria reopen Rabia border crossing after 13 years",
@@ -38,15 +71,6 @@
       "audio_url": "",
       "url": "apple-names-john-ternus-ceo-as-tRROdwfYTG.3B1RZJ0Auug",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-20T21:06:58.000000Z",
-      "title": "Tim Cook to step down as Apple chief executive",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cb9a859dbb308e429bccc8a199cb9150?impolicy=wcms_crop_resize&amp;cropH=1687&amp;cropW=2998&amp;xPos=2&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Apple has announced the chief executive who took over from Steve Jobs is to step down and has named his successor.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-21/tim-cook-steps-down-as-apple-ceo/106586654"
     },
     {
       "published_datetime": "2026-04-20T20:25:25.000000Z",
@@ -94,30 +118,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-21/women-adhd-medication-overtake-men-australia-data-four-corners/106583242"
     },
     {
-      "published_datetime": "2026-04-20T18:42:12.000000Z",
-      "title": "Gas tax fight escalates ahead of budget as inquiry begins",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e9172af7ca36299c9d2efec2400efad4?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=325&amp;width=862&amp;height=485"
-      },
-      "description": "Calls are growing for a new 25 per cent tax on gas exports to increase the petroleum resource rent tax on windfall profits, but companies have warned any changes would jeopardise Australia's energy supply.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-21/gas-tax-debate-heats-up-ahead-of-budget/106585424"
-    },
-    {
       "published_datetime": "2026-04-20T18:40:21.000000Z",
       "title": "Did you really get a discount on your Tim Tams? The ACCC doesn't think so",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/92fd5f8f29c579afa3dbaa201f011f75?impolicy=wcms_crop_resize&amp;cropH=1971&amp;cropW=3504&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
       },
-      "description": "The sequel to Australia\u2019s supermarket pricing wars is about to kick off in the federal court as the ACCC takes on Woolworths over what it argues are misleading pricing practices.",
+      "description": "The sequel to Australia's supermarket pricing wars is about to kick off in the federal court as the ACCC takes on Woolworths over what it argues are misleading pricing practices.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-21/woolworths-accc-court-case-grocery-pricing-discounts/106561584"
     },
     {
       "published_datetime": "2026-04-20T18:13:50.000000Z",
-      "title": "Live: Fate of Iran peace talks uncertain as ceasefire deadline approaches",
+      "title": "Live: Trump 'unlikely' to extend ceasefire deadline as Iranian negotiator says nation won't accept peace talks",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/352959e0027ee1179691a8e3d327bfdf?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/874def6bf5292435aa1eee77d9cfcd05?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Iran is yet to formally outline whether it has decided to send a negotiating team, with Tehran stating many of the US's positions are \"unrealistic\".",
+      "description": "US President Donald Trump says he is unlikely to extend a ceasefire, set to expire on Wednesday night, US time.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-21/iran-war-us-negotiations-pakistan-talks/106586280"
     },
     {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/775a83fb-5145-4223-bdc9-d2c3b99e9395",
-      "published_datetime": "2026-04-20T15:09:32.006887",
-      "title": "Trump to consider lifting Hormuz blockade after Pakistan army chief's call",
-      "featured_image": {
-        "url": "https://time.com/article/2026/04/19/trump-accuses-iran-of-total-violation-as-strait-of-hormuz-remains-shut/",
-        "name": "U.S. Seizes Iranian Cargo Ship Amid Peace Talk Standoff",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--NVt7-J1D--/t_limit/https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt53cfbffa6dcfed90/69e4f81dd93274804c12d215/GettyImages-2269559187_%25282%2529.jpg%3Fbranch%3Dproduction%26width%3D2400%26quality%3D75%26auto%3Dwebp%26crop%3D16%253A9",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--3X07aqqY--/t_thumbnail/https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt53cfbffa6dcfed90/69e4f81dd93274804c12d215/GettyImages-2269559187_%25282%2529.jpg%3Fbranch%3Dproduction%26width%3D2400%26quality%3D75%26auto%3Dwebp%26crop%3D16%253A9"
-      },
-      "description": "U.S. President Donald Trump told Pakistan's Army Chief Field Marshal Asim Munir in a phone call that he would consider his advice on lifting the Strait of Hormuz naval blockade, a Pakistani security source said on Monday, in a development that could open a path to resuming stalled peace talks with Iran as a ceasefire nears expiration.[1][2]\n\nThe exchange came as a U.S. delegation was set to travel to Islamabad on Monday for a second round of Pakistan-brokered negotiations, though Tehran has not confirmed whether it will attend.[3][4]",
-      "audio_url": "",
-      "url": "trump-to-consider-lifting-horm-zUWRo3z_RvOIEqcLKdFdyg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-20T22:34:49.336146"
+  "merged_at": "2026-04-20T23:35:12.988321"
 }
