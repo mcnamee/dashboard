@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-20T11:37:30.000000Z",
+      "title": "PM won't criticise Trump for 'lying' about Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/deb1468ff6a9bb6a4544d236cfa086dd?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=472&amp;width=862&amp;height=485"
+      },
+      "description": "Prime Minister Anthony Albanese is pressed on his relationship with the United States and President Donald Trump on 7.30. Here's what he told Sarah Ferguson.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-20/pm-won-t-criticise-trump-for-lying-about-australia/106585960"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/996352d9-e813-4c06-8f34-24514e809018",
       "published_datetime": "2026-04-20T10:20:08.291688",
       "title": "Eni announces giant gas discovery offshore Indonesia",
@@ -46,24 +55,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-20T08:27:22.000000Z",
-      "title": "Live: Tsunami alert issued after powerful quake off Japan's northern coast",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4bab761730647411480864e7b1294b0f?impolicy=wcms_crop_resize&amp;cropH=459&amp;cropW=817&amp;xPos=350&amp;yPos=301&amp;width=862&amp;height=485"
-      },
-      "description": "Officials warn of possible tsunami waves up to 3 metres and urge immediate evacuation from coastal areas after a magnitude-7.7 earthquake strikes off the east coast of Honshu. Follow live. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-20/tsunami-warning-as-strong-quake-shakes-japans-honshu/106585578"
-    },
-    {
-      "published_datetime": "2026-04-20T08:08:30.000000Z",
-      "title": "Chinese humanoid robot beats human half-marathon world record",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9948fd76907f5a90af30164e3922ebb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=242&amp;width=862&amp;height=485"
-      },
-      "description": "The winner from a Chinese smartphone maker reportedly completed the 21-kilometre race in 50 minutes and 26 seconds.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-20/chinese-humanoid-robot-beats-human-half-marathon-world-record/106585368"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6739ee6d-f900-49f4-85e3-a78f3c62099c",
       "published_datetime": "2026-04-20T08:06:51.029612",
       "title": "Samsung SDI signs first EV battery deal with Mercedes-Benz",
@@ -77,6 +68,15 @@
       "audio_url": "",
       "url": "samsung-sdi-signs-first-ev-bat-enb9tlIwQ_WliuWHb2cjTQ",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-04-20T08:06:36.000000Z",
+      "title": "Tsunami warning as magnitude-7.7 earthquake hits north-east Japan",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4bab761730647411480864e7b1294b0f?impolicy=wcms_crop_resize&amp;cropH=459&amp;cropW=817&amp;xPos=350&amp;yPos=301&amp;width=862&amp;height=485"
+      },
+      "description": "An earthquake strikes off the island of Honshu, triggering tsunami warnings and widespread evacuation orders, affecting around 170,000 people.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-20/magnitude-7-earthquake-hits-northeast-japan/106585552"
     },
     {
       "published_datetime": "2026-04-20T07:04:37.000000Z",
@@ -146,7 +146,7 @@
     },
     {
       "published_datetime": "2026-04-20T05:02:18.000000Z",
-      "title": "I drove an EV for three days. It saved me money but cost me time",
+      "title": "EV drivers are being left waiting with just 45 chargers per car in Australia",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28a8ce273ed694f8c91440e02cd1a07c?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
       },
@@ -155,7 +155,7 @@
     },
     {
       "published_datetime": "2026-04-20T04:50:31.000000Z",
-      "title": "Australians urged to 'book early' as some rethink holiday and work travel",
+      "title": "'Book early': Australians reconsider holiday and work travel plans",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9e48fc20a63bab19e6f6911326b3a199?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
       },
@@ -164,7 +164,7 @@
     },
     {
       "published_datetime": "2026-04-20T04:44:06.000000Z",
-      "title": "Prospector couldn't believe his luck when he found rare australite",
+      "title": "Prospector finds 800,000 year old australite",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b6295fe459af8a1bcca4715c201ed041?impolicy=wcms_crop_resize&amp;cropH=726&amp;cropW=1290&amp;xPos=0&amp;yPos=531&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-20T11:23:49.630214"
+  "merged_at": "2026-04-20T13:08:09.026406"
 }
