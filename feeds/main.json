@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-21T09:09:24.000000Z",
+      "title": "'Everyone is scared': Captain caught at the world's shipping chokepoint speaks out",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4f1499de34fc83300e30d997f3ed6758?impolicy=wcms_crop_resize&amp;cropH=389&amp;cropW=692&amp;xPos=92&amp;yPos=12&amp;width=862&amp;height=485"
+      },
+      "description": "For months seafarers have been stranded in the Strait of Hormuz, tanker captain Raman Kapoor is speaking out about the fears and uncertainty of his crew. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-21/stranded-in-the-strait-of-hormuz/106587880"
+    },
+    {
+      "published_datetime": "2026-04-21T08:39:21.000000Z",
+      "title": "Sacked civil servant describes pressure to approve Mandelson as UK ambassador to US",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2e28d12f46f57cd1e9e64934dbaeebd4?impolicy=wcms_crop_resize&amp;cropH=2499&amp;cropW=4443&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The former head of the Foreign Office said there was \"a very, very strong expectation\" that Peter Mandelson \"needed to be in post and in America as quickly as possible\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-21/olly-robbins-speaks-following-peter-mandelson-security-scandal/106590020"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4396e65a-042c-4c44-9d63-18fbf479366a",
       "published_datetime": "2026-04-21T07:30:30.179104",
       "title": "Rio Tinto posts higher Q1 iron ore sales, warns on Middle East risks",
@@ -91,15 +109,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-21T06:13:26.000000Z",
-      "title": "More uncounted votes discovered in SA a month after election",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f36eb9388c250b077c1bdb5f19a340e3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=284&amp;width=862&amp;height=485"
-      },
-      "description": "More uncounted votes have been discovered in two electorates a month on from the South Australian state election, and while the state's Electoral Commission says the ballots will not harm the \"integrity\" of the count, they have not said how many have been found.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-21/more-uncounted-votes-discovered-in-sa-month-after-election/106587364"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7ffe0a2f-36f5-45c9-8545-ba657e2f7cd4",
       "published_datetime": "2026-04-21T05:22:21.269542",
       "title": "Oil dips as Iran agrees to join U.S. peace talks in Islamabad",
@@ -113,15 +122,6 @@
       "audio_url": "",
       "url": "oil-dips-as-iran-agrees-to-joi-h0eLDAtbSpqJBlHT4WFsmQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-21T05:03:00.000000Z",
-      "title": "Woolworths's 'Prices Dropped' promotion broke guidelines, court hears",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/45e68dc715cea7367892885b0cf81c2c?impolicy=wcms_crop_resize&amp;cropH=1971&amp;cropW=3504&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
-      },
-      "description": "The consumer watchdog has taken Woolworths to court, claiming shoppers weren't receiving genuine discounts on hundreds of items.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-21/woolworths-accc-case-day-one-federal-court/106561700"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b8be4024-00dc-4ac9-a810-be39fbcae6ed",
@@ -140,7 +140,7 @@
     },
     {
       "published_datetime": "2026-04-21T04:56:54.000000Z",
-      "title": "'We are not leaving': What Israel's occupation could mean for Lebanon's future",
+      "title": "'We are not leaving': Israel's plans in southern Lebanon spark concern",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e266c4ea44a7140ddf36efeb8f075925?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=439&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-21T08:56:07.718543"
+  "merged_at": "2026-04-21T10:12:07.497160"
 }
