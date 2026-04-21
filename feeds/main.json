@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-21T12:38:35.000000Z",
+      "title": "Government to pay for showers for at-home aged care recipients",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4954da6789cd0640c94cba08f2ff7a8f?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The decision to scrap the plan to charge older Australians $50/hour for showers was made after months of sustained criticism, including warnings that people were forgoing other care to afford the service.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-21/government-to-pay-for-showers-at-home-aged-care/106590208"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b36eb286-4d70-4f37-abf3-f65d9bc47115",
       "published_datetime": "2026-04-21T09:38:06.545921",
       "title": "Curiosity rover detects 'origin-of-life' molecules on Mars",
@@ -185,7 +194,7 @@
     },
     {
       "published_datetime": "2026-04-21T04:56:54.000000Z",
-      "title": "'We are not leaving': Israel's plans in southern Lebanon spark concern",
+      "title": "'We are not leaving': What Israel's occupation could mean for Lebanon's future",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e266c4ea44a7140ddf36efeb8f075925?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=439&amp;width=862&amp;height=485"
       },
@@ -221,15 +230,6 @@
       "audio_url": "",
       "url": "oil-prices-surge-as-us-iran-ce-iauvUBkiTmKR.Qrw6_FeMg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-21T03:26:03.000000Z",
-      "title": "'Outrageous mess': About 2,000 AI road safety camera fines withdrawn in WA",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b2b3dff2919cea6874965fe28a909111?impolicy=wcms_crop_resize&amp;cropH=506&amp;cropW=900&amp;xPos=0&amp;yPos=47&amp;width=862&amp;height=485"
-      },
-      "description": "About 2,000 fines valued at $1.1 million issued as a result of AI-assisted road safety cameras in WA have been withdrawn, six months after the devices were introduced.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-21/fines-withdrawn-as-ai-road-safety-camera-controversy-continues/106587938"
     },
     {
       "published_datetime": "2026-04-20T18:13:50.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-21T12:03:24.395169"
+  "merged_at": "2026-04-21T13:02:43.953033"
 }
