@@ -1,8 +1,53 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-21T19:41:59.000000Z",
+      "title": "Fourth man charged over alleged kidnapping murder of Chris Baghsarian",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29dd18e36364de9f4a385c55b271d71c?impolicy=wcms_crop_resize&amp;cropH=128&amp;cropW=227&amp;xPos=0&amp;yPos=7&amp;width=862&amp;height=485"
+      },
+      "description": "The 85-year-old's abduction triggered an 11-day search, with his remains later found near a golf course in Pitt Town, in the city's north-west.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/nsw-fourth-charged-over-chris-baghsarian-kidnapping-murder/106590888"
+    },
+    {
+      "published_datetime": "2026-04-21T19:27:43.000000Z",
+      "title": "Carpooling an 'effective solution' to fuel prices, so why aren't more doing it?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d168c4d9483d474523e7cde3759bd431?impolicy=wcms_crop_resize&amp;cropH=876&amp;cropW=1557&amp;xPos=1&amp;yPos=200&amp;width=862&amp;height=485"
+      },
+      "description": "Despite fuel prices soaring in March, the number of vehicles travelling along a key carpooling lane in Sydney increased by just 1 per cent. A transport expert says more needs to be done to encourage people to share their commutes.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/carpooling-australia-fuel-prices/106575886"
+    },
+    {
+      "published_datetime": "2026-04-21T18:55:53.000000Z",
+      "title": "The growing problem stopping Melbourne residents using their microwave",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64935e18eb794210328d875990c91ba7?impolicy=wcms_crop_resize&amp;cropH=910&amp;cropW=1617&amp;xPos=0&amp;yPos=85&amp;width=862&amp;height=485"
+      },
+      "description": "A power company warns that growing electricity demand is creating an undervoltage problem, as Victoria's infrastructure struggles to keep up with the transition from gas.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/victoria-undervoltage-melbourne-gas-electricity/106588882"
+    },
+    {
+      "published_datetime": "2026-04-21T18:54:10.000000Z",
+      "title": "In a split second, Keelie made the 'surreal' decision to reveal her abuse",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/10088716775da58f3209f82cbbf799d2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "As Australia marks Sexual Assault Awareness Month, and experts and victim-survivors say sexual violence remains pervasive and under-reported.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/support-services-strained-sexual-assault-awareness-month/106583324"
+    },
+    {
+      "published_datetime": "2026-04-21T18:47:04.000000Z",
+      "title": "500,000 Australians wait for end to 'limbo' as Butler readies NDIS plan",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2544178e87573374dbc462363ab3cc44?impolicy=wcms_crop_resize&amp;cropH=3098&amp;cropW=5507&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "NDIS Minister Mark Butler must end the uncertainty half a million people have been living in when he announces changes to the nation's disability scheme, mental health advocates say.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/ndis-savings-plan-end-limbo-psychosocial-disability/106587392"
+    },
+    {
       "published_datetime": "2026-04-21T18:08:34.000000Z",
-      "title": "Live: Trump rules out extending ceasefire as US-Iran talks in doubt",
+      "title": "Live: JD Vance cancels Pakistan trip as US-Iran talks remain uncertain",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fb4473ebdf3dd517d209b5c03d856e54?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=289&amp;width=862&amp;height=485"
       },
@@ -139,15 +184,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-21T12:38:35.000000Z",
-      "title": "Government to pay for showers for at-home aged care recipients",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4954da6789cd0640c94cba08f2ff7a8f?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The decision to scrap the plan to charge older Australians $50/hour for showers was made after months of sustained criticism, including warnings that people were forgoing other care to afford the service.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-21/government-to-pay-for-showers-at-home-aged-care/106590208"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/67d644f1-8daf-44ff-9057-179c4a8ae18f",
       "published_datetime": "2026-04-21T12:20:56.367362",
       "title": "UN climate chief warns of fossil-fuel stagflation at Berlin talks",
@@ -179,7 +215,7 @@
     },
     {
       "published_datetime": "2026-04-21T09:09:24.000000Z",
-      "title": "'Everyone is scared': Captain caught at the world's shipping chokepoint speaks out",
+      "title": "What life is like for those trapped on tankers in the Strait of Hormuz",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4f1499de34fc83300e30d997f3ed6758?impolicy=wcms_crop_resize&amp;cropH=389&amp;cropW=692&amp;xPos=92&amp;yPos=12&amp;width=862&amp;height=485"
       },
@@ -187,58 +223,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-21/stranded-in-the-strait-of-hormuz/106587880"
     },
     {
-      "published_datetime": "2026-04-21T07:21:04.000000Z",
-      "title": "Vanuatu warns Australia it will not be 'dictated to' after reports of China deal",
+      "published_datetime": "2026-04-21T08:39:21.000000Z",
+      "title": "Sacked civil servant describes pressure to approve Mandelson as UK ambassador to US",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5b77bd4593493cdd19eb759a04be3e4d?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=150&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2e28d12f46f57cd1e9e64934dbaeebd4?impolicy=wcms_crop_resize&amp;cropH=2499&amp;cropW=4443&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "As Australia presses on to finally sign a key agreement with Vanuatu, reports of a security agreement with China have drawn a fierce response from Port Vila.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-21/vanuatu-denies-china-security-deal-imminent/106589412"
+      "description": "The former head of the Foreign Office said there was \"a very, very strong expectation\" that Peter Mandelson \"needed to be in post and in America as quickly as possible\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-21/olly-robbins-speaks-following-peter-mandelson-security-scandal/106590020"
     },
     {
-      "published_datetime": "2026-04-21T07:11:41.000000Z",
-      "title": "Boyd says other AFL players are struggling 'under the surface' after Hollands episode",
+      "published_datetime": "2026-04-21T03:26:03.000000Z",
+      "title": "'Outrageous mess': About 2,000 AI road safety camera fines withdrawn in WA",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7bfec99f9288ceb6fd1f7a8b8361c44f?impolicy=wcms_crop_resize&amp;cropH=2266&amp;cropW=4029&amp;xPos=971&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b2b3dff2919cea6874965fe28a909111?impolicy=wcms_crop_resize&amp;cropH=506&amp;cropW=900&amp;xPos=0&amp;yPos=47&amp;width=862&amp;height=485"
       },
-      "description": "Tom Boyd, former AFL footballer turned mental health advocate, says the high-pressure environment of professional football means many players are struggling with mental health issues \"under the surface\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-21/tom-boyd-afl-mental-health-elijah-hollands-carlton/106587734"
-    },
-    {
-      "published_datetime": "2026-04-21T07:00:18.000000Z",
-      "title": "States and territories left in the dark on NDIS savings",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28a24e9b5f510e694b60f07ea07cb582?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=111&amp;width=862&amp;height=485"
-      },
-      "description": "State treasurers say a meeting on NDIS reforms to be announced tomorrow was light on details, leaving states and territories waiting with everyone else to find out how a new round of savings measures will affect the disability scheme \u2014 and their budgets.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-21/ndis-treasurers-meeting-left-waiting-savings-reform/106588026"
-    },
-    {
-      "published_datetime": "2026-04-21T06:25:47.000000Z",
-      "title": "Government pours $30m into counter-drone technology in wake of Iran war",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/81b19b17a8016868a8bfc5a8ba1f0f38?impolicy=wcms_crop_resize&amp;cropH=1440&amp;cropW=2560&amp;xPos=0&amp;yPos=401&amp;width=862&amp;height=485"
-      },
-      "description": "The Australian government signs two contracts to develop counter-drone technology, including a laser that can track an object the size of a 10-cent coin travelling at more than 100 km/h.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-21/government-invests-in-counter-drone-technology/106589228"
-    },
-    {
-      "published_datetime": "2026-04-21T06:21:20.000000Z",
-      "title": "China suddenly grants new beef licences to Australia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef08860d3a56df67c28ee69b5735e409?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "China has granted beef export approval to several new Australian facilities, just months after introducing a range of trade measures to protect its domestic cattle industry.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-21/china-grants-new-beef-export-access-to-australian-companies/106587052"
-    },
-    {
-      "published_datetime": "2026-04-21T04:56:54.000000Z",
-      "title": "'We are not leaving': What Israel's occupation could mean for Lebanon's future",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e266c4ea44a7140ddf36efeb8f075925?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=439&amp;width=862&amp;height=485"
-      },
-      "description": "Experts say Israel's continued presence in south Lebanon is creating a \"bleak\" future as it destroys villages in what it is calling a \"buffer zone\" and a \"Forward Defense Line\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-21/israel-occupation-south-lebanon-bleak-future-despite-ceasefire/106582110"
+      "description": "About 2,000 fines valued at $1.1 million issued as a result of AI-assisted road safety cameras in WA have been withdrawn, six months after the devices were introduced.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-21/fines-withdrawn-as-ai-road-safety-camera-controversy-continues/106587938"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-21T18:58:53.787202"
+  "merged_at": "2026-04-21T20:03:27.160259"
 }
