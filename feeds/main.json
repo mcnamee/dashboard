@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-21T14:21:36.000000Z",
+      "title": "Japan to sell lethal arms in move away from post-war pacifism",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/add45797a404baf8523d4ab04413cb9b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=470&amp;width=862&amp;height=485"
+      },
+      "description": "Japan has overhauled its decades-long defence export rule, allowing the country to sell lethal weapons internationally amid rising global tensions.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/japan-overhauls-defence-export-rule/106590578"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/1c820322-017c-4049-88f5-42307589eaf2",
       "published_datetime": "2026-04-21T13:41:14.470720",
       "title": "Seized Iranian ship Touska likely carried dual-use cargo, sources say",
@@ -92,15 +101,6 @@
       "audio_url": "",
       "url": "airbus-agrees-to-acquire-frenc-u1G9WjDaQFC7xwEm95Dw_A",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-21T08:39:21.000000Z",
-      "title": "Sacked civil servant describes pressure to approve Mandelson as UK ambassador to US",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2e28d12f46f57cd1e9e64934dbaeebd4?impolicy=wcms_crop_resize&amp;cropH=2499&amp;cropW=4443&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The former head of the Foreign Office said there was \"a very, very strong expectation\" that Peter Mandelson \"needed to be in post and in America as quickly as possible\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-21/olly-robbins-speaks-following-peter-mandelson-security-scandal/106590020"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4396e65a-042c-4c44-9d63-18fbf479366a",
@@ -233,11 +233,11 @@
     },
     {
       "published_datetime": "2026-04-20T18:13:50.000000Z",
-      "title": "Live: US says it's 'on the brink' of deal with Iran, but uncertainty over peace talks remains",
+      "title": "Trump warns US military 'ready to go' as US-Iran peace talks loom \u2014 as it happened",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6e9e23e9bae98a1e871e25e1d799939?impolicy=wcms_crop_resize&amp;cropH=1450&amp;cropW=2578&amp;xPos=0&amp;yPos=134&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/874def6bf5292435aa1eee77d9cfcd05?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The White House says the United States is \"on the brink\" of a deal with Iran as the ceasefire deadline looms. Follow live.",
+      "description": "US President Donald Trump has warned if a deal with Iran is not reached soon, US military action could resume.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-21/iran-war-us-negotiations-pakistan-talks/106586280"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-21T14:50:05.443118"
+  "merged_at": "2026-04-21T15:04:40.257774"
 }
