@@ -2,7 +2,7 @@
   "items": [
     {
       "published_datetime": "2026-04-22T22:18:14.000000Z",
-      "title": "Breaking: James Valentine, beloved ABC talkback radio star, dies aged 64",
+      "title": "James Valentine, beloved ABC talkback radio star, dies aged 64",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e69044e051d2a3bfd288c6a0f7f37acd?impolicy=wcms_crop_resize&amp;cropH=2201&amp;cropW=3913&amp;xPos=860&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -97,8 +97,17 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-04-22T19:10:38.000000Z",
+      "title": "Disability community scared and surprised by scale of planned NDIS cuts",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/115081b76346e0513f99aa8a615a3083?impolicy=wcms_crop_resize&amp;cropH=1701&amp;cropW=3024&amp;xPos=0&amp;yPos=568&amp;width=862&amp;height=485"
+      },
+      "description": "NDIS Minister Mark Butler has defended the government's latest cost-cutting changes to the scheme in an interview with the ABC, amid an avalanche of participant concern.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-23/disability-community-scared-by-dramatic-ndis-changes/106583112"
+    },
+    {
       "published_datetime": "2026-04-22T19:08:12.000000Z",
-      "title": "Disability groups say having coffee not a luxury as Butler announces NDIS cuts",
+      "title": "Disability groups say going out for coffee not a luxury as Butler plans to overhaul NDIS",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2231caa46711056ce25223142a501810?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=262&amp;width=862&amp;height=485"
       },
@@ -149,21 +158,12 @@
     },
     {
       "published_datetime": "2026-04-22T18:14:09.000000Z",
-      "title": "Live: Iran seizes two ships in the strait, calls on US to lift the blockade",
+      "title": "Live: Three cargo ships fired on, two seized by Iran in Strait of Hormuz",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0d9a551ee63156fd28171e041ba16911?impolicy=wcms_crop_resize&amp;cropH=1649&amp;cropW=2932&amp;xPos=0&amp;yPos=245&amp;width=862&amp;height=485"
       },
       "description": "Iran has said it will not reopen the Strait of Hormuz as long as the US naval blockade remains in place. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-23/iran-war-live-updates-iran-ceasfire/106593460"
-    },
-    {
-      "published_datetime": "2026-04-22T15:00:25.000000Z",
-      "title": "Five per cent home deposit scheme fuelling price hike, report suggests",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a24dad7694d0cb2bfcbfa4340092e3e1?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
-      },
-      "description": "New research from property analytics firm Cotality appears to show that the Home Guarantee Scheme, intended to help first home buyers, may be worsening entry level affordability.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-23/first-home-buyer-scheme-pushing-up-price-of-cheaper-housing/106593276"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e73b336e-f6af-4ae2-896c-f3009bd31795",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-22T22:55:15.884299"
+  "merged_at": "2026-04-22T23:39:09.084977"
 }
