@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-22T18:48:32.000000Z",
+      "title": "New AI threat looms but Australian firms don't have access needed to prepare",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/47185d43cf26e3cbf0af304e2ee4344f?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
+      },
+      "description": "Local banks, power providers and infrastructure firms do not have access to test their systems against a powerful new AI cybersecurity risk, Anthropic's Mythos, which has not been made public.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-23/powerful-ai-tools-posing-cybersecurity-risks-australia-lagging/106584436"
+    },
+    {
+      "published_datetime": "2026-04-22T18:30:00.000000Z",
+      "title": "Budget will show whether NDIS cuts are the exception or the template",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a7de5d2fece7d537910eeec6facd895?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "As far as tough budget decisions go, we haven't seen anything on this scale since Joe Hockey's ill-fated 2014 effort.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-23/ndis-changes-budget-mark-butler/106582628"
+    },
+    {
+      "published_datetime": "2026-04-22T18:14:09.000000Z",
+      "title": "Live: Iran says opening Hormuz 'impossible' amid blockade, EU counts $39bn cost of war",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0d9a551ee63156fd28171e041ba16911?impolicy=wcms_crop_resize&amp;cropH=1649&amp;cropW=2932&amp;xPos=0&amp;yPos=245&amp;width=862&amp;height=485"
+      },
+      "description": "Iran has said it will not reopen the Strait of Hormuz as long as the US naval blockade remains in place. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-23/iran-war-live-updates-iran-ceasfire/106593460"
+    },
+    {
       "published_datetime": "2026-04-22T15:00:25.000000Z",
       "title": "Five per cent home deposit scheme fuelling price hike, report suggests",
       "featured_image": {
@@ -8,6 +35,21 @@
       },
       "description": "New research from property analytics firm Cotality appears to show that the Home Guarantee Scheme, intended to help first home buyers, may be worsening entry level affordability.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-23/first-home-buyer-scheme-pushing-up-price-of-cheaper-housing/106593276"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e73b336e-f6af-4ae2-896c-f3009bd31795",
+      "published_datetime": "2026-04-22T14:57:02.404731",
+      "title": "CATL debuts 6-minute EV battery; ChargePoint launches 600 kW charger",
+      "featured_image": {
+        "url": "https://www.motortrend.com/news/first-look-chargepoint-express-solo-600-kw-dc-fast-charger",
+        "name": "ChargePoint Built a 600-KW Fast-Charging Beast\u2014Now EVs Need ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--cQjRnbHy--/t_limit/https://hips.hearstapps.com/hmg-prod/images/6274b594-9e9a-4a9f-9ed9-b9df5c409f0d.png",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--rtWSZlM8--/t_thumbnail/https://hips.hearstapps.com/hmg-prod/images/6274b594-9e9a-4a9f-9ed9-b9df5c409f0d.png"
+      },
+      "description": "Two announcements this week from opposite sides of the EV supply chain signal that the era of long charging waits may be drawing to a close. CATL, the world's largest battery maker, debuted a cell that recharges in about six minutes, while ChargePoint introduced what it calls the fastest standalone charger on the market.",
+      "audio_url": "",
+      "url": "catl-debuts-6-minute-ev-batter-6VIW1sVVT6yScdHXCTjDOQ",
+      "partition_name": "partition1"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5a139dc4-551f-4a23-ab22-676fd5b1d324",
@@ -79,6 +121,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-04-22T10:53:33.000000Z",
+      "title": "Police 'not fully prepared' for violent scene they were called to, NT inquest hears",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b16ef3249514c38ba5a5288c2338935c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=92&amp;width=862&amp;height=485"
+      },
+      "description": "An inquest hears evidence from a senior police officer who ran into a room to disarm a mother who was self-harming inside a Darwin crisis accommodation facility, describing the incident as \"one of the worst days\" of her policing career.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/nt-inquest-death-in-domestic-viloence-shelter-police-evidence/106592426"
+    },
+    {
       "published_datetime": "2026-04-22T10:32:31.000000Z",
       "title": "ICC judges reject bid to release former Philippines president Rodrigo Duterte",
       "featured_image": {
@@ -91,7 +142,7 @@
       "published_datetime": "2026-04-22T10:17:15.000000Z",
       "title": "'Brutal but necessary': NDIS changes to shift thousands onto states",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7db252dbe980f178f33e7b816cdbe25d?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4d15cb65f3b56b4caf80421eff611b56?impolicy=wcms_crop_resize&amp;cropH=515&amp;cropW=916&amp;xPos=0&amp;yPos=39&amp;width=862&amp;height=485"
       },
       "description": "Labor's plan to rein in NDIS growth will result in more than 160,000 people shifting off the scheme, with states expected to deliver alternative \"foundational supports\".\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-22/labor-ndis-savings-plan-hinges-on-state-run-supports/106594828"
@@ -121,24 +172,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-22/vuda-point-waste-to-energy-plan-sparks-backlash-in-fiji/106557824"
     },
     {
-      "published_datetime": "2026-04-22T08:22:48.000000Z",
-      "title": "People with autism to be at centre of 160,000 NDIS removals",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/561692d93c52efba5cfd0f3437713421?impolicy=wcms_crop_resize&amp;cropH=689&amp;cropW=1225&amp;xPos=54&amp;yPos=164&amp;width=862&amp;height=485"
-      },
-      "description": "Minister Mark Butler announces his decision to remove more than 160,000 people from the national disability scheme over the next four years, with the timing labelled \"troublesome\" by autism advocates.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/ndis-participant-removal-autism-focus/106593430"
-    },
-    {
-      "published_datetime": "2026-04-22T07:42:12.000000Z",
-      "title": "The proposed NDIS changes explained in five key points",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28a24e9b5f510e694b60f07ea07cb582?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=111&amp;width=862&amp;height=485"
-      },
-      "description": "Health Minister Mark Butler has unveiled sweeping cuts to the ballooning National Disability Insurance Scheme, aimed at cutting costs of the program down to $55 billion by the end of the decade.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/ndis-overhaul-eligibility-rule-changes-explained/106593778"
-    },
-    {
       "published_datetime": "2026-04-22T07:34:44.000000Z",
       "title": "Embattled salmon industry launches advertising blitz amid calls to shut down",
       "featured_image": {
@@ -161,15 +194,6 @@
       "audio_url": "",
       "url": "openai-plans-1-5b-investment-i-InSp.zbJT_Sl21rfI21Usw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-22T07:01:50.000000Z",
-      "title": "Government ends special private health treatment for over 65s",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/da2f35f5790997f70837547aa4027238?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
-      },
-      "description": "The federal government argues the move will help re-establish fairness across the generations.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/private-health-for-over-65s-to-cost-hundreds-more/106594174"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/87fe63f0-f785-4c3c-9e0b-41ee61aa7ec9",
@@ -215,30 +239,6 @@
       "audio_url": "",
       "url": "trump-extends-iran-ceasefire-a-pHVwQGj3SbSNHl_g04JDQQ",
       "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5202fad2-88ee-4141-af4f-b725d8fc5cd1",
-      "published_datetime": "2026-04-21T20:35:46.142501",
-      "title": "Iran calls US port blockade an 'act of war' as ceasefire set to expire Wednesday",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response",
-        "name": "Iran war updates: Uncertainty over talks, Trump says deal to come \u2018quickly\u2019",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--lEOAsnT_--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-19T235055Z_816513121_RC2GSKA8INN4_RTRMADP_3_IRAN-CRISIS-TRUMP-SHIP-1776644636.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--6-XVCs3d--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-19T235055Z_816513121_RC2GSKA8INN4_RTRMADP_3_IRAN-CRISIS-TRUMP-SHIP-1776644636.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "Iran's Foreign Minister Abbas Araghchi declared on Tuesday that the US naval blockade of Iranian ports constitutes an \"act of war\" and a violation of the fragile ceasefire between Washington and Tehran, as the two-week truce enters its final hours with no extension in sight and the prospect of resumed bombing looming over the region.[1][2]",
-      "audio_url": "",
-      "url": "iran-calls-us-port-blockade-an-yQtqjcqxQ9.TiQHOmFTplQ",
-      "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-21T18:08:34.000000Z",
-      "title": "Several ships attacked in Strait of Hormuz as Iran calls on US to lift blockade \u2014 as it happened",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/240e8d59e2fde04da7eac7875536c5f2?impolicy=wcms_crop_resize&amp;cropH=888&amp;cropW=1578&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
-      },
-      "description": "Three ships have come under fire in the Strait of Hormuz, maritime and security sources say, after Iran said it would not participate in peace talks until the US lifts its blockade. Look back on how it unfolded.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/iran-war-live-updates-trump-us-extends-ceasefire-iran/106588912"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-22T17:58:17.127078"
+  "merged_at": "2026-04-22T19:00:05.505591"
 }
