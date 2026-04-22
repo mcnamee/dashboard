@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-21T21:10:23.000000Z",
+      "title": "Live: Government to cut 160,000 people from NDIS scheme as budget blows out",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4954da6789cd0640c94cba08f2ff7a8f?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "NDIS Minister Mark Butler says the scheme was designed to support 410,000 people with a disability, but currently supports 760,000. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/federal-politics-live-blog-ndis-aged-care-butler-fuel-iran/106590940"
+    },
+    {
+      "published_datetime": "2026-04-21T22:00:39.000000Z",
+      "title": "Live: ASX tumbles as Cochlear shares crash 40pc to 10-year low",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1a48b2fbc091a22b257debb37ee0c6e8?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "One of Australia's biggest companies, Cochlear, has rattled investors by slashing its profit outlook, while the broader market drops. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/asx-markets-business-news-live-updates-wednesday-22-april/106591026"
+    },
+    {
+      "published_datetime": "2026-04-22T03:08:31.000000Z",
+      "title": "US senator 'tremendously concerned' after navy moves assets from Pacific",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1efa6e16a7a8eedab761d22a5e3b3a0d?impolicy=wcms_crop_resize&amp;cropH=536&amp;cropW=952&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "The US's Indo-Pacific commander praises work to upgrade Australia's AUKUS base, but says he needs more naval firepower in the region as China rapidly expands its military.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/us-commander-warns-congress-of-increasingly-aggressive-china/106591886"
+    },
+    {
       "published_datetime": "2026-04-21T18:08:34.000000Z",
       "title": "Live: Iran says Trump's ceasefire extension a 'ploy to buy time' as Vance cancels Pakistan trip",
       "featured_image": {
@@ -19,31 +46,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-22/iran-israel-war-daily-news-briefing/106582866"
     },
     {
-      "published_datetime": "2026-04-21T22:00:39.000000Z",
-      "title": "Live: Major ASX stock crashes, dragging wider market down",
+      "published_datetime": "2026-04-22T01:56:46.000000Z",
+      "title": "Gaza conditions 'catastrophic' as report finds $US71b needed to rebuild",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6871ec692ab78a7f74a484f9a9dff845?impolicy=wcms_crop_resize&amp;cropH=547&amp;cropW=973&amp;xPos=0&amp;yPos=82&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a2637e54044e2712540ac379efc3a44f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=347&amp;width=862&amp;height=485"
       },
-      "description": "One of Australia's biggest company's, Cochlear, has rattled investors by slashing its profit outlook. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/asx-markets-business-news-live-updates-wednesday-22-april/106591026"
-    },
-    {
-      "published_datetime": "2026-04-21T12:38:35.000000Z",
-      "title": "$50/hour charge for older Australians to shower reversed by government after six months",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4954da6789cd0640c94cba08f2ff7a8f?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The decision to scrap the plan to charge older Australians $50/hour for showers was made after months of sustained criticism, including warnings that people were forgoing other care to afford the service.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-21/government-to-pay-for-showers-at-home-aged-care/106590208"
-    },
-    {
-      "published_datetime": "2026-04-21T18:55:53.000000Z",
-      "title": "The growing problem stopping Melbourne residents using their microwaves",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64935e18eb794210328d875990c91ba7?impolicy=wcms_crop_resize&amp;cropH=910&amp;cropW=1617&amp;xPos=0&amp;yPos=85&amp;width=862&amp;height=485"
-      },
-      "description": "A power company warns that growing electricity demand is creating an undervoltage issue as Victoria's infrastructure struggles to keep up with the transition from gas.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/victoria-undervoltage-melbourne-gas-electricity/106588882"
+      "description": "More than $US71 billion will be needed over the next 10 years for recovery and reconstruction in Gaza, according to a new report by the European Union and the United Nations.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/gaza-strip-reconstruction-recovery-cost-israel-war-hamas/106587608"
     },
     {
       "published_datetime": "2026-04-21T23:17:45.000000Z",
@@ -55,22 +64,112 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-22/us-israel-strikes-on-iran-propaganda/106585244"
     },
     {
-      "published_datetime": "2026-04-21T21:10:23.000000Z",
-      "title": "Live: Four additional diesel cargoes secured under government's underwriting powers",
+      "published_datetime": "2026-04-21T18:55:53.000000Z",
+      "title": "The growing problem stopping Melbourne residents using their microwaves",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9bb6fe150041f0c6324e2480c7a56698?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64935e18eb794210328d875990c91ba7?impolicy=wcms_crop_resize&amp;cropH=910&amp;cropW=1617&amp;xPos=0&amp;yPos=85&amp;width=862&amp;height=485"
       },
-      "description": "Anthony Albanese secures four additional cargoes of diesel for Australia via BP, Viva Energy and Export Finance Australia. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/federal-politics-live-blog-ndis-aged-care-butler-fuel-iran/106590940"
+      "description": "A power company warns that growing electricity demand is creating an undervoltage issue as Victoria's infrastructure struggles to keep up with the transition from gas.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/victoria-undervoltage-melbourne-gas-electricity/106588882"
     },
     {
-      "published_datetime": "2026-04-22T00:52:29.000000Z",
-      "title": "Report finds 'unacceptable' failures after foster kids lived with triple killer",
+      "published_datetime": "2026-04-22T03:13:16.000000Z",
+      "title": "Former minister threatened developers over working with CFMEU, inquiry told",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba0a48d958a0afae5ef57879c2fd5041?impolicy=wcms_crop_resize&amp;cropH=461&amp;cropW=819&amp;xPos=0&amp;yPos=82&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f6d7e5950fb51ab0655643b383b46729?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
       },
-      "description": "Some Department of Communities and Justice staff members will face misconduct proceedings after a bungle that saw two foster children living with triple killer Regina Arthurell earlier this year.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/regina-arthurell-report-dcj-staff-to-face-misconduct-proceedings/106591666"
+      "description": "The Commission of Inquiry into the CFMEU is told Grace Grace \"made it clear\" she expected the developers to cooperate with the union, or she would consider terminating their contract.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/qld-cfmeu-inqury-hears-minister-threatened-developers/106592292"
+    },
+    {
+      "published_datetime": "2026-04-22T01:59:51.000000Z",
+      "title": "How young boys helped Australians wage guerilla war against Japan in Timor",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/77781f3a6395e4cfd1a4a13e5de64306?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Incredible bonds were formed between Australian commandos and Timorese boys during World War II. The White Australia policy meant they had to say goodbye when the Anzacs departed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/anzac-day-east-timor-boys-who-helped-australia-during-wwii/106576402"
+    },
+    {
+      "published_datetime": "2026-04-22T01:57:14.000000Z",
+      "title": "Charities struggle to stay open as food insecurity rises",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fc2f13838e27d949e91c9fca34ab7928?impolicy=wcms_crop_resize&amp;cropH=2166&amp;cropW=3851&amp;xPos=0&amp;yPos=361&amp;width=862&amp;height=485"
+      },
+      "description": "Charities that provide food say they are running at full capacity, forcing some to close and others to rethink how they deliver meals. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/food-charities-struggle-with-rising-costs/106357062"
+    },
+    {
+      "published_datetime": "2026-04-22T04:14:34.000000Z",
+      "title": "Travel giant's $240m overcharging scandal balloons to claims of fake agreements",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4d955197c97e811c20c984b6411f9ef9?impolicy=wcms_crop_resize&amp;cropH=547&amp;cropW=972&amp;xPos=257&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Brisbane-based Corporate Travel Management has detailed a laundry list of concerns about a ballooning scandal, including reliance on potentially fake documents.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/corporate-travel-management-overcharging-fake-agreement-claims/106591588"
+    },
+    {
+      "published_datetime": "2026-04-22T03:46:25.000000Z",
+      "title": "Tim Picton's accused killer pleads guilty over separate assault",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a1a0beb73ba68be43efcecf7ddf05d5c?impolicy=wcms_crop_resize&amp;cropH=865&amp;cropW=1537&amp;xPos=0&amp;yPos=79&amp;width=862&amp;height=485"
+      },
+      "description": "A man who allegedly killed Labor identity Tim Picton in Perth admits assaulting another man in Kalamunda just days earlier.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/brodie-jake-dewar-pleads-guilty-over-kalamunda-assault/106591972"
+    },
+    {
+      "published_datetime": "2026-04-22T03:27:22.000000Z",
+      "title": "South Sydney might never get a better chance to end the longest NRL hoodoo",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ad50c98c615a797458fd92f0f63979ad?impolicy=wcms_crop_resize&amp;cropH=2722&amp;cropW=4839&amp;xPos=0&amp;yPos=38&amp;width=862&amp;height=485"
+      },
+      "description": "The Rabbitohs have never won a game in Melbourne in almost three decades of trying but they might never get a better chance than this weekend.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/south-sydney-never-won-in-melbourne/106591638"
+    },
+    {
+      "published_datetime": "2026-04-22T01:52:02.000000Z",
+      "title": "The Michael Jackson biopic is as generic as its subject was singular",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b705caaf676068400a49451b0fa9196d?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
+      },
+      "description": "Spanning from the Jackson 5's 1960s discovery through to the height of his fame in the late 80s, Michael skates over the more challenging aspects of the King of Pop.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/michael-review-michael-jackson-biopic/106591612"
+    },
+    {
+      "published_datetime": "2026-04-22T01:05:46.000000Z",
+      "title": "Aussie junior 'obsessed' with golf set to test his skills overseas",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b5fe91705a52a82ce25cc4d2ff478540?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=501&amp;width=862&amp;height=485"
+      },
+      "description": "Alby Weyden was two years old when he became obsessed with golf. Four years on, his family hopes to raise enough money for him to compete in the Canadian Invitational.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/aussie-golf-junior-set-to-test-himself-in-canada/106570032"
+    },
+    {
+      "published_datetime": "2026-04-21T18:30:00.000000Z",
+      "title": "'It's been horrible': Your experiences with family estrangement",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/356d7dcb29a96016ebe464d077a30ef7?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "Our recent stories about the grief of family estrangement resonated strongly. Here's how some Australians have been affected by it.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/australians-share-their-experiences-of-estrangement/106567244"
+    },
+    {
+      "published_datetime": "2026-04-21T19:33:03.000000Z",
+      "title": "NRL hit man who suffered 50 concussions says impact of new rules unclear",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/baac3dc19f5d63c1f7bb6ff57782cc1a?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Junior rugby league clubs and neuroscientists have welcomed changes to address growing concerns around injuries but say more should be done to protect children.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/nrl-contact-training-changes-junior-sport-neuroscience/106587700"
+    },
+    {
+      "published_datetime": "2026-04-21T12:38:35.000000Z",
+      "title": "$50/hour charge for older Australians to shower reversed by government after six months",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/33e8844dc2a32b28ac2da29bcfe3d97b?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=327&amp;width=862&amp;height=485"
+      },
+      "description": "The decision to scrap the plan to charge older Australians $50/hour for showers was made after months of sustained criticism, including warnings that people were forgoing other care to afford the service.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-21/government-to-pay-for-showers-at-home-aged-care/106590208"
     },
     {
       "published_datetime": "2026-04-21T23:33:03.000000Z",
@@ -91,22 +190,31 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-22/nt-flood-evacuees-daly-river-nauiyu-security-racial-profiling/106587744"
     },
     {
-      "published_datetime": "2026-04-21T18:59:20.000000Z",
-      "title": "Closure of specialist centres for children with autism puts spotlight on NDIS funding",
+      "published_datetime": "2026-04-22T00:52:29.000000Z",
+      "title": "Staff face misconduct proceedings after foster kids allowed to live with killer",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3585d83d6f64a79d3d0ecfd506c93822?impolicy=wcms_crop_resize&amp;cropH=2231&amp;cropW=3966&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba0a48d958a0afae5ef57879c2fd5041?impolicy=wcms_crop_resize&amp;cropH=461&amp;cropW=819&amp;xPos=0&amp;yPos=82&amp;width=862&amp;height=485"
       },
-      "description": "The nationwide closure of specialist centres has put a spotlight on the adequacy of National Disability Insurance Scheme funding for children with \"severe, profound, lifelong\" autism.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/closure-aeiou-centres-children-with-autism-impact-ndis-funding/106576532"
+      "description": "Some Department of Communities and Justice staff members will face misconduct proceedings after a bungle that saw two foster children living with triple killer Regina Arthurell earlier this year.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/regina-arthurell-report-dcj-staff-to-face-misconduct-proceedings/106591666"
     },
     {
-      "published_datetime": "2026-04-21T19:33:03.000000Z",
-      "title": "NRL hit man who suffered 50 concussions says impact of new rules unclear",
+      "published_datetime": "2026-04-22T03:25:15.000000Z",
+      "title": "Group says site of new greyhound track should be for housing",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/baac3dc19f5d63c1f7bb6ff57782cc1a?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1220db85d1e7d2403dfb750c4afc2e6a?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=213&amp;width=862&amp;height=485"
       },
-      "description": "Junior rugby league clubs and neuroscientists have welcomed changes to address growing concerns around injuries but say more should be done to protect children.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/nrl-contact-training-changes-junior-sport-neuroscience/106587700"
+      "description": "The council and a community group fought against it, but Orange is set to get a new greyhound racing track after the project was approved by the Western Regional Planning Panel.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/orange-greyhound-track-approved/106587268"
+    },
+    {
+      "published_datetime": "2026-04-22T03:05:21.000000Z",
+      "title": "NSW welcomes back superstar, hands Origin debut to Dragons gun",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b68bea623aeb2237b43426aab5fa5def?impolicy=wcms_crop_resize&amp;cropH=2287&amp;cropW=4065&amp;xPos=0&amp;yPos=211&amp;width=862&amp;height=485"
+      },
+      "description": "The Sky Blues welcome back Millie Elliott for the 2025 Women's State of Origin series opener, while Emma Verran's pregnancy opens up a spot for Teagan Berry to make her debut.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/nsw-sky-blues-name-team-for-womens-state-of-origin-i/106592350"
     },
     {
       "published_datetime": "2026-04-22T01:31:12.000000Z",
@@ -116,114 +224,6 @@
       },
       "description": "Ecologists say thousands of hours of audio recordings have detected night parrot calls in south-west Queensland.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-22/critically-endangered-night-parrots-detected-qld-outback/106587514"
-    },
-    {
-      "published_datetime": "2026-04-22T01:05:46.000000Z",
-      "title": "Aussie junior 'obsessed' with golf set to test his skills overseas",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b5fe91705a52a82ce25cc4d2ff478540?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=501&amp;width=862&amp;height=485"
-      },
-      "description": "Alby Weyden was two years old when he became obsessed with golf. Four years on, his family is hoping to raise enough money for him to compete in the Canadian Invitational.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/aussie-golf-junior-set-to-test-himself-in-canada/106570032"
-    },
-    {
-      "published_datetime": "2026-04-21T18:30:00.000000Z",
-      "title": "The artworks we can't stop thinking about from the Adelaide Biennial",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1e3eee2f342befa3277b985419c2416e?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=144&amp;width=862&amp;height=485"
-      },
-      "description": "The legacy of nuclear testing, environmental degradation and more among the challenges facing Australia, as explored by artists in the Adelaide Biennial of Australian art.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/adelaide-biennial-of-australian-art-archie-moore-ellie-buttrose/106569532"
-    },
-    {
-      "published_datetime": "2026-04-21T18:30:00.000000Z",
-      "title": "'It's been horrible': Your experiences with family estrangement",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/356d7dcb29a96016ebe464d077a30ef7?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
-      },
-      "description": "Our recent stories about the grief of family estrangement resonated strongly. Here's how some Australians have been affected by it.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/australians-share-their-experiences-of-estrangement/106567244"
-    },
-    {
-      "published_datetime": "2026-04-21T18:30:00.000000Z",
-      "title": "Travel quiz: Grab your bags and see if you can beat our quiz",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bd814f23a4f77ee41b6e8957df1343a2?impolicy=wcms_crop_resize&amp;cropH=2183&amp;cropW=3880&amp;xPos=0&amp;yPos=524&amp;width=862&amp;height=485"
-      },
-      "description": "Which city is hosting the first game of the World Cup? What's the name of Egypt's currency?",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/travel-quiz-april-22/106510700"
-    },
-    {
-      "published_datetime": "2026-04-21T18:54:10.000000Z",
-      "title": "In a split second, Keelie made the 'surreal' decision to reveal her abuse",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/10088716775da58f3209f82cbbf799d2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "As Australia marks Sexual Assault Awareness Month, and experts and victim-survivors say sexual violence remains pervasive and under-reported.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/support-services-strained-sexual-assault-awareness-month/106583324"
-    },
-    {
-      "published_datetime": "2026-04-22T00:51:55.000000Z",
-      "title": "Woman's life 'changed for the better' after GPs in SA trained to diagnose ADHD",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c86e1f03c72ef3417ac61fc446824c5a?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
-      },
-      "description": "About 100 South Australian GPs are now qualified to diagnose ADHD and provide treatment, with the hope of that number doubling by the end of the year, with one patient describing her diagnosis through her GP as \"life-changing\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/more-sa-gps-are-qualified-to-diagnose-adhd/106587936"
-    },
-    {
-      "published_datetime": "2026-04-22T01:23:26.000000Z",
-      "title": "SA carer allegedly sexually assaulted woman with disability, police say",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a945fb69d09ebceca897b535d8326032?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=187&amp;width=862&amp;height=485"
-      },
-      "description": "A 55-year-old man from Adelaide's west has been arrested and charged over the alleged sexual assault of a woman with a disability at Glenelg.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/carer-allegedly-sexual-assaulted-woman-with-disability/106592024"
-    },
-    {
-      "published_datetime": "2026-04-22T00:37:28.000000Z",
-      "title": "Three weeks' pay guaranteed for Liberty Bell Bay smelter workers",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e801a926a5d1c1c821be4bde0952eff8?impolicy=wcms_crop_resize&amp;cropH=5086&amp;cropW=9043&amp;xPos=0&amp;yPos=472&amp;width=862&amp;height=485"
-      },
-      "description": "A short-term rescue package announced by the Tasmanian and federal governments will guarantee the wages of workers at the troubled Liberty Bell Bay smelter.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/liberty-bell-bay-rescue-package-three-weeks-wages/106591022"
-    },
-    {
-      "published_datetime": "2026-04-22T01:05:19.000000Z",
-      "title": "Meet the eco-venture turning an invasive pest into dog treats",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/69fc73ac5d1041e95f81573accf36727?impolicy=wcms_crop_resize&amp;cropH=1016&amp;cropW=1807&amp;xPos=0&amp;yPos=15&amp;width=862&amp;height=485"
-      },
-      "description": "Introducing the European carp to Australian waterways is an ecological disaster that continues to worsen, but an Adelaide couple have found a novel use for the pest.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/turning-carp-into-treats-for-pets-education-invasive-species/106585372"
-    },
-    {
-      "published_datetime": "2026-04-21T22:04:51.000000Z",
-      "title": "US authorities probe possible ChatGPT involvement in university shooting",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c73fb640e78f21b7c335e4ba2e3e9df?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "US authorities are investigating if there was any criminal behaviour involving interactions between Open AI's ChatGPT app and a man accused of killing two people and injuring six others in a shooting at Florida State University.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/investigation-launched-into-chatgpt-over-florida-uni-shooting/106590908"
-    },
-    {
-      "published_datetime": "2026-04-22T00:30:04.000000Z",
-      "title": "Uncounted SA votes in the 'order of dozens', Attorney-General says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9f1f587616750968c653eeac9332d3ec?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The number of newly revealed uncounted ballot papers from the March state election is believed to be in the \"order of dozens\", South Australia's Attorney-General says.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/dozens-of-uncounted-votes-from-sa-election-government-says/106591228"
-    },
-    {
-      "published_datetime": "2026-04-21T23:27:18.000000Z",
-      "title": "'Terrifying' experience for WA family as storm tears roof off their home",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ac9553107d4500ce61b2f07054f5a96f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=516&amp;width=862&amp;height=485"
-      },
-      "description": "A woman describes her \"terrifying\" ordeal after a powerful cold front which sounded like a \"jet plane\" tore the roof off her family home while she was inside it on Monday night. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/bunbury-storm-victim-roof-torn-off/106589998"
     }
   ]
 }
