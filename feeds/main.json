@@ -1,13 +1,31 @@
 {
   "items": [
     {
-      "published_datetime": "2026-04-22T03:13:16.000000Z",
-      "title": "Former minister threatened developers over working with CFMEU, inquiry told",
+      "published_datetime": "2026-04-22T05:01:05.000000Z",
+      "title": "'Lost everything': New Zealand's capital cleans up as rain pushes north",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f6d7e5950fb51ab0655643b383b46729?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d238c518f2850f56b049fb19db4b43ca?impolicy=wcms_crop_resize&amp;cropH=591&amp;cropW=1050&amp;xPos=0&amp;yPos=65&amp;width=862&amp;height=485"
       },
-      "description": "The Commission of Inquiry into the CFMEU is told Grace Grace \"made it clear\" she expected the developers to cooperate with the union, or she would consider terminating their contract.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/qld-cfmeu-inqury-hears-minister-threatened-developers/106592292"
+      "description": "Police have found the body of a man as floodwaters recede in New Zealand's capital and the clean-up begins.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/wellington-floods-new-zealand-north-island-rain/106591764"
+    },
+    {
+      "published_datetime": "2026-04-22T04:14:34.000000Z",
+      "title": "Travel giant's $240m overcharging scandal balloons to claims of fake agreements",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4d955197c97e811c20c984b6411f9ef9?impolicy=wcms_crop_resize&amp;cropH=547&amp;cropW=972&amp;xPos=257&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Brisbane-based Corporate Travel Management has detailed a laundry list of concerns about a ballooning scandal, including reliance on potentially fake documents.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/corporate-travel-management-overcharging-fake-agreement-claims/106591588"
+    },
+    {
+      "published_datetime": "2026-04-22T03:57:24.000000Z",
+      "title": "More than 160,000 people to be kicked off NDIS as Labor overhauls eligibility",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a7de5d2fece7d537910eeec6facd895?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Health Minister Mark Butler has unveiled the government's plan to curb the ballooning growth of the NDIS and save the budget a projected $35 billion over four years.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/mark-butler-ndis-overhaul-eligibility-test/106592186"
     },
     {
       "published_datetime": "2026-04-22T03:08:31.000000Z",
@@ -35,15 +53,6 @@
       },
       "description": "More than $US71 billion will be needed over the next 10 years for recovery and reconstruction in Gaza, according to a new report by the European Union and the United Nations.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-22/gaza-strip-reconstruction-recovery-cost-israel-war-hamas/106587608"
-    },
-    {
-      "published_datetime": "2026-04-22T00:12:09.000000Z",
-      "title": "How Trump went from 'I expect to be bombing' to 'I extend the ceasefire'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3609aec22ae28d93a6b578aaa8508069?impolicy=wcms_crop_resize&amp;cropH=2350&amp;cropW=4177&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Iran war ceasefire has been extended but no-one is quite sure on the new deadline, Middle East correspondent Matthew Doran writes.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/iran-israel-war-daily-news-briefing/106582866"
     },
     {
       "published_datetime": "2026-04-21T23:17:45.000000Z",
@@ -94,15 +103,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-21T21:10:23.000000Z",
-      "title": "Live: Government to cut 160,000 people from NDIS scheme as budget blows out",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4954da6789cd0640c94cba08f2ff7a8f?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "NDIS Minister Mark Butler says the scheme was designed to support 410,000 people with a disability, but currently supports 760,000. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/federal-politics-live-blog-ndis-aged-care-butler-fuel-iran/106590940"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/5202fad2-88ee-4141-af4f-b725d8fc5cd1",
       "published_datetime": "2026-04-21T20:35:46.142501",
       "title": "Iran calls US port blockade an 'act of war' as ceasefire set to expire Wednesday",
@@ -116,6 +116,15 @@
       "audio_url": "",
       "url": "iran-calls-us-port-blockade-an-yQtqjcqxQ9.TiQHOmFTplQ",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-04-21T20:35:23.000000Z",
+      "title": "Trump says Iran's government 'seriously fractured' as he extends ceasefire",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1b37e552c8c577a225f8c4341b1bf29d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "US President Donald Trump says he will hold off attacking Iran until Tehran's negotiating teams come up with a unified proposal for a peace deal.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-22/trump-extends-iran-ceasefire-but-continues-blockade/106590964"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8b2704c5-fa81-4f8c-a87f-f0c062a841fb",
@@ -176,15 +185,6 @@
       "audio_url": "",
       "url": "vance-s-pakistan-trip-delayed-2qwL4F_CQBiQLcUzRLjZkg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-21T18:55:53.000000Z",
-      "title": "The growing problem stopping Melbourne residents using their microwaves",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64935e18eb794210328d875990c91ba7?impolicy=wcms_crop_resize&amp;cropH=910&amp;cropW=1617&amp;xPos=0&amp;yPos=85&amp;width=862&amp;height=485"
-      },
-      "description": "A power company warns that growing electricity demand is creating an undervoltage issue as Victoria's infrastructure struggles to keep up with the transition from gas.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-22/victoria-undervoltage-melbourne-gas-electricity/106588882"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/02922785-af8a-4edc-bdfb-4ec387a88fa8",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-22T04:39:54.885961"
+  "merged_at": "2026-04-22T06:52:47.292274"
 }
