@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d86f563c-8dda-4456-be75-d3ae31b33346",
+      "published_datetime": "2026-04-23T10:31:44.784602",
+      "title": "Trump says China helped push Iran toward ceasefire talks",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/china/trump-says-he-believes-china-got-iran-negotiate-afp-reports-2026-04-08/",
+        "name": "Trump says he believes China got Iran to negotiate, AFP reports ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--eOrw5eek--/t_limit/https://www.reuters.com/resizer/v2/EXFNC7XM25N3JHSLOTPX6ZNJ74.jpg%3Fauth%3Dcccc2a31131886e650dcf71060dce5de6b89051e1f346b5e632279741608946c%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Isuk5rb1--/t_thumbnail/https://www.reuters.com/resizer/v2/EXFNC7XM25N3JHSLOTPX6ZNJ74.jpg%3Fauth%3Dcccc2a31131886e650dcf71060dce5de6b89051e1f346b5e632279741608946c%26width%3D1920%26quality%3D80"
+      },
+      "description": "As the war between the United States, Israel, and Iran grinds through its second month, China has quietly positioned itself as a pivotal diplomatic player, leveraging its economic ties with Tehran and its desire for global leadership to carve out an outsized role in mediation efforts.\n\nChinese President Xi Jinping this week called for the reopening of the Strait of Hormuz during a phone call with Saudi Crown Prince Mohammed bin Salman on Monday, reaffirming Beijing's commitment to \"all efforts conducive to restoring peace\". The intervention followed weeks of intensive behind-the-scenes diplomacy. China's top diplomat Wang Yi made 26 phone calls between the start of the conflict on February 28 and the lead-up to the April 8 ceasefire, according to Al Jazeera.[1][2]",
+      "audio_url": "",
+      "url": "trump-says-china-helped-push-i-43GoOYyvQ4y2L_8DzdJaqw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-23T08:33:12.000000Z",
       "title": "Three children attacked by dingoes in national park",
       "featured_image": {
@@ -217,23 +232,8 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a83031a7-551a-476b-abc1-cf3e99e17986",
-      "published_datetime": "2026-04-22T23:15:20.001606",
-      "title": "Iran denies Trump's claim he stopped execution of eight women",
-      "featured_image": {
-        "url": "https://www.foxnews.com/world/iran-agrees-execute-eight-women-anti-regime-protests-trumps-public-appeal",
-        "name": "Iran agrees not to execute eight women tied to anti-regime protests after  Trump's public appeal",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1776899429/url_uploads/donald-trump-white-house-fox-news-001_chekfo.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1776899429/url_uploads/donald-trump-white-house-fox-news-001_chekfo.jpg"
-      },
-      "description": "Iran's judiciary flatly rejected President Donald Trump's assertion that he had intervened to stop the execution of eight women protesters, calling the claim \"fake news\" and saying the president had been \"misled\" \u2014 setting up a sharp public dispute between Washington and Tehran even as nuclear negotiations continue.",
-      "audio_url": "",
-      "url": "iran-denies-trump-s-claim-he-s-rUgnuJr3SXaH_oI.1O566Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-04-22T18:14:09.000000Z",
-      "title": "Live: Iran attacks three cargo ships in strait, US Navy Secretary departs role",
+      "title": "Live: Iran attacks three cargo ships in strait, US seizes another oil tanker",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0d9a551ee63156fd28171e041ba16911?impolicy=wcms_crop_resize&amp;cropH=1649&amp;cropW=2932&amp;xPos=0&amp;yPos=245&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-23T11:54:42.384369"
+  "merged_at": "2026-04-23T13:03:30.011391"
 }
