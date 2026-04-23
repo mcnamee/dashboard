@@ -1,35 +1,8 @@
 {
   "items": [
     {
-      "published_datetime": "2026-04-23T17:12:02.000000Z",
-      "title": "Live: Trump says US will 'shoot and ‌kill any ​boat' laying mines in ​the ‌Strait of ⁠Hormuz",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a9060e206dbe9ff16ec43882530fcd3e?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump says he has ordered the US Navy to \"shoot and kill any boat\" laying mines in the Strait of Hormuz. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/iran-war-live-updates-us-shoot-kill-hormuz/106598082"
-    },
-    {
-      "published_datetime": "2026-04-23T18:09:32.000000Z",
-      "title": "It's a very bad time to be a baby boomer, politically speaking",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/92bdf313f21d28a06288c45afbf99399?impolicy=wcms_crop_resize&amp;cropH=2815&amp;cropW=5005&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "The Albanese government is reading the room when it comes to intergenerational equity ahead of the May 12 budget. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/baby-boomers-labor-generational-inequality-federal-budget-ndis/106582640"
-    },
-    {
-      "published_datetime": "2026-04-23T17:36:56.000000Z",
-      "title": "'Finfluencers' suspected of giving unlawful advice hit with warning notices",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1a4eae074fb4929cb2f96dc7ec919948?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The warning notice to the so-called \"finfluencers\" relates to suspected provision of unlicensed financial advice, including promoting claims of guaranteed returns.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/asic-finfluencer-social-media-crackdown/106597964"
-    },
-    {
       "published_datetime": "2026-04-23T18:06:45.000000Z",
-      "title": "The NDIS gave participants their lives back. Now they fear what's to come",
+      "title": "'Why get up if you have nowhere to go?': NDIS participants slam cuts",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6c5ec26fee43ac54ed2ff76bd7be6d13?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -42,17 +15,71 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28a24e9b5f510e694b60f07ea07cb582?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=111&amp;width=862&amp;height=485"
       },
-      "description": "NDIS Minister Mark Butler will end the practice of handwritten invoices, providers without qualifications and a \"let it rip\" market of profiteering operators. But the sector warns it must be navigated carefully to avoid driving away legitimate operators or accidentally leaving out providers helping people with complex, individualised needs.",
+      "description": "NDIS Minister Mark Butler will end the practice of handwritten invoices, providers without qualifications and a \"let it rip\" market of profiteering operators. But the sector warns changes must be navigated carefully.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-24/ndis-provider-fraud-crackdown-rules/106595902"
     },
     {
+      "published_datetime": "2026-04-23T18:09:32.000000Z",
+      "title": "Politically, baby boomers' day has come",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/92bdf313f21d28a06288c45afbf99399?impolicy=wcms_crop_resize&amp;cropH=2815&amp;cropW=5005&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "The Albanese government is reading the room when it comes to intergenerational equity ahead of the May 12 budget. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/baby-boomers-labor-generational-inequality-federal-budget-ndis/106582640"
+    },
+    {
+      "published_datetime": "2026-04-23T17:12:02.000000Z",
+      "title": "Live: Trump says ceasefire between Lebanon and Israel extended for three weeks",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/078e146bb1a66e56a91227afdedef097?impolicy=wcms_crop_resize&amp;cropH=2582&amp;cropW=4590&amp;xPos=410&amp;yPos=725&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump says the US will work with Lebanon to \"protect itself from Hezbollah\" and that he will meet with Benjamin Netanyahu soon. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/iran-war-live-updates-us-shoot-kill-hormuz/106598082"
+    },
+    {
+      "published_datetime": "2026-04-23T20:24:23.000000Z",
+      "title": "Iran daily briefing: Israel, Lebanon peace talks, Trump's 'shoot and kill' order",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3609aec22ae28d93a6b578aaa8508069?impolicy=wcms_crop_resize&amp;cropH=2350&amp;cropW=4177&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Talks in Washington are set against a backdrop of decades-long disputes and deep mistrust, but at least they're happening.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/iran-daily-briefing-april-24/106582870"
+    },
+    {
+      "published_datetime": "2026-04-23T21:06:31.000000Z",
+      "title": "Live: Australia must 'get serious' about defence to be better ally to US, Hastie says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1538c3432bdbf5ae0cec266b1b163381?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=103&amp;width=862&amp;height=485"
+      },
+      "description": "Liberal frontbencher Andrew Hastie uses a speech ahead of Anzac Day to warn Australia must bring more to its alliance with the US, and appreciate that it is a relationship built on strategic value, not sentimentality. Follow live. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/federal-politics-live-blog-fuel-defence-gas-tax-ndis/106598842"
+    },
+    {
+      "published_datetime": "2026-04-23T17:36:56.000000Z",
+      "title": "'Finfluencers' suspected of giving unlawful advice hit with warning notices",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1a4eae074fb4929cb2f96dc7ec919948?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The warning notice to the so-called \"finfluencers\" relates to suspected provision of unlicensed financial advice, including promoting claims of guaranteed returns.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/asic-finfluencer-social-media-crackdown/106597964"
+    },
+    {
       "published_datetime": "2026-04-23T19:54:24.000000Z",
-      "title": "Watchdog to audit US Department of Justice over Epstein files",
+      "title": "US watchdog announces Epstein files audit",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dde1455b230a87a996358f34224d6cda?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "The audit follows months of controversy over censorship, missed deadlines and the publication of survivors' details.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-24/more-epstein-files-released-by-us-department-of-justice/106600570"
+    },
+    {
+      "published_datetime": "2026-04-23T20:17:33.000000Z",
+      "title": "How Aussies near you are coping with the fuel crisis",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/984bd11781151e2bb38a37e0711074d3?impolicy=wcms_crop_resize&amp;cropH=2391&amp;cropW=4250&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Petrol prices are reshaping Australian life in ways big and small — from a grandmother's isolation to a farmer's future. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/fuel-price-increase-how-impact-australians/106586862"
     },
     {
       "published_datetime": "2026-04-23T18:15:39.000000Z",
@@ -62,33 +89,6 @@
       },
       "description": "The treasurer says changes to capital gains tax for foreign investors is a clarification, but experts say it could dampen investment.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-24/power-price-warning-over-proposed-changes-to-tax-laws/106587928"
-    },
-    {
-      "published_datetime": "2026-04-23T18:03:52.000000Z",
-      "title": "Charts explain why fertiliser prices aren't coming down anytime soon",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/248af4c2e63a81cff281bc528ec3f87f?impolicy=wcms_crop_resize&amp;cropH=2108&amp;cropW=3748&amp;xPos=0&amp;yPos=326&amp;width=862&amp;height=485"
-      },
-      "description": "Farmers around the world are going to be paying more for one of their most important inputs, fertiliser. Here are four charts that explain why.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/charts-paint-worrying-picture-global-fertiliser-prices/106590152"
-    },
-    {
-      "published_datetime": "2026-04-23T18:16:32.000000Z",
-      "title": "Australia's fuel supply: Where things stand and what we are watching",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/23740dd47980cb4c2b10cf1ef632dc85?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
-      },
-      "description": "The week's most important fuel news, analysis and pricing information. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/fuel-price-supply-explainer/106593698"
-    },
-    {
-      "published_datetime": "2026-04-23T18:03:05.000000Z",
-      "title": "Viva Energy boss says more refineries needed for secure fuel supply",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/348d2ae0e26e1629c9893387a5060408?impolicy=wcms_crop_resize&amp;cropH=2811&amp;cropW=4997&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Viva Energy refinery provides about 10 per cent of Australia's fuel. Its chief, Scott Wyatt, chats to Alan Kohler about the company's future in the wake of the Geelong fire.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/viva-energy-boss-tell-alan-kohler-need-more-oil-refineries-fuel/106596864"
     },
     {
       "published_datetime": "2026-04-23T18:13:47.000000Z",
@@ -118,13 +118,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-23/hannah-clarkes-parents-step-back-from-charity/106523718"
     },
     {
-      "published_datetime": "2026-04-23T18:55:41.000000Z",
-      "title": "Why China is recruiting fishermen to 'maintain presence' — not to fish",
+      "published_datetime": "2026-04-23T18:57:40.000000Z",
+      "title": "Which states get a public holiday for Anzac Day?",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/52516f0bcf42ce795216bf57966ebd03?impolicy=wcms_crop_resize&amp;cropH=536&amp;cropW=953&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/afef57f56e05de573a9ad47450ca3bf7?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=36&amp;width=862&amp;height=485"
       },
-      "description": "Off China's southern coast, hundreds of fishing boats sit idle. The crews aren't there to fish, but rather to \"maintain presence\" as part of a shadowy, state-funded fleet.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/south-china-sea-state-funded-fishing-boat-militia/106570054"
+      "description": "Anzac Day is observed on April 25 every year. This year that date falls on a Saturday, but that doesn't mean a long weekend for everyone. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/anzac-day-2026-public-holiday-australia-states/106583304"
     },
     {
       "published_datetime": "2026-04-23T18:30:00.000000Z",
@@ -136,13 +136,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-24/jane-fonda-importance-in-developing-fitness-industry/106535102"
     },
     {
-      "published_datetime": "2026-04-23T18:30:00.000000Z",
-      "title": "The advice Mackenzie Arnold gave her heir apparent, Chloe Lincoln",
+      "published_datetime": "2026-04-23T20:11:59.000000Z",
+      "title": "Figure skating teen makes history for Australia",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/97bbb4470850c405dee7559036ab4b41?impolicy=wcms_crop_resize&amp;cropH=1010&amp;cropW=1795&amp;xPos=321&amp;yPos=150&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/428cec57fbddff74b71f3f4212ee9714?impolicy=wcms_crop_resize&amp;cropH=1567&amp;cropW=2785&amp;xPos=0&amp;yPos=68&amp;width=862&amp;height=485"
       },
-      "description": "The A-League Women finals kick off this weekend, with Brisbane to make its first appearance in five years.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/brisbane-roar-chloe-lincoln-on-finding-her-voice/106595716"
+      "description": "At just 15, Hana Bath became the first Australian female to ever land a triple axel in competition. The rising star now has her eye on the 2030 Winter Olympics.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/figure-skating-teen-makes-history-for-australia/106559044"
     },
     {
       "published_datetime": "2026-04-23T18:30:00.000000Z",
@@ -166,7 +166,7 @@
       "published_datetime": "2026-04-23T19:17:59.000000Z",
       "title": "'They deserve death': Officer used police system to monitor wife",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c212ba27edc8396f8c45b3653e7dcaa5?impolicy=wcms_crop_resize&amp;cropH=784&amp;cropW=1393&amp;xPos=255&amp;yPos=143&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0d738cf94259cfbac2cd1c51e6bd205f?impolicy=wcms_crop_resize&amp;cropH=529&amp;cropW=940&amp;xPos=104&amp;yPos=104&amp;width=862&amp;height=485"
       },
       "description": "Text messages read in court set out how a Tasmania Police officer monitored his wife's movements, including via an internal dispatching system, as part of a 15-month family violence matter.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-24/tasmania-police-sergeant-used-internal-system-to-monitor-wife/106593204"
@@ -181,31 +181,40 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-24/the-legacy-of-sikh-soldiers-anzac-day/106593346"
     },
     {
-      "published_datetime": "2026-04-23T18:57:40.000000Z",
-      "title": "Which states get a public holiday for Anzac Day?",
+      "published_datetime": "2026-04-23T18:55:41.000000Z",
+      "title": "Why China is recruiting fishermen to 'maintain presence' — not to fish",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/afef57f56e05de573a9ad47450ca3bf7?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=36&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/52516f0bcf42ce795216bf57966ebd03?impolicy=wcms_crop_resize&amp;cropH=536&amp;cropW=953&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Anzac Day is observed on April 25 every year. This year that date falls on a Saturday, but that doesn't mean a long weekend for everyone. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/anzac-day-2026-public-holiday-australia-states/106583304"
+      "description": "Off China's southern coast, hundreds of fishing boats sit idle. The crews aren't there to fish, but rather to \"maintain presence\" as part of a shadowy, state-funded fleet.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/south-china-sea-state-funded-fishing-boat-militia/106570054"
     },
     {
-      "published_datetime": "2026-04-23T08:27:57.000000Z",
-      "title": "Documents reveal fresh details about Roberts-Smith’s overseas moving plans",
+      "published_datetime": "2026-04-23T18:03:52.000000Z",
+      "title": "Charts explain why fertiliser prices aren't coming down anytime soon",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ccadfa39d4375e16001ea003258fbcd6?impolicy=wcms_crop_resize&amp;cropH=663&amp;cropW=1179&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/248af4c2e63a81cff281bc528ec3f87f?impolicy=wcms_crop_resize&amp;cropH=2108&amp;cropW=3748&amp;xPos=0&amp;yPos=326&amp;width=862&amp;height=485"
       },
-      "description": "Police were concerned war veteran Ben Roberts-Smith was attempting to move overseas and possibly to Singapore or Spain, court documents reveal.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-23/nsw-ben-roberts-smith-overseas-move-fears/106598776"
+      "description": "Farmers around the world are going to be paying more for one of their most important inputs, fertiliser. Here are four charts that explain why.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/charts-paint-worrying-picture-global-fertiliser-prices/106590152"
     },
     {
-      "published_datetime": "2026-04-23T04:26:26.000000Z",
-      "title": "Genesis Owusu goes out of his way to connect with fans — and detractors",
+      "published_datetime": "2026-04-23T06:00:55.000000Z",
+      "title": "Sheraz risked his life translating in Afghanistan. His family paid the price",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d3f5af8662e63c4ba5e0cd45b80cef4f?impolicy=wcms_crop_resize&amp;cropH=1875&amp;cropW=3333&amp;xPos=0&amp;yPos=2303&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/afe1e017d8a397072483ac1598c02e60?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=247&amp;width=862&amp;height=485"
       },
-      "description": "Genesis Owusu today releases his new track Life Keeps Going from his upcoming third album Redstar Wu &amp; the Worldwide Scourge, as he encourages engagement with people who don't agree with his political views.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-23/genesis-owusu-releases-new-track-life-keeps-going/106593962"
+      "description": "Sheraz worked with Australian and US troops in Afghanistan, as a result his family were targeted by the Taliban. This Anzac Day he's being heroed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-23/sheraz-ahmadi-afghan-translator-australia-troops-anzac-day/106585112"
+    },
+    {
+      "published_datetime": "2026-04-23T18:30:00.000000Z",
+      "title": "The advice Mackenzie Arnold gave her heir apparent, Chloe Lincoln",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/97bbb4470850c405dee7559036ab4b41?impolicy=wcms_crop_resize&amp;cropH=1010&amp;cropW=1795&amp;xPos=321&amp;yPos=150&amp;width=862&amp;height=485"
+      },
+      "description": "The A-League Women finals kick off this weekend, with Brisbane to make its first appearance in five years.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/brisbane-roar-chloe-lincoln-on-finding-her-voice/106595716"
     },
     {
       "published_datetime": "2026-04-23T18:56:28.000000Z",
@@ -215,15 +224,6 @@
       },
       "description": "Having survived the threat of tornadoes during their US tour, the Wallaroos are enjoying a distraction-free build-up to their Anzac Day Test against New Zealand. ",
       "page_content_url": "https://www.abc.net.au/news/2026-04-24/rugby-union-wallaroos-australian-new-zealand-black-ferns/106599548"
-    },
-    {
-      "published_datetime": "2026-04-23T06:40:09.000000Z",
-      "title": "Curnow kicks a bag in big Swans win as Bulldogs star suffers horror fall",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/146d093b62b6669a917d868a18d898fb?impolicy=wcms_crop_resize&amp;cropH=1486&amp;cropW=2641&amp;xPos=0&amp;yPos=64&amp;width=862&amp;height=485"
-      },
-      "description": "Sydney's hold on top spot is strengthened by a 66-point win over the Western Bulldogs, whose injury woes continue.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-23/afl-round-7-bulldogs-swans-lance-collard-live-blog/106597474"
     }
   ]
 }
