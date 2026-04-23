@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-23T19:54:24.000000Z",
+      "title": "Watchdog to audit US Department of Justice over Epstein files",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dde1455b230a87a996358f34224d6cda?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The audit follows months of controversy over censorship, missed deadlines and the publication of survivors' details.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/more-epstein-files-released-by-us-department-of-justice/106600570"
+    },
+    {
       "published_datetime": "2026-04-23T18:16:32.000000Z",
       "title": "Australia's fuel supply: Where things stand and what we are watching",
       "featured_image": {
@@ -17,15 +26,6 @@
       },
       "description": "The treasurer says changes to capital gains tax for foreign investors is a clarification, but experts say it could dampen investment.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-24/power-price-warning-over-proposed-changes-to-tax-laws/106587928"
-    },
-    {
-      "published_datetime": "2026-04-23T18:13:47.000000Z",
-      "title": "'This is now terminal': UK braces for prospect of sixth PM in seven years",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cf5276918733d0e095ba977c4421cd8c?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
-      },
-      "description": "Sir Keir Starmer, who led Labour to a landslide general election victory in July 2024, has become so unpopular that even some colleagues are framing his demise as a case of not if, but when.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/uk-braces-for-prospect-of-sixth-pm-in-seven-years/106599990"
     },
     {
       "published_datetime": "2026-04-23T18:09:32.000000Z",
@@ -65,7 +65,7 @@
     },
     {
       "published_datetime": "2026-04-23T18:03:05.000000Z",
-      "title": "Viva boss tells Kohler more refineries needed for secure fuel supply",
+      "title": "Viva Energy boss says more refineries needed for secure fuel supply",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/348d2ae0e26e1629c9893387a5060408?impolicy=wcms_crop_resize&amp;cropH=2811&amp;cropW=4997&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-23T18:56:37.326434"
+  "merged_at": "2026-04-23T20:07:41.809212"
 }
