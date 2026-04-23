@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-23T21:43:38.000000Z",
+      "title": "Live: Oil prices spike again just as Australian fuel prices drop",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6871ec692ab78a7f74a484f9a9dff845?impolicy=wcms_crop_resize&amp;cropH=547&amp;cropW=973&amp;xPos=0&amp;yPos=82&amp;width=862&amp;height=485"
+      },
+      "description": "The price of unleaded petrol is back to just 10 cents a litre more than before the war, even as oil prices are spiking again on global markets. Follow the day's events and insights as they happen\u00a0with\u00a0our business reporters on the ABC News live markets blog.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/asx-markets-business-live-news-oil-hormuz-april-26/106600772"
+    },
+    {
       "published_datetime": "2026-04-23T21:06:31.000000Z",
       "title": "Live: Australia must 'get serious' about defence to be better ally to US, Hastie says",
       "featured_image": {
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-04-23T20:24:23.000000Z",
-      "title": "Iran daily briefing: Israel, Lebanon peace talks, Trump's 'shoot and kill' order",
+      "title": "What happened when I messaged the number threatening slain reporter",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3609aec22ae28d93a6b578aaa8508069?impolicy=wcms_crop_resize&amp;cropH=2350&amp;cropW=4177&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -26,15 +35,6 @@
       },
       "description": "Petrol prices are reshaping Australian life in ways big and small \u2014 from a grandmother's isolation to a farmer's future.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-24/fuel-price-increase-how-impact-australians/106586862"
-    },
-    {
-      "published_datetime": "2026-04-23T19:54:24.000000Z",
-      "title": "US watchdog announces Epstein files audit",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dde1455b230a87a996358f34224d6cda?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The audit follows months of controversy over censorship, missed deadlines and the publication of survivors' details.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/more-epstein-files-released-by-us-department-of-justice/106600570"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a979e3d9-672a-4450-967a-51bad6e335f8",
@@ -52,13 +52,13 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-23T18:15:39.000000Z",
-      "title": "Warnings of power price rises, missed renewable targets under proposed tax",
+      "published_datetime": "2026-04-23T18:13:47.000000Z",
+      "title": "'This is now terminal': UK braces for prospect of sixth PM in seven years",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/66eec6196ac1c28498067e5be6faab2f?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cf5276918733d0e095ba977c4421cd8c?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
       },
-      "description": "The treasurer says changes to capital gains tax for foreign investors is a clarification, but experts say it could dampen investment.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/power-price-warning-over-proposed-changes-to-tax-laws/106587928"
+      "description": "Sir Keir Starmer, who led Labour to a landslide general election victory in July 2024, has become so unpopular that even some colleagues are framing his demise as a case of not if, but when.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/uk-braces-for-prospect-of-sixth-pm-in-seven-years/106599990"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d542c20d-66e4-4338-9841-9131f26d02e7",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-23T21:56:22.011139"
+  "merged_at": "2026-04-23T22:35:59.542075"
 }
