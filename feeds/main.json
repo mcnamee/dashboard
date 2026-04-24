@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-24T18:16:11.000000Z",
+      "title": "Live: Witkoff and Kushner heading to Pakistan for talks with Iran, White House says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98c79ebb8d2f3b7c0ee811ffb66ccea7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-25/iran-war-live-updates-/106603020"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f33d47a3-f406-4508-bd0e-c52089cc811a",
       "published_datetime": "2026-04-24T16:24:48.428455",
       "title": "China moves to block US investment in top AI startups",
@@ -232,15 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-24/kyle-sandilands-jackie-o-federal-court-hearing/106600790"
     },
     {
-      "published_datetime": "2026-04-23T17:12:02.000000Z",
-      "title": "Hegseth 'not anxious for a deal', says US blockade on Iran 'going global' \u2014 as it happened",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e13ec455f56d1ee36a1998fe1d0bb148?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Pete Hegseth said the US was \"not anxious\" for a deal with Iran \u2014 as it happened.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/iran-war-live-updates-us-shoot-kill-hormuz/106598082"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-24T17:43:35.097286"
+  "merged_at": "2026-04-24T18:38:19.727551"
 }
