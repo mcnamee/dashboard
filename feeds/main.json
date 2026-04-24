@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-24T14:53:59.000000Z",
+      "title": "Netanyahu delayed revealing prostate cancer diagnosis due to Iran war",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b27254569056f78ce5c9e3dac11cf3f4?impolicy=wcms_crop_resize&amp;cropH=1276&amp;cropW=2268&amp;xPos=0&amp;yPos=448&amp;width=862&amp;height=485"
+      },
+      "description": "Benjamin Netanyahu said a malignant tumour was discovered during a routine check-up and he has since undergone \"targeted treatment\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-25/netanyahu-treated-for-prostate-cancer/106605028"
+    },
+    {
+      "published_datetime": "2026-04-24T14:10:45.000000Z",
+      "title": "Leaked Pentagon email shows US wants to punish NATO allies over Iran war",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f8a52ef4f824f83769c611924e76e1ac?impolicy=wcms_crop_resize&amp;cropH=1680&amp;cropW=2982&amp;xPos=0&amp;yPos=257&amp;width=862&amp;height=485"
+      },
+      "description": "The email suggests the US may review the UK's claim to the Falkland Islands and Spain's NATO membership as punishment over their stance on the Iran war.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-25/nato-falklands-spain/106604984"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/395e2981-5308-444c-b1fe-dc7ba8ed8ec1",
       "published_datetime": "2026-04-24T13:08:24.218160",
       "title": "Macron rejects US approach to Iran at EU summit",
@@ -38,15 +56,6 @@
       "audio_url": "",
       "url": "trump-orders-military-to-shoot-2Cd78674Qw._uopslvorWw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-24T08:44:00.000000Z",
-      "title": "Ruthless Demons notch big win as Richmond's winless season continues",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3f843b552461a94b98743178dc040141?impolicy=wcms_crop_resize&amp;cropH=1990&amp;cropW=3537&amp;xPos=0&amp;yPos=73&amp;width=862&amp;height=485"
-      },
-      "description": "Melbourne eases to a 54-point over Richmond at the MCG, as the hapless Tigers remain the competition's only side without a win in 2026. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/afl-round-seven-friday-richmond-melbourne-live-blog/106604112"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/532dc0e0-a224-4b43-8bcd-7af5b3946955",
@@ -178,15 +187,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-24/kyle-sandilands-jackie-o-federal-court-hearing/106600790"
     },
     {
-      "published_datetime": "2026-04-24T02:45:47.000000Z",
-      "title": "Perth woman warns about pedicure safety after severe infection",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ac2cda5cefe6c058b191a604cb2301d?impolicy=wcms_crop_resize&amp;cropH=851&amp;cropW=1512&amp;xPos=0&amp;yPos=235&amp;width=862&amp;height=485"
-      },
-      "description": "Kyla Willcox says she almost lost her toe from a potentially fatal infection after having a pedicure at a Perth nail salon.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/perth-woman-says-pedicure-suspected-in-foot-sepsis/106601978"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c3301c84-4176-451d-9e5d-bc94385eb322",
       "published_datetime": "2026-04-24T01:28:13.243401",
       "title": "Trump threatens UK with tariffs over digital services tax",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-24T15:01:35.780308"
+  "merged_at": "2026-04-24T16:45:15.443990"
 }
