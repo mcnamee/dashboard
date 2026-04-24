@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-24T00:56:32.000000Z",
+      "title": "Ben Roberts-Smith confirms Anzac Day plans",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/68349faf532c61a3e55e93c3bbcb11dd?impolicy=wcms_crop_resize&amp;cropH=2809&amp;cropW=4994&amp;xPos=1&amp;yPos=367&amp;width=862&amp;height=485"
+      },
+      "description": "Ben Roberts-Smith confirms he will be attending Anzac Day services tomorrow, saying he intends to pay his respects, one week on from his release on bail.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/ben-roberts-smith-anzac-day-commemorations/106601020"
+    },
+    {
+      "published_datetime": "2026-04-24T00:23:53.000000Z",
+      "title": "Pentagon awards $276m AUKUS contract funded by Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e02e4208ec0f1e2b63568c8168f35277?impolicy=wcms_crop_resize&amp;cropH=2751&amp;cropW=4890&amp;xPos=0&amp;yPos=509&amp;width=862&amp;height=485"
+      },
+      "description": "The US Department of Defense announces the first major submarine contract to deliver on the AUKUS security deal.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/us-navy-awards-contract-for-aukus-submarine-deal/106601042"
+    },
+    {
+      "published_datetime": "2026-04-23T23:32:17.000000Z",
+      "title": "Mapping the five other shipping routes critical for the global economy",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6c3155bbce7cc08c63f8a7a3f6aa21cd?impolicy=wcms_crop_resize&amp;cropH=563&amp;cropW=1000&amp;xPos=0&amp;yPos=52&amp;width=862&amp;height=485"
+      },
+      "description": "Oil prices have spiked since the Strait of Hormuz was closed. With about 90 per cent of all traded goods shipped by sea, what are the other key shipping lanes in the world?",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/mapping-the-most-critical-shipping-lanes-in-the-world/106567522"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/43568874-7a22-419f-94d7-60dca42478f6",
       "published_datetime": "2026-04-23T21:47:25.921028",
       "title": "Trump says Israel-Lebanon ceasefire extended three weeks",
@@ -16,13 +43,13 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-23T21:43:38.000000Z",
-      "title": "Live: Oil prices spike again just as Australian fuel prices drop",
+      "published_datetime": "2026-04-23T21:40:50.000000Z",
+      "title": "'Genuinely speechless': Appeal board's stunning claim in homophobia case",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6871ec692ab78a7f74a484f9a9dff845?impolicy=wcms_crop_resize&amp;cropH=547&amp;cropW=973&amp;xPos=0&amp;yPos=82&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40a2c2f8684232547344ddf30495b291?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=400&amp;width=862&amp;height=485"
       },
-      "description": "The price of unleaded petrol is back to just 10 cents a litre more than before the war, even as oil prices are spiking again on global markets. Follow the day's events and insights as they happen\u00a0with\u00a0our business reporters on the ABC News live markets blog.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/asx-markets-business-live-news-oil-hormuz-april-26/106600772"
+      "description": "The appeal board in the Lance Collard homophobia case says homophobic and racist language is commonplace in the AFL due to the \"highly competitive\" nature of the game.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-24/appeals-board-in-lance-collard-case-makes-stunning-claim/106600716"
     },
     {
       "published_datetime": "2026-04-23T21:06:31.000000Z",
@@ -43,19 +70,10 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-24/iran-daily-briefing-april-24/106582870"
     },
     {
-      "published_datetime": "2026-04-23T20:17:33.000000Z",
-      "title": "How Aussies near you are coping with the fuel crisis",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/984bd11781151e2bb38a37e0711074d3?impolicy=wcms_crop_resize&amp;cropH=2391&amp;cropW=4250&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Petrol prices are reshaping Australian life in ways big and small \u2014 from a grandmother's isolation to a farmer's future.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/fuel-price-increase-how-impact-australians/106586862"
-    },
-    {
       "published_datetime": "2026-04-23T19:17:59.000000Z",
       "title": "'They deserve death': Officer used dispatch system to monitor police wife",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0d738cf94259cfbac2cd1c51e6bd205f?impolicy=wcms_crop_resize&amp;cropH=529&amp;cropW=940&amp;xPos=104&amp;yPos=104&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e5c16501ec6c7ff2c7e176f6a4c6158?impolicy=wcms_crop_resize&amp;cropH=477&amp;cropW=848&amp;xPos=0&amp;yPos=332&amp;width=862&amp;height=485"
       },
       "description": "Text messages read in court set out how a Tasmania Police officer monitored his wife's movements, including via an internal dispatching system, as part of a 15-month family violence matter.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-24/tasmania-police-sergeant-used-internal-system-to-monitor-wife/106593204"
@@ -76,15 +94,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-23T18:13:47.000000Z",
-      "title": "'This is now terminal': UK braces for prospect of sixth PM in seven years",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cf5276918733d0e095ba977c4421cd8c?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
-      },
-      "description": "Sir Keir Starmer, who led Labour to a landslide general election victory in July 2024, has become so unpopular that even some colleagues are framing his demise as a case of not if, but when.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/uk-braces-for-prospect-of-sixth-pm-in-seven-years/106599990"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d542c20d-66e4-4338-9841-9131f26d02e7",
       "published_datetime": "2026-04-23T18:09:34.193324",
       "title": "Meta to cut 8,000 jobs starting May 20, more layoffs planned for 2026",
@@ -101,7 +110,7 @@
     },
     {
       "published_datetime": "2026-04-23T18:09:32.000000Z",
-      "title": "Politically, baby boomers' day has come",
+      "title": "Baby boomers beware: Labor is reading the room on generational inequity",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/92bdf313f21d28a06288c45afbf99399?impolicy=wcms_crop_resize&amp;cropH=2815&amp;cropW=5005&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -110,21 +119,12 @@
     },
     {
       "published_datetime": "2026-04-23T18:08:16.000000Z",
-      "title": "Plan to end NDIS 'wild west' will flip rules on their head for providers",
+      "title": "End to 'let it rip' NDIS provider spending and claims submitted 'on serviettes'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28a24e9b5f510e694b60f07ea07cb582?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=111&amp;width=862&amp;height=485"
       },
       "description": "NDIS Minister Mark Butler will end the practice of handwritten invoices, providers without qualifications and a \"let it rip\" market of profiteering operators. But the sector warns changes must be navigated carefully.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-24/ndis-provider-fraud-crackdown-rules/106595902"
-    },
-    {
-      "published_datetime": "2026-04-23T18:06:45.000000Z",
-      "title": "'Why get up if you have nowhere to go?': NDIS participants slam cuts",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6c5ec26fee43ac54ed2ff76bd7be6d13?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "NDIS participants set up their lives around the scheme's rules. But now the rules are changing and they fear what lies ahead.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-24/ndis-participants-community-support-fears-government-changes/106596958"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ee7af234-9325-4154-ab18-7127af01898f",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-23T23:36:55.677534"
+  "merged_at": "2026-04-24T01:49:42.576783"
 }
