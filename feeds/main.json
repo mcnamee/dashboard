@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/395e2981-5308-444c-b1fe-dc7ba8ed8ec1",
+      "published_datetime": "2026-04-24T13:08:24.218160",
+      "title": "Macron rejects US approach to Iran at EU summit",
+      "featured_image": {
+        "url": "https://www.reuters.com/world/middle-east/frances-macron-says-iran-responsible-destabilising-region-2025-06-13/",
+        "name": "France's Macron says Iran responsible for destabilising region ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--OvvBqchr--/t_limit/https://www.reuters.com/resizer/v2/3B7YIJOX7VOKVBNRKC7DXB4JXQ.jpg%3Fauth%3De84fe6539718b6e901e7282f3aab825268fc05d31c934c6d3f57616140ce300d%26width%3D1920%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--mnbXhqOF--/t_thumbnail/https://www.reuters.com/resizer/v2/3B7YIJOX7VOKVBNRKC7DXB4JXQ.jpg%3Fauth%3De84fe6539718b6e901e7282f3aab825268fc05d31c934c6d3f57616140ce300d%26width%3D1920%26quality%3D80"
+      },
+      "description": "French President Emmanuel Macron called for a swift return to stability in the Middle East and publicly rejected Washington's approach toward Iran, declaring that negotiations must be \"systematic\" and rooted in diplomacy rather than military pressure or economic coercion. Speaking on Thursday at the informal EU summit in Ayia Napa, Cyprus, Macron warned that the spillover from the US-Israel war on Iran is unsettling the global economy.[1][2]\n\n\"It is in everyone's interest for stability to return as soon as possible and for the world's economies to be reassured,\" Macron said, according to Al Jazeera. He added: \"Dialogue with Iran must be carried out in a systematic manner, not through targeted blockades or similar measures\".[2]",
+      "audio_url": "",
+      "url": "macron-rejects-us-approach-to-je4AOPscThSNz5zYLZUSnA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-24T12:59:02.000000Z",
       "title": "Australian 'ISIS brides' leave camp in Syria months after failed attempt",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a979e3d9-672a-4450-967a-51bad6e335f8",
-      "published_datetime": "2026-04-23T18:44:29.612691",
-      "title": "Nuclear power surges worldwide as Chernobyl's 40th anniversary approaches",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/the-international-thermonuclear-experimental-reactor-model-news-photo/2272071490",
-        "name": "2026 China International Nuclear Industry Exhibition",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1776969592/getty_uploads/2272071490_c9qtmr.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1776969592/getty_uploads/2272071490_c9qtmr.jpg"
-      },
-      "description": "As the world prepares to mark the 40th anniversary of the Chernobyl disaster on April 26, nuclear energy is experiencing a resurgence that would have seemed unthinkable in the decades following the catastrophic 1986 explosion. More than 400 nuclear reactors now operate across 31 countries, with roughly 70 more under construction, and a growing coalition of nations has pledged to triple nuclear capacity by 2050.[1][2]",
-      "audio_url": "",
-      "url": "nuclear-power-surges-worldwide-wqpkLVz_SzWumdNHkLTGrg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-04-23T17:12:02.000000Z",
       "title": "Live: Israel and Hezbollah exchange strikes as Trump announces ceasefire extension",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-24T13:16:58.681441"
+  "merged_at": "2026-04-24T13:53:23.641844"
 }
