@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-25T20:00:49.000000Z",
+      "title": "Footballer returns to field after 15 days in induced coma",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8c9c27acf5eca2ee931e68897745c66e?impolicy=wcms_crop_resize&amp;cropH=726&amp;cropW=1290&amp;xPos=0&amp;yPos=825&amp;width=862&amp;height=485"
+      },
+      "description": "A Gippsland footballer who spent 15 days in an induced coma after contracting a rare nerve condition has made a remarkable return to the field.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-26/jaxsyn-whitehill-footy-player-recovery-gippsland-coma/106592308"
+    },
+    {
       "published_datetime": "2026-04-25T19:25:05.000000Z",
       "title": "Live: Trump says US envoys waste too much time travelling, cancels Pakistan peace trip",
       "featured_image": {
@@ -26,15 +35,6 @@
       },
       "description": "Labor's radical transformation of the NDIS as it resists a growing chorus of support for a new gas tax exposes the limit of its willingness to act when given a social licence.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-26/ndis-reform-labor-albanese-government-gas-tax-social-licence/106585264"
-    },
-    {
-      "published_datetime": "2026-04-25T19:00:00.000000Z",
-      "title": "Blake turned his grief into growth after losing 'hero' dad to suicide",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c3a4703720885d82ad4afaf4a4ea933b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "It's normal to feel distress when you go through trauma. But some people also experience personal growth to make positive changes in their lives.",
-      "page_content_url": "https://www.abc.net.au/news/health/2026-04-26/surf-coach-blake-johnston-turns-grief-into-post-traumatic-growth/106421100"
     },
     {
       "published_datetime": "2026-04-25T18:58:49.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-25T19:38:28.565095"
+  "merged_at": "2026-04-25T20:29:31.352948"
 }
