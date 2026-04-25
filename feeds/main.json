@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-25T09:00:09.000000Z",
+      "title": "Live: Wallaroos face Black Ferns in historic Anzac Day Test",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/19d9d9c0af6a33aed55bf502955f1747?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=355&amp;width=862&amp;height=485"
+      },
+      "description": "The Wallaroos and Black Ferns meet in a Test match on Anzac Day for the first time, as the Australians chase an upset victory on the Sunshine Coast. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-25/anzac-day-test-wallaroos-black-ferns-australia-new-zealand-live/106606480"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/3a1342db-1fa3-4743-b2e2-2f32748e5c94",
       "published_datetime": "2026-04-25T08:27:13.921194",
       "title": "Iran rules out direct talks as U.S. envoys head to Pakistan",
@@ -82,15 +91,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-25/afl-sacks-appeals-board-chair-after-lance-collard-case/106606332"
     },
     {
-      "published_datetime": "2026-04-25T02:55:18.000000Z",
-      "title": "What Anzac Day means to those who have served Australia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/204e1dd70984eea7095048e5d2df0a44?impolicy=wcms_crop_resize&amp;cropH=1440&amp;cropW=2560&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Australians taking part in Anzac Day commemorations share stories of sacrifice and bravery, and what today means to them.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-25/nt-anzac-day-big-picture-australians/106603252"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/795f2141-63fc-469f-807f-cd852d85ff62",
       "published_datetime": "2026-04-25T02:35:53.626505",
       "title": "Dutch scientists propose Bering Strait dam to stabilize Atlantic currents",
@@ -107,11 +107,11 @@
     },
     {
       "published_datetime": "2026-04-25T02:12:35.000000Z",
-      "title": "Live: Ageless Pendlebury produces career-high game as Magpies smash Dons",
+      "title": "Live: Hollands a late out as embattled Blues face Freo and Power tackle Cats",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2888bd0310b0dfb9fa90cf79f8177ba1?impolicy=wcms_crop_resize&amp;cropH=1376&amp;cropW=2447&amp;xPos=0&amp;yPos=106&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/87b96d2fefd058eb6b9454599aec98d5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
       },
-      "description": "Collingwood demolishes Essendon in the traditional Anzac Day game as Scott Pendlebury winds back the clock. Follow live.",
+      "description": "Ollie Hollands is a late out for Carlton against Fremantle after a difficult week for his family, while Port Adelaide hunts an upset at home to Geelong. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-25/afl-round-seven-live-blog-haw-gc-ess-coll-pa-gee-freo-carl/106604198"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-25T09:02:21.555199"
+  "merged_at": "2026-04-25T09:55:31.528954"
 }
