@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/eac075c3-0ac4-46b9-89ff-91af9a1069cb",
+      "published_datetime": "2026-04-25T16:20:51.225406",
+      "title": "U.S. envoys head to Pakistan as Iran refuses direct talks",
+      "featured_image": {
+        "url": "https://jang.com.pk/en/64369-white-house-confirms-steve-witkoff-jared-kushner-pakistan-trip-for-iran-talks-news",
+        "name": "White House confirms Steve Witkoff, Jared Kushner Pakistan trip for Iran  talks",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--VBqM-piQ--/t_limit/https://jang.com.pk/assets/uploads/updates/2026-04-24/64369_6154845_9-%283%29_updates.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--RpLTc27L--/t_thumbnail/https://jang.com.pk/assets/uploads/updates/2026-04-24/64369_6154845_9-%283%29_updates.jpg"
+      },
+      "description": "U.S. special envoy Steve Witkoff and Jared Kushner are headed to Islamabad on Saturday for what the White House has called a second round of peace talks with Iran, even as Tehran insists it will not engage in direct negotiations with American officials.[1][2][3]\n\nIranian Foreign Minister Abbas Araghchi arrived in the Pakistani capital on Friday evening and on Saturday met with Pakistan's army chief, Field Marshal Asim Munir, and Prime Minister Shehbaz Sharif. But Iran's foreign ministry spokesperson Esmail Baqaei said Araghchi's discussions would be limited to \"high-ranking Pakistani officials,\" with Iran's positions conveyed to the U.S. side through Pakistani mediators.[4][2][5][6][7]",
+      "audio_url": "",
+      "url": "u-s-envoys-head-to-pakistan-as-qDLBylM6T.W.AeTXU3XO1g",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/97450a30-c62b-4e93-a9c1-d19456c24ed6",
       "published_datetime": "2026-04-25T15:41:37.740251",
       "title": "Traders warn Hormuz oil shock is about to crash global demand",
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/355fc169-c23b-4a30-b812-d255472e40ab",
-      "published_datetime": "2026-04-24T19:29:42.303928",
-      "title": "EU and US agree to accelerate steel tariff talks",
-      "featured_image": {
-        "url": "https://www.eunews.it/en/2025/07/03/tariffs-sefcovic-in-washington-to-close-deal-eu-aims-at-a-10-per-cent-flat-tariff/",
-        "name": "Tariffs, \u0160ef\u010dovi\u010d in Washington to close deal. EU aims at a 10 per cent  \"flat\" tariff",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--c9hyRK2b--/t_limit/https://www.eunews.it/wp-content/uploads/2025/05/293097b3-df7d-450a-8fc0-e1d49a304593-scaled.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--1D1iXUu3--/t_thumbnail/https://www.eunews.it/wp-content/uploads/2025/05/293097b3-df7d-450a-8fc0-e1d49a304593-scaled.jpg"
-      },
-      "description": "EU Trade Commissioner Maro\u0161 \u0160ef\u010dovi\u010d and US Commerce Secretary Howard Lutnick have agreed to speed up negotiations over transatlantic steel and aluminum trade, following high-level meetings in Washington this week aimed at breaking a long-standing deadlock over 50% US tariffs on European metals.[1][2]\n\n\u0160ef\u010dovi\u010d proposed that both sides return to the concept of \"ringfencing\" their steel sectors and trading on \"very favorable terms,\" according to statements relayed through financial news wires on Thursday. The meetings, held April 22-24, marked \u0160ef\u010dovi\u010d's first visit to Washington since the EU-US trade agreement was concluded in July 2025.[3][4][5][6]",
-      "audio_url": "",
-      "url": "eu-and-us-agree-to-accelerate-0ftuD41yQ6WooPRGlydbBw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-04-24T18:58:28.000000Z",
       "title": "From arrests to resignations, the Epstein fallout one year on from Virginia Giuffre's death",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-25T16:31:54.917556"
+  "merged_at": "2026-04-25T17:31:22.461525"
 }
