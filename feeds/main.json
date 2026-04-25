@@ -2,7 +2,7 @@
   "items": [
     {
       "published_datetime": "2026-04-25T22:04:40.000000Z",
-      "title": "Walter lost his wife and daughters at Port Arthur. Thirty years on, this is his message",
+      "title": "Walter Mikac lost his wife and daughters at Port Arthur. Thirty years on, this is his message",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/55a5e7c793f83c62a984711e5a0cd44b?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -91,15 +91,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-26/ken-henry-tells-inquiry-to-tax-australia-gas-industry-more/106591686"
     },
     {
-      "published_datetime": "2026-04-25T18:57:28.000000Z",
-      "title": "Sex workers speak out about being caught in the middle of PNG's HIV crisis",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3308656fed93f6817c900ce83bc79ac3?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Workers have told the ABC about the battle to stay safe as the Pacific nation battles a rising number of infections.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-26/sex-workers-speak-out-about-hiv-crisis-in-png/106592882"
-    },
-    {
       "published_datetime": "2026-04-25T18:54:13.000000Z",
       "title": "A narco-sub washed up near their village. Inside was a troubling clue to its origins",
       "featured_image": {
@@ -149,6 +140,15 @@
       },
       "description": "Nuclear meltdown in 1986 reshaped ecosystems and human lives. Four decades on the legacy of the Chernobyl disaster is still unfolding.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-26/chernobyl-40-nuclear-explosion-power-plant-nature-survives/106588662"
+    },
+    {
+      "published_datetime": "2026-04-25T18:30:00.000000Z",
+      "title": "There's no autocorrect here. It's quiz time",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b6b1f75a350e4f4a551e7b25bed05139?impolicy=wcms_crop_resize&amp;cropH=1209&amp;cropW=2150&amp;xPos=0&amp;yPos=145&amp;width=862&amp;height=485"
+      },
+      "description": "Delighted by diagraphs or hyped for homophones? Step inside and showcase your spelling skills.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-26/guy-montgomery-spelling-bee-quiz/106593668"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/320a019e-5bca-4923-a8dc-fdf006a50f62",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-25T22:26:43.359615"
+  "merged_at": "2026-04-25T23:29:32.698029"
 }
