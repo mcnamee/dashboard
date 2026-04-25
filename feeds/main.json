@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-25T14:33:03.000000Z",
+      "title": "US envoys set to arrive in Pakistan, but direct meeting with Iran is unclear",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c141eae968f37d3e660d21472dc920da?impolicy=wcms_crop_resize&amp;cropH=1259&amp;cropW=2239&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Representatives for Iran are already in Islamabad, with US representatives Steve Witkoff and Jared Kushner set to arrive. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-26/us-envoys-pakistan-new-peace-talks-with-iran/106606882"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c6fb029a-f412-411c-a73c-fbae55613d0f",
       "published_datetime": "2026-04-25T12:25:07.774651",
       "title": "IEA chief says oil crisis has permanently broken fossil fuel industry",
@@ -137,15 +146,6 @@
       },
       "description": "Mason Cox gets in the face of Ben Ainsworth after kicking a fourth-quarter goal, resulting in some fireworks as Fremantle wins its sixth consecutive match.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-25/afl-round-seven-live-blog-haw-gc-ess-coll-pa-gee-freo-carl/106604198"
-    },
-    {
-      "published_datetime": "2026-04-25T02:00:49.000000Z",
-      "title": "Third US aircraft enters waters near Iran carrying thousands more troops",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f993212e4a80c85b48eaa8aef6f22219?impolicy=wcms_crop_resize&amp;cropH=1524&amp;cropW=2710&amp;xPos=0&amp;yPos=283&amp;width=862&amp;height=485"
-      },
-      "description": "USS George HW Bush has arrived in the Middle East, bringing thousands more American troops and advanced fighter jets to the region.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-25/uss-george-hw-bush-arrives-middle-east-military-assets-boost/106601060"
     },
     {
       "published_datetime": "2026-04-25T01:37:29.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-25T14:40:46.393485"
+  "merged_at": "2026-04-25T15:33:21.855889"
 }
