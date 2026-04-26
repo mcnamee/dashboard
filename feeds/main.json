@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-26T13:51:38.000000Z",
+      "title": "Israel demands residents evacuate villages in southern Lebanon",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ff964ea5746a64313c9f0fd818c360c?impolicy=wcms_crop_resize&amp;cropH=2346&amp;cropW=4170&amp;xPos=0&amp;yPos=217&amp;width=862&amp;height=485"
+      },
+      "description": "Israeli forces have demanded residents in seven villages north of Lebanon's Litani River to evacuate.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-26/israel-strikes-villages-in-lebanon-demands-residents-to-leave/106609282"
+    },
+    {
       "published_datetime": "2026-04-26T12:34:13.000000Z",
       "title": "Australia to sell fleet of Bushmaster armoured vehicles to the Dutch",
       "featured_image": {
@@ -82,15 +91,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-26/donald-trump-evacuated-during-shooting-in-washington-explained/106608156"
     },
     {
-      "published_datetime": "2026-04-26T05:41:06.000000Z",
-      "title": "'Suddenly there was shouting going on': What I saw when shooting broke out",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4f459eb55d983d5b7b4ae6c7fabc5e70?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The ABC Americas editor was inside the ballroom in Washington DC when the drama unfolded as a shooting suspect was stopped by the Secret Service.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-26/trump-shooting-correspondent-dinner-washington/106608106"
-    },
-    {
       "published_datetime": "2026-04-26T03:27:37.000000Z",
       "title": "Manly's revival continues as Foran sets record, Panthers down Knights",
       "featured_image": {
@@ -139,13 +139,13 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-26T00:56:26.000000Z",
-      "title": "Live: Donald Trump unhurt, secret service agent wounded after shots fired at White House correspondents' dinner",
+      "published_datetime": "2026-04-26T00:49:57.000000Z",
+      "title": "Trump unhurt, secret service agent wounded after shots fired at White House correspondents' dinner",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d47dd375dba915c02e4f856de7966e95?impolicy=wcms_crop_resize&amp;cropH=2131&amp;cropW=3789&amp;xPos=0&amp;yPos=1076&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/edb82b71917acc198bbae15e6e044fe0?impolicy=wcms_crop_resize&amp;cropH=557&amp;cropW=990&amp;xPos=180&amp;yPos=26&amp;width=862&amp;height=485"
       },
-      "description": "A man armed \u200cwith multiple weapons \u200chas been taken into custody after charging a \u200csecurity checkpoint at the White \u200cHouse Correspondents' \u200cDinner in Washington DC, \u200cwounding a \u200claw \u200cenforcement officer. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-26/trump-says-shooting-suspect-was-armed-with-multiple-weapons/106607720"
+      "description": "US President Donald Trump is evacuated from the White House Correspondents' Dinner after a security incident.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-26/donald-trump-evacuated-from-white-house-correspondents-dinner/106607710"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/da8d3aa2-c5c9-4579-9d96-243e18152b01",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-26T13:59:50.441996"
+  "merged_at": "2026-04-26T14:48:46.364289"
 }
