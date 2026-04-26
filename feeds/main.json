@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-26T17:58:12.000000Z",
+      "title": "Sixteen dead in strikes as Ukraine marks 40 years since Chernobyl",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2fc15f7883dd31c7e5ebc7d26bfc687d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Marking the anniversary, Volodymyr Zelenskyy warns that Russia is using \"nuclear terrorism\" as a weapon of war.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-27/ukraine-chernobyl-40-years-russia-war-invasion/106609718"
+    },
+    {
       "published_datetime": "2026-04-26T13:51:38.000000Z",
       "title": "Israel demands residents evacuate villages in southern Lebanon",
       "featured_image": {
@@ -8,15 +17,6 @@
       },
       "description": "Israeli forces have demanded residents in seven villages north of Lebanon's Litani River to evacuate.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-26/israel-strikes-villages-in-lebanon-demands-residents-to-leave/106609282"
-    },
-    {
-      "published_datetime": "2026-04-26T12:34:13.000000Z",
-      "title": "Australia to sell fleet of Bushmaster armoured vehicles to the Dutch",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a44f99891fa4936036d8a1f79f463329?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=3840&amp;xPos=0&amp;yPos=265&amp;width=862&amp;height=485"
-      },
-      "description": "Australian Bushmaster armoured vehicles are being sent to the Netherlands following a request to Australia by the Dutch government.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-26/netherlands-buys-bushmaster-fleet-australia-commits-to-more/106608000"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cece369a-be4e-4e5b-9a5c-44aad5125679",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-26T17:48:22.189701"
+  "merged_at": "2026-04-26T18:38:35.402187"
 }
