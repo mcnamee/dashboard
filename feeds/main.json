@@ -1,12 +1,39 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-26T20:29:48.000000Z",
+      "title": "The Istanbul hideout: Secret files expose Australia's underworld empire offshore",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1ed8fdf05a1cffac9f56eb023299be25?impolicy=wcms_crop_resize&amp;cropH=745&amp;cropW=1324&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Istanbul was once the hideout of choice for Australian crooks. Now a Sydney gangster's legal challenge has revealed how it all unravelled for the \"Aussie Cartel\".\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-27/masood-zakaria-turkiye-extradition-secret-file/106473020"
+    },
+    {
+      "published_datetime": "2026-04-26T20:19:00.000000Z",
+      "title": "A fascinating admission reveals truth beneath the chest beating in this war",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3609aec22ae28d93a6b578aaa8508069?impolicy=wcms_crop_resize&amp;cropH=2350&amp;cropW=4177&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "It's a ceasefire in name only between Israel and its targets in Lebanon, as the wait continues for more talks between the US and Iran.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-27/iran-israel-war-news-briefing/106602790"
+    },
+    {
+      "published_datetime": "2026-04-26T19:25:08.000000Z",
+      "title": "More families are sleeping in cars. But they're not the highest housing priority",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e24ede5a7fd0a022dd4d1a9874a1312?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=130&amp;width=862&amp;height=485"
+      },
+      "description": "An analysis of 12 months of urgent housing and homelessness attendances in Tasmania has shown an alarming spike in people with dependent children needing help \u2014 while overcrowding is an increasing concern.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-27/families-in-homelessness-and-overcrowding-anglicare-report/106600682"
+    },
+    {
       "published_datetime": "2026-04-26T19:10:17.000000Z",
-      "title": "Trump says shooter's 'manifesto' shows he was a 'sick guy'",
+      "title": "Trump says shooter's 'manifesto' shows he is a 'sick guy'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/edb82b71917acc198bbae15e6e044fe0?impolicy=wcms_crop_resize&amp;cropH=557&amp;cropW=990&amp;xPos=180&amp;yPos=26&amp;width=862&amp;height=485"
       },
-      "description": "Several US media outlets are reporting on the existence of the manifesto, which reportedly states the shooter wanted to target administration officials, and was sent to the suspect's family members just before the attack.\u00a0",
+      "description": "Several US media outlets are reporting on the existence of the manifesto, which reportedly states the shooter wanted to target administration officials and was sent to the suspect's family members just before the attack.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-27/donald-trump-white-house-correspondents-dinner-shooter-manifesto/106609766"
     },
     {
@@ -28,15 +55,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-27/wild-west-of-rewards-clubs-operating-on-fringe-of-regulation/106577042"
     },
     {
-      "published_datetime": "2026-04-26T18:44:40.000000Z",
-      "title": "China's 'quirky' fix for property crisis rewards marathon runners",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d654c98cea933808deabfc465384492a?impolicy=wcms_crop_resize&amp;cropH=253&amp;cropW=450&amp;xPos=0&amp;yPos=55&amp;width=862&amp;height=485"
-      },
-      "description": "Local governments in China are offering marathon runners, AI experts and tennis players subsidies to purchase unwanted properties amid a lingering real estate downturn.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-27/chinese-marathon-runners-offered-subsidies-buy-property/106597978"
-    },
-    {
       "published_datetime": "2026-04-26T18:40:25.000000Z",
       "title": "Live: Trump likely target of shooting at correspondents' dinner, top US official says",
       "featured_image": {
@@ -44,15 +62,6 @@
       },
       "description": "US Acting Attorney-General Todd Blanche says the shooter apprehended at the White House correspondents' dinner was likely targeting Donald Trump. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-27/trump-target-white-house-shooting/106609722"
-    },
-    {
-      "published_datetime": "2026-04-26T18:40:04.000000Z",
-      "title": "US allies turning to Japan for defence supplies as Iran War drags on",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1a40e0c4e2dfbb73107e1df8916efd4c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Australia's multi-billion-dollar deal with Japan for its future warships could set a template that will help Tokyo rapidly expand defence exports across Asia.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-27/us-allies-turn-to-japan-defence-supplies-as-iran-war-drags-on/106607656"
     },
     {
       "published_datetime": "2026-04-26T18:36:58.000000Z",
@@ -65,7 +74,7 @@
     },
     {
       "published_datetime": "2026-04-26T18:30:00.000000Z",
-      "title": "Treasury's impossible task: Prepare a budget as oil shock unfolds",
+      "title": "An oil shock, a federal budget and the recession we may have to have",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c1c7302a6849b1174a8dbbe44b7bfe01?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -74,7 +83,7 @@
     },
     {
       "published_datetime": "2026-04-26T18:30:00.000000Z",
-      "title": "Trump is political kryptonite in Australia, but Albanese must walk the line",
+      "title": "Trump turmoil is political kryptonite in Australia",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2cd5232e088ec6df609efda27359fb75?impolicy=wcms_crop_resize&amp;cropH=366&amp;cropW=651&amp;xPos=0&amp;yPos=38&amp;width=862&amp;height=485"
       },
@@ -95,15 +104,6 @@
       "audio_url": "",
       "url": "trump-pulls-envoys-from-pakist-vgQaJNATRLie8kPrZJ4fWg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-26T13:51:38.000000Z",
-      "title": "Israel demands residents evacuate villages in southern Lebanon",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ff964ea5746a64313c9f0fd818c360c?impolicy=wcms_crop_resize&amp;cropH=2346&amp;cropW=4170&amp;xPos=0&amp;yPos=217&amp;width=862&amp;height=485"
-      },
-      "description": "Israeli forces have demanded residents in seven villages north of Lebanon's Litani River to evacuate.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-26/israel-strikes-villages-in-lebanon-demands-residents-to-leave/106609282"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cece369a-be4e-4e5b-9a5c-44aad5125679",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-26T20:29:06.509669"
+  "merged_at": "2026-04-26T21:29:56.132610"
 }
