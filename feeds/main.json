@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e16cd0fe-d9f0-4c6b-83b3-b2d632a8f8ec",
+      "published_datetime": "2026-04-26T16:26:47.570729",
+      "title": "Trump pulls envoys from Pakistan trip for Iran talks",
+      "featured_image": {
+        "url": "https://time.com/article/2026/04/25/trump-iran-peace-talks-canceled/",
+        "name": "Trump Cancels Iran Peace Talks at Last Minute - Time Magazine",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--fG70zslF--/t_limit/https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt2ed1919124d182a2/69ed1a49fd89ad27847d7d09/GettyImages-2272492368.jpg%3Fbranch%3Dproduction%26width%3D2400%26quality%3D75%26auto%3Dwebp%26crop%3D16%253A9",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s---y_uf1nB--/t_thumbnail/https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt2ed1919124d182a2/69ed1a49fd89ad27847d7d09/GettyImages-2272492368.jpg%3Fbranch%3Dproduction%26width%3D2400%26quality%3D75%26auto%3Dwebp%26crop%3D16%253A9"
+      },
+      "description": "President Donald Trump on Saturday abruptly called off a planned trip by his top negotiators to Islamabad for peace talks with Iran, deepening uncertainty over diplomatic efforts to end a conflict now in its third month. The Strait of Hormuz remains effectively closed, with mine-clearing operations expected to stretch on for months and the United Nations warning of a looming global hunger crisis.",
+      "audio_url": "",
+      "url": "trump-pulls-envoys-from-pakist-vgQaJNATRLie8kPrZJ4fWg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-26T13:51:38.000000Z",
       "title": "Israel demands residents evacuate villages in southern Lebanon",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/508c4dce-5904-47ee-9e5b-eb13e6eb79d3",
-      "published_datetime": "2026-04-25T19:57:31.374923",
-      "title": "Chernobyl anniversary marked as IAEA warns damaged shield needs repair",
-      "featured_image": {
-        "url": "https://www.euronews.com/2026/04/14/chernobyl-could-face-catastrophic-collapse-as-repairs-stall-following-russian-drone-strike",
-        "name": "Chernobyl could face 'catastrophic' collapse as repairs stall following  Russian drone strike | Euronews",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1777146783/url_uploads/808x539_cmsv2_3dbe245b-f0ca-5558-952f-1c8d239f3fb5-9720958_z7zzy1.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1777146783/url_uploads/808x539_cmsv2_3dbe245b-f0ca-5558-952f-1c8d239f3fb5-9720958_z7zzy1.jpg"
-      },
-      "description": "As Ukraine marks the 40th anniversary of the Chernobyl disaster on Sunday, the legacy of a Russian drone strike on the facility's protective shield continues to fuel fears of a new nuclear crisis in the heart of Europe.\n\nOn February 14, 2025, an Iranian-designed Shahed 136 drone struck the New Safe Confinement (NSC), the $2.1 billion steel arch built to seal radioactive remnants of Reactor No. 4, tearing a six-meter-wide hole in the structure and igniting fires in its insulation layers. Ukrainian President Volodymyr Zelenskyy said the drone carried a \"high-explosive warhead\" and accused Russia of a deliberate attack. Russia denied the allegations, claiming Ukraine fabricated the incident to disrupt peace negotiations.[1][2][3]",
-      "audio_url": "",
-      "url": "chernobyl-anniversary-marked-a-paAUE1ixS3aajkc2NOJUhg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-04-25T18:54:13.000000Z",
       "title": "A narco-sub washed up near their village. Inside was a troubling clue to its origins",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-26T16:33:00.382416"
+  "merged_at": "2026-04-26T17:31:43.031216"
 }
