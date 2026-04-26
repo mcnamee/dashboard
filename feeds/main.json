@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-26T12:34:13.000000Z",
+      "title": "Australia to sell fleet of Bushmaster armoured vehicles to the Dutch",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a44f99891fa4936036d8a1f79f463329?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=3840&amp;xPos=0&amp;yPos=265&amp;width=862&amp;height=485"
+      },
+      "description": "Australian Bushmaster armoured vehicles are being sent to the Netherlands following a request to Australia by the Dutch government.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-26/netherlands-buys-bushmaster-fleet-australia-commits-to-more/106608000"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/cece369a-be4e-4e5b-9a5c-44aad5125679",
       "published_datetime": "2026-04-26T08:39:26.234919",
       "title": "Chile's dark skies remain at risk despite energy project cancellation, scientists warn",
@@ -80,15 +89,6 @@
       },
       "description": "The ABC Americas editor was inside the ballroom in Washington DC when the drama unfolded as a shooting suspect was stopped by the Secret Service.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-26/trump-shooting-correspondent-dinner-washington/106608106"
-    },
-    {
-      "published_datetime": "2026-04-26T04:17:27.000000Z",
-      "title": "No Acknowledgement of Country at Anzac event attended by Qld premier",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c7f2c45d290794c201b00119d42fa9f5?impolicy=wcms_crop_resize&amp;cropH=1557&amp;cropW=2768&amp;xPos=0&amp;yPos=145&amp;width=862&amp;height=485"
-      },
-      "description": "The event in Townsville, which has a proud military history and is Australia's largest garrison city, also did not include a Welcome to Country.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-26/david-crisafulli-no-acknowledgement-of-country/106607598"
     },
     {
       "published_datetime": "2026-04-26T03:27:37.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-26T11:33:36.776435"
+  "merged_at": "2026-04-26T12:43:38.906683"
 }
