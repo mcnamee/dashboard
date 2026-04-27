@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-27T22:05:11.000000Z",
+      "title": "Live: Trump reviews new Iranian plan to end war stalemate",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/03fa05a2641b627d4cff92b0104f3e96?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The White House says Donald Trump discussed the latest Iranian proposal with top national security aides, adding that the president will have more to say soon. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-28/iran-war-updates-april-28-trump-iran-proposal-hormuz/106614252"
+    },
+    {
       "published_datetime": "2026-04-27T21:03:37.000000Z",
       "title": "Live: Defence to invest extra $2.3b in long-range missiles",
       "featured_image": {
@@ -68,15 +77,6 @@
       },
       "description": "Tim Cook helped usher in a communications revolution and his departure from Apple marks a turning point for the company. It also serves as a reminder of how AI is changing the tech landscape.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-28/ai-bubble-apple-tim-cook-technology-verrender-column/106610832"
-    },
-    {
-      "published_datetime": "2026-04-27T18:42:34.000000Z",
-      "title": "The security breach that exposed Trump to a gunman",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5190abfbe6ac7b912e2485e65e93d37b?impolicy=wcms_crop_resize&amp;cropH=1157&amp;cropW=2057&amp;xPos=74&amp;yPos=28&amp;width=862&amp;height=485"
-      },
-      "description": "A shooting incident at a Washington dinner attended by Donald Trump has prompted a swirl of questions about how an alleged shooter breached Secret Service security and got so close to the US president.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-28/security-flaws-shooting-donald-trump-washington/106610416"
     },
     {
       "published_datetime": "2026-04-27T18:41:40.000000Z",
@@ -233,11 +233,11 @@
     },
     {
       "published_datetime": "2026-04-27T11:42:49.000000Z",
-      "title": "Taylor makes $800m pitch to double Australia's minimum fuel reserves",
+      "title": "Taylor's $800m pitch to double fuel reserves to come at a cost to drives",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/728be7096f879ca6e54f2a6a08a26f54?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=87&amp;width=862&amp;height=485"
       },
-      "description": "Australia would have 60 days' worth of fuel supplies in reserve under an $800 million Coalition proposal it says the government should match. \u00a0",
+      "description": "Australia would have 60 days' worth of fuel supplies in reserve under an $800 million Coalition proposal that would cost drivers one cent per litre.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-27/fuel-minimum-reserves-angus-taylor-coalition-plan/106612614"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-27T21:46:34.214023"
+  "merged_at": "2026-04-27T22:40:50.928606"
 }
