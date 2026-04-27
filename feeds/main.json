@@ -1,12 +1,21 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-27T21:03:37.000000Z",
+      "title": "Live: Defence to invest extra $2.3b in long-range missiles",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cea91a827cc1a26290f5ead68ec0d865?impolicy=wcms_crop_resize&amp;cropH=2449&amp;cropW=4354&amp;xPos=423&amp;yPos=100&amp;width=862&amp;height=485"
+      },
+      "description": "The funding will buy 48 additional HIMARS mobile missile launch systems and Precision Strike Missiles to equip them. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-28/federal-politics-live-blog-defence-long-range-missiles/106612768"
+    },
+    {
       "published_datetime": "2026-04-27T20:24:47.000000Z",
-      "title": "Academic who fled Iran says the regime is watching her in Australia",
+      "title": "Academic says she watches everything she eats because of overseas threats",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6c0372253369285b83a40c5831a3e399?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=119&amp;width=862&amp;height=485"
       },
-      "description": "Iranian-Australian journalist and academic Saba Vasefi has spent years documenting human rights abuses in her homeland. The regime she's criticised has not forgotten her name.",
+      "description": "Iranian Australian journalist and academic Saba Vasefi has spent years documenting human rights abuses in her homeland. The regime she's criticised has not forgotten her name.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-04-28/calls-for-australian-inquiry-into-transnational-repression/106588928"
     },
     {
@@ -52,15 +61,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-28/fuel-diesel-shortage-surcharge-tourism-operators/106610974"
     },
     {
-      "published_datetime": "2026-04-27T18:51:12.000000Z",
-      "title": "Bupa patients lose out on choice and risk out-of-pockets under No Gap scheme, experts warn",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/07eeea2d2272ce643a95f65386d5925c?impolicy=wcms_crop_resize&amp;cropH=1484&amp;cropW=2638&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Leaked contracts obtained by the ABC reveal Bupa's deals with private hospitals impose stifling conditions on operators that are too small to push back.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-28/bupa-accused-of-anti-competitive-behaviour-under-secretive-medic/106516928"
-    },
-    {
       "published_datetime": "2026-04-27T18:47:40.000000Z",
       "title": "AI architects become their own victims",
       "featured_image": {
@@ -73,7 +73,7 @@
       "published_datetime": "2026-04-27T18:42:34.000000Z",
       "title": "The security breach that exposed Trump to a gunman",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5190abfbe6ac7b912e2485e65e93d37b?impolicy=wcms_crop_resize&amp;cropH=1238&amp;cropW=2200&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5190abfbe6ac7b912e2485e65e93d37b?impolicy=wcms_crop_resize&amp;cropH=1157&amp;cropW=2057&amp;xPos=74&amp;yPos=28&amp;width=862&amp;height=485"
       },
       "description": "A shooting incident at a Washington dinner attended by Donald Trump has prompted a swirl of questions about how an alleged shooter breached Secret Service security and got so close to the US president.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-28/security-flaws-shooting-donald-trump-washington/106610416"
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-27T20:53:28.193929"
+  "merged_at": "2026-04-27T21:46:34.214023"
 }
