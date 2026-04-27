@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-27T15:05:46.000000Z",
+      "title": "Live: Suspect in White House press dinner shooting due to appear in court",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/950ca894e5c3a9cdc5b76a8fa4bd83ea?impolicy=wcms_crop_resize&amp;cropH=1242&amp;cropW=2208&amp;xPos=813&amp;yPos=392&amp;width=862&amp;height=485"
+      },
+      "description": "Cole Tomas Allen, 31, is expected to face firearm and assault charges. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-28/live-updates-cole-tomas-allen-suspect-court-white-house-gala/106613972"
+    },
+    {
       "published_datetime": "2026-04-27T14:40:50.000000Z",
       "title": "Court battle between Musk and Altman to reveal power struggle at Open AI",
       "featured_image": {
@@ -232,15 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-26T18:40:25.000000Z",
-      "title": "Live: Suspect due to face court over Trump press dinner incident as security measures probed",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/950ca894e5c3a9cdc5b76a8fa4bd83ea?impolicy=wcms_crop_resize&amp;cropH=1242&amp;cropW=2208&amp;xPos=813&amp;yPos=392&amp;width=862&amp;height=485"
-      },
-      "description": "US Acting Attorney-General Todd Blanche says the shooter apprehended at the White House correspondents' dinner was likely targeting Donald Trump. Follow live.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-27/trump-target-white-house-shooting/106609722"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-27T14:58:40.249990"
+  "merged_at": "2026-04-27T16:25:43.711800"
 }
