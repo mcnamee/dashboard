@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-27T14:40:50.000000Z",
+      "title": "Court battle between Musk and Altman to reveal power struggle at Open AI",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fd0afc5b9b7f91f0c82c739332d54bea?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "The world's richest man is accusing the company and its chief executive Sam Altman, and Microsoft of betraying the AI start up's original mission.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-28/elon-musk-sam-altman-open-ai-law-suit/106613878"
+    },
+    {
+      "published_datetime": "2026-04-27T13:58:09.000000Z",
+      "title": "Lebanon and Hezbollah at odds over peace talks with Israel as strikes continue",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/97db30fcf1d17bfb2600efe86724e646?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=133&amp;width=862&amp;height=485"
+      },
+      "description": "Lebanon's president has accused Hezbollah of hypocrisy, as the Iranian-backed militant group demanded the government walk away from peace talks with Israel.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-27/lebanon-and-hezbollah-at-odds-over-peace-talks-with-israel/106613802"
+    },
+    {
       "published_datetime": "2026-04-27T11:42:49.000000Z",
       "title": "Taylor makes $800m pitch to double Australia's minimum fuel reserves",
       "featured_image": {
@@ -32,15 +50,6 @@
       "audio_url": "",
       "url": "trump-warns-iran-s-oil-pipelin-NqwmCKpmThyYqayel.RaDg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-27T09:58:14.000000Z",
-      "title": "High hopes for new oil field but no one knows how much 'liquid gold' is there",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d61eac5dbc64d852a419e9d17ab15c10?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=130&amp;width=862&amp;height=485"
-      },
-      "description": "According to Queensland's premier the Taroom Trough could be the solution to averting a future fuel crisis and a once-in-a-generation opportunity to claw back sovereign capability.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-27/taroom-trough-oil-field-touted-as-solution-to-fuel-security/106603348"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/70ca755e-a130-46db-a34c-c0126f15b914",
@@ -95,15 +104,6 @@
       },
       "description": "A chance sighting of a social media post detailing the theft of two tiny homes leads to two friends making a dramatic citizen's arrest on the Sunshine Coast.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-27/citizens-arrest-alleged-tiny-home-thief-sunshine-coast/106611094"
-    },
-    {
-      "published_datetime": "2026-04-27T07:40:38.000000Z",
-      "title": "RSL to review Welcome to Country policies after Anzac Day booing",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/660f66a4bc961efd96d4f76adfe55106?impolicy=wcms_crop_resize&amp;cropH=2102&amp;cropW=3738&amp;xPos=587&amp;yPos=199&amp;width=862&amp;height=485"
-      },
-      "description": "RSL Australia will review its Welcome to Country guidelines after Indigenous elders were booed during Anzac Day services across the country.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-27/rsl-australia-to-review-welcome-to-country-policy-for-anzac-day/106612798"
     },
     {
       "published_datetime": "2026-04-27T07:39:46.000000Z",
@@ -233,7 +233,7 @@
     },
     {
       "published_datetime": "2026-04-26T18:40:25.000000Z",
-      "title": "Live: Suspect due to face court over Trump press dinner incident as security preparations investigated",
+      "title": "Live: Suspect due to face court over Trump press dinner incident as security measures probed",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/950ca894e5c3a9cdc5b76a8fa4bd83ea?impolicy=wcms_crop_resize&amp;cropH=1242&amp;cropW=2208&amp;xPos=813&amp;yPos=392&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-27T12:16:38.374333"
+  "merged_at": "2026-04-27T14:58:40.249990"
 }
