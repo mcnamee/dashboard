@@ -2,12 +2,27 @@
   "items": [
     {
       "published_datetime": "2026-04-28T21:35:55.000000Z",
-      "title": "King's 'apolitical' speech to Congress hits hot-button issues",
+      "title": "King's speech to Congress hits on several Trump controversies",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e244eab5480ed283cb72dd29a634e4a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
       },
       "description": "In a speech that was supposed to be apolitical, King Charles hits on some hot-button issues that are fuelling controversies around the Trump administration.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-29/king-charles-speech-to-congress-key-takeaways/106618704"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a17e5dc1-f72c-4921-8b73-687cc16a18da",
+      "published_datetime": "2026-04-28T21:29:53.378522",
+      "title": "U.S. Marines board cargo ship in Arabian Sea to enforce Iran blockade",
+      "featured_image": {
+        "url": "https://www.defensenews.com/opinion/2023/09/12/how-us-marines-can-protect-commercial-shipping-in-the-gulf/",
+        "name": "How US Marines can protect commercial shipping in the Gulf",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IOptq_2m--/t_limit/https://cloudfront-us-east-1.images.arcpublishing.com/archetype/AL2PXPOIMNCEVN7Y6C5GWUDTMM.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--s-jy48Vy--/t_thumbnail/https://cloudfront-us-east-1.images.arcpublishing.com/archetype/AL2PXPOIMNCEVN7Y6C5GWUDTMM.jpg"
+      },
+      "description": "U.S. Marines on Tuesday boarded and searched a commercial vessel in the Arabian Sea suspected of attempting to reach Iran in violation of the American naval blockade, the military said, before releasing the ship after confirming it was not headed to an Iranian port.",
+      "audio_url": "",
+      "url": "u-s-marines-board-cargo-ship-i-36qq7FdfSIKhPQwg5U3rRQ",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-04-28T21:04:19.000000Z",
@@ -17,6 +32,30 @@
       },
       "description": "The prime minister will announce $45 million to help speed housing and energy project approvals. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-29/federal-politics-live-blog-housing-energy-fastrack/106616572"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2c58cfba-f3eb-4973-a81e-bac5c30060c1",
+      "published_datetime": "2026-04-28T20:44:01.993940",
+      "title": "Cursor AI agent wiped startup's database in 9 seconds, founder says",
+      "featured_image": {
+        "url": "https://sea.mashable.com/tech/44827/an-ai-agent-allegedly-deleted-a-startups-production-database-causing-a-huge-outage",
+        "name": "An AI agent allegedly deleted a startup's production database ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--JeknPmzk--/t_limit/https://sm.mashable.com/t/mashable_sea/article/a/an-ai-agen/an-ai-agent-allegedly-deleted-a-startups-production-database_56ca.1200.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--U9ttIswQ--/t_thumbnail/https://sm.mashable.com/t/mashable_sea/article/a/an-ai-agen/an-ai-agent-allegedly-deleted-a-startups-production-database_56ca.1200.jpg"
+      },
+      "description": "An AI coding agent wiped a startup's entire production database and all its backups in a single API call lasting nine seconds, leaving car rental businesses scrambling to serve customers with no booking records over the weekend.",
+      "audio_url": "",
+      "url": "cursor-ai-agent-wiped-startup-10gfeLKiQPeJ.j6bVeeWGg",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-04-28T20:08:13.000000Z",
+      "title": "El Ni\u00f1o one step closer as Pacific transition now fastest in 50 years",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e33e9e7a25f6adb87050bbb7c7b1053?impolicy=wcms_crop_resize&amp;cropH=5156&amp;cropW=9166&amp;xPos=0&amp;yPos=478&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's weather pattern is in a reset, and the weather events happening this month will act like the ingredients to determine the flavour of our climate for the rest of the year.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-29/el-nino-pacific-transition-fastest-in-50-years/106617534"
     },
     {
       "published_datetime": "2026-04-28T20:03:16.000000Z",
@@ -58,23 +97,14 @@
       "published_datetime": "2026-04-28T19:35:47.000000Z",
       "title": "Former ASIO chief raised questions about assessment of Bondi gunman",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f62d9885ce7a434c228b73798a7e721a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e3719f87aa4f090e423cab338f8a62e?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
       },
-      "description": "The former head of Australia's domestic intelligence agency questioned whether early assessments of Bondi Beach gunman Naveed Akram were sufficiently rigorous, while advising the royal commission examining the December terrorist attack.",
+      "description": "While advising the royal commission examining the Bondi Beach terrorist attack, the former head of Australia's domestic intelligence agency questioned whether early assessments of gunman Naveed Akram were sufficiently rigorous.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-29/dennis-richardson-raised-questions-on-scrutiny-of-bondi-gunmen/106616112"
     },
     {
-      "published_datetime": "2026-04-28T19:33:38.000000Z",
-      "title": "Does the gas industry pay its fair share of tax?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eb79fb13ebb36253a7cc8add044f23d1?impolicy=wcms_crop_resize&amp;cropH=2811&amp;cropW=4997&amp;xPos=0&amp;yPos=638&amp;width=862&amp;height=485"
-      },
-      "description": "Advocates are proposing a flat 25 per cent tax on gas exports, but representatives say the industry is being unfairly targeted.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-29/does-australias-gas-industry-pay-enough-tax/106602004"
-    },
-    {
       "published_datetime": "2026-04-28T19:11:54.000000Z",
-      "title": "The 'double-headed monster' set to push up prices at the check-out",
+      "title": "'Double-headed monster' set to push up prices at the check-out",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1ac3c889d105d53d2026c85033cbe4f?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -211,36 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/06c5eae7-a35b-4a8d-a3fc-18d29c1dacc3",
-      "published_datetime": "2026-04-28T13:24:50.183236",
-      "title": "OpenAI misses revenue and user targets ahead of IPO",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html",
-        "name": "OpenAI resets spend expectations, targets around $600 billion by ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--e-pTXZQn--/t_limit/https://image.cnbcfm.com/api/v1/image/108254535-1768938570729-gettyimages-2236933448-250925_FBER_PHT001.jpeg%3Fv%3D1775172857%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--fVbbAbtQ--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108254535-1768938570729-gettyimages-2236933448-250925_FBER_PHT001.jpeg%3Fv%3D1775172857%26w%3D1920%26h%3D1080"
-      },
-      "description": "OpenAI has fallen short of internal revenue and user acquisition goals in 2026, according to a Wall Street Journal report published Monday, intensifying questions about whether the artificial intelligence company can sustain its enormous infrastructure spending as it prepares for a planned initial public offering later this year.[1][2]",
-      "audio_url": "",
-      "url": "openai-misses-revenue-and-user-pjv5tC_9T_SFia2ZFDq_ZQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/738060e2-f410-4ce6-b132-e59ba5451804",
-      "published_datetime": "2026-04-28T13:00:02.651107",
-      "title": "Over 23,000 Iranian businesses destroyed as war's economic toll mounts",
-      "featured_image": {
-        "url": "https://www.yahoo.com/news/articles/idf-iran-years-rebuild-military-180018751.html",
-        "name": "IDF: It will take Iran years to rebuild its military industrial complex",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--YKxrzWbB--/t_limit/https://s.yimg.com/ny/api/res/1.2/YlFTE4NfCnzxBggudYlvzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE2MDA7aD0xMDY2O2NmPXdlYnA-/https://media.zenfs.com/en/jerusalem_post_articles_818/e77cab6c28a6f924332c07c2aa20ce6a",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--29CnYiGi--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/YlFTE4NfCnzxBggudYlvzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE2MDA7aD0xMDY2O2NmPXdlYnA-/https://media.zenfs.com/en/jerusalem_post_articles_818/e77cab6c28a6f924332c07c2aa20ce6a"
-      },
-      "description": "Nearly two months after the United States and Israel launched a military campaign against Iran on February 28, the scale of destruction to the country's industrial base is coming into sharp focus. More than 23,000 factories and businesses have been damaged or destroyed, according to reports from Iranian media cited by CNN, leaving millions of workers without income and sending inflation to 72% as of March.[1][2]",
-      "audio_url": "",
-      "url": "over-23000-iranian-businesses-qZahI3gGR5WMZyIZxyWGIw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-28T22:01:02.682712"
+  "merged_at": "2026-04-28T23:44:45.725554"
 }
