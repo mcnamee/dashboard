@@ -1,31 +1,55 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-29T07:38:07.000000Z",
+      "title": "Breaking: Two killed in light plane crash at Parafield Airport in Adelaide's north",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6c58cf879de493df3dad0030b2409715?impolicy=wcms_crop_resize&amp;cropH=809&amp;cropW=1438&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485"
+      },
+      "description": "Two people are dead and a \"number of others\" have injuries after a plane crash at Parafield Airport in Adelaide's north.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-29/two-killed-in-light-plane-crash-at-parafield-airport/106622644"
+    },
+    {
+      "published_datetime": "2026-04-29T07:15:35.000000Z",
+      "title": "'Extremely corrosive': Trump called out for remarks aimed at Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8c2621c21e7658282379c908c1767a1?impolicy=wcms_crop_resize&amp;cropH=2096&amp;cropW=3727&amp;xPos=0&amp;yPos=194&amp;width=862&amp;height=485"
+      },
+      "description": "US Congressman Joe Courtney says the US president's repeated criticism of Australia is \"unfair\" and causing harm to the US amongst its allies.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-29/trump-s-criticism-of-australia-unfair-says-us-congressman/106620002"
+    },
+    {
+      "published_datetime": "2026-04-29T06:27:53.000000Z",
+      "title": "Threat to homes eases as fire in northern NSW downgraded",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aef80755127be636ec8e0df57f8ce1f1?impolicy=wcms_crop_resize&amp;cropH=733&amp;cropW=1303&amp;xPos=121&amp;yPos=497&amp;width=862&amp;height=485"
+      },
+      "description": "The threat posed to homes by a grass fire burning on the state's Northern Tablelands eases as the Emergency alert is downgraded to Watch and Act.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-29/uralla-emergency-fire/106622188"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8c6a1c1d-4a79-4179-b3de-5fbb980f07b6",
+      "published_datetime": "2026-04-29T05:57:42.254770",
+      "title": "Tropical forest loss fell 36% in 2025, but fires threaten gains",
+      "featured_image": {
+        "url": "https://news.mongabay.com/2025/12/the-year-in-rainforests-2025-deforestation-fell-the-risks-did-not/",
+        "name": "The year in rainforests 2025: Deforestation fell; the risks did not",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--SeNtEmBW--/t_limit/https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/12/26174503/14-brunei_251114145042_0254z-scaled.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--oKG5aUYX--/t_thumbnail/https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/12/26174503/14-brunei_251114145042_0254z-scaled.jpg"
+      },
+      "description": "The world lost 4.3 million hectares of tropical primary rainforest in 2025 \u2014 an area roughly the size of Denmark \u2014 representing a 36% decline from the record-shattering losses of 2024, according to new data released Wednesday by the World Resources Institute's Global Forest Watch platform.[1][2]\n\nThe findings, produced by the University of Maryland's GLAD Lab, show that strong government action can curb deforestation. But researchers warn the drop may reflect fewer fires rather than durable progress, and that loss levels remain about 70% higher than what is needed to meet the 2030 goal of halting deforestation.[2][1]",
+      "audio_url": "",
+      "url": "tropical-forest-loss-fell-36-i-_vvxexgKSLOZbTAUBXVFXA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-29T05:21:53.000000Z",
-      "title": "Breaking: Mother of alleged double killer accused of interfering with witness",
+      "title": "Mother of alleged double killer Beau Lamarre-Condon charged",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cb3d571a09b5583fe15b2444fcbfe1a0?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
       },
       "description": "The mother of a former police officer accused of killing Sydney couple Jesse Baird and Luke Davies has been charged after allegedly attempting to influence a key witness.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-29/nsw-beau-lamarre-condon-mother-charged-for-witness-interference/106621690"
-    },
-    {
-      "published_datetime": "2026-04-29T05:16:32.000000Z",
-      "title": "The six weeks from hell that whipped the Sky Blues into Origin shape",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/284e0f49384786e6df75f753c6c95328?impolicy=wcms_crop_resize&amp;cropH=2717&amp;cropW=4830&amp;xPos=0&amp;yPos=251&amp;width=862&amp;height=485"
-      },
-      "description": "For the second year in a row both New South Wales and Queensland enter the women's State of Origin match with barely a game between them this year, but a six-week training block that one player called \"one of the hardest things I've ever done\" has them primed for the series opener.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-29/nsw-state-of-origin-womens-queensland-maroons/106621490"
-    },
-    {
-      "published_datetime": "2026-04-29T05:12:59.000000Z",
-      "title": "Breaking: Plane crashes at Parafield Airport in Adelaide's north",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1d57983967457bc5da2dc8447db1f5e5?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=233&amp;width=862&amp;height=485"
-      },
-      "description": "A small plane has crashed into a hangar causing a fire at Parafield Airport in Adelaide's north.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-29/plane-crashes-at-parafield-airport-north-of-adelaide/106621632"
     },
     {
       "published_datetime": "2026-04-29T04:52:25.000000Z",
@@ -35,15 +59,6 @@
       },
       "description": "While inflation remains well above the Reserve Bank's target, there are details in the numbers that may give it reasons to hold off another rate hike in May.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-29/inflation-details-may-give-rba-pause-on-interest-rates/106620164"
-    },
-    {
-      "published_datetime": "2026-04-29T04:51:38.000000Z",
-      "title": "AI deepfakes are in our schools. What's the right way to handle them?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0970a9e746db6eacaf7f01ee224f87db?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=252&amp;width=862&amp;height=485"
-      },
-      "description": "Deepfake content, made from artificial intelligence, is increasingly circulating in schools. But what can parents do if their children are the target?",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-29/what-should-schools-do-about-ai-deepfakes-friends-school-hobart/106619686"
     },
     {
       "published_datetime": "2026-04-29T04:31:50.000000Z",
@@ -60,17 +75,8 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c7fa84df395194890e25ff08c3a15bb?impolicy=wcms_crop_resize&amp;cropH=591&amp;cropW=1051&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "One Nation Leader Pauline Hanson banks more than $3 million worth of donations, including a brand new plane gifted by Australia's richest person, Gina Rinehart.",
+      "description": "One Nation leader Pauline Hanson banks more than $3 million worth of donations, including a brand-new plane gifted by Australia's richest person, Gina Rinehart.",
       "page_content_url": "https://www.abc.net.au/news/2026-04-29/gina-rinehart-gifts-plane-to-pauline-hanson-one-nation/106620808"
-    },
-    {
-      "published_datetime": "2026-04-29T03:44:06.000000Z",
-      "title": "Tim Picton's accused killer pleads not guilty to manslaughter",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/702c807ab9d146dd77f9c7861e305e20?impolicy=wcms_crop_resize&amp;cropH=816&amp;cropW=1450&amp;xPos=0&amp;yPos=3&amp;width=862&amp;height=485"
-      },
-      "description": "The man accused of killing former Labor identity Tim Picton outside a Northbridge venue has pleaded not guilty to his manslaughter.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-29/tim-picton-accused-killer-brodie-dewar-pleads-not-guilty/106620172"
     },
     {
       "published_datetime": "2026-04-29T01:21:12.000000Z",
@@ -134,6 +140,15 @@
       "audio_url": "",
       "url": "amazon-to-offer-openai-models-BxAbs5vTQai.b7WsuTt_lg",
       "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-04-28T21:35:55.000000Z",
+      "title": "King's speech to Congress hits on several Trump controversies",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e244eab5480ed283cb72dd29a634e4a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "In a speech that was supposed to be apolitical, King Charles hits on some hot-button issues that are fuelling controversies around the Trump administration.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-29/king-charles-speech-to-congress-key-takeaways/106618704"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a17e5dc1-f72c-4921-8b73-687cc16a18da",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ec8c9ad6-c615-44f2-9d8f-9b506fe3c37f",
-      "published_datetime": "2026-04-28T14:41:16.708665",
-      "title": "Iran war reshapes global energy as renewables shield some nations from price surge",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/04/21/oil-price-iran-war-middle-east.html",
-        "name": "A timeline of how the Iran war shook oil prices \u2014 and what comes next",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--fzQf6kEd--/t_limit/https://image.cnbcfm.com/api/v1/image/108292480-17763467242026-04-16t133226z_1594957697_rc2gc1a3wrpj_rtrmadp_0_russia-energy-revenues.jpeg%3Fv%3D1776346758%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--_sdqqEAe--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108292480-17763467242026-04-16t133226z_1594957697_rc2gc1a3wrpj_rtrmadp_0_russia-energy-revenues.jpeg%3Fv%3D1776346758%26w%3D1920%26h%3D1080"
-      },
-      "description": "The war between the United States, Israel, and Iran has triggered what the International Energy Agency calls the \"greatest global energy security challenge in history,\" reshaping energy flows worldwide as extreme heat compounds the crisis. The disruption is driving record demand for Chinese clean energy exports, pushing fossil fuel-dependent nations like India to their limits, and offering a case study in resilience for renewable-heavy countries like Albania.",
-      "audio_url": "",
-      "url": "iran-war-reshapes-global-energ-siKCy_FmROOXxUH7rmMJDw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-29T05:46:30.345274"
+  "merged_at": "2026-04-29T08:01:33.920196"
 }
