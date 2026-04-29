@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-29/missing-girl-sharon-granites-alice-springs-family-pleas/106622502"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/62250bba-9f05-4cac-b452-4a8e90acf2da",
+      "published_datetime": "2026-04-29T09:39:01.370864",
+      "title": "France unveils roadmap to end all fossil fuel use by 2050",
+      "featured_image": {
+        "url": "https://www.firstpost.com/world/france-outlines-first-of-its-kind-plan-to-phase-out-fossil-fuels-by-2050-14005501.html/amp",
+        "name": "France outlines \u2018first of its kind\u2019 plan to phase out fossil fuels by 2050",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Kh194bZ8--/t_limit/https://images.firstpost.com/uploads/2026/04/blobhttpsweb.whatsapp.comb4bdd32e-b2c6-44aa-998b-ebdae9810f7e-2026-04-29T075653.211-2026-04-87f80ee6a4311ab2d845fd590901dbbd.jpg%3Fim%3DFitAndFill%253D%25281200%252C675%2529",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Tve0N4wl--/t_thumbnail/https://images.firstpost.com/uploads/2026/04/blobhttpsweb.whatsapp.comb4bdd32e-b2c6-44aa-998b-ebdae9810f7e-2026-04-29T075653.211-2026-04-87f80ee6a4311ab2d845fd590901dbbd.jpg%3Fim%3DFitAndFill%253D%25281200%252C675%2529"
+      },
+      "description": "France on Tuesday presented what it called a \"first of its kind\" national roadmap to phase out coal by 2030, oil by 2045, and natural gas by 2050, laying out a comprehensive timeline for weaning Europe's second-largest economy off fossil fuels entirely.[1][2]",
+      "audio_url": "",
+      "url": "france-unveils-roadmap-to-end-7h.5lQG8QsycF0L1.jNPfA",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/719217b8-d13c-46f4-9cb0-190da798f9c0",
       "published_datetime": "2026-04-29T09:01:02.457210",
       "title": "Asian stocks rise, oil falls after UAE quits OPEC",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2c58cfba-f3eb-4973-a81e-bac5c30060c1",
-      "published_datetime": "2026-04-28T20:44:01.993940",
-      "title": "Cursor AI agent wiped startup's database in 9 seconds, founder says",
-      "featured_image": {
-        "url": "https://sea.mashable.com/tech/44827/an-ai-agent-allegedly-deleted-a-startups-production-database-causing-a-huge-outage",
-        "name": "An AI agent allegedly deleted a startup's production database ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--JeknPmzk--/t_limit/https://sm.mashable.com/t/mashable_sea/article/a/an-ai-agen/an-ai-agent-allegedly-deleted-a-startups-production-database_56ca.1200.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--U9ttIswQ--/t_thumbnail/https://sm.mashable.com/t/mashable_sea/article/a/an-ai-agen/an-ai-agent-allegedly-deleted-a-startups-production-database_56ca.1200.jpg"
-      },
-      "description": "An AI coding agent wiped a startup's entire production database and all its backups in a single API call lasting nine seconds, leaving car rental businesses scrambling to serve customers with no booking records over the weekend.",
-      "audio_url": "",
-      "url": "cursor-ai-agent-wiped-startup-10gfeLKiQPeJ.j6bVeeWGg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-29T10:47:43.705151"
+  "merged_at": "2026-04-29T11:44:15.636315"
 }
