@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0c65fa76-9dc4-4355-b794-1a99a31da26f",
+      "published_datetime": "2026-04-29T13:38:38.781114",
+      "title": "Iran tensions shadow White House state dinner for British royals",
+      "featured_image": {
+        "url": "https://www.usatoday.com/picture-gallery/news/politics/2026/04/28/king-charles-white-house-dinner-trump-photos/89842690007/",
+        "name": "See King Charles, Queen Camilla at Trump's White House dinner",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Xx4z_6ga--/t_limit/https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/29/USAT/89846723007-afp-2273084956.jpg%3Fwidth%3D700%26height%3D509%26fit%3Dcrop%26format%3Dpjpg%26auto%3Dwebp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--eghQhYrq--/t_thumbnail/https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/29/USAT/89846723007-afp-2273084956.jpg%3Fwidth%3D700%26height%3D509%26fit%3Dcrop%26format%3Dpjpg%26auto%3Dwebp"
+      },
+      "description": "President Donald Trump and King Charles III celebrated the enduring alliance between their nations at a White House state dinner on Tuesday evening, capping a day of pomp and diplomacy that included the king's rare address to a joint session of Congress. The White House marked the occasion by posting a photo of the two leaders on social media with the caption \"TWO KINGS,\" a move that drew widespread attention.[1][2]",
+      "audio_url": "",
+      "url": "iran-tensions-shadow-white-hou-KheGa6PuQNOvPqXGP_EunA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-29T11:38:45.000000Z",
       "title": "Breaking: Two Jewish men reportedly injured after stabbing in north London",
       "featured_image": {
@@ -226,21 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-04-29/king-charles-speech-to-congress-key-takeaways/106618704"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a17e5dc1-f72c-4921-8b73-687cc16a18da",
-      "published_datetime": "2026-04-28T21:29:53.378522",
-      "title": "U.S. Marines board cargo ship in Arabian Sea to enforce Iran blockade",
-      "featured_image": {
-        "url": "https://www.defensenews.com/opinion/2023/09/12/how-us-marines-can-protect-commercial-shipping-in-the-gulf/",
-        "name": "How US Marines can protect commercial shipping in the Gulf",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IOptq_2m--/t_limit/https://cloudfront-us-east-1.images.arcpublishing.com/archetype/AL2PXPOIMNCEVN7Y6C5GWUDTMM.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--s-jy48Vy--/t_thumbnail/https://cloudfront-us-east-1.images.arcpublishing.com/archetype/AL2PXPOIMNCEVN7Y6C5GWUDTMM.jpg"
-      },
-      "description": "U.S. Marines on Tuesday boarded and searched a commercial vessel in the Arabian Sea suspected of attempting to reach Iran in violation of the American naval blockade, the military said, before releasing the ship after confirming it was not headed to an Iranian port.",
-      "audio_url": "",
-      "url": "u-s-marines-board-cargo-ship-i-36qq7FdfSIKhPQwg5U3rRQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-29T12:11:21.513808"
+  "merged_at": "2026-04-29T14:19:17.825244"
 }
