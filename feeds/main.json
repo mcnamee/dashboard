@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-29T11:38:45.000000Z",
+      "title": "Breaking: Two Jewish men reportedly injured after stabbing in north London",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cf5276918733d0e095ba977c4421cd8c?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
+      },
+      "description": "Two men have been stabbed in London, the BBC has reported, in an area north of the city with a large Jewish population.",
+      "page_content_url": "https://www.abc.net.au/news/2026-04-29/two-jewish-men-stabbed-in-north-london/106623148"
+    },
+    {
       "published_datetime": "2026-04-29T10:00:48.000000Z",
       "title": "'Only a little baby': Family of missing 5yo Sharon Granites speaks",
       "featured_image": {
@@ -41,7 +50,7 @@
     },
     {
       "published_datetime": "2026-04-29T08:47:02.000000Z",
-      "title": "'A great West Australian': Bill Grayden dies aged 105",
+      "title": "Longest-serving WA MP, war hero Bill Grayden, dies at 105",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0594d52d919fa695facda23c3063155c?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=17&amp;width=862&amp;height=485"
       },
@@ -110,15 +119,6 @@
       "audio_url": "",
       "url": "europe-hit-record-wildfires-an-xVoobtX2RHaXeIZN532BEA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-29T06:27:53.000000Z",
-      "title": "Threat to homes eases as fire in northern NSW downgraded",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aef80755127be636ec8e0df57f8ce1f1?impolicy=wcms_crop_resize&amp;cropH=733&amp;cropW=1303&amp;xPos=121&amp;yPos=497&amp;width=862&amp;height=485"
-      },
-      "description": "The threat posed to homes by a grass fire burning on the state's Northern Tablelands eases after earlier prompting an Emergency alert.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-29/uralla-emergency-fire/106622188"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8c6a1c1d-4a79-4179-b3de-5fbb980f07b6",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-29T11:44:15.636315"
+  "merged_at": "2026-04-29T12:11:21.513808"
 }
