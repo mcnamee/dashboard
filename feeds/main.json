@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/06bf0a9b-a302-4762-924d-a857f52b7931",
+      "published_datetime": "2026-04-30T18:21:52.909798",
+      "title": "Trump escalates feud with Merz, threatens troop cuts in Germany",
+      "featured_image": {
+        "url": "https://english.aawsat.com/world/5268283-trump-fresh-attack-germany%E2%80%99s-merz-over-iran",
+        "name": "Trump in Fresh Attack on Germany's Merz Over Iran",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--HxjvZgye--/t_limit/https://english.aawsat.com/s3/files/styles/1037xauto/public/2026-04/1519374.jpeg.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s---CUtBD9U--/t_thumbnail/https://english.aawsat.com/s3/files/styles/1037xauto/public/2026-04/1519374.jpeg.webp"
+      },
+      "description": "President Donald Trump escalated a public dispute with German Chancellor Friedrich Merz on Thursday, telling the German leader to focus on ending the Russia-Ukraine war and fixing his \"broken Country\" rather than \"interfering\" with American efforts against Iran. The broadside came one day after Trump announced the U.S. was \"studying and reviewing the possible reduction of Troops in Germany,\" raising the prospect of a drawdown from one of America's most strategically vital overseas military footprints.[1][2]",
+      "audio_url": "",
+      "url": "trump-escalates-feud-with-merz-u2YdTAL_Qama84wx5h46HQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-04-30T16:27:03.000000Z",
       "title": "Alice Springs gripped by violence after arrest of Kumanjayi Little Baby's alleged killer",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ac4d29b8-2f72-4f95-a064-fd0fd5eb1bc4",
-      "published_datetime": "2026-04-29T15:20:28.687758",
-      "title": "China's solar capacity set to surpass coal for first time in 2026",
-      "featured_image": {
-        "url": "https://interestingengineering.com/energy/china-opens-worlds-biggest-solar-farm",
-        "name": "China opens world's biggest solar farm that spreads over 200,000 acres",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--FE_aLcwV--/t_limit/https://cms.interestingengineering.com/wp-content/uploads/2024/06/china-huge-solar-power-plant.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--x4fa31X1--/t_thumbnail/https://cms.interestingengineering.com/wp-content/uploads/2024/06/china-huge-solar-power-plant.jpg"
-      },
-      "description": "The United States and China are both on track to add record amounts of clean energy capacity in 2026, driven by falling technology costs and surging electricity demand, even as the two countries face divergent policy headwinds that threaten to slow the pace of the transition.",
-      "audio_url": "",
-      "url": "china-s-solar-capacity-set-to-X81RmMH2SmK5ay1XEXTx3Q",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-30T18:05:41.205638"
+  "merged_at": "2026-04-30T19:42:10.933445"
 }
