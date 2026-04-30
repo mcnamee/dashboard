@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-04-30T16:27:03.000000Z",
+      "title": "Alice Springs gripped by violence after arrest of Kumanjayi Little Baby's alleged killer",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2d9f52dfebd9d69536c12e424e9390c5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Wild scenes erupt on the streets of Alice Springs after the arrest of Jefferson Lewis over the alleged murder of five-year-old Kumanjayi Little Baby.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-01/alice-springs-unrest-after-kumanjayi-little-baby-arrest/106628782"
+    },
+    {
       "published_datetime": "2026-04-30T13:30:38.000000Z",
       "title": "The two plays that flipped the script on Women's State of Origin Game I",
       "featured_image": {
@@ -47,15 +56,6 @@
       "audio_url": "",
       "url": "zelenskyy-demands-details-on-v-WBkLRE7KRpeVwpBAkeVoQA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-04-30T12:44:15.000000Z",
-      "title": "Violent scenes in Alice Springs after arrest over alleged murder of Kumanjayi Little Baby",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2d9f52dfebd9d69536c12e424e9390c5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Police have used tear gas and fired rubber bullets outside Alice Springs Hospital following the arrest of Jefferson Lewis.",
-      "page_content_url": "https://www.abc.net.au/news/2026-04-30/jefferson-lewis-arrested-over-murdered-kumanjayi-little-baby/106628504"
     },
     {
       "published_datetime": "2026-04-30T09:02:53.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-30T16:22:54.937122"
+  "merged_at": "2026-04-30T18:05:41.205638"
 }
