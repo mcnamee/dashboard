@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-01T12:03:30.000000Z",
+      "title": "Gaza aid flotilla activists taken to Crete after Israeli interception",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9b531829b8d6e152050b71c16d26728?impolicy=wcms_crop_resize&amp;cropH=2755&amp;cropW=4897&amp;xPos=0&amp;yPos=239&amp;width=862&amp;height=485"
+      },
+      "description": "More than 100 activists, including six Australians, on ships bound for Gaza were intercepted by Israeli forces earlier this week.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-01/crew-members-on-israel-blocked-aid-flotilla-taken-to-greece/106633356"
+    },
+    {
+      "published_datetime": "2026-05-01T11:40:42.000000Z",
+      "title": "Suspect charged after stabbings of Jewish men in London",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bb6c3c8f257b295fc7622369edaefe64?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=42&amp;width=862&amp;height=485"
+      },
+      "description": "UK police charge a 45-year-old man over the stabbing of two Jewish men in north London, the latest in a string of attacks targeting Britain's Jewish community.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-01/man-charged-over-suspected-uk-terrorist-attack/106633360"
+    },
+    {
       "published_datetime": "2026-05-01T09:21:34.000000Z",
       "title": "Chinese company launches legal action over forced sale of Port of Darwin",
       "featured_image": {
@@ -10,15 +28,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-01/chinese-owned-darwin-port-launches-legal-action/106633362"
     },
     {
-      "published_datetime": "2026-05-01T07:02:13.000000Z",
-      "title": "Mother haunted by letters after two-year-old son killed in murder-suicide",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba80c4a9a2994e4e450184d2f5db922a?impolicy=wcms_crop_resize&amp;cropH=1901&amp;cropW=3380&amp;xPos=656&amp;yPos=945&amp;width=862&amp;height=485"
-      },
-      "description": "A coronial inquest hears letters that arrived three days after an apparent murder-suicide in Lismore outlined a father's deadly plans.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/lismore-murder-suicide-inquest/106616892"
-    },
-    {
       "published_datetime": "2026-05-01T06:52:34.000000Z",
       "title": "Rare quadruplet birth stuns mum, 45, and doctors",
       "featured_image": {
@@ -26,15 +35,6 @@
       },
       "description": "A Kalgoorlie couple expecting triplets welcome a surprise fourth baby \u2014 delivering an extraordinarily rare set of quadruplets that stunned even their doctors.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-01/mum-45-gives-birth-to-quadruplets-in-rare-birth-ivf/106632344"
-    },
-    {
-      "published_datetime": "2026-05-01T06:50:17.000000Z",
-      "title": "Beaches evacuated as sharks swarm towards 25-tonne whale carcass",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e22619bdb37bd4326c6dafb1c4524f75?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=281&amp;width=862&amp;height=485"
-      },
-      "description": "The sperm whale carcass was towed from Era Beach in the Royal National Park to Bellambi Boat Ramp in Wollongong this afternoon.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/royal-national-park-whale-carcass-removed-bellambi-boat-ramp/106631260"
     },
     {
       "published_datetime": "2026-05-01T04:48:13.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-01T11:51:59.212937"
+  "merged_at": "2026-05-01T12:57:43.415746"
 }
