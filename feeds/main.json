@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-01T01:04:44.000000Z",
+      "title": "Poliovirus detected in Perth wastewater",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0a6fe1b85aafdebfce53a215ac5a678b?impolicy=wcms_crop_resize&amp;cropH=1013&amp;cropW=1800&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
+      },
+      "description": "Poliovirus has been detected in a sample taken from a wastewater in Perth, the Health Department reveals.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-01/poliovirus-detected-in-perth-wastewater-/106621850"
+    },
+    {
+      "published_datetime": "2026-05-01T01:03:13.000000Z",
+      "title": "Ukrainian drones hit oil refineries in Russia, 1,500km from front line",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b1704f531dfbcbd1f0d9e79d611d65c8?impolicy=wcms_crop_resize&amp;cropH=1440&amp;cropW=2560&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Ukraine says its drones have struck an oil refinery deep inside Russia, marking the latest in a series of attacks on oil facilities behind the front lines as Kyiv seeks to curb Moscow\u2019s energy revenues used to fund the war.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-01/ukrainian-drones-strike-russian-oil-refineries/106629418"
+    },
+    {
+      "published_datetime": "2026-04-30T23:32:14.000000Z",
+      "title": "LIV Golf is falling apart on a flawed premise and a broken promise",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d14d7f305136a0e59ffc74a627ba2255?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "While Adelaide showed just how good LIV Golf could be, the flawed premise of the breakaway tournament always spelled trouble.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-01/liv-golf-analysis-tournament-dies-on-a-broken-promise/106629232"
+    },
+    {
+      "published_datetime": "2026-04-30T22:10:14.000000Z",
+      "title": "Hard-won legacy of Australia's longest strike in jeopardy",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c25135c8ed4b64fe85fa0fbfdd5a6b20?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "It's been 80 years since Aboriginal workers in the Pilbara up-ended a slave-like labour system. The descendants of those involved fear its legacy is being forgotten.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-01/legacy-of-pilbara-aboriginal-strike-80th-anniversary/106620566"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/778ae009-705c-4447-996f-b2057468af1b",
       "published_datetime": "2026-04-30T21:36:23.724299",
       "title": "UAE bans citizens from traveling to Iran, Lebanon, and Iraq",
@@ -31,33 +67,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-04-30T21:16:46.000000Z",
-      "title": "Live: Wall Street surges despite Meta and Microsoft dives and ASX set for strong rebound",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/243afdeb72b57081273fdf917bd143e4?impolicy=wcms_crop_resize&amp;cropH=1689&amp;cropW=3000&amp;xPos=0&amp;yPos=308&amp;width=862&amp;height=485"
-      },
-      "description": "Wall Street rises despite Meta crashing on AI spending fears. The ASX is poised for a strong rebound after seven consecutive losing sessions. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/asx-markets-business-news-live-updates-may-1/106628544"
-    },
-    {
-      "published_datetime": "2026-04-30T21:10:04.000000Z",
-      "title": "Live: Taylor says government is in 'denial' about situation in NT town camps",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/22dd443dc40e14f6b74855294b749351?impolicy=wcms_crop_resize&amp;cropH=2956&amp;cropW=5256&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "Opposition leader Angus Taylor says the federal government is in \"denial\" about the situation in town camps following the death of Kumanjayi Little Baby. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/federal-politics-live-blog-hormux-discussions/106628974"
-    },
-    {
-      "published_datetime": "2026-04-30T20:35:09.000000Z",
-      "title": "'Neglected' seat of Farrer is turning against major parties",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6bc640b38f8973122a3400bcb504f84?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=706&amp;width=862&amp;height=485"
-      },
-      "description": "A fascinating four-cornered contest is brewing as voters in the southern NSW seat of Farrer head to the ballot box for the second time in 12 months.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/race-for-farrer-shines-light-on-australian-politics/106613258"
-    },
-    {
       "published_datetime": "2026-04-30T20:10:34.000000Z",
       "title": "'Gentle parenting' under fire from this alternative school's supporters",
       "featured_image": {
@@ -77,11 +86,11 @@
     },
     {
       "published_datetime": "2026-04-30T19:30:06.000000Z",
-      "title": "Live: Iran threatens 'long and painful strikes' if US renews attacks",
+      "title": "Live: Commanders to brief Trump on fresh military options for Iran war",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/10a4eb4ee0a6afc9172e938cb408a98c?impolicy=wcms_crop_resize&amp;cropH=1042&amp;cropW=1852&amp;xPos=0&amp;yPos=55&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a0efd277ef361027cca669762558d624?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Supreme Leader Mojtaba Khamenei says Tehran will eliminate \"the enemies' abuses of the waterway\" under new management of the Strait of Hormuz. Follow live.\u00a0",
+      "description": "Iran says it will respond with \"long and painful strikes\" on US positions if Washington renews attacks, and also reasserted its control over the Strait of Hormuz. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-01/iran-war-live-updates-may-1/106626914"
     },
     {
@@ -95,21 +104,12 @@
     },
     {
       "published_datetime": "2026-04-30T18:41:27.000000Z",
-      "title": "The home battery rebate is changing. Is it still worth it and what's the right size?",
+      "title": "The battery rebate became a victim of its success. Here's what is changing",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a652c54e0f7f0f5575dd52cb618a0883?impolicy=wcms_crop_resize&amp;cropH=1035&amp;cropW=1840&amp;xPos=0&amp;yPos=193&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e50fe904e4702cf8661fa92656c31c17?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
       },
       "description": "In less than nine months, more than a quarter of a million batteries were installed in Australian households. Here's how the battery rebate is changing and why.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-01/the-home-battery-rebate-is-changing-is-it-still-worth-it/106616170"
-    },
-    {
-      "published_datetime": "2026-04-30T18:40:49.000000Z",
-      "title": "Crucial interest rate breaks from global benchmark, costing us billions",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/01a457437a61cb3f467afe0e365c55ec?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The 10-Year Treasury bond, which the Commonwealth issues to raise money, pushes past 5 per cent, raising the cost of paying off debt and suggesting inflation is not under control.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/australian-government-bond-yields-cost-to-pay-debt-soars/106626872"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/06bf0a9b-a302-4762-924d-a857f52b7931",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-04-30T23:59:20.146444"
+  "merged_at": "2026-05-01T02:08:02.151973"
 }
