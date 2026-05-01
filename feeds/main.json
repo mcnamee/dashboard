@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-01T09:21:34.000000Z",
+      "title": "Chinese company launches legal action over forced sale of Port of Darwin",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e8fe10fed2aae88cd4b9b497e46e7837?impolicy=wcms_crop_resize&amp;cropH=3181&amp;cropW=5656&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Anthony Albanese pledged at the federal election that Labor would return the port to Australian hands, saying it necessary for national security.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-01/chinese-owned-darwin-port-launches-legal-action/106633362"
+    },
+    {
       "published_datetime": "2026-05-01T07:02:13.000000Z",
       "title": "Mother haunted by letters after two-year-old son killed in murder-suicide",
       "featured_image": {
@@ -8,15 +17,6 @@
       },
       "description": "A coronial inquest hears letters that arrived three days after an apparent murder-suicide in Lismore outlined a father's deadly plans.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-01/lismore-murder-suicide-inquest/106616892"
-    },
-    {
-      "published_datetime": "2026-05-01T06:57:54.000000Z",
-      "title": "Actor on Rebel Wilson film accused of breaching NDA, court hears",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/03e1822b0d5218f597ff76b0937ed9d3?impolicy=wcms_crop_resize&amp;cropH=803&amp;cropW=1427&amp;xPos=0&amp;yPos=3&amp;width=862&amp;height=485"
-      },
-      "description": "Rebel Wilson's defamation trial hears from another producer on her directorial debut, who claims The Deb's lead actor was \"fudging\" her version of events about an alleged incident during production.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/rebel-wilson-defamation-trial-nears-end-charlotte-macinnes/106631900"
     },
     {
       "published_datetime": "2026-05-01T06:52:34.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-01T08:17:13.962135"
+  "merged_at": "2026-05-01T10:16:10.230926"
 }
