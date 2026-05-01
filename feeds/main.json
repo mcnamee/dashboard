@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-01T14:58:25.000000Z",
+      "title": "Iran offers new proposal to end war with United States",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c141eae968f37d3e660d21472dc920da?impolicy=wcms_crop_resize&amp;cropH=1259&amp;cropW=2239&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Global oil prices dropped slightly from a four-year-high after news Iran has delivered a new proposal for peace talks.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-02/iran-issues-new-proposal-to-end-war-with-united-states/106633666"
+    },
+    {
       "published_datetime": "2026-05-01T12:52:53.000000Z",
       "title": "Tie property tax changes to income tax cuts, productivity chief says",
       "featured_image": {
@@ -68,15 +77,6 @@
       "audio_url": "",
       "url": "israel-rushed-iron-beam-laser-7fp1u3VlREyHCFGXXjHVag",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-01T01:18:00.000000Z",
-      "title": "Australian 'ISIS brides' in limbo after reportedly being blocked from reaching Syrian airport",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c936d6b729138933d5d2c04c1ba340f7?impolicy=wcms_crop_resize&amp;cropH=1540&amp;cropW=2738&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
-      },
-      "description": "A week since a group of 13 Australian women and children with ties to former Islamic State fighters left a Syrian refugee camp for Australia, they remain in the capital Damascus in a state of limbo.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/australia-has-no-legal-way-to-block-isis-brides-law-expert-says/106629468"
     },
     {
       "published_datetime": "2026-05-01T00:48:13.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-01T14:15:56.789506"
+  "merged_at": "2026-05-01T15:47:41.003146"
 }
