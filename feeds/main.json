@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-01T12:52:53.000000Z",
+      "title": "Tie property tax changes to income tax cuts, productivity chief says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5303976552001c9e41884e7ac3345a6a?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485"
+      },
+      "description": "Productivity Commission chair Danielle Wood says there is a \"case\" for property tax changes, but for it to be serious reform, the economic benefit must flow to workers. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-01/labor-urged-to-put-income-tax-cuts-in-reform-mix/106633066"
+    },
+    {
       "published_datetime": "2026-05-01T12:03:30.000000Z",
       "title": "Gaza aid flotilla activists taken to Crete after Israeli interception",
       "featured_image": {
@@ -77,15 +86,6 @@
       },
       "description": "A deadline for US President Donald Trump to end the Iran war is about to expire. Here is what to expect.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-01/trump-iran-war-powers-resolution-deadline/106620278"
-    },
-    {
-      "published_datetime": "2026-04-30T22:31:14.000000Z",
-      "title": "Ex-premier's partner charged with rape and deprivation of liberty",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b7e50569eda4581c745875ccc697fc4d?impolicy=wcms_crop_resize&amp;cropH=2597&amp;cropW=4617&amp;xPos=0&amp;yPos=134&amp;width=862&amp;height=485"
-      },
-      "description": "Vahid Reza Adib, the partner of former Queensland premier Annastacia Palaszczuk, has been charged with three counts of rape relating to alleged offending against a woman in her 30s at Burleigh Heads on March 30.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/vahid-reza-adib-partner-of-palaszczuk-apartment-raided/106628950"
     },
     {
       "published_datetime": "2026-04-30T22:10:14.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-01T13:42:32.003797"
+  "merged_at": "2026-05-01T14:15:56.789506"
 }
