@@ -1,31 +1,49 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-01T07:02:13.000000Z",
+      "title": "Mother haunted by letters after two-year-old son killed in murder-suicide",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba80c4a9a2994e4e450184d2f5db922a?impolicy=wcms_crop_resize&amp;cropH=1901&amp;cropW=3380&amp;xPos=656&amp;yPos=945&amp;width=862&amp;height=485"
+      },
+      "description": "A coronial inquest hears letters that arrived three days after an apparent murder-suicide in Lismore outlined a father's deadly plans.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-01/lismore-murder-suicide-inquest/106616892"
+    },
+    {
+      "published_datetime": "2026-05-01T06:57:54.000000Z",
+      "title": "Actor on Rebel Wilson film accused of breaching NDA, court hears",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/03e1822b0d5218f597ff76b0937ed9d3?impolicy=wcms_crop_resize&amp;cropH=803&amp;cropW=1427&amp;xPos=0&amp;yPos=3&amp;width=862&amp;height=485"
+      },
+      "description": "Rebel Wilson's defamation trial hears from another producer on her directorial debut, who claims The Deb's lead actor was \"fudging\" her version of events about an alleged incident during production.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-01/rebel-wilson-defamation-trial-nears-end-charlotte-macinnes/106631900"
+    },
+    {
+      "published_datetime": "2026-05-01T06:52:34.000000Z",
+      "title": "Rare quadruplet birth stuns mum, 45, and doctors",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d20387ffbb76c5e786e338550b1c1744?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "A Kalgoorlie couple expecting triplets welcome a surprise fourth baby \u2014 delivering an extraordinarily rare set of quadruplets that stunned even their doctors.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-01/mum-45-gives-birth-to-quadruplets-in-rare-birth-ivf/106632344"
+    },
+    {
+      "published_datetime": "2026-05-01T06:50:17.000000Z",
+      "title": "Beaches evacuated as sharks swarm towards 25-tonne whale carcass",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e22619bdb37bd4326c6dafb1c4524f75?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=281&amp;width=862&amp;height=485"
+      },
+      "description": "The sperm whale carcass was towed from Era Beach in the Royal National Park to Bellambi Boat Ramp in Wollongong this afternoon.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-01/royal-national-park-whale-carcass-removed-bellambi-boat-ramp/106631260"
+    },
+    {
       "published_datetime": "2026-05-01T04:48:13.000000Z",
-      "title": "Kumanjayi Little Baby's family calls for calm following Alice Springs riots",
+      "title": "Kumanjayi Little Baby's family says 'now is not the time' to 'make trouble' in Alice Springs",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b67f06f1caa8fe5feac9f607c0a322e2?impolicy=wcms_crop_resize&amp;cropH=2807&amp;cropW=4991&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "The family of Alice Springs five-year-old Kumanjayi Little Baby have called for calm following rioting in the outback town overnight, while police say her alleged murderer was beaten unconscious.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-01/calls-for-calm-alice-springs-unrest-after-jefferson-lewis-arrest/106630284"
-    },
-    {
-      "published_datetime": "2026-05-01T02:52:37.000000Z",
-      "title": "Lessons should have been learnt prior to NDIS rollout, integrity boss says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7a6ceffe7c73c32bf3c0d67ca355cb17?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=249&amp;width=862&amp;height=485"
-      },
-      "description": "About $3.7 billion of National Disability Insurance Scheme money was handed out inappropriately last financial year, the scheme's integrity chief has told a parliamentary hearing.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/ndis-funding-integrity-leakage-parliamentary-hearing/106630496"
-    },
-    {
-      "published_datetime": "2026-05-01T02:29:52.000000Z",
-      "title": "Police confirm identity of remains found in SA bushland",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e3ba5e2009a5f759d07e6b562e0ef324?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=91&amp;width=862&amp;height=485"
-      },
-      "description": "SA Police say remains found in bushland south of Adelaide a week ago have been identified as belonging to Jeff Mundy, who was last seen by his family five years ago.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/remains-jeff-mundy-found-inman-valley-sa-police/106630264"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0cbe4e02-5234-453a-b2dc-fc23de3da606",
@@ -43,13 +61,13 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-05-01T01:04:44.000000Z",
-      "title": "Poliovirus detected in Perth wastewater",
+      "published_datetime": "2026-05-01T01:18:00.000000Z",
+      "title": "Australian 'ISIS brides' in limbo after reportedly being blocked from reaching Syrian airport",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0a6fe1b85aafdebfce53a215ac5a678b?impolicy=wcms_crop_resize&amp;cropH=1013&amp;cropW=1800&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c936d6b729138933d5d2c04c1ba340f7?impolicy=wcms_crop_resize&amp;cropH=1540&amp;cropW=2738&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
       },
-      "description": "Poliovirus has been detected in a sample taken from a wastewater in Perth, the Health Department reveals.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/poliovirus-detected-in-perth-wastewater-/106621850"
+      "description": "A week since a group of 13 Australian women and children with ties to former Islamic State fighters left a Syrian refugee camp for Australia, they remain in the capital Damascus in a state of limbo.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-01/australia-has-no-legal-way-to-block-isis-brides-law-expert-says/106629468"
     },
     {
       "published_datetime": "2026-05-01T00:48:13.000000Z",
@@ -110,30 +128,12 @@
     },
     {
       "published_datetime": "2026-04-30T20:10:34.000000Z",
-      "title": "'Gentle parenting' under fire from this alternative school's supporters",
+      "title": "'No secrets': Alternative school's history of discipline in spotlight",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6b1a1efb134a59ab1ba4f030e2f5727a?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=100&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/133e20500568274e147e8aa032d12624?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "For 50 years, this alternative school sold parents a vision of progressive education. But some who have passed through its doors say a 'cult-like' culture enabled decades of unchecked physical abuse.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-01/fitzroy-community-school-abuse-allegations-revealed/106524582"
-    },
-    {
-      "published_datetime": "2026-04-30T19:42:12.000000Z",
-      "title": "Melbourne and Sydney record large house price falls as growth slows across the country",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ec2258678f6db0085af009c88bf29f74?impolicy=wcms_crop_resize&amp;cropH=2001&amp;cropW=3558&amp;xPos=0&amp;yPos=22&amp;width=862&amp;height=485"
-      },
-      "description": "Momentum in the housing market has slowed, with every capital city recording a slower pace of growth in April.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/house-prices-slow-in-growth-across-country-new-data/106624082"
-    },
-    {
-      "published_datetime": "2026-04-30T19:23:50.000000Z",
-      "title": "Bondi royal commission interim report careful but ultimately damning",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/81ab667b48bbb29ace09c56fa899bd9e?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
-      },
-      "description": "The message beneath the restrained language of the report investigating the Bondi terror attack is that by Hanukkah 2025, Australia had grown dangerously complacent about terrorism \u2013 and about the safety of the Jewish community.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/bondi-antisemitism-social-cohesion-royal-commission-analysis/106627848"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/06bf0a9b-a302-4762-924d-a857f52b7931",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-01T06:00:05.573590"
+  "merged_at": "2026-05-01T08:17:13.962135"
 }
