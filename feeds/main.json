@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-01T17:41:13.000000Z",
+      "title": "'No way to treat close partners': Trump hikes tariffs on EU cars to 25%",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3e8c7ac5b2a861bac5ed146060eec416?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+      },
+      "description": "US President Donald Trump says he's ordered the higher tariff because the European Union was \"not complying with our fully agreed to Trade Deal\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-02/trump-announces-higher-tariff-on-europe-cars/106634068"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d187b119-968d-4a05-af94-e710e14d4516",
       "published_datetime": "2026-05-01T16:19:21.768421",
       "title": "Trump to raise tariffs on EU cars and trucks to 25%",
@@ -21,7 +30,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c141eae968f37d3e660d21472dc920da?impolicy=wcms_crop_resize&amp;cropH=1259&amp;cropW=2239&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Peace talks between the the United States and Iran have stalled, with US President Donald Trump threatening to \"blast them to hell\" if they don't reach a deal.",
+      "description": "Peace talks between the United States and Iran have stalled, with US President Donald Trump threatening to \"blast them to hell\" if they don't reach a deal.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-02/iran-issues-new-proposal-to-end-war-with-united-states/106633666"
     },
     {
@@ -58,15 +67,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-01/crew-members-on-israel-blocked-aid-flotilla-taken-to-greece/106633356"
     },
     {
-      "published_datetime": "2026-05-01T11:40:42.000000Z",
-      "title": "Suspect charged after stabbings of Jewish men in London",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bb6c3c8f257b295fc7622369edaefe64?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=42&amp;width=862&amp;height=485"
-      },
-      "description": "UK police charge a 45-year-old man over the stabbing of two Jewish men in north London, the latest in a string of attacks targeting Britain's Jewish community.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/man-charged-over-suspected-uk-terrorist-attack/106633360"
-    },
-    {
       "published_datetime": "2026-05-01T09:21:34.000000Z",
       "title": "Chinese company launches legal action over forced sale of Port of Darwin",
       "featured_image": {
@@ -74,6 +74,15 @@
       },
       "description": "Anthony Albanese pledged at the federal election that Labor would return the port to Australian hands, saying it necessary for national security.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-01/chinese-owned-darwin-port-launches-legal-action/106633362"
+    },
+    {
+      "published_datetime": "2026-05-01T08:33:20.000000Z",
+      "title": "Crows claim epic after two goals inside final minute as Freo downs Dogs",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7b3322181b8eaa4add061dfe6e75f2a7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=482&amp;width=862&amp;height=485"
+      },
+      "description": "Adelaide claims a remarkable one-point victory over Port Adelaide after Hayden Young fires the Dockers to victory over the Bulldogs.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-01/afl-r8-bulldogs-dockers-crows-power-showdown-live-blog/106633340"
     },
     {
       "published_datetime": "2026-05-01T06:52:34.000000Z",
@@ -116,15 +125,6 @@
       },
       "description": "A deadline for US President Donald Trump to end the Iran war is about to expire. Here is what to expect.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-01/trump-iran-war-powers-resolution-deadline/106620278"
-    },
-    {
-      "published_datetime": "2026-04-30T22:10:14.000000Z",
-      "title": "Hard-won legacy of Australia's longest strike in jeopardy",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c25135c8ed4b64fe85fa0fbfdd5a6b20?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "It's been 80 years since Aboriginal workers in the Pilbara up-ended a slave-like labour system. The descendants of those involved fear its legacy is being forgotten.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-01/legacy-of-pilbara-aboriginal-strike-80th-anniversary/106620566"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/778ae009-705c-4447-996f-b2057468af1b",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-01T17:51:08.397914"
+  "merged_at": "2026-05-01T18:58:29.849888"
 }
