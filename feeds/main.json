@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-02T10:45:51.000000Z",
+      "title": "Breaking: Liberal Party retains the seat of Nepean in by-election",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f2b3c372b0d84e418fc2199098c3b868?impolicy=wcms_crop_resize&amp;cropH=5344&amp;cropW=9500&amp;xPos=2&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Anthony Marsh wins the Nepean by-election, retaining the seat for the Liberal Party.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-02/victoria-nepean-by-election-results/106633600"
+    },
+    {
       "published_datetime": "2026-05-02T08:36:38.000000Z",
       "title": "Brisbane Lions coach slams 'hero' parent after whiteboard leak",
       "featured_image": {
@@ -8,15 +17,6 @@
       },
       "description": "Chris Fagan has expressed his disappointment after the leaking of confidential Brisbane Lions notes on Essendon players.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-02/chris-fagan-brisbane-lions-whiteboard-leak/106634834"
-    },
-    {
-      "published_datetime": "2026-05-02T08:00:10.000000Z",
-      "title": "Polls close in Nepean by-election in Victoria",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a36f9b809d1b4a5a7c8b8ceb47e97fe2?impolicy=wcms_crop_resize&amp;cropH=449&amp;cropW=798&amp;xPos=2&amp;yPos=40&amp;width=862&amp;height=485"
-      },
-      "description": "The Liberal Party seeks to retain the seat vacated by former Victorian deputy Liberal leader Sam Groth.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-02/victoria-polls-close-nepean-by-election/106633596"
     },
     {
       "published_datetime": "2026-05-02T07:47:00.000000Z",
@@ -29,9 +29,9 @@
     },
     {
       "published_datetime": "2026-05-02T04:44:06.000000Z",
-      "title": "Live: Ramsey returns for Roosters after four-year absence with illness",
+      "title": "Live: Broncos fall short of miracle comeback as Reynolds hurt again",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0007773b5bf03c61cfb8bf72030bf9e4?impolicy=wcms_crop_resize&amp;cropH=769&amp;cropW=1368&amp;xPos=49&amp;yPos=49&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/505d35610bd4a80d3ad8acd9472c6c3e?impolicy=wcms_crop_resize&amp;cropH=1769&amp;cropW=3145&amp;xPos=188&amp;yPos=596&amp;width=862&amp;height=485"
       },
       "description": "As the Broncos welcome back Reece Walsh and Pat Carrigan, the Roosters give Cody Ramsey his first NRL minutes since 2022. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-02/nrl-live-titans-raiders-eels-warriors-roosters-broncos/106634596"
@@ -56,7 +56,7 @@
     },
     {
       "published_datetime": "2026-05-02T02:04:17.000000Z",
-      "title": "Live: Towering mark ignites Blues-Saints clash after Tigers get on the board",
+      "title": "Live: Saints onslaught stuns Blues after towering mark ignites blustery clash",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d34ad12d1a4988081f3589beb1970ba2?impolicy=wcms_crop_resize&amp;cropH=1957&amp;cropW=3479&amp;xPos=0&amp;yPos=79&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-02T10:42:45.559651"
+  "merged_at": "2026-05-02T11:37:52.984071"
 }
