@@ -2,11 +2,11 @@
   "items": [
     {
       "published_datetime": "2026-05-02T21:15:55.000000Z",
-      "title": "Breaking: Three dead, man arrested after incident at home in Sydney",
+      "title": "Three dead, man arrested after incident at home in Sydney",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/73768e1510a61a8e924f033e53db257a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0a67cc012854749c69e48fb2b489385c?impolicy=wcms_crop_resize&amp;cropH=2304&amp;cropW=4096&amp;xPos=0&amp;yPos=678&amp;width=862&amp;height=485"
       },
-      "description": "Police say a man and woman in their 60s and a man in his 20s are dead after the incident at a home on Juliet Close in Rosemeadow.",
+      "description": "Police say a man and woman in their 60s and a man in his 20s are dead after a domestic violence-related incident at a home in Rosemeadow.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-03/nsw-man-arrested-death-three-people-rosemeadow/106635600"
     },
     {
@@ -28,15 +28,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-03/clare-nowland-taser-death-inquest-family-four-corners/106628234"
     },
     {
-      "published_datetime": "2026-05-02T19:19:14.000000Z",
-      "title": "Ukrainian vet saved humans and animals before finding refuge in Australia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8f3c88a0e82854b854e0f78abeedaae5?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=73&amp;width=862&amp;height=485"
-      },
-      "description": "Wildlife veterinarian Maria Mykytiuk led an idyllic life in Bucha, Ukraine, before Russian forces invaded the city in 2022.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-03/kindness-of-strangers-helped-ukrainian-family/106625858"
-    },
-    {
       "published_datetime": "2026-05-02T19:00:00.000000Z",
       "title": "The year that changed the shape of Albanese's agenda",
       "featured_image": {
@@ -47,7 +38,7 @@
     },
     {
       "published_datetime": "2026-05-02T19:00:00.000000Z",
-      "title": "What we lose when big business buys up our favourite little pubs",
+      "title": "'If the cops came, you'd slip out the back': The shifting role of Aussie pubs",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e7eed3bd68139bbd891be40a200302ae?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
       },
@@ -69,8 +60,17 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a75116d308d6e55bc05ac0b91a6cd80a?impolicy=wcms_crop_resize&amp;cropH=1875&amp;cropW=3333&amp;xPos=0&amp;yPos=706&amp;width=862&amp;height=485"
       },
-      "description": "King Charles's state visit to the United States hit a bump in New York when Mayor Zohran Mamdani said if the pair were to speak, he would \"probably encourage him to return the Koh-i-Noor diamond\".",
+      "description": "King Charles's US state visit hit a bump in New York when Mayor Zohran Mamdani said if the pair were to speak, he would \"probably encourage him to return the Koh-i-Noor diamond\".",
       "page_content_url": "https://www.abc.net.au/news/2026-05-03/koh-i-noor-diamond-king-charles-zohran-mamdani/106629540"
+    },
+    {
+      "published_datetime": "2026-05-02T18:54:07.000000Z",
+      "title": "They escaped scam compounds then saw their suffering 'gamified'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b961c5b04958bdabc545860e3cd55a50?impolicy=wcms_crop_resize&amp;cropH=539&amp;cropW=958&amp;xPos=2&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Scam centre survivors say they are hurt by games that serialise scam compound experiences online, but one creator says he hopes people find the game \"fun\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-03/scam-centre-computer-games-on-steam-upset-survivors/106605866"
     },
     {
       "published_datetime": "2026-05-02T18:51:25.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-02T21:32:16.339368"
+  "merged_at": "2026-05-02T22:31:11.097051"
 }
