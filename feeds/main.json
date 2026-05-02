@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-02T19:27:48.000000Z",
+      "title": "Wellbeing program helps veterans adjust to post-service life",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d708ac76116b71eb6b96fd8d23718a8d?impolicy=wcms_crop_resize&amp;cropH=788&amp;cropW=1400&amp;xPos=0&amp;yPos=26&amp;width=862&amp;height=485"
+      },
+      "description": "When training and physical fitness are a part of the job, sometimes veterans can drop off when they discharge, to the detriment of their mental and physical wellbeing.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-03/veteran-health-program-for-physical-mental-wellbeing/106626226"
+    },
+    {
+      "published_datetime": "2026-05-02T19:19:14.000000Z",
+      "title": "Ukrainian vet saved humans and animals before finding refuge in Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8f3c88a0e82854b854e0f78abeedaae5?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=73&amp;width=862&amp;height=485"
+      },
+      "description": "Wildlife veterinarian Maria Mykytiuk led an idyllic life in Bucha, Ukraine, before Russian forces invaded the city in 2022.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-03/kindness-of-strangers-helped-ukrainian-family/106625858"
+    },
+    {
       "published_datetime": "2026-05-02T19:00:00.000000Z",
       "title": "What we lose when big business buys up our favourite little pubs",
       "featured_image": {
@@ -35,15 +53,6 @@
       },
       "description": "King Charles's state visit to the United States hit a bump in New York when Mayor Zohran Mamdani said if the pair were to speak, he would \"probably encourage him to return the Koh-i-Noor diamond\".",
       "page_content_url": "https://www.abc.net.au/news/2026-05-03/kohinoor-diamond-king-charles-zohran-mamdan/106629540"
-    },
-    {
-      "published_datetime": "2026-05-02T18:55:29.000000Z",
-      "title": "New York City Mayor Zohran Mamdani",
-      "featured_image": {
-        "thumbnail": ""
-      },
-      "description": "",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-03/new-york-city-mayor-zohran-mamdani/106632336"
     },
     {
       "published_datetime": "2026-05-02T18:54:07.000000Z",
@@ -103,13 +112,13 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-05-02T07:47:00.000000Z",
-      "title": "Kumanjayi Little Baby's grandfather thanks community, says time to 'let justice take its course'",
+      "published_datetime": "2026-05-02T10:45:51.000000Z",
+      "title": "Liberal Party retains the seat of Nepean in by-election",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/53bec9065cf6f233e485b08d5d1be95f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=320&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/afecc219da15266276f3e3e4eda09e5b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The family of five-year-old Kumanjayi Little Baby, whose body was found on the outskirts of Alice Springs on Thursday, has thanked the community for their support as tributes flow in from across the country.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-02/family-thanks-community-tributes-flow-for-kumanjayi-little-baby/106634648"
+      "description": "Anthony Marsh wins the Nepean by-election, retaining the seat for the Liberal Party.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-02/victoria-nepean-by-election-results/106633600"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e5c401ce-1f14-4aed-9157-66f784799ba8",
@@ -140,15 +149,6 @@
       "audio_url": "",
       "url": "iran-demands-six-arab-states-p-pwRpSElrTwClLrQzr2Bvzw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-01T20:05:12.000000Z",
-      "title": "Police pulled him over on his farm. He was tasered 30 seconds later",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1cb5dfe361dbfd9124340078babb8efc?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=78&amp;width=862&amp;height=485"
-      },
-      "description": "Disturbing cases of people wrongly tasered by police on their farm and at school has raised questions over whether officers are too reliant on the devices.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-02/police-taser-device-reliance-misuse-concerns-four-corners/106628214"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7c75f01c-bc6d-413f-beab-a3e40aa6aa0a",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-02T19:47:43.012612"
+  "merged_at": "2026-05-02T20:32:20.195376"
 }
