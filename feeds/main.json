@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-03T22:20:25.000000Z",
+      "title": "Live: Donald Trump announces plan to escort ships out of Strait of Hormuz",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2dca8952d6ad440dcc0731411b8cf00e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "In a post to Truth Social, the president says the US will try to free ships in the strait in a \"humanitarian\" gesture. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-04/iran-war-live-updates-us-donald-trump-israel-lebanon-hezbollah/106636370"
+    },
+    {
       "published_datetime": "2026-05-03T21:04:52.000000Z",
       "title": "Live: Japan's PM touches down in Canberra for first visit to Australia",
       "featured_image": {
@@ -11,21 +20,12 @@
     },
     {
       "published_datetime": "2026-05-03T21:01:13.000000Z",
-      "title": "Iran daily briefing: Details on Iran's 14-point peace plan, and what else you should know now",
+      "title": "What's in, and what's notably missing from, Iran's 14-point peace plan",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b8bd02762b42d4b6e36ddd36512086f?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
       },
       "description": "Iran gives the US a 30-day deadline on its counteroffer for peace, which does not mention its nuclear ambitions.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-04/iran-israel-war-news-briefing-tehran-new-peace-plan/106467596"
-    },
-    {
-      "published_datetime": "2026-05-03T20:52:20.000000Z",
-      "title": "Cargo ship in Strait of Hormuz says it was attacked as peace negotiations continue",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/971bbeddce3923779758c96423f4d854?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=407&amp;width=862&amp;height=485"
-      },
-      "description": "A cargo ship near the Strait of Hormuz says it was attacked by multiple small craft, marking at least two dozen attacks in and around the strait since the Iran war began.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-04/iran-review-us-response-to-peace-proposal-middle-east-war/106637344"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9c2a9763-94fd-4af3-aae1-6c0a842f760c",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-03T21:33:33.660570"
+  "merged_at": "2026-05-03T22:31:51.298340"
 }
