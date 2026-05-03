@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9c2a9763-94fd-4af3-aae1-6c0a842f760c",
+      "published_datetime": "2026-05-03T20:23:38.479448",
+      "title": "Three dead in hantavirus outbreak on Atlantic cruise ship",
+      "featured_image": {
+        "url": "https://www.gettyimages.com/detail/news-photo/general-view-of-the-cruise-ship-mv-hondius-stationary-off-news-photo/2273814178",
+        "name": "CAPE VERDE-HEALTH-TOURISM",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1777838700/getty_uploads/2273814178_pku05r.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1777838700/getty_uploads/2273814178_pku05r.jpg"
+      },
+      "description": "A hantavirus outbreak aboard a polar cruise ship sailing the Atlantic Ocean has killed at least three people and left a fourth in intensive care, prompting an international public health response led by the World Health Organization.",
+      "audio_url": "",
+      "url": "three-dead-in-hantavirus-outbr-3zb3.l9sRvSzAj.GJhAzyw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-03T19:31:58.000000Z",
       "title": "\u2018Friendships ended\u2019: Jewish Australians reveal impact of antisemitism",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e5c401ce-1f14-4aed-9157-66f784799ba8",
-      "published_datetime": "2026-05-02T00:22:25.520843",
-      "title": "US warns EU allies of arms delivery delays as Iran war drains stockpiles",
-      "featured_image": {
-        "url": "https://www.reuters.com/world/europe/us-warns-european-allies-including-uk-poland-arms-shipment-delays-ft-reports-2026-05-01/",
-        "name": "US warns European allies including UK and Poland of arms shipment delays, FT  reports | Reuters",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1777681055/url_uploads/TDOURC5KPBPB5DCTWUVM37UIFI_tyqcok.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1777681055/url_uploads/TDOURC5KPBPB5DCTWUVM37UIFI_tyqcok.jpg"
-      },
-      "description": "The United States has warned European allies including the United Kingdom, Poland, Lithuania, and Estonia to expect prolonged delays in the delivery of American weapons systems, as the ongoing war with Iran rapidly depletes U.S. munitions stockpiles, the Financial Times reported on Friday.[1][2][3]\n\nThe warning, delivered through bilateral channels, marks an expansion of earlier alerts that had been limited to Baltic and Scandinavian nations. It underscores how deeply the two-month-old conflict is straining America's defense industrial base and unsettling NATO allies already on edge over Russia.",
-      "audio_url": "",
-      "url": "us-warns-eu-allies-of-arms-del-QX3RZ1fPSYmlwHtwnmWprw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-03T20:33:46.206189"
+  "merged_at": "2026-05-03T20:53:59.972653"
 }
