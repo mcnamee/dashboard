@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-03T09:15:23.000000Z",
+      "title": "Iran ready for 'renewed' hostilities as Trump cools on peace proposal",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1899c76d53df3bf863c1d97e6e3cb1f6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "US President Donald Trump says he will review a new Iranian peace proposal, but casts doubt over its prospects as he left open the possibility of future attacks on Iran.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-03/trump-says-us-not-likely-to-accept-new-peace-proposal/106636528"
+    },
+    {
       "published_datetime": "2026-05-03T08:07:29.000000Z",
       "title": "Mercury would 'be alive': Shark victim's family welcomes new drone plan",
       "featured_image": {
@@ -28,30 +37,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-03/albanese-federal-budget-to-favour-gen-z-millennials/106636382"
     },
     {
-      "published_datetime": "2026-05-03T05:48:26.000000Z",
-      "title": "By-election of no consequence leaves some major party insiders disturbed",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f9313fd058c59be952bcb5875d7760ab?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Nepean by-election proves Victoria's election in November is likely to be tough for the two major parties, Richard Willingham writes.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-03/nepean-by-election-proof-state-election-tough-for-major-parties/106636116"
-    },
-    {
       "published_datetime": "2026-05-03T04:42:41.000000Z",
-      "title": "Live: Window shattered in Hardwick's box before Suns-GWS clash, Swans down Dees",
+      "title": "Live: Suns pegged back after fast start as King flattened in marking contest",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/95f710f39a3fe039ff7e74433bf56c1c?impolicy=wcms_crop_resize&amp;cropH=1756&amp;cropW=3122&amp;xPos=0&amp;yPos=46&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9314346fad32d44d6118bd3ebbd2497d?impolicy=wcms_crop_resize&amp;cropH=2282&amp;cropW=4056&amp;xPos=0&amp;yPos=211&amp;width=862&amp;height=485"
       },
-      "description": "A TV set-up crew gets things horribly wrong inside Gold Coast's coaches box as Sydney's Malcolm Rosas Jr boots seven goals against Melbourne. Follow live.",
+      "description": "The GWS Giants burst to life after a slow start at Carrara Stadium, as Ben King is left worse for wear after a big marking contest. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-03/afl-round-eight-swans-demons-suns-giants-live-blog/106636206"
     },
     {
       "published_datetime": "2026-05-03T03:29:57.000000Z",
-      "title": "Live: Penrith snatches half-time lead against fighting Manly, woeful Wests trounced",
+      "title": "Marshall slams 'unacceptable' Tigers after horror second stanza",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8f341e48b67b41cd2b0d68675aaafb6d?impolicy=wcms_crop_resize&amp;cropH=2148&amp;cropW=3819&amp;xPos=0&amp;yPos=88&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3cbdd600424609ac8caf48c640f64022?impolicy=wcms_crop_resize&amp;cropH=1932&amp;cropW=3435&amp;xPos=0&amp;yPos=108&amp;width=862&amp;height=485"
       },
-      "description": "Kieran Foran's Sea Eagles are looking to continue their resurgence against the ladder-leading Panthers, with the Tigers licking their wounds after a horror loss to Cronulla. Follow live.",
+      "description": "Benji Marshall said he could not recognise his Wests Tigers side after a humiliating second half saw Cronulla dominate at Shark Park, while there were also wins for Newcastle and Penrith on a bumper Sunday of NRL football.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-03/nrl-live-knights-rabbitohs-sharks-tigers-panthers-sea-eagles/106636142"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-03T10:11:29.159531"
+  "merged_at": "2026-05-03T10:45:25.786426"
 }
