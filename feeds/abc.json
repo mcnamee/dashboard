@@ -2,9 +2,9 @@
   "items": [
     {
       "published_datetime": "2026-05-03T18:37:19.000000Z",
-      "title": "Thousands of police officers at risk of being tracked by a phone app",
+      "title": "A hacker built a tool to track police officers. Then he tried to warn them",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/58829d01e000b188d4afdd7267b81629?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/60a26a0fa9fc3e61cbeae6d3213d7614?impolicy=wcms_crop_resize&amp;cropH=1500&amp;cropW=2667&amp;xPos=0&amp;yPos=190&amp;width=862&amp;height=485"
       },
       "description": "A security flaw means the location of devices used by police, potentially including undercover officers and those travelling home, is visible to anyone with a phone or laptop.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-04/police-location-tracked-bluetooth-flaw-axon-tasers-bodycams/106610886"
@@ -28,6 +28,42 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-04/tax-windfall-iran-war-to-be-banked-federal-budget/106636300"
     },
     {
+      "published_datetime": "2026-05-03T21:01:13.000000Z",
+      "title": "Iran daily briefing: Details on Iran's 14-point peace plan, and what else you should know now",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b8bd02762b42d4b6e36ddd36512086f?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
+      },
+      "description": "Iran gives the US a 30-day deadline on its counteroffer for peace, which does not mention its nuclear ambitions.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-04/iran-israel-war-news-briefing-tehran-new-peace-plan/106467596"
+    },
+    {
+      "published_datetime": "2026-05-03T20:52:20.000000Z",
+      "title": "Cargo ship in Strait of Hormuz says it was attacked as peace negotiations continue",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/971bbeddce3923779758c96423f4d854?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=407&amp;width=862&amp;height=485"
+      },
+      "description": "A cargo ship near the Strait of Hormuz says it was attacked by multiple small craft, marking at least two dozen attacks in and around the strait since the Iran war began.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-04/iran-review-us-response-to-peace-proposal-middle-east-war/106637344"
+    },
+    {
+      "published_datetime": "2026-05-03T19:31:58.000000Z",
+      "title": "'Friendships ended': Jewish Australians reveal impact of antisemitism",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40527f51501015f19588f30c82aab8b9?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
+      },
+      "description": "The Royal Commission on Antisemitism and Social Cohesion will hear from people with lived experience in public sessions beginning in Sydney this week.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-04/bondi-antisemitism-royal-commission-hearings-begin/106629506"
+    },
+    {
+      "published_datetime": "2026-05-03T21:04:52.000000Z",
+      "title": "Live: Japan's PM touches down in Canberra for first visit to Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c4962a7d0dfc4b76a75ca85faa9968ea?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Japanese Prime Minister Sanae Takaichi has touched down in Canberra for her first visit to Australia. Follow live. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-04/federal-politics-live-blog-sanae-takaichi-/106637392"
+    },
+    {
       "published_datetime": "2026-05-03T19:00:00.000000Z",
       "title": "We're headed into an AI fog as the automation arms race begins",
       "featured_image": {
@@ -35,6 +71,15 @@
       },
       "description": "Artificial intelligence might be driving growth for data centre companies, but society is unprepared for the long-term risks posed to the rest of us. ",
       "page_content_url": "https://www.abc.net.au/news/2026-05-04/artificial-intelligence-fog-layoff-data-centres-craig-scroggie/106635938"
+    },
+    {
+      "published_datetime": "2026-05-03T18:37:14.000000Z",
+      "title": "Australian businesses falling victim to new type of fraud",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1ff5011ef02784ef53c1b86f7314e2a5?impolicy=wcms_crop_resize&amp;cropH=759&amp;cropW=1350&amp;xPos=0&amp;yPos=87&amp;width=862&amp;height=485"
+      },
+      "description": "Higher inflation, a war in the Middle East, and a ban on surcharges are crippling small businesses. Now they are falling victim to a modern crime.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-04/fraudulent-chargebacks-hit-small-businesses-financial-pressure/106479208"
     },
     {
       "published_datetime": "2026-05-03T18:38:33.000000Z",
@@ -46,58 +91,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-04/russia-domestic-violence-on-rise-analysts-say-amid-ukraine-war/105732706"
     },
     {
-      "published_datetime": "2026-05-03T18:37:14.000000Z",
-      "title": "Australian businesses are falling victim to a new type of fraud",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1ff5011ef02784ef53c1b86f7314e2a5?impolicy=wcms_crop_resize&amp;cropH=759&amp;cropW=1350&amp;xPos=0&amp;yPos=87&amp;width=862&amp;height=485"
-      },
-      "description": "Higher inflation, a war in the Middle East, and a ban on surcharges are crippling small businesses. Now they are falling victim to a modern crime.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-04/fraudulent-chargebacks-hit-small-businesses-financial-pressure/106479208"
-    },
-    {
       "published_datetime": "2026-05-03T18:42:14.000000Z",
       "title": "Interest rates and recession: What to know before tomorrow's RBA decision",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/87c24e7a1dc3eb04934efb49e6a7462f?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
       },
-      "description": "Business journalist Emily Stewart walks you through the elements that will contribute to the RBA's decision to change the cash rate on Tuesday. ",
+      "description": "Business journalist Emily Stewart walks you through the elements that will contribute to the RBA's decision to change the cash rate on Tuesday.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-04/interest-rates-explainer-reserve-bank-australia-rba-rise/106624070"
-    },
-    {
-      "published_datetime": "2026-05-03T09:15:23.000000Z",
-      "title": "Iran ready for 'renewed' hostilities as Trump cools on peace proposal",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1899c76d53df3bf863c1d97e6e3cb1f6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "US President Donald Trump says he will review a new Iranian peace proposal, but casts doubt over its prospects as he left open the possibility of future attacks on Iran.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-03/trump-says-us-not-likely-to-accept-new-peace-proposal/106636528"
-    },
-    {
-      "published_datetime": "2026-05-03T19:31:58.000000Z",
-      "title": "‘Friendships ended’: Jewish Australians reveal impact of antisemitism",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40527f51501015f19588f30c82aab8b9?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
-      },
-      "description": "The Royal Commission on Antisemitism and Social Cohesion will hear from people with lived experience in public sessions beginning in Sydney this week.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-04/bondi-antisemitism-royal-commission-hearings-begin/106629506"
-    },
-    {
-      "published_datetime": "2026-05-03T15:28:48.000000Z",
-      "title": "Piastri makes late charge for Miami GP podium, teen makes more F1 history",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/df1167eb25396a9ab68df79c5bf3275d?impolicy=wcms_crop_resize&amp;cropH=2276&amp;cropW=4046&amp;xPos=0&amp;yPos=211&amp;width=862&amp;height=485"
-      },
-      "description": "Oscar Piastri says the future is exciting for McLaren after the Australian made a late charge to finish third in the Formula 1 Miami Grand Prix.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-04/f1-live-miami-grand-prix-oscar-piastri-lando-norris/106011352"
-    },
-    {
-      "published_datetime": "2026-05-03T02:03:00.000000Z",
-      "title": "The 'crazy idea' that became a world-first medical breakthrough",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c9b8ff5b6f208181e62dd497bc63373d?impolicy=wcms_crop_resize&amp;cropH=2384&amp;cropW=4238&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Travis Reyes survived a horror military aircraft crash but what came after was a two-year battle from doctors across Australia and the US to save his life.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-03/australian-medical-first-us-marine-life-saved-beat-odds/106629884"
     },
     {
       "published_datetime": "2026-05-02T23:31:46.000000Z",
@@ -109,22 +109,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-03/police-charge-jefferson-lewis-with-kumanjayi-little-baby-murder/106634346"
     },
     {
-      "published_datetime": "2026-05-03T19:00:00.000000Z",
-      "title": "'Not being tested': Lead may be contaminating children's clothes",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6b04f78170f1c32fa1a36072e181a40?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=468&amp;width=862&amp;height=485"
-      },
-      "description": "Despite the rising flood of fast fashion coming into Australia, there's little regulation on hazardous substances in clothes. ",
-      "page_content_url": "https://www.abc.net.au/news/science/2026-05-04/lead-in-textiles-how-do-we-know-our-clothing-is-safe-to-wear/106598968"
-    },
-    {
       "published_datetime": "2026-05-03T19:40:11.000000Z",
-      "title": "Tenants having to fight to fix unlivable, unsafe, unhealthy public housing",
+      "title": "Tenants told 'breathing' contributes to mould in public housing",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/05e54d128ee42e41df1eca921fc661b7?impolicy=wcms_crop_resize&amp;cropH=3703&amp;cropW=6584&amp;xPos=0&amp;yPos=344&amp;width=862&amp;height=485"
       },
       "description": "Despite unsafe and unusable bathrooms, cockroach infestations eating through wiring and constantly damp carpets, some Tasmanian public housing tenants are having to get the regulator to intervene in order to get solutions.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-04/unliveable-unsafe-public-housing-in-tasmania-regulator/106623636"
+    },
+    {
+      "published_datetime": "2026-05-03T19:00:00.000000Z",
+      "title": "Contaminants are in your clothes, and brands don't need to tell you",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6b04f78170f1c32fa1a36072e181a40?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=468&amp;width=862&amp;height=485"
+      },
+      "description": "Despite the rising flood of fast fashion coming into Australia, there's little regulation on hazardous substances in clothes. ",
+      "page_content_url": "https://www.abc.net.au/news/science/2026-05-04/lead-in-textiles-how-do-we-know-our-clothing-is-safe-to-wear/106598968"
     },
     {
       "published_datetime": "2026-05-03T18:30:00.000000Z",
@@ -154,15 +154,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-04/arts-revealed-showcase-up-and-coming-indigenous-artists/106616690"
     },
     {
-      "published_datetime": "2026-05-03T19:08:32.000000Z",
-      "title": "No to high-rise in our suburbs, new Victorian campaign group argues",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1a58ba99161789ba1b1e0d326989683?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Residents' groups across Victoria have formed an alliance ahead of the state election, calling for the community and councils to be given a voice when it comes to approving high-density housing.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-04/victoria-planning-reforms-activity-centres-resident-groups/106610900"
-    },
-    {
       "published_datetime": "2026-05-03T20:00:38.000000Z",
       "title": "Australia's most remote communities losing essential services due to price of fuel",
       "featured_image": {
@@ -172,58 +163,67 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-04/remote-indigenous-communities-impacted-fuel-cost-of-diesel/106617614"
     },
     {
-      "published_datetime": "2026-05-03T18:42:13.000000Z",
-      "title": "People are avoiding the news more but not because they don't care",
+      "published_datetime": "2026-05-03T20:42:00.000000Z",
+      "title": "As fuel costs soar, cycling advocates argue our priorities are all wrong",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/caf17c76c8dca4cb6d167913c4d915c3?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/01f85549ebd5fa204be61aa78d42d20a?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
       },
-      "description": "The news has never been more accessible, yet people are tuning out at record levels. Here is how to strike a balance between keeping informed and looking after yourself.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-04/people-are-avoiding-the-news-more-than-ever/106631164"
+      "description": "Bike shops in Darwin are experiencing soaring demand as more people turn to one of the oldest and simplest alternatives to cars amid skyrocketing fuel prices, but advocates say the federal government is still prioritising drivers.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-04/ebikes-surge-fuel-crisis-cars-darwin-wait-list-iran-war/106612904"
     },
     {
-      "published_datetime": "2026-05-03T14:48:20.000000Z",
-      "title": "Two US service members missing after military exercises in Morocco",
+      "published_datetime": "2026-05-03T15:28:48.000000Z",
+      "title": "Piastri makes late charge for Miami GP podium as teen makes more F1 history",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/16bb2432218c0de8f2b73ee2d649e0f8?impolicy=wcms_crop_resize&amp;cropH=2499&amp;cropW=4442&amp;xPos=0&amp;yPos=231&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/df1167eb25396a9ab68df79c5bf3275d?impolicy=wcms_crop_resize&amp;cropH=2276&amp;cropW=4046&amp;xPos=0&amp;yPos=211&amp;width=862&amp;height=485"
       },
-      "description": "A search and rescue operation is underway for the service members who went missing in mountainous terrain.   ",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-04/us-service-members-missing-after-military-exercises-in-morocco/106636794"
+      "description": "Oscar Piastri says the future is exciting for McLaren after the Australian made a late charge to finish third in the Formula 1 Miami Grand Prix.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-04/f1-live-miami-grand-prix-oscar-piastri-lando-norris/106011352"
     },
     {
-      "published_datetime": "2026-05-03T19:38:21.000000Z",
-      "title": "What you need to know about Queensland's train station staffing changes",
+      "published_datetime": "2026-05-03T02:03:00.000000Z",
+      "title": "The 'crazy idea' that became a world-first medical breakthrough",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3827b43eeca8b3ba489f31fce7759c31?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=130&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c9b8ff5b6f208181e62dd497bc63373d?impolicy=wcms_crop_resize&amp;cropH=2384&amp;cropW=4238&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Queensland Rail says it is moving to a system where staffing is based on \"customer needs and patronage\", but the changes have been labelled as \"extreme\" that will make some stations less safe.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-04/queensland-rail-station-staff-hours-changed/106611952"
+      "description": "Travis Reyes survived a horror military aircraft crash but what came after was a two-year battle from doctors across Australia and the US to save his life.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-03/australian-medical-first-us-marine-life-saved-beat-odds/106629884"
     },
     {
-      "published_datetime": "2026-05-03T06:03:11.000000Z",
-      "title": "Albanese paves way to break election pledge on negative gearing",
+      "published_datetime": "2026-05-03T20:25:08.000000Z",
+      "title": "Former bosses to face court over fatal mine collapse",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cad00d1d744ac5a4dde28abb1376d8b0?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18285e277f76b71ac0be1e5b3b2315a6?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Prime Minister Anthony Albanese is preparing to break an election commitment and overhaul property tax perks in this month's budget, to give younger Australians a \"fair crack\" at owning their own homes.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-03/albanese-federal-budget-to-favour-gen-z-millennials/106636382"
+      "description": "Two former bosses are facing charges over a roof collapse at an underground mine in central Queensland in 2021 that killed a worker and seriously injured another. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-04/crinum-mine-executives-to-face-court-over-fatal-roof-collapse/106534014"
     },
     {
-      "published_datetime": "2026-05-02T21:15:55.000000Z",
-      "title": "Man accused of murdering parents and brother in 'grisly' attack",
+      "published_datetime": "2026-05-03T21:03:38.000000Z",
+      "title": "High school girls use makeshift stretcher to rescue injured hiker",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0a67cc012854749c69e48fb2b489385c?impolicy=wcms_crop_resize&amp;cropH=2304&amp;cropW=4096&amp;xPos=0&amp;yPos=678&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94fa92f0ab8acb7966eff2a6199c5f42?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=960&amp;xPos=0&amp;yPos=330&amp;width=862&amp;height=485"
       },
-      "description": "A father, mother and brother have died after a family member allegedly assaulted them at a Rosemeadow home in Sydney's south-west.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-03/man-charged-murder-attempted-murder-family-incident-rosemeadow/106635600"
+      "description": "A group of high school students use a makeshift stretcher and put their Duke of Edinburgh Award training to the test while rescuing an injured hiker. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-04/high-school-students-rescue-injured-hiker/106624044"
     },
     {
-      "published_datetime": "2026-05-03T08:07:29.000000Z",
-      "title": "Mercury would 'be alive': Shark victim's family welcomes new drone plan",
+      "published_datetime": "2026-05-03T19:08:32.000000Z",
+      "title": "No to high-rise in our suburbs, new Victorian campaign group argues",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3edd0fb19d638810a4b816a0a1a440b4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1a58ba99161789ba1b1e0d326989683?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Mike Psillakis and his twin brother's widow, Maria, join authorities to announce a program that will see surfers become drone pilots.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-03/surfers-trained-in-shark-drones-in-memory-mercury-psillakis/106634854"
+      "description": "Residents' groups across Victoria have formed an alliance ahead of the state election, calling for the community and councils to be given a voice when it comes to approving high-density housing.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-04/victoria-planning-reforms-activity-centres-resident-groups/106610900"
+    },
+    {
+      "published_datetime": "2026-05-03T20:19:42.000000Z",
+      "title": "A region promised a hospital by 2028 watches as cows graze on the site",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1ede75e74250a13aa8ec29eeac7d11a?impolicy=wcms_crop_resize&amp;cropH=1478&amp;cropW=2628&amp;xPos=0&amp;yPos=89&amp;width=862&amp;height=485"
+      },
+      "description": "Victoria's fast-growing West Gippsland region was promised a new hospital by 2028, but work has not started. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-04/west-gippsland-hospital-deadline-approaching-without-progress/106445374"
     }
   ]
 }
