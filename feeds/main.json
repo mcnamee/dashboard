@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-04T21:35:36.000000Z",
+      "title": "Live: Reserve Bank expected to deliver interest rate hike",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/59091fb2176287038945aa61a32cae83?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The RBA is widely forecast to deliver its third rate hike of 2026 this afternoon. Oil prices have spiked on escalating tension in the Middle East. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-05/reserve-bank-interest-rates-rba-asx-markets-live-blog-may-5/106640020"
+    },
+    {
       "published_datetime": "2026-05-04T20:47:18.000000Z",
-      "title": "Alice Springs 5yo's alleged murderer's first court appearance streamed live",
+      "title": "Jefferson Lewis to face court charged with Kumanjayi Little Baby's murder",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e858bc5c27d6dbafb456440f27ca1f3d?impolicy=wcms_crop_resize&amp;cropH=270&amp;cropW=480&amp;xPos=0&amp;yPos=189&amp;width=862&amp;height=485"
       },
@@ -11,12 +20,21 @@
     },
     {
       "published_datetime": "2026-05-04T19:41:54.000000Z",
-      "title": "Three dead in boating accident off NSW coast as search for survivors continues",
+      "title": "Breaking: Two rescuers among three dead in boating accident on NSW coast",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5fa0ee2237dde9c30718f3a07b73bca7?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=754&amp;width=862&amp;height=485"
       },
       "description": "Marine Rescue NSW responds to a yacht in distress but its vessel rolls in heavy conditions.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-05/nsw-three-dead-ballina-boating-accident/106641384"
+    },
+    {
+      "published_datetime": "2026-05-04T19:17:35.000000Z",
+      "title": "Man charged with rape and guilty of family violence ordained in Tasmanian church",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ce5362f12f0821b9906e51035a17555b?impolicy=wcms_crop_resize&amp;cropH=286&amp;cropW=508&amp;xPos=0&amp;yPos=67&amp;width=862&amp;height=485"
+      },
+      "description": "A man who is facing a rape charge in Queensland \u2014 which he has pleaded not guilty to \u2014 has been appointed to a leadership role in a Tasmanian Seventh-day Adventist church.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-05/deloraine-seventh-day-adventist-church-deacon-mathew-harrison/106615666"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/11d1447a-30e8-46af-b12a-0140974c4d59",
@@ -109,15 +127,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-05-04T17:12:29.000000Z",
-      "title": "World order could be 'rebuilt out of Europe', Carney says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f95949cc4b57757ea57bfe75242aa32e?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
-      },
-      "description": "The Canadian prime minister tells European leaders the world does not need to submit to a \"more transactional and insular world\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-05/mark-carney-europe-summit-ukraine-armenia/106641036"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4f64a397-4afb-40b5-9596-993cddcf98cf",
       "published_datetime": "2026-05-04T16:59:39.708977",
       "title": "UAE air defenses engage Iranian missiles and drones",
@@ -164,7 +173,7 @@
     },
     {
       "published_datetime": "2026-05-04T16:35:00.000000Z",
-      "title": "US says it has sunk multiple Iranian boats, Trump issues fresh warning",
+      "title": "Live: US says it has sunk multiple Iranian boats, Trump issues fresh warning",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/971bbeddce3923779758c96423f4d854?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=407&amp;width=862&amp;height=485"
       },
@@ -230,15 +239,6 @@
       "audio_url": "",
       "url": "iran-fires-missiles-at-us-wars-kLxw0SN8QmO_ZBrjNc9whA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-04T12:30:10.000000Z",
-      "title": "Electric vehicle tax discount to be wound back from next year",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0bf9ed981a749ebe2d090b5904dad49d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=376&amp;width=862&amp;height=485"
-      },
-      "description": "A popular tax discount meaning people leasing electric vehicles did not have to pay Fringe Benefits Tax will be wound back \u2014 although in the long term, more EV owners will be able to pay a reduced tax rate.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-04/electric-vehicle-tax-discount-to-be-wound-back/106639618"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-04T20:59:07.374062"
+  "merged_at": "2026-05-04T22:01:21.058345"
 }
