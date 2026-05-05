@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-05T21:08:32.000000Z",
+      "title": "Fuel price rises in Australia slow as costs soar in the US. Here's why",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18147d3c900fa185bc2622decdbcea5b?impolicy=wcms_crop_resize&amp;cropH=1447&amp;cropW=2573&amp;xPos=0&amp;yPos=135&amp;width=862&amp;height=485"
+      },
+      "description": "Fuel prices in Australia have started to moderate just as costs have reached an almost four-year high in the United States.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-06/fuel-prices-rising-in-us-as-costs-stabilise-in-australia/106630042"
+    },
+    {
+      "published_datetime": "2026-05-05T21:04:06.000000Z",
+      "title": "Live: Chalmers says fuel security package to be unveiled following National Cabinet meeting",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/acdb3255602185cf375f48fa33b346b5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=77&amp;width=862&amp;height=485"
+      },
+      "description": "Treasurer Jim Chalmers says a fuel security package will be unveiled following today's meeting of National Cabinet. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-06/federal-politics-live-blog-rates-reaction/106645282"
+    },
+    {
       "published_datetime": "2026-05-05T20:44:55.000000Z",
       "title": "Kumanjayi Little Baby's family feel let down after missing court hearing",
       "featured_image": {
@@ -29,21 +47,12 @@
     },
     {
       "published_datetime": "2026-05-05T19:32:22.000000Z",
-      "title": "Live: Rubio says US will continue to target drones and boats that pose a risk",
+      "title": "Live: Rubio says 'Operation Epic Fury' concluded but with conditions",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/294cf3abfdcba223150def64c294e447?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
       "description": "The United Arab Emirates has defended itself against more strikes, as the US tries to clear safe passage through the Strait of Hormuz. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-06/live-iran-war-updates-wednesday-may-6/106645960"
-    },
-    {
-      "published_datetime": "2026-05-05T19:00:00.000000Z",
-      "title": "The graphs that explain Farrer's by-election on Saturday",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3c975cd7734c6693e802db6ec59f0dc5?impolicy=wcms_crop_resize&amp;cropH=3277&amp;cropW=5826&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
-      },
-      "description": "The first electoral test for both new coalition party leaders, Angus Taylor and Matt Canavan, sees the opposition at serious risk of losing Farrer for the first time since the seat was created in 1949.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-06/farrer-byelection-coalition-liberals-nationals-one-nation-margin/106639796"
     },
     {
       "published_datetime": "2026-05-05T18:44:29.000000Z",
@@ -140,15 +149,6 @@
       },
       "description": "The federal government has halted plans for the Melbourne to Brisbane Inland Rail, amid concerns the project could cost more than $45 billion to complete.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-05/albanese-government-slashes-funding-inland-rail-project/106644902"
-    },
-    {
-      "published_datetime": "2026-05-05T10:57:29.000000Z",
-      "title": "Human-to-human transmission suspected in deadly hantavirus outbreak",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1707911cfcbe33d321153526bdb4ece6?impolicy=wcms_crop_resize&amp;cropH=2265&amp;cropW=4026&amp;xPos=0&amp;yPos=383&amp;width=862&amp;height=485"
-      },
-      "description": "The World Health Organization says no rats have been found on board the cruise vessel where the outbreak has taken hold, with three people having died of confirmed or suspected infections of the rodent-borne virus.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-05/who-suspects-hantavirus-human-to-human-transmission/106645684"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a155c53a-c920-419f-a1ab-d99bccfddfcc",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-05T20:54:26.012858"
+  "merged_at": "2026-05-05T21:54:41.439580"
 }
