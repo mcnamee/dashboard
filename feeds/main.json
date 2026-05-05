@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-05T10:12:35.000000Z",
+      "title": "Indigenous commissioner condemns comedian's 'deeply offensive' video",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/36dd2941e531ba6689682d3214f63650?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "South Australia's Commissioner for Aboriginal Children and Young People speaks out against a \"deeply offensive\" social media video posted by comedian Alex \"Shooter\" Williamson in the wake of the death of Kumanjayi Little Baby.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-05/indigenous-commissioner-condemns-comedian-video/106645610"
+    },
+    {
       "published_datetime": "2026-05-05T08:45:18.000000Z",
-      "title": "'After your souls': Violent threats to Melbourne business owners exposed",
+      "title": "'Police can't help you': The threat issued to Melbourne's pub and club owners",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a9e1a56f9fcee35e22e225540fa9c21?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=24&amp;width=862&amp;height=485"
       },
@@ -26,15 +35,6 @@
       },
       "description": "Sensible Emily untangles the latest interest rate decision and gives you tips to help you save money.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-05/interest-rates-explainer-emily-stewart/106627224"
-    },
-    {
-      "published_datetime": "2026-05-05T06:04:21.000000Z",
-      "title": "Carlton fined $75,000 over Elijah Hollands incident",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3336c16e7f73acca7e4850bb9812f8e2?impolicy=wcms_crop_resize&amp;cropH=1265&amp;cropW=2248&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
-      },
-      "description": "Three weeks on from Elijah Hollands's mental health episode at the MCG, the AFL fines Carlton $75,000 for its handling of the player and issues around the incident.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-05/carlton-fined-75000-over-elijah-hollands-incident/106644642"
     },
     {
       "published_datetime": "2026-05-05T04:49:50.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-05T09:54:23.375212"
+  "merged_at": "2026-05-05T11:11:35.859138"
 }
