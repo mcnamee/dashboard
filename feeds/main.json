@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/54363f8a-731e-4307-b060-5ef4b6036517",
+      "published_datetime": "2026-05-05T14:04:09.198590",
+      "title": "US military confirms loss of KC-135 tanker over Persian Gulf",
+      "featured_image": {
+        "url": "https://www.tampabay.com/life-culture/2020/10/10/up-in-the-air/",
+        "name": "What's it like flying the KC-135 refueling tankers at MacDill Air Force  Base?",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--qlHLqfK6--/t_limit/https://www.tampabay.com/resizer/v2/mayor-norman-said-that-her-job-was-her-P3HO7UXQAJE65EG2FJKSH2D3IE.JPG%3Fauth%3D2f5ec57dee037823d92c3460df9972b3df24f019b47cf96f6b093a76b99d7cdf",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--NZc2Bjor--/t_thumbnail/https://www.tampabay.com/resizer/v2/mayor-norman-said-that-her-job-was-her-P3HO7UXQAJE65EG2FJKSH2D3IE.JPG%3Fauth%3D2f5ec57dee037823d92c3460df9972b3df24f019b47cf96f6b093a76b99d7cdf"
+      },
+      "description": "A US Air Force KC-135 Stratotanker vanished from radar over the Strait of Hormuz on Tuesday after broadcasting a 7700 emergency distress signal, raising alarm on the second day of Operation Project Freedom, the American military operation to guide commercial ships through the contested waterway.",
+      "audio_url": "",
+      "url": "us-military-confirms-loss-of-k-c7A2S9EjRAyal0.PInlzhQ",
+      "partition_name": "partition1"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/518a3302-00d4-43e4-a2a7-52a3f673a1d4",
       "published_datetime": "2026-05-05T13:23:43.051745",
       "title": "Pentagon says Iran attacks on US forces 'below threshold' to restart war",
@@ -226,21 +241,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-05/iran-war-live-updates-may-5/106639086"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/c18b732c-6d65-47f4-935e-602870a170fd",
-      "published_datetime": "2026-05-04T15:53:13.711876",
-      "title": "Trump's 'Project Freedom' launches with few details, leaving shippers scrambling",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/05/03/trump-iran-strait-of-hormuz-trapped-ships.html",
-        "name": "Trump says U.S. will 'free' ships trapped by Strait of Hormuz closure",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--OKqB0XkX--/t_limit/https://image.cnbcfm.com/api/v1/image/108300745-1777653626098-gettyimages-2274036022-0d6a5322_0rl1u7om.jpeg%3Fv%3D1777653657%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--9bv5Gq6g--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108300745-1777653626098-gettyimages-2274036022-0d6a5322_0rl1u7om.jpeg%3Fv%3D1777653657%26w%3D1920%26h%3D1080"
-      },
-      "description": "President Donald Trump on Sunday announced \"Project Freedom,\" a plan to help commercial vessels trapped in the Persian Gulf navigate safely through the Strait of Hormuz, but the initiative went live on Monday with few operational details and no coordination with the shipping industry it aims to serve.",
-      "audio_url": "",
-      "url": "trump-s-project-freedom-launch-vnwXTUZzRQWeCBPZL7iN7A",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-05T15:31:07.136919"
+  "merged_at": "2026-05-05T17:14:50.208540"
 }
