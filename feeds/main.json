@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-05T21:20:11.000000Z",
+      "title": "Will Donald Trump's 'Project Freedom' restart shipping or reignite war?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c00da7848f57be30510da4b2632bdc7a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=203&amp;width=862&amp;height=485"
+      },
+      "description": "The US president is pledging to secure shipping through the Strait of Hormuz. But \"Project Freedom\" is a risky exercise that threatens to shatter a shaky ceasefire.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-06/will-project-freedom-restart-shipping-in-strait-of-hormuz-/106646098"
+    },
+    {
       "published_datetime": "2026-05-05T21:08:32.000000Z",
       "title": "Fuel price rises in Australia slow as costs soar in the US. Here's why",
       "featured_image": {
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-05-05T21:04:06.000000Z",
-      "title": "Live: Chalmers says fuel security package to be unveiled following National Cabinet meeting",
+      "title": "Live: Chalmers says fuel security package to be unveiled following National Cabinet",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/acdb3255602185cf375f48fa33b346b5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=77&amp;width=862&amp;height=485"
       },
@@ -37,15 +46,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-06/negative-gearing-capital-gains-tax-trusts-explained-simply/106644614"
     },
     {
-      "published_datetime": "2026-05-05T20:00:27.000000Z",
-      "title": "EV tax discount removed two days' worth of carbon emissions",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e16738be3ade8316a4ba20e70dc467d3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Two days' worth of carbon emissions were removed thanks to the $2 billion electric vehicle tax discount. But its supporters say that put 64,000 more EVs on the road, jump-starting the struggling industry.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-06/ev-discount-two-days-emissions-industry-jump-start/106643890"
-    },
-    {
       "published_datetime": "2026-05-05T19:32:22.000000Z",
       "title": "Live: Rubio says 'Operation Epic Fury' concluded but with conditions",
       "featured_image": {
@@ -56,7 +56,7 @@
     },
     {
       "published_datetime": "2026-05-05T18:44:29.000000Z",
-      "title": "'We're still here. We still have no idea': RBA warns of harsh Iran war reality",
+      "title": "Recession risks rise the longer war goes on or if RBA hikes rates again",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64cf64b25ba60ad60b6791cd2d6b5cba?impolicy=wcms_crop_resize&amp;cropH=180&amp;cropW=320&amp;xPos=3&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-05T21:54:41.439580"
+  "merged_at": "2026-05-05T22:47:49.209769"
 }
