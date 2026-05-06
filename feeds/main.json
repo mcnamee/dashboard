@@ -1,12 +1,21 @@
 {
   "items": [
     {
-      "published_datetime": "2026-05-06T21:08:31.000000Z",
-      "title": "Live: 'That's assault': Liberal senator scuffles with One Nation volunteer at polling booth",
+      "published_datetime": "2026-05-06T22:23:37.000000Z",
+      "title": "Push to double Labor's $10 billion housing fund as budget looms",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/108e158830cd262e4394121508843a8f?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f2927a14a1f6f286b11ce707a70c14e9?impolicy=wcms_crop_resize&amp;cropH=1699&amp;cropW=3021&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
-      "description": "James Paterson has been involved in a scuffle with a One Nation volunteer at a polling booth in Farrer just days ahead of voters deciding who will represent the regional NSW seat. Follow live.",
+      "description": "Australia's peak body for homelessness is leading calls for the federal government to pour at least $10 billion extra into social and affordable housing.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-07/homelessness-bodies-push-for-social-housing-funding-budget-2026/106640710"
+    },
+    {
+      "published_datetime": "2026-05-06T21:08:31.000000Z",
+      "title": "Live: Energy giants to reserve gas for Australians from July under new gas policy",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c434c97b4ccde8f4575b7c2d82794ad?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Energy giants will be forced to set aside gas for the domestic market from July next year, under the new east coast reservation scheme. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-07/federal-politics-live-blog-early-childcare-commission/106651090"
     },
     {
@@ -46,19 +55,10 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-07/bougainville-independence-new-country-png-conflict/106616222"
     },
     {
-      "published_datetime": "2026-05-06T19:00:39.000000Z",
-      "title": "Leader who overcame One Nation's rise warns against dismissing its voters",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dbaa0132c5bf1b79a8a17f81ae934c32?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "Nearly three decades after One Nation's shock breakthrough in Queensland, Pauline Hanson's party is again within reach of a significant political victory.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-07/peter-beattie-warns-one-nation-rise-in-farrer-byelection/106649214"
-    },
-    {
       "published_datetime": "2026-05-06T18:59:57.000000Z",
       "title": "Would you rather hand over $300 a month to your bank or the government?",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6a3e33732fa0f403867041e35e16d023?impolicy=wcms_crop_resize&amp;cropH=1514&amp;cropW=2692&amp;xPos=158&amp;yPos=208&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/01a457437a61cb3f467afe0e365c55ec?impolicy=wcms_crop_resize&amp;cropH=520&amp;cropW=924&amp;xPos=56&amp;yPos=31&amp;width=862&amp;height=485"
       },
       "description": "As the average mortgage borrower confronts another $100 a month on top of their already inflated repayments, lots of people are asking if there is a better way to contain inflation than simply raising interest rates. It turns out there might be.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-07/what-if-we-used-taxes-or-superannuation-to-control-inflation/106645404"
@@ -100,9 +100,9 @@
       "published_datetime": "2026-05-06T18:42:16.000000Z",
       "title": "'Like paradise': Women and children with IS-links excited to return to Australia",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0c4c6d7495a5dca8b6214a3c8ac9ebce?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=3840&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/658f36d5a8c96df15513a2d3d15f3a03?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=656&amp;width=862&amp;height=485"
       },
-      "description": "Australian authorities are preparing for the arrival of 13 women and children linked to Islamic State fighters. As some of the women were boarding their flight, they told the ABC they were excited to get back to Australia despite the AFP warning some might face arrest.",
+      "description": "Australian authorities are preparing for the arrival of 13 women and children linked to Islamic State fighters, where some will face possible arrest. Some are on a flight from Doha to Melbourne, while another flight is expected to land in Sydney. The federal government has always maintained that while it would not help the ISIS-linked families get home, it doesn't have the power to stop them.\u00a0 ABC correspondent Bridget Rollason is on a flight and spoke to some of the families.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-07/isis-linked-families-to-arrive-in-australia-today/106649946"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-06T22:40:47.723644"
+  "merged_at": "2026-05-06T23:41:23.977004"
 }
