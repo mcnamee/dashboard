@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-06T14:28:18.000000Z",
+      "title": "Ted Turner, pioneering founder of CNN, dead at 87",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/995ec33cb95d8e5962855c9316770b1a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=195&amp;width=862&amp;height=485"
+      },
+      "description": "Turner revolutionised television news when he launched the world's first 24-hour news channel in 1980.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-07/ted-turner-dead-at-87-cnn-founder/106650882"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2cd67c7a-5abc-4cac-9b0c-f8891aeaf3a9",
+      "published_datetime": "2026-05-06T13:19:48.906611",
+      "title": "Trump pauses Iran strikes, warns of escalation if no deal",
+      "featured_image": {
+        "url": "https://thehill.com/newsletters/defense-national-security/5803385-trump-extends-pause-on-strikes-against-irans-energy-infrastructure/",
+        "name": "Trump extends pause on strikes against Iran's energy infrastructure",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--LVlIveQn--/t_limit/https://thehill.com/wp-content/uploads/sites/2/2026/03/AP26085554501823-e1774540055252.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--LNWVrNLB--/t_thumbnail/https://thehill.com/wp-content/uploads/sites/2/2026/03/AP26085554501823-e1774540055252.jpg"
+      },
+      "description": "Iran confirmed on Wednesday that it is formally evaluating a US peace proposal as the two sides inch toward what a Pakistani mediator has described as a potential agreement to end the nearly 10-week war. President Donald Trump announced a temporary pause of \"Project Freedom,\" the US military operation to reopen the Strait of Hormuz, citing \"great progress\" toward a deal \u2014 but warned that bombing would resume \"at a much higher level and intensity\" if Tehran refuses to come to terms.[1][2][3]",
+      "audio_url": "",
+      "url": "trump-pauses-iran-strikes-warn-d_WnloJdSQuWmgHnj7ESdg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8a62db58-b911-4c0c-8526-c9857f842c29",
+      "published_datetime": "2026-05-06T13:15:00.392382",
+      "title": "Spain to repatriate all passengers from hantavirus cruise ship",
+      "featured_image": {
+        "url": "https://reefandrainforest.co.uk/accommodation/m-v-hondius",
+        "name": "M/V Hondius - Reef and Rainforest Tours",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ctdpJRBG--/t_limit/https://reefandrainforest.b-cdn.net/wp-content/uploads/2025/06/Arctic-Wildlife-Cruises_Accommodation_MV-Hondius_Andrew-Peacock-1600x1067.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--pl7HZn5f--/t_thumbnail/https://reefandrainforest.b-cdn.net/wp-content/uploads/2025/06/Arctic-Wildlife-Cruises_Accommodation_MV-Hondius_Andrew-Peacock-1600x1067.jpg"
+      },
+      "description": "All passengers and crew remaining aboard the MV Hondius, a luxury expedition cruise ship struck by a deadly hantavirus outbreak, are currently asymptomatic, Spanish Health Minister M\u00f3nica Garc\u00eda announced on Wednesday. The ship, which has been anchored near Cape Verde after being denied permission to dock, will now proceed to the Port of Granadilla in southern Tenerife, where passengers will be repatriated to their home countries.[1]",
+      "audio_url": "",
+      "url": "spain-to-repatriate-all-passen-xjRZOMQrS4qijN59180oXA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-06T11:06:23.000000Z",
       "title": "Australian government 'deciding factor' in departure of ISIS-linked families from Syria",
       "featured_image": {
@@ -10,19 +49,10 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-06/australia-deciding-factor-isis-linked-families-leaving-syria/106650642"
     },
     {
-      "published_datetime": "2026-05-06T09:58:19.000000Z",
-      "title": "Olympic stadium at Victoria Park cleared by environmental department",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/befc9428f6fb9275b004b57ca6012128?impolicy=wcms_crop_resize&amp;cropH=1863&amp;cropW=3312&amp;xPos=0&amp;yPos=161&amp;width=862&amp;height=485"
-      },
-      "description": "The proposal for a new stadium to be built at Victoria Park and an aquatic centre in Spring Hill has been declared \"not a controlled action\" by the federal environmental department.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-06/victoria-park-stadium-cleared-by-environment-department/106650322"
-    },
-    {
       "published_datetime": "2026-05-06T09:38:17.000000Z",
       "title": "Canary Islands leader doesn't want hantavirus-hit cruise ship to dock",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b0c41bcaefff6a7cd962ad12ffd7842d?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=134&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0a3c4ecdb318e7dd245f5c2390647333?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
       },
       "description": "A luxury cruise ship hit by a deadly hantavirus outbreak and marooned for days off the coast of Cape Verde with close to 150 people on board is on its way to Spain's Canary Islands, where a regional leader says it is not welcome.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-06/rare-andes-strain-confirmed-in-cruise-ship-hantavirus-outbreak/106650328"
@@ -158,11 +188,11 @@
     },
     {
       "published_datetime": "2026-05-05T19:32:22.000000Z",
-      "title": "Live: US and Iran reportedly closing in on deal to end war",
+      "title": "Trump warns Iran of 'much higher level' attacks if peace deal not agreed",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e4364d44f137c8ef7a1cf11bd9268fbc?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=192&amp;width=862&amp;height=485"
       },
-      "description": "There are multiple reports that the US and Iran are closing in on a one-page memo to end their war. Follow live.",
+      "description": "The US president said the Middle East conflict would end if Iran stuck to \"what has been agreed to\".\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-06/live-iran-war-updates-wednesday-may-6/106645960"
     },
     {
@@ -208,36 +238,6 @@
       "description": "A US Air Force KC-135 Stratotanker vanished from radar over the Strait of Hormuz on Tuesday after broadcasting a 7700 emergency distress signal, raising alarm on the second day of Operation Project Freedom, the American military operation to guide commercial ships through the contested waterway.",
       "audio_url": "",
       "url": "us-military-confirms-loss-of-k-c7A2S9EjRAyal0.PInlzhQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/518a3302-00d4-43e4-a2a7-52a3f673a1d4",
-      "published_datetime": "2026-05-05T13:23:43.051745",
-      "title": "Pentagon says Iran attacks on US forces 'below threshold' to restart war",
-      "featured_image": {
-        "url": "https://komonews.com/news/nation-world/defense-secretary-pete-hegseth-joint-chiefs-chairman-caine-to-speak-after-us-iran-agree-to-last-minute-ceasefire-strait-of-hormuz-oil-prices-operation-epic-fury-military-objectives-pakistan-negotiations",
-        "name": "Hegseth: US to 'stay ready' after Iran ceasefire, claims victory",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--5dAFHo0r--/t_limit/https://komonews.com/resources/media2/16x9/4534/986/0x237/90/c7a8d3c1-a17d-415e-9336-22fba23f0995-AP26078584593125.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--_Uk650r_--/t_thumbnail/https://komonews.com/resources/media2/16x9/4534/986/0x237/90/c7a8d3c1-a17d-415e-9336-22fba23f0995-AP26078584593125.jpg"
-      },
-      "description": "Defense Secretary Pete Hegseth declared Tuesday that the US-Iran ceasefire remains intact despite a sharp escalation of hostilities in the Strait of Hormuz, telling reporters at a Pentagon press briefing that \"the ceasefire is not over\" even as Iran has attacked American forces more than 10 times since the truce began on April 7.[1]\n\nGen. Dan Caine, Chairman of the Joint Chiefs of Staff, said the attacks remain \"below the threshold for recommencing significant combat operations,\" adding that Iran has also fired on commercial vessels nine times and seized two container ships during the ceasefire period. \"The decision to restart operations is a political one beyond my authority,\" Caine said. \"Currently, what we are experiencing is minor harassing fire. It seems as though Iran is clutching at straws\".[1]",
-      "audio_url": "",
-      "url": "pentagon-says-iran-attacks-on-AOIV4UR2SMKdzEFVdTDxqw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a155c53a-c920-419f-a1ab-d99bccfddfcc",
-      "published_datetime": "2026-05-04T23:24:18.626261",
-      "title": "Iran's nuclear timeline unchanged despite war, US intel finds",
-      "featured_image": {
-        "url": "https://www.foxnews.com/world/satellite-image-shows-fordow-nuclear-facility-after-massive-bomb-strike",
-        "name": "Satellite image shows Fordow nuclear facility after massive bomb strike",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Pz3MApz0--/t_limit/https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/1200/675/fordow-facility-iran-aftermath.jpg%3Fve%3D1%26tl%3D1",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--cRUl2w2B--/t_thumbnail/https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/1200/675/fordow-facility-iran-aftermath.jpg%3Fve%3D1%26tl%3D1"
-      },
-      "description": "Two months into a U.S.-led military campaign against Iran, American intelligence assessments indicate that the time Tehran would need to build a nuclear weapon has not shifted since last summer, when a joint U.S.-Israeli strike extended the timeline to roughly nine months to a year, Reuters reported on Monday, citing three sources familiar with the matter.[1][2]",
-      "audio_url": "",
-      "url": "iran-s-nuclear-timeline-unchan-2fhRgg7FS0.WK0QK7H9zAQ",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-06T12:25:58.935866"
+  "merged_at": "2026-05-06T15:23:20.667759"
 }
