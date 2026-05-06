@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-06T01:34:37.000000Z",
+      "title": "Breaking: Craig Silvey's books permanently pulled from public schools",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7175b2cacca1d4c80626d5cbb9d6a0c7?impolicy=wcms_crop_resize&amp;cropH=1063&amp;cropW=1890&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "WA Education Minister Sabine Winton confirms a temporary ban on Silvey's books being used as texts in public schools will now be made permanent.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-06/craig-silvey-books-permanently-banned-from-wa-school-curriculum/106647464"
+    },
+    {
+      "published_datetime": "2026-05-06T01:15:02.000000Z",
+      "title": "Arrests planned when ISIS-linked families land in Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/203d71fe7b19ddf64e3c1a75eb86a496?impolicy=wcms_crop_resize&amp;cropH=1705&amp;cropW=3031&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Flights have been booked for families linked to Islamic State fighters returning from Syria to Australia, with women in the group facing arrest and investigation when they touch down.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-06/isis-families-syria-australia-flights-booked-arrest-flagged/106647034"
+    },
+    {
       "published_datetime": "2026-05-05T23:04:54.000000Z",
-      "title": "WA once had its own species of koala. Then the forests collapsed",
+      "title": "Scientists discover species of ancient 'dimpled' koala in WA",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4af34c422a4e8d70697abb19a65895c9?impolicy=wcms_crop_resize&amp;cropH=1057&amp;cropW=1885&amp;xPos=0&amp;yPos=177&amp;width=862&amp;height=485"
       },
@@ -53,15 +71,6 @@
       "audio_url": "",
       "url": "rubio-calls-israel-lebanon-pea-ABqo7zMKSa2475y_1mcwQA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-05T21:47:07.000000Z",
-      "title": "Witness describes frantic rescue attempt during deadly boating tragedy",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/80ff249f048127e26627341632537da6?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Darragh Hunt was fishing at Ballina when the incident that claimed three lives unfolded before his eyes.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-06/ballina-boating-tragedy-eyewitness-account/106645288"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a670ff40-47a8-4256-be79-47fab6810610",
@@ -116,7 +125,7 @@
     },
     {
       "published_datetime": "2026-05-05T18:44:29.000000Z",
-      "title": "Recession risks rise the longer war goes on or if RBA hikes rates again",
+      "title": "'We're staring down the barrel': RBA governor sees tough times ahead",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64cf64b25ba60ad60b6791cd2d6b5cba?impolicy=wcms_crop_resize&amp;cropH=180&amp;cropW=320&amp;xPos=3&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -200,15 +209,6 @@
       "audio_url": "",
       "url": "pentagon-says-iran-attacks-on-AOIV4UR2SMKdzEFVdTDxqw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-05T11:59:06.000000Z",
-      "title": "Labor axes funding for $45b Inland Rail project linking Melbourne to Brisbane",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/78d69799df66366735ec1a646d63928b?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The federal government has halted plans for the Melbourne to Brisbane Inland Rail, amid concerns the project could cost more than $45 billion to complete.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-05/albanese-government-slashes-funding-inland-rail-project/106644902"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a155c53a-c920-419f-a1ab-d99bccfddfcc",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-05T23:55:38.917637"
+  "merged_at": "2026-05-06T01:59:13.651324"
 }
