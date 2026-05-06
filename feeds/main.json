@@ -37,6 +37,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-07/what-if-we-used-taxes-or-superannuation-to-control-inflation/106645404"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/393b0ef3-b697-41b9-b56c-45b9598a77cd",
+      "published_datetime": "2026-05-06T18:48:21.580610",
+      "title": "Trump says Iran must send enriched uranium to US in deal",
+      "featured_image": {
+        "url": "https://www.lemonde.fr/en/international/article/2026/04/17/trump-says-iran-has-agreed-to-hand-over-enriched-uranium_6752515_4.html",
+        "name": "Trump says Iran has agreed to hand over enriched uranium",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--eXLhWdFM--/t_limit/https://img.lemde.fr/2026/04/16/0/0/5869/3913/1440/960/60/0/045de33_ftp-1-rkshtdkefwtg-c3615f907f554b06b471cf794618a49e-1-6d844bb13d3541f280416a033831f6d4.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--F6eCfenq--/t_thumbnail/https://img.lemde.fr/2026/04/16/0/0/5869/3913/1440/960/60/0/045de33_ftp-1-rkshtdkefwtg-c3615f907f554b06b471cf794618a49e-1-6d844bb13d3541f280416a033831f6d4.jpg"
+      },
+      "description": "President Donald Trump confirmed Wednesday that Iran's enriched uranium would be transferred to the United States as part of an emerging agreement to end the war, saying \"No, not perhaps. It goes to the United States\" when asked in a PBS News interview about the possibility of Tehran exporting its highly enriched nuclear material.[1][2]",
+      "audio_url": "",
+      "url": "trump-says-iran-must-send-enri-gu7ugi8zT7qNU.uIoJmq9g",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-06T18:46:37.000000Z",
       "title": "Is Richard Dawkins right about AI?",
       "featured_image": {
@@ -217,21 +232,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8a62db58-b911-4c0c-8526-c9857f842c29",
-      "published_datetime": "2026-05-06T13:15:00.392382",
-      "title": "Spain to repatriate all passengers from hantavirus cruise ship",
-      "featured_image": {
-        "url": "https://reefandrainforest.co.uk/accommodation/m-v-hondius",
-        "name": "M/V Hondius - Reef and Rainforest Tours",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ctdpJRBG--/t_limit/https://reefandrainforest.b-cdn.net/wp-content/uploads/2025/06/Arctic-Wildlife-Cruises_Accommodation_MV-Hondius_Andrew-Peacock-1600x1067.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--pl7HZn5f--/t_thumbnail/https://reefandrainforest.b-cdn.net/wp-content/uploads/2025/06/Arctic-Wildlife-Cruises_Accommodation_MV-Hondius_Andrew-Peacock-1600x1067.jpg"
-      },
-      "description": "All passengers and crew remaining aboard the MV Hondius, a luxury expedition cruise ship struck by a deadly hantavirus outbreak, are currently asymptomatic, Spanish Health Minister M\u00f3nica Garc\u00eda announced on Wednesday. The ship, which has been anchored near Cape Verde after being denied permission to dock, will now proceed to the Port of Granadilla in southern Tenerife, where passengers will be repatriated to their home countries.[1]",
-      "audio_url": "",
-      "url": "spain-to-repatriate-all-passen-xjRZOMQrS4qijN59180oXA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2026-05-06T09:38:17.000000Z",
       "title": "Canary Islands leader doesn't want hantavirus-hit cruise ship to dock",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-06T19:23:46.204750"
+  "merged_at": "2026-05-06T20:39:12.157314"
 }
