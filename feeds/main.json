@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0c2b3a5c-d11e-471e-831f-fa2e1cd4a69f",
+      "published_datetime": "2026-05-06T22:47:48.414790",
+      "title": "North Korea declares it is not bound by nuclear treaty",
+      "featured_image": {
+        "url": "https://www.cnn.com/2017/04/17/world/north-korea-united-nations-envoy",
+        "name": "North Korean ambassador has stern words for US",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Z-5HXpjq--/t_limit/https://media.cnn.com/api/v1/images/stellar/prod/170417135202-north-korea-ambassador.jpg%3Fq%3Dw_1920%2Ch_1080%2Cx_0%2Cy_0%2Cc_fill",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--0IXiE1Px--/t_thumbnail/https://media.cnn.com/api/v1/images/stellar/prod/170417135202-north-korea-ambassador.jpg%3Fq%3Dw_1920%2Ch_1080%2Cx_0%2Cy_0%2Cc_fill"
+      },
+      "description": "North Korea's top United Nations diplomat declared on Thursday that Pyongyang is not bound by the Nuclear Non-Proliferation Treaty under any circumstances, reinforcing the country's insistence on being recognized as a nuclear weapons state during a major international conference in New York.\n\nAmbassador Kim Song, North Korea's permanent representative to the UN, made the statement at the 11th NPT Review Conference, which is taking place at UN headquarters from April 27 to May 22. Kim criticized the United States and other Western nations for what he described as attempts to degrade the conference's atmosphere by raising the issue of North Korea's nuclear arsenal, according to state media outlet KCNA.[1][2][3][4]",
+      "audio_url": "",
+      "url": "north-korea-declares-it-is-not-CXRQZzMOQFyG_Z0DOtgtLg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/507dd885-0d3b-4aa9-9af4-5e799a85bcd3",
+      "published_datetime": "2026-05-06T22:24:33.020135",
+      "title": "U.S. jet disables Iranian tanker defying naval blockade",
+      "featured_image": {
+        "url": "https://taskandpurpose.com/news/navy-fa18-syria-iran/",
+        "name": "Navy F/A-18 that got first air-to-air kill in years now fighting Iran",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--p79t22r2--/t_limit/https://taskandpurpose.com/wp-content/uploads/2026/03/9450808-copy.jpg%3Fw%3D1200",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--4p5YXbDO--/t_thumbnail/https://taskandpurpose.com/wp-content/uploads/2026/03/9450808-copy.jpg%3Fw%3D1200"
+      },
+      "description": "A U.S. Navy F/A-18 Super Hornet fired 20mm cannon rounds into the rudder of an Iranian-flagged oil tanker on Wednesday, disabling the vessel as it attempted to reach an Iranian port in defiance of the American naval blockade, U.S. Central Command confirmed.\n\nThe incident, which occurred at 9 a.m. ET on May 6, marks the second time U.S. forces have used direct fire to stop a vessel from breaching the blockade since it began on April 13.",
+      "audio_url": "",
+      "url": "u-s-jet-disables-iranian-tanke-QNV2qX3XSn6IVW0ch8Ld_w",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-06T22:23:37.000000Z",
       "title": "Push to double Labor's $10 billion housing fund as budget looms",
       "featured_image": {
@@ -8,6 +38,21 @@
       },
       "description": "Australia's peak body for homelessness is leading calls for the federal government to pour at least $10 billion extra into social and affordable housing.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-07/homelessness-bodies-push-for-social-housing-funding-budget-2026/106640710"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fd292a82-7fd0-4643-b624-b21917def3bf",
+      "published_datetime": "2026-05-06T22:16:13.103012",
+      "title": "Iran's Ghalibaf vows nation 'will not surrender' amid US naval blockade",
+      "featured_image": {
+        "url": "https://www.axios.com/2026/03/27/iran-war-parliament-speaker-mohammad-bagher-ghalibaf-us-talks",
+        "name": "Iran Parliament speaker Ghalibaf rises as key figure in US push to end war",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--oPESh9sx--/t_limit/https://images.axios.com/MTCpecGtDMYKm-Caxxe6-jMlxVs%3D/0x523:7571x4782/1920x1080/2026/03/25/1774483097121.jpeg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--SHg43hYu--/t_thumbnail/https://images.axios.com/MTCpecGtDMYKm-Caxxe6-jMlxVs%3D/0x523:7571x4782/1920x1080/2026/03/25/1774483097121.jpeg"
+      },
+      "description": "Iran's Parliament Speaker and top negotiator Mohammad Bagher Ghalibaf issued an audio message to the Iranian public on Wednesday accusing Washington of deploying a naval blockade, sanctions, and media manipulation to force Tehran into capitulation, as the country's economy buckles under the weight of a three-week-old maritime siege.\n\n\"The enemy is trying to dismantle internal cohesion through economic pressure and psychological warfare,\" Ghalibaf said, according to remarks carried by Iran's Fars news agency. He described the current moment as one of the most critical periods in Iran's modern history and said Washington was acting on \"false intelligence\" that would ultimately \"cause everyone to suffer\".[1]",
+      "audio_url": "",
+      "url": "iran-s-ghalibaf-vows-nation-wi-etmUfwjyQnmh.V7AiSkh5g",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-05-06T21:08:31.000000Z",
@@ -196,51 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a71cd68c-0ebb-4b93-b02a-9e3242757533",
-      "published_datetime": "2026-05-06T14:51:03.539344",
-      "title": "French container ship hit by missile in Strait of Hormuz",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/markets/commodities/articles/cma-cgm-vessel-navigates-hormuz-184000952.html",
-        "name": "CMA CGM Vessel Navigates Hormuz as Crisis Remains 'Localized'",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--6GSm_wz5--/t_limit/https://s.yimg.com/ny/api/res/1.2/KpsM6TeNBvZ2Yol9Tz8LMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAw/https://media.zenfs.com/en/sourcing_journal_735/ccee01e75c7b645d65e26b52aae89b47",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--B5P7PyTb--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/KpsM6TeNBvZ2Yol9Tz8LMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAw/https://media.zenfs.com/en/sourcing_journal_735/ccee01e75c7b645d65e26b52aae89b47"
-      },
-      "description": "French shipping giant CMA CGM confirmed on Wednesday that its Maltese-flagged container vessel, the CMA CGM San Antonio, was struck during an attack while transiting the Strait of Hormuz on Tuesday, injuring several crew members and damaging the ship.[1][2]\n\nU.S. officials told CBS News the vessel was hit by what they described as a possible land-attack cruise missile late Tuesday evening local time, with several Filipino crew members among the injured. The wounded were evacuated and are receiving medical treatment, the company said in a statement to AFP.[3][4][1]",
-      "audio_url": "",
-      "url": "french-container-ship-hit-by-m-PtpfIFbyTCuxdmGFimkO5Q",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/37fcf24a-bc75-4b42-bc43-edc6278b74e0",
-      "published_datetime": "2026-05-06T14:05:05.806154",
-      "title": "China's Big Fund in talks to lead DeepSeek round at $45B valuation",
-      "featured_image": {
-        "url": "https://finance.yahoo.com/sectors/technology/articles/china-deepseek-raising-funds-10-145318333.html",
-        "name": "China's DeepSeek is raising funds at $10 billion valuation ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--cvXIRtuK--/t_limit/https://s.yimg.com/os/en/reuters-finance.com/445744d841f464b415667fa410d952ea",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--CagV2PuW--/t_thumbnail/https://s.yimg.com/os/en/reuters-finance.com/445744d841f464b415667fa410d952ea"
-      },
-      "description": "China's largest state-backed semiconductor investment vehicle is in advanced negotiations to lead the first external funding round for AI startup DeepSeek at a valuation of approximately $45 billion, the Financial Times reported on Tuesday, citing four people familiar with the discussions.[1][2]\n\nThe China Integrated Circuit Industry Investment Fund \u2014 known in the industry as the \"Big Fund\" \u2014 would mark a dramatic expansion of its mandate, which has historically focused on chip fabrication, memory producers, and semiconductor equipment rather than AI model labs.[3][1]",
-      "audio_url": "",
-      "url": "china-s-big-fund-in-talks-to-l-2QrHt53MR9W4As6C8nsGeQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2cd67c7a-5abc-4cac-9b0c-f8891aeaf3a9",
-      "published_datetime": "2026-05-06T13:19:48.906611",
-      "title": "Trump pauses Iran strikes, warns of escalation if no deal",
-      "featured_image": {
-        "url": "https://thehill.com/newsletters/defense-national-security/5803385-trump-extends-pause-on-strikes-against-irans-energy-infrastructure/",
-        "name": "Trump extends pause on strikes against Iran's energy infrastructure",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--LVlIveQn--/t_limit/https://thehill.com/wp-content/uploads/sites/2/2026/03/AP26085554501823-e1774540055252.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--LNWVrNLB--/t_thumbnail/https://thehill.com/wp-content/uploads/sites/2/2026/03/AP26085554501823-e1774540055252.jpg"
-      },
-      "description": "Iran confirmed on Wednesday that it is formally evaluating a US peace proposal as the two sides inch toward what a Pakistani mediator has described as a potential agreement to end the nearly 10-week war. President Donald Trump announced a temporary pause of \"Project Freedom,\" the US military operation to reopen the Strait of Hormuz, citing \"great progress\" toward a deal \u2014 but warned that bombing would resume \"at a much higher level and intensity\" if Tehran refuses to come to terms.[1][2][3]",
-      "audio_url": "",
-      "url": "trump-pauses-iran-strikes-warn-d_WnloJdSQuWmgHnj7ESdg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-06T23:41:23.977004"
+  "merged_at": "2026-05-06T23:56:41.317899"
 }
