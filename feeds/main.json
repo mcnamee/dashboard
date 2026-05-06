@@ -19,6 +19,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-06/isis-families-syria-australia-flights-booked-arrest-flagged/106647034"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fcba419d-3382-4492-b5e4-b650f3c576a1",
+      "published_datetime": "2026-05-05T23:42:48.601797",
+      "title": "Trump pauses Hormuz escort operation, citing Iran deal progress",
+      "featured_image": {
+        "url": "https://www.bloomberg.com/news/articles/2026-05-05/trump-says-he-will-pause-project-freedom-for-short-period",
+        "name": "Trump Says US to Pause Guiding Ships While Seeking Iran Deal - Bloomberg",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1778024286/url_uploads/-1x-1_hljgov.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1778024286/url_uploads/-1x-1_hljgov.jpg"
+      },
+      "description": "President Donald Trump announced Tuesday that he is temporarily pausing \"Project Freedom,\" the U.S. military operation to escort commercial ships through the Strait of Hormuz, just one day after it launched. Trump cited \"great progress\" toward a deal with Iran and requests from mediator Pakistan and other countries, even as the naval blockade on Iranian ports remains fully in force.[1]\n\nThe pause came after a turbulent 24 hours in which the operation's launch on Monday triggered Iranian warning shots, attacks on commercial vessels, and strikes on Gulf states \u2014 escalating tensions that threatened to unravel the fragile ceasefire in place since April 7.[2][3]",
+      "audio_url": "",
+      "url": "trump-pauses-hormuz-escort-ope-RW6wg4XAQ5CQZizf.CRTsw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-05T23:04:54.000000Z",
       "title": "Scientists discover species of ancient 'dimpled' koala in WA",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0d7f0c50-741a-4e20-97fa-104abc96fcaf",
-      "published_datetime": "2026-05-04T20:23:23.311333",
-      "title": "Zelensky declares Ukraine ceasefire starting May 5-6",
-      "featured_image": {
-        "url": "https://www.lemonde.fr/en/international/article/2025/04/23/zelensky-says-ukraine-is-ready-for-direct-talks-with-russia-but-only-after-a-ceasefire_6740526_4.html",
-        "name": "Zelensky says Ukraine is ready for direct talks with Russia, but only after  a ceasefire",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--gakBNyBC--/t_limit/https://img.lemde.fr/2025/04/22/0/0/4723/3149/1440/960/60/0/4230a8a_ftp-import-images-1-dceyfbqphmbi-5685143-01-06.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--UHdW-l-i--/t_thumbnail/https://img.lemde.fr/2025/04/22/0/0/4723/3149/1440/960/60/0/4230a8a_ftp-import-images-1-dceyfbqphmbi-5685143-01-06.jpg"
-      },
-      "description": "Ukrainian President Volodymyr Zelensky announced on Monday that Ukraine will observe a unilateral ceasefire beginning at midnight on the night of May 5-6, moving ahead without a formal agreement from Moscow. Writing on Telegram, Zelensky stated that Ukraine is proceeding because \"human life is incomparably more valuable than the celebration of any anniversary,\" and that Ukraine will \"act symmetrically\" from the moment the ceasefire takes effect \u2014 echoing language he used during Ukraine's observance of an Orthodox Easter truce in April.[1][2]\n\nThe announcement comes hours after Russia's Defense Ministry declared its own two-day ceasefire for May 8-9 to coincide with the 81st anniversary of Victory Day, which commemorates the Soviet Union's defeat of Nazi Germany. The Kremlin said it did not require Ukraine's consent and threatened a \"massive missile strike on the center of Kyiv\" if Ukrainian forces attempted to disrupt the celebrations.[3][4]",
-      "audio_url": "",
-      "url": "zelensky-declares-ukraine-ceas-O8VN2OopTZSqesOXJ0kllA",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-06T01:59:13.651324"
+  "merged_at": "2026-05-06T03:50:51.363291"
 }
