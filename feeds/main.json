@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-07T14:27:05.000000Z",
+      "title": "Rubio visits the Vatican after Trump's attacks on Pope Leo XIV",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/638d6feaa0b14ee80f225cd0ea9db1f3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The secretary of state was seeking to mend fences after US President Donald Trump's social media broadsides against the pope for his opposition to the Iran war.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-08/marco-rubio-diplomatic-visit-vatican-catholic-church/106655834"
+    },
+    {
       "published_datetime": "2026-05-07T11:00:31.000000Z",
       "title": "Wasp that eats host alive named after David Attenborough for 100th birthday",
       "featured_image": {
@@ -11,30 +20,21 @@
     },
     {
       "published_datetime": "2026-05-07T09:17:52.000000Z",
-      "title": "Live: Fremantle stuns Hawthorn with brutal final-quarter blitz",
+      "title": "Hawthorn 'taught a bit of a lesson' after Fremantle's fourth-term blitz",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ca901f2da81bb528651032327f6b43d4?impolicy=wcms_crop_resize&amp;cropH=2544&amp;cropW=4523&amp;xPos=0&amp;yPos=184&amp;width=862&amp;height=485"
       },
-      "description": "Fremantle overcomes a 15-point deficit to beat Hawthorn thanks to a dominant final quarter. Follow live.",
+      "description": "Fremantle overcomes a 15-point deficit to beat Hawthorn thanks to a dominant final quarter.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-07/afl-round-9-fremantle-dockers-hawthorn-hawks-live-blog/106653120"
     },
     {
       "published_datetime": "2026-05-07T08:41:43.000000Z",
-      "title": "Passengers who disembarked hantavirus cruise ship still unaccounted-for",
+      "title": "More hantavirus cases expected as passengers prepare to disembark ship",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/323948e460de9c684afd89c372f2e952?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=383&amp;width=862&amp;height=485"
       },
       "description": "A number of countries are scrambling to trace people who disembarked from an Atlantic cruise struck by a deadly virus outbreak before it was marooned off the coast of Cabo Verde, in an effort to prevent further spread of the disease.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-07/hantavirus-cruise-ship-mv-hondius-passengers-disembarked/106655134"
-    },
-    {
-      "published_datetime": "2026-05-07T08:08:42.000000Z",
-      "title": "Ted Turner's infamous feud with Rupert Murdoch began in a Hobart boathouse",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c65d05fdb15ae014098c2c0fe5935957?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=4&amp;width=862&amp;height=485"
-      },
-      "description": "The two media moguls shared a bitter rivalry for decades after some drunken comments at a Hobart boathouse. Here's how their rivalry unfolded through the years.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-07/ted-turner-rupert-murdoch-feud-timeline/106654708"
     },
     {
       "published_datetime": "2026-05-07T08:02:16.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-07T13:29:25.919071"
+  "merged_at": "2026-05-07T15:59:36.240700"
 }
