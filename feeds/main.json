@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-07T22:57:21.000000Z",
+      "title": "Breaking: US trade court rules against Trump's 10pc tariff rate",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2dca8952d6ad440dcc0731411b8cf00e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=116&amp;width=862&amp;height=485"
+      },
+      "description": "A United States trade court rules against President Donald Trump's universal 10 per cent tariff rate, dealing another blow to his signature economic policy.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-08/united-states-tariff-rate-court-decision/106656946"
+    },
+    {
       "published_datetime": "2026-05-07T21:55:59.000000Z",
       "title": "Live: US and Iran reportedly exchange fire in Strait of Hormuz",
       "featured_image": {
@@ -110,15 +119,6 @@
       },
       "description": "The tight supply conditions that have underpinned the national housing market in recent years are starting to ease, according to property data firm Cotality.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-08/interest-rates-affordability-risk-housing-downturn-cotality/106653332"
-    },
-    {
-      "published_datetime": "2026-05-07T18:30:00.000000Z",
-      "title": "Sir David Attenborough turns 100: Celebrate his life in his words",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ab984bf66d589e4217ee3b796f8d176?impolicy=wcms_crop_resize&amp;cropH=662&amp;cropW=1177&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
-      },
-      "description": "Natural history broadcaster Sir David Attenborough turns 100 today. We look back at his work and interviews to capture some of his wisdom and endless sense of wonder.",
-      "page_content_url": "https://www.abc.net.au/news/science/2026-05-08/david-attenborough-s-life-in-his-own-words-as-he-turns-100/106627464"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/97303870-d60a-4e0b-8ff2-70cf7223cd7b",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-07T22:54:46.606614"
+  "merged_at": "2026-05-07T23:44:36.240500"
 }
