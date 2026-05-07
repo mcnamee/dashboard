@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-07T20:00:11.000000Z",
+      "title": "'Completely unprecedented': Crimes against humanity charges new for Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8e0668c81763739d6f906391310fc01f?impolicy=wcms_crop_resize&amp;cropH=646&amp;cropW=1149&amp;xPos=0&amp;yPos=904&amp;width=862&amp;height=485"
+      },
+      "description": "The ABC can reveal new detail about the alleged treatment of a Yazidi woman who says she was held captive in the home of ISIS-linked Australians in Syria, including two women who are now facing slave-related charges.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-08/isis-linked-families-to-face-possible-slavery-charges/106651628"
+    },
+    {
+      "published_datetime": "2026-05-07T19:35:15.000000Z",
+      "title": "Family battling cancer relies on donations to pay for in-home child care",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f048077ccba3d1dd1748405e3f3aa8d9?impolicy=wcms_crop_resize&amp;cropH=2295&amp;cropW=4080&amp;xPos=0&amp;yPos=382&amp;width=862&amp;height=485"
+      },
+      "description": "The government is accused of breaking its promise of cheaper child care, with prices rising for 810 vulnerable families.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-08/in-home-childcare-collapse-educator-subsidies/106651886"
+    },
+    {
+      "published_datetime": "2026-05-07T19:32:40.000000Z",
+      "title": "Super benefits are being paid out to domestic violence perpetrators",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8ac5abbb72f4d51c2f09dc0b3bcc2c5?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=78&amp;width=862&amp;height=485"
+      },
+      "description": "The federal government is reviewing superannuation laws that could see retirement savings paid to domestic violence perpetrators. But industry experts are worried the draft policy reform could only make matters worse.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-08/superannuation-laws-risk-savings-handed-to-dv-perpetrators/106606748"
+    },
+    {
+      "published_datetime": "2026-05-07T19:30:01.000000Z",
+      "title": "Russia using nuclear diplomacy to build network of dependents",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d61fdd6f0dc6f502763691ca883cbd41?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Russia is building nuclear power plants across the globe, and it's helping it build a network of dependence.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-08/russia-nuclear-power-diplomacy-and-dependence/106647598"
+    },
+    {
       "published_datetime": "2026-05-07T19:00:00.000000Z",
       "title": "Trump wanted an American pope but not this American pope",
       "featured_image": {
@@ -11,11 +47,11 @@
     },
     {
       "published_datetime": "2026-05-07T18:56:12.000000Z",
-      "title": "Entrepreneurs warn against reducing CGT discount on shares",
+      "title": "Removing capital gains tax discount will be 'disastrous' for small business",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/92bdf313f21d28a06288c45afbf99399?impolicy=wcms_crop_resize&amp;cropH=2815&amp;cropW=5005&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
-      "description": "Some entrepreneurs argue any changes to reduce the capital gains tax discount should carve out the start-up sector. However, \u00a0tax experts warn this would create too much complexity in an already complicated tax system.\u00a0",
+      "description": "Some entrepreneurs argue any changes to reduce the capital gains tax discount should carve out the start-up sector. However, tax experts warn this would create too much complexity in an already complicated tax system.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-08/tech-entrepreneurs-warn-against-lower-cgt-discount-for-startups/106653438"
     },
     {
@@ -49,7 +85,7 @@
       "published_datetime": "2026-05-07T18:30:00.000000Z",
       "title": "Sir David Attenborough turns 100: Celebrate his life in his words",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8fa1fccadab2fc982d31ebf7359af9eb?impolicy=wcms_crop_resize&amp;cropH=2339&amp;cropW=4157&amp;xPos=426&amp;yPos=951&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ab984bf66d589e4217ee3b796f8d176?impolicy=wcms_crop_resize&amp;cropH=662&amp;cropW=1177&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
       },
       "description": "Natural history broadcaster Sir David Attenborough turns 100 today. We look back at his work and interviews to capture some of his wisdom and endless sense of wonder.",
       "page_content_url": "https://www.abc.net.au/news/science/2026-05-08/david-attenborough-s-life-in-his-own-words-as-he-turns-100/106627464"
@@ -100,15 +136,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-05-07T14:27:05.000000Z",
-      "title": "Rubio visits the Vatican after Trump's attacks on Pope Leo XIV",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/638d6feaa0b14ee80f225cd0ea9db1f3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The secretary of state was seeking to mend fences after US President Donald Trump's social media broadsides against the pope for his opposition to the Iran war.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-08/marco-rubio-diplomatic-visit-vatican-catholic-church/106655834"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/38cd811a-0971-484d-a9cf-3d709e7c1247",
       "published_datetime": "2026-05-07T14:16:21.371858",
       "title": "Trump hosts Lula at White House for tariff, minerals talks",
@@ -154,24 +181,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-05-07T11:00:31.000000Z",
-      "title": "Wasp that eats host alive named after Attenborough for his 100th birthday",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7dad0c26dd8e21194d6458f3b78d6601?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=281&amp;width=862&amp;height=485"
-      },
-      "description": "Taxonomists from London's Natural History Museum who named the Chilean species were inspired by the lifework of the famous broadcaster and naturalist.",
-      "page_content_url": "https://www.abc.net.au/news/science/2026-05-07/parasitic-wasp-named-after-david-attenborough-100/106650030"
-    },
-    {
-      "published_datetime": "2026-05-07T08:01:35.000000Z",
-      "title": "'We come together in unity': Nationwide vigils held for Kumanjayi Little Baby",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/11353c80db7981c144d8d558f66a3f1a?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
-      },
-      "description": "Vigils have been held across the country in memory of five-year-old Kumanjayi Little Baby, who was allegedly murdered in Alice Springs.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-07/kumanjayi-little-baby-remembered-in-sydney-and-melbourne-vigils/106651306"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/84692a25-f6a9-4faf-aa86-9920990074e4",
       "published_datetime": "2026-05-07T02:46:51.673371",
       "title": "Three U.S. states monitor residents from hantavirus cruise ship",
@@ -185,15 +194,6 @@
       "audio_url": "",
       "url": "three-u-s-states-monitor-resid-6h8dTBXmQI6_PS_4UCzoPQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-07T01:14:32.000000Z",
-      "title": "High-profile witness opens up on 'fashionable' rise of antisemitism",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2326e083ba23e6c43728ac1a5e7de226?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=209&amp;width=862&amp;height=485"
-      },
-      "description": "A high-profile witness tells a royal commission that antisemitism is a \"virus\" which has evolved over time, with aggressors on the far right and far left side of politics.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-07/bondi-antisemitism-social-cohesion-royal-commission/106651034"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0c2b3a5c-d11e-471e-831f-fa2e1cd4a69f",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-07T19:26:47.568646"
+  "merged_at": "2026-05-07T20:58:07.603756"
 }
