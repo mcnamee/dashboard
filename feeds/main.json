@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-07T16:03:43.000000Z",
+      "title": "UK immigration officer guilty of spying on politicians for China",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5fc7a0b08d63cd5ed3a0b5f5e2e21f87?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=11&amp;width=862&amp;height=485"
+      },
+      "description": "Two UK-Chinese nationals have been found guilty of spying for China, using UK police systems to gather information.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-08/two-men-guilty-of-spying-for-china/106656046"
+    },
+    {
+      "published_datetime": "2026-05-07T15:43:00.000000Z",
+      "title": "Man arrested after allegedly threatening Andrew on dog walk",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e572a581e3d6f26d9507b3b09c16b43?impolicy=wcms_crop_resize&amp;cropH=1440&amp;cropW=2560&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
+      },
+      "description": "Police arrest a man who allegedly had a weapon and was threatening King Charles III's brother Andrew Mountbatten-Windsor near his Norfolk home on Wednesday evening, local time.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-08/man-arrested-after-allegedly-threatening-former-prince-andrew/106655996"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d39accea-acbb-42db-9438-4cda675d5bf4",
       "published_datetime": "2026-05-07T14:37:40.871233",
       "title": "Rubio meets Pope Leo XIV amid Trump-Vatican feud",
@@ -94,15 +112,6 @@
       "page_content_url": "https://www.abc.net.au/news/science/2026-05-07/parasitic-wasp-named-after-david-attenborough-100/106650030"
     },
     {
-      "published_datetime": "2026-05-07T09:17:52.000000Z",
-      "title": "Hawthorn 'taught a bit of a lesson' after Fremantle's fourth-term blitz",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ca901f2da81bb528651032327f6b43d4?impolicy=wcms_crop_resize&amp;cropH=2544&amp;cropW=4523&amp;xPos=0&amp;yPos=184&amp;width=862&amp;height=485"
-      },
-      "description": "Fremantle overcomes a 15-point deficit to beat Hawthorn thanks to a dominant final quarter.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-07/afl-round-9-fremantle-dockers-hawthorn-hawks-live-blog/106653120"
-    },
-    {
       "published_datetime": "2026-05-07T08:41:43.000000Z",
       "title": "More hantavirus cases expected as passengers prepare to disembark ship",
       "featured_image": {
@@ -146,15 +155,6 @@
       },
       "description": "The heat is on in Farrer ahead of Saturday's by-election while in Canberra the prime minister has gone above and beyond with a gift for Japan's leader.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-07/farrer-byelection-coalition-one-nation-federal-budget/106639814"
-    },
-    {
-      "published_datetime": "2026-05-07T04:43:28.000000Z",
-      "title": "Kyle and Jackie O war costs ARN Media $26 million",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b3d18857b8d8d86cc813023c85f24c03?impolicy=wcms_crop_resize&amp;cropH=496&amp;cropW=881&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
-      },
-      "description": "ARN Media reveals \"brand safety\" concerns over the Kyle and Jackie O Show have cost the company tens of millions in advertising revenue.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-07/kyle-and-jackie-o-arn-annual-general-meeting-investor-backlash/106652588"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/84692a25-f6a9-4faf-aa86-9920990074e4",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-07T16:57:27.780757"
+  "merged_at": "2026-05-07T17:49:21.521416"
 }
