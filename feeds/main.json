@@ -127,6 +127,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-05-08T16:33:50.000000Z",
+      "title": "UK PM 'not going to walk away' despite catastrophic local election defeats",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5ba4a51b3d2c9ee634f66573c504c172?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Sir Keir Starmer's Labour party has lost hundreds of seats in the local government election in England and has admitted defeat in Wales - which was previously Labour heartland.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-09/british-prime-minister-sir-keir-starmer-refuses-to-step-down/106661078"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/20a6c113-ad1b-467a-b1c6-c532b30a796d",
       "published_datetime": "2026-05-08T16:09:44.070840",
       "title": "US fires on two more Iranian tankers breaching blockade",
@@ -232,15 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-05-07T21:55:59.000000Z",
-      "title": "US expects Iranian response on proposal to end war within hours",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/162e820a523ccb49dcd175a350ec37d9?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=449&amp;width=862&amp;height=485"
-      },
-      "description": "Iran and the US exchanged fire after weeks of relative calm in the Middle East, with each side claiming the other initiated the violence.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-08/iran-war-live-updates-us-tehran-exchange-fire-strait-of-hormuz/106654230"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-08T22:03:30.259163"
+  "merged_at": "2026-05-08T22:46:00.150904"
 }
