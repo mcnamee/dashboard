@@ -1,21 +1,30 @@
 {
   "items": [
     {
-      "published_datetime": "2026-05-08T08:53:56.000000Z",
-      "title": "Live: Struggling Carlton face another tough challenge at the Gabba",
+      "published_datetime": "2026-05-08T09:15:44.000000Z",
+      "title": "Probe makes adverse findings against former ANU Council members",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c4bec3e19db73b6fac5d345f12936dbc?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/90b3195a6f869ed1d27b426a3882a464?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "After a tough week on and off the field, Carlton comes up against the Lions in Brisbane, while Port Adelaide hosts the Bulldogs. Follow live.",
+      "description": "An independent review into 36 allegations concerning the Australian National University has made a series of adverse findings against former council members.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-08/anu-independent-review-adverse-findings-former-council-members/106660472"
+    },
+    {
+      "published_datetime": "2026-05-08T08:53:56.000000Z",
+      "title": "Live: Lions grab handy break against Blues, umpire floored by Bulldogs star",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f679f6864252c5e92601797c119eada1?impolicy=wcms_crop_resize&amp;cropH=2067&amp;cropW=3675&amp;xPos=0&amp;yPos=166&amp;width=862&amp;height=485"
+      },
+      "description": "After a slow start, Brisbane dominate the first half against Carlton, while Port Adelaide and the Western Bulldogs face off. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-08/afl-rd-9-friday-blog/106653452"
     },
     {
       "published_datetime": "2026-05-08T07:13:20.000000Z",
-      "title": "Live: 'Ridiculous': Roosters awarded dubious try in sloppy start against Titans",
+      "title": "Live: Cowboys host Eels as NRL admits bunker error in Roosters-Titans game",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1d031600564cc087ea2c2f3cd45f7dda?impolicy=wcms_crop_resize&amp;cropH=676&amp;cropW=1202&amp;xPos=267&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/41d185ca74f7013db84643e79d0a8a90?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=85&amp;width=862&amp;height=485"
       },
-      "description": "Rob Toia is awarded the Roosters' opening try against the Titans in Gosford despite replays appearing to show him dropping the ball. Follow live.",
+      "description": "Jason Taumalolo becomes North Queensland's most capped player against the Eels, after a contentious call helps the Roosters to victory over Gold Coast. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-08/nrl-live-blog-roosters-titans-cowboys-eels/106660080"
     },
     {
@@ -35,15 +44,6 @@
       },
       "description": "Final arguments in the defamation trial between Charlotte MacInnes and Rebel Wilson have heard claims of a suspicious career jump to \"terrible, terrible\" allegations.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-08/nsw-rebel-wilson-defamation-federal-court-closing-statements/106656830"
-    },
-    {
-      "published_datetime": "2026-05-08T06:12:24.000000Z",
-      "title": "Kumanjayi Little Baby's father won't be released from prison for sorry business",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8abc31da67e7716d42ac9882b72d6125?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The father of Kumanjayi Little Baby will remain in prison for aggravated assault, despite calls from his lawyers for his release to attend cultural grieving for his daughter.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-08/nt-father-of-kumanjayi-little-baby-to-remain-in-jail-dv-charges/106659014"
     },
     {
       "published_datetime": "2026-05-08T05:14:42.000000Z",
@@ -113,7 +113,7 @@
     },
     {
       "published_datetime": "2026-05-07T21:55:59.000000Z",
-      "title": "Live: Trump insists ceasefire still holds despite renewed fighting between US and Iran",
+      "title": "Live: Trump insists ceasefire holding despite renewed fighting between US and Iran",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/162e820a523ccb49dcd175a350ec37d9?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=449&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-08T09:06:21.693567"
+  "merged_at": "2026-05-08T11:03:47.504615"
 }
