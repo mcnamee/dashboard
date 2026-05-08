@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-08T12:48:14.000000Z",
+      "title": "Migration, crypto and red tape to feature in budget bid for economic growth",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4d6d23dd1c823bb59599be0dd98e59c8?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=56&amp;width=862&amp;height=485"
+      },
+      "description": "Treasurer Jim Chalmers says Australia's productivity problem will take a long time to fix, but a $10 billion annual saving on business compliance costs is a start.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-08/migration-overhauled-and-red-tape-cut-in-budget/106660316"
+    },
+    {
       "published_datetime": "2026-05-08T09:15:44.000000Z",
       "title": "Probe makes adverse findings against former ANU Council members",
       "featured_image": {
@@ -11,20 +20,20 @@
     },
     {
       "published_datetime": "2026-05-08T08:53:56.000000Z",
-      "title": "Live: Lions grab handy break against Blues, umpire floored by Bulldogs star",
+      "title": "Live: Lions hang on against Blues late surge, Dogs claim thriller over Port",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f679f6864252c5e92601797c119eada1?impolicy=wcms_crop_resize&amp;cropH=2067&amp;cropW=3675&amp;xPos=0&amp;yPos=166&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f5ea4df2e55c41069c3404226f0fdddc?impolicy=wcms_crop_resize&amp;cropH=1955&amp;cropW=3475&amp;xPos=0&amp;yPos=164&amp;width=862&amp;height=485"
       },
-      "description": "After a slow start, Brisbane dominate the first half against Carlton, while Port Adelaide and the Western Bulldogs face off. Follow live.",
+      "description": "Brisbane gets a big fright at the Gabba as Carlton fall short after a big comeback, while the Western Bulldogs hold off Port Adelaide despite being held to one goal in the second half. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-08/afl-rd-9-friday-blog/106653452"
     },
     {
       "published_datetime": "2026-05-08T07:13:20.000000Z",
-      "title": "Live: Cowboys host Eels as NRL admits bunker error in Roosters-Titans game",
+      "title": "'We don't want the penalty': Moses wins the game but doesn't end it",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/41d185ca74f7013db84643e79d0a8a90?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=85&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/872f011b4e1a8d31a1b89a8cb3f85d2e?impolicy=wcms_crop_resize&amp;cropH=2166&amp;cropW=3850&amp;xPos=0&amp;yPos=438&amp;width=862&amp;height=485"
       },
-      "description": "Jason Taumalolo becomes North Queensland's most capped player against the Eels, after a contentious call helps the Roosters to victory over Gold Coast. Follow live.",
+      "description": "Mitchell Moses stuns the Cowboys in a bizarre golden-point finish, after Parramatta crosses twice in the final six minutes of normal time.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-08/nrl-live-blog-roosters-titans-cowboys-eels/106660080"
     },
     {
@@ -35,15 +44,6 @@
       },
       "description": "The chief engineer of a Chinese-owned oil tanker attacked near the Strait of Hormuz says it is \"still unclear\" who fired on the vessel.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-08/chinese-oil-tanker-attacked-in-strait-of-hormuz/106659160"
-    },
-    {
-      "published_datetime": "2026-05-08T06:25:31.000000Z",
-      "title": "Plaintiff's lawyer describes Rebel Wilson as 'fantastical liar' in court",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/77e6ab5f280237dc40ee50775e264bb2?impolicy=wcms_crop_resize&amp;cropH=564&amp;cropW=1003&amp;xPos=0&amp;yPos=69&amp;width=862&amp;height=485"
-      },
-      "description": "Final arguments in the defamation trial between Charlotte MacInnes and Rebel Wilson have heard claims of a suspicious career jump to \"terrible, terrible\" allegations.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-08/nsw-rebel-wilson-defamation-federal-court-closing-statements/106656830"
     },
     {
       "published_datetime": "2026-05-08T05:14:42.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-08T11:03:47.504615"
+  "merged_at": "2026-05-08T13:10:21.105370"
 }
