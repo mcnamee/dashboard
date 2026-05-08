@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-05-08T21:19:06.000000Z",
-      "title": "Australia is breaking its carbon bond, but there's a cost",
+      "published_datetime": "2026-05-08T22:30:56.000000Z",
+      "title": "Live: US fires on tankers as Tehran accuses Washington of 'reckless military adventure'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b73e720b10ca4c1fc68b0c475b4a6000?impolicy=wcms_crop_resize&amp;cropH=713&amp;cropW=1267&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/07d2932596e8f46d7cb4d43c316b43bd?impolicy=wcms_crop_resize&amp;cropH=351&amp;cropW=624&amp;xPos=68&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "As Australia weans itself away from coal, aging power stations across the country have been reduced to smoke and rubble. But for communities at the coalface, there are serious and dramatic consequences.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-09/australia-is-ditching-coal-but-theres-a-cost/106616676"
+      "description": "The US military has struck two empty Iranian-flagged oil tankers, US Central Command says, adding that a third Iranian-flagged vessel had been disabled on Wednesday. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-09/iran-blog-may-9/106659038"
+    },
+    {
+      "published_datetime": "2026-05-08T22:24:40.000000Z",
+      "title": "Trump releases UFO files in 'unprecedented transparency'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a965f8261acd20f26ec2e28ca95e4109?impolicy=wcms_crop_resize&amp;cropH=729&amp;cropW=1296&amp;xPos=0&amp;yPos=68&amp;width=862&amp;height=485"
+      },
+      "description": "The US government releases 160 previously classified files on alleged UFO sightings and alien life, including a photo of \"unidentified phenomena\" taken from the Moon's surface in 1969.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-09/ufo-files-released-donald-trump-pete-hegseth-alien-life-apollo/106661286"
     },
     {
       "published_datetime": "2026-05-08T20:55:49.000000Z",
@@ -125,15 +134,6 @@
       "audio_url": "",
       "url": "satellite-images-reveal-massiv-aeCcbVMzQU.U71nKFgmpRA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-08T16:33:50.000000Z",
-      "title": "UK PM 'not going to walk away' despite catastrophic local election defeats",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5ba4a51b3d2c9ee634f66573c504c172?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Sir Keir Starmer's Labour party has lost hundreds of seats in the local government election in England and has admitted defeat in Wales - which was previously Labour heartland.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-09/british-prime-minister-sir-keir-starmer-refuses-to-step-down/106661078"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/20a6c113-ad1b-467a-b1c6-c532b30a796d",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-08T22:46:00.150904"
+  "merged_at": "2026-05-08T23:46:38.485868"
 }
