@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-09T19:33:39.000000Z",
+      "title": "Who is responsible for the problems in Alice Springs town camps?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d643126c4b2bc234730a72176fedf46f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Conditions in town camps in Alice Springs are under intense scrutiny, but the residents are caught in a tangled web of bureaucracy with little transparency on the money being spent and who exactly is responsible for what.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-10/alice-springs-town-camps-back-in-spotlight/106662324"
+    },
+    {
       "published_datetime": "2026-05-09T19:17:13.000000Z",
-      "title": "Melbourne coffee popularity in Indonesia sparks debate on ownership",
+      "title": "Australian cafe owner looking to protect signature drink from imitators",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2daa9a0d07d6c1101ebc37fcd5d18a2c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=469&amp;width=862&amp;height=485"
       },
@@ -26,15 +35,6 @@
       },
       "description": "In Australia, the way people earn their money affects the rate of tax they pay \u2014 and top earners have a very different income mix from everyone else.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-10/how-everyone-is-making-money-and-what-it-means-for-their-tax/106639592"
-    },
-    {
-      "published_datetime": "2026-05-09T19:00:32.000000Z",
-      "title": "Ancient drought resistant winegrape instilling hope for struggling farmers",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7b5333f2227960fa0fb05b9dc2c731e4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=231&amp;width=862&amp;height=485"
-      },
-      "description": "In an Australian first, two South Australian winegrape growers are trialling an ancient variety from Cyprus that is reducing water consumption and reconnecting them to their Mediterranean roots.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-10/ancient-cypriot-white-winegrape-drought-tolerant-climate-change/106524604"
     },
     {
       "published_datetime": "2026-05-09T19:00:00.000000Z",
@@ -74,11 +74,11 @@
     },
     {
       "published_datetime": "2026-05-09T18:39:38.000000Z",
-      "title": "Want to cross the Strait of Hormuz? Email the IRGC",
+      "title": "We asked the IRGC for their Strait of Hormuz rules and they emailed us back",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fd73cc8d2ff7ff4742d37c0d1d0af78d?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
       },
-      "description": "Amid a fragile ceasefire between the US and Iran, the IRGC has launched a maritime authority for the Strait of Hormuz. The Persian Gulf Strait Authority says ships need to email their application for passage. So, we sent them a request.",
+      "description": "Amid a fragile ceasefire between the US and Iran, the IRGC has launched a maritime authority for the Strait of Hormuz. The Persian Gulf Strait Authority says ships need to email their application for passage. So, we sent them a request.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-10/iran-strait-of-hormuz-authority-for-ships-to-cross/106652970"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-09T19:51:33.411342"
+  "merged_at": "2026-05-09T20:35:27.984450"
 }
