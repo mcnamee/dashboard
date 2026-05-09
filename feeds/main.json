@@ -1,21 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-09T08:14:51.000000Z",
+      "title": "Housing market 'levelling out' as interest rate hikes place pressure on buyers",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7ce8589a1eeaadb7b067df3c62f44f43?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=397&amp;width=862&amp;height=485"
+      },
+      "description": "Prospective home buyers are re-evaluating their budgets as successive rate hikes eat into their borrowing capacity.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-09/housing-market-steady-amid-buyer-uncertainty/106661662"
+    },
+    {
       "published_datetime": "2026-05-09T07:03:06.000000Z",
-      "title": "Live: Final voters cast ballots in Farrer as Federal Court issues injunction against signage",
+      "title": "Live: Early figures in Farrer by-election show drop in Liberal Party vote\u00a0",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7fc096d666442ff52d6d2ca365016e70?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
       },
-      "description": "The final votes are being cast in the Farrer by-election as a crowded contest of candidates jostle for the regional NSW seat. Follow live.",
+      "description": "Polling booths across Farrer have closed as a crowded contest of candidates jostle for Sussan Ley's former seat in NSW. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-09/farrer-by-election-live/106653772"
     },
     {
       "published_datetime": "2026-05-09T04:25:13.000000Z",
-      "title": "Live: Five tries for Knights winger as Dragons' woes deepen with heavy loss",
+      "title": "Live: Rabbits piling on points as Johnston creates more try-scoring history",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bab4e45e0711144eaac1b8c992c558cd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7f7750b658a172cf83ddccc2a908651f?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
       },
-      "description": "Newcastle winger Greg Marzehw has scored five tries as the Knights defeated the St George Illawarra Dragons 44-10. Follow live.",
+      "description": "South Sydney legend Alex Johnston has created more NRL history, scoring his 100th try at Stadium Australia. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-09/nrl-live-dragons-knights-rabbitohs-sharks-sea-eagles-broncos/106653954"
     },
     {
@@ -47,11 +56,11 @@
     },
     {
       "published_datetime": "2026-05-09T02:58:53.000000Z",
-      "title": "Live: Bombers on track for upset over Giants ahead of Cats-Pies clash",
+      "title": "Live: Giants survive scare against Dons as Pendlebury ties AFL games record",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9aad180cfd40c8e2c4552c25c4eb561b?impolicy=wcms_crop_resize&amp;cropH=1243&amp;cropW=2210&amp;xPos=0&amp;yPos=23&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f26c4ed05c808b309dc5e59244c13037?impolicy=wcms_crop_resize&amp;cropH=1349&amp;cropW=2398&amp;xPos=0&amp;yPos=36&amp;width=862&amp;height=485"
       },
-      "description": "The Sydney Swans travel to Docklands to face North Melbourne in the first of four AFL games on Saturday, before tonight's big clash between Geelong and Collingwood at the MCG. Follow live.",
+      "description": "GWS overcomes a 26-point second-half deficit to overrun Essendon as Scott Pendlebury ties the games record in Collingwood's clash against Geelong. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-09/afl-rd-9-saturday-blog-nm-syd-gws-ess-gc-stk-geel-coll/106653852"
     },
     {
@@ -110,15 +119,6 @@
       "audio_url": "",
       "url": "trump-announces-three-day-russ-9OKZi038RDW.DtcA1VM6Yw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-08T22:24:40.000000Z",
-      "title": "Trump releases UFO files in 'unprecedented transparency'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a965f8261acd20f26ec2e28ca95e4109?impolicy=wcms_crop_resize&amp;cropH=729&amp;cropW=1296&amp;xPos=0&amp;yPos=68&amp;width=862&amp;height=485"
-      },
-      "description": "The US government releases 160 previously classified files on alleged UFO sightings and alien life, including a photo of \"unidentified phenomena\" taken from the Moon's surface in 1969.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-09/ufo-files-released-donald-trump-pete-hegseth-alien-life-apollo/106661286"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9a926638-3e12-4b4c-b263-ec9e1e295b2f",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-09T07:43:55.174688"
+  "merged_at": "2026-05-09T09:09:28.300968"
 }
