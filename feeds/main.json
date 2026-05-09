@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-09T20:56:08.000000Z",
+      "title": "How Nigel Farage went from outsider to contender for UK PM",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/45455715ee7b1659001e560148c810bd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+      },
+      "description": "Nigel Farage has his eye on the prime minister's job himself and, if Reform can sustain this level of support at a general election, the keys to Downing Street may fall to him.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-10/nigel-farage-uk-local-elections/106662872"
+    },
+    {
+      "published_datetime": "2026-05-09T20:46:27.000000Z",
+      "title": "MP threatens to challenge UK PM Starmer after local election defeat",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c4e952aeb4f0af2d7d24eaaa3f643ce0?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=163&amp;width=862&amp;height=485"
+      },
+      "description": "UK Prime Minister Sir Keir Starmer is facing a new setback to his leadership after a former minister said she would challenge him for the top job.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-10/uk-lawmaker-threatens-to-challenge-keir-starmer-/106662892"
+    },
+    {
       "published_datetime": "2026-05-09T19:33:39.000000Z",
       "title": "Who is responsible for the problems in Alice Springs town camps?",
       "featured_image": {
@@ -10,22 +28,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-10/alice-springs-town-camps-back-in-spotlight/106662324"
     },
     {
-      "published_datetime": "2026-05-09T19:17:13.000000Z",
-      "title": "Australian cafe owner looking to protect signature drink from imitators",
+      "published_datetime": "2026-05-09T19:10:58.000000Z",
+      "title": "The 'magnificent' mansion that housed movie stars, hippies and refugees",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2daa9a0d07d6c1101ebc37fcd5d18a2c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=469&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/424c8d8ed07d0c1675a80d4f09a7f127?impolicy=wcms_crop_resize&amp;cropH=534&amp;cropW=949&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Melbourne cafe owner Caleb Cha is looking into how he can legally stop shops in Indonesia from imitating his signature Tiger Bomb coffee. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-10/signature-coffee-popularity-in-asia-sparks-debate-around-ip/106630378"
-    },
-    {
-      "published_datetime": "2026-05-09T19:16:03.000000Z",
-      "title": "India embraces cheaper weight loss drugs but doctors are worried",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/446902218f5595d9a3a06b592579aaf2?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=607&amp;width=862&amp;height=485"
-      },
-      "description": "India has become one of the first countries to introduce cheaper, generic brands of weight loss drugs like Ozempic and Wegovy, but health professionals warn a lack of regulation and oversight is causing problems.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-10/india-embraces-weight-loss-drugs-but-doctors-are-concerned/106544560"
+      "description": "From post-war Jewish refugees, who arrived with nothing but hope, to the bohemian artists and performers who took over in the 1970s, historic Melbourne mansion Labassa has more stories than rooms.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-10/melbourne-mansion-labassa-housed-movie-stars-hippies-refugees/106658828"
     },
     {
       "published_datetime": "2026-05-09T19:09:12.000000Z",
@@ -55,13 +64,19 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-10/how-john-polson-revived-tropfest/106572516"
     },
     {
-      "published_datetime": "2026-05-09T18:44:15.000000Z",
-      "title": "The RBA's post-COVID rate hikes caused Australians to work more",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7c26d02d-ce6c-4b97-92ad-bffa228f80b7",
+      "published_datetime": "2026-05-09T18:42:55.408838",
+      "title": "WHO chief arrives in Spain ahead of hantavirus ship docking",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7253782409d58d31f7571d7d92159f30?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=62&amp;width=862&amp;height=485"
+        "url": "https://www.newindianexpress.com/world/2026/May/09/who-chief-arrives-in-spain-before-hantavirus-hit-ship-evacuation",
+        "name": "WHO chief arrives in Spain before hantavirus-hit ship evacuation",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--HbMx2fn6--/t_limit/https://cf-images.assettype.com/newindianexpress%252F2026-05-09%252Fda2bm8h1%252FAFP20260507B26J99Fv1HighResSwitzerlandUnHealthTourismWho.jpg%3Frect%3D552%252C0%252C4448%252C3336%26w%3D1200%26h%3D900%26auto%3Dformat%252Ccompress%26fit%3Dcrop",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--1AWzH7Lw--/t_thumbnail/https://cf-images.assettype.com/newindianexpress%252F2026-05-09%252Fda2bm8h1%252FAFP20260507B26J99Fv1HighResSwitzerlandUnHealthTourismWho.jpg%3Frect%3D552%252C0%252C4448%252C3336%26w%3D1200%26h%3D900%26auto%3Dformat%252Ccompress%26fit%3Dcrop"
       },
-      "description": "The International Monetary Fund found that thousands of Australians took on a second or third job when the RBA hiked rates rapidly in 2022 and 2023. It expected the opposite.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-10/rba-rapid-rate-hikes-increase-labour-supply-imf/106652558"
+      "description": "The MV Hondius, a Dutch-flagged expedition cruise ship at the center of a hantavirus outbreak that has killed three people, is expected to arrive in Tenerife in Spain's Canary Islands early Sunday morning, as WHO Director-General Tedros Adhanom Ghebreyesus traveled to Spain on Saturday to personally oversee the disembarkation of more than 140 passengers and crew.[1][2][3]\n\n\"This is not another Covid,\" Tedros told residents of Tenerife, emphasizing that no one aboard the ship is currently showing symptoms and that \"the risk for the population of Canary Islands and globally remains low.\"[4][3]",
+      "audio_url": "",
+      "url": "who-chief-arrives-in-spain-ahe-zsugPT0lR2i9pXX0SRsnww",
+      "partition_name": "partition1"
     },
     {
       "published_datetime": "2026-05-09T18:40:43.000000Z",
@@ -82,13 +97,73 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-10/iran-strait-of-hormuz-authority-for-ships-to-cross/106652970"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/e35945ea-c882-4d3c-89ff-54421aa5b5db",
+      "published_datetime": "2026-05-09T18:33:39.334548",
+      "title": "US restates opposition to West Bank annexation at UN",
+      "featured_image": {
+        "url": "https://www.aa.com.tr/en/middle-east/us-opposes-israeli-annexation-of-west-bank-diplomat-tells-un-/3931788",
+        "name": "US opposes Israeli annexation of West Bank, diplomat tells UN",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1778351361/url_uploads/thumbs_b_c_7e46b576a1529ede1c785d7568ee33a4_lbshcg.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1778351361/url_uploads/thumbs_b_c_7e46b576a1529ede1c785d7568ee33a4_lbshcg.jpg"
+      },
+      "description": "A U.S. diplomat told the United Nations on Friday that Washington opposes Israeli annexation of the occupied West Bank, restating a position the Trump administration has maintained since taking office amid growing alarm over settlement expansion and escalating violence against Palestinians.\n\nAmbassador Jeff Bartos, the U.S. representative for U.N. Management and Reform, delivered the message during an Arria-formula session convened by the Security Council's five European members \u2014 Denmark, France, Greece, Latvia, and the United Kingdom \u2014 to hear testimony on conditions facing Palestinians in the West Bank, including East Jerusalem.[1][2]\n\n\"As President Trump has made clear, the United States opposes Israeli annexation of the West Bank,\" Bartos said. \"Stability in the West Bank is vital for Israel's security and aligns with our goal of achieving peace in the region.\"[1]",
+      "audio_url": "",
+      "url": "us-restates-opposition-to-west-3BDMZpwLSZO4NVaYhsr6JQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-09T18:30:00.000000Z",
-      "title": "We're living in the age of exhaustion. Who pays the price of burnout?",
+      "title": "One woman calls it 'potato brain'. She's one of half of the workforce with burnout",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5afb51cfa0adf514e69a7086888d376a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
       },
       "description": "Burnout is everywhere \u2014 in resignation letters, therapy sessions and late-night emails. Yet the debate over what it is reveals a bigger question: Should workplaces bear responsibility for the damage modern work can cause?",
       "page_content_url": "https://www.abc.net.au/news/2026-05-10/burnout-symptoms-depression-anxiety-job-work-who-is-responsible/106658950"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/25707730-5bfa-4ccf-8eb2-c165b196281d",
+      "published_datetime": "2026-05-09T18:24:31.210112",
+      "title": "US sanctions Chinese satellite firms over Iran war",
+      "featured_image": {
+        "url": "https://www.economist.com/china/2026/04/19/how-chinese-satellites-have-boosted-irans-war-effort",
+        "name": "How Chinese satellites have boosted Iran's war effort",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--eDKKAwbn--/t_limit/https://www.economist.com/cdn-cgi/image/width%3D1424%2Cquality%3D80%2Cformat%3Dauto/content-assets/images/20260425_CNP001.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--BGvKoBR9--/t_thumbnail/https://www.economist.com/cdn-cgi/image/width%3D1424%2Cquality%3D80%2Cformat%3Dauto/content-assets/images/20260425_CNP001.jpg"
+      },
+      "description": "The United States on Friday imposed sanctions on three Chinese companies accused of supplying satellite imagery that enabled Iranian military strikes against American forces in the Middle East, a move that adds a layer of tension just days before President Donald Trump is set to visit Beijing for a summit with Chinese President Xi Jinping.",
+      "audio_url": "",
+      "url": "us-sanctions-chinese-satellite-fdk68y6NSRSqmbYgtZ7F.Q",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/550938af-880d-47ec-a753-29efcd429701",
+      "published_datetime": "2026-05-09T18:21:39.779895",
+      "title": "Israel to release two Gaza flotilla activists for deportation",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2026/5/6/un-demands-israel-release-gaza-flotilla-activists-investigate-abuse-claims",
+        "name": "UN demands Israel release Gaza flotilla activists, investigate abuse claims",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_-mHQ8v9--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/05/ap_69fb385b92acf-1778071643.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--BI7B1tpE--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/05/ap_69fb385b92acf-1778071643.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "Two activists detained after Israeli forces intercepted the Gaza-bound Global Sumud Flotilla last month are being released from Israeli security detention on Saturday and will be deported in the coming days, according to their legal representatives and the human rights organization Adalah.[1][2]",
+      "audio_url": "",
+      "url": "israel-to-release-two-gaza-flo-_BdUI9K_R0Gii7u06OmG7w",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/611fd0d5-208e-4f82-adc5-2b0f600ce24d",
+      "published_datetime": "2026-05-09T18:18:15.005416",
+      "title": "Bahrain arrests 41 over alleged links to Iran's IRGC",
+      "featured_image": {
+        "url": "https://english.aawsat.com/gulf/5271234-bahrain-says-it-has-arrested-41-people-linked-irgc",
+        "name": "Bahrain Says it Has Arrested 41 People Linked to IRGC",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_HO3IodU--/t_limit/https://english.aawsat.com/s3/files/styles/1200x600/public/2026-05/1532748_0.jpeg.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--OY07eEHv--/t_thumbnail/https://english.aawsat.com/s3/files/styles/1200x600/public/2026-05/1532748_0.jpeg.webp"
+      },
+      "description": "Bahrain's Interior Ministry announced on Saturday the arrest of 41 individuals it described as members of a network linked to Iran's Islamic Revolutionary Guard Corps, escalating a security crackdown that human rights groups say has disproportionately targeted the country's Shia Muslim population since the outbreak of war in the region.",
+      "audio_url": "",
+      "url": "bahrain-arrests-41-over-allege-z9eWYqMBR.6um03mLGtXeQ",
+      "partition_name": "partition1"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/93bc84cd-bc43-40bf-aedc-1991141f6e01",
@@ -166,81 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/20a6c113-ad1b-467a-b1c6-c532b30a796d",
-      "published_datetime": "2026-05-08T16:09:44.070840",
-      "title": "US fires on two more Iranian tankers breaching blockade",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2025/06/23/tankers-reversing-course-from-strait-of-hormuz-following-us-attack-on-iran-nuclear-sites.html",
-        "name": "Tankers showing caution around Strait of Hormuz after attack on Iran",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--6ae8FsEE--/t_limit/https://image.cnbcfm.com/api/v1/image/108162405-1750689685731-108162405-1750681542505-gettyimages-1241742205-nikoubazl-iranmili190430_npxNQ.jpg%3Fv%3D1772445842",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--6sX4Uf9X--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108162405-1750689685731-108162405-1750681542505-gettyimages-1241742205-nikoubazl-iranmili190430_npxNQ.jpg%3Fv%3D1772445842"
-      },
-      "description": "The US military fired on and disabled two Iranian-flagged oil tankers on Friday that were attempting to violate the ongoing American naval blockade of Iran's ports, escalating tensions even as Washington awaits Tehran's response to a proposed deal to end the two-month war.\n\nThe strikes came two days after US forces disabled a third tanker, the M/T Hasna, on Wednesday by firing 20mm cannon rounds from an F/A-18 Super Hornet to knock out the vessel's rudder as it ignored warnings to stop in the Gulf of Oman, according to US Central Command.[1][2]",
-      "audio_url": "",
-      "url": "us-fires-on-two-more-iranian-t-3iF6MkOYSPyvlNY7Uz_hgg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7f6c14d7-bf02-40c6-b94e-92d178dbf9c3",
-      "published_datetime": "2026-05-08T14:12:47.910242",
-      "title": "Trump-Xi summit proceeds despite Iran ceasefire strains",
-      "featured_image": {
-        "url": "https://apnews.com/article/trump-china-trip-iran-war-401c4c33a01b2acce72e96eb8058f8cc",
-        "name": "Trump will travel to Beijing for rescheduled China trip May ...",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--OfHxt1MW--/t_limit/https://dims.apnews.com/dims4/default/3f98ef8/2147483647/strip/true/crop/3936x2623%2B0%2B5/resize/980x653%21/quality/90/%3Furl%3Dhttps%253A%252F%252Fassets.apnews.com%252Fe6%252Fac%252Fd91c1db067c2fc45add8b52fc568%252Fec39cf17b79b4676aba272f3f38b4b8d",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--LYY1blLD--/t_thumbnail/https://dims.apnews.com/dims4/default/3f98ef8/2147483647/strip/true/crop/3936x2623%2B0%2B5/resize/980x653%21/quality/90/%3Furl%3Dhttps%253A%252F%252Fassets.apnews.com%252Fe6%252Fac%252Fd91c1db067c2fc45add8b52fc568%252Fec39cf17b79b4676aba272f3f38b4b8d"
-      },
-      "description": "President Donald Trump is pressing ahead with plans to meet Chinese President Xi Jinping in Beijing next week, even as a fragile ceasefire with Iran threatens to unravel and Chinese officials harbor reservations about the timing of the high-stakes encounter.",
-      "audio_url": "",
-      "url": "trump-xi-summit-proceeds-despi-QYIEBIFFQSu2zXqZjCX5Nw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/721fde66-5bf6-4534-8378-9bdc9f879f4f",
-      "published_datetime": "2026-05-08T14:11:51.404450",
-      "title": "Taiwan passes $25B defense bill for US arms purchases",
-      "featured_image": {
-        "url": "https://www.aa.com.tr/en/asia-pacific/taiwan-legislature-passes-25b-defense-bill-for-major-us-arms-purchases/3931272",
-        "name": "Taiwan legislature passes $25B defense bill for major US arms purchases",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--9srDGCVD--/t_limit/https://web-cdnprod.aa.com.tr/uploads/Contents/2026/05/08/thumbs_b_c_a282d829fad2db920e66059bf0e6d46f.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--aBqOpRdb--/t_thumbnail/https://web-cdnprod.aa.com.tr/uploads/Contents/2026/05/08/thumbs_b_c_a282d829fad2db920e66059bf0e6d46f.jpg"
-      },
-      "description": "Taiwan's legislature on Friday passed a NT$780 billion ($24.8 billion) special defense spending bill to fund purchases of American weapons, ending months of partisan gridlock over the island's military preparedness against China \u2014 but delivering far less than President Lai Ching-te's government had sought.",
-      "audio_url": "",
-      "url": "taiwan-passes-25b-defense-bill-RQ6fO.TbQK2_WGSHpVy.TQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/de00783c-5b0c-40ba-b126-9cfb53dfdff7",
-      "published_datetime": "2026-05-08T14:01:54.878723",
-      "title": "Reform UK surges as Labour loses hundreds of seats in local elections",
-      "featured_image": {
-        "url": "https://www.the-independent.com/news/uk/politics/local-elections-2026-uk-live-updates-results-b2972615.html",
-        "name": "Local election results live: Reform delivers blow to Labour but Starmer vows to stay",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--h7k9OxaO--/t_limit/https://static.the-independent.com/2026/05/08/08/2275120655.jpg%3Fwidth%3D1200%26height%3D800%26crop%3D1200%253A800",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--uKJ1-UJK--/t_thumbnail/https://static.the-independent.com/2026/05/08/08/2275120655.jpg%3Fwidth%3D1200%26height%3D800%26crop%3D1200%253A800"
-      },
-      "description": "Prime Minister Keir Starmer vowed he would \"not walk away\" on Friday as early results from England's local elections revealed a punishing night for the Labour Party, with Nigel Farage's Reform UK making dramatic gains across the country's traditional Labour heartlands.",
-      "audio_url": "",
-      "url": "reform-uk-surges-as-labour-los-sdztp3fQSqyMDm.hb5VDCg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7665a06a-6a79-4526-a2dd-55249e36c56a",
-      "published_datetime": "2026-05-08T13:58:06.261859",
-      "title": "Iran warns UAE will 'pay the price' after Qeshm blasts",
-      "featured_image": {
-        "url": "https://www.jpost.com/middle-east/iran-news/article-895532",
-        "name": "CENTCOM carries out strikes on Iranian military facilities",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--y4glPOo9--/t_limit/https://images.jpost.com/image/upload/f_auto%2Cfl_lossy/q_auto/c_fill%2Cg_faces:center%2Ch_720%2Cw_1280/717574",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Fic-rH3E--/t_thumbnail/https://images.jpost.com/image/upload/f_auto%2Cfl_lossy/q_auto/c_fill%2Cg_faces:center%2Ch_720%2Cw_1280/717574"
-      },
-      "description": "Explosions rocked Iran's Qeshm Island and the port city of Bandar Abbas on Thursday night, prompting Iranian state-affiliated media to accuse the United Arab Emirates of carrying out a hostile action and warn that Abu Dhabi would face consequences if its involvement is confirmed.",
-      "audio_url": "",
-      "url": "iran-warns-uae-will-pay-the-pr-ysA3CalCTeGGpVy.mZtxNg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-09T20:35:27.984450"
+  "merged_at": "2026-05-09T21:35:06.129583"
 }
