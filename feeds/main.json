@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-11T11:09:59.000000Z",
+      "title": "'Didn't have the balls': Hume takes shot at Labor after shocking Coalition loss",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/21151fea47b05cbba00664a9cb3f0b4f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Deputy Liberal leader Jane Hume is promising a new day for a Coalition that has lost its way but whether the party can recover from the wreckage of Farrer remains to be seen.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-11/jane-hume-farrer-byelection-loss-labor-lack-balls/106583906"
+    },
+    {
       "published_datetime": "2026-05-11T09:25:39.000000Z",
-      "title": "Sara Duterte to face impeachment trial after key vote",
+      "title": "Sara Duterte faces impeachment trial likely ending her presidential hopes",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/53110784d6fab0550a8aed385fa93bab?impolicy=wcms_crop_resize&amp;cropH=2106&amp;cropW=3744&amp;xPos=0&amp;yPos=195&amp;width=862&amp;height=485"
       },
@@ -38,7 +47,7 @@
     },
     {
       "published_datetime": "2026-05-11T07:33:37.000000Z",
-      "title": "'Crying all the time': University academic got through cancer treatment but not her teaching workload",
+      "title": "The university where teaching is tougher than having terminal cancer for this academic",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/06e3a96704d009c9aad03c703ccc5313?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=365&amp;width=862&amp;height=485"
       },
@@ -71,15 +80,6 @@
       },
       "description": "Australian passengers who were on board the hantavirus-hit cruise ship will be ordered to quarantine in Perth for at least three weeks.\u202f",
       "page_content_url": "https://www.abc.net.au/news/2026-05-11/australian-repatriation-flight-hantavirus-cruise-ship/106665202"
-    },
-    {
-      "published_datetime": "2026-05-11T03:32:52.000000Z",
-      "title": "'Got no friends left': Jewish teen bullied while playing Minecraft",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c941b20293acd091172ead596b2e7a5?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
-      },
-      "description": "The Royal Commission into Antisemitism and Social Cohesion hears a 15-year-old was subjected to antisemitic slurs while playing the popular video game with students from a Perth school.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-11/bondi-antisemitism-royal-commission-minecraft-perth-school-slurs/106664456"
     },
     {
       "published_datetime": "2026-05-11T02:35:40.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-11T12:43:19.197759"
+  "merged_at": "2026-05-11T13:38:31.593733"
 }
