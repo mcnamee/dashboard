@@ -1,6 +1,63 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-11T16:21:31.000000Z",
+      "title": "US-Iran ceasefire 'on life support' with energy woes to continue in 2027",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/91c454e32da8fd5cbd18be0bf74582f5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "US President Donald Trump says he's aiming for \"complete victory\" in Iran as the US and Iran reach an impasse in negotiations.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-12/us-iran-reach-stalemate-in-war-negotiations/106668284"
+    },
+    {
+      "published_datetime": "2026-05-11T15:00:00.000000Z",
+      "title": "No link between PCOS and higher rate of abnormal cysts: study",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c96eb64c2ff474a119d650f18a131388?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Despite what the name suggests, women with polycystic ovary syndrome (PCOS) do not have a higher rate of abnormal ovarian cysts than the general population, a large study shows.",
+      "page_content_url": "https://www.abc.net.au/news/health/2026-05-12/polycystic-ovary-syndrome-abnormal-ovarian-cysts/106657480"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f8a9a758-cf23-456c-85d0-dd63a9dc1bdd",
+      "published_datetime": "2026-05-11T14:19:41.943210",
+      "title": "Putin says war 'coming to an end' as Germany rejects his peace mediator",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end",
+        "name": "Putin suggests Russia's war on Ukraine 'coming to an end'",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--SbZbdwTm--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69ffe7f288d5-1778378738.jpg%3Fresize%3D1920%252C1440",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--uik-LFTN--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69ffe7f288d5-1778378738.jpg%3Fresize%3D1920%252C1440"
+      },
+      "description": "Russian President Vladimir Putin told reporters on Saturday that he believes the war in Ukraine is \"approaching its end,\" hours after presiding over the most diminished Victory Day parade in Moscow in nearly two decades \u2014 one that for the first time since 2007 featured no tanks, missiles, or other heavy military equipment on Red Square. The remarks, made on May 9 amid a U.S.-brokered three-day ceasefire, drew immediate skepticism from analysts who said they were aimed at a domestic audience rather than reflecting any genuine shift toward peace.[1][2]",
+      "audio_url": "",
+      "url": "putin-says-war-coming-to-an-en-vqOU6POLTee_8jsfKj5C6w",
+      "partition_name": "partition1"
+    },
+    {
+      "published_datetime": "2026-05-11T13:52:56.000000Z",
+      "title": "Man charged with White House correspondents' dinner shooting pleads not guilty",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/650b28c44d9fe0d12a80e1ce9b94c34b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=481&amp;width=862&amp;height=485"
+      },
+      "description": "Cole Tomas Allen, 31, has been charged with attempting to assassinate US president Donald Trump at the April dinner.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-11/cole-tomas-allan-pleads-not-guilty-to-white-house-shooting/106668090"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/f3f793eb-25f3-4960-ae81-345f57ed30f6",
+      "published_datetime": "2026-05-11T13:23:06.963885",
+      "title": "Second Qatar LNG tanker approaches Hormuz as Pakistan negotiates more shipments",
+      "featured_image": {
+        "url": "https://english.aawsat.com/business/5271835-qatari-lng-tanker-crosses-strait-hormuz",
+        "name": "Qatari LNG Tanker Crosses Strait of Hormuz",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Rx-Ox6zJ--/t_limit/https://static.srpcdigital.com/styles/1037xauto/public/2026-05/1535704_0.jpeg.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--RJnCS0n7--/t_thumbnail/https://static.srpcdigital.com/styles/1037xauto/public/2026-05/1535704_0.jpeg.webp"
+      },
+      "description": "A Qatari tanker carrying liquefied natural gas crossed the Strait of Hormuz on Sunday, marking the first successful LNG transit through the chokepoint since the US-Iran war began on February 28, according to ship-tracking data compiled by Bloomberg. A second vessel, the Mihzem, is now also approaching the strait en route to Pakistan.[1][2]",
+      "audio_url": "",
+      "url": "second-qatar-lng-tanker-approa-qW5NA5zmQBGb9IZaZYkbqQ",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-11T11:09:59.000000Z",
       "title": "'Didn't have the balls': Hume takes shot at Labor after shocking Coalition loss",
       "featured_image": {
@@ -8,15 +65,6 @@
       },
       "description": "Deputy Liberal leader Jane Hume is promising a new day for a Coalition that has lost its way but whether the party can recover from the wreckage of Farrer remains to be seen.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-11/jane-hume-farrer-byelection-loss-labor-lack-balls/106583906"
-    },
-    {
-      "published_datetime": "2026-05-11T09:25:39.000000Z",
-      "title": "Sara Duterte faces impeachment trial likely ending her presidential hopes",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/53110784d6fab0550a8aed385fa93bab?impolicy=wcms_crop_resize&amp;cropH=2106&amp;cropW=3744&amp;xPos=0&amp;yPos=195&amp;width=862&amp;height=485"
-      },
-      "description": "The Philippines vice-president is accused of misusing public funds, amassing unexplained wealth, and of making threats against President Ferdinand Marcos Jr, the first lady and the former house speaker.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-11/sara-duterte-impeachment-trial-vote-in-philippines/106667806"
     },
     {
       "published_datetime": "2026-05-11T08:17:05.000000Z",
@@ -35,15 +83,6 @@
       },
       "description": "The lawsuit alleges Samsung featured a copyrighted image of the pop star on the front of cardboard boxes containing televisions for sale.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-11/dua-lipa-sues-samsung-for-using-her-face-to-sell-tvs/106667428"
-    },
-    {
-      "published_datetime": "2026-05-11T07:51:57.000000Z",
-      "title": "Alleged Russian spies to face fresh espionage conspiracy charge",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8284699abb00f3412eff2e003bd6f18?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Australian citizens Kira and Igor Korolev were charged in 2024, accused of attempting to gather and send state secrets to Russia.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-11/alleged-russian-spies-conspiracy-espionage-charge/106666658"
     },
     {
       "published_datetime": "2026-05-11T07:33:37.000000Z",
@@ -80,15 +119,6 @@
       },
       "description": "Australian passengers who were on board the hantavirus-hit cruise ship will be ordered to quarantine in Perth for at least three weeks.\u202f",
       "page_content_url": "https://www.abc.net.au/news/2026-05-11/australian-repatriation-flight-hantavirus-cruise-ship/106665202"
-    },
-    {
-      "published_datetime": "2026-05-11T02:35:40.000000Z",
-      "title": "Why are people trying to raid Scientology buildings around the world?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ea1988272ca9d2eac6f6ed0140e5efb?impolicy=wcms_crop_resize&amp;cropH=1259&amp;cropW=2238&amp;xPos=0&amp;yPos=769&amp;width=862&amp;height=485"
-      },
-      "description": "Over the weekend, Brisbane's Church of Scientology became the latest target of a viral trend that began in the United States just a few months ago \u2014 the Scientology speed run.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-11/scientology-speed-running-church-brisbane-event/106664582"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/69ff3801-ee84-4fca-9d7c-74d2716809c9",
@@ -211,36 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/41dea979-6f35-4913-80af-e18a97080ce2",
-      "published_datetime": "2026-05-10T02:22:29.919839",
-      "title": "One Nation wins first federal lower house seat in Farrer by-election",
-      "featured_image": {
-        "url": "https://www.gettyimages.com/detail/news-photo/victorious-one-nation-candidate-david-farley-address-news-photo/2275300331",
-        "name": "Farrer Byelection Campaigning Gets Into High Gear",
-        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1778377306/getty_uploads/2275300331_nmqno9.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1778377306/getty_uploads/2275300331_nmqno9.jpg"
-      },
-      "description": "Pauline Hanson's One Nation party secured its first-ever seat in the Australian House of Representatives on Saturday, ending the Coalition's 77-year hold on the New South Wales electorate of Farrer in a result that reshapes the country's political landscape.\n\nCandidate David Farley claimed an emphatic victory, leading by roughly 14,000 ballots with more than 80 percent of votes counted. His primary vote hovered around the low 40s on election night, while independent challenger Michelle Milthorpe trailed with approximately a quarter of first preferences. Liberal and National candidates each polled just above 9 percent.[1][2][3]",
-      "audio_url": "",
-      "url": "one-nation-wins-first-federal-qkkBBOCzSkODJzUyODSIiw",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/862f6b09-8614-4bee-b78f-d7e534409903",
-      "published_datetime": "2026-05-10T01:42:18.904898",
-      "title": "Global oil stockpiles draining at record pace amid Iran war",
-      "featured_image": {
-        "url": "https://www.moneycontrol.com/news/business/iran-war-is-draining-world-s-oil-buffer-at-an-unprecedented-pace-13913830.html",
-        "name": "Iran war is draining world's oil buffer at an unprecedented ace",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--6ggbYBmn--/t_limit/https://images.moneycontrol.com/static-mcnews/2026/05/20260509130121_Iran-oil-stock.png%3Fimpolicy%3Dwebsite%26width%3D1280%26height%3D720",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Oi2QxY5g--/t_thumbnail/https://images.moneycontrol.com/static-mcnews/2026/05/20260509130121_Iran-oil-stock.png%3Fimpolicy%3Dwebsite%26width%3D1280%26height%3D720"
-      },
-      "description": "More than two months after the United States and Israel launched coordinated strikes against Iran, the near-total closure of the Strait of Hormuz is draining the world's oil reserves at a record pace, sending American gasoline prices soaring and threatening European airlines with fuel rationing by summer.",
-      "audio_url": "",
-      "url": "global-oil-stockpiles-draining-_ovaxjTEQx2EmzuUea3fvw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-11T13:38:31.593733"
+  "merged_at": "2026-05-11T16:24:44.395862"
 }
