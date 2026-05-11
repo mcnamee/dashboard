@@ -1,67 +1,94 @@
 {
   "items": [
     {
-      "published_datetime": "2026-05-11T06:10:05.000000Z",
-      "title": "Hacker deadline looms as some universities regain Canvas access",
+      "published_datetime": "2026-05-11T09:25:39.000000Z",
+      "title": "Sara Duterte to face impeachment trial after key vote",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/44cd3a5d8bba3ed4d28b66991d7daecd?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/53110784d6fab0550a8aed385fa93bab?impolicy=wcms_crop_resize&amp;cropH=2106&amp;cropW=3744&amp;xPos=0&amp;yPos=195&amp;width=862&amp;height=485"
       },
-      "description": "Australian universities and education departments have begun regaining access to online learning platform Canvas, after being caught up in a breach last week. However, the deadline set by the hackers continues to count down.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-11/tas-universities-regain-access-to-canvas-hacker-deadline/106666744"
+      "description": "The Philippines vice-president is accused of misusing public funds, amassing unexplained wealth, and of making threats against President Ferdinand Marcos Jr, the first lady and the former house speaker.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-11/sara-duterte-impeachment-trial-vote-in-philippines/106667806"
     },
     {
-      "published_datetime": "2026-05-11T06:02:06.000000Z",
-      "title": "Breaking: Gold Coast woman Maree Mavis Crabtree cleared of son Jonathan's murder",
+      "published_datetime": "2026-05-11T08:17:05.000000Z",
+      "title": "Man charged after allegedly making threats at north Brisbane mosque",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/de68756a35b3dde7092b9ec3d9900401?impolicy=wcms_crop_resize&amp;cropH=1907&amp;cropW=3390&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3baee939a4579879596f0f1b4c8bd36f?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
       },
-      "description": "After hearing evidence from more than 60 witnesses across five weeks, a jury retired to deliberate on Thursday afternoon and returned a verdict on Monday.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-11/maree-crabtree-murder-trial-found-not-guilty/106619456"
+      "description": "Masjid Taqwa's board said the alleged incident caused fear and distress among members of the congregation.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-11/man-charged-making-threats-north-brisbane-mosque/106667352"
+    },
+    {
+      "published_datetime": "2026-05-11T08:01:52.000000Z",
+      "title": "Dua Lipa sues Samsung for using her face to sell TVs",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4cc717b8796d6d7d40e64d2f84b292e2?impolicy=wcms_crop_resize&amp;cropH=2713&amp;cropW=4823&amp;xPos=0&amp;yPos=252&amp;width=862&amp;height=485"
+      },
+      "description": "The lawsuit alleges Samsung featured a copyrighted image of the pop star on the front of cardboard boxes containing televisions for sale.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-11/dua-lipa-sues-samsung-for-using-her-face-to-sell-tvs/106667428"
+    },
+    {
+      "published_datetime": "2026-05-11T07:51:57.000000Z",
+      "title": "Alleged Russian spies to face fresh espionage conspiracy charge",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8284699abb00f3412eff2e003bd6f18?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Australian citizens Kira and Igor Korolev were charged in 2024, accused of attempting to gather and send state secrets to Russia.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-11/alleged-russian-spies-conspiracy-espionage-charge/106666658"
+    },
+    {
+      "published_datetime": "2026-05-11T07:33:37.000000Z",
+      "title": "'Crying all the time': University academic got through cancer treatment but not her teaching workload",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/06e3a96704d009c9aad03c703ccc5313?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=365&amp;width=862&amp;height=485"
+      },
+      "description": "The University of Newcastle has been found to be worst in class when it comes to staff wellbeing. Now, an academic with terminal cancer is speaking out about it because others fear they cannot.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-11/university-of-newcastle-academic-terminal-cancer-workload/106645186"
+    },
+    {
+      "published_datetime": "2026-05-11T07:31:33.000000Z",
+      "title": "Boy in critical condition after being hit by train at Melbourne station",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c547df2fb5d81ce65357cedebe5d8f07?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A year 7 student is fighting for his life in hospital after being hit by a train and becoming trapped for up to an hour.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-11/north-melbourne-railway-station-boy-rescued-from-under-train/106667288"
+    },
+    {
+      "published_datetime": "2026-05-11T07:28:35.000000Z",
+      "title": "'Closure': Police believe body found in NSW is alleged triple murderer",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b09e576cf61dfb0190094804ddf208fd?impolicy=wcms_crop_resize&amp;cropH=288&amp;cropW=512&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A body has been found near Lake Cargelligo, where three people were shot and killed in January this year, sparking a massive manhunt.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-11/lake-cargelligo-body-found-julian-ingram/106296228"
+    },
+    {
+      "published_datetime": "2026-05-11T06:38:49.000000Z",
+      "title": "Hantavirus-hit cruise ship passengers to quarantine in Perth",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7b1001eb1c307e13009db5953f71ce55?impolicy=wcms_crop_resize&amp;cropH=360&amp;cropW=640&amp;xPos=0&amp;yPos=33&amp;width=862&amp;height=485"
+      },
+      "description": "Australian passengers who were on board the hantavirus-hit cruise ship will be ordered to quarantine in Perth for at least three weeks.\u202f",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-11/australian-repatriation-flight-hantavirus-cruise-ship/106665202"
     },
     {
       "published_datetime": "2026-05-11T03:32:52.000000Z",
-      "title": "'Got no friends left': Jewish teen bullied playing Minecraft, royal commission told",
+      "title": "'Got no friends left': Jewish teen bullied while playing Minecraft",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c941b20293acd091172ead596b2e7a5?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
       },
-      "description": "The royal commission heard the 15-year-old was subjected to antisemitic slurs while playing the popular video game with students from a Perth school.\u00a0",
+      "description": "The Royal Commission into Antisemitism and Social Cohesion hears a 15-year-old was subjected to antisemitic slurs while playing the popular video game with students from a Perth school.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-11/bondi-antisemitism-royal-commission-minecraft-perth-school-slurs/106664456"
     },
     {
       "published_datetime": "2026-05-11T02:35:40.000000Z",
-      "title": "Hundreds draw police ire after Scientology 'speed run' attempt in Brisbane",
+      "title": "Why are people trying to raid Scientology buildings around the world?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ea1988272ca9d2eac6f6ed0140e5efb?impolicy=wcms_crop_resize&amp;cropH=1259&amp;cropW=2238&amp;xPos=0&amp;yPos=769&amp;width=862&amp;height=485"
       },
       "description": "Over the weekend, Brisbane's Church of Scientology became the latest target of a viral trend that began in the United States just a few months ago \u2014 the Scientology speed run.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-11/scientology-speed-running-church-brisbane-event/106664582"
-    },
-    {
-      "published_datetime": "2026-05-11T02:02:06.000000Z",
-      "title": "Matt Wright back with family after what he says was 'one hell of a fight'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b3dde2450d93eb3811a0004c7e1ab78f?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=400&amp;width=862&amp;height=485"
-      },
-      "description": "Outback Wrangler star Matt Wright has served five months in a Darwin prison, revealing he was not released in time for the birth of his third child.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-11/matt-wright-released-from-jail-darwin-correctional-centre-holtze/106653814"
-    },
-    {
-      "published_datetime": "2026-05-11T01:28:01.000000Z",
-      "title": "Media mogul Antony Catalano excused from appearing in court in person",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/785f27af056a26d21dbdb8bcdeb1147c?impolicy=wcms_crop_resize&amp;cropH=2173&amp;cropW=3863&amp;xPos=0&amp;yPos=315&amp;width=862&amp;height=485"
-      },
-      "description": "A judge allowed the newspaper executive to appear in court via video link from his lawyer's office as he faces charges of assault, false imprisonment and making threats to kill.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-11/antony-catalano-excused-from-court-after-charged-assault/106665236"
-    },
-    {
-      "published_datetime": "2026-05-10T21:11:33.000000Z",
-      "title": "Live: Australians returning home from hantavirus cruise ship to quarantine in Perth",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4954da6789cd0640c94cba08f2ff7a8f?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Australians returning home from hantavirus cruise ship will quarantine in Perth. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-11/federal-politics-live-blog-one-nation/106664438"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/69ff3801-ee84-4fca-9d7c-74d2716809c9",
@@ -77,15 +104,6 @@
       "audio_url": "",
       "url": "trump-calls-iran-s-response-to-lFuFwphSSSqhWI.9DX0NSg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-10T21:02:56.000000Z",
-      "title": "Live: Health giant CSL wipes out decade of share price gains on profit warning",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/db72da5fb38fb1cd642bc0586ebd1715?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The ASX falls as CSL shares tank on a profit downgrade. More strong earnings news, demand for AI stocks and positive jobs data drove Wall Street higher. Follow the ABC News live markets blog.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-11/asx-markets-business-news-live-updates/106663582"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/87ebee8a-9f46-4b07-b08a-4cc211a51e75",
@@ -131,24 +149,6 @@
       "audio_url": "",
       "url": "trump-set-to-travel-to-beijing-soFMQL3PRey1mVqiN2OsHw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-10T18:49:49.000000Z",
-      "title": "A tropical tax paradise sells much of Australia's gas",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fb6f7da1892247ab70f3e43036822a02?impolicy=wcms_crop_resize&amp;cropH=893&amp;cropW=1588&amp;xPos=265&amp;yPos=148&amp;width=862&amp;height=485"
-      },
-      "description": "Amid renewed debate over whether Australia is getting enough tax from its gas exports, an investigation by the ABC shows how resource giants use shell companies to shift profit.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-11/australian-gas-giants-using-singapore-to-reduce-taxes/106632272"
-    },
-    {
-      "published_datetime": "2026-05-10T18:38:05.000000Z",
-      "title": "The government has missed one idea to get housing back on track",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6a04a7e9caffebd004af369f89652d80?impolicy=wcms_crop_resize&amp;cropH=1760&amp;cropW=3128&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "If it's serious about improving intergenerational fairness and housing affordability in this week's budget, perhaps the federal government should just build some houses.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-11/federal-budget-housing-build-more-homes/106663204"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/20d23207-d6d3-443a-81db-795da541d08a",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-11T09:53:10.111195"
+  "merged_at": "2026-05-11T10:29:20.791723"
 }
