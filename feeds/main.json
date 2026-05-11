@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-11T16:38:04.000000Z",
+      "title": "MPs call on Starmer to quit despite bid to reset leadership",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/293e21a8ec19f276bd6d173f05480e2e?impolicy=wcms_crop_resize&amp;cropH=1826&amp;cropW=3246&amp;xPos=0&amp;yPos=169&amp;width=862&amp;height=485"
+      },
+      "description": "The British prime minister is fighting to fend off a growing threat to his leadership after a disastrous set of local election results last week.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-12/starmer-pm-leadership-speech/106668394"
+    },
+    {
       "published_datetime": "2026-05-11T16:21:31.000000Z",
       "title": "US-Iran ceasefire 'on life support' with energy woes to continue in 2027",
       "featured_image": {
@@ -92,15 +101,6 @@
       },
       "description": "The University of Newcastle has been found to be worst in class when it comes to staff wellbeing. Now, an academic with terminal cancer is speaking out about it because others fear they cannot.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-11/university-of-newcastle-academic-terminal-cancer-workload/106645186"
-    },
-    {
-      "published_datetime": "2026-05-11T07:31:33.000000Z",
-      "title": "Boy in critical condition after being hit by train at Melbourne station",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c547df2fb5d81ce65357cedebe5d8f07?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A year 7 student is fighting for his life in hospital after being hit by a train and becoming trapped for up to an hour.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-11/north-melbourne-railway-station-boy-rescued-from-under-train/106667288"
     },
     {
       "published_datetime": "2026-05-11T07:28:35.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-11T16:24:44.395862"
+  "merged_at": "2026-05-11T18:51:20.783715"
 }
