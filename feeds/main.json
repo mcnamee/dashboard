@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-12T12:00:00.000000Z",
+      "title": "Treasurer on broken election promises in the budget",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3910554f406321ffe84388a0150aafdf?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=359&amp;width=862&amp;height=485"
+      },
+      "description": "Jim Chalmers says he won't be surprised if there's backlash over broken election promises in the federal budget. Speaking to 7.30, the treasurer says the decision to change negative gearing and the capital gains tax discount was only taken \"in recent weeks\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-12/treasurer-on-broken-election-promises-in-the-budget/106672584"
+    },
+    {
+      "published_datetime": "2026-05-12T09:43:50.000000Z",
+      "title": "Labor's 'ambitious' plan for tax reset",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f5ab1ea6e6711ef9852efd848f4f9c8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Labor will raise taxes on investment properties and some trust funds, giving the revenue back to workers with a new $250 tax break unveiled in the federal budget.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-12/federal-budget-2026-tax-break-for-millions-of-workers/106669972"
+    },
+    {
       "published_datetime": "2026-05-12T09:32:28.000000Z",
       "title": "How CGT changes could push investors to look outside property",
       "featured_image": {
@@ -178,15 +196,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-05-12T03:28:41.000000Z",
-      "title": "Anti-Indian hate on the rise in New Zealand",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e565db8b1a056bd3bcedfe931b244f93?impolicy=wcms_crop_resize&amp;cropH=707&amp;cropW=1256&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
-      },
-      "description": "Indian communities across New Zealand say they are feeling \"hounded\" after a surge in racist incidents.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-12/racist-attacks-indian-community-new-zealand/106654020"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a4ca0b62-f5a7-4082-bd4a-b40c14ffc755",
       "published_datetime": "2026-05-12T03:19:56.667392",
       "title": "Turkey set to receive first-ever US emergency oil shipment",
@@ -230,15 +239,6 @@
       "audio_url": "",
       "url": "trump-to-press-xi-on-iran-at-b-GSi8GdWxRdSjzgbh.E.Yng",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-11T21:03:40.000000Z",
-      "title": "Labor's 'ambitious' plan for tax reset",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5a6166ac4eef0a6d2b29e5f27f7e1348?impolicy=wcms_crop_resize&amp;cropH=467&amp;cropW=830&amp;xPos=0&amp;yPos=44&amp;width=862&amp;height=485"
-      },
-      "description": "Chalmers unveils a 'reforming' federal budget with sweeping changes, including a tax cut for workers. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-12/federal-budget-2026-live-may-12/106668626"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-12T12:01:15.152600"
+  "merged_at": "2026-05-12T13:56:57.461325"
 }
