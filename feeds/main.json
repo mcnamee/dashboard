@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-05-12T21:16:35.000000Z",
-      "title": "Breaking: 'Toxic': Plan to build 91-storey Trump Tower on Gold Coast scrapped",
+      "published_datetime": "2026-05-12T23:23:29.000000Z",
+      "title": "Breaking: NT government announces who will head up review into child protection",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e98e52417a1bcab950f1edf3542d56f9?impolicy=wcms_crop_resize&amp;cropH=506&amp;cropW=900&amp;xPos=0&amp;yPos=27&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5b67e9d12a8c758ba7413e31a964bb69?impolicy=wcms_crop_resize&amp;cropH=3900&amp;cropW=6933&amp;xPos=0&amp;yPos=347&amp;width=862&amp;height=485"
       },
-      "description": "The branded tower proposed for Surfers Paradise would have been Australia's tallest building.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-13/trump-tower-gold-coast-plans-scrapped/106673096"
+      "description": "The NT government has announced that retired NSW police commissioner Karen Webb and long-standing territory public servant Greg Shanahan will head up a review into the territory's child protection system. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-13/nt-government-announces-who-will-lead-child-protection-review/106673282"
+    },
+    {
+      "published_datetime": "2026-05-12T22:57:42.000000Z",
+      "title": "Netherlands, UK order hantavirus isolations for some staff, island residents",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9e74d55cb39f2769907f6ec4cdcd5f0a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The UK has orders 10 people from remote island territories go into isolation as a Dutch hospital grapples with possible hantavirus exposure.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-13/hantavirus-isolation-orders-hospital-staff-remote-islanders/106673132"
     },
     {
       "published_datetime": "2026-05-12T21:05:01.000000Z",
@@ -29,9 +38,9 @@
     },
     {
       "published_datetime": "2026-05-12T20:52:27.000000Z",
-      "title": "Live: Trump says US has Iran 'very much under control' ahead of Beijing visit",
+      "title": "Live: Trump labels critical news reports on Iran 'virtual treason'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/55a21d1b45c8cbe57b526cb310a4e33f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=8&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dd5231e01689cedc2533f121d8b95c8a?impolicy=wcms_crop_resize&amp;cropH=862&amp;cropW=1532&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "US President Donald Trump says he does not need help from Beijing to end the war with Iran but says he will talk at length with Chinese President Xi Jinping when they hold a summit this week. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-13/iran-war-live-updates-trump-china-visit/106671946"
@@ -59,15 +68,6 @@
       "audio_url": "",
       "url": "altman-testifies-musk-sought-c-_H4txH1nS5ql5cAq_J0HwA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-12T19:22:59.000000Z",
-      "title": "Australia insists support for UAE does not involve action against Iran",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cbec7543af4e0bffe4874beec8f0cf7a?impolicy=wcms_crop_resize&amp;cropH=2700&amp;cropW=4800&amp;xPos=200&amp;yPos=368&amp;width=862&amp;height=485"
-      },
-      "description": "The Albanese government insists Australia is not involved in any \"offensive action against Iran\" amid reports the UAE, which had been supplied a Wedgetail aircraft, carried out military strikes against the country.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-13/australia-uae-defence-commitments-no-action-against-iran/106672668"
     },
     {
       "published_datetime": "2026-05-12T19:08:54.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-12T22:04:39.688203"
+  "merged_at": "2026-05-12T23:51:37.732841"
 }
