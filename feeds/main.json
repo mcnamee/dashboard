@@ -1,13 +1,40 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-12T00:38:28.000000Z",
+      "title": "Breaking: Australian soldier killed during parachuting training",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c1276e8a66437966a0f6e3173a09f881?impolicy=wcms_crop_resize&amp;cropH=652&amp;cropW=1158&amp;xPos=162&amp;yPos=246&amp;width=862&amp;height=485"
+      },
+      "description": "An Australian army soldier has died during a parachuting training course at the Jervis Bay Airfield in New South Wales.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-12/australian-soldier-killed-during-parachute-training/106669370"
+    },
+    {
+      "published_datetime": "2026-05-12T00:14:54.000000Z",
+      "title": "Shot fired in alleged armoured truck heist in Queensland town",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2dd3ee5f560169b9ccff4a61e48fcac6?impolicy=wcms_crop_resize&amp;cropH=694&amp;cropW=1233&amp;xPos=110&amp;yPos=255&amp;width=862&amp;height=485"
+      },
+      "description": "Police arrest a man who allegedly stole a significant amount of money from a cash-in-transit vehicle while armed with a gun in Hervey Bay.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-12/man-in-custody-over-armed-robbery-hervey-bay-fraser-coast-qld/106669214"
+    },
+    {
       "published_datetime": "2026-05-11T21:58:15.000000Z",
-      "title": "Voss resigns as Carlton coach after run of seven losses",
+      "title": "'Relief' as Voss resigns as Carlton coach after torrid run of results",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/af2a8772d87811049d745e73e1ea44ac?impolicy=wcms_crop_resize&amp;cropH=2158&amp;cropW=3836&amp;xPos=0&amp;yPos=112&amp;width=862&amp;height=485"
       },
-      "description": "Michael Voss has left Carlton, resigning with immediate effect following a run of seven consecutive AFL defeats.",
+      "description": "Michael Voss has left Carlton, resigning with immediate effect following a run of seven consecutive AFL defeats, with another former Carlton boss Mick Malthouse saying the Brisbane premiership-winning player will be relieved to be out of the hot seat.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-12/carlton-coach-michael-voss-resigns/106668770"
+    },
+    {
+      "published_datetime": "2026-05-11T21:54:19.000000Z",
+      "title": "Hantavirus ship travellers headed to Perth's COVID 'white elephant'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b02f48487ca1855b592b29f54fd13301?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
+      },
+      "description": "Nestled away in Perth's outer fringes, this 500-bed facility was built during the COVID-19 pandemic as a quarantine centre but sat idle for years. Now, a different deadly virus will see it used for its intended purpose.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-12/perth-quarantine-facility-to-help-hantavirus-disease-control/106667314"
     },
     {
       "published_datetime": "2026-05-11T21:47:17.000000Z",
@@ -22,7 +49,7 @@
       "published_datetime": "2026-05-11T21:03:40.000000Z",
       "title": "Live: Chalmers says Labor has chosen 'hard road of reform' in federal budget",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dc91213df9bfd09255a8b295b0586f7f?impolicy=wcms_crop_resize&amp;cropH=736&amp;cropW=1308&amp;xPos=573&amp;yPos=97&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5a6166ac4eef0a6d2b29e5f27f7e1348?impolicy=wcms_crop_resize&amp;cropH=467&amp;cropW=830&amp;xPos=0&amp;yPos=44&amp;width=862&amp;height=485"
       },
       "description": "Treasurer Jim Chalmers says tonight's budget will be the government's most ambitious and will feature \"more than the usual amount of savings and more than the usual amount of reform\". Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-12/federal-budget-2026-live-may-12/106668626"
@@ -67,15 +94,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-12/federal-budget-australian-dream-negative-gearing-housing/106666278"
     },
     {
-      "published_datetime": "2026-05-11T19:28:57.000000Z",
-      "title": "Relief but no justice after discovery of body believed to be triple murderer",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b09e576cf61dfb0190094804ddf208fd?impolicy=wcms_crop_resize&amp;cropH=288&amp;cropW=512&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A family member of one of the victims of the Lake Cargelligo shootings says justice has not been served despite the discovery of a body believed to be that of Julian Ingram.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-12/discovery-of-killer-julian-ingram-body-closure-lake-cargelligo/106667898"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/00ae94a4-610b-4f7f-9b95-f6be0fa8a9d7",
       "published_datetime": "2026-05-11T18:41:39.602829",
       "title": "Trump says he may revive Strait of Hormuz operation",
@@ -91,17 +109,8 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-05-11T18:41:30.000000Z",
-      "title": "More or less quiz: Follow the money and see what it gets you",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e179c8198bbe6529647b9bf7db977f6?impolicy=wcms_crop_resize&amp;cropH=699&amp;cropW=1242&amp;xPos=0&amp;yPos=80&amp;width=862&amp;height=485"
-      },
-      "description": "A new quiz format? In this economy? Celebrate budget day with our More or Less challenge.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-12/budget-more-or-less/106654038"
-    },
-    {
       "published_datetime": "2026-05-11T18:40:56.000000Z",
-      "title": "What will be in tonight's federal budget? Here are the major measures we know about so far",
+      "title": "Could this be the 'most interesting' budget in decades? Here's what we know",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b2e82ab9679bb2851b5b918e295b6aa5?impolicy=wcms_crop_resize&amp;cropH=1829&amp;cropW=3252&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -202,15 +211,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-05-11T11:09:59.000000Z",
-      "title": "'Didn't have the balls': Hume takes shot at Labor after shocking Coalition loss",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/21151fea47b05cbba00664a9cb3f0b4f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Deputy Liberal leader Jane Hume is promising a new day for a Coalition that has lost its way, but whether the party can recover from the wreckage of Farrer remains to be seen.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-11/jane-hume-farrer-byelection-loss-labor-lack-balls/106583906"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/69ff3801-ee84-4fca-9d7c-74d2716809c9",
       "published_datetime": "2026-05-10T21:08:11.428814",
       "title": "Trump calls Iran's response to US peace plan 'totally unacceptable'",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-11T23:49:07.261574"
+  "merged_at": "2026-05-12T02:07:11.221518"
 }
