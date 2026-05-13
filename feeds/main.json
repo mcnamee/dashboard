@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-13T16:49:39.000000Z",
+      "title": "Kate tours Italy in first overseas visit since cancer recovery",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/67535d65adf5a512e8e0911a9ca587ff?impolicy=wcms_crop_resize&amp;cropH=2535&amp;cropW=4506&amp;xPos=347&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The royal is visiting Reggio Emilia, the Italian city famed for its approach to early childhood education.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-14/princess-kate-italy-first-visit-since-cancer/106677234"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6ed88f1b-a7cb-439a-84a4-3d7ae9c66d0e",
       "published_datetime": "2026-05-13T15:54:36.849193",
       "title": "Iran says Hormuz control could double its oil revenues",
@@ -76,6 +85,15 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-05-13T14:03:41.000000Z",
+      "title": "UK MP Nigel Farage facing inquiry over $9m gift from crypto billionaire",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bdcaccc5009e13f89def4acf9fae5f33?impolicy=wcms_crop_resize&amp;cropH=2716&amp;cropW=4828&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Britain's parliamentary watchdog will begin an investigation into whether Reform UK leader Nigel Farage, breached its rules by accepting a 5 million pound ($9.31 million) gift which he did not declare.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-14/nigel-farage-accused-to-be-investigated/106677020"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6b625787-cbf9-4d09-99b1-eb4ac29e0221",
       "published_datetime": "2026-05-13T13:36:47.241397",
       "title": "Gunshots erupt at Philippine Senate during ICC arrest standoff",
@@ -146,15 +164,6 @@
       },
       "description": "First Nations experts have their say on whether the $1.2 billion for Closing the Gap initiatives announced in this year's budget is likely to hit the mark.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-13/whats-in-the-2026-federal-budget-for-first-nations-people/106675724"
-    },
-    {
-      "published_datetime": "2026-05-13T08:49:44.000000Z",
-      "title": "NT government accused of 'politicising tragedy' with child protection laws",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e636fbf98ef359bca4ec99231c90e19c?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
-      },
-      "description": "Peak Aboriginal bodies have accused the Northern Territory government of using Kumanjayi Little Baby's alleged murder as political cover to push ahead with sweeping changes to child protection laws.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-13/indigenous-groups-slam-nt-child-protection-law-changes/106674008"
     },
     {
       "published_datetime": "2026-05-13T08:00:42.000000Z",
@@ -232,15 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-05-12T21:05:01.000000Z",
-      "title": "Commonwealth Bank shares slump 10.4pc in biggest one-day fall on record",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f998fd577cbd69fffa9535904896ed04?impolicy=wcms_crop_resize&amp;cropH=562&amp;cropW=1000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "It was the worst day on the stock market for Australia's biggest bank since March 2020, when it dropped about 10 per cent, with sentiment also weighed by a trading update and broader weakness in bank stocks.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-13/asx-markets-business-news-live-updates-may-13/106672080"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-13T16:25:39.814037"
+  "merged_at": "2026-05-13T17:09:16.518591"
 }
