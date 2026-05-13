@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-13T09:04:59.000000Z",
+      "title": "Is the 2026 budget a missed opportunity for First Nations people?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef8fc49dbb69e4c7dc9d9939655df644?impolicy=wcms_crop_resize&amp;cropH=1971&amp;cropW=3504&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
+      },
+      "description": "First Nations experts have their say on whether the $1.2 billion for Closing the Gap initiatives announced in this year's budget is likely to hit the mark.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-13/whats-in-the-2026-federal-budget-for-first-nations-people/106675724"
+    },
+    {
       "published_datetime": "2026-05-13T08:49:44.000000Z",
       "title": "NT government accused of 'politicising tragedy' with child protection laws",
       "featured_image": {
@@ -71,15 +80,6 @@
       },
       "description": "Despite it being an intergenerational budget, specific parts of the economic strategy will impact older Australians.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-13/federal-budget-impact-on-older-australians/106671572"
-    },
-    {
-      "published_datetime": "2026-05-13T02:17:54.000000Z",
-      "title": "'We don\u2019t want these people': Minorities fearful after One Nation victory",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/435d6380229409b30c64ac770a19cfce?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
-      },
-      "description": "David Farley has won Farrer for One Nation in a landslide, but there are some in the community yet to be convinced of his ability to represent them.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-13/farrer-migrant-community-one-nation-concern/106666690"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ba7662ab-bc23-45f4-a9bc-55df5ccf909a",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-13T10:36:13.332085"
+  "merged_at": "2026-05-13T11:56:01.451466"
 }
