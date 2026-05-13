@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-13T12:32:15.000000Z",
+      "title": "Donald Trump arrives in Beijing ahead of Xi Jinping summit",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5b70c1d58b40782b0633cb1ef0cf2da2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The \u200bUS and China are expected to agree to forums to facilitate mutual trade and investment.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-13/donald-trump-arrives-in-beijing/106676512"
+    },
+    {
+      "published_datetime": "2026-05-13T12:10:53.000000Z",
+      "title": "Shots fired in Philippine senate as ICC seeks to arrest ex-police chief",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/36d636d6ccd9f145a76f5d9a3ad73a91?impolicy=wcms_crop_resize&amp;cropH=2753&amp;cropW=4895&amp;xPos=0&amp;yPos=343&amp;width=862&amp;height=485"
+      },
+      "description": "Multiple gun shots have been heard at the senate building in the Philippines with people told to run for cover.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-13/shots-fired-in-philippines-senate/106677018"
+    },
+    {
       "published_datetime": "2026-05-13T09:04:59.000000Z",
       "title": "Is the 2026 budget a missed opportunity for First Nations people?",
       "featured_image": {
@@ -28,15 +46,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-13/chris-minns-public-accountability-committee-report/106675206"
     },
     {
-      "published_datetime": "2026-05-13T07:45:27.000000Z",
-      "title": "Invictus Australia budget cut labelled potentially 'life-threatening'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/089b83ab3ce237726a55d90d0c5b8c12?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
-      },
-      "description": "The federal government is urged to reverse its decision to cut funding to Invictus Australia, an organisation that supports veterans.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-13/veterans-warning-invictus-australia-budget-cut-life-threatening/106676148"
-    },
-    {
       "published_datetime": "2026-05-13T07:18:59.000000Z",
       "title": "Labor upgrades migration numbers by 55,000 in federal budget",
       "featured_image": {
@@ -44,15 +53,6 @@
       },
       "description": "The federal budget reveals the government expects more migrants to arrive to Australia than previously thought, even as it faces a campaign from the Coalition and One Nation to slash migration rates.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-13/one-million-more-migrants-expected-before-2030/106674228"
-    },
-    {
-      "published_datetime": "2026-05-13T07:17:08.000000Z",
-      "title": "Why Ivan Cleary's decision to leave Penrith is as unprecedented as his success",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8231e504a2483372e362c2898b8132c8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Ivan Cleary is doing what no other coach of his stature has ever done in Australian rugby league history, walking away from the NRL with his team at the height of their powers.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-13/ivan-cleary-leaving-penrith-panthers-coaching-2027/106676200"
     },
     {
       "published_datetime": "2026-05-13T06:29:02.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-13T11:56:01.451466"
+  "merged_at": "2026-05-13T14:09:56.904416"
 }
