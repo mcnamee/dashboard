@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-14T08:03:45.000000Z",
+      "title": "Calls for more education following the suspected death of 'Sammy' the seal",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/578f0f1269fafccc02a9f4b6d72f50ec?impolicy=wcms_crop_resize&amp;cropH=759&amp;cropW=1350&amp;xPos=0&amp;yPos=645&amp;width=862&amp;height=485"
+      },
+      "description": "Marine experts are calling for greater education on aquatic life following the death of a seal believed to be known by Mornington Peninsula locals as Sammy.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-14/sammy-death-raising-awareness-seals/106680100"
+    },
+    {
       "published_datetime": "2026-05-14T07:10:01.000000Z",
       "title": "Business groups lament migration plan as Taylor speaks",
       "featured_image": {
@@ -11,11 +20,11 @@
     },
     {
       "published_datetime": "2026-05-14T06:55:10.000000Z",
-      "title": "Dozens injured in bus rollover on Queensland's Bruce Highway",
+      "title": "Bus rollover on Queensland's Bruce Highway leaves one dead and many injured",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/78763269cfaf18cee31aacc24a5d49a7?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=380&amp;width=862&amp;height=485"
       },
-      "description": "Some passengers face life-threatening injuries after the large coach overturned between Townsville and Bowen.",
+      "description": "Two other passengers suffered life-threatening injuries after the large coach overturned between Townsville and Bowen.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-14/passengers-injured-in-bruce-highway-bus-rollover/106681110"
     },
     {
@@ -73,15 +82,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-14/coles-grocery-pricing-down-down-accc-court-visual-guide/106678288"
     },
     {
-      "published_datetime": "2026-05-14T02:11:47.000000Z",
-      "title": "ISIS brides' arrest in Australia prompts anger in Syrian camp",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bccb228c58daa55628826814c7e31c32?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=92&amp;width=862&amp;height=485"
-      },
-      "description": "The arrest of three Australian women linked to the Islamic State group sparks anger and frustration inside the Syrian refugee camp where they had lived for years.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-14/isis-brides-arrest-in-australia-prompts-anger-in-syrian-camp/106673864"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/24ab48d8-41e2-40d6-9ce6-7e1196099719",
       "published_datetime": "2026-05-13T23:14:25.658153",
       "title": "Rutte proposes NATO allies spend 0.25% of GDP on Ukraine aid annually",
@@ -128,11 +128,11 @@
     },
     {
       "published_datetime": "2026-05-13T21:10:07.000000Z",
-      "title": "Live: PM says taxes before Labor changes were not 'even', ahead of Taylor budget reply",
+      "title": "Live: Taylor outlines migration cuts, tax relief and net zero rollback in budget reply",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3af9bfce4352446522705f49895b9956?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/82c48174d044f71c580ee49810e73616?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The prime minister explains why Labor broke its promise on changes to negative gearing, capital gains tax and trusts. Follow live.",
+      "description": "Opposition leader Angus Taylor has detailed the Coalition's plans to cut migration, scrap net zero policies and reduce income tax. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-14/federal-politics-live-blog-budget-reaction/106676514"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-14T09:27:34.906678"
+  "merged_at": "2026-05-14T11:44:46.248814"
 }
