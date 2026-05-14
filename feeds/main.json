@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-14T14:56:26.000000Z",
+      "title": "Latvian PM resigns in row over stray Ukrainian drones",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cb14381ee989c5cea1969912f6e3463b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=217&amp;width=862&amp;height=485"
+      },
+      "description": "Drones launched by Ukraine that were jammed by Russia either flew over or crashed in the Baltic country's territory, with local residents critical of the government's response.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-15/latvian-pm-resigns-over-ukrainian-drones/106681974"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6973e24d-20c3-4db2-b682-c145c52139a0",
       "published_datetime": "2026-05-14T14:19:23.955595",
       "title": "Webb telescope spots most primitive galaxy ever found",
@@ -146,15 +155,6 @@
       },
       "description": "Opposition Leader Angus Taylor has defended his comments aimed at non-citizens as necessary and practical during a heated interview on 7.30.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-14/angus-taylor-budget-reply-immigration-barbaby-joyce-one-nation/106681220"
-    },
-    {
-      "published_datetime": "2026-05-14T08:03:45.000000Z",
-      "title": "Calls for more education following the suspected death of 'Sammy' the seal",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/578f0f1269fafccc02a9f4b6d72f50ec?impolicy=wcms_crop_resize&amp;cropH=759&amp;cropW=1350&amp;xPos=0&amp;yPos=645&amp;width=862&amp;height=485"
-      },
-      "description": "Marine experts are calling for greater education on aquatic life following the death of a seal believed to be known by Mornington Peninsula locals as Sammy.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-14/sammy-death-raising-awareness-seals/106680100"
     },
     {
       "published_datetime": "2026-05-14T06:55:10.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-14T15:25:21.784392"
+  "merged_at": "2026-05-14T16:05:38.409785"
 }
