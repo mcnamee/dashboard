@@ -1,17 +1,62 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-15T01:46:03.000000Z",
+      "title": "Breaking: Australia records first reported death from diphtheria in almost a decade",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/71a0605633de06de9dc803908d159946?impolicy=wcms_crop_resize&amp;cropH=2959&amp;cropW=5260&amp;xPos=0&amp;yPos=377&amp;width=862&amp;height=485"
+      },
+      "description": "The Northern Territory has recorded the country's first reported death from diphtheria in almost a decade, as experts urge people to get vaccinated.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-15/first-diphtheria-death-australia-in-decade-nt-outbreak/106679936"
+    },
+    {
+      "published_datetime": "2026-05-15T01:41:15.000000Z",
+      "title": "Israeli nationalists mark annexation of East Jerusalem",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/32b89d07244d2356793462e741a9a434?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
+      },
+      "description": "Thousands of Israeli nationalists, including young boys, join crowds chanting death threats towards Palestinians while marching through Jerusalem Old City.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-15/israeli-nationalists-march-for-jerusalem-day-in-old-city/106682140"
+    },
+    {
+      "published_datetime": "2026-05-15T01:07:57.000000Z",
+      "title": "The budget reply is a reminder times have changed and attention is short",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a326f05e38d77132eeb54e24e7c2f3e2?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=179&amp;width=862&amp;height=485"
+      },
+      "description": "To appreciate how much times have changed, it is worth comparing the opposition leader's budget reply speech to Peter Dutton's.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-15/angus-taylor-budget-reply-speech-cultural-economic-gamble/106679704"
+    },
+    {
+      "published_datetime": "2026-05-15T00:33:57.000000Z",
+      "title": "Live: Trump enters Xi's inner sanctum as Beijing visit turns personal",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a69fa3626f6bc5b2f4a186f16d444332?impolicy=wcms_crop_resize&amp;cropH=1959&amp;cropW=3483&amp;xPos=0&amp;yPos=181&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump and Xi Jinping are set for another day of ceremony and diplomacy after a major meeting between the pair yesterday. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-15/donald-trump-xi-jinping-meeting-china-beijing-live-blog/106683246"
+    },
+    {
+      "published_datetime": "2026-05-14T23:45:56.000000Z",
+      "title": "Hospitalisation of young babies almost halved by new immunisation program",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4dd1e8433ecfab1f61bffd3cf0d55a1b?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=83&amp;width=862&amp;height=485"
+      },
+      "description": "A new immunisation program for pregnant mothers and newborns has almost halved the number of young babies being hospitalised with a serious respiratory virus, according to a new report.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-15/vaccines-halve-babies-hospitalised-with-rsv/106679488"
+    },
+    {
       "published_datetime": "2026-05-14T23:05:04.000000Z",
-      "title": "Why Millennials and gen Z feel ripped off by this budget",
+      "title": "Why millennials and gen Z feel ripped off by this budget",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1d1b9f965f195f119c375f9698cabfee?impolicy=wcms_crop_resize&amp;cropH=1361&amp;cropW=2420&amp;xPos=0&amp;yPos=228&amp;width=862&amp;height=485"
       },
-      "description": "The prime minister said this budget was about fixing intergenerational inequality, but online, gen Z and the Millennials are hearing a different narrative.\u00a0",
+      "description": "The prime minister said this budget was about fixing intergenerational inequality, but online, gen Z and the millennials are hearing a different narrative.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-15/why-some-young-australians-think-the-budget-sold-them-out/106678464"
     },
     {
       "published_datetime": "2026-05-14T22:27:17.000000Z",
-      "title": "Live: 'Productive' first day of Israel and Lebanon talks as Trump discusses Iran with Xi",
+      "title": "Live: US vote to halt Iran war narrowly defeated",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3ccfd7f04ce3306ee76866fb08f6653b?impolicy=wcms_crop_resize&amp;cropH=2531&amp;cropW=4499&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -20,21 +65,12 @@
     },
     {
       "published_datetime": "2026-05-14T21:47:27.000000Z",
-      "title": "Live: ASX set to open higher as Wall Street rallies with new records",
+      "title": "Live: ASX opens higher as Wall Street rallies with records",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a10a96b8fb841e8baf05fd853e8b2c09?impolicy=wcms_crop_resize&amp;cropH=1686&amp;cropW=2997&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The ASX is set to open higher in morning trading after rallies on Wall Street. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
+      "description": "The ASX opens higher in morning trading after rallies on Wall Street. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-15/asx-markets-business-news-live-updates-friday-15-may/106680706"
-    },
-    {
-      "published_datetime": "2026-05-14T21:06:11.000000Z",
-      "title": "Live: Taylor 'huffing and puffing on the dog whistle': Labor criticises budget reply",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4954da6789cd0640c94cba08f2ff7a8f?impolicy=wcms_crop_resize&amp;cropH=2940&amp;cropW=5226&amp;xPos=836&amp;yPos=285&amp;width=862&amp;height=485"
-      },
-      "description": "Health Minister Mark Butler says the group Australia repatriated from the hantavirus cruise ship are in \"good shape\" ahead of their arrival in Perth today. Follow live.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-15/federal-politics-live-blog-may-15/106682512"
     },
     {
       "published_datetime": "2026-05-14T21:00:42.000000Z",
@@ -44,42 +80,6 @@
       },
       "description": "Delta Goodrem has performed her pop ballad Eclipse at Eurovision in Vienna, the 11th time Australia has appeared in the musical extravaganza.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-15/delta-goodrem-dazzles-in-eurovision-semi-finals/106682518"
-    },
-    {
-      "published_datetime": "2026-05-14T19:53:32.000000Z",
-      "title": "Soon after John quit the Liberal Party, the strange phone calls started",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/26fb1b3d537e7624623e081bd0fee485?impolicy=wcms_crop_resize&amp;cropH=2249&amp;cropW=3998&amp;xPos=2&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "When John Ternel quit the Victorian Liberal Party this week the party mistakenly sent an email to members saying he had died. Mr Ternel says the ordeal confirmed to him that the Victorian Liberals are in shambles.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-15/victorian-liberal-party-members-quit-as-one-nation-circles/106679830"
-    },
-    {
-      "published_datetime": "2026-05-14T19:41:45.000000Z",
-      "title": "Chinese Australians say Coalition pitch to cut non-citizens' welfare 'sounds like One Nation'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/99d5275f702e4e2f961fdd986476a942?impolicy=wcms_crop_resize&amp;cropH=2495&amp;cropW=4435&amp;xPos=0&amp;yPos=121&amp;width=862&amp;height=485"
-      },
-      "description": "Chinese Australians have lashed the Coalition's plan to block non-citizens from accessing welfare services, likening the opposition's targeting of migrants to One Nation.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-15/chinese-australians-lash-angus-taylor-targeting-migrants/106680456"
-    },
-    {
-      "published_datetime": "2026-05-14T19:30:50.000000Z",
-      "title": "Trust tax could hurt young, not just ultra-wealthy, tax advisors warn",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6901866ca61321e0a8c87262a198bb99?impolicy=wcms_crop_resize&amp;cropH=2322&amp;cropW=4128&amp;xPos=0&amp;yPos=127&amp;width=862&amp;height=485"
-      },
-      "description": "The federal budget includes a new 30 per cent minimum tax on discretionary trusts. Experts say it is not just the ultra-wealthy that will be hit.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-15/wealthy-discretionary-trusts-pay-less-tax-federal-budget-change/106666248"
-    },
-    {
-      "published_datetime": "2026-05-14T19:06:18.000000Z",
-      "title": "Finally, a tax fight that actually means something",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9fa4237f3ce42df1f2a4097a855571a0?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=16&amp;width=862&amp;height=485"
-      },
-      "description": "Labor and the Liberals are offering imperfect but undeniably bold alternative visions for the tax system. It's nice to have something to talk about.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-15/finally-a-tax-fight-that-actually-means-something/106680686"
     },
     {
       "published_datetime": "2026-05-14T18:59:07.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-14T23:46:12.055099"
+  "merged_at": "2026-05-15T02:13:07.137134"
 }
