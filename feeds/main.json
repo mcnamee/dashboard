@@ -1,12 +1,21 @@
 {
   "items": [
     {
-      "published_datetime": "2026-05-15T08:45:00.000000Z",
-      "title": "Live: Swans surge against plucky Pies, Suns leading Port",
+      "published_datetime": "2026-05-15T11:56:59.000000Z",
+      "title": "Five divers die following cave diving incident",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7295ce13a0e897098e8644b1e34eedd6?impolicy=wcms_crop_resize&amp;cropH=1110&amp;cropW=1974&amp;xPos=0&amp;yPos=59&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d9ea2f2c6f520d0644909dbb5db5c267?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=65&amp;width=862&amp;height=485"
       },
-      "description": "The ladder-leading Swans are at home to the Magpies while the Suns tackle the Power up north in a Friday night AFL double-header. Follow live.",
+      "description": "The group was exploring a series of underwater caves at a depth of around 50 metres in Vaavu Atoll in the Maldives.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-15/five-italians-die-in-maldives-diving-incident/106686960"
+    },
+    {
+      "published_datetime": "2026-05-15T08:45:00.000000Z",
+      "title": "Swans hold on for gritty victory over Pies, Suns see off Port",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b48e66c116235f4bec3cee929b9deeb9?impolicy=wcms_crop_resize&amp;cropH=1538&amp;cropW=2734&amp;xPos=0&amp;yPos=57&amp;width=862&amp;height=485"
+      },
+      "description": "The ladder-leading Sydney Swans scrape past an undermanned but plucky Collingwood side, as Gold Coast defeats Port Adelaide in Darwin.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-15/afl-round-10-friday-live-blog-syd-coll-gc-pa/106686476"
     },
     {
@@ -20,21 +29,12 @@
     },
     {
       "published_datetime": "2026-05-15T07:20:14.000000Z",
-      "title": "Live: Dolphins put on wet weather masterclass, Bulldogs' season sinks further",
+      "title": "Bennett insists Latrell will be fit for Origin despite injury exit in loss to Dolphins",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c7ab444b0de30a0675e808d9cb4c5c07?impolicy=wcms_crop_resize&amp;cropH=1376&amp;cropW=2447&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1d87c204f1853b924673d5caae10e38a?impolicy=wcms_crop_resize&amp;cropH=1520&amp;cropW=2703&amp;xPos=0&amp;yPos=178&amp;width=862&amp;height=485"
       },
-      "description": "Lachlan Galvin drops the ball less than a metre from the tryline to end a miserable night for the Bulldogs, kicking off Magic Round with a 38-16 loss to the Sharks. Follow live.",
+      "description": "South Sydney coach Wayne Bennett says he expects Latrell Mitchell to take his place in State of Origin I despite the star centre hobbling off late in the Rabbitohs' Magic Round clash with the Dolphins.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-15/nrl-magic-round-live-sharks-bulldogs-rabbitohs-dolphins/106669964"
-    },
-    {
-      "published_datetime": "2026-05-15T07:19:01.000000Z",
-      "title": "Neo-Nazi group banned in Australia under hate laws",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e954b12b696305c26c82929495a17cb?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "White Australia will be listed as a hate group, making it illegal to support the organisation in any way.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-15/neo-nazi-group-banned-in-australia-under-hate-laws/106686260"
     },
     {
       "published_datetime": "2026-05-15T05:37:20.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-15T11:47:52.339319"
+  "merged_at": "2026-05-15T13:43:45.128435"
 }
