@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-15T07:19:01.000000Z",
+      "title": "Neo-Nazi group banned in Australia under hate laws",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e954b12b696305c26c82929495a17cb?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "White Australia will be listed as a hate group, making it illegal to support the organisation in any way.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-15/neo-nazi-group-banned-in-australia-under-hate-laws/106686260"
+    },
+    {
+      "published_datetime": "2026-05-15T06:22:13.000000Z",
+      "title": "Government told to 'stop shelving' landmark Islamophobia report",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7b53c055bebefce9c203cd1554f34b01?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
+      },
+      "description": "The author of a landmark report on Islamophobia in Australia says the federal government is taking too long to act on the issue.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-15/islamophobia-report-special-envoy-critical-of-government/106682474"
+    },
+    {
       "published_datetime": "2026-05-15T05:37:20.000000Z",
       "title": "Universities warn against Coalition plan to cut foreign student numbers",
       "featured_image": {
@@ -44,15 +62,6 @@
       },
       "description": "The US and China have been rivals for almost 80 years, but when the countries' leaders met in Beijing on Thursday, Xi Jinping made reference to a far more ancient feud.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-15/xi-jinping-donald-trump-china-visit-thucydides-trap/106683554"
-    },
-    {
-      "published_datetime": "2026-05-15T04:30:15.000000Z",
-      "title": "Ruling upheld after transgender woman excluded from female-only app",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3680195538fd72cf898f57c89eaa198e?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
-      },
-      "description": "\u200bA landmark Federal Court ruling that the exclusion of a transgender woman from a female-only app constituted unlawful gender identity discrimination is upheld on appeal.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-15/nsw-tickle-v-giggle-judgement-transgender-woman/106682498"
     },
     {
       "published_datetime": "2026-05-15T03:03:37.000000Z",
@@ -131,15 +140,6 @@
       "audio_url": "",
       "url": "trump-claims-xi-s-declining-na-eXav61uoRqeiKT9NPyWcXg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-15T00:33:57.000000Z",
-      "title": "Live: 'We want the straits open': Trump says China agrees on ending the Iran war",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5394a3c98a750896cf7f17cf49cc6cda?impolicy=wcms_crop_resize&amp;cropH=880&amp;cropW=1564&amp;xPos=0&amp;yPos=25&amp;width=862&amp;height=485"
-      },
-      "description": "Chinese President Xi Jinping praised the building of a \"stable relationship\" with the US as the two world leaders met for their second day of talks. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-15/donald-trump-xi-jinping-meeting-china-beijing-live-blog/106683246"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/58c0bcf8-5163-4664-8b08-e56c919587fd",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-15T06:24:47.939204"
+  "merged_at": "2026-05-15T09:39:20.121078"
 }
