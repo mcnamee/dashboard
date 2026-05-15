@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-05-15T20:26:38.000000Z",
-      "title": "Israel, Lebanon agree to extend ceasefire despite new strikes",
+      "published_datetime": "2026-05-15T21:32:16.000000Z",
+      "title": "Judge declares another mistrial in Harvey Weinstein rape case",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5f0b1fee1c092e109a35db381b0ce5ba?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6f454ea757a88d125425729cb7b89681?impolicy=wcms_crop_resize&amp;cropH=2022&amp;cropW=3595&amp;xPos=0&amp;yPos=134&amp;width=862&amp;height=485"
       },
-      "description": "Israel and Lebanon have agreed to extend a ceasefire and hold new talks on a political settlement, even as Israel carried out new strikes it insists are not subject to the truce.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-16/lebanon-israel-agree-to-extend-ceasefire-by-45-days/106687558"
+      "description": "Harvey Weinstein's third trial in New York on a charge that he raped aspiring actress Jessica Mann has ended in a mistrial, after a jury failed to reach a unanimous verdict.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-16/harvey-weinstein-third-new-york-rape-trial-ends-in-mistrial/106687584"
+    },
+    {
+      "published_datetime": "2026-05-15T21:15:53.000000Z",
+      "title": "No major breakthroughs as Trump leaves Beijing",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f1d5ada7532906d2cba01a1558009445?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=344&amp;width=862&amp;height=485"
+      },
+      "description": "US President Donald Trump left China on Friday without securing tangible help from Beijing to end the Iran war, but praised China's President, Xi Jinping, during his visit.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-16/us-donald-trump-leaves-beijing-china-no-breakthroughs-iran-war/106687552"
     },
     {
       "published_datetime": "2026-05-15T20:02:41.000000Z",
@@ -29,7 +38,7 @@
     },
     {
       "published_datetime": "2026-05-15T19:30:00.000000Z",
-      "title": "The journey of pollen to a plant in photos",
+      "title": "The secret life of flowers revealed in stunning photos",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/062b95cd983267e2604a60d22f4e9189?impolicy=wcms_crop_resize&amp;cropH=2295&amp;cropW=4080&amp;xPos=0&amp;yPos=389&amp;width=862&amp;height=485"
       },
@@ -38,7 +47,7 @@
     },
     {
       "published_datetime": "2026-05-15T19:00:00.000000Z",
-      "title": "Labor stalwart slams the 'view from Mar-a-Lago'",
+      "title": "Wayne Swan slams 'view from Mar-a-Lago' as party faces another test",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/de1c603f0f0465e3120475fac920d88c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -55,15 +64,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-16/gulf-states-israel-uae-benjamin-netanyahu-interview-donald-trump/106684904"
     },
     {
-      "published_datetime": "2026-05-15T18:52:03.000000Z",
-      "title": "Thornier questions lie ahead for antisemitism royal commission",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/08531142c9b44b19146d6bc118415f0e?impolicy=wcms_crop_resize&amp;cropH=2304&amp;cropW=4096&amp;xPos=0&amp;yPos=128&amp;width=862&amp;height=485"
-      },
-      "description": "Jewish Australians told the royal commission that antisemitism has spread into everyday life. But whether the inquiry can handle what it has promised to confront remains to be seen.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-16/first-block-antisemitism-royal-commission-wrap/106675318"
-    },
-    {
       "published_datetime": "2026-05-15T18:50:14.000000Z",
       "title": "Most widespread May rain in a decade to reach all states",
       "featured_image": {
@@ -74,7 +74,7 @@
     },
     {
       "published_datetime": "2026-05-15T18:49:06.000000Z",
-      "title": "Thomas Sewell appears in vodcast with notorious US Neo-Nazi James Mason",
+      "title": "Neo-Nazis fundraising to challenge laws that listed them as hate group",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c3c9964d4158507090ef19fea4323969?impolicy=wcms_crop_resize&amp;cropH=2372&amp;cropW=4217&amp;xPos=0&amp;yPos=219&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-15T20:54:44.734447"
+  "merged_at": "2026-05-15T21:50:41.046198"
 }
