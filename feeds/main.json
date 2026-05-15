@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-15T16:33:00.000000Z",
+      "title": "Zelenskyy vows retribution against Russia for missile strike that killed 24",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12c9dc3cf5d69f07caf9198160e2a489?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=194&amp;width=862&amp;height=485"
+      },
+      "description": "Russia has unleashed its heaviest bombardment of the Ukrainian capital this year after a US-brokered ceasefire ended.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-16/zelenskyy-vows-retribution-against-russia-for-missile-strike/106687360"
+    },
+    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b5486941-a4e8-4f65-8b61-c8192a1a2f47",
       "published_datetime": "2026-05-15T15:15:02.516357",
       "title": "US and Iran defer uranium talks, prioritize Hormuz",
@@ -101,15 +110,6 @@
       },
       "description": "The world's most invasive mosquito has previously been found at borders, islands, and ports, but has just been discovered in a remote mainland Queensland community.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-15/aedes-albopictus-asian-mosquito-detected-in-bamaga-mainland/106686374"
-    },
-    {
-      "published_datetime": "2026-05-15T07:20:14.000000Z",
-      "title": "Bennett insists Latrell will be fit for Origin despite injury exit in loss to Dolphins",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1d87c204f1853b924673d5caae10e38a?impolicy=wcms_crop_resize&amp;cropH=1520&amp;cropW=2703&amp;xPos=0&amp;yPos=178&amp;width=862&amp;height=485"
-      },
-      "description": "South Sydney coach Wayne Bennett says he expects Latrell Mitchell to take his place in State of Origin I despite the star centre hobbling off late in the Rabbitohs' Magic Round clash with the Dolphins.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-15/nrl-magic-round-live-sharks-bulldogs-rabbitohs-dolphins/106669964"
     },
     {
       "published_datetime": "2026-05-15T05:37:20.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-15T15:57:02.758193"
+  "merged_at": "2026-05-15T17:24:18.445071"
 }
