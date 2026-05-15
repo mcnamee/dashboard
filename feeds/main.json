@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-15T22:31:01.000000Z",
+      "title": "After her husband's death, Annie discovered he had placed 100 bets a day",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c869ab141680d1ce3d9cc53815c768fb?impolicy=wcms_crop_resize&amp;cropH=2811&amp;cropW=4997&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Annie Ashton's husband took his own life after suffering from a gambling addiction. Since then, she's\u00a0campaigned for stronger regulation of the gambling industry\u00a0and\u00a0greater awareness of gambling harm.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-16/gambling-addiction-suicide-stronger-regulation-campaign/106685538"
+    },
+    {
+      "published_datetime": "2026-05-15T22:17:31.000000Z",
+      "title": "'Grossly incompetent': Action taken against rogue MP after online outburst",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c056c2657b3328d5db1046a3da332ff3?impolicy=wcms_crop_resize&amp;cropH=562&amp;cropW=1000&amp;xPos=24&amp;yPos=74&amp;width=862&amp;height=485"
+      },
+      "description": "Contempt proceedings have been launched against Mark Latham after he attacked a tribunal that found he unlawfully vilified and sexually harassed another state MP.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-16/contempt-proceedings-launched-against-nsw-mp-mark-latham/106686454"
+    },
+    {
       "published_datetime": "2026-05-15T22:13:22.000000Z",
-      "title": "Is the US-China rivalry over?",
+      "title": "Trump and Xi's tea in Beijing rewrites the century",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9a1953687487dcead9ff494feb8af6c?impolicy=wcms_crop_resize&amp;cropH=2436&amp;cropW=4331&amp;xPos=0&amp;yPos=119&amp;width=862&amp;height=485"
       },
@@ -10,30 +28,12 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-16/us-donald-trump-china-xi-jinping-end-unipolar-age-beijing/106687004"
     },
     {
-      "published_datetime": "2026-05-15T21:02:21.000000Z",
-      "title": "Diphtheria is back in Australia. Here's what to know",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3175b68fe3e7d8234b3c69033ab7208c?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Once a major cause of childhood deaths, diphtheria was largely eliminated through vaccination. Health authorities say falling immunity may now be helping the disease spread again.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-16/what-to-know-about-diphtheria-as-outbreak-grows/106684572"
-    },
-    {
-      "published_datetime": "2026-05-15T20:02:41.000000Z",
-      "title": "$40m bid for airline crackdown with warnings of fare rises, cancelled flights",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d781df7d2e9b15f28d07ba1f7182ee9d?impolicy=wcms_crop_resize&amp;cropH=1303&amp;cropW=2316&amp;xPos=0&amp;yPos=1130&amp;width=862&amp;height=485"
-      },
-      "description": "The federal government has announced nearly $40 million to fund an overhaul of aviation consumer rights.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-16/federal-budget-aviation-consumer-protections/106665266"
-    },
-    {
       "published_datetime": "2026-05-15T19:38:41.000000Z",
       "title": "Chinese undersea device found near Bali may be part of something bigger",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dda73826c82050f54b11e177047baa3d?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The discovery of a Chinese undersea monitoring device in a strategic Indonesian waterway last month \"shows the extent of both China's reach and its undersea ambitions\" and has implications for Australia's defence strategy, say experts.",
+      "description": "The discovery of a Chinese undersea monitoring device in a strategic waterway \"shows the extent of both China's reach and its undersea ambitions\" and has implications for Australia's defence strategy, say experts.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-16/undersea-monitoring-device-indonesia-china-maritime-strategy/106670896"
     },
     {
@@ -73,6 +73,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-16/the-interview-jane-caro-public-private-school-education-debate/106675430"
     },
     {
+      "published_datetime": "2026-05-15T18:52:03.000000Z",
+      "title": "The most difficult question faced by antisemitism royal commission",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/08531142c9b44b19146d6bc118415f0e?impolicy=wcms_crop_resize&amp;cropH=2304&amp;cropW=4096&amp;xPos=0&amp;yPos=128&amp;width=862&amp;height=485"
+      },
+      "description": "Jewish Australians told the royal commission that antisemitism has spread into everyday life. But whether the inquiry can handle what it has promised to confront remains to be seen.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-16/first-block-antisemitism-royal-commission-wrap/106675318"
+    },
+    {
       "published_datetime": "2026-05-15T18:50:14.000000Z",
       "title": "Most widespread May rain in a decade to reach all states",
       "featured_image": {
@@ -80,15 +89,6 @@
       },
       "description": "The most widespread May rain in a decade is about to sweep across Australia as the first north-west cloudband of 2026 becomes a reality.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-16/most-widespread-may-rain-to-reach-all-australian-states/106685072"
-    },
-    {
-      "published_datetime": "2026-05-15T18:49:06.000000Z",
-      "title": "Neo-Nazis fundraising to challenge laws that listed them as hate group",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c3c9964d4158507090ef19fea4323969?impolicy=wcms_crop_resize&amp;cropH=2372&amp;cropW=4217&amp;xPos=0&amp;yPos=219&amp;width=862&amp;height=485"
-      },
-      "description": "The leader of Neo-Nazi group National Socialist Network, Thomas Sewell, has appeared in an interview online alongside notorious US Neo-Nazi James Mason, who is listed as a terrorist entity by the Canadian government.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-16/thomas-sewell-appears-with-us-extremist-james-mason/106683510"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/08bbc789-5266-47ed-9cd6-b20c11e5bc0a",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-15T22:44:17.651132"
+  "merged_at": "2026-05-15T23:45:50.244791"
 }
