@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-16T21:30:04.000000Z",
+      "title": "Taiwan remains committed to status quo after Trump's China trip",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5394a3c98a750896cf7f17cf49cc6cda?impolicy=wcms_crop_resize&amp;cropH=880&amp;cropW=1564&amp;xPos=0&amp;yPos=25&amp;width=862&amp;height=485"
+      },
+      "description": "The Taiwanese government responds after US President Donald Trump's trip to China and his call for the two countries to \"cool down\".\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-17/taiwan-asserts-its-independence-after-trump-visits-china/106689078"
+    },
+    {
       "published_datetime": "2026-05-16T21:06:57.000000Z",
       "title": "First home buyers 'up and about' at auctions after negative gearing changes",
       "featured_image": {
@@ -8,15 +17,6 @@
       },
       "description": "The government says the changes are aimed at levelling the playing field for young buyers bidding against property investors, while the opposition is pledging to undo the reforms, citing their potential to raise rents.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-17/saturday-auctions-after-budget-tax-reforms-first-home-buyer-bids/106688408"
-    },
-    {
-      "published_datetime": "2026-05-16T21:04:05.000000Z",
-      "title": "Divers who faced jail for cultural fishing lead sea urchin recovery",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bbed3576fa5642a514c74162ce5614c0?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "After decades of fighting for their traditional fishing rights, Aboriginal custodians are now fighting to save their sea country from ecological collapse.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/nsw-government-grant-aboriginal-led-sea-urchin-enterprise/106627704"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0ed8b8c2-9ca3-44bb-b324-790b69d6d3b3",
@@ -75,12 +75,12 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6601855ba92f1e284ddda508f1ebfa4f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=52&amp;width=862&amp;height=485"
       },
-      "description": "Donald Trump has chosen a new colour for Washington DC's Lincoln Memorial Reflecting Pool. Here are three reasons why it's proving to be controversial.",
+      "description": "Donald Trump has chosen a new colour for Washington DC's Lincoln Memorial Reflecting Pool. Here are three reasons it's proving to be controversial.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-17/controversies-sparked-by-trumps-reflecting-pool-paint-job/106687654"
     },
     {
       "published_datetime": "2026-05-16T19:13:37.000000Z",
-      "title": "What life was like before the NDIS and why mistakes can't be repeated",
+      "title": "What governments need to do this time to avoid pre-NDIS mistakes",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f62f9fac545f81a256022ffa3580f78e?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=365&amp;width=862&amp;height=485"
       },
@@ -98,9 +98,9 @@
     },
     {
       "published_datetime": "2026-05-16T18:33:47.000000Z",
-      "title": "Live: Delta Goodrem lights up Eurovision stage in 2026 grand final",
+      "title": "Live: Delta Goodrem one of the favourites to win Eurovision 2026, as voting closes",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/59c5b714811157e432ffb0515cf07859?impolicy=wcms_crop_resize&amp;cropH=1520&amp;cropW=2702&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6daf3bf5de524a2254b4f9f0fb8444ce?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Delta Goodrem will perform eighth in the Eurovision grand final, where she is one of the favourites to win. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-17/eurovision-2026-song-contest-grand-final-live-blog/106679928"
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-16T21:39:51.583873"
+  "merged_at": "2026-05-16T22:36:54.506782"
 }
