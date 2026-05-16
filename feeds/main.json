@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-16T18:33:47.000000Z",
+      "title": "Live: Delta Goodrem's Eurovision odds soar as grand final kicks off",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/59c5b714811157e432ffb0515cf07859?impolicy=wcms_crop_resize&amp;cropH=1520&amp;cropW=2702&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Delta Goodrem will perform eighth in the Eurovision grand final, where she is one of the favourites to win. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-17/eurovision-2026-song-contest-grand-final-live-blog/106679928"
+    },
+    {
       "published_datetime": "2026-05-16T15:16:04.000000Z",
       "title": "Former UK health minister says he will stand in any contest to replace Starmer",
       "featured_image": {
@@ -17,15 +26,6 @@
       },
       "description": "Footage of the incident shows a group of vehicles queuing across a railway line, before a cargo train suddenly ploughs into the side of the bus and pushes it into oncoming traffic.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-17/bangkok-train-crash-killes-eight-injures-35/106688532"
-    },
-    {
-      "published_datetime": "2026-05-16T13:36:27.000000Z",
-      "title": "Penalty agony for Newcastle as Sydney FC books place in ALM grand final",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1788a26f7e5a542bbd537a4f5ce61e62?impolicy=wcms_crop_resize&amp;cropH=2652&amp;cropW=4714&amp;xPos=0&amp;yPos=384&amp;width=862&amp;height=485"
-      },
-      "description": "Eli Adams's 96th-minute equaliser proves to be in vain as Sydney FC downs Newcastle on penalties to progress to the A-League Men season decider.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-16/sydney-fc-progresses-to-alm-grand-final-penalties-newcastle-jets/106688524"
     },
     {
       "published_datetime": "2026-05-16T13:07:54.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-16T17:48:42.638534"
+  "merged_at": "2026-05-16T18:50:57.002370"
 }
