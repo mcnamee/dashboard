@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-16T15:16:04.000000Z",
+      "title": "Former UK health minister says he will stand in any contest to replace Starmer",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a2ddb257fc64eee427f25ae2080bbd1?impolicy=wcms_crop_resize&amp;cropH=1756&amp;cropW=3122&amp;xPos=0&amp;yPos=25&amp;width=862&amp;height=485"
+      },
+      "description": "Former health secretary Wes Streeting, who resigned from cabinet on Thursday in preparation for the challenge, says his party needs a \"proper contest\" with the best candidates on the field.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-17/wes-streeting-confirms-will-stand-contest-against-keir-starmer/106688750"
+    },
+    {
+      "published_datetime": "2026-05-16T14:45:49.000000Z",
+      "title": "Eight dead and 35 injured after train collides with public bus in Bangkok",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c4865fa329b9ab2567df20a97de560af?impolicy=wcms_crop_resize&amp;cropH=456&amp;cropW=811&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Footage of the incident shows a group of vehicles queuing across a railway line, before a cargo train suddenly ploughs into the side of the bus and pushes it into oncoming traffic.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-17/bangkok-train-crash-killes-eight-injures-35/106688532"
+    },
+    {
       "published_datetime": "2026-05-16T13:36:27.000000Z",
       "title": "Penalty agony for Newcastle as Sydney FC books place in ALM grand final",
       "featured_image": {
@@ -55,31 +73,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-16/porepunkah-property-owner-andrew-swift-dezi-freeman-video/106687896"
     },
     {
-      "published_datetime": "2026-05-16T04:27:38.000000Z",
-      "title": "Origin hopefuls stand up as Cowboys coach hails 'gritty' win",
+      "published_datetime": "2026-05-16T02:49:42.000000Z",
+      "title": "Friends witness 'horrific' shark attack that claimed life of spearfishing mate",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b27718d6e4386d6436ff1b1799844af4?impolicy=wcms_crop_resize&amp;cropH=2202&amp;cropW=3915&amp;xPos=0&amp;yPos=408&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/928d095154f109cce22f2eb44a3009a6?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Todd Payten said his side's victory over the Roosters was \"as good a win as I've had\" with the club as Melbourne notched back-to-back wins after a messy 34-8 victory over Parramatta and the Sea Eagles thrash Wests Tigers in Magic Round at Lang Park.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-16/nrl-live-updates-tigers-sea-eagles-roosters-cowboys-eels-storm/106683340"
-    },
-    {
-      "published_datetime": "2026-05-16T03:51:49.000000Z",
-      "title": "Trump says the US and Nigeria have killed second-in-command ISIS leader",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2dca8952d6ad440dcc0731411b8cf00e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=116&amp;width=862&amp;height=485"
-      },
-      "description": "US President Donald Trump says American and Nigerian forces have killed the second-in-command leader of ISIS.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-16/trump-says-the-us-has-killed-second-in-command-isis-leader/106688110"
-    },
-    {
-      "published_datetime": "2026-05-16T02:52:27.000000Z",
-      "title": "Blues claim spirited victory over Dogs to begin post-Voss life in style",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e934355d8066efffda96f599874b9d22?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
-      },
-      "description": "Carlton beats the Western Bulldogs by 12 points in its first game since Michael Voss left the club, while Melbourne upsets Hawthorn in style. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-16/afl-round-10-crows-roos-demons-hawks-blues-bulldogs-live-blog/106687692"
+      "description": "A 38-year-old man had been spearfishing with friends when he was killed in a shark attack off Rottnest Island on Saturday morning.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-16/man-attacked-by-shark-rottnest-island/106688012"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9fbe2e00-c2b4-47e6-bdc4-7b6d1a715440",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-16T15:02:52.855138"
+  "merged_at": "2026-05-16T15:49:46.561203"
 }
