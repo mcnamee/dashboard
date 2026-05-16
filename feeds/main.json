@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-16T21:06:57.000000Z",
+      "title": "First home buyers 'up and about' at auctions after negative gearing changes",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5aa46c0c306b62b72630f67ac12279cb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=198&amp;width=862&amp;height=485"
+      },
+      "description": "The government says the changes are aimed at levelling the playing field for young buyers bidding against property investors, while the opposition is pledging to undo the reforms, citing their potential to raise rents.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-17/saturday-auctions-after-budget-tax-reforms-first-home-buyer-bids/106688408"
+    },
+    {
+      "published_datetime": "2026-05-16T21:04:05.000000Z",
+      "title": "Divers who faced jail for cultural fishing lead sea urchin recovery",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bbed3576fa5642a514c74162ce5614c0?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "After decades of fighting for their traditional fishing rights, Aboriginal custodians are now fighting to save their sea country from ecological collapse.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-17/nsw-government-grant-aboriginal-led-sea-urchin-enterprise/106627704"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/0ed8b8c2-9ca3-44bb-b324-790b69d6d3b3",
+      "published_datetime": "2026-05-16T20:36:18.841012",
+      "title": "Trump says US, Nigerian forces killed ISIS's global second-in-command",
+      "featured_image": {
+        "url": "https://indianexpress.com/article/world/donald-trump-isis-leader-abu-bilal-al-minuki-killed-us-nigeria-operation-10692179/",
+        "name": "Donald Trump Says US-Nigeria Operation Has Eliminated ISIS Global Second-in- Command",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--P4PGRuJ6--/t_limit/https://images.indianexpress.com/2026/05/Trump_Iran_US__35_8-5df57_20260515062250_20260516040506.jpg%3Fw%3D1200",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--AdZS9ljM--/t_thumbnail/https://images.indianexpress.com/2026/05/Trump_Iran_US__35_8-5df57_20260515062250_20260516040506.jpg%3Fw%3D1200"
+      },
+      "description": "President Donald Trump announced late Friday that U.S. and Nigerian forces had jointly killed Abu-Bilal al-Minuki, whom he described as the global second-in-command of ISIS, in a military operation in Nigeria.\n\n\"Tonight, at my direction, brave American forces and the Armed Forces of Nigeria flawlessly executed a meticulously planned and very complex mission to eliminate the most active terrorist in the world from the battlefield,\" Trump wrote on Truth Social. \"He will no longer terrorize the people of Africa, or help plan operations to target Americans.\"[1][2][3]",
+      "audio_url": "",
+      "url": "trump-says-us-nigerian-forces-xA0DAx4nRTazMjpR44.O0w",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-16T20:33:06.000000Z",
       "title": "China quietly turns off supply of world's most used industrial chemical",
       "featured_image": {
@@ -8,15 +41,6 @@
       },
       "description": "Amid disruption from the Iran war, China has banned exports of sulphuric acid, a crucial component used to treat drinking water, refine petroleum and make batteries, clothing and phosphate fertilisers.",
       "page_content_url": "https://www.abc.net.au/news/rural/2026-05-17/china-turns-off-sulphuric-acid-supply/106682704"
-    },
-    {
-      "published_datetime": "2026-05-16T20:02:50.000000Z",
-      "title": "Push to make rental properties ready for portable power future",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cea3cbf494d4779626a3f80439c348f4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=172&amp;width=862&amp;height=485"
-      },
-      "description": "A standard power plug for charging your home from an EV is among the measures proposed to improve energy standards for rental properties. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/energy-efficiency-standards-for-nsw-renters/106669248"
     },
     {
       "published_datetime": "2026-05-16T19:32:05.000000Z",
@@ -29,7 +53,7 @@
     },
     {
       "published_datetime": "2026-05-16T19:23:23.000000Z",
-      "title": "Why some people pay more to avoid convential home loans",
+      "title": "Why some Australian homebuyers are turning to Islamic financing",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f8fa637873b7d4457de75f958c4ef29b?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=125&amp;width=862&amp;height=485"
       },
@@ -56,7 +80,7 @@
     },
     {
       "published_datetime": "2026-05-16T19:13:37.000000Z",
-      "title": "Will drastic NDIS overhaul repeat the mistakes of the past?",
+      "title": "What life was like before the NDIS and why mistakes can't be repeated",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f62f9fac545f81a256022ffa3580f78e?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=365&amp;width=862&amp;height=485"
       },
@@ -74,21 +98,12 @@
     },
     {
       "published_datetime": "2026-05-16T18:33:47.000000Z",
-      "title": "Live: Delta Goodrem lights up stage in 2026 grand final",
+      "title": "Live: Delta Goodrem lights up Eurovision stage in 2026 grand final",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/59c5b714811157e432ffb0515cf07859?impolicy=wcms_crop_resize&amp;cropH=1520&amp;cropW=2702&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Delta Goodrem will perform eighth in the Eurovision grand final, where she is one of the favourites to win. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-17/eurovision-2026-song-contest-grand-final-live-blog/106679928"
-    },
-    {
-      "published_datetime": "2026-05-16T12:14:03.000000Z",
-      "title": "Top Hamas military leader killed in Israeli air strikes, official confirms",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3fd5c2af61cae3684356ab9d5de5b1b8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Izz al-Din al-Haddad is the most senior Hamas official to be killed by Israel since a US-backed ceasefire agreement meant to halt fighting was implemented in October.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-16/hamas-military-leader-killed-israeli-air-strikes-gaza/106688480"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9fbe2e00-c2b4-47e6-bdc4-7b6d1a715440",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9edf0974-343a-49bb-8d3a-c87e3f1f9de6",
-      "published_datetime": "2026-05-15T13:11:46.269781",
-      "title": "Trump leaves Beijing without Iran breakthrough after two-day Xi summit",
-      "featured_image": {
-        "url": "https://www.yahoo.com/news/articles/trump-xi-set-second-day-220708586.html",
-        "name": "Trump leaves Beijing with few wins, many warm words for Xi",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--gHr89Mf_--/t_limit/https://s.yimg.com/ny/api/res/1.2/OM.tCNG3hUhw4bo7olMu_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjc7Y2Y9d2VicA--/https://media.zenfs.com/en/reuters.com/fe74968114c234357ede9d25c9db9719",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--LQzg6dz---/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/OM.tCNG3hUhw4bo7olMu_g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjc7Y2Y9d2VicA--/https://media.zenfs.com/en/reuters.com/fe74968114c234357ede9d25c9db9719"
-      },
-      "description": "President Donald Trump departed Beijing on Friday after more than 40 hours of talks with Chinese President Xi Jinping, claiming the two leaders had found common ground on Iran's nuclear ambitions and the reopening of the Strait of Hormuz \u2014 but the summit ended without a clear breakthrough on how to end the 77-day-old war.[1][2]",
-      "audio_url": "",
-      "url": "trump-leaves-beijing-without-i-mgAzQCqzRRiYQ9epjPVINQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-16T20:41:11.610278"
+  "merged_at": "2026-05-16T21:39:51.583873"
 }
