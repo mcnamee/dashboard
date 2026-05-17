@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "published_datetime": "2026-05-17T18:39:13.000000Z",
-      "title": "There's a ceasefire in Iran but the war's ripples are still hitting millions",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/61525c52c2559edfba31808e4a92ad96?impolicy=wcms_crop_resize&amp;cropH=1010&amp;cropW=1795&amp;xPos=146&amp;yPos=195&amp;width=862&amp;height=485"
-      },
-      "description": "It has been more than two months since the US and Israel launched strikes in Iran. But the impact of the conflict continues globally.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-18/the-ripples-of-the-iran-war-are-everywhere/106591410"
-    },
-    {
       "published_datetime": "2026-05-17T18:43:24.000000Z",
       "title": "Liberal senator speaks out against Taylor's budget reply",
       "featured_image": {
@@ -17,33 +8,6 @@
       },
       "description": "Senator Andrew McLachlan raises concerns over Angus Taylor's use of the term \"mass immigration\" and plan to push tax-paying migrants off welfare benefits.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-18/andrew-mclachlan-concerns-over-liberal-migration-welfare-cuts-/106689784"
-    },
-    {
-      "published_datetime": "2026-05-17T18:46:06.000000Z",
-      "title": "Gaza families are still unable to bury dead trapped under rubble",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3585e41edc1f20e750e020a7a8c92eba?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
-      },
-      "description": "The families of Palestinians believed to be trapped under the rubble of collapsed buildings want to bury their dead.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-18/gazan-families-are-still-unable-to-bury-dead-israel-war/106647040"
-    },
-    {
-      "published_datetime": "2026-05-17T18:58:06.000000Z",
-      "title": "Tax is a great motivator but will Labor's changes fix Australia's housing mess?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b1e7a918e8a4061485349d833f279c4?impolicy=wcms_crop_resize&amp;cropH=2462&amp;cropW=4377&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "The Albanese government and the opposition both want to turn back the clock on the Australian tax system.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-18/nostalgia-for-past-tax-system-from-labor-and-coalition/106689472"
-    },
-    {
-      "published_datetime": "2026-05-17T18:57:09.000000Z",
-      "title": "How some countries dodged interest rate rises for years",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/03041c19681b764fec7fcde203bdeea4?impolicy=wcms_crop_resize&amp;cropH=882&amp;cropW=1569&amp;xPos=180&amp;yPos=119&amp;width=862&amp;height=485"
-      },
-      "description": "As Australians pay more on their mortgages, some countries have had no rise in their interest rate in recent years. So what's going on?",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-18/why-is-australias-interest-rate-high-compared-to-other-countries/106655098"
     },
     {
       "published_datetime": "2026-05-17T18:42:23.000000Z",
@@ -55,40 +19,58 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-18/aged-care-government-private-health-rebates/106684476"
     },
     {
+      "published_datetime": "2026-05-17T20:31:48.000000Z",
+      "title": "Iran weekly briefing: A new front emerges as the Emirates strike back",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3609aec22ae28d93a6b578aaa8508069?impolicy=wcms_crop_resize&amp;cropH=2350&amp;cropW=4177&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The UAE shifts from target to combatant amid reports the US and Israel are preparing to renew strikes on Iran, writes Matthew Doran.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/iran-israel-war-news-briefing/106690744"
+    },
+    {
+      "published_datetime": "2026-05-17T18:39:13.000000Z",
+      "title": "Fragile ceasefire holds, but fallout of Iran war is reshaping millions of lives",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/61525c52c2559edfba31808e4a92ad96?impolicy=wcms_crop_resize&amp;cropH=1010&amp;cropW=1795&amp;xPos=146&amp;yPos=195&amp;width=862&amp;height=485"
+      },
+      "description": "It has been more than two months since the US and Israel launched strikes in Iran. But the impact of the conflict continues globally. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/the-ripples-of-the-iran-war-are-everywhere/106591410"
+    },
+    {
+      "published_datetime": "2026-05-17T18:57:09.000000Z",
+      "title": "Why the US, UK and NZ haven't raised interest rates in years",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/03041c19681b764fec7fcde203bdeea4?impolicy=wcms_crop_resize&amp;cropH=882&amp;cropW=1569&amp;xPos=180&amp;yPos=119&amp;width=862&amp;height=485"
+      },
+      "description": "As Australians pay more on their mortgages, some countries have had no rise in their interest rate in recent years. So what's going on?",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/why-is-australias-interest-rate-high-compared-to-other-countries/106655098"
+    },
+    {
+      "published_datetime": "2026-05-17T21:08:16.000000Z",
+      "title": "Live: Tedesco recalled and debutants named in NSW Origin I side",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5a963e0036b12dea747d943d2a98a6b9?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=490&amp;width=862&amp;height=485"
+      },
+      "description": "James Tedesco wins back his NSW fullback spot as Laurie Daley names a State of Origin I squad featuring seven potential debutants. Queensland will name its team at 9am. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/state-of-origin-teams-named-live-blog/106689518"
+    },
+    {
+      "published_datetime": "2026-05-17T18:58:06.000000Z",
+      "title": "Tax is a great motivator but will Labor's changes fix Australia's housing mess?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b1e7a918e8a4061485349d833f279c4?impolicy=wcms_crop_resize&amp;cropH=2462&amp;cropW=4377&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "The Albanese government and the opposition both want to turn back the clock on the Australian tax system.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/nostalgia-for-past-tax-system-from-labor-and-coalition/106689472"
+    },
+    {
       "published_datetime": "2026-05-17T19:11:47.000000Z",
-      "title": "Ex-Labor powerbroker's warning amid NDIS cuts",
+      "title": "Mass showers and squalor: What spurred ex-Labor minister's NDIS fight",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/83d6524f1a88e479595cc8a261581da3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "A former NSW Labor powerbroker and state disability minister pivotal in advocating for the establishment of the NDIS has warned against rushing through sweeping changes to the scheme.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-18/john-della-bosca-warns-albanese-government-over-ndis/106678358"
-    },
-    {
-      "published_datetime": "2026-05-17T03:39:17.000000Z",
-      "title": "'Devoted father and gentleman': Tributes flow for shark attack victim",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6b086133e7f875edf49fe579ee292830?impolicy=wcms_crop_resize&amp;cropH=961&amp;cropW=1708&amp;xPos=0&amp;yPos=315&amp;width=862&amp;height=485"
-      },
-      "description": "The wife of a 38-year-old Perth man who died in a shark attack off the coast of Rottnest Island in Western Australia on Saturday describes him as a devoted father and avid spearfisherman.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/steven-mattaboni-identified-as-rottnest-shark-attack-victim/106689444"
-    },
-    {
-      "published_datetime": "2026-05-17T18:54:54.000000Z",
-      "title": "Push for Australia to extract helium as Iran war impacts global supply",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c8ceae9ca2b09e71e333c5a9bfad7d66?impolicy=wcms_crop_resize&amp;cropH=2811&amp;cropW=4997&amp;xPos=0&amp;yPos=136&amp;width=862&amp;height=485"
-      },
-      "description": "Helium is needed in health care and to make microchips and semiconductors, but the Middle East war has affected supply. Some think it is an opportunity for Australia's gas industry. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-18/push-for-austraila-to-extract-helium-as-iran-war-impacts-supply/106666710"
-    },
-    {
-      "published_datetime": "2026-05-17T18:51:31.000000Z",
-      "title": "UAE slams 'dangerous escalation' after drone hits near nuclear plant",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6769e5847fb432c9a74798bdc37638bf?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=104&amp;width=862&amp;height=485"
-      },
-      "description": "Abu Dhabi officials say radiation levels are normal and there was no damage to the plant, but authorities are now working to determine who carried out the attack. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-18/drone-strike-in-uae-nuclear-station/106690388"
     },
     {
       "published_datetime": "2026-05-17T18:30:00.000000Z",
@@ -100,31 +82,49 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-18/dave-hughes-the-assembly/106652534"
     },
     {
-      "published_datetime": "2026-05-17T13:53:44.000000Z",
-      "title": "Ukraine launches massive drone wave against Russia, killing four",
+      "published_datetime": "2026-05-17T18:54:54.000000Z",
+      "title": "Push for Australia to extract helium as Iran war impacts global supply",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a7d6aa6ac98052410b411bdcdc18cfc8?impolicy=wcms_crop_resize&amp;cropH=563&amp;cropW=1000&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c8ceae9ca2b09e71e333c5a9bfad7d66?impolicy=wcms_crop_resize&amp;cropH=2811&amp;cropW=4997&amp;xPos=0&amp;yPos=136&amp;width=862&amp;height=485"
       },
-      "description": "Ukraine's President Volodymyr Zelenskyy said the attacks were justified as \"responses to Russia's prolongation of the war and its attacks on our cities and communities\", two days after Russian strikes on Kyiv killed 24.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/ukraine-drone-strikes-moscow-belgorod-regions/106690152"
+      "description": "Helium is needed in health care and to make microchips and semiconductors, but the Middle East war has affected supply. Some think it is an opportunity for Australia's gas industry. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/push-for-austraila-to-extract-helium-as-iran-war-impacts-supply/106666710"
     },
     {
-      "published_datetime": "2026-05-17T01:17:49.000000Z",
-      "title": "WHO declares Ebola outbreak an 'emergency of international concern'",
+      "published_datetime": "2026-05-17T19:15:23.000000Z",
+      "title": "Melbourne nightclub has operated for two years without insurance",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cc873be7b17b109fec3abcc91920ce0c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=239&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f557e93b51a8450843ecf6ccce27d9fb?impolicy=wcms_crop_resize&amp;cropH=2536&amp;cropW=4508&amp;xPos=0&amp;yPos=76&amp;width=862&amp;height=485"
       },
-      "description": "At least 80 people have died in what the World Health Organization says potentially could be a \"much larger outbreak than what is currently being detected and reported\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/who-declares-global-health-emergency-over-ebola-outbreak/106689434"
+      "description": "Pride of our Footscray stopped paying public liability insurance when 18 insurers refused to underwrite the venue. The manager says operating without cover keeps staff on tenterhooks.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/queer-nightclub-in-melbourne-uninsurable-for-two-years/106622544"
     },
     {
-      "published_datetime": "2026-05-17T06:45:47.000000Z",
-      "title": "Protesters march at Nakba Day rallies around Australia",
+      "published_datetime": "2026-05-17T18:46:06.000000Z",
+      "title": "Homes destroyed, living in rubble, Gazans worry about dead awaiting burial",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f4a1f10b03eb460d58e56d9d26103537?impolicy=wcms_crop_resize&amp;cropH=1059&amp;cropW=1882&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3585e41edc1f20e750e020a7a8c92eba?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
       },
-      "description": "Crowds gather at rallies around the country to commemorate the anniversary of the Nakba, a day that recognises the mass displacement of Palestinians in 1948.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/nakba-day-rallies-held-around-australia/106689562"
+      "description": "The families of Palestinians believed to be trapped under the rubble of collapsed buildings want to bury their dead.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/gazan-families-are-still-unable-to-bury-dead-israel-war/106647040"
+    },
+    {
+      "published_datetime": "2026-05-17T20:39:49.000000Z",
+      "title": "Late bogey costs Cameron Smith after PGA Championship surge",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/02293c0b310cd92ba612386beb0ac3b9?impolicy=wcms_crop_resize&amp;cropH=2422&amp;cropW=4306&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Australian Cameron Smith makes a hot start to the final round at the PGA Championship, putting himself right in the mix to end his major drought, before tripping up on the penultimate hole.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/cameron-smith-pga-championship-leaderboard-in-final-round/106690768"
+    },
+    {
+      "published_datetime": "2026-05-17T19:34:38.000000Z",
+      "title": "Developer cash flows to Qld politicians as donation ban overturned",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9460c47786983b5a7b1326570499725?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "More than $170,000 in donations from developers has been given to Queensland state politicians since laws banning developer donations were overturned in March. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/developers-donate-thousands-after-qld-ban-life/106683676"
     },
     {
       "published_datetime": "2026-05-17T18:50:12.000000Z",
@@ -145,85 +145,85 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-18/this-week-in-history-quiz-may-18/106670152"
     },
     {
-      "published_datetime": "2026-05-17T02:54:54.000000Z",
-      "title": "How Pokémon cards are fuelling crime in Melbourne",
+      "published_datetime": "2026-05-17T20:59:46.000000Z",
+      "title": "Meet the women rangers in Central Australia working to protect country",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fd279ace4f6d3f30ff5c8847a0063d4d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a7eac7cdf4135ad7b2a226a2137a8e5a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
       },
-      "description": "Rare Pokémon cards can sell for hundreds or even thousands of dollars, with a record sale of one Pikachu card going for over $22 million earlier this year. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/pokemon-cards-fuelling-crime-against-melbourne-businesses/106669090"
+      "description": "Dozens of Central Land Council Aboriginal rangers gathered east of Alice Springs last week for the 2026 Women's Ranger Camp — a time for health, learning and healing in the wake of the town's recent loss of Kumanjayi Little Baby. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/nt-aboriginal-ranger-camp-women-rangers-protecting-country/106678228"
     },
     {
-      "published_datetime": "2026-05-16T19:15:40.000000Z",
-      "title": "You could hear a pin drop when Rob revealed why he fought a fire tax",
+      "published_datetime": "2026-05-17T20:38:24.000000Z",
+      "title": "French Epstein probe sees 10 new alleged victims come forward",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18b6bc284a38b35ed391a74199455700?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=3840&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28ac0866231af7b9ea494d9807d8894f?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=480&amp;width=862&amp;height=485"
       },
-      "description": "Every time farmer and volunteer firefighter Rob Armstrong gets a call to battle a bushfire, something inside says not to do it. But he goes anyway. He knows what it's like to be trapped in the flames and rescued by volunteers.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/-accidental-leader-of-cfa-levy-protest-rob-armstrong/106630850"
+      "description": "About 10 new suspected victims have come forward as part of a French probe into the network of late US sex offender Jeffrey Epstein.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/new-victims-french-investigation-into-jeffrey-epstein/106690740"
     },
     {
-      "published_datetime": "2026-05-17T02:24:43.000000Z",
-      "title": "Harley heroics lift Eagles to stunning upset win over Giants",
+      "published_datetime": "2026-05-17T21:19:41.000000Z",
+      "title": "Live: ASX set to fall after sharp drops on Wall Street, AUD down",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/96168a9f0a4336bfc624a0f6c5fada91?impolicy=wcms_crop_resize&amp;cropH=1479&amp;cropW=2630&amp;xPos=1497&amp;yPos=131&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c5029d480e2def7a94cecef102b6e3be?impolicy=wcms_crop_resize&amp;cropH=1020&amp;cropW=1826&amp;xPos=805&amp;yPos=977&amp;width=862&amp;height=485"
       },
-      "description": "West Coast surges to a third victory of the season, defeating GWS by 17 points while St Kilda and Fremantle also enjoy Sunday wins.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/afl-r10-bombers-dockers-saints-tigers-eagles-giants-live-blog/106689516"
+      "description": "Australian markets are set to begin the week in negative territory, with ASX 200 futures pointing to a drop of 0.4 per cent on Monday after both US indexes dropped sharply from record highs. Follow the day's financial news and insights from our specialist business reporters on our live blog.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/asx-markets-business-news-live-updates-monday-18-may/106689974"
     },
     {
-      "published_datetime": "2026-05-17T03:19:48.000000Z",
-      "title": "Blues suffer Origin blow, Ponga will 'play anywhere' for Maroons",
+      "published_datetime": "2026-05-17T18:51:31.000000Z",
+      "title": "UAE slams 'dangerous escalation' after drone hits near nuclear plant",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0333de510e384ac1ec67fd5198280a90?impolicy=wcms_crop_resize&amp;cropH=2633&amp;cropW=4680&amp;xPos=0&amp;yPos=244&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6769e5847fb432c9a74798bdc37638bf?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=104&amp;width=862&amp;height=485"
       },
-      "description": "NSW has been dealt a State of Origin blow ahead of the Blues' team announcement on Monday, with Latrell Mitchell ruling himself out of Game I selection.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/nrl-magic-round-titans-knights-warriors-broncos-panthers-dragons/106669968"
+      "description": "Abu Dhabi officials say radiation levels are normal and there was no damage to the plant, but authorities are now working to determine who carried out the attack. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/drone-strike-in-uae-nuclear-station/106690388"
     },
     {
-      "published_datetime": "2026-05-16T23:28:13.000000Z",
-      "title": "Sydney lawyer was stressed out by her mortgage so she sold up and bought a van",
+      "published_datetime": "2026-05-17T13:53:44.000000Z",
+      "title": "Ukraine launches massive drone wave against Russia, killing four",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/101859b08685d232d51efdfca1667167?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=258&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a7d6aa6ac98052410b411bdcdc18cfc8?impolicy=wcms_crop_resize&amp;cropH=563&amp;cropW=1000&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
       },
-      "description": "Phoebe Macdougall says she hated living with a mortgage, so she is trying van life instead.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/sydney-lawyer-lives-in-van-due-to-mortgage-stress/106629820"
+      "description": "Ukraine's President Volodymyr Zelenskyy said the attacks were justified as \"responses to Russia's prolongation of the war and its attacks on our cities and communities\", two days after Russian strikes on Kyiv killed 24.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-17/ukraine-drone-strikes-moscow-belgorod-regions/106690152"
     },
     {
-      "published_datetime": "2026-05-17T01:09:30.000000Z",
-      "title": "Treasurer stands by CGT changes affecting shares and crypto",
+      "published_datetime": "2026-05-17T01:17:49.000000Z",
+      "title": "WHO declares Ebola outbreak an 'emergency of international concern'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/96e669b1ef77e14cdae9f16ad85067b4?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cc873be7b17b109fec3abcc91920ce0c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=239&amp;width=862&amp;height=485"
       },
-      "description": "Jim Chalmers says it is better for young people to invest based on economic rather than tax outcomes, and argued they can still access negative gearing by buying up new homes.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/jim-chalmers-defends-impact-of-tax-changes-on-young-investors/106689268"
+      "description": "At least 80 people have died in what the World Health Organization says potentially could be a \"much larger outbreak than what is currently being detected and reported\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-17/who-declares-global-health-emergency-over-ebola-outbreak/106689434"
     },
     {
-      "published_datetime": "2026-05-17T01:28:53.000000Z",
-      "title": "Labor claims victory in Queensland's Stafford by-election",
+      "published_datetime": "2026-05-17T03:39:17.000000Z",
+      "title": "'Devoted father and gentleman': Tributes flow for shark attack victim",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8e5f1dcd48379d88524185ffa382b9e6?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6b086133e7f875edf49fe579ee292830?impolicy=wcms_crop_resize&amp;cropH=961&amp;cropW=1708&amp;xPos=0&amp;yPos=315&amp;width=862&amp;height=485"
       },
-      "description": "Labor candidate Luke Richmond claims victory over the LNP's Fiona Hammond in a tight race in the north Brisbane electorate of Stafford.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/labor-claims-victory-stafford-by-election-luke-richmond/106689404"
+      "description": "The wife of a 38-year-old Perth man who died in a shark attack off the coast of Rottnest Island in Western Australia on Saturday describes him as a devoted father and avid spearfisherman.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-17/steven-mattaboni-identified-as-rottnest-shark-attack-victim/106689444"
     },
     {
-      "published_datetime": "2026-05-17T02:19:14.000000Z",
-      "title": "Qantas plane diverted after passenger allegedly bites flight attendant",
+      "published_datetime": "2026-05-17T20:01:55.000000Z",
+      "title": "More rain forecast for south-east Queensland before temperatures plummet",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98a8cdc0b9d1d124d762fc2e2affccf0?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d400bd9c8b68bfb5a87592af65fc5a24?impolicy=wcms_crop_resize&amp;cropH=2156&amp;cropW=3833&amp;xPos=10&amp;yPos=658&amp;width=862&amp;height=485"
       },
-      "description": "Fellow passengers are believed to have assisted after a flight attendant was allegedly bitten on plane travelling between Melbourne and the US, with the plane diverted to Tahiti.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/qantas-plane-diverted-passenger-allegedly-bites-flight-attendant/106689164"
+      "description": "Coastal rain will linger today and tomorrow, before clear skies and and chilly nights arrive on Wednesday. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/queensland-weather-more-rain-temperatures-drop/106689612"
     },
     {
-      "published_datetime": "2026-05-16T19:00:00.000000Z",
-      "title": "AI psychosis is on the rise and experts are sounding the alarm",
+      "published_datetime": "2026-05-17T19:51:03.000000Z",
+      "title": "Sobering-up centre to close less than four years after public intoxication reforms",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b33fc14e50a68cdfcc0b50c2e2d228cd?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/24fb39dc09851c4a49380f6a99fb349b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=134&amp;width=862&amp;height=485"
       },
-      "description": "Rodrigues thought an AI chatbot could help him escape poverty and build wealth. Instead, he became trapped in a spiral of delusion and dependence.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/ai-psychosis-is-rising-chatbot-delusion-alternate-reality-harm/106683436"
+      "description": "A 20-bed facility in the Melbourne suburb of Collingwood will close in 2027 after operating for just a few years following legal reforms.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/collingwood-cohealth-sobering-up-centre-to-close/106689594"
     }
   ]
 }
