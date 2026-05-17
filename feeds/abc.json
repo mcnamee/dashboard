@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-17T18:39:13.000000Z",
+      "title": "There's a ceasefire in Iran but the war's ripples are still hitting millions",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/61525c52c2559edfba31808e4a92ad96?impolicy=wcms_crop_resize&amp;cropH=1010&amp;cropW=1795&amp;xPos=146&amp;yPos=195&amp;width=862&amp;height=485"
+      },
+      "description": "It has been more than two months since the US and Israel launched strikes in Iran. But the impact of the conflict continues globally.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/the-ripples-of-the-iran-war-are-everywhere/106591410"
+    },
+    {
+      "published_datetime": "2026-05-17T18:43:24.000000Z",
+      "title": "Liberal senator speaks out against Taylor's budget reply",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/67018175b152b821539fe111232da447?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=147&amp;width=862&amp;height=485"
+      },
+      "description": "Senator Andrew McLachlan raises concerns over Angus Taylor's use of the term \"mass immigration\" and plan to push tax-paying migrants off welfare benefits.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/andrew-mclachlan-concerns-over-liberal-migration-welfare-cuts-/106689784"
+    },
+    {
+      "published_datetime": "2026-05-17T18:46:06.000000Z",
+      "title": "Gaza families are still unable to bury dead trapped under rubble",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3585e41edc1f20e750e020a7a8c92eba?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
+      },
+      "description": "The families of Palestinians believed to be trapped under the rubble of collapsed buildings want to bury their dead.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/gazan-families-are-still-unable-to-bury-dead-israel-war/106647040"
+    },
+    {
+      "published_datetime": "2026-05-17T18:58:06.000000Z",
+      "title": "Tax is a great motivator but will Labor's changes fix Australia's housing mess?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b1e7a918e8a4061485349d833f279c4?impolicy=wcms_crop_resize&amp;cropH=2462&amp;cropW=4377&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "The Albanese government and the opposition both want to turn back the clock on the Australian tax system.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/nostalgia-for-past-tax-system-from-labor-and-coalition/106689472"
+    },
+    {
+      "published_datetime": "2026-05-17T18:57:09.000000Z",
+      "title": "How some countries dodged interest rate rises for years",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/03041c19681b764fec7fcde203bdeea4?impolicy=wcms_crop_resize&amp;cropH=882&amp;cropW=1569&amp;xPos=180&amp;yPos=119&amp;width=862&amp;height=485"
+      },
+      "description": "As Australians pay more on their mortgages, some countries have had no rise in their interest rate in recent years. So what's going on?",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/why-is-australias-interest-rate-high-compared-to-other-countries/106655098"
+    },
+    {
+      "published_datetime": "2026-05-17T18:42:23.000000Z",
+      "title": "'Boomer bashing': Are cuts to private health rebates addressing generational or wealth inequality?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1d34604ed687a10ebe11a51771733cdc?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The federal government plans to reduce private health insurance rebates for older Australians, a move one advocate fears could \"tip many over the edge\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/aged-care-government-private-health-rebates/106684476"
+    },
+    {
+      "published_datetime": "2026-05-17T19:11:47.000000Z",
+      "title": "Ex-Labor powerbroker's warning amid NDIS cuts",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/83d6524f1a88e479595cc8a261581da3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A former NSW Labor powerbroker and state disability minister pivotal in advocating for the establishment of the NDIS has warned against rushing through sweeping changes to the scheme.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/john-della-bosca-warns-albanese-government-over-ndis/106678358"
+    },
+    {
       "published_datetime": "2026-05-17T03:39:17.000000Z",
       "title": "'Devoted father and gentleman': Tributes flow for shark attack victim",
       "featured_image": {
@@ -10,13 +73,31 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-17/steven-mattaboni-identified-as-rottnest-shark-attack-victim/106689444"
     },
     {
-      "published_datetime": "2026-05-17T01:17:49.000000Z",
-      "title": "WHO declares Ebola outbreak an 'emergency of international concern'",
+      "published_datetime": "2026-05-17T18:54:54.000000Z",
+      "title": "Push for Australia to extract helium as Iran war impacts global supply",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cc873be7b17b109fec3abcc91920ce0c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=239&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c8ceae9ca2b09e71e333c5a9bfad7d66?impolicy=wcms_crop_resize&amp;cropH=2811&amp;cropW=4997&amp;xPos=0&amp;yPos=136&amp;width=862&amp;height=485"
       },
-      "description": "At least 80 people have died in what the World Health Organization says potentially could be a \"much larger outbreak than what is currently being detected and reported\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/who-declares-global-health-emergency-over-ebola-outbreak/106689434"
+      "description": "Helium is needed in health care and to make microchips and semiconductors, but the Middle East war has affected supply. Some think it is an opportunity for Australia's gas industry. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/push-for-austraila-to-extract-helium-as-iran-war-impacts-supply/106666710"
+    },
+    {
+      "published_datetime": "2026-05-17T18:51:31.000000Z",
+      "title": "UAE slams 'dangerous escalation' after drone hits near nuclear plant",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6769e5847fb432c9a74798bdc37638bf?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=104&amp;width=862&amp;height=485"
+      },
+      "description": "Abu Dhabi officials say radiation levels are normal and there was no damage to the plant, but authorities are now working to determine who carried out the attack. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/drone-strike-in-uae-nuclear-station/106690388"
+    },
+    {
+      "published_datetime": "2026-05-17T18:30:00.000000Z",
+      "title": "The $10b offer Dave Hughes would 'hand on heart' turn down",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dc4354f10279f2089b2265e267e84a71?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Comedian Dave Hughes spoke to The Assembly about why he quit alcohol at 22, being \"addicted to work\" and the type of dad he's trying to be for his three kids.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/dave-hughes-the-assembly/106652534"
     },
     {
       "published_datetime": "2026-05-17T13:53:44.000000Z",
@@ -28,13 +109,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-17/ukraine-drone-strikes-moscow-belgorod-regions/106690152"
     },
     {
-      "published_datetime": "2026-05-17T01:09:30.000000Z",
-      "title": "Treasurer stands by CGT changes affecting shares and crypto",
+      "published_datetime": "2026-05-17T01:17:49.000000Z",
+      "title": "WHO declares Ebola outbreak an 'emergency of international concern'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/96e669b1ef77e14cdae9f16ad85067b4?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cc873be7b17b109fec3abcc91920ce0c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=239&amp;width=862&amp;height=485"
       },
-      "description": "Jim Chalmers says it is better for young people to invest based on economic rather than tax outcomes, and argued they can still access negative gearing by buying up new homes.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/jim-chalmers-defends-impact-of-tax-changes-on-young-investors/106689268"
+      "description": "At least 80 people have died in what the World Health Organization says potentially could be a \"much larger outbreak than what is currently being detected and reported\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-17/who-declares-global-health-emergency-over-ebola-outbreak/106689434"
     },
     {
       "published_datetime": "2026-05-17T06:45:47.000000Z",
@@ -46,13 +127,40 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-17/nakba-day-rallies-held-around-australia/106689562"
     },
     {
-      "published_datetime": "2026-05-16T23:43:10.000000Z",
-      "title": "From Euro-pop to Euro-slop, the key moments from Eurovision as Delta makes Australia proud",
+      "published_datetime": "2026-05-17T18:50:12.000000Z",
+      "title": "The science behind why break-ups are so difficult, even when you want to",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fd62865f72bb71e2aa2861e918340b20?impolicy=wcms_crop_resize&amp;cropH=1930&amp;cropW=3431&amp;xPos=0&amp;yPos=323&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fc5982d4c2700c068386e695b9b16a36?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
       },
-      "description": "Slept through Eurovision this year? Here's what you missed from Europe's favourite song contest, with boycotts, ballads and a Bulgarian belter called Bangaranga making headlines.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/eurovision-key-takeaways/106686378"
+      "description": "It's not just practical and emotional reasons that get in the way of executing a break-up. There are many ways your brain is making you want to stay.     ",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/why-it-is-so-hard-to-end-a-long-term-relationship/106619878"
+    },
+    {
+      "published_datetime": "2026-05-17T18:30:00.000000Z",
+      "title": "Quiz: It's history time! Where was Pac-Man first released?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6909a579ca54be2a2c9735d28550bbac?impolicy=wcms_crop_resize&amp;cropH=345&amp;cropW=613&amp;xPos=27&amp;yPos=233&amp;width=862&amp;height=485"
+      },
+      "description": "In what year did John Howard become a federal MP? And which country got to play Pac-Man first? Test yourself in this week's history quiz.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-18/this-week-in-history-quiz-may-18/106670152"
+    },
+    {
+      "published_datetime": "2026-05-17T02:54:54.000000Z",
+      "title": "How Pokémon cards are fuelling crime in Melbourne",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fd279ace4f6d3f30ff5c8847a0063d4d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Rare Pokémon cards can sell for hundreds or even thousands of dollars, with a record sale of one Pikachu card going for over $22 million earlier this year. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-17/pokemon-cards-fuelling-crime-against-melbourne-businesses/106669090"
+    },
+    {
+      "published_datetime": "2026-05-16T19:15:40.000000Z",
+      "title": "You could hear a pin drop when Rob revealed why he fought a fire tax",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18b6bc284a38b35ed391a74199455700?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=3840&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Every time farmer and volunteer firefighter Rob Armstrong gets a call to battle a bushfire, something inside says not to do it. But he goes anyway. He knows what it's like to be trapped in the flames and rescued by volunteers.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-17/-accidental-leader-of-cfa-levy-protest-rob-armstrong/106630850"
     },
     {
       "published_datetime": "2026-05-17T02:24:43.000000Z",
@@ -73,13 +181,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-17/nrl-magic-round-titans-knights-warriors-broncos-panthers-dragons/106669968"
     },
     {
-      "published_datetime": "2026-05-16T19:15:40.000000Z",
-      "title": "You could hear a pin drop when Rob revealed why he fought a fire tax",
+      "published_datetime": "2026-05-16T23:28:13.000000Z",
+      "title": "Sydney lawyer was stressed out by her mortgage so she sold up and bought a van",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18b6bc284a38b35ed391a74199455700?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=3840&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/101859b08685d232d51efdfca1667167?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=258&amp;width=862&amp;height=485"
       },
-      "description": "Every time farmer and volunteer firefighter Rob Armstrong gets a call to battle a bushfire, something inside says not to do it. But he goes anyway. He knows what it’s like to be trapped in the flames and rescued by volunteers. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/-accidental-leader-of-cfa-levy-protest-rob-armstrong/106630850"
+      "description": "Phoebe Macdougall says she hated living with a mortgage, so she is trying van life instead.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-17/sydney-lawyer-lives-in-van-due-to-mortgage-stress/106629820"
+    },
+    {
+      "published_datetime": "2026-05-17T01:09:30.000000Z",
+      "title": "Treasurer stands by CGT changes affecting shares and crypto",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/96e669b1ef77e14cdae9f16ad85067b4?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Jim Chalmers says it is better for young people to invest based on economic rather than tax outcomes, and argued they can still access negative gearing by buying up new homes.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-17/jim-chalmers-defends-impact-of-tax-changes-on-young-investors/106689268"
     },
     {
       "published_datetime": "2026-05-17T01:28:53.000000Z",
@@ -100,15 +217,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-17/qantas-plane-diverted-passenger-allegedly-bites-flight-attendant/106689164"
     },
     {
-      "published_datetime": "2026-05-16T23:28:13.000000Z",
-      "title": "Sydney lawyer was stressed out by her mortgage so she sold up and bought a van",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/101859b08685d232d51efdfca1667167?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=258&amp;width=862&amp;height=485"
-      },
-      "description": "Phoebe Macdougall says she hated living with a mortgage, so she is trying van life instead.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/sydney-lawyer-lives-in-van-due-to-mortgage-stress/106629820"
-    },
-    {
       "published_datetime": "2026-05-16T19:00:00.000000Z",
       "title": "AI psychosis is on the rise and experts are sounding the alarm",
       "featured_image": {
@@ -116,114 +224,6 @@
       },
       "description": "Rodrigues thought an AI chatbot could help him escape poverty and build wealth. Instead, he became trapped in a spiral of delusion and dependence.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-17/ai-psychosis-is-rising-chatbot-delusion-alternate-reality-harm/106683436"
-    },
-    {
-      "published_datetime": "2026-05-17T08:10:03.000000Z",
-      "title": "Six shops ordered to shut under new illegal tobacco laws",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b0d71f2278af5ef84837f6d47597edfd?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
-      },
-      "description": "More than 140,000 illegal cigarettes have been seized and six stores ordered to close down, days after Western Australia's new tobacco laws came into force. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/six-shops-ordered-to-shut-under-new-illegal-tobacco-laws-/106689786"
-    },
-    {
-      "published_datetime": "2026-05-17T02:00:00.000000Z",
-      "title": "Love story: How a punk grandma and an Aussie rocker fell in love",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fe66e058e43dbcefcd657f724e7b3449?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=106&amp;width=862&amp;height=485"
-      },
-      "description": "Singer/guitarist Mick Medew and self-proclaimed punk grandma Ursula Collie were in their mid-50s when they met and bonded over a mutual love of live music. A decade on, they're musical and life partners.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/love-story-how-an-aussie-rocker-punk-grandma-found-harmony/106562184"
-    },
-    {
-      "published_datetime": "2026-05-16T21:09:28.000000Z",
-      "title": "‘I can still feel him’: Gurrumul’s posthumous honour brings pride for family",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1cca5e10ce2fc90554020a191b39e3c9?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1023&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Nearly a decade since his death, Gurrumul is set to be inducted into the ARIA Hall of Fame, bringing pride and reflection to a remote part of Australia.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/gurrumul-enters-aria-hall-of-fame-10-years-after-death/106686418"
-    },
-    {
-      "published_datetime": "2026-05-16T18:30:00.000000Z",
-      "title": "Test your homophones and your Gen Alpha slang",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aa30eaea194266f2c720627bf4adec93?impolicy=wcms_crop_resize&amp;cropH=2089&amp;cropW=3713&amp;xPos=0&amp;yPos=193&amp;width=862&amp;height=485"
-      },
-      "description": "Are you ready to test your spelling skills like your little lunch depends on it? Come on in. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/guy-montgomery-spelling-bee-quiz/106666750"
-    },
-    {
-      "published_datetime": "2026-05-16T19:32:05.000000Z",
-      "title": "'No-one really questioned why' Olympic gymnast missed periods",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a749a062ed5917a46fa20358327b04a3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Alexandra Kiroi-Bogatyreva trained up to 10 hours a day, six days a week, often without the proper nutrition. She wants others to know what that can do to the body.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/menstrual-irregularities-womens-health-education-abc-survey/106597534"
-    },
-    {
-      "published_datetime": "2026-05-16T19:23:23.000000Z",
-      "title": "Why some Australian homebuyers are turning to Islamic financing",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f8fa637873b7d4457de75f958c4ef29b?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=125&amp;width=862&amp;height=485"
-      },
-      "description": "When Wildan decided to buy a property he didn't even consider a conventional loan. Instead, he opted for a niche option that caters to a growing segment of Australia's population.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/islamic-financing-housing-and-interest-rates/106541806"
-    },
-    {
-      "published_datetime": "2026-05-16T19:13:37.000000Z",
-      "title": "What life was like before the NDIS and why mistakes can't be repeated",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f62f9fac545f81a256022ffa3580f78e?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=365&amp;width=862&amp;height=485"
-      },
-      "description": "The states are once again on the hook for disability services due to the Commonwealth's drastic NDIS cuts. Can the mistakes of the past be avoided?",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/will-ndis-cuts-lead-to-the-mistakes-of-the-past/106665656"
-    },
-    {
-      "published_datetime": "2026-05-17T06:35:20.000000Z",
-      "title": "Hobart military barracks slated for housing development",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/582fbbd555d6a2995140604f1a963a8a?impolicy=wcms_crop_resize&amp;cropH=816&amp;cropW=1450&amp;xPos=0&amp;yPos=229&amp;width=862&amp;height=485"
-      },
-      "description": "Up to 1,000 new homes could be built on the site of a military barracks in Hobart, under a state-federal redevelopment agreement.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/tas-derwent-barracks-land-sale/106689470"
-    },
-    {
-      "published_datetime": "2026-05-17T02:54:54.000000Z",
-      "title": "How Pokémon cards are fuelling crime in Melbourne",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fd279ace4f6d3f30ff5c8847a0063d4d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Rare Pokémon cards can sell for hundreds or even thousands of dollars, with a record sale of one Pikachu card going for over $22 million earlier this year. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/pokemon-cards-fuelling-crime-against-melbourne-businesses/106669090"
-    },
-    {
-      "published_datetime": "2026-05-16T22:24:10.000000Z",
-      "title": "The darkness of a Tasmanian town's night sky could be protected",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e785fadb8c3c637206e2f9ae08a86625?impolicy=wcms_crop_resize&amp;cropH=1123&amp;cropW=1997&amp;xPos=0&amp;yPos=126&amp;width=862&amp;height=485"
-      },
-      "description": "The northern Tasmanian town of Ross is working to protect its night sky, a years-long process that would see it formally recognised for its darkness and clarity.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/tasmania-ross-dark-sky-accreditation-tourism/106620330"
-    },
-    {
-      "published_datetime": "2026-05-17T14:51:29.000000Z",
-      "title": "Train driver charged after deadly crash in Thailand",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0e86f0a0323d0081fa0859f2721384ee?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Thai police have charged a train driver after a crash on Saturday in central Bangkok in which a freight train collided with a public bus killing eight people",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-18/train-driver-charged-after-deadly-crash-in-bangkok/106690154"
-    },
-    {
-      "published_datetime": "2026-05-16T20:33:06.000000Z",
-      "title": "China quietly turns off supply of world's most used industrial chemical",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f51c147dbbd9f693f9b2f36c515295fa?impolicy=wcms_crop_resize&amp;cropH=780&amp;cropW=1387&amp;xPos=0&amp;yPos=650&amp;width=862&amp;height=485"
-      },
-      "description": "Amid disruption from the Iran war, China has banned exports of sulphuric acid, a crucial component used to treat drinking water, refine petroleum and make batteries, clothing and phosphate fertilisers.",
-      "page_content_url": "https://www.abc.net.au/news/rural/2026-05-17/china-turns-off-sulphuric-acid-supply/106682704"
     }
   ]
 }
