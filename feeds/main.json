@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/4ae39d81-c57c-4ee0-893b-bc946f456375",
+      "published_datetime": "2026-05-17T21:48:25.391181",
+      "title": "Saudi Arabia intercepts three drones from Iraqi airspace",
+      "featured_image": {
+        "url": "https://www.azernews.az/region/255770.html",
+        "name": "Saudi Arabia intercepts over 60 drones amid rising Iran\u2013US tensions",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--jkx-uPpL--/t_limit/https://www.azernews.az/media/2026/03/16/drone_crash_site.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--rhoXFfkc--/t_thumbnail/https://www.azernews.az/media/2026/03/16/drone_crash_site.jpg"
+      },
+      "description": "Saudi Arabia said on Sunday that its air defenses intercepted and destroyed three drones after they entered the kingdom's territory from Iraqi airspace, marking the latest in a series of aerial threats that have tested Gulf security since the broader Iran conflict erupted earlier this year.\n\nDefense Ministry spokesman Major General Turki Al-Maliki said the kingdom \"would take the necessary operational measures to respond to any attempt to violate its sovereignty and security\" and vowed to ensure the safety of citizens and residents on Saudi territory, according to Arab News.[1]",
+      "audio_url": "",
+      "url": "saudi-arabia-intercepts-three-5na1oIUNTmCryIG1QQYQag",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-17T21:08:16.000000Z",
       "title": "Live: No Walsh for Queensland as Blues coach accidentally lists former Maroon",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/b88b6859-a853-4127-b2ba-8f4b0cece86f",
-      "published_datetime": "2026-05-15T15:26:31.252039",
-      "title": "Iran seizes floating armory near Strait of Hormuz",
-      "featured_image": {
-        "url": "https://www.yahoo.com/news/articles/iran-tightens-control-hormuz-us-044134549.html",
-        "name": "Iran seizes vessel in Strait of Hormuz, defying US naval superiority",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--syiLK8Qk--/t_limit/https://s.yimg.com/ny/api/res/1.2/kt0E5z8iJXlwzqd.5T7T6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/reuters.com/14b1ed1dd67566d1ebe3891dd06487e3",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--S0ocx3ub--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/kt0E5z8iJXlwzqd.5T7T6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://media.zenfs.com/en/reuters.com/14b1ed1dd67566d1ebe3891dd06487e3"
-      },
-      "description": "Iranian forces boarded and seized a vessel operating as a floating armory in the Gulf of Oman on Thursday, diverting it toward Iranian territorial waters in a move that adds a new layer of tension to an already volatile maritime corridor.\n\nThe United Kingdom Maritime Trade Operations (UKMTO), a British military-linked maritime monitoring agency, reported that the vessel was boarded and \"taken by unauthorized personnel\" while anchored about 38 nautical miles northeast of Fujairah, a key oil export terminal in the United Arab Emirates. Maritime security consultancy Vanguard Tech subsequently identified the ship as the Honduras-flagged Hui Chuan, a fishing support vessel that had been operating as a floating armory \u2014 a ship used to store weapons for private security companies that protect commercial vessels from pirate attacks.[1][2][3]",
-      "audio_url": "",
-      "url": "iran-seizes-floating-armory-ne-qfFA60xiTIy5zKr8MVQgow",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-17T22:43:45.457079"
+  "merged_at": "2026-05-17T22:57:54.718078"
 }
