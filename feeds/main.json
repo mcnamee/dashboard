@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-17T13:53:44.000000Z",
+      "title": "Ukraine launches massive drone wave against Russia, killing four",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a7d6aa6ac98052410b411bdcdc18cfc8?impolicy=wcms_crop_resize&amp;cropH=563&amp;cropW=1000&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
+      },
+      "description": "Ukraine's President Volodymyr Zelenskyy said the attacks were justified as \"responses to Russia's prolongation of the war and its attacks on our cities and communities\", two days after Russian strikes on Kyiv killed 24.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-17/ukraine-drone-strikes-moscow-belgorod-regions/106690152"
+    },
+    {
       "published_datetime": "2026-05-17T06:45:47.000000Z",
       "title": "Protesters march at Nakba Day rallies around Australia",
       "featured_image": {
@@ -35,15 +44,6 @@
       },
       "description": "West Coast surges to a third victory of the season, defeating GWS by 17 points while St Kilda and Fremantle also enjoy Sunday wins.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-17/afl-r10-bombers-dockers-saints-tigers-eagles-giants-live-blog/106689516"
-    },
-    {
-      "published_datetime": "2026-05-17T02:19:14.000000Z",
-      "title": "Qantas plane diverted after passenger allegedly bites flight attendant",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98a8cdc0b9d1d124d762fc2e2affccf0?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Fellow passengers are believed to have assisted after a flight attendant was allegedly bitten on plane travelling between Melbourne and the US, with the plane diverted to Tahiti.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-17/qantas-plane-diverted-passenger-allegedly-bites-flight-attendant/106689164"
     },
     {
       "published_datetime": "2026-05-17T01:28:53.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-17T12:57:58.593356"
+  "merged_at": "2026-05-17T14:24:37.243227"
 }
