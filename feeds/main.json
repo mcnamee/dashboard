@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/401b8753-8c31-46c3-82e5-c78970ffbbe0",
+      "published_datetime": "2026-05-18T13:44:10.225927",
+      "title": "Pakistan shares revised Iran peace proposal with US amid stalled talks",
+      "featured_image": {
+        "url": "https://www.aol.com/articles/revised-iranian-proposal-end-war-080447000.html",
+        "name": "Revised Iranian proposal to end war shared with US, Pakistani ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--97VMCBZP--/t_limit/https://s.yimg.com/lo/mysterio/api/31A64AACA13B298D116D09F38F9EAFDE02FB949764BFD6E60A1B7B71592B7157/subgraphmysterio/resizefill_w800_h533%3Bquality_80%3Bformat_webp/https:%252F%252Fmedia.zenfs.com%252Fen%252Freuters.com%252F4099194f53ed5956243c4ca8b404eb68",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Trt3-zFo--/t_thumbnail/https://s.yimg.com/lo/mysterio/api/31A64AACA13B298D116D09F38F9EAFDE02FB949764BFD6E60A1B7B71592B7157/subgraphmysterio/resizefill_w800_h533%3Bquality_80%3Bformat_webp/https:%252F%252Fmedia.zenfs.com%252Fen%252Freuters.com%252F4099194f53ed5956243c4ca8b404eb68"
+      },
+      "description": "Pakistan shared a revised Iranian proposal with the United States on Sunday night aimed at ending the conflict in the Middle East, a Pakistani source told Reuters on Monday, even as peace talks appeared to remain stalled.[1][2]\n\n\"We don't have much time,\" the source said when asked whether it would take time to close gaps between the two sides, adding that both countries \"keep changing their goalposts\".[1]",
+      "audio_url": "",
+      "url": "pakistan-shares-revised-iran-p-zGVT2Ex2TRmeTHRYmuFL4Q",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-18T12:36:54.000000Z",
       "title": "Hantavirus-hit cruise ship docks for disinfection",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/08bbc789-5266-47ed-9cd6-b20c11e5bc0a",
-      "published_datetime": "2026-05-15T16:36:19.304647",
-      "title": "China declines Nvidia H200 chips despite US clearance, Trump says",
-      "featured_image": {
-        "url": "https://www.axios.com/2025/12/08/trump-nvidia-200-chips",
-        "name": "Trump: Nvidia can sell H200 chips to China for 25% U.S. share",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--YOiNZNJD--/t_limit/https://images.axios.com/CsXHe1_7MPxe4YE64exntB9eIKI%3D/0x90:6000x3465/1920x1080/2025/12/08/1765231205599.jpeg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--8uuvr5kR--/t_thumbnail/https://images.axios.com/CsXHe1_7MPxe4YE64exntB9eIKI%3D/0x90:6000x3465/1920x1080/2025/12/08/1765231205599.jpeg"
-      },
-      "description": "Speaking to reporters aboard Air Force One as he returned from a state visit to Beijing, President Donald Trump said on Thursday that China has so far declined to purchase Nvidia H200 artificial intelligence chips, even though Washington has approved their sale. Trump said the issue \"did come up\" during his meetings with Chinese President Xi Jinping but that Beijing \"chose not to\" buy the chips because it \"wants to try and develop their own\" domestic alternatives.[1]\n\nThe remarks came a day after Reuters reported that the U.S. Commerce Department had cleared roughly 10 Chinese companies \u2014 including Alibaba, Tencent, ByteDance, and JD.com \u2014 to purchase H200 chips, with distributors Lenovo and Foxconn also approved to handle sales. Under the licensing terms, each approved customer may buy up to 75,000 chips, either directly from Nvidia or through authorized intermediaries. Yet not a single delivery has taken place.[2][3]",
-      "audio_url": "",
-      "url": "china-declines-nvidia-h200-chi-9d89bp2BSxSAvGTS73GQIg",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-18T14:28:53.750209"
+  "merged_at": "2026-05-18T14:35:06.676855"
 }
