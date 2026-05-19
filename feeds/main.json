@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-19T11:54:06.000000Z",
+      "title": "Son arrested in Spain over billionaire fashion tycoon father's deadly 100m cliff fall",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/530c428299b3fef9968b2d3e876d8ed3?impolicy=wcms_crop_resize&amp;cropH=1478&amp;cropW=2627&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
+      },
+      "description": "A family spokesperson confirmed Jonathan Andic was being questioned by investigators. His father, Isak Andic, died in December 2024.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-19/police-in-spain-detain-mango-tycoon-s-son-in-death-investigation/106699132"
+    },
+    {
+      "published_datetime": "2026-05-19T11:07:24.000000Z",
+      "title": "Australia is wasting $1 billion on car parks nobody uses, report finds",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2a56f2c04f3c7627a02b78d6551b9880?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=460&amp;width=862&amp;height=485"
+      },
+      "description": "Australia is wasting more than $1 billion each year building off-street car parks that end up sitting unused and unwanted, a Grattan report has found.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-19/grattan-institute-calls-for-abolition-of-parking-minimums/106698234"
+    },
+    {
       "published_datetime": "2026-05-19T10:13:51.000000Z",
       "title": "Two Italian divers' bodies recovered from underwater cave",
       "featured_image": {
@@ -37,15 +55,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-19/planned-upgrades-to-collins-class-submarines-scaled-back/106698460"
     },
     {
-      "published_datetime": "2026-05-19T05:54:03.000000Z",
-      "title": "Top BOM exec who led bungled $96M website revamp departs role",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/22aa02c8bb11a4bfa7917803c11f8b78?impolicy=wcms_crop_resize&amp;cropH=402&amp;cropW=715&amp;xPos=33&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Peter Stone was acting CEO when the BOM launched its new website, which was widely criticised for its costs and poor design.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-19/bureau-of-meteorology-executive-peter-stone-set-to-resign/106697230"
-    },
-    {
       "published_datetime": "2026-05-19T05:19:17.000000Z",
       "title": "RBA warns Australia risks slipping into '1990s recession' as oil shock mounts",
       "featured_image": {
@@ -80,15 +89,6 @@
       },
       "description": "The 47-year-old has faced court charged with what police describe as the \"particularly violent\" murder of his wife and sons in Sydney's south-west.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-19/campbelltown-murder-wife-and-sons-man-faces-court/106695588"
-    },
-    {
-      "published_datetime": "2026-05-18T23:57:57.000000Z",
-      "title": "Xi to welcome Putin for visit days after hosting Trump",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/804dec7574c87b083401402ae7b04871?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=217&amp;width=862&amp;height=485"
-      },
-      "description": "While this meeting comes just days after Beijing hosted the US president, the Kremlin insists there is \"no correlation\" between the visits.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-19/xi-to-host-putin-for-state-visit-in-beijing/106694592"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/618c62eb-231c-4adf-b73d-bb62afad4cf7",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-19T10:33:00.446269"
+  "merged_at": "2026-05-19T13:50:07.769545"
 }
