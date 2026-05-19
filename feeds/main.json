@@ -1,22 +1,88 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-19T19:19:36.000000Z",
+      "title": "Why is there no vaccine for this Ebola outbreak?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98268821ab74ce06f1404160c3685227?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The latest Ebola outbreak is caused by a strain of virus discovered nearly two decades ago, yet there is no vaccine. So what does this mean for people affected? And can vaccines be fast-tracked?",
+      "page_content_url": "https://www.abc.net.au/news/health/2026-05-20/ebola-virus-science-vaccine-explainer/106692674"
+    },
+    {
+      "published_datetime": "2026-05-19T19:00:00.000000Z",
+      "title": "Viral memes trying 'to catch fire on the internet' in AI Albo campaign",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d149c07417daf0d5cb5226fedfd4f8fe?impolicy=wcms_crop_resize&amp;cropH=381&amp;cropW=677&amp;xPos=0&amp;yPos=95&amp;width=862&amp;height=485"
+      },
+      "description": "One startup founder who helped spread viral memes about capital gains tax reforms says the campaign was aimed at attracting attention after the budget, and not necessarily focused on accuracy.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-20/small-business-start-ups-go-viral-with-ai-albo-cgt-posts/106695742"
+    },
+    {
+      "published_datetime": "2026-05-19T18:57:52.000000Z",
+      "title": "Vanuatu accuses Australia and China of 'undermining' it",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5b77bd4593493cdd19eb759a04be3e4d?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=150&amp;width=862&amp;height=485"
+      },
+      "description": "Jotham Napat has confirmed Vanuatu has agreed to two pacts with both countries, but is not happy with either party.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-20/vanuatu-agrees-to-pacts-with-china-and-australia/106698788"
+    },
+    {
+      "published_datetime": "2026-05-19T18:54:59.000000Z",
+      "title": "Life inside one of the world's most dangerous waterways",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef9f6177360a27cff9f443a735e2a226?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Before rising conflict pushed the Strait of Hormuz into the spotlight as a choke point vital to economies globally, tourism transformed women's lives.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-20/people-of-strait-of-hormuz-iran-war-women-and-culture/106679912"
+    },
+    {
+      "published_datetime": "2026-05-19T18:51:33.000000Z",
+      "title": "Labor walks tightrope as tax overhaul alarms startups and investors",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f21caf1a66fd0d370abc1ab6dd2d9189?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Labor MPs are gearing up for a hard sell on the impact of the federal government's tax changes on some small businesses, trusts and shares, despite many reporting \"positive\" feedback on housing reforms.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-20/labor-albanese-tax-overhaul-alarms-startups-investors/106698988"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dd149051-a3f0-4f7f-a64a-0bc18087456c",
+      "published_datetime": "2026-05-19T16:50:11.021223",
+      "title": "Trump says US may strike Iran again within days",
+      "featured_image": {
+        "url": "https://www.aljazeera.com/news/2025/6/29/trump-reiterates-iran-nuclear-talking-points-despite-swirling-questions",
+        "name": "Trump reiterates Iran nuclear talking points despite swirling questions",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--D-xvonNW--/t_limit/https://www.aljazeera.com/wp-content/uploads/2025/06/AP25178616099230-1751214787.jpg%3Fresize%3D770%252C513%26quality%3D80",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--xx6MNBLR--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2025/06/AP25178616099230-1751214787.jpg%3Fresize%3D770%252C513%26quality%3D80"
+      },
+      "description": "President Donald Trump said on Tuesday that the United States may need to attack Iran again, revealing he was just an hour away from ordering a new strike before he postponed the operation. The remarks came a day after Trump called off what he described as a \"very major attack\" that had been scheduled for Tuesday, at the request of Gulf allies who said diplomatic negotiations were making progress.",
+      "audio_url": "",
+      "url": "trump-says-us-may-strike-iran-4JfOg1nBQ0iFRh.6SMMZtA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-19T16:35:13.000000Z",
       "title": "Putin lands in China for meeting with 'dear friend' Xi",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40a55c6226af1521ea836a8f3e77ee1c?impolicy=wcms_crop_resize&amp;cropH=1331&amp;cropW=2366&amp;xPos=0&amp;yPos=33&amp;width=862&amp;height=485"
       },
-      "description": "Russian President Vladimir Putin smiled as he greeted Chinese Foreign Minister Wang Yi at the airport in Beijing.",
+      "description": "Russian President Vladimir Putin smiles as he greets Chinese Foreign Minister Wang Yi at the airport in Beijing.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-20/vladimir-putin-lands-in-china/106699092"
     },
     {
-      "published_datetime": "2026-05-19T16:12:31.000000Z",
-      "title": "Far-right Israeli minister accuses ICC of making 'secret' request to arrest him",
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/37ad719c-2c33-48be-91fd-b0c8fa026abf",
+      "published_datetime": "2026-05-19T16:28:19.910491",
+      "title": "NATO weighs naval mission in Hormuz as strait nears four months of closure",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/321a3e927164bac42eb296e2a986aec6?impolicy=wcms_crop_resize&amp;cropH=1529&amp;cropW=2718&amp;xPos=0&amp;yPos=5&amp;width=862&amp;height=485"
+        "url": "https://www.bloomberg.com/news/articles/2026-05-10/uk-france-to-host-multinational-meeting-on-hormuz-naval-mission",
+        "name": "Countries to Meet on Hormuz Naval Mission Led by UK, France",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--VrX2yOWb--/t_limit/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifT.hGqlvkEc/v0/1200x800.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--f7Z7h5X---/t_thumbnail/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifT.hGqlvkEc/v0/1200x800.jpg"
       },
-      "description": "Reports have been circulating that the ICC is preparing to issue warrants against Israel's far-right finance minister, Bezalel Smotrich.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-20/smotrich-icc-arrest-warrant/106699310"
+      "description": "NATO is actively discussing a potential naval deployment to help secure commercial shipping through the Strait of Hormuz if the waterway remains blocked into early July, Bloomberg reported on Tuesday, citing a senior alliance official. The discussions mark a shift for the alliance, which earlier this year refused to participate in the U.S. blockade of Iranian ports but now faces mounting pressure as the disruption to one of the world's most critical shipping routes approaches its fourth month.[1]",
+      "audio_url": "",
+      "url": "nato-weighs-naval-mission-in-h-i6Wyd2djTiiX_BRGBeTmYw",
+      "partition_name": "partition1"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/2f195a01-8745-4301-add2-e78199068a19",
@@ -108,8 +174,17 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2a56f2c04f3c7627a02b78d6551b9880?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=460&amp;width=862&amp;height=485"
       },
-      "description": "Australia is wasting more than $1 billion each year building off-street car parks that end up sitting unused and unwanted, a Grattan report has found.",
+      "description": "Australia is wasting more than $1 billion each year building off-street car parks that end up unused and unwanted, a Grattan report has found.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-19/grattan-institute-calls-for-abolition-of-parking-minimums/106698234"
+    },
+    {
+      "published_datetime": "2026-05-19T10:13:51.000000Z",
+      "title": "Two Italian divers' bodies recovered from underwater cave",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e82481b162856ccb1ac5a19aa42351b?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=104&amp;width=862&amp;height=485"
+      },
+      "description": "Finnish divers recovered the bodies after they were located deep inside an underwater cave in the Maldives.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-19/two-of-four-italian-divers-bodies-recovered-from-underwater-cave/106698966"
     },
     {
       "published_datetime": "2026-05-19T08:54:31.000000Z",
@@ -117,53 +192,8 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/abbef17a50ad15eead1c9fa4311a4b91?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=19&amp;width=862&amp;height=485"
       },
-      "description": "Peter Hollingworth was the first and only cleric to serve as governor-general, before his resignation in 2003 amid his handling of historical church abuse scandals.",
+      "description": "Peter Hollingworth was the first and only cleric to serve as governor-general, before his resignation in 2003 amid his handling of historical church abuse scandals.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-19/former-governor-general-peter-hollingworth-dies/106554086"
-    },
-    {
-      "published_datetime": "2026-05-19T07:17:48.000000Z",
-      "title": "Planned upgrades to ageing submarine fleet scaled back",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aa1a771be4fa3b62a762663496f34a14?impolicy=wcms_crop_resize&amp;cropH=2025&amp;cropW=3600&amp;xPos=0&amp;yPos=188&amp;width=862&amp;height=485"
-      },
-      "description": "A massive program of upgrades to Australia's aging fleet of Collins Class submarines, aimed at keeping them in the water a decade longer, is being scaled back.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-19/planned-upgrades-to-collins-class-submarines-scaled-back/106698460"
-    },
-    {
-      "published_datetime": "2026-05-19T05:19:17.000000Z",
-      "title": "RBA warns Australia risks slipping into '1990s recession' as oil shock mounts",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/53d9e4665c2b8526f487b45d5ceab0b1?impolicy=wcms_crop_resize&amp;cropH=1078&amp;cropW=1916&amp;xPos=4&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Reserve Bank is growing increasingly anxious about price pressures building in the economy and its chief economist has raised the risk of a recession in post-budget remarks.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-19/reserve-bank-sarah-hunter-mentions-recession-inflation/106695446"
-    },
-    {
-      "published_datetime": "2026-05-19T05:11:56.000000Z",
-      "title": "Ex-GP charged with 148 counts of rape and sexual assault",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/abf972f68fdc17b871b593fe29ae5b1e?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=5&amp;width=862&amp;height=485"
-      },
-      "description": "A former Brisbane doctor has been charged with 148 counts of rape and sexual assault following an extensive police investigation.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-19/gp-stellios-theodoros-charges-148-counts-rape-sexual-assault/106661536"
-    },
-    {
-      "published_datetime": "2026-05-19T04:57:03.000000Z",
-      "title": "ARIA winner TISM causes $18,000 in damage to Sydney Opera House",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/791483ee9a080708aee496ee9cbd50b1?impolicy=wcms_crop_resize&amp;cropH=865&amp;cropW=1537&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The anarchic, ARIA-winning group has been hit with a hefty fine by the Sydney Opera House before its first national tour in more than 30 years.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-19/tism-sydney-opera-house-damage-18000-fine-national-tour/106696580"
-    },
-    {
-      "published_datetime": "2026-05-19T01:24:11.000000Z",
-      "title": "Man accused of killing wife and two children in Sydney home fronts court",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/61a623aa0e3a0cb1113f75d744722e40?impolicy=wcms_crop_resize&amp;cropH=2205&amp;cropW=3919&amp;xPos=115&amp;yPos=616&amp;width=862&amp;height=485"
-      },
-      "description": "The 47-year-old has faced court charged with what police describe as the \"particularly violent\" murder of his wife and sons in Sydney's south-west.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-19/campbelltown-murder-wife-and-sons-man-faces-court/106695588"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/618c62eb-231c-4adf-b73d-bb62afad4cf7",
@@ -208,36 +238,6 @@
       "description": "A federal jury in Oakland, California, sided with OpenAI and Sam Altman on Monday, rejecting Elon Musk's lawsuit alleging the artificial intelligence company betrayed its nonprofit mission when it shifted toward a for-profit model. The nine-member jury found that Musk's case was filed too late, ending the closely watched legal battle that had threatened to upend one of the most valuable private companies in the world.",
       "audio_url": "",
       "url": "jury-sides-with-openai-rejects-Wp_xV0WuTJ2Ijaz4Ubz5WQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/484ef6c8-45da-478a-b7c6-ef97404ab0a5",
-      "published_datetime": "2026-05-18T15:10:58.974194",
-      "title": "Pakistan sends 8,000 troops, jets to Saudi Arabia",
-      "featured_image": {
-        "url": "https://www.trtworld.com/article/10abb9368b4d",
-        "name": "Pakistan sends fighter jets to Saudi Arabia under defence pact - TRT World",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--dv6lOorf--/t_limit/https://d2udx5iz3h7s4h.cloudfront.net/2025/3/23/86015055-e124-4752-a589-dd0d2c49d03a/image/86015055-e124-4752-a589-dd0d2c49d03a.jpg%3Fwidth%3D1440%26format%3Dwebp%26quality%3D80",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--YP9jIytU--/t_thumbnail/https://d2udx5iz3h7s4h.cloudfront.net/2025/3/23/86015055-e124-4752-a589-dd0d2c49d03a/image/86015055-e124-4752-a589-dd0d2c49d03a.jpg%3Fwidth%3D1440%26format%3Dwebp%26quality%3D80"
-      },
-      "description": "Pakistan has deployed approximately 8,000 troops, a squadron of around 16 JF-17 fighter jets, two drone squadrons, and a Chinese-made HQ-9 air defense system to Saudi Arabia under a confidential mutual defense agreement, Reuters exclusively reported on Sunday. The deployment, described by five sources as a \"combat-capable force,\" marks the largest Pakistani military commitment to the Gulf kingdom since the 1991 war against Iraq and comes even as Islamabad serves as the principal mediator in the ongoing Iran war.[1][2]",
-      "audio_url": "",
-      "url": "pakistan-sends-8000-troops-jet-ys4OnuliTFyJvpVPocrMUA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6bbd643f-ed15-4a78-97b5-238505099a44",
-      "published_datetime": "2026-05-18T14:25:02.091457",
-      "title": "Iran launches Strait of Hormuz transit authority as US reinsurance program draws zero takers",
-      "featured_image": {
-        "url": "https://economictimes.com/news/international/world-news/iran-officially-announces-new-body-to-manage-strait-of-hormuz-top-security-council/articleshow/131174028.cms",
-        "name": "Iran officially announces new body to manage Strait of Hormuz: top security  council - The Economic Times",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--hJ_gZvxh--/t_limit/https://img.etimg.com/thumb/width-1200%2Cheight-900%2Cimgsize-224980%2Cresizemode-75%2Cmsid-131174028/news/international/world-news/iran-officially-announces-new-body-to-manage-strait-of-hormuz-top-security-council.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--RyOpa0X1--/t_thumbnail/https://img.etimg.com/thumb/width-1200%2Cheight-900%2Cimgsize-224980%2Cresizemode-75%2Cmsid-131174028/news/international/world-news/iran-officially-announces-new-body-to-manage-strait-of-hormuz-top-security-council.jpg"
-      },
-      "description": "The Trump administration's flagship effort to restart commercial shipping through the Strait of Hormuz \u2014 a $40 billion government-backed reinsurance program \u2014 has failed to attract a single customer, according to industry reports and insurer statements, even as Iran moves to assert sovereign control over the waterway with its own transit authority and a cryptocurrency-backed insurance scheme.",
-      "audio_url": "",
-      "url": "iran-launches-strait-of-hormuz-oSNSnYh8TheggdDGbxDkOA",
       "partition_name": "partition1"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-19T18:54:00.793616"
+  "merged_at": "2026-05-19T20:24:46.940130"
 }
