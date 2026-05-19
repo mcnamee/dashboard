@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-19T16:35:13.000000Z",
+      "title": "Putin lands in China for meeting with 'dear friend' Xi",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40a55c6226af1521ea836a8f3e77ee1c?impolicy=wcms_crop_resize&amp;cropH=1331&amp;cropW=2366&amp;xPos=0&amp;yPos=33&amp;width=862&amp;height=485"
+      },
+      "description": "Russian President Vladimir Putin smiled as he greeted Chinese Foreign Minister Wang Yi at the airport in Beijing.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-20/vladimir-putin-lands-in-china/106699092"
+    },
+    {
       "published_datetime": "2026-05-19T16:12:31.000000Z",
       "title": "Far-right Israeli minister accuses ICC of making 'secret' request to arrest him",
       "featured_image": {
@@ -112,15 +121,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-19/former-governor-general-peter-hollingworth-dies/106554086"
     },
     {
-      "published_datetime": "2026-05-19T07:45:53.000000Z",
-      "title": "Undersea volcanic eruption visible from space",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1c8f6a0c2fd079c44cd404dd48cdaa7?impolicy=wcms_crop_resize&amp;cropH=760&amp;cropW=1352&amp;xPos=93&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Titan Ridge Volcano is erupting in the Bismarck Sea, sending ash and smoke into the sky and prompting authorities to warn of possible tsunamis in the area.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-19/papua-new-guinea-volcanic-eruption-bismarck-sea/106697688"
-    },
-    {
       "published_datetime": "2026-05-19T07:17:48.000000Z",
       "title": "Planned upgrades to ageing submarine fleet scaled back",
       "featured_image": {
@@ -148,13 +148,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-19/gp-stellios-theodoros-charges-148-counts-rape-sexual-assault/106661536"
     },
     {
-      "published_datetime": "2026-05-19T02:14:50.000000Z",
-      "title": "Apology for 'appalling' display of autopsy body parts without consent",
+      "published_datetime": "2026-05-19T04:57:03.000000Z",
+      "title": "ARIA winner TISM causes $18,000 in damage to Sydney Opera House",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/891daaa6dad5069244d683c8da7f4898?impolicy=wcms_crop_resize&amp;cropH=1302&amp;cropW=2315&amp;xPos=0&amp;yPos=424&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/791483ee9a080708aee496ee9cbd50b1?impolicy=wcms_crop_resize&amp;cropH=865&amp;cropW=1537&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "A formal apology is given in Tasmania's parliament for the past practice of taking human specimens from autopsies and displaying them in a museum without the knowledge of family members.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-19/tas-parliament-apologises-for-body-parts-in-museum/106690890"
+      "description": "The anarchic, ARIA-winning group has been hit with a hefty fine by the Sydney Opera House before its first national tour in more than 30 years.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-19/tism-sydney-opera-house-damage-18000-fine-national-tour/106696580"
     },
     {
       "published_datetime": "2026-05-19T01:24:11.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-19T16:45:17.968133"
+  "merged_at": "2026-05-19T18:54:00.793616"
 }
