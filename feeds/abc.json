@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-21T14:09:33.000000Z",
+      "title": "Another group of Australians with IS-links leave camp in Syria for Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/035ef43479cd64762fe53dc552e551e2?impolicy=wcms_crop_resize&amp;cropH=1230&amp;cropW=2187&amp;xPos=50&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The ABC has seen buses carrying the group which left the Al Roj camp on Thursday afternoon local time.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-22/australian-women-leave-syrian-camp-for-australia/106709048"
+    },
+    {
       "published_datetime": "2026-05-21T08:52:41.000000Z",
       "title": "Father of flotilla detainee makes serious allegations against Israel during live interview",
       "featured_image": {
@@ -46,13 +55,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-21/qld-minister-tim-mander-stands-down/106708334"
     },
     {
-      "published_datetime": "2026-05-21T08:41:21.000000Z",
-      "title": "Hanson proposes tax break for drilling alongside new gas royalty",
+      "published_datetime": "2026-05-21T14:30:12.000000Z",
+      "title": "Air France and Airbus fined for 2009 crash that killed 228 people",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/17ae5881606522df2ecb48b78c9dabff?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7ba8eba91cf517f7e460d5199e28de3b?impolicy=wcms_crop_resize&amp;cropH=2499&amp;cropW=4443&amp;xPos=0&amp;yPos=25&amp;width=862&amp;height=485"
       },
-      "description": "The One Nation leader wants a flat royalty on the production of new gas projects.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-21/one-nation-proposes-new-tax-break-for-drilling/106707250"
+      "description": "France's national airline Air France and Airbus have both been found guilty of involuntary manslaughter over a 2009 crash that killed 228 people.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-22/air-france-airbus-involuntary-manslaughter/106708974"
+    },
+    {
+      "published_datetime": "2026-05-20T18:55:24.000000Z",
+      "title": "What is a super El Niño?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8064f02235b5ddf41b91ea853a83d6d9?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=400&amp;width=862&amp;height=485"
+      },
+      "description": "Forecasts are predicting that a \"super\" El Niño could form later this year. The severity of these weather patterns tends to depend on ocean temperatures, which we know are rising. So, there are fears this could be the strongest El Niño ever. But what exactly is that going to look like for Australia and the world?",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-21/bom-predicting-unusually-warm-winter-for-australia/106698090"
     },
     {
       "published_datetime": "2026-05-21T08:42:55.000000Z",
@@ -73,13 +91,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-21/afl-round-11-hawthorn-hawks-adelaide-crows-live-blog/106708636"
     },
     {
-      "published_datetime": "2026-05-20T18:55:24.000000Z",
-      "title": "What is a super El Niño?",
+      "published_datetime": "2026-05-21T13:15:00.000000Z",
+      "title": "The Mushroom Tapes, Mad Mabel and Memorial Days triumph at book awards",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8064f02235b5ddf41b91ea853a83d6d9?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=400&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/78710a07d6ab3e2af5735f1456f9aeab?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=513&amp;width=862&amp;height=485"
       },
-      "description": "Forecasts are predicting that a \"super\" El Niño could form later this year. The severity of these weather patterns tends to depend on ocean temperatures, which we know are rising. So, there are fears this could be the strongest El Niño ever. But what exactly is that going to look like for Australia and the world?",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-21/bom-predicting-unusually-warm-winter-for-australia/106698090"
+      "description": "In May 2025, Helen Garner, Chloe Hooper and Sarah Krasnostein, three literary true-crime writers, headed to Erin Patterson's trial. The resulting book just won an Australian Book Industry Award.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-21/australian-book-industry-awards-abias-mushroom-tapes-mad-mabel/106692880"
+    },
+    {
+      "published_datetime": "2026-05-21T08:41:21.000000Z",
+      "title": "Hanson proposes tax break for drilling alongside new gas royalty",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/17ae5881606522df2ecb48b78c9dabff?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "The One Nation leader wants a flat royalty on the production of new gas projects.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-21/one-nation-proposes-new-tax-break-for-drilling/106707250"
     },
     {
       "published_datetime": "2026-05-21T05:40:26.000000Z",
@@ -91,6 +118,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-21/coles-investigating-melbourne-woman-apple-gift-card-claims/106705738"
     },
     {
+      "published_datetime": "2026-05-21T03:26:14.000000Z",
+      "title": "Kylie Minogue doco reveals second cancer diagnosis, IVF struggles, and more",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8f8649f0e66bb1400a9cfe2c69286297?impolicy=wcms_crop_resize&amp;cropH=2727&amp;cropW=4848&amp;xPos=0&amp;yPos=407&amp;width=862&amp;height=485"
+      },
+      "description": "\"Our Kylie\" gets candid in the three-part Netflix docuseries, grieving over IVF struggles, Michael Hutchence, and revealing she was diagnosed with cancer a second time in 2021.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-21/kylie-minogue-netflix-documentary-cancer-ivf-michael-hutchence/106705572"
+    },
+    {
       "published_datetime": "2026-05-21T08:41:26.000000Z",
       "title": "'Hard to achieve, in our opinion': Ratings agency unimpressed with Tas budget",
       "featured_image": {
@@ -98,15 +134,6 @@
       },
       "description": "Credit rating agency S&amp;P Global says Tasmania's budget repair ambitions face \"high execution risk\". The government aims to save $1.5 billion through cuts.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-21/tas-state-budget-2026-ratings-agency-reactions/106695398"
-    },
-    {
-      "published_datetime": "2026-05-21T13:15:00.000000Z",
-      "title": "The Mushroom Tapes, Mad Mabel and Memorial Days triumph at book awards",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/78710a07d6ab3e2af5735f1456f9aeab?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=513&amp;width=862&amp;height=485"
-      },
-      "description": "In May 2025, Helen Garner, Chloe Hooper and Sarah Krasnostein, three literary true-crime writers, headed to Erin Patterson's trial. The resulting book just won an Australian Book Industry Award.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-21/australian-book-industry-awards-abias-mushroom-tapes-mad-mabel/106692880"
     },
     {
       "published_datetime": "2026-05-21T03:09:46.000000Z",
@@ -118,6 +145,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-21/diphtheria-outbreak-federal-funding-immunisation/106704782"
     },
     {
+      "published_datetime": "2026-05-21T04:58:22.000000Z",
+      "title": "Arafura Rare Earths mine gets green light to challenge China's dominance",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c8a564d734280f07bb8c89c2b633281f?impolicy=wcms_crop_resize&amp;cropH=1079&amp;cropW=1918&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Arafura Rare Earths has announced its flagship project north of Alice Springs will go ahead, decades after it was first flagged as a prospect.  ",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-21/arafura-rare-earths-final-investment-decision/106705006"
+    },
+    {
       "published_datetime": "2026-05-21T01:54:50.000000Z",
       "title": "Economists rush to change interest rate forecasts as jobless rate jumps",
       "featured_image": {
@@ -125,15 +161,6 @@
       },
       "description": "All four major banks now expect the RBA to keep the cash rate on hold at its next meeting on June 16, as the unemployment rate spikes to 4.5 per cent.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-21/unemployment-rate-jumps-4-5-per-cent/106705576"
-    },
-    {
-      "published_datetime": "2026-05-21T03:26:14.000000Z",
-      "title": "Kylie Minogue doco reveals second cancer diagnosis, IVF struggles, and more",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8f8649f0e66bb1400a9cfe2c69286297?impolicy=wcms_crop_resize&amp;cropH=2727&amp;cropW=4848&amp;xPos=0&amp;yPos=407&amp;width=862&amp;height=485"
-      },
-      "description": "\"Our Kylie\" gets candid in the three-part Netflix docuseries, grieving over IVF struggles, Michael Hutchence, and revealing she was diagnosed with cancer a second time in 2021.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-21/kylie-minogue-netflix-documentary-cancer-ivf-michael-hutchence/106705572"
     },
     {
       "published_datetime": "2026-05-20T23:07:05.000000Z",
@@ -145,6 +172,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-21/broken-heart-syndrome-signs-symptoms-risk-factors/106669028"
     },
     {
+      "published_datetime": "2026-05-21T04:35:35.000000Z",
+      "title": "Israel supported Ben-Gvir's callousness, until it didn't",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/646226f4d9d58a5c1094218bf1cc01c9?impolicy=wcms_crop_resize&amp;cropH=676&amp;cropW=1202&amp;xPos=0&amp;yPos=737&amp;width=862&amp;height=485"
+      },
+      "description": "Benjamin Netanyahu has condemned a video of his national security minister taunting activists, including Australians, who have been detained. But it's the prime minister who allowed this behaviour to percolate.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-21/israel-ben-gvir-condemnation-of-flotilla-activists-treatment/106705168"
+    },
+    {
       "published_datetime": "2026-05-20T18:30:00.000000Z",
       "title": "Think you know music and film? Let's see how well you score in this quiz",
       "featured_image": {
@@ -152,15 +188,6 @@
       },
       "description": "From Mozart to Max Richter, can you pick the classical music in these iconic films?",
       "page_content_url": "https://www.abc.net.au/news/2026-05-21/quiz-can-you-pick-the-classical-music-in-these-movies/106697454"
-    },
-    {
-      "published_datetime": "2026-05-21T04:58:22.000000Z",
-      "title": "Arafura Rare Earths mine gets green light to challenge China's dominance",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c8a564d734280f07bb8c89c2b633281f?impolicy=wcms_crop_resize&amp;cropH=1079&amp;cropW=1918&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Arafura Rare Earths has announced its flagship project north of Alice Springs will go ahead, decades after it was first flagged as a prospect.  ",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-21/arafura-rare-earths-final-investment-decision/106705006"
     },
     {
       "published_datetime": "2026-05-21T07:06:02.000000Z",
@@ -181,15 +208,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-21/anti-doping-agency-drug-testing-illicit-peptides-boom/106693040"
     },
     {
-      "published_datetime": "2026-05-21T04:35:35.000000Z",
-      "title": "Israel supported Ben-Gvir's callousness, until it didn't",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/646226f4d9d58a5c1094218bf1cc01c9?impolicy=wcms_crop_resize&amp;cropH=676&amp;cropW=1202&amp;xPos=0&amp;yPos=737&amp;width=862&amp;height=485"
-      },
-      "description": "Benjamin Netanyahu has condemned a video of his national security minister taunting activists, including Australians, who have been detained. But it's the prime minister who allowed this behaviour to percolate.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-21/israel-ben-gvir-condemnation-of-flotilla-activists-treatment/106705168"
-    },
-    {
       "published_datetime": "2026-05-21T07:28:59.000000Z",
       "title": "Elon Musk could become world's first trillionaire as SpaceX files for largest IPO ever",
       "featured_image": {
@@ -199,15 +217,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-21/elon-musk-spacex-initial-public-offering-reveals-rocket-plans/106706028"
     },
     {
-      "published_datetime": "2026-05-21T05:53:51.000000Z",
-      "title": "Defence minister 'disappointed' by lawsuit over Darwin port ownership",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ca42565d5229bbe76dcfdd5ea5741389?impolicy=wcms_crop_resize&amp;cropH=1261&amp;cropW=2241&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Chinese-owned company Landbridge launched legal action earlier this year following a pledge by the Prime Minister to return the port to Australian hands. Defence Minister Richard Marles says the government will fight the suit and remained committed to finding a domestic buyer.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-21/defence-minister-disappointed-by-lawsuit-over-darwin-port/106706932"
-    },
-    {
       "published_datetime": "2026-05-21T05:39:47.000000Z",
       "title": "Female AFL creators say vile comments 'just one example of what we deal with'",
       "featured_image": {
@@ -215,15 +224,6 @@
       },
       "description": "A video circulated across social media of a group of men laughing about how one of them would \"beat the f***\" out of a group of female content creators. ",
       "page_content_url": "https://www.abc.net.au/news/2026-05-21/afl-blues-carlton-the-besties-the-jumper-punch-podcast/106706792"
-    },
-    {
-      "published_datetime": "2026-05-21T03:16:21.000000Z",
-      "title": "Australia backs landmark UN climate change ruling as others try to block it",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bb2978fab0711fa7b4b9d52441b2ce1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Australia joins 140 other countries in passing a major United Nations resolution backing a landmark legal ruling on climate change, despite efforts by the United States, Russia and Saudi Arabia to sink it.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-21/australia-backs-united-nations-climate-change-ruling/106705694"
     }
   ]
 }
