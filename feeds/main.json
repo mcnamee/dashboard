@@ -16,12 +16,21 @@
       "partition_name": "partition1"
     },
     {
+      "published_datetime": "2026-05-21T21:27:57.000000Z",
+      "title": "Live: ASX to climb, oil drops on US\u2013Iran deal hopes",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6871ec692ab78a7f74a484f9a9dff845?impolicy=wcms_crop_resize&amp;cropH=547&amp;cropW=973&amp;xPos=0&amp;yPos=82&amp;width=862&amp;height=485"
+      },
+      "description": "Australian markets are set to rise this morning, as oil falls on hopes of a diplomatic way out of the war in Iran. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-22/asx-markets-business-news-live-updates/106703430"
+    },
+    {
       "published_datetime": "2026-05-21T21:19:37.000000Z",
-      "title": "Live: Plibersek says second IS-linked group could face 'full force of the law'",
+      "title": "Live: Eleven Australian activists detained by Israel now in Istanbul, minister says",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b4f1ae9d60b8ca5e20aae503ab1462a3?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=200&amp;width=862&amp;height=485"
       },
-      "description": "Social Services Minister Tanya Plibersek says a group of Islamic State-linked Australians who have left a camp in Syria will face the \"full force of the law\" if they are suspected of committing crimes overseas. Follow live.\u00a0",
+      "description": "Social Services Minister Tanya Plibersek says 11 Australian activists who were aboard a flotilla to Gaza and were detained by Israel are in T\u00fcrkiye. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-22/federal-politics-live-blog-is-linked-group-may-be-prosecuted/106709642"
     },
     {
@@ -43,17 +52,8 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-22/snowy-hydro-executives-get-million-dollar-plus-in-bonus-pay/106704734"
     },
     {
-      "published_datetime": "2026-05-21T18:46:38.000000Z",
-      "title": "One Nation surfs wave as Labor defends budget",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85d7dfc41317442e9a0cf484cc05f34d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=412&amp;width=862&amp;height=485"
-      },
-      "description": "Before the budget, Anthony Albanese and Jim Chalmers knew they would be hit by criticism for its broken promises, but they underestimated the extent and ferocity of the backlash.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-22/one-nation-wave-albanese-labor-chalmers-budget-backlash/106692278"
-    },
-    {
       "published_datetime": "2026-05-21T18:44:44.000000Z",
-      "title": "Treasurer challenged to explain how capital gains tax changes will support productivity",
+      "title": "Chalmers asked to explain how he 'landed on 30 per cent' tax rate",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dc91213df9bfd09255a8b295b0586f7f?impolicy=wcms_crop_resize&amp;cropH=736&amp;cropW=1308&amp;xPos=573&amp;yPos=97&amp;width=862&amp;height=485"
       },
@@ -71,18 +71,18 @@
     },
     {
       "published_datetime": "2026-05-21T18:39:47.000000Z",
-      "title": "'It's not a secret': Inside the town where people don't exist",
+      "title": "'It's not a secret': Inside the town where half the people don't officially exist",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/781cfa9588fc40d8b3ffc582ff49f554?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
       },
-      "description": "In a community like no other, what happens when people aren't counted?\u00a0",
+      "description": "In a community like no other, what happens when people aren't counted? Welcome to the supposedly small country town with hidden houses and five Asian supermarkets.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-22/ghost-communities-of-robinvale-where-people-dont-exist-in-census/106572538"
     },
     {
       "published_datetime": "2026-05-21T18:34:05.000000Z",
       "title": "Inside the industrial-scale slave system run by Islamic State",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dcbc34b91c5ef8ed57dd5e34526ac6ec?impolicy=wcms_crop_resize&amp;cropH=393&amp;cropW=699&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f10801428a327c698aeb9e3edfba1c18?impolicy=wcms_crop_resize&amp;cropH=1856&amp;cropW=3300&amp;xPos=0&amp;yPos=43&amp;width=862&amp;height=485"
       },
       "description": "Australia is the latest country to prosecute its own citizens over Islamic State's system of Yazidi slavery, part of a growing global reckoning over the role some foreign women allegedly played in the atrocities.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-22/women-central-to-prosecutions-over-islamic-state-slavery/106664764"
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-21T22:12:34.751072"
+  "merged_at": "2026-05-21T23:52:51.805632"
 }
