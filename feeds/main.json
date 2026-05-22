@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-23/russia-vows-retaliation-on-deadly-student-dorm-attack/106713694"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/65a97c03-f445-4dc0-abde-f02cb94f3a7c",
+      "published_datetime": "2026-05-22T15:10:57.702770",
+      "title": "WHO upgrades Congo Ebola risk to 'very high' as cases surge",
+      "featured_image": {
+        "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4887x3256+0+0/resize/1600/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F40%2F50%2F29437dd2447cb7ae2b417ee2125d%2Fap26140529940548.jpg",
+        "name": "?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F40%2F50%2F29437dd2447cb7ae2b417ee2125d%2Fap26140529940548.jpg",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1779462403/url_uploads/webp_e2u6ts.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1779462403/url_uploads/webp_e2u6ts.jpg"
+      },
+      "description": "The World Health Organization on Friday upgraded its risk assessment for the Ebola outbreak in the Democratic Republic of Congo from \"high\" to \"very high\" at the national level, as the rapidly escalating epidemic now encompasses nearly 750 suspected cases and 177 suspected deaths.[1]\n\nWHO Director-General Tedros Adhanom Ghebreyesus said the outbreak is \"spreading rapidly\" and warned that the actual scale is likely far larger than official figures suggest. There are now 82 confirmed cases in the DRC along with seven confirmed fatalities, but Tedros indicated the true toll could exceed 1,000 infections, with cases significantly underreported for months before detection.[2][1]",
+      "audio_url": "",
+      "url": "who-upgrades-congo-ebola-risk-Z_gNZV11TJqFsEwGRY55Yg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-22T14:03:46.000000Z",
       "title": "Tax changes 'threaten to chill' record federal green energy support",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/65f68b75-215a-4c5b-bd69-bb7fa00a03c9",
-      "published_datetime": "2026-05-21T16:11:12.976262",
-      "title": "Lithuania confirms crashed drone was Ukrainian",
-      "featured_image": {
-        "url": "https://www.yahoo.com/news/articles/lithuanias-leaders-shelter-during-drone-105455039.html",
-        "name": "Lithuania's leaders take shelter during drone air alert",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--SjTfZZt1--/t_limit/https://s.yimg.com/ny/api/res/1.2/Ln4ryxvSlqeZPDb4sgRtGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/a52160ccef1987101002a3fdc8ec583d",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--ddyw64OW--/t_thumbnail/https://s.yimg.com/ny/api/res/1.2/Ln4ryxvSlqeZPDb4sgRtGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/a52160ccef1987101002a3fdc8ec583d"
-      },
-      "description": "A suspected drone entering Lithuanian airspace from Belarus on Wednesday triggered the first air alert in an EU and NATO capital to order civilian shelters since Russia's full-scale invasion of Ukraine in 2022, forcing President Gitanas Naus\u0117da, Prime Minister Inga Ruginien\u0117, and members of parliament into bunkers while Vilnius Airport suspended flights and train services were halted.[1][2][3]\n\nThe alert, sent to mobile phones at around 10:20 a.m. local time, read: \"Air raid alert! Go immediately to a shelter or a safe place, take care of your family members and wait for further instructions\". Within minutes, residents across the capital descended into basements and underground parking garages. \"I got dressed and went down to the basement,\" photographer Andrej Vasilenko told AFP. \"My child was at school and had gone down into a shelter, so I felt reassured. It was strange, but at the same time so many people in Ukraine have been living with this for four years\".[3]",
-      "audio_url": "",
-      "url": "lithuania-confirms-crashed-dro-gZqaLYk7QkqSBpUcRjDGLw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-22T16:15:19.204346"
+  "merged_at": "2026-05-22T17:12:45.061931"
 }
