@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-22T22:31:07.000000Z",
+      "title": "Black mould and broken toilets in 'dismal' government-owned homes",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a39fd891d5fb789bcd24d4ee5e0b2c18?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=517&amp;width=862&amp;height=485"
+      },
+      "description": "Bug infestations, walls covered in black mould and broken toilets are just some of the issues plaguing homes in Australia's most isolated communities, where the landlord is the state government.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-23/kalumburu-housing-government-owned-broken/106567340"
+    },
+    {
       "published_datetime": "2026-05-22T21:09:48.000000Z",
-      "title": "Does the Queensland premier have a leash on his own attack dog?",
+      "title": "Does Queensland's premier have his attack dog on a leash?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fedba8c3469c18d6f5b2aceefa4d1657?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
       },
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-05-22T20:59:57.000000Z",
-      "title": "Confused about Labor's tax changes? Here's what they really mean",
+      "title": "Nine charts that reveal who pays more under Labor's tax changes",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3829f9f1da7fad90022ee4729b6dcbe7?impolicy=wcms_crop_resize&amp;cropH=3188&amp;cropW=5668&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -20,7 +29,7 @@
     },
     {
       "published_datetime": "2026-05-22T20:04:18.000000Z",
-      "title": "Willie Rioli Jr opens up on AFL, racism, drugs and 'giving back'",
+      "title": "'Life is football' here but as a favourite son heads home, it needs help",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aee942e213f60b370d2e5a855bf12c4d?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -71,15 +80,6 @@
       },
       "description": "In 2009, Suzie Miller had a choice between becoming a magistrate in Australia or a residency at the National Theatre in London.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-23/the-interview-playright-suzie-miller-risky-path/106701766"
-    },
-    {
-      "published_datetime": "2026-05-22T19:00:00.000000Z",
-      "title": "Plastic waste collected in Sydney Harbour during Vivid festival rising",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e12fe61f245e7edc743e72cabe6dc565?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=397&amp;width=862&amp;height=485"
-      },
-      "description": "Data from floating rubbish bins near the Sydney CBD suggests there are higher levels of rubbish entering the water when major events such as Vivid are on.",
-      "page_content_url": "https://www.abc.net.au/news/science/2026-05-23/rubbish-sydney-harbour-aquatic-bins-jump-during-vivid-festival/106705448"
     },
     {
       "published_datetime": "2026-05-22T18:39:22.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-22T21:59:13.741602"
+  "merged_at": "2026-05-22T23:00:22.261186"
 }
