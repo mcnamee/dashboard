@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-23T11:35:17.000000Z",
+      "title": "Auckland makes A-League history with grand-final triumph over Sydney",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/48cecc75334ed8087a0f4707178858c8?impolicy=wcms_crop_resize&amp;cropH=2600&amp;cropW=4623&amp;xPos=0&amp;yPos=97&amp;width=862&amp;height=485"
+      },
+      "description": "Auckland has become the first side from New Zealand to win an A-League Men championship after downing competition heavyweight Sydney 1-0 in a cagey season decider.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-23/auckland-fc-wins-alm-championship-over-sydney-fc/106714666"
+    },
+    {
       "published_datetime": "2026-05-23T10:46:24.000000Z",
       "title": "'Pro-aspiration and pro-supply': PM defends tax changes at Labor conference",
       "featured_image": {
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-05-23T07:47:07.000000Z",
-      "title": "One Nation set to become federal opposition, poll predicts",
+      "title": "One Nation set to become federal opposition, poll forecasts",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85d7dfc41317442e9a0cf484cc05f34d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=412&amp;width=862&amp;height=485"
       },
@@ -29,11 +38,11 @@
     },
     {
       "published_datetime": "2026-05-23T02:56:39.000000Z",
-      "title": "Live: 'There's more in the tank:' Pendlebury celebrates games record despite Eagles scare",
+      "title": "'There's more in the tank:' Pendlebury celebrates games record despite Eagles scare",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fff70f4d4415cacdb92083ab60cf8fac?impolicy=wcms_crop_resize&amp;cropH=2102&amp;cropW=3736&amp;xPos=0&amp;yPos=288&amp;width=862&amp;height=485"
       },
-      "description": "Collingwood's No.10 enjoys a 10-point win in his record-breaking match as the Magpies hold firm to down the Eagles at the MCG. Follow live.",
+      "description": "Collingwood's No.10 enjoys a 10-point win in his record-breaking match as the Magpies hold firm to down the Eagles at the MCG.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-23/afl-round-11-live-blog-nm-gc-gee-syd-col-wc-pa-car-pendlebury/106713536"
     },
     {
@@ -107,15 +116,6 @@
       "audio_url": "",
       "url": "iran-condemns-us-sanctions-on-ce5ZF982TGSkeNpyCtZopA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-22T20:04:18.000000Z",
-      "title": "For Willie Rioli now is time to 'give back' to the place that gave him everything",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aee942e213f60b370d2e5a855bf12c4d?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Tiwi Islands are unique and Australian Rules football is a way of life that has spawned some of the game's biggest names. But even as favourite son Willie Rioli Jr returns home, the Tiwi Bombers know they need more help.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-23/willie-rioli-drugs-afl-footy-racism-tiwi-islands-homecoming/106702046"
     },
     {
       "published_datetime": "2026-05-22T19:18:29.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-23T13:02:51.799554"
+  "merged_at": "2026-05-23T15:55:47.869536"
 }
