@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-23T10:46:24.000000Z",
+      "title": "'Pro-aspiration and pro-supply': PM defends tax changes at Labor conference",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/50fce67e9313e42773ce65637f9ba24d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The prime minister became emotional at one point as he spoke at a Labor conference in Melbourne to defend the budget changes.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-23/anthony-albanese-defends-budget-changes-at-vic-labor-conference/106714680"
+    },
+    {
+      "published_datetime": "2026-05-23T07:47:07.000000Z",
+      "title": "One Nation set to become federal opposition, poll predicts",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85d7dfc41317442e9a0cf484cc05f34d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=412&amp;width=862&amp;height=485"
+      },
+      "description": "One Nation would win dozens of seats if a federal election was held today, according to a major opinion poll.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-23/poll-predicts-one-nation-federal-opposition/106714586"
+    },
+    {
       "published_datetime": "2026-05-23T06:21:30.000000Z",
       "title": "Death toll jumps to 90 after Chinese coal mine blast",
       "featured_image": {
@@ -11,11 +29,11 @@
     },
     {
       "published_datetime": "2026-05-23T02:56:39.000000Z",
-      "title": "Live: Pendlebury honoured before record-breaking game, Roos beat Suns after the siren",
+      "title": "Live: 'There's more in the tank:' Pendlebury celebrates games record despite Eagles scare",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d7f2275891ff394c34dd6bb27ff83c57?impolicy=wcms_crop_resize&amp;cropH=1900&amp;cropW=3378&amp;xPos=0&amp;yPos=242&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fff70f4d4415cacdb92083ab60cf8fac?impolicy=wcms_crop_resize&amp;cropH=2102&amp;cropW=3736&amp;xPos=0&amp;yPos=288&amp;width=862&amp;height=485"
       },
-      "description": "North Melbourne comes from 43 points back to beat Gold Coast after the siren before attention turns to the MCG, where Collingwood's Scott Pendlebury will break the V/AFL games record against West Coast. Follow live.",
+      "description": "Collingwood's No.10 enjoys a 10-point win in his record-breaking match as the Magpies hold firm to down the Eagles at the MCG. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-23/afl-round-11-live-blog-nm-gc-gee-syd-col-wc-pa-car-pendlebury/106713536"
     },
     {
@@ -26,15 +44,6 @@
       },
       "description": "Defence industry experts argue Australia should consider how to prevent a naval \"capability gap\" \u2014 or risk being left exposed.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-23/why-theres-more-talk-of-an-aukus-plan-b/106705426"
-    },
-    {
-      "published_datetime": "2026-05-23T02:04:09.000000Z",
-      "title": "Entrepreneur says the rich should stop complaining about tax changes",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9032a9cbade9df665eabab4b3746374e?impolicy=wcms_crop_resize&amp;cropH=1877&amp;cropW=3337&amp;xPos=0&amp;yPos=20&amp;width=862&amp;height=485"
-      },
-      "description": "Start-up founders say the federal government's CGT changes may see investment in new businesses go offshore. But Airtree Ventures co-founder Daniel Petre is warning against a scare campaign. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-23/tech-sector-onslaught-against-capital-gains-tax-changes-startups/106711046"
     },
     {
       "published_datetime": "2026-05-23T02:00:12.000000Z",
@@ -98,15 +107,6 @@
       "audio_url": "",
       "url": "iran-condemns-us-sanctions-on-ce5ZF982TGSkeNpyCtZopA",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-22T20:59:57.000000Z",
-      "title": "Nine charts that reveal who pays more under Labor's tax changes",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3829f9f1da7fad90022ee4729b6dcbe7?impolicy=wcms_crop_resize&amp;cropH=3188&amp;cropW=5668&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "Labor's capital gains tax changes have set off a firestorm of debate about the implications for small businesses, start-ups, share owners and plenty more. Here's who will really pay more.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-23/labor-capital-gains-tax-changes-explained-in-detail/106713208"
     },
     {
       "published_datetime": "2026-05-22T20:04:18.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-23T07:25:55.264716"
+  "merged_at": "2026-05-23T11:04:41.991587"
 }
