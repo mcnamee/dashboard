@@ -1,12 +1,39 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-23T21:15:19.000000Z",
+      "title": "'I've had enough': Why this loyal Labor voter is switching to One Nation",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a081929dbb04743f9d420b3bab8b306f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=400&amp;width=862&amp;height=485"
+      },
+      "description": "The next opportunity to test support for One Nation in Western Sydney will be the state election on March 13. Already, disillusioned Labor voter Silvana Rota is ready to \"give them a go\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-24/one-nation-western-sydney-nsw-state-election-chances/106711360"
+    },
+    {
+      "published_datetime": "2026-05-23T20:59:08.000000Z",
+      "title": "'An absolutely pleasant surprise': Why single mums are moving in together",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d78fb633eeef3e271841ec3b7fec077d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=469&amp;width=862&amp;height=485"
+      },
+      "description": "As rental and living costs surge, and as single mums remain one of the most vulnerable groups in the country, some are moving in together and finding many benefits.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-24/single-mothers-housing-affordability-shared-housing/106703756"
+    },
+    {
+      "published_datetime": "2026-05-23T20:02:50.000000Z",
+      "title": "Maldives cave dive deaths leave us with many theories and one big question",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f986768f3eecbde436fe0081ed7b201?impolicy=wcms_crop_resize&amp;cropH=717&amp;cropW=1275&amp;xPos=3&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The question of why experienced divers would descend to depths of more than 50 metres on a single tank of air \u2014 let alone enter a cave while doing so \u2014 baffles members of the relatively close-knit deep-sea diving community.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-24/maldives-italian-diver-probe-must-answer-single-biggest-question/106710078"
+    },
+    {
       "published_datetime": "2026-05-23T19:45:39.000000Z",
-      "title": "Iran submits revised proposal, Trump says ceasefire 'a lot closer'",
+      "title": "Breaking: Trump says agreement with Iran over end of war is 'largely negotiated'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/088bee9abc357d85341bd78524a8458e?impolicy=wcms_crop_resize&amp;cropH=1960&amp;cropW=3484&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Iran and Pakistan submit a revised proposal \u200cto the United States \u200cto end the war and \u200creopen the Strait \u200cof Hormuz, with a response from Donald Trump expected by Sunday.",
+      "description": "US President Donald Trump \u200bsays a memorandum of understanding \u200bon \u200ca peace deal with Iran that would open the Strait of Hormuz has been \"largely negotiated\", with \u200cdetails \u200bto \u200cbe unveiled soon.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-24/donald-trump-says-iran-ceasefire-a-lot-closer/106714964"
     },
     {
@@ -19,15 +46,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-24/one-nation-sets-combative-tone-in-sa-parliament/106714272"
     },
     {
-      "published_datetime": "2026-05-23T19:01:44.000000Z",
-      "title": "'Unusual' Greek island listed for half the price of average Aussie home",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9d009c4e2e4cea0830ee26c794f365d8?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Makri Island, not far from mainland Greece, boasts almost 100 hectares of uninhabited Mediterranean beauty, but buyers be warned, this slice of paradise comes with a catch.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-24/makri-greek-island-to-be-auctioned-with-bargain-price-tag/106713428"
-    },
-    {
       "published_datetime": "2026-05-23T19:00:00.000000Z",
       "title": "Labor's tax defence is backfiring with young voters",
       "featured_image": {
@@ -38,7 +56,7 @@
     },
     {
       "published_datetime": "2026-05-23T18:58:03.000000Z",
-      "title": "Rachel Ward gave up glamour for cows and a not-so-simple country life",
+      "title": "Former actor Rachel Ward became a farmhand at 65 and found her purpose",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/52d4e91772c641769960da086cc6e83c?impolicy=wcms_crop_resize&amp;cropH=2025&amp;cropW=3600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -56,7 +74,7 @@
     },
     {
       "published_datetime": "2026-05-23T18:47:58.000000Z",
-      "title": "Economists welcome budget and reply, even if they don't like every policy",
+      "title": "Five economists share opinions on Labor's budget and Coalition's reply",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/274f969cb8c27851e7469680a0d8e9fb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -71,24 +89,6 @@
       },
       "description": "Climate change, the cost-of-living crisis and healthy lifestyle goals should make active transport like cycling a no brainer. So why does Australia struggle to build a bike culture?\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-24/active-transport-cycling-bikes-cities-safety/106710436"
-    },
-    {
-      "published_datetime": "2026-05-23T11:35:17.000000Z",
-      "title": "Auckland makes A-League history with grand-final triumph over Sydney",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/48cecc75334ed8087a0f4707178858c8?impolicy=wcms_crop_resize&amp;cropH=2600&amp;cropW=4623&amp;xPos=0&amp;yPos=97&amp;width=862&amp;height=485"
-      },
-      "description": "Auckland has become the first side from New Zealand to win an A-League Men championship after downing competition heavyweight Sydney 1-0 in a cagey season decider.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-23/auckland-fc-wins-alm-championship-over-sydney-fc/106714666"
-    },
-    {
-      "published_datetime": "2026-05-23T07:47:07.000000Z",
-      "title": "One Nation set to become federal opposition, poll forecasts",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85d7dfc41317442e9a0cf484cc05f34d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=412&amp;width=862&amp;height=485"
-      },
-      "description": "One Nation would win dozens of seats if a federal election was held today, according to a major opinion poll.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-23/poll-predicts-one-nation-federal-opposition/106714586"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9700bb9e-c277-4285-a625-3784f99cda36",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-23T20:03:53.085216"
+  "merged_at": "2026-05-23T21:44:45.283527"
 }
