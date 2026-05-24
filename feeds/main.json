@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-24T21:16:12.000000Z",
+      "title": "Live: Steggall confirms talks underway for teals to form new political party",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/41eecd03b72840113bdefc730c5e210b?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Independent MP Zali Steggall says she is open to the teals forming their own political party but declines to say how far talks have progressed. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-25/federal-politics-live-blog-estimates-cgt-teals-tax/106716858"
+    },
+    {
       "published_datetime": "2026-05-24T20:49:08.000000Z",
-      "title": "'Killing me inside': The legacy of government policies and stolen kids",
+      "title": "'It's atrocious, the apathy': Survivor calls on governments to act",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3ef7faa719a798ab5561c5cc2d7c15c9?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -15,7 +24,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3609aec22ae28d93a6b578aaa8508069?impolicy=wcms_crop_resize&amp;cropH=2350&amp;cropW=4177&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The US President says he \"won't be rushed\" in announcing the details, but already critics \u2014 and Iran \u2014 are suggesting he lost the negotiations.\u00a0",
+      "description": "The US president says he \"won't be rushed\" to announce the details, but already critics and Iran are suggesting he has lost the negotiations.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-25/iran-israel-war-news-briefing/106716832"
     },
     {
@@ -86,21 +95,12 @@
     },
     {
       "published_datetime": "2026-05-24T19:00:00.000000Z",
-      "title": "The link between terrorism and DV could be key to preventing homicide",
+      "title": "Link between terrorism and DV could be key to preventing homicide",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/513179a3cb655dfcdfc6e115cad50ed4?impolicy=wcms_crop_resize&amp;cropH=1680&amp;cropW=2982&amp;xPos=0&amp;yPos=317&amp;width=862&amp;height=485"
       },
       "description": "A world-first research project is aiming to prevent family and intimate partner homicides with similar strategies to those being used to tackle terrorism and lone-actor attacks.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-25/dv-new-trial-terrorism-domestic-violence-grievance-homicide/106658162"
-    },
-    {
-      "published_datetime": "2026-05-24T19:00:00.000000Z",
-      "title": "Trump's push for a ceasefire is good for peace but our wallets still feel the pain",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b548b7e96a0eea2828c4f242fa9fb7e9?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "US President Donald Trump was yesterday touting an end to the war in Iran, but declaring mission accomplished in Washington will not spare Australian consumers, and politicians, from the economic fallout of the conflict.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-25/iran-hormuz-trump-ceasefire-cost-living-one-nation/106716020"
     },
     {
       "published_datetime": "2026-05-24T18:48:20.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-24T21:46:11.308403"
+  "merged_at": "2026-05-24T22:48:22.777476"
 }
