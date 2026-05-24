@@ -1,12 +1,21 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-24T07:27:27.000000Z",
+      "title": "Politics and faith collide over choice for Tibet's next Dalai Lama",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b23030d64344315d9487f64aca24d5e8?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Tibetan Buddhists believe the Dalai Lama decides when and where he will reincarnate. But China's ruling Communist Party says it must choose who will replace him.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-24/who-gets-to-choose-the-next-dalai-lama-tibet-china-standoff/106711290"
+    },
+    {
       "published_datetime": "2026-05-24T05:05:46.000000Z",
-      "title": "Live: Souths hoping to honour Jai Arrow after shock MND news",
+      "title": "North Queensland crowd raises record figure for Arrow and MND charity",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/59374057a3ce231d2d489e8edc78cfbf?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=103&amp;width=862&amp;height=485"
       },
-      "description": "As the Cowboys and Rabbitohs wrap up a truncated round 12, eyes turn from the NRL action to State of Origin. Follow live.",
+      "description": "North Queensland climbs into the NRL's top six with an impressive 30-18 victory over South Sydney in Townsville, where fans raise thousands of dollars for the Fight MND charity.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-24/nrl-live-blog-cameron-munster-origin-training-cowboys-rabbitohs/106715988"
     },
     {
@@ -38,11 +47,11 @@
     },
     {
       "published_datetime": "2026-05-24T02:02:26.000000Z",
-      "title": "Live: Giants stun Lions with highest-scoring third quarter in AFL history",
+      "title": "Giants create AFL history with onslaught, Dogs down Dees in classic",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e2040498b28c3230efe2c5c49568f054?impolicy=wcms_crop_resize&amp;cropH=2255&amp;cropW=4009&amp;xPos=0&amp;yPos=99&amp;width=862&amp;height=485"
       },
-      "description": "Greater Western Sydney has left reigning premier Brisbane reeling with a record-breaking goal surge, kicking 14 third-quarter majors on its way to a 78-point victory. Follow live.",
+      "description": "Greater Western Sydney has left reigning premier Brisbane reeling with a record-breaking goal surge, while the Bulldogs get home in a see-sawing contest against the Demons.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-24/afl-round-11-sunday-giants-lions-bulldogs-demons/106715568"
     },
     {
@@ -202,15 +211,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-24/maldives-italian-diver-probe-must-answer-single-biggest-question/106710078"
     },
     {
-      "published_datetime": "2026-05-23T18:49:53.000000Z",
-      "title": "The scale of the mouse plague is hard to fathom. Here's a visualisation",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aadf81f42d326cf79986d01dc8b24fc2?impolicy=wcms_crop_resize&amp;cropH=912&amp;cropW=1621&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A mouse plague is invading farms and homes in southern and Western Australia. But what does that really look like?",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-24/visualising-australias-mouse-plague/106696622"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9700bb9e-c277-4285-a625-3784f99cda36",
       "published_datetime": "2026-05-23T01:08:17.840634",
       "title": "SpaceX launches first Starship V3 but loses booster over Gulf of Mexico",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-24T06:28:46.345211"
+  "merged_at": "2026-05-24T09:14:14.660131"
 }
