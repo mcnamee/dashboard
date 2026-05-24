@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-24T11:25:16.000000Z",
+      "title": "Aussie the first winner at French Open after injury retirement",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8f4eb01b1d6b46d9ff1e0bc2a19d409d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
+      },
+      "description": "James Duckworth gets an easy path into the second round of the French Open after his opponent retires midway through the second set.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-24/james-duckworth-wins-at-french-open-gabriel-diallo-injury/106716248"
+    },
+    {
       "published_datetime": "2026-05-24T10:38:46.000000Z",
       "title": "At least 24 killed in Pakistan train blast claimed by separatist militants",
       "featured_image": {
@@ -202,15 +211,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-05-23T20:02:50.000000Z",
-      "title": "Maldives cave dive deaths leave us with many theories and one big question",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f986768f3eecbde436fe0081ed7b201?impolicy=wcms_crop_resize&amp;cropH=717&amp;cropW=1275&amp;xPos=3&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The question of why experienced divers would descend to depths of more than 50 metres on a single tank of air \u2014 let alone enter a cave while doing so \u2014 baffles members of the relatively close-knit deep-sea diving community.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-24/maldives-italian-diver-probe-must-answer-single-biggest-question/106710078"
-    },
-    {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9700bb9e-c277-4285-a625-3784f99cda36",
       "published_datetime": "2026-05-23T01:08:17.840634",
       "title": "SpaceX launches first Starship V3 but loses booster over Gulf of Mexico",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-24T11:07:51.581224"
+  "merged_at": "2026-05-24T13:01:52.612597"
 }
