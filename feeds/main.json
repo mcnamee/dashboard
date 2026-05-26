@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-26T16:09:10.000000Z",
+      "title": "Report claims AI boom could keep Australia using coal and gas for longer",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/66442b8650487cf4e49a3c4861dd0ed7?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=25&amp;width=862&amp;height=485"
+      },
+      "description": "A new report concludes the AI-fuelled surge of power-hungry data centres across Australia is jeopardising the country's energy transition.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-27/ai-data-centres-pressuring-energy-transition-greenpeace-says/106722390"
+    },
+    {
+      "published_datetime": "2026-05-26T15:27:05.000000Z",
+      "title": "London hits record-breaking 35C as unusual May heatwave bakes Europe",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/75747619dd648d52589066117660b9ae?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The British capital's previous hottest May day was set only one day prior, when the mercury topped 33.5C.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-27/europe-swelters-through-record-breaking-may-heatwave/106725240"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/7c14d41e-c499-40bd-b363-dcdb90f66803",
+      "published_datetime": "2026-05-26T15:12:54.816422",
+      "title": "Iran's judiciary blocks presidential order to restore internet",
+      "featured_image": {
+        "url": "https://www.straitstimes.com/world/middle-east/iran-judiciary-suspends-presidential-body-after-it-ordered-internet-restored",
+        "name": "Iran judiciary suspends presidential body after it ordered internet restored  | The Straits Times",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--CWUWKa44--/t_limit/https://cassette.sphdigital.com.sg/image/straitstimes/4c2900119854b92982c36258203276568c47d03b794d7e235f4fc65cc89125a7",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--M8AUGw0Y--/t_thumbnail/https://cassette.sphdigital.com.sg/image/straitstimes/4c2900119854b92982c36258203276568c47d03b794d7e235f4fc65cc89125a7"
+      },
+      "description": "Iranian President Masoud Pezeshkian ordered the restoration of international internet access on May 25, seeking to end what has become the longest nationwide internet shutdown in history. Internet monitoring group NetBlocks confirmed partial connectivity was restored on Tuesday. But within hours, Iran's judiciary suspended the very presidential body responsible for carrying out the order, plunging the country's digital future into uncertainty.",
+      "audio_url": "",
+      "url": "iran-s-judiciary-blocks-presid-IudzleHmR_iPRx3HLJU_rg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/9daebccd-92f7-4813-8ec5-9dd0b28eb0c2",
+      "published_datetime": "2026-05-26T13:42:13.230227",
+      "title": "BP removes chairman Albert Manifold over conduct concerns",
+      "featured_image": {
+        "url": "https://images.wsj.net/im-48775043?width=700&size=1.515&pixel_ratio=2",
+        "name": "im-48775043?width=700&size=1.515&pixel_ratio=2",
+        "image": "https://pplx-res.cloudinary.com/image/upload/t_limit/v1779802467/url_uploads/im-48775043_gvekp4.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/upload/t_thumbnail/v1779802467/url_uploads/im-48775043_gvekp4.jpg"
+      },
+      "description": "BP on Tuesday removed Albert Manifold as chairman and director with immediate effect, citing \"serious concerns\" related to governance standards, oversight, and conduct \u2014 a sudden ouster that came just eight months into his tenure atop the British oil giant.[1][2][3]",
+      "audio_url": "",
+      "url": "bp-removes-chairman-albert-man-.Lk2jbWLSNilfchFYo7oqA",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/fe375984-a7b0-4043-8da5-5718afcdcc9c",
+      "published_datetime": "2026-05-26T13:36:50.170132",
+      "title": "Iran warns of strikes 'beyond regional borders' after US hits southern Iran",
+      "featured_image": {
+        "url": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html",
+        "name": "Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks  - The New York Times",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--_eWLGTC7--/t_limit/https://static01.nyt.com/images/2026/05/20/multimedia/20int-iran-irgc-qptm/20int-iran-irgc-qptm-articleLarge.jpg%3Fquality%3D75%26auto%3Dwebp%26disable%3Dupscale",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--o7lII6eE--/t_thumbnail/https://static01.nyt.com/images/2026/05/20/multimedia/20int-iran-irgc-qptm/20int-iran-irgc-qptm-articleLarge.jpg%3Fquality%3D75%26auto%3Dwebp%26disable%3Dupscale"
+      },
+      "description": "Iran's armed forces issued sharp warnings on Tuesday, May 26, threatening an expanded and more devastating military response if the United States and Israel resume strikes, after Washington carried out what it described as \"self-defense strikes\" in southern Iran near the Strait of Hormuz over the preceding 48 hours.",
+      "audio_url": "",
+      "url": "iran-warns-of-strikes-beyond-r-d8LwK06PTcu9PVnrvn4qkg",
+      "partition_name": "partition1"
+    },
+    {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8e46fb07-8f55-4e3e-ad37-837cd2a51e2f",
+      "published_datetime": "2026-05-26T13:34:03.603049",
+      "title": "Zelensky says US missile defense talks have stalled",
+      "featured_image": {
+        "url": "https://www.kyivpost.com/post/73871",
+        "name": "Zelensky Says Kyiv Preparing Talks on Joint EU Air Shield, Warns of  'Russian World' Risk",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Gm_i87qz--/t_limit/https://static.kyivpost.com/storage/2026/04/10/41da95976ce9288e4278633c19875e4a.jpg%3Fw%3D2560%26f%3Dwebp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--_aJTMAhB--/t_thumbnail/https://static.kyivpost.com/storage/2026/04/10/41da95976ce9288e4278633c19875e4a.jpg%3Fw%3D2560%26f%3Dwebp"
+      },
+      "description": "President Volodymyr Zelenskyy said on Monday that strengthening Ukraine's air defense is Kyiv's \"first priority\" and disclosed that talks with the United States on expanding anti-ballistic missile production have stalled, pushing Ukraine to accelerate its own efforts in Europe.",
+      "audio_url": "",
+      "url": "zelensky-says-us-missile-defen-RSIUJQOtTjK3jYLKgueYDw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-26T10:54:04.000000Z",
       "title": "CBA boss says reconsider applying CGT change to non-passive assets",
       "featured_image": {
@@ -10,15 +88,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-26/matt-comyn-cgt-passive-assets/106724328"
     },
     {
-      "published_datetime": "2026-05-26T09:52:05.000000Z",
-      "title": "Four dead, including two children, after train hits Belgian school bus",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/579dcfee82479660fff64331256facff?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=356&amp;width=862&amp;height=485"
-      },
-      "description": "The train collided with a minibus, which was carrying nine people at the time, at a level crossing.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-26/trains-hits-belgian-school-bus/106724790"
-    },
-    {
       "published_datetime": "2026-05-26T07:56:01.000000Z",
       "title": "Bondi gunman remained on counter-terror radar in 2022",
       "featured_image": {
@@ -26,15 +95,6 @@
       },
       "description": "Naveed Akram and his father travelled to Uzbekistan around 2022 and a former terror hotspot in the Philippines shortly before committing the Bondi massacre.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-05-26/naveed-akram-on-asio-and-police-radar-2022/106723978"
-    },
-    {
-      "published_datetime": "2026-05-26T07:32:08.000000Z",
-      "title": "Archibald Prize sitter calls out APY art collective mistreatment",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed7eabb3f6a8d3d37352e0e867a21ddc?impolicy=wcms_crop_resize&amp;cropH=1935&amp;cropW=3439&amp;xPos=756&amp;yPos=736&amp;width=862&amp;height=485"
-      },
-      "description": "Award-winning artist Iluwanti Ken says the withdrawal of funding and support over the \"white hands on black art\" scandal has left her feeling like a stranger in her own industry.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-26/iluwanti-ken-apy-art-centre-collective-white-hands-black-art/106723720"
     },
     {
       "published_datetime": "2026-05-26T07:05:56.000000Z",
@@ -47,9 +107,9 @@
     },
     {
       "published_datetime": "2026-05-26T06:40:43.000000Z",
-      "title": "Police say group of IS-linked women not charged upon return to Australia",
+      "title": "More ISIS-linked women and children land in Melbourne and Sydney",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2e01ff2b2dc1ec415be74b3bb764c76e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e18dcbb2fa77392fa6955ccdda9c6144?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
       },
       "description": "Two flights carrying women and children linked to the Islamic State group have landed in Australia.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-26/nsw-isis-linked-women-and-children-sydney-melbourne-airports/106723786"
@@ -181,66 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/148473cf-5b29-46b2-ae0e-4d00d27a8029",
-      "published_datetime": "2026-05-25T21:54:24.104301",
-      "title": "Iran would reopen Strait of Hormuz 30 days after deal, Nikkei reports",
-      "featured_image": {
-        "url": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
-        "name": "Trump: Iran deal to reopen Strait of Hormuz 'largely negotiated'",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--zbGSTcsM--/t_limit/https://image.cnbcfm.com/api/v1/image/108311027-1779432518409-gettyimages-2276028903-3e7a7050.jpeg%3Fv%3D1779432590%26w%3D1920%26h%3D1080",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--vNqyewIs--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108311027-1779432518409-gettyimages-2276028903-3e7a7050.jpeg%3Fv%3D1779432590%26w%3D1920%26h%3D1080"
-      },
-      "description": "Iran would reopen the Strait of Hormuz approximately 30 days after reaching an agreement with the United States to end hostilities, Japan's Nikkei 225 newspaper reported on Monday, citing a Middle East diplomatic source. Under the reported plan, Iran would clear mines from the strategic waterway during the 30-day post-agreement window, after which ships from all countries would navigate freely, with Tehran also ceasing its collection of transit fees.[1][2]\n\nThe report adds that the ceasefire agreed in early April would be extended for 60 days, during which talks on Iran's nuclear program would be held.[1]",
-      "audio_url": "",
-      "url": "iran-would-reopen-strait-of-ho-pfjOMBpQSUu.Imru3wWSmQ",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/6ba615fe-3090-4709-84a5-76020c621d90",
-      "published_datetime": "2026-05-25T21:50:55.299671",
-      "title": "Lavrov urges Rubio to evacuate US embassy from Kyiv",
-      "featured_image": {
-        "url": "https://www.foxnews.com/world/us-embassy-kyiv-closed-potential-significant-air-attack-looms",
-        "name": "US Embassy in Kyiv closed as 'potential significant air attack' looms",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--ThygjajU--/t_limit/https://static.foxnews.com/foxnews.com/content/uploads/2024/11/gettyimages-1366546777-scaled.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--n3-h7Q8t--/t_thumbnail/https://static.foxnews.com/foxnews.com/content/uploads/2024/11/gettyimages-1366546777-scaled.jpg"
-      },
-      "description": "Russian Foreign Minister Sergei Lavrov called US Secretary of State Marco Rubio on Monday to urge the evacuation of American diplomats from Kyiv, delivering a warning that Russian forces plan to launch \"systematic and consistent strikes\" on the Ukrainian capital, including against \"decision-making centers\" and military-industrial facilities.[1][2][3]\n\nThe phone call, confirmed by Russia's foreign ministry, came as Moscow issued a broader public warning to all foreign nationals, diplomats, and international organizations to leave Kyiv immediately. There was no immediate comment from the US State Department.[4][3][1]",
-      "audio_url": "",
-      "url": "lavrov-urges-rubio-to-evacuate-iLV70lEJTVuxj..qQO2OLA",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/69745896-a55b-4ba1-8f2b-b7d5fd111a06",
-      "published_datetime": "2026-05-25T21:49:36.775580",
-      "title": "Carney calls Alberta separation vote a 'dangerous bluff,' cites Brexit experience",
-      "featured_image": {
-        "url": "https://www.bloomberg.com/news/articles/2026-05-25/carney-warns-of-dangerous-bluff-in-alberta-vote-citing-brexit",
-        "name": "Carney Warns of 'Dangerous Bluff' in Alberta Vote, Citing Brexit",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--eq5M-8ek--/t_limit/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihrYWUUsgwjA/v1/1200x800.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--WxHKdg-F--/t_thumbnail/https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihrYWUUsgwjA/v1/1200x800.jpg"
-      },
-      "description": "Prime Minister Mark Carney warned Monday that Alberta's planned referendum on separation is a \"dangerous bluff,\" cautioning that anyone who believes the results could be used as leverage in future negotiations is courting disaster. Carney drew on his experience as governor of the Bank of England during the 2016 Brexit vote, saying people are still trying to undo the damage caused by that decision a decade later.[1][2]\n\nThe remarks come four days after Alberta Premier Danielle Smith announced that an October 19 referendum \u2014 already set to include questions on immigration and constitutional reform \u2014 will now also ask residents whether the province should remain part of Canada or begin the legal process toward a binding separation vote.[3][4]",
-      "audio_url": "",
-      "url": "carney-calls-alberta-separatio-1SIGJo0zRKON43_t_N6mmg",
-      "partition_name": "partition1"
-    },
-    {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d1fb688d-dbab-4d8e-b475-521e9c8f2614",
-      "published_datetime": "2026-05-25T19:01:57.713312",
-      "title": "Russia warns foreigners to leave Kyiv ahead of 'systematic strikes'",
-      "featured_image": {
-        "url": "https://kyiv.jetzt/en/the-government-district-lipki/",
-        "name": "The Government District Lypky | Kyiv now",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--R_uAzoZD--/t_limit/https://kyiv.jetzt/wp-content/uploads/2022/02/stadtfuhrungen-durch-kiew-auf-deutsch.jpg",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Avm0xrmo--/t_thumbnail/https://kyiv.jetzt/wp-content/uploads/2022/02/stadtfuhrungen-durch-kiew-auf-deutsch.jpg"
-      },
-      "description": "Russia's Foreign Ministry on Monday urged foreign citizens and diplomats to evacuate Kyiv, declaring that its armed forces would begin \"systematic assaults\" on military-industrial sites, decision-making centres, and command posts in the Ukrainian capital. The warning came a day after one of the most devastating aerial bombardments to hit Kyiv in months.",
-      "audio_url": "",
-      "url": "russia-warns-foreigners-to-lea-z.O3ahLdT.K78CJ5dZfnvw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-26T13:48:15.201699"
+  "merged_at": "2026-05-26T17:21:19.212823"
 }
