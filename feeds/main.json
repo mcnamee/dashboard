@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-26T21:27:42.000000Z",
+      "title": "Rain brings potential 'opportunities' in renewed search for Gus Lamont, police say",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c662143ac8d9c8b30ac9e8cc8090ac65?impolicy=wcms_crop_resize&amp;cropH=1721&amp;cropW=3060&amp;xPos=0&amp;yPos=438&amp;width=862&amp;height=485"
+      },
+      "description": "Eight months since Gus Lamont was reported missing, police have again returned to search Oak Park Station as part of an ongoing investigations into the four-year-old's disappearance.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-27/rain-brings-opportunities-in-search-for-gus-lamont/106722384"
+    },
+    {
       "published_datetime": "2026-05-26T21:04:32.000000Z",
       "title": "Live: Jobseeker services to get first overhaul in 30 years",
       "featured_image": {
@@ -20,7 +29,7 @@
     },
     {
       "published_datetime": "2026-05-26T20:04:22.000000Z",
-      "title": "Fidel Castro's daughter hopes US can bring down father's regime",
+      "title": "Fidel Castro's daughter fled his regime, and has a warning for the US",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/08f5331c34044f2e282d6bce08c42386?impolicy=wcms_crop_resize&amp;cropH=807&amp;cropW=1435&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -68,15 +77,6 @@
       "audio_url": "",
       "url": "israel-intensifies-lebanon-str-vMRHFFwlRjKYBr0Km1PhLQ",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-26T18:52:45.000000Z",
-      "title": "Scott's sacking gives Essendon another chance to step out of Hird's shadow",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/37a251fe9ba3ad981bb755fe5695c013?impolicy=wcms_crop_resize&amp;cropH=2305&amp;cropW=4098&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485"
-      },
-      "description": "Essendon finds itself at a clear demarcation point after sacking Brad Scott as the shadow of James Hird once again looms large over the troubled club.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-27/afl-brad-scott-sacking-analysis-essendon-james-hird-shadow/106721916"
     },
     {
       "published_datetime": "2026-05-26T18:50:10.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-26T21:51:39.272089"
+  "merged_at": "2026-05-26T23:01:15.293737"
 }
