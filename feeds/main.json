@@ -1,31 +1,49 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-26T02:01:39.000000Z",
+      "title": "How to check if your vaccines are up to date as diphtheria outbreak continues",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/552f62e1676404036d4896f2c15a122f?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Do you know your vaccination history? Some vaccines need to be updated regularly, especially if you are travelling. Here's what you need to know to ensure you stay protected.",
+      "page_content_url": "https://www.abc.net.au/news/health/2026-05-26/health-vaccination-remember-rollout-travel/106705072"
+    },
+    {
+      "published_datetime": "2026-05-26T01:10:34.000000Z",
+      "title": "NT diphtheria cases declining as 10,000 immunised, one death confirmed",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b30d07ba92e59c166c7d2309da1e8aef?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=58&amp;width=862&amp;height=485"
+      },
+      "description": "The Northern Territory government says the rate of new diphtheria cases in the territory has fallen from more than 20 per week to less than 10 after 10,000 Territorians stepped up to be immunised against the ongoing outbreak.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-26/nt-diphtheria-cases-declining-vaccines-blitz-one-death-confirmed/106721684"
+    },
+    {
+      "published_datetime": "2026-05-26T00:51:09.000000Z",
+      "title": "SA Police return to Yunta as part of Gus Lamont investigation",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c662143ac8d9c8b30ac9e8cc8090ac65?impolicy=wcms_crop_resize&amp;cropH=1721&amp;cropW=3060&amp;xPos=0&amp;yPos=438&amp;width=862&amp;height=485"
+      },
+      "description": "Police have returned to Yunta in South Australia's far north as part of their investigation into the disappearance of four-year-old boy Gus Lamont.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-26/sa-police-return-to-yunta-for-gus-lamont-investigation/106722020"
+    },
+    {
+      "published_datetime": "2026-05-26T00:25:37.000000Z",
+      "title": "Scathing warning to people harassing royal commission witnesses",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6ef05b925b317828839529b17ade19a2?impolicy=wcms_crop_resize&amp;cropH=794&amp;cropW=1412&amp;xPos=5&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The royal commissioner examining antisemitism in Australia has issued a warning to people who have intimidated and harassed witnesses who have given evidence to the inquiry.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-26/bondi-antisemitism-social-cohesion-royal-commission-opening/106721922"
+    },
+    {
       "published_datetime": "2026-05-25T23:22:46.000000Z",
-      "title": "Breaking: US military strikes Iranian boats and missile launch sites",
+      "title": "US military strikes Iranian boats and missile launch sites",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4fee7007bf544176846f577299275e3c?impolicy=wcms_crop_resize&amp;cropH=542&amp;cropW=963&amp;xPos=237&amp;yPos=12&amp;width=862&amp;height=485"
       },
       "description": "US Centcom says the strikes were designed \"to protect our troops from threats posed by Iranian forces\".",
       "page_content_url": "https://www.abc.net.au/news/2026-05-26/us-military-strikes-iranian-boats-missile-launch-sites/106721678"
-    },
-    {
-      "published_datetime": "2026-05-25T23:09:07.000000Z",
-      "title": "Government sets up fight with Santos over gas reservation plan",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8968293f8d388a3510c8cc35d14c4517?impolicy=wcms_crop_resize&amp;cropH=2824&amp;cropW=5020&amp;xPos=722&amp;yPos=203&amp;width=862&amp;height=485"
-      },
-      "description": "The draft framework outlines a requirement for gas producers to supply 20 per cent of their export to the domestic market, which the gas lobby argues will \"undermine\" the industry.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-26/government-sets-up-fight-with-santos-over-gas-reservation-plan/106721410"
-    },
-    {
-      "published_datetime": "2026-05-25T23:00:39.000000Z",
-      "title": "Israeli opposition leader calls for probe into alleged abuse of flotilla activists",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6bd1bacdfd93960ebf95094c80eccc13?impolicy=wcms_crop_resize&amp;cropH=1514&amp;cropW=2691&amp;xPos=0&amp;yPos=97&amp;width=862&amp;height=485"
-      },
-      "description": "One of Israel's most prominent opposition politicians has called for an investigation into the alleged abuse of activists from the Global Sumud Flotilla, which was intercepted by the Israeli military in the Mediterranean last week.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-26/israeli-opposition-leader-yair-lapid-global-sumud-flotilla/106720542"
     },
     {
       "published_datetime": "2026-05-25T22:19:23.000000Z",
@@ -113,21 +131,30 @@
     },
     {
       "published_datetime": "2026-05-25T21:15:38.000000Z",
-      "title": "Live: Seven women, 12 children with IS fighter links to return to Australia, Burke confirms",
+      "title": "Live: Activists protest about treatment of Gaza flotilla at Parliament House demonstration",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bccb228c58daa55628826814c7e31c32?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=92&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1f80d25ac0c971bd4d7a149f4c0cf4c7?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Home Affairs Minister Tony Burke confirms the families with links to Islamic State have made plans to travel to Australia after a first group arrived earlier this month. Follow live.",
+      "description": "Activists stage a protest at Parliament House in Canberra against Israel's treatment of Gaza flotilla activists. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-26/federal-politics-live-blog-tax-cgt-isis-brides-senate-estimates/106719914"
     },
     {
       "published_datetime": "2026-05-25T19:15:05.000000Z",
       "title": "'Intolerable': When $786m bridge was being designed, engineers raised a red flag",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8d6d5c25af9957a33bf9143001ae3932?impolicy=wcms_crop_resize&amp;cropH=312&amp;cropW=555&amp;xPos=42&amp;yPos=67&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/702bdf32675ea7ac17b8a61f7c0390e6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
       "description": "Despite government assurances Hobart's Bridgewater Bridge is safe, there are fresh concerns over its foundation design, with one expert who worked on the project suggesting it could eventually lead to a need to reduce traffic flow or speed limits.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-26/tas-bridgewater-bridge-foundation-issues-raised-by-engineer/106710946"
+    },
+    {
+      "published_datetime": "2026-05-25T19:12:55.000000Z",
+      "title": "'ISIS bride' under exclusion order not returning to Australia, ABC confirms",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/035ef43479cd64762fe53dc552e551e2?impolicy=wcms_crop_resize&amp;cropH=1230&amp;cropW=2187&amp;xPos=50&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The last cohort of ISIS-linked Australians living in a notorious Syrian camp are expected to return back into Australia in the coming hours. Here's what we know about them.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-26/what-we-know-about-remaining-isis-brides/106720894"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/d1fb688d-dbab-4d8e-b475-521e9c8f2614",
@@ -145,24 +172,6 @@
       "partition_name": "partition1"
     },
     {
-      "published_datetime": "2026-05-25T19:00:00.000000Z",
-      "title": "Inside Xi's banquet diplomacy and why Albanese missed out on Peking duck",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a71d993ef5edc8cc1199955e700da060?impolicy=wcms_crop_resize&amp;cropH=2050&amp;cropW=3645&amp;xPos=1103&amp;yPos=1041&amp;width=862&amp;height=485"
-      },
-      "description": "Xi Jinping has learned that every ingredient placed on a state table is a word in a diplomatic sentence.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-26/menu-state-banquet-china-food-diplomacy-xi-jinping-donald-trump/106657710"
-    },
-    {
-      "published_datetime": "2026-05-25T18:51:01.000000Z",
-      "title": "Labor to ignore call for pause on CGT changes",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c855cc7ae358c5a38ea834c0565238bf?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The government is pushing ahead with capital gains tax changes while consulting on limited carve-outs.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-26/labor-consults-on-cgt-carve-outs-as-businesses-call-for-reset/106720056"
-    },
-    {
       "published_datetime": "2026-05-25T18:50:15.000000Z",
       "title": "Leaked documents reveal how far BHP really is from net zero goals",
       "featured_image": {
@@ -170,15 +179,6 @@
       },
       "description": "The mining giant's delay in the rollout of renewable energy and a fleet of electric trucks and trains in the Pilbara has raised doubts inside the company about it meeting its ambitious climate goal.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-26/bhp-net-zero-emissions-pledge-four-corners-leaked-documents/106720042"
-    },
-    {
-      "published_datetime": "2026-05-25T18:40:56.000000Z",
-      "title": "After losing her 3yo daughter, one mum says MDMA therapy saved her life",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/657a1564d42ee10f26f24fd4f464c538?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
-      },
-      "description": "Jess Yugovich is among the Australians trying MDMA-assisted psychotherapy after being diagnosed with PTSD, as highly regulated facilities process the drug for therapeutic use.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-26/mdma-psilocybin-magic-mushroom-legal-manufacturing/106638058"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/78b2a62b-77c2-433a-a6ad-cd10a376fd6b",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-25T23:57:01.717499"
+  "merged_at": "2026-05-26T02:45:08.417752"
 }
