@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-28T13:17:51.000000Z",
+      "title": "Iran and US trade air strikes after Trump dismisses Hormuz deal",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3dff8405f1d6e16258047b0ebc78cfd2?impolicy=wcms_crop_resize&amp;cropH=2304&amp;cropW=4096&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The US president has repeatedly said the end of the war is close, but told media at a cabinet meeting on Wednesday he was not yet satisfied by the negotiations and the US is not discussing easing sanctions, one of Tehran's key demands.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-28/kuwait-reports-missile-attack-us-air-base/106735230"
+    },
+    {
       "published_datetime": "2026-05-28T09:45:25.000000Z",
       "title": "AFP defends public arrest of Ben Roberts-Smith",
       "featured_image": {
@@ -19,15 +28,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-28/police-death-inquest-raises-questions-mental-health-support/106717568"
     },
     {
-      "published_datetime": "2026-05-28T08:50:14.000000Z",
-      "title": "Live: Hawks in control at Docklands after minute's silence for Daniher",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/daa27a2e06d10f07a378c672b980a531?impolicy=wcms_crop_resize&amp;cropH=1815&amp;cropW=3227&amp;xPos=551&amp;yPos=314&amp;width=862&amp;height=485"
-      },
-      "description": "The Hawks are looking to consolidate a spot in the top four as they take on St Kilda at Docklands, on a day when details of Neale Daniher's state funeral are confirmed. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-28/afl-round-12-thursday-live-blog-st-kilda-saints-hawthorn-hawks/106723706"
-    },
-    {
       "published_datetime": "2026-05-28T08:48:58.000000Z",
       "title": "Australian to join 'scary as hell' mission to rescue Laos villagers from cave",
       "featured_image": {
@@ -38,11 +38,11 @@
     },
     {
       "published_datetime": "2026-05-28T08:27:16.000000Z",
-      "title": "Live: Maroons producing mighty defensive effort to repel rampant Blues",
+      "title": "'Unfair' Women's Origin timing criticised as Blues sweep Maroons aside",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8dc67cadf87b83ecc3d984dd91104a53?impolicy=wcms_crop_resize&amp;cropH=2810&amp;cropW=4995&amp;xPos=0&amp;yPos=365&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bccbd33c231e9052a6d6312be5420926?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=387&amp;width=862&amp;height=485"
       },
-      "description": "The Women's State of Origin series wraps up on the Gold Coast, with NSW hunting a clean sweep at a rain-soaked Robina Stadium on the Gold Coast. Follow live.",
+      "description": "The captains of New South Wales and Queensland question the timing of the Women's State of Origin series after the Blues completed an historic clean sweep.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-28/womens-state-of-origin-live-blog-qld-maroons-nsw-blues/106732038"
     },
     {
@@ -60,7 +60,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7ef42b67fa726ae409bd905144b0b8b2?impolicy=wcms_crop_resize&amp;cropH=383&amp;cropW=681&amp;xPos=90&amp;yPos=29&amp;width=862&amp;height=485"
       },
-      "description": "Senior Reuters executive Simon Robinson takes over from former director Justin Stevens who announced his resignation yesterday after four years in the job.",
+      "description": "Senior Reuters executive Simon Robinson takes over from former director Justin Stevens who announced his resignation on Wednesday after four years in the job.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-28/abc-appoints-simon-robinson-as-news-director/106729310"
     },
     {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-28T10:45:05.008823"
+  "merged_at": "2026-05-28T14:29:17.044230"
 }
