@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-28T14:40:11.000000Z",
+      "title": "At least 16 students dead as fire tears through Kenyan girls school",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e5a34589067b28f68446a268e1caaffc?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=169&amp;width=862&amp;height=485"
+      },
+      "description": "The blaze reportedly started when a student set a mattress on fire inside the school's dormitory, with a further 79 students taken to hospital with injuries.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-29/deaths-reported-after-fire-at-kenyan-girls-school/106735308"
+    },
+    {
       "published_datetime": "2026-05-28T13:17:51.000000Z",
       "title": "Iran and US trade air strikes after Trump dismisses Hormuz deal",
       "featured_image": {
@@ -10,6 +19,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-28/kuwait-reports-missile-attack-us-air-base/106735230"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/a5ac70ae-9a72-47f9-893b-2d7396dbe9be",
+      "published_datetime": "2026-05-28T13:15:18.990663",
+      "title": "Iran's IRGC says it struck US airbase near Bandar Abbas",
+      "featured_image": {
+        "url": "https://english.aaj.tv/news/330459616/irans-irgc-say-they-targeted-us-airbase-after-strike-near-bandar-abbas",
+        "name": "Iran's IRGC say they targeted US airbase after strike near Bandar Abbas -  World - Aaj English TV",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--Ed_UleOz--/t_limit/https://i.aaj.tv/large/2026/05/2811195714273f6.webp",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--XV4LUsji--/t_thumbnail/https://i.aaj.tv/large/2026/05/2811195714273f6.webp"
+      },
+      "description": "The United States and Iran exchanged fresh military strikes on Thursday near the Strait of Hormuz, the most serious escalation since a ceasefire took effect on April 8, rattling energy markets and casting doubt over negotiations to end the conflict.\n\nIran's Islamic Revolutionary Guard Corps said it targeted a US airbase early Thursday from which American forces had launched strikes on southern Iran near Bandar Abbas airport, according to Reuters and the Tasnim news agency. The IRGC described the attack as \"a serious warning\" to the United States. US Central Command had previously carried out what it termed \"self-defense strikes\" targeting missile launch sites and Iranian vessels attempting to lay mines near the strait.[1][2][3][4]",
+      "audio_url": "",
+      "url": "iran-s-irgc-says-it-struck-us-1p1QfCP6QXmKz6Hoa6d8iA",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-28T09:45:25.000000Z",
       "title": "AFP defends public arrest of Ben Roberts-Smith",
       "featured_image": {
@@ -17,15 +41,6 @@
       },
       "description": "The Australian Federal Police has detailed intelligence surrounding Ben Roberts-Smith's arrest, pushing back against criticisms of its public nature.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-28/afp-commissioner-defends-ben-roberts-smith-arrest/106734904"
-    },
-    {
-      "published_datetime": "2026-05-28T09:04:28.000000Z",
-      "title": "Young police officer's death raises questions about mental health support",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7da5d36798e1bdad718d9f891c97863a?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
-      },
-      "description": "An inquest into the death of a NSW Police recruit who was less than three months into the job hears differing opinions about whether it was related to his work.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-28/police-death-inquest-raises-questions-mental-health-support/106717568"
     },
     {
       "published_datetime": "2026-05-28T08:48:58.000000Z",
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/dd07dd28-80cf-409c-9465-e787e19a09c9",
-      "published_datetime": "2026-05-27T00:13:03.884508",
-      "title": "UN Security Council condemns drone strike on UAE nuclear plant",
-      "featured_image": {
-        "url": "https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant",
-        "name": "Drone strike sparks fire on perimeter of UAE\u2019s Barakah nuclear power plant",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--w-EXwQFc--/t_limit/https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a09bae5e706-1779022565.jpg%3Fresize%3D1920%252C1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--huJ5bxvH--/t_thumbnail/https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a09bae5e706-1779022565.jpg%3Fresize%3D1920%252C1440"
-      },
-      "description": "The United Nations Security Council on Tuesday unanimously condemned the drone attack on the Barakah Nuclear Power Plant in the United Arab Emirates, calling it a violation of international law, according to Reuters. The statement came more than a week after a drone struck an electrical generator at the Arab world's only nuclear power facility on May 17, sparking a fire but causing no injuries or radiation release.[1]",
-      "audio_url": "",
-      "url": "un-security-council-condemns-d-6xkPXh3UQIaO1NxmqsBYaw",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-28T14:29:17.044230"
+  "merged_at": "2026-05-28T17:56:52.574680"
 }
