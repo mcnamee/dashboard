@@ -10,6 +10,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-05-30/royal-commission-antisemitism-social-cohesion-asio-police-bondi/106718554"
     },
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/58f68f22-2044-4316-94f9-6a52b4582813",
+      "published_datetime": "2026-05-29T17:05:20.559789",
+      "title": "Chevron CEO says ships attacked in Strait of Hormuz this week",
+      "featured_image": {
+        "url": "https://www.cnbc.com/2026/03/23/chevron-ceo-oil-price-iran-war-strait-hormuz.html",
+        "name": "Chevron CEO says Iran war impact isn't fully priced into oil ...",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--C2zgB4Ir--/t_limit/https://image.cnbcfm.com/api/v1/image/108281744-1774287848161-gettyimages-2267564230-CERAWEEK_2026.jpeg%3Fv%3D1774292370",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--qy6sAD3M--/t_thumbnail/https://image.cnbcfm.com/api/v1/image/108281744-1774287848161-gettyimages-2267564230-CERAWEEK_2026.jpeg%3Fv%3D1774292370"
+      },
+      "description": "Chevron CEO Mike Wirth disclosed in an interview with Bloomberg TV that multiple vessels transiting the Strait of Hormuz were attacked this week, including incidents not yet publicly reported, even as ceasefire optimism between the United States and Iran drove oil prices sharply lower.[1][2]",
+      "audio_url": "",
+      "url": "chevron-ceo-says-ships-attacke-VYLEEFFOR7.yfgVN2r4wdg",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-29T16:49:16.000000Z",
       "title": "Canadian man accused of selling chemical online admits aiding suicide",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8fffaa0b-8d90-4890-b3d3-596b4bdafe95",
-      "published_datetime": "2026-05-28T23:10:41.641813",
-      "title": "US to designate Brazil's two largest gangs as terrorist organizations",
-      "featured_image": {
-        "url": "https://www.bostonglobe.com/2025/10/29/world/brazil-police-raid-drug-gang-death-toll/",
-        "name": "Death toll in Brazil police raid on drug gang in Rio rises",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--IklSBvSj--/t_limit/https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/BUY3HZOW6HJHDA5GE7E26RKGWQ.jpg%3Fauth%3Db2e55e5804103e36159e77cccbbd667566be5ff5835dbc65486f88774c541c87%26width%3D1440",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--L-WbSat---/t_thumbnail/https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/BUY3HZOW6HJHDA5GE7E26RKGWQ.jpg%3Fauth%3Db2e55e5804103e36159e77cccbbd667566be5ff5835dbc65486f88774c541c87%26width%3D1440"
-      },
-      "description": "The United States announced Thursday that it will classify Brazil's two largest criminal organizations \u2014 the Primeiro Comando da Capital (PCC) and the Comando Vermelho (Red Command) \u2014 as Foreign Terrorist Organizations, a move that carries sweeping financial and legal consequences and is expected to deepen friction between Washington and Bras\u00edlia.\n\nSecretary of State Marco Rubio said in a statement that the formal FTO designation will take effect on June 5. In the meantime, the State Department has already classified both gangs as \"Specially Designated Global Terrorists,\" immediately subjecting them to U.S. sanctions.[1][2][3]",
-      "audio_url": "",
-      "url": "us-to-designate-brazil-s-two-l-PdkvZjfTTF6FmZY2O6fZqQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-29T19:27:42.462646"
+  "merged_at": "2026-05-29T19:35:14.636033"
 }
