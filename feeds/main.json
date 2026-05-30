@@ -11,7 +11,7 @@
     },
     {
       "published_datetime": "2026-05-30T20:20:14.000000Z",
-      "title": "Life and death in the outback: Why Australians are still dying in the bush",
+      "title": "Why are Australians still getting lost and dying in the outback?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/310686b9c229e0ae1406f40140fc1726?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -20,7 +20,7 @@
     },
     {
       "published_datetime": "2026-05-30T20:06:27.000000Z",
-      "title": "After making headlines at 15, Mohamed Semra is now making history",
+      "title": "At 15 Mohamed Semra made headlines. At 27 he\u2019s making history",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e0e5b486aac21c3e2a7306ba1bd21cee?impolicy=wcms_crop_resize&amp;cropH=1874&amp;cropW=3331&amp;xPos=0&amp;yPos=19&amp;width=862&amp;height=485"
       },
@@ -58,14 +58,14 @@
       "published_datetime": "2026-05-30T19:06:24.000000Z",
       "title": "Police beat a woman in a Sydney street. Their own camera captured their cruelty",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1f47abd7e47f05cc41f82ffea09d1044?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3c6c8041e9aa7744ea0bcd9c88772cf1?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "The family of a woman brutally assaulted by police in Sydney has fought to have body-worn camera vision released, in the hope officers will be better trained in responding to acute mental health situations.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-31/bodycam-video-police-beating-woman-sydney-family-jodi-knott/106740598"
     },
     {
       "published_datetime": "2026-05-30T19:03:24.000000Z",
-      "title": "'Hush hush': How one footy club welcomed back a sex offender",
+      "title": "Women abandon football club after sex offender's return",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/37a0e65f18a75cb6b5f39758beae2583?impolicy=wcms_crop_resize&amp;cropH=2008&amp;cropW=3570&amp;xPos=534&amp;yPos=660&amp;width=862&amp;height=485"
       },
@@ -80,6 +80,15 @@
       },
       "description": "The Coalition's answer to the rise of conservative populism has been to treat it primarily as a cultural phenomenon. Under Angus Taylor, that instinct appears to be hardening.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-31/negative-gearing-transgender-culture-wars-coalition-one-nation/106737000"
+    },
+    {
+      "published_datetime": "2026-05-30T19:00:00.000000Z",
+      "title": "Is the government really overhauling employment services?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7a504061a025d24682583d796bfb628e?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The government isn't rebuilding the Commonwealth Employment Service, but will its proposed changes fix a broken system?",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-31/albanese-government-overhauling-employment-services-or-tinkering/106733294"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ba5ee972-a8a3-4c16-bddb-be949534c7de",
@@ -110,15 +119,6 @@
       "audio_url": "",
       "url": "philippines-says-china-threat-jJt4G87oTDirjQgGaFLwnw",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-05-30T11:45:21.000000Z",
-      "title": "AUKUS partners unveil plan to develop underwater drones",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a14fbcd3c631b0f72501996cbcc961b5?impolicy=wcms_crop_resize&amp;cropH=2666&amp;cropW=4740&amp;xPos=0&amp;yPos=637&amp;width=862&amp;height=485"
-      },
-      "description": "The US, Australia and United Kingdom have unveiled a new \"signature\" project to develop cutting edge weapons systems and sensors for underwater drones as they try to reinvigorate the second pillar of the AUKUS agreement.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-30/aukus-announcement-to-develop-undersea-vehicles/106741398"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/694a102b-b3c8-4d7e-8d22-d012b50607dd",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-30T20:44:56.785776"
+  "merged_at": "2026-05-30T21:52:19.961336"
 }
