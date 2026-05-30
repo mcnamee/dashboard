@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-30T21:19:41.000000Z",
+      "title": "The 'bread and butter' of a local court: More than 20 names on the traffic list",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c1cbccf53d1b2101eab96a7fd303b972?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=3840&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "From hoons to drink drivers to people driving without a licence, one magistrate is trying to make sure the people brought before her know how quickly things can turn deadly on the roads.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-31/qld-morning-in-cleveland-magistrates-court/106587290"
+    },
+    {
       "published_datetime": "2026-05-30T20:20:32.000000Z",
       "title": "As NZ cracks down on gang members, one pastor is trying to heal them",
       "featured_image": {
@@ -44,15 +53,6 @@
       },
       "description": "Countries in Asia are emerging as the world's early adopters of AI in education, as the global race to lead in the technology accelerates.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-31/schools-in-asia-embracing-ai/106703054"
-    },
-    {
-      "published_datetime": "2026-05-30T19:09:05.000000Z",
-      "title": "How Tiananmen Square vigils in Hong Kong have become unlawful",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e29438254a202754a67c75219416e76b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=346&amp;width=862&amp;height=485"
-      },
-      "description": "In May, Hong Kong's High Court began hearing closing arguments in the case of two democracy activists charged with inciting subversion for organising a candlelight vigil to remember Tiananmen Square.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-31/tiananmen-square-hong-kong-trial-lee-cheuk-yan-chow-hang-tung/106691322"
     },
     {
       "published_datetime": "2026-05-30T19:06:24.000000Z",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-30T22:49:18.082955"
+  "merged_at": "2026-05-30T23:53:21.027537"
 }
