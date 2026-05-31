@@ -2,7 +2,7 @@
   "items": [
     {
       "published_datetime": "2026-05-31T21:15:51.000000Z",
-      "title": "Live: Joyce defends Hanson's record as One Nation leader says she has 'ability' to be PM",
+      "title": "Live: Joyce defends Hanson's attendance record, says she has 'ability' to be PM",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/383b468622b077789a0d6710664ed1ef?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -10,17 +10,8 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-01/federal-politics-live-blog-june-1/106743558"
     },
     {
-      "published_datetime": "2026-05-31T20:49:17.000000Z",
-      "title": "Two new faces named as Socceroos reveal World Cup squad",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1d5695e52b28ea6983719ea47db44351?impolicy=wcms_crop_resize&amp;cropH=1112&amp;cropW=1976&amp;xPos=0&amp;yPos=129&amp;width=862&amp;height=485"
-      },
-      "description": "Recently realigned Cristian Volpato and Japan-born Tete Yengi are in line for potential national debuts after being named in Australia's squad for this year's World Cup.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/socceroos-squad-named-for-2026-fifa-world-cup/106743604"
-    },
-    {
       "published_datetime": "2026-05-31T20:27:50.000000Z",
-      "title": "Supreme Leader hard to find as Trump wants peace plan rewrites",
+      "title": "Supreme leader hard to find as Trump wants peace plan rewrites",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3609aec22ae28d93a6b578aaa8508069?impolicy=wcms_crop_resize&amp;cropH=2350&amp;cropW=4177&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -28,10 +19,19 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-01/iran-israel-war-news-briefing-mon-jun-1/106743408"
     },
     {
-      "published_datetime": "2026-05-31T20:01:28.000000Z",
-      "title": "Byron Bay faces reckoning as women reveal predatory 2000s culture",
+      "published_datetime": "2026-05-31T20:04:53.000000Z",
+      "title": "Three-year-old child dies in Melbourne house fire",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6d750fa0e3d845eb2ac9572958e8948?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/66921740231148f3b2e03a8fbea8db7d?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=676&amp;width=862&amp;height=485"
+      },
+      "description": "A child has died in a house fire in Werribee and another person has been taken to hospital with serious injuries.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/person-dies-in-house-fire-werribee/106743516"
+    },
+    {
+      "published_datetime": "2026-05-31T20:01:28.000000Z",
+      "title": "Conviction of Aussie band's 'sixth member' reveals Byron Bay's dark side as women speak out",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1935d5997d62072b586cac4ae1d9938?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Rachel Kila has waived her right to anonymity to join dozens of others speaking out about the experiences of young girls in Byron Bay in the early 2000s, where they say it became normalised for older boys and men to groom and have sex with girls then publicly humiliate them.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-01/nsw-byron-bay-parkway-drive-sexual-assaults-metalcore/106695704"
@@ -65,7 +65,7 @@
     },
     {
       "published_datetime": "2026-05-31T18:54:20.000000Z",
-      "title": "'Caught lying': Police bashed Brad, then charged him with assaulting them",
+      "title": "'Caught lying': Police bashed a man, then charged him with assaulting them",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8fabad8341554021889da8f2db392a9e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=16&amp;width=862&amp;height=485"
       },
@@ -158,7 +158,7 @@
     },
     {
       "published_datetime": "2026-05-31T11:09:06.000000Z",
-      "title": "Young Australians reject budget as One Nation popularity climbs further",
+      "title": "One Nation overtakes Labor for first time as young Australians reject budget",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/931842a09c30dbdf8007ccec425553db?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-31T21:50:54.057483"
+  "merged_at": "2026-05-31T22:51:10.829249"
 }
