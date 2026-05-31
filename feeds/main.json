@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-05-31T21:15:51.000000Z",
+      "title": "Live: Joyce defends Hanson's record as One Nation leader says she has 'ability' to be PM",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/383b468622b077789a0d6710664ed1ef?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Barnaby Joyce has defended his leader's parliamentary attendance record after Pauline Hanson came under fire for not showing up to Senate estimates last week. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/federal-politics-live-blog-june-1/106743558"
+    },
+    {
+      "published_datetime": "2026-05-31T20:49:17.000000Z",
+      "title": "Two new faces named as Socceroos reveal World Cup squad",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1d5695e52b28ea6983719ea47db44351?impolicy=wcms_crop_resize&amp;cropH=1112&amp;cropW=1976&amp;xPos=0&amp;yPos=129&amp;width=862&amp;height=485"
+      },
+      "description": "Recently realigned Cristian Volpato and Japan-born Tete Yengi are in line for potential national debuts after being named in Australia's squad for this year's World Cup.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/socceroos-squad-named-for-2026-fifa-world-cup/106743604"
+    },
+    {
       "published_datetime": "2026-05-31T20:27:50.000000Z",
-      "title": "Iran weekly briefing: Trump demands changes to peace plan",
+      "title": "Supreme Leader hard to find as Trump wants peace plan rewrites",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3609aec22ae28d93a6b578aaa8508069?impolicy=wcms_crop_resize&amp;cropH=2350&amp;cropW=4177&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -38,7 +56,7 @@
     },
     {
       "published_datetime": "2026-05-31T18:57:41.000000Z",
-      "title": "Australian housing market stalls in May",
+      "title": "Sydney and Melbourne property values drop as housing market stalls in May",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5d2a38c9c87aff0f5b5885cae5d3e222?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
       },
@@ -62,15 +80,6 @@
       },
       "description": "Australia would be the \"perfect\" target for a fledgling Islamist terror network that has carried out antisemitic attacks in Europe, the UK and Canada, experts have warned.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-01/australia-perfect-target-for-islamist-terror-network/106694730"
-    },
-    {
-      "published_datetime": "2026-05-31T18:30:00.000000Z",
-      "title": "One-third of Ian Thorpe's life was in the spotlight, and it took its toll",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e025bd526d55f62778a3ca83be2bd01b?impolicy=wcms_crop_resize&amp;cropH=789&amp;cropW=1402&amp;xPos=0&amp;yPos=676&amp;width=862&amp;height=485"
-      },
-      "description": "Ian Thorpe became a global star as a teenager, attracting both opportunities and scrutiny. Now, he wishes he'd done some things differently.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/the-assembly-ian-thorpe/106547466"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/108ab84d-3e76-4312-b5c6-92d7a5284fcb",
@@ -155,15 +164,6 @@
       },
       "description": "Labor's federal budget is falling flat with its target demographic as millennials say they would rather vote for One Nation than Labor or the Greens, according to a new Redbridge poll.",
       "page_content_url": "https://www.abc.net.au/news/2026-05-31/pauline-hanson-preferred-prime-minister-gen-x-redbridge-poll/106742802"
-    },
-    {
-      "published_datetime": "2026-05-31T04:33:16.000000Z",
-      "title": "Australia scraps new Virginia-class submarines in AUKUS shake-up",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e02e4208ec0f1e2b63568c8168f35277?impolicy=wcms_crop_resize&amp;cropH=2751&amp;cropW=4890&amp;xPos=0&amp;yPos=509&amp;width=862&amp;height=485"
-      },
-      "description": "The US, UK and Australia have announced they will \"streamline\" the purchase, with Australia no longer buying new submarines, and acquiring three second-hand ones.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-31/australia-to-buy-second-hand-united-states-submarines-aukus/106742496"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/ba5ee972-a8a3-4c16-bddb-be949534c7de",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-31T20:49:35.371154"
+  "merged_at": "2026-05-31T21:50:54.057483"
 }
