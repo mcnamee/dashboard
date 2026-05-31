@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/899220c5-edf4-47f9-b81b-48a2b9d47591",
+      "published_datetime": "2026-05-31T16:53:38.106535",
+      "title": "Blast at explosives storage site kills dozens in Myanmar",
+      "featured_image": {
+        "url": "https://www.bbc.com/news/articles/cglp7p787njo",
+        "name": "Blast kills dozens in village in rebel-held region of Myanmar",
+        "image": "https://pplx-res.cloudinary.com/image/fetch/s--I_lYWRlY--/t_limit/https://c.files.bbci.co.uk/89f3/live/bc5821d0-5d08-11f1-9dbd-c1cee1747804.jpg",
+        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--Yi-YGk0n--/t_thumbnail/https://c.files.bbci.co.uk/89f3/live/bc5821d0-5d08-11f1-9dbd-c1cee1747804.jpg"
+      },
+      "description": "An explosion at a building storing mining explosives in northeastern Myanmar killed at least 46 people on Sunday, including six children, with local media reporting death tolls as high as 55. About 70 others were injured in the blast, which struck around noon in the village of Kaungtup in Namhkam township, roughly two miles from the Chinese border.",
+      "audio_url": "",
+      "url": "blast-at-explosives-storage-si-6K4TqbpITQKXNMKom2S6Lw",
+      "partition_name": "partition1"
+    },
+    {
       "published_datetime": "2026-05-31T11:09:06.000000Z",
       "title": "Young Australians reject budget as One Nation popularity climbs further",
       "featured_image": {
@@ -226,21 +241,6 @@
       "partition_name": "partition1"
     },
     {
-      "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/8db78110-aa59-4d44-bd80-fb3f0de36ce0",
-      "published_datetime": "2026-05-29T14:29:39.214900",
-      "title": "US-Iran draft deal includes $300B reconstruction fund for Tehran",
-      "featured_image": {
-        "url": "https://theconversation.com/in-razing-its-modernist-buildings-iran-is-erasing-its-past-western-influence-73221",
-        "name": "In razing its modernist buildings, Iran is erasing its past Western  influence",
-        "image": "https://pplx-res.cloudinary.com/image/fetch/s--hPdtMjFf--/t_limit/https://images.theconversation.com/files/170802/original/file-20170524-31373-qk4cke.jpg%3Fixlib%3Drb-4.1.0%26q%3D50%26auto%3Dformat%26w%3D768%26h%3D512%26fit%3Dcrop%26dpr%3D2",
-        "thumbnail": "https://pplx-res.cloudinary.com/image/fetch/s--G-vPI6cR--/t_thumbnail/https://images.theconversation.com/files/170802/original/file-20170524-31373-qk4cke.jpg%3Fixlib%3Drb-4.1.0%26q%3D50%26auto%3Dformat%26w%3D768%26h%3D512%26fit%3Dcrop%26dpr%3D2"
-      },
-      "description": "A draft memorandum of understanding between the United States and Iran contains a proposed $300 billion reconstruction and investment program for Tehran, according to an Iranian lawmaker and reporting from The New York Times, adding a striking economic dimension to the emerging framework aimed at ending the three-month-old war.",
-      "audio_url": "",
-      "url": "us-iran-draft-deal-includes-30-AvflMkeTQ7q20WHWGMnqdQ",
-      "partition_name": "partition1"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-05-31T16:57:21.339925"
+  "merged_at": "2026-05-31T17:58:16.974372"
 }
