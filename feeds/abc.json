@@ -1,6 +1,105 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-01T08:09:10.000000Z",
+      "title": "'Happy [and safe] shooting!' AI chatbot's chilling message",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d5cfef4cd32f733153b30b81ea162037?impolicy=wcms_crop_resize&amp;cropH=1687&amp;cropW=3000&amp;xPos=0&amp;yPos=40&amp;width=862&amp;height=485"
+      },
+      "description": "An investigation into how AI chatbots respond to violent requests produces \"deeply disturbing\" results, as OpenAI denies ChatGPT encourage crime.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/ai-lawsuit-mass-shooting-chatbot-chatgpt/106724520"
+    },
+    {
+      "published_datetime": "2026-06-01T05:51:27.000000Z",
+      "title": "'Deeply concerning outbreak': Australia keeps borders open as Ebola spreads",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b5de81a9b363b539d46c329e0c6a0ccc?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=211&amp;width=862&amp;height=485"
+      },
+      "description": "The federal government will not impose border restrictions on travellers from Ebola-stricken countries despite new suspected cases in Italy and Brazil, as the worsening outbreak prompts other countries to take action.  ",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/ebola-australia-travel-restrictions-mark-butler/106745230"
+    },
+    {
+      "published_datetime": "2026-06-01T06:56:55.000000Z",
+      "title": "Teen charged with violent extremist offences allegedly planned school attack",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c1c13c5d5d6eb8a139060ec7b6c113e7?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Queensland Police say a 13-year-old boy posed an \"imminent threat\" to a Maryborough school.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/boy-13-charged-with-violent-extremist-offences/106746602"
+    },
+    {
+      "published_datetime": "2026-06-01T04:03:31.000000Z",
+      "title": "Israel laid siege to an 889-year-old castle. Here's why that matters",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f8eaf7e4a68a850d18d0340bf6381c50?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=65&amp;width=862&amp;height=485"
+      },
+      "description": "Israel has captured a castle in southern Lebanon in a mountainous military siege that marked Israeli forces' deepest incursion into the country in 26 years.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/israel-beaufort-castle-lebanon-capture-explained/106744708"
+    },
+    {
+      "published_datetime": "2026-06-01T08:38:54.000000Z",
+      "title": "Miley Cyrus emails and emoji texts amid Melbourne film festival data leak",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/04309dbfbcea9907d78f4a704739a067?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
+      },
+      "description": "Melbourne International Film Festival customers receive strange texts and emails after a data breach linked to the event's third-party ticketing system.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/melbourne-international-film-festival-data-leak-ferve-ticketing/106746980"
+    },
+    {
+      "published_datetime": "2026-06-01T04:57:26.000000Z",
+      "title": "Spotlight on Welcome to Country ceremonies in wake of Anzac Day controversy",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b528c9075751b8582275bfc0bb9f742f?impolicy=wcms_crop_resize&amp;cropH=3031&amp;cropW=5388&amp;xPos=0&amp;yPos=281&amp;width=862&amp;height=485"
+      },
+      "description": "Indigenous elders explain why they believe Welcome to Country ceremonies have faced opposition, and why abandoning the practice would create a cultural \"abyss\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/reconciliation-week-puts-spotlight-on-welcome-to-country/106739750"
+    },
+    {
+      "published_datetime": "2026-06-01T06:29:28.000000Z",
+      "title": "Iran and US both say they targeted the other's military",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8a3bd0917a66ed31d43a5d12e5fbe53e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The United States says it struck Iranian military and Iran says it responded by targeting a US base. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/us-iran-exchange-strikes-amid-negotiations-to-end-war/106746458"
+    },
+    {
+      "published_datetime": "2026-05-31T11:09:06.000000Z",
+      "title": "Chalmers accepts voters 'legitimate concerns' as One Nation overtakes Labor",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/721810fb1ad36aaef410a9bfecf4049c?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Labor's federal budget is falling flat with its target demographic as millennials say they would rather vote for One Nation than Labor or the Greens, according to a new Redbridge poll.",
+      "page_content_url": "https://www.abc.net.au/news/2026-05-31/pauline-hanson-preferred-prime-minister-gen-x-redbridge-poll/106742802"
+    },
+    {
+      "published_datetime": "2026-06-01T03:36:35.000000Z",
+      "title": "Eerie footage and DNA: What we know four months since Nancy Guthrie vanished",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5dbbc5ae4d06f45513d446d834eb9ede?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=177&amp;width=862&amp;height=485"
+      },
+      "description": "It has been four months since Nancy Guthrie, the mother of America's Today show co-host Savannah Guthrie, was reported missing. This is what we know about the alleged abduction. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/nancy-guthrie-missing-person-four-months-savannah-today-show-/106675568"
+    },
+    {
+      "published_datetime": "2026-06-01T08:19:03.000000Z",
+      "title": "Influencer's chat with Sydney nurses recorded for 'protection', court told",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e0adfcd18ecaabe72985e0f9e145f023?impolicy=wcms_crop_resize&amp;cropH=449&amp;cropW=798&amp;xPos=0&amp;yPos=87&amp;width=862&amp;height=485"
+      },
+      "description": "An Israeli content creator involved in an online video chat where two Sydney nurses allegedly threatened Israeli patients tells a court he recorded his chats for his own protection and published their conversation because he was \"really worried about their statements\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/max-veifer-posted-bankstown-nurses-chat-to-warn-our-people-court/106746122"
+    },
+    {
+      "published_datetime": "2026-06-01T06:51:52.000000Z",
+      "title": "'Panic started to set in': Woman rescued from quicksand on Adelaide beach",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ad648b9831e777901cd611b3252a27a9?impolicy=wcms_crop_resize&amp;cropH=575&amp;cropW=1023&amp;xPos=0&amp;yPos=1063&amp;width=862&amp;height=485"
+      },
+      "description": "A relaxing sunset walk at the beach with a friend turned to panic for a young woman after her leg got stuck in quicksand, prompting a rescue from police and fire crews. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/sa-woman-rescued-in-quicksand/106745068"
+    },
+    {
       "published_datetime": "2026-05-31T20:01:28.000000Z",
       "title": "Dozens of women reveal dark side of growing up in Byron Bay 'paradise'",
       "featured_image": {
@@ -10,130 +109,40 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-01/nsw-byron-bay-parkway-drive-sexual-assaults-metalcore/106695704"
     },
     {
-      "published_datetime": "2026-05-31T21:15:51.000000Z",
-      "title": "Live: Pauline Hanson says she has 'the ability' to be PM",
+      "published_datetime": "2026-06-01T08:51:52.000000Z",
+      "title": "The sliding door moment for 'awestruck' Diamonds bolter",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7c0354e120dd0f3b6c3fbe7e71ffdc29?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=42&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3f50302879a16ccb5cbc38527edba896?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=63&amp;width=862&amp;height=485"
       },
-      "description": "Pauline Hanson says she has the ability to lead the nation as prime minister but admits she was shocked by a poll that suggested One Nation had pulled ahead of Labor. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/federal-politics-live-blog-june-1/106743558"
+      "description": "Despite signing her first full-time Super Netball contract this year there was no guarantee Jessie Grenvold would get a lot of court time. But through injury, the Mavericks defender took on a starting spot and is now a Diamond.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/2026-super-netball-round-up-round12/106746962"
     },
     {
-      "published_datetime": "2026-05-31T11:09:06.000000Z",
-      "title": "One Nation overtakes Labor for first time as young Australians reject budget",
+      "published_datetime": "2026-06-01T05:14:38.000000Z",
+      "title": "'One more to go': Aussies on cusp of winning rugby 7s World Championship",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/931842a09c30dbdf8007ccec425553db?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5cf66ee10485c1d8b48e7720a21e20cb?impolicy=wcms_crop_resize&amp;cropH=1219&amp;cropW=2168&amp;xPos=288&amp;yPos=208&amp;width=862&amp;height=485"
       },
-      "description": "Labor's federal budget is falling flat with its target demographic as millennials say they would rather vote for One Nation than Labor or the Greens, according to a new Redbridge poll.",
-      "page_content_url": "https://www.abc.net.au/news/2026-05-31/pauline-hanson-preferred-prime-minister-gen-x-redbridge-poll/106742802"
+      "description": "Australia puts itself in pole position to win the women's rugby sevens World Championship, while the men's team also enjoys the spoils of victory in Spain.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/australia-win-rugby-7s-world-championship-round-in-spain/106746068"
     },
     {
-      "published_datetime": "2026-06-01T00:13:54.000000Z",
-      "title": "Government loses bid to keep terror funding documents secret",
+      "published_datetime": "2026-06-01T06:10:01.000000Z",
+      "title": "Euphoria season 3 finale recap: Guns, drugs and Rue's fate",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29ceb7b0c02187086e81e5ac57428abb?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7e1c50312f9a1994144901eaeccf5da7?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Commissioner Virginia Bell says the documents will provide a comparison of the resourcing given to counterterrorism agencies before and after August 2024, when the terror threat level was raised to \"probable\". ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/antisemitism-royal-counterterrorism-bondi-terror-attack/106743974"
+      "description": "Here's your recap of season 3, episode 8 of Euphoria. There are spoilers. You have been warned.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/euphoria-season-3-finale-recap/106744096"
     },
     {
-      "published_datetime": "2026-06-01T02:03:30.000000Z",
-      "title": "Woman charged with joining Islamic State 'renounces' terror group",
+      "published_datetime": "2026-06-01T04:54:04.000000Z",
+      "title": "Four easy, tasty curries for busy winter weeknights",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/72682db4a8065e23960adb809bdfeef6?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=175&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a0f692a454566e47e0e49490dc13bc52?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=55&amp;width=862&amp;height=485"
       },
-      "description": "Melbourne woman Rayann El Houli appears in court for a bail hearing after being charged with travelling to Syria to join the Islamic State group, before returning home last year.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/rayann-el-houli-appears-in-melbourne-magistrates-court-for-bail-/106743858"
-    },
-    {
-      "published_datetime": "2026-05-31T18:54:20.000000Z",
-      "title": "Police unlawfully arrested this man, broke his ribs, then charged him with assault",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cde773c8181558e0325fb777363d97bc?impolicy=wcms_crop_resize&amp;cropH=1078&amp;cropW=1917&amp;xPos=0&amp;yPos=202&amp;width=862&amp;height=485"
-      },
-      "description": "After fracturing about a dozen of a man's ribs and puncturing his lung, police officers discussed how to explain what happened to him.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/nsw-police-bashed-brad-kellson-covered-it-up-four-corners/106726572"
-    },
-    {
-      "published_datetime": "2026-06-01T03:36:35.000000Z",
-      "title": "Nancy Guthrie's whereabouts remain a mystery four months after vanishing",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5dbbc5ae4d06f45513d446d834eb9ede?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=177&amp;width=862&amp;height=485"
-      },
-      "description": "It has been four months since Nancy Guthrie, the mother of America's Today show co-host Savannah Guthrie, was reported missing. This is what we know about the alleged abduction. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/nancy-guthrie-missing-person-four-months-savannah-today-show-/106675568"
-    },
-    {
-      "published_datetime": "2026-05-31T19:00:00.000000Z",
-      "title": "Why is Labor spending its political majority on this tax reform?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/beb7304bfe6cacdb6e62a44eb88b458f?impolicy=wcms_crop_resize&amp;cropH=3211&amp;cropW=5709&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
-      },
-      "description": "Why has Labor decided to spend the political capital of a large majority on a minor change to capital gains tax on businesses? ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/capital-gains-tax-negative-gearing-housing-chalmers-albanese/106742204"
-    },
-    {
-      "published_datetime": "2026-05-31T22:48:51.000000Z",
-      "title": "Almost 70,000 without power after storms tear through southern WA",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fb8f6f45c64a8f304d608223089e699a?impolicy=wcms_crop_resize&amp;cropH=1361&amp;cropW=2420&amp;xPos=0&amp;yPos=227&amp;width=862&amp;height=485"
-      },
-      "description": "Tens of thousands of homes are without power and the SES receives hundreds of calls for help, with the roof torn off one Perth apartment building, after WA's southern half is hammered by more severe weather.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/wa-storm-leaves-thousands-without-power-in-wild-weather/106742688"
-    },
-    {
-      "published_datetime": "2026-05-31T18:57:41.000000Z",
-      "title": "Sydney and Melbourne property values drop as housing market stalls in May",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5d2a38c9c87aff0f5b5885cae5d3e222?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
-      },
-      "description": "Australia's housing market continues to lose momentum, with national home values flatlining in May as higher interest rates, weak confidence and proposed property tax changes weigh on demand. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/may-cotality-housing-values-stall-australia/106732622"
-    },
-    {
-      "published_datetime": "2026-05-31T21:29:56.000000Z",
-      "title": "Live: ASX lower despite Wall St gains, AUD flat, oil higher",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f7003a28237717ff6552df0353686c50?impolicy=wcms_crop_resize&amp;cropH=448&amp;cropW=795&amp;xPos=0&amp;yPos=45&amp;width=862&amp;height=485"
-      },
-      "description": "The Australian share market has begun winter with a slight decline, with the ASX 200 in negative territory to start the new trading week. The weakness comes despite a solid finish on Wall Street on Friday, with the Dow Jones, S&amp;P 500 and Nasdaq all ending higher. Follow our live business blog.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/asx-markets-business-live-news-asx-wall-street-oil/106742798"
-    },
-    {
-      "published_datetime": "2026-06-01T00:52:32.000000Z",
-      "title": "'I won't be a yes man': Co-chair of ACT Reconciliation council resigns",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d7b48ed561fdf79f8dff1e42c5c220aa?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "ACT Reconciliation Council co-chair Selina Walker resigns, saying she has lost faith in the territory government's approach to Indigenous affairs.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/act-reconciliation-council-selina-walker-resigns/106743894"
-    },
-    {
-      "published_datetime": "2026-06-01T03:18:40.000000Z",
-      "title": "Search for man missing in East Arnhem Land ends after nine days",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4922edd735ccb54e0d2109dd4c59c07b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=859&amp;width=862&amp;height=485"
-      },
-      "description": "After a nine-day operation covering more than 1,300 square kilometres of land, the search for a 31-year-old man in East Arnhem Land has been stood down.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/search-31yo-missing-man-east-arnhem-land-stood-down-nine-days/106745054"
-    },
-    {
-      "published_datetime": "2026-05-31T20:04:53.000000Z",
-      "title": "Three-year-old child dies in Melbourne house fire",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/66921740231148f3b2e03a8fbea8db7d?impolicy=wcms_crop_resize&amp;cropH=592&amp;cropW=1052&amp;xPos=213&amp;yPos=756&amp;width=862&amp;height=485"
-      },
-      "description": "A child has died in a house fire in Werribee and another person has been taken to hospital with serious injuries.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/person-dies-in-house-fire-werribee/106743516"
-    },
-    {
-      "published_datetime": "2026-05-31T18:30:00.000000Z",
-      "title": "One-third of Ian Thorpe's life was in the spotlight, and it took its toll",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e025bd526d55f62778a3ca83be2bd01b?impolicy=wcms_crop_resize&amp;cropH=789&amp;cropW=1402&amp;xPos=0&amp;yPos=676&amp;width=862&amp;height=485"
-      },
-      "description": "Ian Thorpe became a global star as a teenager, attracting both opportunities and scrutiny. Now, he wishes he'd done some things differently.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/the-assembly-ian-thorpe/106547466"
+      "description": "Curries are perfect for cooler months, and many come with a serving of immune-boosting properties. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/easy-curry-recipes-affordable/106690808"
     },
     {
       "published_datetime": "2026-05-31T18:30:00.000000Z",
@@ -145,58 +154,49 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-01/how-do-prenups-or-binding-financial-agreements-work-australia/106736322"
     },
     {
-      "published_datetime": "2026-05-31T20:24:22.000000Z",
-      "title": "Roadside stalls are booming, with 45,000 members in one group alone",
+      "published_datetime": "2026-05-31T22:48:51.000000Z",
+      "title": "Almost 70,000 without power after storms tear through southern WA",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8d136a24e4554d2032c50aeba7978518?impolicy=wcms_crop_resize&amp;cropH=1104&amp;cropW=1963&amp;xPos=1975&amp;yPos=736&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/32480ef550aef1729fb27cf9072ac724?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=391&amp;width=862&amp;height=485"
       },
-      "description": "Nestled away in the Adelaide Hills are dozens of roadside stalls dedicated to local produce, including baked goods and bouquets, and business is booming.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/roadside-stalls-are-booming-in-the-adelaide-hills/106718794"
+      "description": "Tens of thousands of homes are without power and the SES receives hundreds of calls for help, with the roofs torn off two apartment buildings, after WA's southern half is hammered by more severe weather.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/wa-storm-leaves-thousands-without-power-in-wild-weather/106742688"
     },
     {
-      "published_datetime": "2026-06-01T02:35:13.000000Z",
-      "title": "'Bittersweet': These unique trees only flower once in their life — then die",
+      "published_datetime": "2026-05-31T18:54:20.000000Z",
+      "title": "Police unlawfully arrested this man, broke his ribs, then charged him with assault",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12228dede0944da6ffc3ce16fa504948?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8fabad8341554021889da8f2db392a9e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=16&amp;width=862&amp;height=485"
       },
-      "description": "About 20 Gebang palms have flowered in Darwin in a rare spectacle, reaffirming the local council's plans to foster a new generation of the trees.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/mass-flowering-of-gebang-palms-in-darwin-nt-rare-event/106740898"
+      "description": "After fracturing about a dozen of a man's ribs and puncturing his lung, police officers discussed how to explain what happened to him.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/nsw-police-bashed-brad-kellson-covered-it-up-four-corners/106726572"
     },
     {
-      "published_datetime": "2026-06-01T02:37:30.000000Z",
-      "title": "'Loving' parents not at fault for deaths of children left in hot cars, coroner finds",
+      "published_datetime": "2026-06-01T08:22:53.000000Z",
+      "title": "Suppression order for name of a high-profile Queensland man stands for now",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f1a8f649a117d62e72db141c9d9d52d1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=469&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a97a4c5bf51a1abd3a5f13480bac5cec?impolicy=wcms_crop_resize&amp;cropH=2366&amp;cropW=4206&amp;xPos=0&amp;yPos=186&amp;width=862&amp;height=485"
       },
-      "description": "The deaths of two children who were left in cars during hot weather were the result of their parents' memory failure, a NSW coroner finds.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/nsw-coroner-finds-child-deaths-in-cars-followed-memory-failure/106744988"
+      "description": "The name of a high-profile Queenslander entwined in an extortion charge must temporarily remain under wraps while police prepare an application to prevent it from becoming public knowledge.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/suppression-order-stands-for-high-profile-queensland-man/106746626"
     },
     {
-      "published_datetime": "2026-06-01T02:16:35.000000Z",
-      "title": "House fire allegedly started by half-brother of murdered teen Angus Beaumont",
+      "published_datetime": "2026-06-01T08:19:46.000000Z",
+      "title": "Councillor called a narcissist, accused of bullying council CEO in court",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a8310d850f494fff1e4edd376bec6137?impolicy=wcms_crop_resize&amp;cropH=724&amp;cropW=1288&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/811389c7366b481ed8f347abe3f45d85?impolicy=wcms_crop_resize&amp;cropH=2168&amp;cropW=3855&amp;xPos=0&amp;yPos=234&amp;width=862&amp;height=485"
       },
-      "description": "A fire that destroyed a Redcliffe home and damaged two other was allegedly started by the half-brother of murdered teenager Angus Beaumont.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/clontarf-beaumont-fire-wardle/106744372"
+      "description": "A Snowy Monaro councillor has accused the industrial relations commission of sanitising his statements in a case over bullying of his council's CEO. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/andrew-thaler-bullying-court/106745198"
     },
     {
-      "published_datetime": "2026-06-01T01:52:55.000000Z",
-      "title": "Public servant to take SA government to court over golf course redevelopment",
+      "published_datetime": "2026-06-01T02:03:30.000000Z",
+      "title": "Woman charged with joining Islamic State 'renounces' terror group",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6052573b473d10f05619d1df28780406?impolicy=wcms_crop_resize&amp;cropH=2295&amp;cropW=4080&amp;xPos=0&amp;yPos=494&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/72682db4a8065e23960adb809bdfeef6?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=175&amp;width=862&amp;height=485"
       },
-      "description": "An Adelaide man alleges the state government failed to properly refer the controversial North Adelaide Golf Course to the federal environment minister for approval.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/north-adelaide-golf-course-court-injunction/106742516"
-    },
-    {
-      "published_datetime": "2026-06-01T00:33:12.000000Z",
-      "title": "Olympic stadium work underway as premier warns off protesters",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/da7effac3bb862d81b0aa71fbc7f3748?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The last protesters were removed from Victoria Park in the early hours of Monday morning.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/brisbane-olympics-victoria-park-protest-2032-crisafulli/106743606"
+      "description": "Melbourne woman Rayann El Houli appears in court for a bail hearing after being charged with travelling to Syria to join the Islamic State group, before returning home last year.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/rayann-el-houli-appears-in-melbourne-magistrates-court-for-bail-/106743858"
     },
     {
       "published_datetime": "2026-06-01T02:27:31.000000Z",
@@ -208,22 +208,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-01/ai-videos-spark-concern-among-tourism-operators-in-wa-north/106731806"
     },
     {
-      "published_datetime": "2026-06-01T03:25:33.000000Z",
-      "title": "Thousands of green sea turtle hatchlings swim to sea in a conservation win",
+      "published_datetime": "2026-06-01T05:17:08.000000Z",
+      "title": "Police scour mine shafts, drain dam in search for missing outback woman",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ede14b3ba00093b08a426373eb778f1b?impolicy=wcms_crop_resize&amp;cropH=879&amp;cropW=1562&amp;xPos=297&amp;yPos=138&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a6820f43bbfb2c48471044fdcf7cd1fb?impolicy=wcms_crop_resize&amp;cropH=392&amp;cropW=697&amp;xPos=0&amp;yPos=24&amp;width=862&amp;height=485"
       },
-      "description": "The project at Raine Island, where 90 per cent of northern green sea turtles nest, has been working for a decade to improve hatching success.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/green-sea-turtle-babies-hatch-/106739118"
+      "description": "A renewed search for 41-year-old Trisha Graf will include searching about 1,000 mine shafts and draining Blue Dam.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/police-searching-for-trisha-graf-scour-mine-shafts-drain-dam/106745774"
     },
     {
-      "published_datetime": "2026-05-31T20:14:35.000000Z",
-      "title": "Shein, Kmart fight back against Qld retailer in intellectual property dispute",
+      "published_datetime": "2026-06-01T06:03:10.000000Z",
+      "title": "Maroons hit with double injury blow ahead of Origin II",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1e3bff5cbb3ee9697cae3e46ebb0c15a?impolicy=wcms_crop_resize&amp;cropH=788&amp;cropW=1400&amp;xPos=0&amp;yPos=26&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a51ad05f5bf6cc41cd2190f6d1d0a7a9?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=6&amp;width=862&amp;height=485"
       },
-      "description": "Shein and Kmart have fired back at Sabo Skirt in an intellectual property dispute, saying the designs have been accused of copying are substantially similar to pre-existing designs.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-01/shein-kmart-defend-sabo-skirt-copying-claim/106725870"
+      "description": "Queensland's task of levelling the State of Origin series has become more difficult after confirmation two of its stars have been ruled out of Game II at the MCG.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-01/state-of-origin-queensland-maroons-nsw-blues-carrigan-shibasaki/106746388"
     }
   ]
 }
