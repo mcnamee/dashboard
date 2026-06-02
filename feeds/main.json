@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-02T13:42:26.000000Z",
+      "title": "Plan for Stars and Renegades to merge in BBL shake-up",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/96b9d55420953bc3f23e9b9a675745e9?impolicy=wcms_crop_resize&amp;cropH=2713&amp;cropW=4823&amp;xPos=0&amp;yPos=251&amp;width=862&amp;height=485"
+      },
+      "description": "Cricket Victoria plans to merge the Stars and Renegades into one 'Melbourne' team.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-02/cricket-merger/106752052"
+    },
+    {
       "published_datetime": "2026-06-02T07:59:50.000000Z",
       "title": "Prominent surgeon Dr Reza Adib suspended by health ombudsman",
       "featured_image": {
@@ -38,11 +47,11 @@
     },
     {
       "published_datetime": "2026-06-02T06:12:23.000000Z",
-      "title": "Labor MP calls for AUKUS 'renegotiation'",
+      "title": "Government says it preferred second-hand submarines",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f681da3e12883fb588342d947dfc5f1?impolicy=wcms_crop_resize&amp;cropH=2880&amp;cropW=5120&amp;xPos=0&amp;yPos=265&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fe37957bd0a38b4ca5be199b8aa01a28?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "An outspoken backbencher points to changes that will see Australia buy three used Virginia-class submarines as a catalyst to consider changes.",
+      "description": "Australia and the United States' initial positions about delivering a new submarine under AUKUS differed, Senate estimates has revealed.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-02/ed-husic-calls-for-aukus-deal-rethink-submarines/106750234"
     },
     {
@@ -65,11 +74,11 @@
     },
     {
       "published_datetime": "2026-06-02T02:51:14.000000Z",
-      "title": "Russian strike on Ukraine leaves multiple dead and others feared trapped",
+      "title": "Major Russian attack on Ukraine leaves at least 18 dead and dozens injured",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0d497f4018d3fffc8f2abf20c079c596?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=21&amp;width=862&amp;height=485"
       },
-      "description": "A major Russian attack on parts of Ukraine and its capital, Kyiv, has killed multiple people, damaged buildings and left others feared trapped under rubble, local authorities say.",
+      "description": "Moscow targeted Kyiv and other cities, killing multiple people, damaging buildings and leaving wounded trapped under rubble, local authorities say.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-02/russian-attack-on-ukraine-kills-multiple-injures-dozens/106749370"
     },
     {
@@ -155,15 +164,6 @@
       "audio_url": "",
       "url": "eu-climate-chief-says-cop-summ-1QUkZBJhQoK2XY41IX0Wtg",
       "partition_name": "partition1"
-    },
-    {
-      "published_datetime": "2026-06-01T19:00:00.000000Z",
-      "title": "What the polls reveal about One Nation's growing appeal",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/17ae5881606522df2ecb48b78c9dabff?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "The One Nation leader, whose popularity has soared in the past 12 months, would be the first to say she doesn't put too much stock in the numbers.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-02/one-nation-polling-election-labor-coalition-victoria/106744452"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/82c6be31-04ec-492c-a71e-f6c1afa230cd",
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-02T14:13:02.261770"
+  "merged_at": "2026-06-02T14:43:14.235027"
 }
