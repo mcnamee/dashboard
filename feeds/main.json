@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-02T18:04:35.000000Z",
+      "title": "Israel and Hezbollah trade fire, as Trump says US-Iran talks continue",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1293ab35c2ad37d77468b174e044d333?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Lebanese state media has reported Israeli strikes, some deadly, at about 30 locations in the country's south despite a partial ceasefire in place.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-03/israel-strikes-southern-lebanon/106752298"
+    },
+    {
+      "published_datetime": "2026-06-02T15:41:02.000000Z",
+      "title": "El Nino will 'pour fuel on the fire' as India experiences deadly heatwave",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7b0f9d154bda08b242da910033ab5807?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "India's deadly heatwave comes as the UN warns the world to prepare for a moderate to strong El Nino this year.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-03/un-warns-countries-to-prepare-for-moderate-to-strong-el-nino/106752044"
+    },
+    {
       "published_datetime": "2026-06-02T13:42:26.000000Z",
       "title": "Plan for Stars and Renegades to merge in BBL shake-up",
       "featured_image": {
@@ -17,24 +35,6 @@
       },
       "description": "Obesity surgeon Reza Adib has been suspended from practising medicine as he faces rape charges.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-02/dr-vahid-reza-adib-registration-suspended/106751460"
-    },
-    {
-      "published_datetime": "2026-06-02T07:46:53.000000Z",
-      "title": "'Terribly sad day': Beer experts say Boag's closure points to growing cost of brewing",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1a4891edba56591a954e7b301a90c900?impolicy=wcms_crop_resize&amp;cropH=2933&amp;cropW=5214&amp;xPos=1472&amp;yPos=604&amp;width=862&amp;height=485"
-      },
-      "description": "Beer industry stakeholders say it's a \"sad day for the history of Tassie beer\" after the announcement Boag's brewery in Launceston will close.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-02/boags-brewery-closure-shock/106749180"
-    },
-    {
-      "published_datetime": "2026-06-02T07:17:51.000000Z",
-      "title": "'It is very scary': Parents shocked school was target of alleged deadly plot",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1867fccbcfbc74555560b7eda01026c5?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A 13-year-old boy has been charged with violent extremist offences and posed an \"imminent threat\" to the school.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-02/parents-shocked-school-was-the-target-of-violent-extremist-plan/106748782"
     },
     {
       "published_datetime": "2026-06-02T06:28:55.000000Z",
@@ -74,7 +74,7 @@
     },
     {
       "published_datetime": "2026-06-02T02:51:14.000000Z",
-      "title": "Major Russian attack on Ukraine leaves at least 18 dead and dozens injured",
+      "title": "Major Russian attack on Ukraine leaves at least 22 dead and dozens injured",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0d497f4018d3fffc8f2abf20c079c596?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=21&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-02T14:43:14.235027"
+  "merged_at": "2026-06-02T18:32:22.353861"
 }
