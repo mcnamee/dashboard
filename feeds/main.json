@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-06-01T21:59:42.000000Z",
-      "title": "NDAs to be waived for landmark military sexual violence inquiry",
+      "published_datetime": "2026-06-01T23:15:42.000000Z",
+      "title": "Breaking: Gas workers strike as negotiations on pay deal stall",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c1276e8a66437966a0f6e3173a09f881?impolicy=wcms_crop_resize&amp;cropH=652&amp;cropW=1158&amp;xPos=162&amp;yPos=246&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d546b7d0e4fe28f95be51b0ac923fa2d?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
       },
-      "description": "Gag orders imposed on former and current Defence personnel who experienced sexual violence will not be enforced, allowing them to participate in a landmark military sexual violence inquiry.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-02/ndas-to-be-waived-for-landmark-military-sexual-violence-inquiry/106748270"
+      "description": "Australian workers at the Japanese gas company Inpex walked off the job this morning, and plan to strike again this evening.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-02/nt-gas-inpex-workers-on-strike/106748460"
+    },
+    {
+      "published_datetime": "2026-06-01T21:46:59.000000Z",
+      "title": "Live: Minimum wage increase to affect millions of Australian workers",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0c58a9104da99e5939292f874dc8e107?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "A decision on how much the minimum wage will increase will be announced this morning, affecting the pay packets of millions of Australians. Track the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-02/asx-markets-business-live-news-june-2-2026/106746994"
     },
     {
       "page_content_url": "https://r2cdn.perplexity.ai/discover/pages/v1/en-US/34c075e9-b768-4f9a-afce-ad63c60332d0",
@@ -48,7 +57,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f1b6a8fc517c192258638fb532b9b91b?impolicy=wcms_crop_resize&amp;cropH=1329&amp;cropW=2362&amp;xPos=0&amp;yPos=58&amp;width=862&amp;height=485"
       },
-      "description": "A luxury resort that has been shut for three years hopes to reopen by chauffeuring guests down a steep 4WD track and flying them in on more than 200 helicopter flights a week.\u00a0",
+      "description": "A luxury resort that has been shut for three years hopes to reopen by chauffeuring guests down a steep 4WD track and flying them in on more than 200 helicopter flights a week.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-02/emirates-bid-to-boost-helicopters-to-wolgan-valley-resort/106702648"
     },
     {
@@ -76,15 +85,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-02/one-nation-polling-election-labor-coalition-victoria/106744452"
     },
     {
-      "published_datetime": "2026-06-01T18:48:52.000000Z",
-      "title": "Baby items, meal deliveries: ATO warns taxpayers to stop 'unusual' claims",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c380a4e03ff74f30822e1a8c1d53b4dd?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Australian Taxation Office (ATO) is warning Australians to stop claiming private expenses on their tax returns. The agency gives its tips this tax time, including the dos and don'ts of claiming work-related expenses and investment losses.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-02/tax-time-2026-ato-warns-millions-of-aussies-claim-tax-deductions/106732166"
-    },
-    {
       "published_datetime": "2026-06-01T18:48:01.000000Z",
       "title": "Workmate of missing Jack McLennan says he's 'given police absolutely everything'",
       "featured_image": {
@@ -95,7 +95,7 @@
     },
     {
       "published_datetime": "2026-06-01T18:45:36.000000Z",
-      "title": "Could the battery boom lower inflation and interest rates?",
+      "title": "How batteries muscled out gas and pushed power prices down",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1748c4a4c0ead425b32f5ba49ee2aeb8?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -308,5 +308,5 @@
   "abc_items": 25,
   "perplexity_items": 20,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-01T23:06:52.671150"
+  "merged_at": "2026-06-02T00:07:38.892727"
 }
