@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-04T12:51:37.000000Z",
+      "title": "Man presumed dead survives week on Mount Everest without food or oxygen",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/43411f44ad90609c69ce09c34fa01248?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=514&amp;width=862&amp;height=485"
+      },
+      "description": "A Sherpa guide, presumed dead after failing to descend from Mount Everest, was found crawling down to base camp a week after he went missing.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-04/everest-sherpa-survives-week-on-mountain-without-food-or-oxygen/106761568"
+    },
+    {
+      "published_datetime": "2026-06-04T11:25:45.000000Z",
+      "title": "Wong says she believes activists who say they were sexually assaulted in Israeli custody",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6c0af6ce5a282ad734e4b5dccf40e661?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Foreign minister Penny Wong has told a parliamentary hearing she believes the allegations of Australian activists, who say they were sexually assaulted while detained by Israeli forces.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-04/penny-wong-says-she-believes-activists-detained-by-israel/106761444"
+    },
+    {
       "published_datetime": "2026-06-04T08:49:07.000000Z",
       "title": "Bondi terror attack hero Ahmed Al Ahmed charged with assault",
       "featured_image": {
@@ -17,15 +35,6 @@
       },
       "description": "Potato baron Tony Galati's business group has been fined $20,000 after it was found to have built an illegal Spuddies potato chip factory in WA's South West.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-04/galati-group-fined-20k-for-illegal-spuddies-chip-factory/106759044"
-    },
-    {
-      "published_datetime": "2026-06-04T08:12:24.000000Z",
-      "title": "Live: Sea Eagles overcome early sin bin to lead Rabbitohs at Brookvale",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/67ed2a5235c9a91a88149a354796f2df?impolicy=wcms_crop_resize&amp;cropH=2300&amp;cropW=4089&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Sea Eagles and Rabbitohs meet in a top eight clash at Brookvale Oval, days after Kieran Foran's ascension to full-time Manly coach. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-04/nrl-live-round-14-sea-eagles-vs-rabbitohs-pat-carrigan-surgery/106753136"
     },
     {
       "published_datetime": "2026-06-04T07:49:46.000000Z",
@@ -53,15 +62,6 @@
       },
       "description": "Married At First Sight UK has become the centre of rape allegations. Now former MAFS Australia contestants and producers are speaking out about being coerced into intimacy.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-04/married-at-first-sight-controversy-consent-concerns/106758932"
-    },
-    {
-      "published_datetime": "2026-06-04T06:45:40.000000Z",
-      "title": "Senate estimates gets sweary, Albanese government under pressure",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/929d4245ecb6a936c20449a8c39347ea?impolicy=wcms_crop_resize&amp;cropH=453&amp;cropW=805&amp;xPos=51&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "This week the Albanese government was under pressure on multiple fronts, Senate Estimates got a little sweary and Tony Abbott said he hadn't taken a \"vow of silence\".\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-04/senate-estimates-albanese-government-under-pressure/106743856"
     },
     {
       "published_datetime": "2026-06-04T05:21:16.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-04T10:55:02.637774"
+  "merged_at": "2026-06-04T13:53:39.549983"
 }
