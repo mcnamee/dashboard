@@ -1,8 +1,71 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-05T06:08:03.000000Z",
+      "title": "PM admits One Nation's rise influenced decision to overhaul tax system",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28ef840ff8c09c9d8a035c15854f9519?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The rise of One Nation is partly behind the government's decision to take on tax reform in this year's budget, the prime minister has admitted.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-05/albanese-one-nation-influence-tax-cgt/106765436"
+    },
+    {
+      "published_datetime": "2026-06-05T05:31:02.000000Z",
+      "title": "Bikie scales dock, escapes Darwin courthouse triggering police manhunt",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/254e4b3616cf435cd3fcdf3a135b87f0?impolicy=wcms_crop_resize&amp;cropH=340&amp;cropW=605&amp;xPos=106&amp;yPos=8&amp;width=862&amp;height=485"
+      },
+      "description": "A manhunt is under way in Darwin as police search for Brandt Graham, a 44-year-old Mongols bikie who scaled an enclosed courthouse dock and escaped from custody today.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-05/nt-police-manhunt-brandt-graham-escape-from-darwin-local-court/106764576"
+    },
+    {
+      "published_datetime": "2026-06-05T05:08:42.000000Z",
+      "title": "Recorded flu numbers drop drastically but expert warns caution",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/009856e1fe6d85f5c9bd23bc70be0609?impolicy=wcms_crop_resize&amp;cropH=560&amp;cropW=995&amp;xPos=0&amp;yPos=100&amp;width=862&amp;height=485"
+      },
+      "description": "Flu cases have come down since the record-breaking 2025 season but experts warn against a \"false sense of security\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-05/flu-numbers-down-ahead-of-winter-season/106764148"
+    },
+    {
+      "published_datetime": "2026-06-05T05:01:07.000000Z",
+      "title": "Daughter says parents' rural home stabbing 'deeply traumatising'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94ab45d7fae54f540f831572ebe4327f?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The daughter of a couple who suffered critical stab wounds during a suspected home invasion on a remote property said the family is traumatised by the incident.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-05/family-traumatised-by-torrington-alleged-home-invasion/106764914"
+    },
+    {
+      "published_datetime": "2026-06-05T04:35:23.000000Z",
+      "title": "Prolific character actor stabbed to death in front yard at age 81",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7bb06d40c9e9060394fe87b9a5eb00f5?impolicy=wcms_crop_resize&amp;cropH=646&amp;cropW=1149&amp;xPos=8&amp;yPos=8&amp;width=862&amp;height=485"
+      },
+      "description": "James Handy appeared in almost 150 films or TV series, according to his IMDb page, with his last role being a bartender in Top Gun: Maverick.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-05/actor-james-handy-stabbed-death-tarzana-california/106764440"
+    },
+    {
+      "published_datetime": "2026-06-05T04:06:05.000000Z",
+      "title": "Sydney police officer sentenced over death of Indigenous 16yo",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eea08660950f89643b404d699029ffd6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A NSW Police officer convicted over a fatal collision that killed an Indigenous teenager has avoided time behind bars.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-05/nsw-police-officer-sentenced-jai-kalani-wright-death/106762426"
+    },
+    {
+      "published_datetime": "2026-06-05T02:25:48.000000Z",
+      "title": "Sunscreens that failed to meet SPF claims still under investigation",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/58725b03be24627a83ecb80310609407?impolicy=wcms_crop_resize&amp;cropH=1971&amp;cropW=3504&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
+      },
+      "description": "Most of the sunscreens that failed to meet their SPF label claims, according to independent testing, are still under investigation by the regulator one year later.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-05/sunscreen-tga-investigation-senate-estimates/106763354"
+    },
+    {
       "published_datetime": "2026-06-05T02:00:36.000000Z",
-      "title": "Israel has invaded deeper into Lebanon using this river crossing",
+      "title": "This is where Israel's military crossed Lebanon's Litani River",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/71245188170d6cd7673d524ffdea770f?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -10,49 +73,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-05/israeli-tanks-cross-the-lintani-river-geolocation-verify/106758296"
     },
     {
-      "published_datetime": "2026-06-05T01:20:57.000000Z",
-      "title": "Government accused of misleading public on NDIS cuts",
+      "published_datetime": "2026-06-04T21:41:53.000000Z",
+      "title": "Live: ASIC tells parliament it has eight current contracts with KPMG, despite audit scandal",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bcc790a38995b3f6a27e9e79422d91ad?impolicy=wcms_crop_resize&amp;cropH=5346&amp;cropW=9504&amp;xPos=0&amp;yPos=642&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f97a81ab1a6e607219490cb7f42b6f74?impolicy=wcms_crop_resize&amp;cropH=2361&amp;cropW=4198&amp;xPos=0&amp;yPos=437&amp;width=862&amp;height=485"
       },
-      "description": "The federal government has been accused of selling its cuts to the National Disability Insurance Scheme (NDIS) as a crackdown on fraud, while instead pursuing billions of dollars of dramatic savings by slashing participant packages.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-05/government-accused-of-misleading-public-on-ndis-cuts/106761006"
-    },
-    {
-      "published_datetime": "2026-06-04T21:08:31.000000Z",
-      "title": "Live: Budget an attempt to combat 'economic dislocation', PM to tell summit",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c855cc7ae358c5a38ea834c0565238bf?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Prime Minister Anthony Albanese is expected to tell a summit today that the federal government's budget measures are an attempt to push back against \"economic dislocation\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-05/federal-politics-live-blog-house-prices/106762216"
-    },
-    {
-      "published_datetime": "2026-06-04T21:00:50.000000Z",
-      "title": "Town in shock after couple stabbed and alleged intruder shot",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d757e98e6b22ef3c688f93f107637394?impolicy=wcms_crop_resize&amp;cropH=225&amp;cropW=400&amp;xPos=0&amp;yPos=44&amp;width=862&amp;height=485"
-      },
-      "description": "The Torrington community will meet to discuss security measures following an alleged home invasion and a couple's stabbing.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-05/torrington-alleged-home-invasion-community-safety-meeting/106759996"
-    },
-    {
-      "published_datetime": "2026-06-04T20:33:40.000000Z",
-      "title": "Debate over house prices 'invokes terror' in politicians",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b1be300c6893361611e7c8bd135a6de4?impolicy=wcms_crop_resize&amp;cropH=2213&amp;cropW=3935&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Politicians have been hesitant to say whether prices should rise or fall, as both sides of politics feel the pressure of trying to appease voters who own and voters who are trying to buy.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-05/politicians-mixed-views-on-falling-house-prices/106762196"
-    },
-    {
-      "published_datetime": "2026-06-04T20:20:37.000000Z",
-      "title": "Women say getting a long-acting reversible contraceptive has been the 'best decision'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f05828d419d356949da434ea80cbf05b?impolicy=wcms_crop_resize&amp;cropH=5235&amp;cropW=9307&amp;xPos=0&amp;yPos=1101&amp;width=862&amp;height=485"
-      },
-      "description": "Misinformation, cost and a lack of trained providers have stopped many Australian women from accessing what doctors consider the most effective form of reversible contraception.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-05/iud-federal-government-contraception-larcs/106758390"
+      "description": "ASIC has told Senate estimates it has eight active contracts with KPMG, despite the company facing an audit scandal. Follow the day's events and insights as they happen with our business reporters on the ABC News live markets blog.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-05/asx-markets-business-live-news-june-5-2026/106762414"
     },
     {
       "published_datetime": "2026-06-04T19:18:03.000000Z",
@@ -62,33 +89,6 @@
       },
       "description": "Emissions are at their lowest point since the COVID pandemic shut down the economy, dropping 2.1 per cent over the year to December 2025.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-05/australias-emissions-drop-as-renewable-energy-batteries-surge/106751294"
-    },
-    {
-      "published_datetime": "2026-06-04T18:52:52.000000Z",
-      "title": "China warns Australia 55pc beef tariffs could apply within days",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/81737b4d2fb33276928cb6225da4b2d1?impolicy=wcms_crop_resize&amp;cropH=2304&amp;cropW=4096&amp;xPos=0&amp;yPos=347&amp;width=862&amp;height=485"
-      },
-      "description": "China is cracking down on beef imports and says it is ready to slap Australia with an additional 55 per cent tariff in the coming days.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-05/australian-beef-soon-be-hit-by-55pc-tariff-in-china/106758418"
-    },
-    {
-      "published_datetime": "2026-06-04T18:49:57.000000Z",
-      "title": "Doctor in tears over 'atypical' moles as social media craze causes concern",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a64af37d2e887d107d25c4a3241120da?impolicy=wcms_crop_resize&amp;cropH=807&amp;cropW=1435&amp;xPos=0&amp;yPos=849&amp;width=862&amp;height=485"
-      },
-      "description": "Skin specialists are sounding a warning about the potential cancer risks associated with unregulated peptides at the heart of a social media-driven beauty craze.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-05/melanotan-ii-peptides-warning-by-specialists-abormal-moles/106749628"
-    },
-    {
-      "published_datetime": "2026-06-04T18:45:54.000000Z",
-      "title": "Rumours, rifts and a reported resignation form a murky picture of a war-ravaged Iran",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/887e2b8e33eee224e28d571c18904f0f?impolicy=wcms_crop_resize&amp;cropH=1434&amp;cropW=2550&amp;xPos=0&amp;yPos=24&amp;width=862&amp;height=485"
-      },
-      "description": "A report about the resignation of Iran's president earlier this week came at a turbulent moment for Iran's regime, which is grappling with frictions between moderates and hardliners as the war drags on.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-05/wartime-iran-s-leadership-frictions-more-consequential-/106753196"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-05T02:33:47.087060"
+  "merged_at": "2026-06-05T06:58:57.166185"
 }
