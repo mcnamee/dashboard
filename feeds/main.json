@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-05T21:28:39.000000Z",
+      "title": "'Worried about my seat': NSW premier thinks One Nation is a 'threat'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dc1b5da2e249ab3d6c94d7360f549e05?impolicy=wcms_crop_resize&amp;cropH=2518&amp;cropW=4476&amp;xPos=0&amp;yPos=178&amp;width=862&amp;height=485"
+      },
+      "description": "NSW Premier Chris Minns is enjoying growing support in his electorate, but is still concerned about Pauline Hanson's presence in next year's state election.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-06/nsw-premier-chris-minns-on-one-nation-labor-threat-and-his-seat/106765628"
+    },
+    {
+      "published_datetime": "2026-06-05T21:03:49.000000Z",
+      "title": "A US ally is getting nuclear-powered submarines with no AUKUS. Here's how",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5ed991a5271d64a5f8fb69209c937af4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=200&amp;width=862&amp;height=485"
+      },
+      "description": "South Korea is taking a different path to Australia in building nuclear-powered submarines, but its plan still hinges on the United States.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-06/how-south-korea-submarine-plan-compares-to-aukus/106764594"
+    },
+    {
+      "published_datetime": "2026-06-05T21:00:43.000000Z",
+      "title": "Could a 'mansion tax' help the housing crisis?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/47e0c17206126e64c7f25064055efcad?impolicy=wcms_crop_resize&amp;cropH=726&amp;cropW=1291&amp;xPos=0&amp;yPos=69&amp;width=862&amp;height=485"
+      },
+      "description": "Amid some of the most drastic proposed changes to Australia's tax system in decades and years of skyrocketing home values, one leading expert says it is an idea \"worth considering\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-06/could-a-mansion-tax-work-in-australia/106749254"
+    },
+    {
       "published_datetime": "2026-06-05T19:30:00.000000Z",
       "title": "The fake police scam stealing millions from Australia's Chinese community",
       "featured_image": {
@@ -11,7 +38,7 @@
     },
     {
       "published_datetime": "2026-06-05T19:00:00.000000Z",
-      "title": "Anthony Albanese understands the Westminster system",
+      "title": "Anthony Albanese has shown he understands the Westminster system",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dba5ba53d85e33d5e14663a16f1bcefa?impolicy=wcms_crop_resize&amp;cropH=1961&amp;cropW=3486&amp;xPos=0&amp;yPos=373&amp;width=862&amp;height=485"
       },
@@ -62,33 +89,6 @@
       },
       "description": "Liquidators say at least 700 Dashdot clients could be caught up in the buyer's agency collapse, with some who paid large up-front fees fearing they may not get their money back.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-06/dashdot-property-buyers-business-collapse-clients-out-of-pocket/106759522"
-    },
-    {
-      "published_datetime": "2026-06-05T13:25:20.000000Z",
-      "title": "Putin says he sees 'no point' meeting Zelenskyy",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0da940d09cd92345d90b1fefa45120f5?impolicy=wcms_crop_resize&amp;cropH=2780&amp;cropW=4943&amp;xPos=0&amp;yPos=167&amp;width=862&amp;height=485"
-      },
-      "description": "A Ukrainian naval drone has exploded in Romania's Black Sea port of Constanta, as European leaders warned the war in Ukraine is becoming a \"direct threat\" to countries along the EU's eastern border.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-05/drone-blast-in-romania-prompts-fresh-warning-over-ukraine-war/106766706"
-    },
-    {
-      "published_datetime": "2026-06-05T11:05:48.000000Z",
-      "title": "Andrew made money subletting cottages on his almost rent-free estate, watchdog finds",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e429433bea8fa642338f562c14acea60?impolicy=wcms_crop_resize&amp;cropH=494&amp;cropW=878&amp;xPos=0&amp;yPos=46&amp;width=862&amp;height=485"
-      },
-      "description": "Former prince Andrew pocketed income from cottages on the Windsor estate while living at Royal Lodge under a lease that required virtually no rent, a watchdog report has found.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-05/andrew-pocketed-royal-cottage-rent-watchdog-finds/106766254"
-    },
-    {
-      "published_datetime": "2026-06-05T06:08:03.000000Z",
-      "title": "PM admits One Nation's rise influenced decision to overhaul tax system",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28ef840ff8c09c9d8a035c15854f9519?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The rise of One Nation is partly behind the government's decision to take on tax reform in this year's budget, the prime minister has admitted.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-05/albanese-one-nation-influence-tax-cgt/106765436"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-05T20:45:49.583157"
+  "merged_at": "2026-06-05T22:09:38.242800"
 }
