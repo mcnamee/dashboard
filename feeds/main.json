@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-05T21:59:04.000000Z",
+      "title": "Trump battleship plan poses new risk to AUKUS, committee fears",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eb51fca4ff08a96fec196ae7e4fd8276?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=178&amp;width=862&amp;height=485"
+      },
+      "description": "A committee of Congress wants the US Navy to explain how building \"Trump-class\" battleships will not delay other nuclear-powered boats, such as submarines needed for AUKUS.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-06/trumps-battleship-plan-poses-new-risk-to-aukus-committee-fears/105765176"
+    },
+    {
       "published_datetime": "2026-06-05T21:28:39.000000Z",
-      "title": "'Worried about my seat': NSW premier thinks One Nation is a 'threat'",
+      "title": "Chris Minns has a no-frills plan to stop One Nation in NSW. Will it work?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dc1b5da2e249ab3d6c94d7360f549e05?impolicy=wcms_crop_resize&amp;cropH=2518&amp;cropW=4476&amp;xPos=0&amp;yPos=178&amp;width=862&amp;height=485"
       },
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-06-05T21:03:49.000000Z",
-      "title": "A US ally is getting nuclear-powered submarines with no AUKUS. Here's how",
+      "title": "The US ally getting nuclear-powered submarines with no AUKUS deal",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5ed991a5271d64a5f8fb69209c937af4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=200&amp;width=862&amp;height=485"
       },
@@ -55,15 +64,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-06/tammy-shipley-prison-death-psychosis-mental-health/106727812"
     },
     {
-      "published_datetime": "2026-06-05T18:55:30.000000Z",
-      "title": "Acid attack victim's lawyer describes trial of perpetrators as a 'sham'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94d16c2f45043de8674f9c4fd6d43a74?impolicy=wcms_crop_resize&amp;cropH=1249&amp;cropW=2220&amp;xPos=0&amp;yPos=784&amp;width=862&amp;height=485"
-      },
-      "description": "Four military officers are facing trial over an acid attack on an Indonesian human rights campaigner that left him seriously disfigured. But some lawyers say the legal process is a \"sham\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-06/indonesian-acid-attack-on-activist-by-military-jakarta-trial/106759354"
-    },
-    {
       "published_datetime": "2026-06-05T18:53:43.000000Z",
       "title": "Fastest-rising women's cancer in Australia still has a low profile",
       "featured_image": {
@@ -74,7 +74,7 @@
     },
     {
       "published_datetime": "2026-06-05T18:44:33.000000Z",
-      "title": "Fresh concerns emerge over impact of Labor's tax changes on medical tech",
+      "title": "Chalmers told tax changes threaten next wave of medical breakthroughs",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/34641858d3e91962f7bc17a29c2dd3de?impolicy=wcms_crop_resize&amp;cropH=5346&amp;cropW=9504&amp;xPos=0&amp;yPos=495&amp;width=862&amp;height=485"
       },
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-05T22:09:38.242800"
+  "merged_at": "2026-06-05T23:59:24.645976"
 }
