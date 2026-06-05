@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-05T02:00:36.000000Z",
+      "title": "Israel has invaded deeper into Lebanon using this river crossing",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/71245188170d6cd7673d524ffdea770f?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Images of the first tanks to roll over Lebanon's Litani River were posted online this week. ABC NEWS Verify has found the spot where Israel's military crossed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-05/israeli-tanks-cross-the-lintani-river-geolocation-verify/106758296"
+    },
+    {
+      "published_datetime": "2026-06-05T01:20:57.000000Z",
+      "title": "Government accused of misleading public on NDIS cuts",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bcc790a38995b3f6a27e9e79422d91ad?impolicy=wcms_crop_resize&amp;cropH=5346&amp;cropW=9504&amp;xPos=0&amp;yPos=642&amp;width=862&amp;height=485"
+      },
+      "description": "The federal government has been accused of selling its cuts to the National Disability Insurance Scheme (NDIS) as a crackdown on fraud, while instead pursuing billions of dollars of dramatic savings by slashing participant packages.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-05/government-accused-of-misleading-public-on-ndis-cuts/106761006"
+    },
+    {
       "published_datetime": "2026-06-04T21:08:31.000000Z",
-      "title": "Live: Budget measures are an attempt to push back on 'economic dislocation', PM to tell summit",
+      "title": "Live: Budget an attempt to combat 'economic dislocation', PM to tell summit",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c855cc7ae358c5a38ea834c0565238bf?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -11,21 +29,12 @@
     },
     {
       "published_datetime": "2026-06-04T21:00:50.000000Z",
-      "title": "Shocked community considers security after violent suspected home invasion",
+      "title": "Town in shock after couple stabbed and alleged intruder shot",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d757e98e6b22ef3c688f93f107637394?impolicy=wcms_crop_resize&amp;cropH=225&amp;cropW=400&amp;xPos=0&amp;yPos=44&amp;width=862&amp;height=485"
       },
       "description": "The Torrington community will meet to discuss security measures following an alleged home invasion and a couple's stabbing.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-05/torrington-alleged-home-invasion-community-safety-meeting/106759996"
-    },
-    {
-      "published_datetime": "2026-06-04T20:52:08.000000Z",
-      "title": "Kumanjayi Little Baby's family were forced to leave home community, MP says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/359ff339a43e59ee0da85366637b9406?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Member for Lingiari Marion Scrymgour says the mother of Kumanjayi Little Baby had been living in insecure housing in Alice Springs so she could access specialist support for her daughter, before the five-year-old's tragic death in April.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-05/marion-scrymgour-kumanjayi-little-baby-alice-springs-town-camps/106750648"
     },
     {
       "published_datetime": "2026-06-04T20:33:40.000000Z",
@@ -46,17 +55,8 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-05/iud-federal-government-contraception-larcs/106758390"
     },
     {
-      "published_datetime": "2026-06-04T20:07:43.000000Z",
-      "title": "This is the 17th Ebola outbreak in 50 years. But this one is different",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a810aa51b8872e64eeadd08590429be8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Tensions are running high as officials fight to stop the rapid spread of Ebola in the Democratic Republic of Congo, where aid workers tell the ABC they are already playing catch-up with the deadly disease.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-05/ebola-drc-uganda-race-against-time/106754908"
-    },
-    {
       "published_datetime": "2026-06-04T19:18:03.000000Z",
-      "title": "Hopes rise that Australia's hit a tipping point, as emissions drop again",
+      "title": "Emissions drop again, fuelling hopes Australia's hit a tipping point",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/51dd4421dbe3bb2acc1f29aad764d0c9?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=144&amp;width=862&amp;height=485"
       },
@@ -65,7 +65,7 @@
     },
     {
       "published_datetime": "2026-06-04T18:52:52.000000Z",
-      "title": "Australian beef could be hit by 55 per cent tariff in China within days",
+      "title": "China warns Australia 55pc beef tariffs could apply within days",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/81737b4d2fb33276928cb6225da4b2d1?impolicy=wcms_crop_resize&amp;cropH=2304&amp;cropW=4096&amp;xPos=0&amp;yPos=347&amp;width=862&amp;height=485"
       },
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-04T23:01:36.604187"
+  "merged_at": "2026-06-05T02:33:47.087060"
 }
