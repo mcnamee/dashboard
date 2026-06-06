@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-06T10:10:21.000000Z",
+      "title": "\"We were so close\": Laos cave rescue called off as conditions deteriorate",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2177c5f4cd118c61de79860706db9ea4?impolicy=wcms_crop_resize&amp;cropH=756&amp;cropW=1344&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The search for two men trapped in a flooded cave in Laos has been postponed as rescuers say a \"miracle\" is needed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-06/rescuers-halt-search-for-two-last-men-lost-in-laos-cave/106768438"
+    },
+    {
       "published_datetime": "2026-06-06T08:16:45.000000Z",
       "title": "Shots fired where gangster's funeral was advertised to be held",
       "featured_image": {
@@ -11,30 +20,21 @@
     },
     {
       "published_datetime": "2026-06-06T08:07:14.000000Z",
-      "title": "Live: Carpenter wins 100th cap as Matildas take on Mexico",
+      "title": "Live: Mexico score late winner against sloppy Matildas",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ec5a425bc2f2d8c3f437b2e5f3bdc29d?impolicy=wcms_crop_resize&amp;cropH=1776&amp;cropW=3158&amp;xPos=960&amp;yPos=63&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ce5a561bb0b0dcd5ee88571bba33b837?impolicy=wcms_crop_resize&amp;cropH=1850&amp;cropW=3290&amp;xPos=1082&amp;yPos=200&amp;width=862&amp;height=485"
       },
       "description": "The Matildas are back in action in Newcastle, taking on 28th-ranked Mexico in the first of two international friendly matches, with Ellie Carpenter set to make her 100th appearance. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-06/live-updates-matildas-vs-mexico-newcastle/106760900"
     },
     {
       "published_datetime": "2026-06-06T07:11:34.000000Z",
-      "title": "Live: Cowboys not going away against in-form Dolphins",
+      "title": "Live: Titans and Broncos poised for epic finale after explosive second half",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8179b44f6ae0185b1958c398d85a003?impolicy=wcms_crop_resize&amp;cropH=1639&amp;cropW=2913&amp;xPos=0&amp;yPos=243&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4277011b1ed2bb4fec2542b1277f467d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=112&amp;width=862&amp;height=485"
       },
-      "description": "North Queensland looks to mount a second-half fightback after the awarding of a controversial try in Townsville. Follow live.",
+      "description": "A clinical second-half display sees the Dolphins complete a 40-14 win over the Cowboys in Townsville, while the Broncos are desperate for a return to form against the Titans at Lang Park. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-06/nrl-live-updates-cowboys-dolphins-broncos-titans/106767796"
-    },
-    {
-      "published_datetime": "2026-06-06T05:20:08.000000Z",
-      "title": "Australia, NZ back friendship to endure 'volatile world'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/35b6e20ef905556b888c052e618270ec?impolicy=wcms_crop_resize&amp;cropH=1733&amp;cropW=3080&amp;xPos=122&amp;yPos=319&amp;width=862&amp;height=485"
-      },
-      "description": "Global volatility and economic turbulence have dominated annual talks between the leaders of Australia and New Zealand, Anthony Albanese and Christopher Luxon.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-06/pm-anthony-albanese-christoper-luxon-australia-new-zealand-talks/106767688"
     },
     {
       "published_datetime": "2026-06-06T05:18:45.000000Z",
@@ -56,11 +56,11 @@
     },
     {
       "published_datetime": "2026-06-06T03:54:50.000000Z",
-      "title": "Live: Lions young gun kicking a QClash bag, Dockers claim record win",
+      "title": "Live: Lions young gun kicks a QClash bag, Dockers claim record win",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/af2edeb44f4a8c1bcce6e67da4ccd1dd?impolicy=wcms_crop_resize&amp;cropH=1477&amp;cropW=2627&amp;xPos=373&amp;yPos=97&amp;width=862&amp;height=485"
       },
-      "description": "Fremantle beats North Melbourne by 124 points to claim the biggest win in its history, before the Suns try to put another dent in the Lions' flag hopes in the QClash. Follow live.\u00a0",
+      "description": "West Coast is set to take on Port Adelaide after Logan Morris kicked seven in a Brisbane QClash win and Fremantle beat North Melbourne by 124 points to claim the biggest win in its history. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-06-06/afl-rd-13-live-blog-nth-fre-gcs-bri-wce-ptad/106756074"
     },
     {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-06T09:18:36.082778"
+  "merged_at": "2026-06-06T11:17:22.201773"
 }
