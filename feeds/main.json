@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-07T21:59:46.000000Z",
+      "title": "Live: Reece Walsh recalled as Maroons reveal Game II team",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1216d376c2405063662d94da8972b4ef?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485"
+      },
+      "description": "Queensland coach Billy Slater reveals his team for State of Origin II, with injuries forcing a reshuffle for the Maroons ahead of their must-win clash at the MCG. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-08/queensland-maroons-state-of-origin-ii-team-named-live/106771130"
+    },
+    {
+      "published_datetime": "2026-06-07T21:18:53.000000Z",
+      "title": "Live: Iran fires missiles at Israel's north as a 'warning' after strikes in Beirut",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5187fafbde16aaecf281c4e74a02b671?impolicy=wcms_crop_resize&amp;cropH=1534&amp;cropW=2727&amp;xPos=0&amp;yPos=143&amp;width=862&amp;height=485"
+      },
+      "description": "The strikes from Iran are the first such bombardment since a fragile ceasefire took effect in early April. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-08/iran-fires-missiles-at-israel-us-trump-says-peace-deal-close/106770982"
+    },
+    {
       "published_datetime": "2026-06-07T20:35:35.000000Z",
-      "title": "Iran weekly briefing: Iran and Israel's escalation makes Lebanon a tinderbox about to blow",
+      "title": "Iran briefing: Day 100 of this war ends in a way we all saw coming",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3609aec22ae28d93a6b578aaa8508069?impolicy=wcms_crop_resize&amp;cropH=2350&amp;cropW=4177&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -17,15 +35,6 @@
       },
       "description": "From being a hot destination 10 years ago, Tasmania's population growth has ground to a halt \u2014 and big changes will be needed to reverse the trend, experts say.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-08/people-arent-moving-to-tasmania-anymore/106762906"
-    },
-    {
-      "published_datetime": "2026-06-07T19:14:49.000000Z",
-      "title": "Iranian missiles launched at Israel for first time since ceasefire",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5187fafbde16aaecf281c4e74a02b671?impolicy=wcms_crop_resize&amp;cropH=1534&amp;cropW=2727&amp;xPos=0&amp;yPos=143&amp;width=862&amp;height=485"
-      },
-      "description": "The Israeli military says it has detected three waves of Iranian missiles launched at the north of the country. It comes after Israel launched an attack on a Hezbollah stronghold in southern Beirut.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-08/missiles-launched-from-iran-towards-israel-idf-says/106770908"
     },
     {
       "published_datetime": "2026-06-07T19:00:00.000000Z",
@@ -46,15 +55,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-08/scarr-husic-politicians-speak-out-migration-gambling-aukus/106769404"
     },
     {
-      "published_datetime": "2026-06-07T18:47:48.000000Z",
-      "title": "Why sentiment in Japan has turned against foreigners despite a worker shortage",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cacaad222906935966753c11830dee59?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Japan's answer to One Nation skyrockets in popularity after adopting an anti-immigration stance, despite Japan needing foreign workers more than ever.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-08/anti-immigration-sentiment-rises-in-japan/106705924"
-    },
-    {
       "published_datetime": "2026-06-07T18:46:34.000000Z",
       "title": "Top neurologists say regulator ignored warnings as weed killer decision looms",
       "featured_image": {
@@ -65,7 +65,7 @@
     },
     {
       "published_datetime": "2026-06-07T18:43:33.000000Z",
-      "title": "'Duck that fight': Husic accuses government of cowering to Trump on AI",
+      "title": "'We blinked': Government accused of backing down on AI regulation",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e7631c13935911282dff52900eef3cdf?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -83,7 +83,7 @@
     },
     {
       "published_datetime": "2026-06-07T14:06:54.000000Z",
-      "title": "'What a legacy': Pioneering researcher Richard Scolyer dies aged 59",
+      "title": "Richard Scolyer, who challenged the world to 'be brave, be bold', dies aged 59",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3d132e1bf3e9caff23d116221a618af1?impolicy=wcms_crop_resize&amp;cropH=2025&amp;cropW=3600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-07T21:01:14.036944"
+  "merged_at": "2026-06-07T22:54:43.065991"
 }
