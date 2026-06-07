@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-07T12:19:10.000000Z",
+      "title": "Maths genius, devoted mum, headline-making CEO on King's Birthday Honours roll",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18a8dd6c946a943e4b8a6c80bbbc5e8c?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=88&amp;width=862&amp;height=485"
+      },
+      "description": "Almost 950 Australians are honoured, including five stand-out recipients who are now Companions of the Order.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-07/kings-birthday-honours-list-2026-awards/106770352"
+    },
+    {
+      "published_datetime": "2026-06-07T10:57:14.000000Z",
+      "title": "Live: Verstappen out on lap 1, Piastri improving in Monaco",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/629e4f855a636ef8a39e0ec5d7950579?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Formula 1 championship leader Kimi Antonelli starts tonight's Monaco Grand Prix from pole position, as the teenager aims to continue his impressive run. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-07/f1-live-monaco-grand-prix-oscar-piastri-mclaren/106766124"
+    },
+    {
       "published_datetime": "2026-06-07T07:54:42.000000Z",
       "title": "Famous outback race claims another life after serious motorbike crash",
       "featured_image": {
@@ -56,30 +74,12 @@
     },
     {
       "published_datetime": "2026-06-07T04:50:02.000000Z",
-      "title": "Live: Bombers in driver's seat against Blues after Sydney's stunning triumph",
+      "title": "Blues beat Dons to make it four in a row, Swans pip Saints in a thriller",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6a00995b566d49b959266f92a033d5d?impolicy=wcms_crop_resize&amp;cropH=2362&amp;cropW=4199&amp;xPos=0&amp;yPos=69&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/932757239516ad0d0893ea4d276ec9e5?impolicy=wcms_crop_resize&amp;cropH=1552&amp;cropW=2759&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Carlton looks to continue its resurgence under interim coach Josh Fraser after Sydney surges to a thrilling two-point win over St Kilda. Follow live.",
+      "description": "Carlton continues its resurgence under interim coach Josh Fraser with a five-point victory over Essendon, after Sydney completes a thrilling victory over St Kilda.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-07/afl-rd-13-live-blog-syd-stk-ess-carl/106756308"
-    },
-    {
-      "published_datetime": "2026-06-07T03:21:05.000000Z",
-      "title": "'Embarrassing' Tigers humiliated by Penrith, Sharks down Dragons",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef5672325c6b60b03c523bc7e37bc601?impolicy=wcms_crop_resize&amp;cropH=1126&amp;cropW=2002&amp;xPos=471&amp;yPos=41&amp;width=862&amp;height=485"
-      },
-      "description": "The Penrith Panthers thrash Wests 68-0 to record the biggest win in club history, as Cronulla notches a 34-12 victory over St George Illawarra at Shark Park.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-07/nrl-live-updates-wests-tigers-vs-penthers-sharks-vs-dragons/106756238"
-    },
-    {
-      "published_datetime": "2026-06-07T03:12:22.000000Z",
-      "title": "Inside a Trump-linked plan to turn a communist-era military base into a luxe resort",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/da5a8dc69ebc1762b4f3394ee788cd70?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Ivanka Trump has floated \"manifestations\" of luxury holidays. Meanwhile, Albanians are claiming \"irreversible\" ecological damage. Why protests are shaking Albania.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-07/explained-kushner-resort-flamingo-protests/106769258"
     },
     {
       "published_datetime": "2026-06-07T02:12:29.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-07T11:01:26.576416"
+  "merged_at": "2026-06-07T13:22:41.955067"
 }
