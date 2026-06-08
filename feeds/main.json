@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-08T15:37:13.000000Z",
+      "title": "Xi and Kim pledge deeper cooperation between China and North Korea",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/48b526d67e912d21c94d9cfd811a1674?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=3840&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "China and North Korea should strengthen exchanges \"in diplomacy, law enforcement, and the military\", Chinese leader Xi Jinping has suggested during a rare two-day visit to Pyongyang.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-09/xi-jinping-visits-north-korea/106774288"
+    },
+    {
       "published_datetime": "2026-06-08T08:13:03.000000Z",
       "title": "Script reveals methods of Cambodian centre scamming Australians",
       "featured_image": {
@@ -37,15 +46,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-08/albanese-long-game-one-nation/106771532"
     },
     {
-      "published_datetime": "2026-06-08T05:10:35.000000Z",
-      "title": "Sentencing of officer Benedict Bryant a rare moment of accountability",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f21604994b7ec5237520057b06141db5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Inside a quiet district courtroom in the heart of Sydney\u2019s bustling CBD, a historic moment has unfolded involving a NSW Police sergeant.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-08/jai-wright-benedict-bryant-sentencing-dangerous-driving/106760776"
-    },
-    {
       "published_datetime": "2026-06-08T03:31:43.000000Z",
       "title": "Mihocek experienced 'lack of feeling' before hospital visit says coach",
       "featured_image": {
@@ -74,20 +74,20 @@
     },
     {
       "published_datetime": "2026-06-08T00:51:42.000000Z",
-      "title": "At least 31 dead after magnitude-7.8 earthquake hits Philippines",
+      "title": "At least 35 dead after magnitude-7.8 earthquake hits Philippines",
       "featured_image": {
         "thumbnail": ""
       },
-      "description": "At least 31 people have been killed in a magnitude-7.8 earthquake that shook the Mindanao region in the southern Philippines, with a tsunami possible on some regional coasts.",
+      "description": "At least 35 people have been killed in a magnitude-7.8 earthquake that shook the Mindanao region in the southern Philippines, with a tsunami possible on some regional coasts.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-08/tsunami-threat-after-philippines-earthquake/106771808"
     },
     {
       "published_datetime": "2026-06-07T21:18:53.000000Z",
-      "title": "Live: Iran to halt strikes on Israel after Trump tells both sides to 'stop shooting'",
+      "title": "Iran and Israel halt strikes after Trump warns both sides to 'stop shooting'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8b28fdf15e9a9033f7a7f4cbea076492?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=379&amp;width=862&amp;height=485"
       },
-      "description": "Israel says it has struck military targets in western and central Iran after the Islamic Revolutionary Guard Corps launched a series of strikes on northern Israel. Follow live.",
+      "description": "The two countries traded large-scale missile attacks in the most direct fighting between the two warring powers since the implementation of April's ceasefire.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-08/iran-fires-missiles-at-israel-us-trump-says-peace-deal-close/106770982"
     },
     {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-08T13:59:31.364935"
+  "merged_at": "2026-06-08T17:23:39.789373"
 }
