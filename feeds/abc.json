@@ -2,12 +2,21 @@
   "items": [
     {
       "published_datetime": "2026-06-09T21:34:29.000000Z",
-      "title": "Live: Iran attacks US navy base after US retaliates over helicopter downing",
+      "title": "Live: Trump threatens new US strikes, saying Iran's 'taken too long' to make deal",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e11dacf55a14262fb4fc876947c96672?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Iran says it struck the US Navy's Fifth Fleet base in Bahrain with drones following a series of US strikes on Iranian cities along the Strait of Hormuz. Follow live.",
+      "description": "Donald Trump has threatened to strike Iran's power plants and bridges, saying they 'have to pay the price' for taking too long to negotiate. Follow live. ",
       "page_content_url": "https://www.abc.net.au/news/2026-06-10/us-strikes-iran-after-apache-helicopter-downing-live-updates/106774290"
+    },
+    {
+      "published_datetime": "2026-06-10T13:24:53.000000Z",
+      "title": "Belfast attack suspect appears in court as victim loses eye",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/93ce5aeb988aa4e12b8024d50a4d60f5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Hadi Alodid, a 30-year-old man from Sudan, appears in a Belfast court charged with attempted murder over a stabbing attack that triggered anti-immigrant violence in several parts of Northern Ireland.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-10/belfast-attack-suspect-appears-in-court-as-victim-loses-eye/106783542"
     },
     {
       "published_datetime": "2026-06-10T06:05:36.000000Z",
@@ -37,15 +46,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-10/nzyq-high-court-decision-could-lead-to-millions-worth-of-claims/106780880"
     },
     {
-      "published_datetime": "2026-06-10T07:21:52.000000Z",
-      "title": "'National reluctance' to discuss abuse of Indigenous children, says ex-minister",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c5ec6751694be1868899b89bf38bd6e4?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=275&amp;width=862&amp;height=485"
-      },
-      "description": "A review has begun into the family circumstances of Kumanjayi Little Baby leading up to her disappearance and death, which relatives hope will find answers.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-10/child-neglect-hushed-up-kumanjayi-little-baby/106779900"
-    },
-    {
       "published_datetime": "2026-06-10T04:10:16.000000Z",
       "title": "Bear attack in Japan car park captured on CCTV as cities record more and more wild encounters",
       "featured_image": {
@@ -55,13 +55,31 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-10/japan-bear-encounters-increase/106772880"
     },
     {
-      "published_datetime": "2026-06-10T08:01:07.000000Z",
-      "title": "Fisherman attacked after treading on crocodile in northern WA",
+      "published_datetime": "2026-06-10T13:58:39.000000Z",
+      "title": "Hundreds protest against Pauline Hanson as WA Labor seats on 'hit list'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bf16540f0da84029d544efbeb7263c02?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/abfd016daa3ff54005636fa7f5c43643?impolicy=wcms_crop_resize&amp;cropH=2322&amp;cropW=4128&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Authorities have confirmed the 35-year-old man was fishing in waist deep water at Barred Creek, north of Broome, when he was bitten.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-10/barred-creek-crocodile-attack-kimberley/106781528"
+      "description": "A crowd of roughly 400 protesters demonstrates against One Nation's Pauline Hanson as she speaks at a sundowner event in Perth's eastern suburbs.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-10/pauline-hanson-in-perth-amid-protesters/106780510"
+    },
+    {
+      "published_datetime": "2026-06-10T07:21:52.000000Z",
+      "title": "'National reluctance' to discuss abuse of Indigenous children, says ex-minister",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c5ec6751694be1868899b89bf38bd6e4?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=275&amp;width=862&amp;height=485"
+      },
+      "description": "A review has begun into the family circumstances of Kumanjayi Little Baby leading up to her disappearance and death, which relatives hope will find answers.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-10/child-neglect-hushed-up-kumanjayi-little-baby/106779900"
+    },
+    {
+      "published_datetime": "2026-06-10T07:15:00.000000Z",
+      "title": "The abortion debate explained",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed231a5736829a165756e1394d0fa71d?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=281&amp;width=862&amp;height=485"
+      },
+      "description": "Since 2023, abortion has been decriminalised nationwide – and polling consistently shows that  most Australians support that. However, now, abortion access is being debated in three different parts of the country. See what's behind the push to revisit abortion laws and what impact the debate may have.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-10/the-abortion-debate-explained/106782682"
     },
     {
       "published_datetime": "2026-06-10T08:35:15.000000Z",
@@ -73,13 +91,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-10/hong-kong-charges-seven-people-after-deadly-fire/106782928"
     },
     {
-      "published_datetime": "2026-06-10T07:15:00.000000Z",
-      "title": "The abortion debate explained",
+      "published_datetime": "2026-06-10T08:01:07.000000Z",
+      "title": "Fisherman attacked after treading on crocodile in northern WA",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed231a5736829a165756e1394d0fa71d?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=281&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bf16540f0da84029d544efbeb7263c02?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
       },
-      "description": "Since 2023, abortion has been decriminalised nationwide – and polling consistently shows that  most Australians support that. However, now, abortion access is being debated in three different parts of the country. See what's behind the push to revisit abortion laws and what impact the debate may have.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-10/the-abortion-debate-explained/106782682"
+      "description": "Authorities have confirmed the 35-year-old man was fishing in waist deep water at Barred Creek, north of Broome, when he was bitten.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-10/barred-creek-crocodile-attack-kimberley/106781528"
+    },
+    {
+      "published_datetime": "2026-06-09T19:09:21.000000Z",
+      "title": "When does the FIFA World Cup start and who are the favourites?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/359ab5105242399ea6491756b9fb254b?impolicy=wcms_crop_resize&amp;cropH=1916&amp;cropW=3406&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The FIFA World Cup is the biggest single-sport event on the planet and has delivered numerous historical moments, from Diego Maradona's \"hand of God\" in 1986 to Zinedine Zidane's infamous headbutt on Marco Materazzi.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-10/fifa-world-cup-2026-tournament-explainer/106546094"
     },
     {
       "published_datetime": "2026-06-10T07:44:52.000000Z",
@@ -100,13 +127,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-10/four-military-officers-sentenced-over-acid-attack/106780486"
     },
     {
-      "published_datetime": "2026-06-09T19:09:21.000000Z",
-      "title": "When does the FIFA World Cup start and who are the favourites?",
+      "published_datetime": "2026-06-10T09:11:49.000000Z",
+      "title": "Shaggy dog tale as Bruce rescued after being blown out to sea in kayak",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/359ab5105242399ea6491756b9fb254b?impolicy=wcms_crop_resize&amp;cropH=1916&amp;cropW=3406&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/285e0d8ae9c07531742c3417671dd835?impolicy=wcms_crop_resize&amp;cropH=1267&amp;cropW=2252&amp;xPos=0&amp;yPos=1666&amp;width=862&amp;height=485"
       },
-      "description": "The FIFA World Cup is the biggest single-sport event on the planet and has delivered numerous historical moments, from Diego Maradona's \"hand of God\" in 1986 to Zinedine Zidane's infamous headbutt on Marco Materazzi.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-10/fifa-world-cup-2026-tournament-explainer/106546094"
+      "description": "Bruce, a dog, has been rescued from the North Sea after drifting away in an inflatable kayak.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-10/dog-rescued-northumberland-inflatable-kayak-north-sea/106781714"
     },
     {
       "published_datetime": "2026-06-10T07:30:26.000000Z",
@@ -118,22 +145,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-10/nsw-acknowledges-protester-hannah-thomas-was-punched-by-officer/106782156"
     },
     {
-      "published_datetime": "2026-06-10T03:01:03.000000Z",
-      "title": "'When Neale spoke, people felt it': Daniher farewelled at MCG funeral",
+      "published_datetime": "2026-06-10T12:40:42.000000Z",
+      "title": "O'Callaghan chasing Titmus and 'the impossible' as she misses world record",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7921696ced7e9d0001db7b8e37662e64?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2e941b3c278cfd98c60db1390d6a09fd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Family, friends, members of the AFL community and dignitaries attend the service to remember the AFL legend, MND campaigner and former Australia of the Year.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-10/state-funeral-for-neale-daniher-afl-legend-and-mnd-campaigner/106776792"
+      "description": "Mollie O'Callaghan shoots out of the gates in the 200m freestyle but cannot maintain the world record pace as she books her ticket to the Glasgow Commonwealth Games.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-10/australian-swimming-trials-ocallaghan-mcevoy-pallister/106782482"
     },
     {
-      "published_datetime": "2026-06-10T09:11:49.000000Z",
-      "title": "Shaggy dog tale as Bruce rescued after being blown out to sea in kayak",
+      "published_datetime": "2026-06-09T18:30:00.000000Z",
+      "title": "Why was Rolf Harris never tried for his crimes in Australia?",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/285e0d8ae9c07531742c3417671dd835?impolicy=wcms_crop_resize&amp;cropH=1267&amp;cropW=2252&amp;xPos=0&amp;yPos=1666&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/028b1c294bcf1243e7b450a2db98bf0f?impolicy=wcms_crop_resize&amp;cropH=2253&amp;cropW=4005&amp;xPos=0&amp;yPos=471&amp;width=862&amp;height=485"
       },
-      "description": "Bruce, a dog, has been rescued from the North Sea after drifting away in an inflatable kayak.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-10/dog-rescued-northumberland-inflatable-kayak-north-sea/106781714"
+      "description": "Rolf Harris's conviction for child sexual abuse was shocking to those who saw him as a lovable larrikin. But the people who were abused by him are refusing to stay silent about the impacts of his crimes. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-10/rolf-harris-primetime-predator/106759078"
     },
     {
       "published_datetime": "2026-06-10T01:58:57.000000Z",
@@ -154,15 +181,6 @@
       "page_content_url": "https://www.abc.net.au/news/science/2026-06-10/finding-the-worlds-biggest-trees-before-they-disappear/106756018"
     },
     {
-      "published_datetime": "2026-06-09T18:30:00.000000Z",
-      "title": "Why was Rolf Harris never tried for his crimes in Australia?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/028b1c294bcf1243e7b450a2db98bf0f?impolicy=wcms_crop_resize&amp;cropH=2253&amp;cropW=4005&amp;xPos=0&amp;yPos=471&amp;width=862&amp;height=485"
-      },
-      "description": "Rolf Harris's conviction for child sexual abuse was shocking to those who saw him as a lovable larrikin. But the people who were abused by him are refusing to stay silent about the impacts of his crimes. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-10/rolf-harris-primetime-predator/106759078"
-    },
-    {
       "published_datetime": "2026-06-10T08:43:21.000000Z",
       "title": "NDIA employee charged over alleged $5m fraud plot against NDIS",
       "featured_image": {
@@ -181,24 +199,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-10/woolworths-offshore-hundreds-of-corporate-jobs-june-2026/106779922"
     },
     {
-      "published_datetime": "2026-06-10T10:10:56.000000Z",
-      "title": "Woman who died after surgery should not have been discharged, inquest finds",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ac778fa33433e55dd9109ce6447515b4?impolicy=wcms_crop_resize&amp;cropH=496&amp;cropW=881&amp;xPos=0&amp;yPos=35&amp;width=862&amp;height=485"
-      },
-      "description": "A woman who died days after gastric bypass surgery likely would have survived if she had not been discharged, an inquest has found.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-10/rosemarie-campbell-gastric-bypass-death-inquest-findings/106782718"
-    },
-    {
-      "published_datetime": "2026-06-10T06:18:52.000000Z",
-      "title": "Why Bunnings moving a store 10km down the road has caused such a stir",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/356700aaa8afe99b10808174771e8af0?impolicy=wcms_crop_resize&amp;cropH=2916&amp;cropW=5184&amp;xPos=0&amp;yPos=486&amp;width=862&amp;height=485"
-      },
-      "description": "A plan by hardware giant Bunnings move its Bunbury store 10km to a neighbouring shire has angered and concerned residents and businesses.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-10/bunbury-bunnings-dalyellup-plan-concerns/106776172"
-    },
-    {
       "published_datetime": "2026-06-09T13:55:39.000000Z",
       "title": "Protests erupt in Belfast after stabbing attack, homes, cars and bus set on fire",
       "featured_image": {
@@ -208,22 +208,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-09/belfast-stabbing/106778482"
     },
     {
-      "published_datetime": "2026-06-10T03:29:48.000000Z",
-      "title": "The proposed NDIS cuts advocates worry could put women at risk",
+      "published_datetime": "2026-06-10T03:01:03.000000Z",
+      "title": "'When Neale spoke, people felt it': Daniher farewelled at MCG funeral",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0cb30fa5646957e2e4b03a990698b7a8?impolicy=wcms_crop_resize&amp;cropH=1557&amp;cropW=2768&amp;xPos=0&amp;yPos=145&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7921696ced7e9d0001db7b8e37662e64?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Planned cuts to NDIS community participation budgets could leave participants in unsafe environments, including increasing their risk of domestic violence, advocates have warned.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-10/ndis-cuts-could-create-unsafe-environments-inquiry-warned/106780028"
+      "description": "Family, friends, members of the AFL community and dignitaries attend the service to remember the AFL legend, MND campaigner and former Australia of the Year.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-10/state-funeral-for-neale-daniher-afl-legend-and-mnd-campaigner/106776792"
     },
     {
-      "published_datetime": "2026-06-09T22:23:35.000000Z",
-      "title": "Musk's xAI hit with class action over power plant's 'inescapable' noise",
+      "published_datetime": "2026-06-10T06:18:52.000000Z",
+      "title": "Why Bunnings moving a store 10km down the road has caused such a stir",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bf3c1ffe685d6b2932284345d2976526?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/356700aaa8afe99b10808174771e8af0?impolicy=wcms_crop_resize&amp;cropH=2916&amp;cropW=5184&amp;xPos=0&amp;yPos=486&amp;width=862&amp;height=485"
       },
-      "description": "US residents say a plant powering data centres has caused them emotional distress and reduced the value of their properties.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-10/xai-class-action-elon-musk-spacex-southaven-mississippi-noise/106779124"
+      "description": "A plan by hardware giant Bunnings move its Bunbury store 10km to a neighbouring shire has angered and concerned residents and businesses.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-10/bunbury-bunnings-dalyellup-plan-concerns/106776172"
     }
   ]
 }
