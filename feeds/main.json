@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-10T13:58:39.000000Z",
+      "title": "Hundreds protest against Pauline Hanson as WA Labor seats on 'hit list'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/abfd016daa3ff54005636fa7f5c43643?impolicy=wcms_crop_resize&amp;cropH=2322&amp;cropW=4128&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A crowd of roughly 400 protesters demonstrates against One Nation's Pauline Hanson as she speaks at a sundowner event in Perth's eastern suburbs.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-10/pauline-hanson-in-perth-amid-protesters/106780510"
+    },
+    {
+      "published_datetime": "2026-06-10T13:24:53.000000Z",
+      "title": "Belfast attack suspect appears in court as victim loses eye",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/93ce5aeb988aa4e12b8024d50a4d60f5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Hadi Alodid, a 30-year-old man from Sudan, appears in a Belfast court charged with attempted murder over a stabbing attack that triggered anti-immigrant violence in several parts of Northern Ireland.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-10/belfast-attack-suspect-appears-in-court-as-victim-loses-eye/106783542"
+    },
+    {
       "published_datetime": "2026-06-10T08:35:15.000000Z",
       "title": "Hong Kong authorities charge seven people after deadly fire",
       "featured_image": {
@@ -8,24 +26,6 @@
       },
       "description": "The seven people charged included directors and inspectors of a consultancy firm involved in the estate's renovation.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-06-10/hong-kong-charges-seven-people-after-deadly-fire/106782928"
-    },
-    {
-      "published_datetime": "2026-06-10T08:01:07.000000Z",
-      "title": "Fisherman attacked after treading on crocodile in northern WA",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bf16540f0da84029d544efbeb7263c02?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
-      },
-      "description": "Authorities have confirmed the 35-year-old man was fishing in waist deep water at Barred Creek, north of Broome, when he was bitten.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-10/barred-creek-crocodile-attack-kimberley/106781528"
-    },
-    {
-      "published_datetime": "2026-06-10T07:44:52.000000Z",
-      "title": "Twelve dead, nine injured after late-night shooting near Johannesburg",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8a65e3d0efccda49e547b05771bd4156?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=420&amp;width=862&amp;height=485"
-      },
-      "description": "Police launch a manhunt for more than 10 suspects who launched a late-night attack at the Jumpers informal settlement in the Johannesburg suburb of Cleveland.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-10/fatal-mass-shooting-at-johannesburg-settlement/106782618"
     },
     {
       "published_datetime": "2026-06-10T07:21:52.000000Z",
@@ -83,11 +83,11 @@
     },
     {
       "published_datetime": "2026-06-09T21:34:29.000000Z",
-      "title": "Live: Iran attacks US navy base after US retaliates over helicopter downing",
+      "title": "Live: Trump threatens new US strikes, saying Iran's 'taken too long' to make deal",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e11dacf55a14262fb4fc876947c96672?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Iran says it struck the US Navy's Fifth Fleet base in Bahrain with drones following a series of US strikes on Iranian cities along the Strait of Hormuz. Follow live.",
+      "description": "Donald Trump has threatened to strike Iran's power plants and bridges, saying they 'have to pay the price' for taking too long to negotiate. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-06-10/us-strikes-iran-after-apache-helicopter-downing-live-updates/106774290"
     },
     {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-10T10:57:12.693024"
+  "merged_at": "2026-06-10T14:19:55.755602"
 }
