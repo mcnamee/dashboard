@@ -1,12 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-10T23:27:48.000000Z",
+      "title": "Taylor rules out One Nation seat carve-up as party raises $1.6 million",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/754f267f418a9d6b9a787dc7599d81a0?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=365&amp;width=862&amp;height=485"
+      },
+      "description": "Opposition leader Angus Taylor says the Coalition has no plan to share the seats the party targets at the next federal election with One Nation as Pauline Hanson's party says it has raised $1.6 million in a day.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-11/angus-taylor-rules-out-seats-carve-up-pauline-hanson-one-nation/106784168"
+    },
+    {
+      "published_datetime": "2026-06-10T23:03:57.000000Z",
+      "title": "Stabbing victim's family calls for calm amid violent protests in Northern Ireland",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8633768d8fa01391c2c5bfe203b920c3?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+      },
+      "description": "The family of a Northern Irish man who lost an eye in a knife attack has appealed for calm \u200bafter anti-immigrant violence in Belfast.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-11/northern-ireland-stabbing-victims-family-calls-for-calm/106784336"
+    },
+    {
       "published_datetime": "2026-06-10T21:55:34.000000Z",
-      "title": "Live: ASX set to fall after Wall Street closed down",
+      "title": "Live: Up to 300 jobs cut at Southern Cross Media, ASX set to fall after Wall Street closed down",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c50b8f2f4ee0722192f82ace21836367?impolicy=wcms_crop_resize&amp;cropH=2700&amp;cropW=4800&amp;xPos=0&amp;yPos=250&amp;width=862&amp;height=485"
       },
-      "description": "The Australian market is set to fall after Wall Street closed down. Meanwhile, President Donald Trump says the US military is \"going to be attacking\" Iran if no peace deal is agreed. Follow live.\u00a0",
+      "description": "Up to 300 jobs are to be cut at Southern Cross Media, which owns the Seven network. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-06-11/asx-markets-business-live-news-june-11/106784126"
     },
     {
@@ -35,15 +53,6 @@
       },
       "description": "Hundreds of whale fossils, including those from extinct species new to science, range in age from recent to 5 million years old and are also home to undescribed deep-sea creatures.",
       "page_content_url": "https://www.abc.net.au/news/science/2026-06-11/world-s-biggest-whale-graveyard-found-in-the-indian-ocean/106778126"
-    },
-    {
-      "published_datetime": "2026-06-10T19:23:04.000000Z",
-      "title": "'People are just killing themselves': Solariums operating underground",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a624d464582c2e0ced80d4185d83fc0f?impolicy=wcms_crop_resize&amp;cropH=1253&amp;cropW=2227&amp;xPos=0&amp;yPos=116&amp;width=862&amp;height=485"
-      },
-      "description": "Illegal solariums are operating across the country, from single machines secretly set up in suburban neighbourhood garages to those hidden in the back of legitimate businesses.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-11/solariums-operating-underground-despite-commercial-ban/106175532"
     },
     {
       "published_datetime": "2026-06-10T19:00:00.000000Z",
@@ -76,19 +85,10 @@
       "published_datetime": "2026-06-10T16:23:01.000000Z",
       "title": "Live: US launches another round of strikes against Iran after Trump threatens to attack 'very hard'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5ed6a40d80f3899ad170a29b1890074d?impolicy=wcms_crop_resize&amp;cropH=2106&amp;cropW=3744&amp;xPos=0&amp;yPos=195&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/63a6dab7bd4024ebd4039a64b9abc3c4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
       "description": "The US military says it has launched a series of strikes on \"multiple targets\" in Iran. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-11/iran-war-blog-shell-june-11/106783568"
-    },
-    {
-      "published_datetime": "2026-06-10T13:24:53.000000Z",
-      "title": "Belfast attack victim's family calls for calm after night of violence",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/93ce5aeb988aa4e12b8024d50a4d60f5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The family of Belfast stabbing victim Stephen Ogilvie releases a statement saying anti-immigrant violence that has seen houses and a bus torched is \"not welcome\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-10/belfast-attack-suspect-appears-in-court-as-victim-loses-eye/106783542"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-10T22:47:51.380409"
+  "merged_at": "2026-06-11T00:09:00.462913"
 }
