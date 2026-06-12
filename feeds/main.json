@@ -1,10 +1,19 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-12T13:44:21.000000Z",
+      "title": "Elon Musk set to become world's first trillionaire as SpaceX lists on US stock market",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/edd96489e568a15ec44f046c0689a911?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=262&amp;width=862&amp;height=485"
+      },
+      "description": "\"SpaceX wants to be able to take you to the moon, take you to Mars, and ultimately beyond,\" the tech billionaire said at a launch event in Starbase, Texas.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-12/spacex-ipo-elon-musk-stock-market-launch/106793326"
+    },
+    {
       "published_datetime": "2026-06-12T10:42:24.000000Z",
       "title": "David Hockney, giant of British art, dies aged 88",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ccd00bdfb3eac8d6a7622e04ea6c050e?impolicy=wcms_crop_resize&amp;cropH=1282&amp;cropW=2290&amp;xPos=0&amp;yPos=624&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d2625f2dadb8d866fcc2b3523e210ba6?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
       },
       "description": "British artist David Hockney, whose paintings of pools shimmering in the Los Angeles sunshine became icons of 20th-century art, has died at the age of 88, his publicist has announced.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-12/david-hockney-dies-at-age-of-88-british-artist-who-moved-to-usa/106793234"
@@ -20,7 +29,7 @@
     },
     {
       "published_datetime": "2026-06-12T09:01:08.000000Z",
-      "title": "Federal mines minister backs unions' right to strike at BHP",
+      "title": "Senior Labor figures weigh in on BHP strike, cost could be $120m per day",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cc5b30605990b8181cf947a4da35c064?impolicy=wcms_crop_resize&amp;cropH=754&amp;cropW=1340&amp;xPos=0&amp;yPos=70&amp;width=862&amp;height=485"
       },
@@ -35,15 +44,6 @@
       },
       "description": "A small town retailer is battling it out with Australia's biggest hardware giant in the Federal Court to stop Bunnings from opening up literally next door to his Mitre 10 franchise.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-12/mitre-10-franchisee-fights-bunnings-plans-next-door/106792294"
-    },
-    {
-      "published_datetime": "2026-06-12T08:37:12.000000Z",
-      "title": "Live: Hardwick fumes at umpires as Geelong takes control against Gold Coast",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d9702416ac6c84e4f94728eee524350a?impolicy=wcms_crop_resize&amp;cropH=2062&amp;cropW=3666&amp;xPos=0&amp;yPos=24&amp;width=862&amp;height=485"
-      },
-      "description": "Geelong kicks seven-straight goals to take control of a crucial clash with Gold Coast. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-12/afl-rd-14-live-blog-geelong-cats-gold-coast-suns/106780142"
     },
     {
       "published_datetime": "2026-06-12T07:55:36.000000Z",
@@ -65,9 +65,9 @@
     },
     {
       "published_datetime": "2026-06-12T06:06:23.000000Z",
-      "title": "Jemma Stapleton's brother shares devastated tribute after 25yo Australian sprinter dies in Thailand",
+      "title": "Australian sprinter's death in Thailand came weeks after her 25th birthday",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e3da46bfa0e45f6ee5c0a27662ae26b6?impolicy=wcms_crop_resize&amp;cropH=743&amp;cropW=1320&amp;xPos=0&amp;yPos=328&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a331687b832dbee866cb6028afb2bf78?impolicy=wcms_crop_resize&amp;cropH=442&amp;cropW=785&amp;xPos=0&amp;yPos=12&amp;width=862&amp;height=485"
       },
       "description": "The brother of Stawell Gift finalist Jemma Stapleton remembers her \"bright smile\" and expresses gratitude for the outpouring of grief and support.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-12/australian-sprinter-jemma-stapleton-mourned-death-in-thailand/106791778"
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-12T11:35:59.115681"
+  "merged_at": "2026-06-12T14:36:30.516919"
 }
