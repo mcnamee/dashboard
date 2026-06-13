@@ -1,12 +1,21 @@
 {
   "items": [
     {
-      "published_datetime": "2026-06-13T07:31:37.000000Z",
-      "title": "Live: Raiders hit rock bottom after two scoreless hours",
+      "published_datetime": "2026-06-13T12:58:41.000000Z",
+      "title": "Pakistan says Iran-US peace deal is closer than 'ever before', Lebanon reports strikes",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e74d39e00434dc532b048ee49b889af7?impolicy=wcms_crop_resize&amp;cropH=1634&amp;cropW=2905&amp;xPos=0&amp;yPos=151&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a29164fab96230f8888dec0e5f8d85a7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "The ailing Canberra Raiders have now gone 120 minutes without scoring a point following another first half misfire against Parramatta. Follow live.",
+      "description": "Lebanon's state media has reported Israeli strikes on the country's south, as Pakistan says a US-Iran peace deal signing is expected within 24 hours.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-13/lebanon-israeli-strikes-pakistan-peace-deal-iran-united-states/106794956"
+    },
+    {
+      "published_datetime": "2026-06-13T07:31:37.000000Z",
+      "title": "Raiders hit rock bottom in shocking loss to Eels",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/92668ab969a0ffeb1540f2caff9c15a7?impolicy=wcms_crop_resize&amp;cropH=2348&amp;cropW=4175&amp;xPos=0&amp;yPos=217&amp;width=862&amp;height=485"
+      },
+      "description": "Canberra's season has fallen apart with last year's minor premiers slumping to yet another loss following a spirited Parramatta performance.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-06-13/nrl-live-updates-warriors-sharks-eels-raiders/106794716"
     },
     {
@@ -28,15 +37,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-13/nsw-man-dead-missing-child-found-in-concord-waters/106794530"
     },
     {
-      "published_datetime": "2026-06-13T04:16:00.000000Z",
-      "title": "Victorian opposition leader says Pauline Hanson has not approached her",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/012cae31532213d53503ad500b949b95?impolicy=wcms_crop_resize&amp;cropH=928&amp;cropW=1650&amp;xPos=152&amp;yPos=33&amp;width=862&amp;height=485"
-      },
-      "description": "The One Nation leader last night told a political fundraiser she would work with the Coalition to oust Labor at the upcoming state election.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-13/one-nation-pauline-hanson-opposition-jess-wilson-protests/106794308"
-    },
-    {
       "published_datetime": "2026-06-13T03:16:59.000000Z",
       "title": "Quick hits: Legends stunned by on-air gaffe, Trump's call goes cold",
       "featured_image": {
@@ -47,11 +47,11 @@
     },
     {
       "published_datetime": "2026-06-13T03:00:25.000000Z",
-      "title": "Live: Swans locked in tense arm-wrestle against Port, Roos claim WA thriller",
+      "title": "Swans steal thriller with spirited second-half comeback against Port",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8f35b548671248b6a8f4b03048e5677b?impolicy=wcms_crop_resize&amp;cropH=1850&amp;cropW=3289&amp;xPos=0&amp;yPos=147&amp;width=862&amp;height=485"
       },
-      "description": "Port Adelaide leads Sydney after a strong first half at the Adelaide Oval as North Melbourne escapes with a win against West Coast. Follow live.",
+      "description": "Sydney's big guns all stand up tall in the final quarter to help secure a three-point win over Port Adelaide in Adelaide as North Melbourne escapes against West Coast.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-13/afl-rd-14-live-blog-melb-ess-kang-wce-ptad-syd/106780624"
     },
     {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-13T11:47:44.020428"
+  "merged_at": "2026-06-13T13:27:21.334558"
 }
