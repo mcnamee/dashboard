@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-13T17:59:03.000000Z",
+      "title": "Live: England gets update on stolen training kit, Qatar plays Switzerland",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b6840e948ea7ff50d390c4d4cd82dd61?impolicy=wcms_crop_resize&amp;cropH=2048&amp;cropW=3641&amp;xPos=0&amp;yPos=119&amp;width=862&amp;height=485"
+      },
+      "description": "Qatar and Switzerland open the third day of the FIFA World Cup 2026, while Brazil take on Morocco and Haiti face Scotland. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/world-cup-live-qatar-switzerland-brazil-morocco-haiti-scotland/106794480"
+    },
+    {
       "published_datetime": "2026-06-13T12:58:41.000000Z",
       "title": "Pakistan says Iran-US peace deal is within 24 hours, Tehran urges caution",
       "featured_image": {
@@ -35,15 +44,6 @@
       },
       "description": "Police divers have recovered the body of a young girl from a bay in Sydney's inner west.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-13/nsw-man-dead-missing-child-found-in-concord-waters/106794530"
-    },
-    {
-      "published_datetime": "2026-06-13T03:16:59.000000Z",
-      "title": "Quick hits: Legends stunned by on-air gaffe, Trump's call goes cold",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a13cde9982c968c1bfae9fc2af15336?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The US and Canada hit the pitch for the first time at their home World Cup, but on day two the drama extended from the field to the TV booths and beyond. Here are the quick hits.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-13/world-cup-quick-hits-thomas-partey-alexi-lalas-donald-trump/106794108"
     },
     {
       "published_datetime": "2026-06-13T03:00:25.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-13T17:12:25.943073"
+  "merged_at": "2026-06-13T19:09:06.352044"
 }
