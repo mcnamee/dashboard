@@ -46,13 +46,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-13/switzerland-vote-population-10-million-cap-explained/106780734"
     },
     {
-      "published_datetime": "2026-06-13T03:16:59.000000Z",
-      "title": "Quick hits: Legends stunned by on-air gaffe, Trump's call goes cold",
+      "published_datetime": "2026-06-13T17:59:03.000000Z",
+      "title": "Live: England gets update on stolen training kit, Qatar plays Switzerland",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a13cde9982c968c1bfae9fc2af15336?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b6840e948ea7ff50d390c4d4cd82dd61?impolicy=wcms_crop_resize&amp;cropH=2048&amp;cropW=3641&amp;xPos=0&amp;yPos=119&amp;width=862&amp;height=485"
       },
-      "description": "The US and Canada hit the pitch for the first time at their home World Cup, but on day two the drama extended from the field to the TV booths and beyond. Here are the quick hits.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-13/world-cup-quick-hits-thomas-partey-alexi-lalas-donald-trump/106794108"
+      "description": "Qatar and Switzerland open the third day of the FIFA World Cup 2026, while Brazil take on Morocco and Haiti face Scotland. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/world-cup-live-qatar-switzerland-brazil-morocco-haiti-scotland/106794480"
     },
     {
       "published_datetime": "2026-06-13T03:00:25.000000Z",
@@ -137,12 +137,21 @@
     },
     {
       "published_datetime": "2026-06-13T02:01:58.000000Z",
-      "title": "They know it looks unusual, but here’s why these mates are 'piggybacking the world'",
+      "title": "Two mates, one chair: travelling the world with paraplegia and a best friend",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/523b5200debf3bbae089ea2870d14587?impolicy=wcms_crop_resize&amp;cropH=565&amp;cropW=1005&amp;xPos=0&amp;yPos=276&amp;width=862&amp;height=485"
       },
       "description": "Best friends Lachie and Fletcher have nailed the art of ignoring what people think, travelling the world as Two Mates, 1 Chair.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-13/two-mates-one-chair-paraplegia-wheelchair-accessible-travel/106791490"
+    },
+    {
+      "published_datetime": "2026-06-13T18:30:00.000000Z",
+      "title": "Can you soar to the top of this week's spelling quiz?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aa30eaea194266f2c720627bf4adec93?impolicy=wcms_crop_resize&amp;cropH=2089&amp;cropW=3713&amp;xPos=0&amp;yPos=193&amp;width=862&amp;height=485"
+      },
+      "description": "From homophones to Aussie bird names, Guy Montgomery's Spelling Bee quiz is set to test and teach in equal measure.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/guy-montgomery-spelling-bee-quiz/106721508"
     },
     {
       "published_datetime": "2026-06-12T18:30:00.000000Z",
@@ -154,15 +163,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-13/your-lessons-learnt-since-owning-a-pet/106781084"
     },
     {
-      "published_datetime": "2026-06-12T19:22:06.000000Z",
-      "title": "Are you one of Australia's 1.1 million 'power couples'? Here's how you know",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d4017b68081c845aba0514ad138452e5?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The ranks of Australia's so-called power couples, in which both partners are university-educated, have almost quadrupled over 20 years. This could have profound implications for social inequality.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-13/how-university-education-became-a-dividing-line-in-marriage/106708316"
-    },
-    {
       "published_datetime": "2026-06-12T19:30:00.000000Z",
       "title": "What Australia would have looked like when the dinosaurs roamed",
       "featured_image": {
@@ -172,6 +172,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-13/dinosaurs-of-australia-polar-100-million-years-antarctic-circle/106760154"
     },
     {
+      "published_datetime": "2026-06-12T19:22:06.000000Z",
+      "title": "Are you one of Australia's 1.1 million 'power couples'? Here's how you know",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d4017b68081c845aba0514ad138452e5?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The ranks of Australia's so-called power couples, in which both partners are university-educated, have almost quadrupled over 20 years. This could have profound implications for social inequality.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-13/how-university-education-became-a-dividing-line-in-marriage/106708316"
+    },
+    {
       "published_datetime": "2026-06-13T04:16:00.000000Z",
       "title": "Victorian opposition leader says Pauline Hanson has not approached her",
       "featured_image": {
@@ -179,6 +188,15 @@
       },
       "description": "The One Nation leader last night told a political fundraiser she would work with the Coalition to oust Labor at the upcoming state election.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-13/one-nation-pauline-hanson-opposition-jess-wilson-protests/106794308"
+    },
+    {
+      "published_datetime": "2026-06-13T03:16:59.000000Z",
+      "title": "Quick hits: Legends stunned by on-air gaffe, Trump's call goes cold",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a13cde9982c968c1bfae9fc2af15336?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The US and Canada hit the pitch for the first time at their home World Cup, but on day two the drama extended from the field to the TV booths and beyond. Here are the quick hits.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-13/world-cup-quick-hits-thomas-partey-alexi-lalas-donald-trump/106794108"
     },
     {
       "published_datetime": "2026-06-13T07:05:42.000000Z",
@@ -199,15 +217,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-13/qld-neil-tracey-death-investigation-family-questions/106764610"
     },
     {
-      "published_datetime": "2026-06-13T01:26:34.000000Z",
-      "title": "Workers remove Trump's name from Kennedy Center as appeal fails",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/22b3d7f3766ff05e0d3870dde82cf1d6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=224&amp;width=862&amp;height=485"
-      },
-      "description": "Workers are removing the US president's name from the facade of the building hours after a court-ordered deadline.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-13/court-rules-against-kennedy-center-bid-keep-trump-name-wall/106794170"
-    },
-    {
       "published_datetime": "2026-06-12T23:46:34.000000Z",
       "title": "Parents create 'university of life' for non-verbal daughter",
       "featured_image": {
@@ -215,15 +224,6 @@
       },
       "description": "When Lillian Rowsell was in her final year of school and unable to continue formal education, her parents found a creative solution.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-13/family-builds-university-of-life-for-daughter-on-ndis/106719662"
-    },
-    {
-      "published_datetime": "2026-06-13T00:02:34.000000Z",
-      "title": "'Seeking connection': The unseen children who roam the streets at night",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6cb5d4f9bcc22641e8971a47acb56ab?impolicy=wcms_crop_resize&amp;cropH=2798&amp;cropW=4975&amp;xPos=0&amp;yPos=535&amp;width=862&amp;height=485"
-      },
-      "description": "Youth Beat workers take to Perth streets at night to help young people who have nowhere else to go. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-13/charity-youth-beat-helps-disadvantaged-young-people-in-perth/106783634"
     }
   ]
 }
