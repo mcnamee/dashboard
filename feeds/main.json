@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-14T16:18:36.000000Z",
+      "title": "Live: Minnows Cura\u00e7ao make their World Cup debut against four-time winners Germany",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c3c36d953c00b1b939042e47e0cb01e?impolicy=wcms_crop_resize&amp;cropH=2220&amp;cropW=3946&amp;xPos=0&amp;yPos=66&amp;width=862&amp;height=485"
+      },
+      "description": "Four-time FIFA World Cup winners Germany gets its campaign underway against debutant minnows Cura\u00e7ao in Houston. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-15/world-cup-live-ger-cur-ned-jpn-cot-ecu-swe-tun/106796132"
+    },
+    {
       "published_datetime": "2026-06-14T12:00:57.000000Z",
       "title": "UK armed forces intercept Russian 'shadow fleet' tanker",
       "featured_image": {
@@ -11,11 +20,11 @@
     },
     {
       "published_datetime": "2026-06-14T11:30:07.000000Z",
-      "title": "Live: Hamilton claims famous Ferrari win, F1 leader has late car blow up",
+      "title": "Hamilton claims famous Ferrari win, F1 leader suffers late car failure",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bc55090c80159f002ba218abc8ea30ee?impolicy=wcms_crop_resize&amp;cropH=2620&amp;cropW=4658&amp;xPos=0&amp;yPos=229&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2477583c5b2b39896e8e4cd673495150?impolicy=wcms_crop_resize&amp;cropH=1943&amp;cropW=3454&amp;xPos=0&amp;yPos=180&amp;width=862&amp;height=485"
       },
-      "description": "Lewis Hamilton has claimed a historic maiden Formula 1 win with Ferrari, taking victory at the Barcelona-Catalunya Grand Prix. Follow live.",
+      "description": "Lewis Hamilton has wound back the clock and announced himself as a world championship contender again, claiming his maiden grand prix win as a Ferrari driver.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-14/f1-live-barcelona-catalunya-grand-prix-oscar-piastri/106794790"
     },
     {
@@ -26,15 +35,6 @@
       },
       "description": "With his first World Cup team selection, Tony Popovic produced one of the biggest shocks in Socceroos' history. After 90 minutes against T\u00fcrkiye, his gamble was vindicated.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-14/socceroos-tony-popovic-greatest-world-cup-gamble-pays-off/106796402"
-    },
-    {
-      "published_datetime": "2026-06-14T06:21:48.000000Z",
-      "title": "Fair Work rejects gas giant's claim strikes would harm the economy",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d546b7d0e4fe28f95be51b0ac923fa2d?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
-      },
-      "description": "One of Australia's biggest gas producers has lost a bid to stop industrial action at its Darwin facilities after claiming strikes would force shutdowns and cause significant damage to the nation's economy.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/fair-work-commission-inpex-strike-economy-threat-global-crisis/106796470"
     },
     {
       "published_datetime": "2026-06-14T05:27:37.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-14T15:42:57.038023"
+  "merged_at": "2026-06-14T17:09:32.291691"
 }
