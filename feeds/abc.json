@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-14T02:16:52.000000Z",
+      "title": "Live: Socceroos kick off in World Cup opener after selection shock",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d53dd861e3936f8814bd678d876a5bbc?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=379&amp;width=862&amp;height=485"
+      },
+      "description": "The Socceroos begin their 2026 World Cup journey in Vancouver with their opening Group D match against a talented Türkiye. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/world-cup-live-updates-australia-vs-turkiye-socceroos/106796000"
+    },
+    {
+      "published_datetime": "2026-06-13T23:52:52.000000Z",
+      "title": "Paddleboarder says shark attack victim he helped save was 'very unlucky'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c997cbdb6ea07b91fce44bb7a0db68d1?impolicy=wcms_crop_resize&amp;cropH=903&amp;cropW=1605&amp;xPos=116&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "An off-duty volunteer lifeguard who pulled a woman from the ocean after she was bitten by a shark reveals how he helped save her life while in a state of \"panic\" himself.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/nsw-man-who-rescued-woman-bitten-by-shark-at-coogee-speaks/106794890"
+    },
+    {
       "published_datetime": "2026-06-13T19:10:43.000000Z",
       "title": "As the US marks defeating a king, Trump consumes Washington",
       "featured_image": {
@@ -11,7 +29,7 @@
     },
     {
       "published_datetime": "2026-06-13T19:36:40.000000Z",
-      "title": "These women are harvesting our food. Why are they giving birth in secret?",
+      "title": "No Medicare, no family, no visa — these are the babies Australia doesn't count",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b57ab621195e28c9547466fab6b42a23?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=104&amp;width=862&amp;height=485"
       },
@@ -19,17 +37,8 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-14/pacific-farm-worker-pregnancies-undocumented-labour/106779364"
     },
     {
-      "published_datetime": "2026-06-13T19:09:11.000000Z",
-      "title": "Some think Britain's 'broken', and they are looking to Australia for inspiration",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cb8efc5760ba7512105b83d3fecec3c3?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=67&amp;width=862&amp;height=485"
-      },
-      "description": "Right-wing populism is rising in the UK where, like Australia, the political landscape is looking very different lately. It has prompted some people to ask if these surging parties can deliver on their promises.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/reform-uk-rising-popularity-sparks-question-if-it-can-deliver/106774178"
-    },
-    {
       "published_datetime": "2026-06-13T22:37:01.000000Z",
-      "title": "Liberal frontbencher Jonno Duniam to retire",
+      "title": "'No regrets about pulling up stumps': Liberal frontbencher Jonno Duniam to retire",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f3e83a8673c8ac7cbf6c55f392093b52?impolicy=wcms_crop_resize&amp;cropH=3451&amp;cropW=6135&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -37,40 +46,58 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-14/liberal-senator-jonno-duniam-to-quit-politics/106795644"
     },
     {
+      "published_datetime": "2026-06-14T02:12:18.000000Z",
+      "title": "Anna thought she had a job in a hotel. Instead, she was trapped in a scam compound",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3f45630e297b7dcdc8e22c13255716fb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Hundreds of trafficking survivors from Africa are left stranded in Cambodia amid a widespread crackdown on the country's scam compounds.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/africans-stranded-amid-scams-crackdown/106790704"
+    },
+    {
+      "published_datetime": "2026-06-14T03:36:38.000000Z",
+      "title": "Breaking: Knicks end 53-year drought to win NBA championship",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/80766bc06b31bd37712dd665c9facfb0?impolicy=wcms_crop_resize&amp;cropH=1091&amp;cropW=1939&amp;xPos=0&amp;yPos=101&amp;width=862&amp;height=485"
+      },
+      "description": "New York Knicks come from behind to defeat San Antonio Spurs 94-90 in Game 5 of the NBA Finals.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/nba-finals-new-york-knicks-san-antonio-spurs-game-5/106796264"
+    },
+    {
+      "published_datetime": "2026-06-14T02:51:48.000000Z",
+      "title": "Live: Tigers, Lions locked in tight tussle in Hobart ahead of Giants-Saints clash",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a15d750ae77ac931396f456b45042b93?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=44&amp;width=862&amp;height=485"
+      },
+      "description": "The Tigers host Brisbane in Hobart, before the Saints and Giants clash at Docklands to bring round 14 of the AFL to a close. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/afl-round-14-tigers-lions-saints-giants-live-blog-updates/106780822"
+    },
+    {
+      "published_datetime": "2026-06-14T01:23:13.000000Z",
+      "title": "Butler open to NDIS changes but convinced it's heading in 'right direction'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4954da6789cd0640c94cba08f2ff7a8f?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Health Minister Mark Butler is open to adjusting the proposed National Disability Insurance Scheme changes, but insists the government is on the right track.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/butler-leaves-door-open-to-ndis-changes/106795696"
+    },
+    {
       "published_datetime": "2026-06-13T20:59:44.000000Z",
-      "title": "Nine-year-old Australian girl fatally shot by police in Pakistan",
+      "title": "Nine-year-old Perth girl shot dead by police in Pakistan",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/58e70233ca5c55316296a10fb0de6c22?impolicy=wcms_crop_resize&amp;cropH=1687&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "A nine-year-old Australian girl has been fatally shot by police in Pakistan after officers mistook her family's car for that of suspected criminals.",
+      "description": "A nine-year-old Perth girl has been fatally shot by police in Pakistan after officers mistook her family's car for that of suspected criminals. ",
       "page_content_url": "https://www.abc.net.au/news/2026-06-14/pakistan-shooting-nine-year-old-australian-girl/106795184"
     },
     {
-      "published_datetime": "2026-06-13T17:59:03.000000Z",
-      "title": "Live: Brazil and Morocco hunt for late winner after trading brilliant goals",
+      "published_datetime": "2026-06-14T02:30:00.000000Z",
+      "title": "Love story: When these childhood friends reunited, the spark was undeniable",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f57fbd0c79253ec02e978b190fa10bf4?impolicy=wcms_crop_resize&amp;cropH=2409&amp;cropW=4282&amp;xPos=0&amp;yPos=126&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3f8714fe648e73d75c9306673f65b589?impolicy=wcms_crop_resize&amp;cropH=455&amp;cropW=809&amp;xPos=0&amp;yPos=65&amp;width=862&amp;height=485"
       },
-      "description": "Brazil meets Morocco in a blockbuster clash after Qatar salvaged a late draw against Switzerland in San Francisco, while later Haiti faces Scotland. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/world-cup-live-qatar-switzerland-brazil-morocco-haiti-scotland/106794480"
-    },
-    {
-      "published_datetime": "2026-06-13T19:43:55.000000Z",
-      "title": "Here's what you need to know about the KPMG scandal",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/edc4b6f1835813454f2198fa464d79f2?impolicy=wcms_crop_resize&amp;cropH=2495&amp;cropW=4435&amp;xPos=0&amp;yPos=231&amp;width=862&amp;height=485"
-      },
-      "description": "Accounting firm KPMG is engulfed in a scandal that has seen several senior leaders quit and ASIC launch an investigation into the firm's business dealings.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/kpmg-faces-day-of-reckoning-parliamentary-hearing-audit-scandal/106785480"
-    },
-    {
-      "published_datetime": "2026-06-13T19:07:15.000000Z",
-      "title": "How this globe shows the incredibly diverse story of our Socceroos",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40fee3c6f5a0d8751d32d676337e9c18?impolicy=wcms_crop_resize&amp;cropH=690&amp;cropW=1227&amp;xPos=0&amp;yPos=150&amp;width=862&amp;height=485"
-      },
-      "description": "The Socceroos squad is like no other that's ever been sent to represent us at a World Cup. See the extraordinary journeys that forged a team to represent modern Australia on the world stage.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/one-goal-many-journeys/106684994"
+      "description": "It was a case of puppy love when Cambell first set eyes on Tiana at a Gold Coast housing complex when they were both nine years old. They lost touch when they entered their teens but reunited as adults and have been inseparable since.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/love-story-from-childhood-sweethearts-to-soulmates/106725742"
     },
     {
       "published_datetime": "2026-06-13T21:30:16.000000Z",
@@ -82,40 +109,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-14/quentin-kylie-birt-mnd-donation/106791290"
     },
     {
-      "published_datetime": "2026-06-13T12:58:41.000000Z",
-      "title": "US and Iran edge closer to peace deal, though Tehran disputes timing",
+      "published_datetime": "2026-06-14T01:47:47.000000Z",
+      "title": "Thousands rally in Belfast to condemn anti-immigrant rioting",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/88a9dcf1b2603908c50051f3693971e9?impolicy=wcms_crop_resize&amp;cropH=2747&amp;cropW=4884&amp;xPos=0&amp;yPos=79&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/93f9cf983b6cb7017544570f5327d63e?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=237&amp;width=862&amp;height=485"
       },
-      "description": "Pakistan's Prime Minister Shehbaz Sharif says a deal aimed at ending the war in the Middle East is closer than \"ever before\" and is expected to be finalised within 24 hours.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-13/lebanon-israeli-strikes-pakistan-peace-deal-iran-united-states/106794956"
+      "description": "The anti-racism rally came after nights of fiery violence in parts of Northern Ireland following the arrest of a 30-year-old man from Sudan on charges of attempted murder in a stabbing that left a man partly blind.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/thousands-rally-belfast-anti-racism-protest/106796036"
     },
     {
-      "published_datetime": "2026-06-13T22:45:00.000000Z",
-      "title": "The one of a kind remote NT camp where 'it's cool to go to school'",
+      "published_datetime": "2026-06-14T02:12:51.000000Z",
+      "title": "The feminist and the bra fitter: Inside the world of Hannah Ferguson and her mum",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f89c474a2a6b0070fb825af1bd2f566?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=391&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7d583f10b8da00e3c834e2c5a16f1d54?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Children from across Central Australia have joined a remote Northern Territory camp inside the Watarrka National Park where \"it's cool to go to school\" — and the footy doesn't hurt either. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/lilla-indigenous-festival-watarrka-national-park-alice-springs/106794276"
-    },
-    {
-      "published_datetime": "2026-06-13T21:03:08.000000Z",
-      "title": "The multi-million-dollar tourist hotspot where locals can't afford to live",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98c382a47b8f41f9c092d8beff164570?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=44&amp;width=862&amp;height=485"
-      },
-      "description": "A tourist hotspot with skyrocketing rents, low rental vacancies and a dearth of public housing, has found a way to help find homes for those who can't afford to live in their own region.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/fleurieu-accommodation-project-providing-affordable-housing-sa/106674236"
-    },
-    {
-      "published_datetime": "2026-06-13T19:42:44.000000Z",
-      "title": "'Who will be accountable for this?': Families grieve sailors killed in Strait of Hormuz",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5262aa1cd4a22540af871f7b59b52539?impolicy=wcms_crop_resize&amp;cropH=890&amp;cropW=1583&amp;xPos=0&amp;yPos=14&amp;width=862&amp;height=485"
-      },
-      "description": "Families of Indian sailors who died in a US military attack in the Strait of Hormuz want to know who is accountable for attacks on commercial vessels.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/indian-sailors-deaths-strait-of-hormuz/106792790"
+      "description": "Emerging media star Hannah Ferguson and her mum, professional bra fitter Phillipa Mitchell, have found themselves on a similar path of empowering women, but just don't expect them to see it that way.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/inside-the-world-of-hannah-ferguson-and-her-mum/106786214"
     },
     {
       "published_datetime": "2026-06-13T20:25:48.000000Z",
@@ -136,94 +145,85 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-14/guy-montgomery-spelling-bee-quiz/106721508"
     },
     {
-      "published_datetime": "2026-06-13T19:45:43.000000Z",
-      "title": "Why older Australians with MND are considering early euthanasia",
+      "published_datetime": "2026-06-13T19:09:11.000000Z",
+      "title": "Some think Britain's 'broken', and they are looking to Australia for inspiration",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/66f89686c0a62163113ae463cc83edd7?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=754&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cb8efc5760ba7512105b83d3fecec3c3?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=67&amp;width=862&amp;height=485"
       },
-      "description": "The death of AFL legend Neale Daniher has shone a light on the grim choices faced by older Australians fighting motor neurone disease. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/aged-care-system-failing-australians-with-motor-neurone-disease/106776088"
+      "description": "Right-wing populism is rising in the UK where, like Australia, the political landscape is looking very different lately. It has prompted some people to ask if these surging parties can deliver on their promises.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/reform-uk-rising-popularity-sparks-question-if-it-can-deliver/106774178"
     },
     {
-      "published_datetime": "2026-06-13T23:02:55.000000Z",
-      "title": "Woman ditches custom wedding gown for $90 op shop dream dress",
+      "published_datetime": "2026-06-14T02:18:09.000000Z",
+      "title": "Brisbane to get $5.6m boost to health and wellness programs",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/34d829fd24564217d5905eef7af08644?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c052896b2b1a4cd7ccd5288658837027?impolicy=wcms_crop_resize&amp;cropH=2022&amp;cropW=3595&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Kaila Scally-Chadwick abandoned her previously purchased made-to-order gown when she found her dream dress in a second-hand shop just months out from the big day.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/woman-scraps-custom-wedding-dress-for-op-shop-find/106781278"
+      "description": "The Move Well Brisbane campaign will double the number of providers and activities in Brisbane's Active and Healthy program and include nutritional and cooking classes.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/move-well-brisbane-council-active-and-healthy-schrinner-budget/106795960"
     },
     {
-      "published_datetime": "2026-06-13T19:39:39.000000Z",
-      "title": "From wine to water, Adelaide Hills charity brings hope to kids in Kenya",
+      "published_datetime": "2026-06-13T21:03:08.000000Z",
+      "title": "The multi-million-dollar tourist hotspot where locals can't afford to live",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/39156f035b3b2d7693da8749e1498f4e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98c382a47b8f41f9c092d8beff164570?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=44&amp;width=862&amp;height=485"
       },
-      "description": "From the Adelaide Hills to refugee camps in Kenya, how one young Aussie has made it his mission to help.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/adelaide-hills-charity-opblue-provides-water-in-kenya/106711400"
+      "description": "A tourist hotspot with skyrocketing rents, low rental vacancies and a dearth of public housing, has found a way to help find homes for those who can't afford to live in their own region.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/fleurieu-accommodation-project-providing-affordable-housing-sa/106674236"
     },
     {
-      "published_datetime": "2026-06-13T19:47:46.000000Z",
-      "title": "Why young people say the social media ban is not working six months on",
+      "published_datetime": "2026-06-13T19:42:44.000000Z",
+      "title": "'Who will be accountable for this?': Families grieve sailors killed in Strait of Hormuz",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/96f8891fe58def33cf481eab2ee8c835?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5262aa1cd4a22540af871f7b59b52539?impolicy=wcms_crop_resize&amp;cropH=890&amp;cropW=1583&amp;xPos=0&amp;yPos=14&amp;width=862&amp;height=485"
       },
-      "description": "Research suggests many under-16s are still active on social media platforms. BTN High explores why and tests the accuracy of popular technology used to estimate age.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/why-teens-say-social-media-ban-isnt-working-for-under-16s/106780590"
+      "description": "Families of Indian sailors who died in a US military attack in the Strait of Hormuz want to know who is accountable for attacks on commercial vessels.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/indian-sailors-deaths-strait-of-hormuz/106792790"
     },
     {
-      "published_datetime": "2026-06-13T22:37:20.000000Z",
-      "title": "A cafe run by students, for students aims to tackle food insecurity",
+      "published_datetime": "2026-06-14T00:51:36.000000Z",
+      "title": "King Charles's celebrates official birthday with Trooping the Colour",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3c1003473142cfe1f90bacbcea33d654?impolicy=wcms_crop_resize&amp;cropH=5065&amp;cropW=9005&amp;xPos=0&amp;yPos=720&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/546493123fdb478f9f6b852cddf18229?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "It might look like a regular cafe, but a new student-run business in Hobart's CBD has a different goal than turning a profit — a mission to feed their struggling peers. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/utas-student-run-food-hub-cafe-grounded-opens/106793254"
+      "description": "Members of the royal family attend the king's annual birthday parade in London.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/king-charles-trooping-the-colour-parade-buckingham-palace/106795710"
     },
     {
-      "published_datetime": "2026-06-13T22:40:32.000000Z",
-      "title": "'Straight to landfill': Compostable packaging but nowhere to compost it",
+      "published_datetime": "2026-06-14T01:58:38.000000Z",
+      "title": "Hundreds of regional firefighters rally against levy in Bendigo",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/170c48161d519512dac237478ada86e0?impolicy=wcms_crop_resize&amp;cropH=2208&amp;cropW=3925&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/58f5714fcd66cbbdb511c522fcbd5eb9?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The ACT mandates reusable, recyclable and compostable packaging at all public events, but nearly all of it ends up in landfill because there is no facility to compost it.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/act-recylable-packaging-no-composting-facility-sent-to-landfill/106794322"
+      "description": "Hundreds of regional Victorian firefighters turn out for a rally in Bendigo, calling on the state government to scrap a controversial levy after saying they have been \"left behind\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/cfa-firefighters-volunteer-rally-protest-bendigo/106775498"
     },
     {
-      "published_datetime": "2026-06-13T21:17:47.000000Z",
-      "title": "Pint-sized superheroes find love for art via creative gallery program",
+      "published_datetime": "2026-06-14T01:23:13.000000Z",
+      "title": "'We have all got Tino's back': Maroons rally around mourning star",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/46d5185a3e4448be5ce02e63ba11a986?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=177&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/45f6247fbeaa1de8396f63e67906d204?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
       },
-      "description": "This group of pint-sized superheroes is taking part in an early childhood education tour run by the Art Gallery of NSW, which teaches young minds about shapes, colour and form.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/art-gallery-of-nsw-super-art-heroes-education-program-for-kids/106785648"
+      "description": "Tino Fa'asuamaleaui indicates he plans to play in Origin II after the death of his father this week. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/origin-ii-maroons-players-rally-around-tino-fa-asuamaleaui/106796038"
     },
     {
-      "published_datetime": "2026-06-13T04:44:45.000000Z",
-      "title": "Body of girl recovered from Sydney bay where father was found dead",
+      "published_datetime": "2026-06-13T19:43:55.000000Z",
+      "title": "Here's what you need to know about the KPMG scandal",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a2a61f459a492a4ece6735fd5578c832?impolicy=wcms_crop_resize&amp;cropH=2295&amp;cropW=4080&amp;xPos=0&amp;yPos=389&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/edc4b6f1835813454f2198fa464d79f2?impolicy=wcms_crop_resize&amp;cropH=2495&amp;cropW=4435&amp;xPos=0&amp;yPos=231&amp;width=862&amp;height=485"
       },
-      "description": "Police divers have recovered the body of a young girl from a bay in Sydney's inner west.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-13/nsw-man-dead-missing-child-found-in-concord-waters/106794530"
+      "description": "Accounting firm KPMG is engulfed in a scandal that has seen several senior leaders quit and ASIC launch an investigation into the firm's business dealings.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/kpmg-faces-day-of-reckoning-parliamentary-hearing-audit-scandal/106785480"
     },
     {
-      "published_datetime": "2026-06-13T19:50:59.000000Z",
-      "title": "Early childhood educators burnt out, stretched and 'paid peanuts'",
+      "published_datetime": "2026-06-14T01:04:46.000000Z",
+      "title": "Former potato farm given new life as bird sanctuary",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c00a6e0d4c67b61ccf1d68db5213ee1?impolicy=wcms_crop_resize&amp;cropH=876&amp;cropW=1558&amp;xPos=0&amp;yPos=82&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2044e54caad0e35cf1afbd737fb37f2c?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
       },
-      "description": "Early childhood operators say increased load on educators is taking a \"huge toll\" on their mental health and safety.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/childcare-workers-leave-amid-low-wages-and-burnout/106780016"
-    },
-    {
-      "published_datetime": "2026-06-13T20:38:08.000000Z",
-      "title": "Street signs link coastal town and luxury ocean liners dating back to 1800s",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/43e940a91512ddb54964ccb163e4d0e9?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Orient Point, where the streets are named after ships beginning with \"O\", shows how national pride in 19th and early 20th-century boatbuilding featured in colonial town planning.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-14/orient-point-streets-named-after-historical-ocean-liners/106659906"
+      "description": "Once drained for farm irrigation, this former potato farm now attracts birds from as far away as Siberia. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-14/former-wa-potato-farm-transformed-into-bird-sanctuary/106777918"
     }
   ]
 }
