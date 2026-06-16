@@ -1,8 +1,35 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-16T16:00:47.000000Z",
+      "title": "FBI says plot to attack White House UFC event with drones thwarted",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ede456a116248330d6b8d09f212259b8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "US media says five people are in custody in connection with the plot, that involved flying explosive-laden drones towards buildings near last weekend's White House UFC match.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-17/ufc-white-house-drone-bomb/106806038"
+    },
+    {
+      "published_datetime": "2026-06-16T13:56:25.000000Z",
+      "title": "Time for Russia to make a deal to end Ukraine war, Trump says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/147cb9fdc9961569f302d78f9e76a3be?impolicy=wcms_crop_resize&amp;cropH=1300&amp;cropW=2312&amp;xPos=385&amp;yPos=417&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump says Moscow should \"make a deal\" to end the war with Ukraine as G7 leaders have agreed to intensify pressure on Russia.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-16/g7-leaders-pressure-russia-end-ukraine-war/106806020"
+    },
+    {
+      "published_datetime": "2026-06-16T12:05:06.000000Z",
+      "title": "Russian artist who satirised Putin shot dead in Poland",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f8ef4ba4fc049c2cad7947ffb3213f04?impolicy=wcms_crop_resize&amp;cropH=538&amp;cropW=956&amp;xPos=0&amp;yPos=209&amp;width=862&amp;height=485"
+      },
+      "description": "Two Belarusian nationals are arrested in connection with the killing, authorities say.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-16/semyon-skrepetsky-russian-artist-shot-dead-in-poland/106805960"
+    },
+    {
       "published_datetime": "2026-06-16T11:36:35.000000Z",
-      "title": "Donald Trump maintains Iran will never have nuclear weapons",
+      "title": "Deal says 'loud and clear' that Iran won't have a nuclear weapon: Trump",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/45b8dc80619bdc967aedf9044db90fea?impolicy=wcms_crop_resize&amp;cropH=2091&amp;cropW=3718&amp;xPos=0&amp;yPos=125&amp;width=862&amp;height=485"
       },
@@ -17,15 +44,6 @@
       },
       "description": "Embattled Victorian Premier Jacinta Allan has refused to answer repeated questions over how much CFMEU corruption has cost taxpayers in the state, a scandal that has put the government and her leadership under threat.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-16/jacinta-allan-refuses-cfmeu-cost-corruption/106805338"
-    },
-    {
-      "published_datetime": "2026-06-16T07:24:01.000000Z",
-      "title": "Ben Roberts-Smith's bail conditions varied to attend war memorial event",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c8105aa42556113b41b9d58868039db?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "War veteran Ben Roberts-Smith's bail conditions have been varied so he can attend an opening at the Australian War Memorial in Canberra next week.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-16/ben-roberts-smith-court-sydney-bail-varied-for-event/106802868"
     },
     {
       "published_datetime": "2026-06-16T07:00:34.000000Z",
@@ -62,24 +80,6 @@
       },
       "description": "The Reserve Bank keeps the interest rate at 4.35pc as Australia's economy slows down.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-16/reserve-bank-keep-rates-on-hold-june-2026/106803692"
-    },
-    {
-      "published_datetime": "2026-06-16T04:08:06.000000Z",
-      "title": "Craft retailer Lincraft to close rest of its stores in Australia and NZ",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1e777a721a2fb9092abd452cd6d5b945?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Retailer Lincraft will close the remainder of its shopfronts after more than 80 years of providing fabric, materials and homewares to Aussie crafters.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-16/retailer-lincraft-to-close-remainder-of-its-shopfronts/106803412"
-    },
-    {
-      "published_datetime": "2026-06-16T04:04:46.000000Z",
-      "title": "Birth doula says lack of consent delayed Triple Zero call for dying mother",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2413c3cef9e0abe67caa5d35067f307d?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=497&amp;width=862&amp;height=485"
-      },
-      "description": "A court probing the death of Stacey Warnecke after a freebirth has heard that emergency care was delayed for several minutes because her \"birth keeper\" would only call an ambulance if she consented.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-16/vic-stacey-warnecke-freebirth-emergency-services-delay-claims/106797878"
     },
     {
       "published_datetime": "2026-06-15T23:50:47.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-16T12:04:21.664539"
+  "merged_at": "2026-06-16T17:55:13.699723"
 }
