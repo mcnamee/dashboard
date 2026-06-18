@@ -1,13 +1,76 @@
 {
   "items": [
     {
-      "published_datetime": "2026-06-17T23:54:27.000000Z",
-      "title": "Breaking: Vodafone network crash potentially affecting millions of Australians",
+      "published_datetime": "2026-06-18T05:00:52.000000Z",
+      "title": "The 2 minutes and 46 seconds of Hanson's speech that she thinks matters",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/127241c52f1db96c13cbbc06b1117f28?impolicy=wcms_crop_resize&amp;cropH=2344&amp;cropW=4167&amp;xPos=0&amp;yPos=368&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8a0039c248e97130a54f340ed90165f4?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "A statement from the company says it is aware some customers are experiencing \"intermittent issues\" with its service and it is urgently investigating.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-18/vodafone-mobile-network-outage/106812502"
+      "description": "When Pauline Hanson stood up at the National Press Club, it was not just for the audience watching on broadcast TV. In the age of social media, the bite-sized clips that come later are far more important.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-18/pauline-hanson-national-press-club-social-media-clips/106813984"
+    },
+    {
+      "published_datetime": "2026-06-18T04:02:31.000000Z",
+      "title": "Warning sounded over Australia as global data centre hotspot",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ea30a6b569cdfdf583412a52b3d9d9d2?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=100&amp;width=862&amp;height=485"
+      },
+      "description": "As data centres rapidly come online to meet demand, governments are being urged to ensure that development does not outpace adequate planning.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-18/data-centre-boom-sparks-warning-to-consider-climate-change/106799658"
+    },
+    {
+      "published_datetime": "2026-06-18T03:48:51.000000Z",
+      "title": "Fans push back against Trump administration's anime posts",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/292747ff6b6c2a45fd224d6ebfbb4c92?impolicy=wcms_crop_resize&amp;cropH=338&amp;cropW=601&amp;xPos=0&amp;yPos=48&amp;width=862&amp;height=485"
+      },
+      "description": "Both fans and the Japanese government push back after a series of Trump administration posts using images from popular anime and manga.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-18/white-house-anime-propaganda-japan-petition-against-it/106799328"
+    },
+    {
+      "published_datetime": "2026-06-18T02:11:36.000000Z",
+      "title": "'I'm blaming JD': Key moments from Trump's extraordinary Iran deal press conference",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/08d9c0b548f0b84794680394a18cfa27?impolicy=wcms_crop_resize&amp;cropH=1401&amp;cropW=2491&amp;xPos=1256&amp;yPos=1933&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump has held a press conference as the United States and Tehran have signed a memorandum of understanding to end the war in Iran.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-18/donald-trump-and-iran-sign-mou-to-end-war-press-conference/106812366"
+    },
+    {
+      "published_datetime": "2026-06-18T01:41:12.000000Z",
+      "title": "Coroner suggests racism marred investigation of Indigenous teen's death",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aaaa093dd8dfbcd2f66e86f55398bc83?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The mysterious death of Mark Haines, whose body was discovered on railway tracks in northern NSW in 1988, would have been treated differently \"if it was a white boy\", according to the coroner.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-18/mark-haines-inquest-findings/106807142"
+    },
+    {
+      "published_datetime": "2026-06-18T01:35:24.000000Z",
+      "title": "Kyle Sandilands's $12m settlement won't deter Jackie O's legal battle",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/53343f0dd18ee46e2a6434a6f9ab1d99?impolicy=wcms_crop_resize&amp;cropH=309&amp;cropW=550&amp;xPos=0&amp;yPos=159&amp;width=862&amp;height=485"
+      },
+      "description": "A legal battle between Jackie \"O\" Henderson and ARN Media appears still headed for an October trial after her former co-host Kyle Sandilands settled his own court case against the company.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-18/jackie-o-arn-media-legal-battle-continues/106812234"
+    },
+    {
+      "published_datetime": "2026-06-18T01:27:31.000000Z",
+      "title": "England's high-octane start betrays World Cup nerves",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1ac2534cb110f163533530ecc0b2897d?impolicy=wcms_crop_resize&amp;cropH=2316&amp;cropW=4118&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "England's World Cup opener against Croatia, with a missed penalty and a flaky defence, seemed to be briefly polluted by fear.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-18/world-cup-england-croatia-fear-nerves/106811876"
+    },
+    {
+      "published_datetime": "2026-06-18T01:03:35.000000Z",
+      "title": "Albanese, Chalmers unveil CGT carve-outs for small businesses, startups",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b1e7a918e8a4061485349d833f279c4?impolicy=wcms_crop_resize&amp;cropH=2462&amp;cropW=4377&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "The federal government has consulted with small businesses and startups over contentious elements of its budget tax proposal.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-18/capital-gains-tax-concessions-for-startups-and-small-business/106812782"
     },
     {
       "published_datetime": "2026-06-17T23:00:07.000000Z",
@@ -19,51 +82,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-18/global-university-rankings-unsw-top-performer/106808096"
     },
     {
-      "published_datetime": "2026-06-17T22:21:56.000000Z",
-      "title": "Live: US and Iran sign agreement to end war",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/91c454e32da8fd5cbd18be0bf74582f5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The US and Iran have signed a memorandum of understanding to end the war and reopen the Strait of Hormuz. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-18/us-iran-sign-memorandum-to-end-war-live-updates/106812140"
-    },
-    {
-      "published_datetime": "2026-06-17T21:47:44.000000Z",
-      "title": "After 27 years, Virginia Trioli takes creative leap and leaves the ABC",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/302e08756df5352d947fc6a703b906b4?impolicy=wcms_crop_resize&amp;cropH=2025&amp;cropW=3600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "After 27 years as a journalist, broadcaster and program maker at the ABC, Virginia Trioli announces she is leaving to pursue new creative opportunities.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-18/virginia-trioli-to-leave-the-abc-after-27-years/106804144"
-    },
-    {
-      "published_datetime": "2026-06-17T21:36:46.000000Z",
-      "title": "Walker's breakout Origin performance showed us both sides of his coin",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/55db6a1d20ff8905e2f90194f8ae89e6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "On Wednesday night, Queensland coach Billy Slater got a glimpse of a glistening Sam Walker-led future, even if the present wasn't quite perfect.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-18/queensland-maroons-state-of-origin-game-two-sam-walker/106729708"
-    },
-    {
-      "published_datetime": "2026-06-17T21:22:42.000000Z",
-      "title": "US-Iran deal covers Lebanon, Strait of Hormuz and Iran's uranium",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6463490666e54338bc1434f7ebfec11?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The presidents of the United States and Iran have officially signed a memorandum of understanding aimed at ending the war and reopening the Strait of Hormuz.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-18/us-iran-ceasefire-deal-new-detail-revealed-urainium-and-lebanon/106811808"
-    },
-    {
-      "published_datetime": "2026-06-17T19:23:37.000000Z",
-      "title": "Wife and carer 'dumbfounded' by husband's aged care assessment",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e405a238d384b66d8764a3745b351a0a?impolicy=wcms_crop_resize&amp;cropH=1143&amp;cropW=2032&amp;xPos=0&amp;yPos=49&amp;width=862&amp;height=485"
-      },
-      "description": "Melbourne man Graham Crossan relies on his wife Gaynor to help him eat, move and even breathe. But a new assessment tool means he has been refused funding for more support.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-18/motor-neurone-disease-integrated-assessment-tool/106811112"
-    },
-    {
       "published_datetime": "2026-06-17T18:56:07.000000Z",
       "title": "Couple left with nothing after investing $1m in 7-Eleven franchise",
       "featured_image": {
@@ -71,24 +89,6 @@
       },
       "description": "Jotika and Sunny Sharma took out a loan to purchase their Sydney franchise in 2015. When the lease expired this year, their relationship with the convenience store giant turned ugly.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-18/7-eleven-forces-franchisees-to-sell-but-blocks-sale/106799126"
-    },
-    {
-      "published_datetime": "2026-06-17T18:30:00.000000Z",
-      "title": "Hanson's fiery address creates risk for One Nation",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a0237e9d9b7798cc1228c51d075b821b?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "In one press club appearance, we've learned more about where Hanson stands. And that creates risk for One Nation.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-18/pauline-hanson-press-club-address/106809434"
-    },
-    {
-      "published_datetime": "2026-06-17T16:29:35.000000Z",
-      "title": "Live: Ghana struggling against Panama after England's frenetic opening win",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e92aec79855a6b5e1cb5a27666856b57?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
-      },
-      "description": "Manchester City star Antoine Semenyo takes the field for Ghana in Toronto, after Harry Kanes nets a brace in England's entertaining 4-2 win over Croatia. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-18/world-cup-live-portugal-congo-england-croatia-ghana-panama-uz-co/106807430"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-18T00:07:57.000566"
+  "merged_at": "2026-06-18T05:28:28.869165"
 }
