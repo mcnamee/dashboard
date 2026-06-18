@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-17T23:54:27.000000Z",
+      "title": "Breaking: Vodafone network crash potentially affecting millions of Australians",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/127241c52f1db96c13cbbc06b1117f28?impolicy=wcms_crop_resize&amp;cropH=2344&amp;cropW=4167&amp;xPos=0&amp;yPos=368&amp;width=862&amp;height=485"
+      },
+      "description": "A statement from the company says it is aware some customers are experiencing \"intermittent issues\" with its service and it is urgently investigating.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-18/vodafone-mobile-network-outage/106812502"
+    },
+    {
+      "published_datetime": "2026-06-17T23:00:07.000000Z",
+      "title": "'Find something else': Academics warn of workload as uni rankings released",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b6525022abd9701ee5bd789ad281ab3?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Annual university rankings reveal the University of New South Wales is now the highest-rated Australian institution, placing 19th worldwide.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-18/global-university-rankings-unsw-top-performer/106808096"
+    },
+    {
       "published_datetime": "2026-06-17T22:21:56.000000Z",
       "title": "Live: US and Iran sign agreement to end war",
       "featured_image": {
@@ -29,7 +47,7 @@
     },
     {
       "published_datetime": "2026-06-17T21:22:42.000000Z",
-      "title": "Breaking: US and Iran sign memorandum aimed at ending war",
+      "title": "US-Iran deal covers Lebanon, Strait of Hormuz and Iran's uranium",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6463490666e54338bc1434f7ebfec11?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -55,15 +73,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-18/7-eleven-forces-franchisees-to-sell-but-blocks-sale/106799126"
     },
     {
-      "published_datetime": "2026-06-17T18:47:13.000000Z",
-      "title": "HSBC 'gaslit' customers who lost life savings. Now it's fronting court over failures",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c77c42acf69d848fefbbd620cce14efd?impolicy=wcms_crop_resize&amp;cropH=1971&amp;cropW=3504&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
-      },
-      "description": "HSBC customers who became victims of a long-running \"spoofing\" scam hope the bank will take full responsibility for its \"system failures\" in Federal Court this week.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-18/hsbc-bank-federal-court-hearing-scam-text/106772268"
-    },
-    {
       "published_datetime": "2026-06-17T18:30:00.000000Z",
       "title": "Hanson's fiery address creates risk for One Nation",
       "featured_image": {
@@ -74,21 +83,12 @@
     },
     {
       "published_datetime": "2026-06-17T16:29:35.000000Z",
-      "title": "Live: England claims victory over Croatia in frenetic clash",
+      "title": "Live: Ghana struggling against Panama after England's frenetic opening win",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3839857df7fe35d89c6e5d2c215bd1e0?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=21&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e92aec79855a6b5e1cb5a27666856b57?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
       },
-      "description": "England kicks off its World Cup campaign with a nervy 4-2 victory against Croatia, the team that beat the Three Lions at the semifinal stage in 2018. Follow live.",
+      "description": "Manchester City star Antoine Semenyo takes the field for Ghana in Toronto, after Harry Kanes nets a brace in England's entertaining 4-2 win over Croatia. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-18/world-cup-live-portugal-congo-england-croatia-ghana-panama-uz-co/106807430"
-    },
-    {
-      "published_datetime": "2026-06-17T14:07:33.000000Z",
-      "title": "'Cut the complexity': Watchdog moves to dramatically simplify power bills",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7d65e4cd2ffb853e472894fd87b7c353?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Millions of Australians have been often unwittingly moved to complex and variable power tariffs. An energy watchdog says bills must be simplified.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-18/aemc-plans-to-simplify-power-bills-like-buying-milk/106808440"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-17T22:29:13.521165"
+  "merged_at": "2026-06-18T00:07:57.000566"
 }
