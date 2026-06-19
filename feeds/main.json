@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-19T15:27:49.000000Z",
+      "title": "UK PM vows to fight for job after rival's stunning by-election win",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fc7e3815d4c68cbbe16f1371c0c04af4?impolicy=wcms_crop_resize&amp;cropH=2435&amp;cropW=4329&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Sir Keir Starmer's principal rival, Andy Burnham, has stormed back into parliament after a near-decade absence with a by-election win.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-20/andy-burnham-wins-makerfield-by-election/106821554"
+    },
+    {
+      "published_datetime": "2026-06-19T14:36:32.000000Z",
+      "title": "Israel and Hezbollah agree ceasefire as US-Iran deal under strain",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ce0c00ae79220fb2fdea04c8df5b0cba?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=509&amp;width=862&amp;height=485"
+      },
+      "description": "Fighting escalated between Israel and Hezbollah in south Lebanon overnight, with reports of more than 18 people killed in Israeli strikes and four Israeli soldiers killed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-20/lebanon-israel-united-states-iran-deal/106821978"
+    },
+    {
       "published_datetime": "2026-06-19T12:10:36.000000Z",
-      "title": "Meloni says Trump 'completely made up' claim she 'begged' him for a photo",
+      "title": "'Astonished': Meloni hits back at Trump's claim she 'begged' him for photo",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8f8c11141a198f5dc64aa240e4b21c4d?impolicy=wcms_crop_resize&amp;cropH=1914&amp;cropW=3402&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -11,16 +29,16 @@
     },
     {
       "published_datetime": "2026-06-19T09:09:12.000000Z",
-      "title": "Live: Hawks break drought at Carrara, winning tough encounter against Suns",
+      "title": "Hawks break drought at Carrara, winning tough encounter against Suns",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a156d1bbb1024b8e7de7c57136baa0cd?impolicy=wcms_crop_resize&amp;cropH=2279&amp;cropW=4051&amp;xPos=0&amp;yPos=4&amp;width=862&amp;height=485"
       },
-      "description": "The Hawks win at Carrara for the first time since 2014, after a tough, physical encounter against the Suns. Follow live.",
+      "description": "The Hawks win at Carrara for the first time since 2014, after a tough, physical encounter against the Suns.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-19/afl-rd-15-live-suns-hawks/106811508"
     },
     {
       "published_datetime": "2026-06-19T08:01:40.000000Z",
-      "title": "Live: Dragons suffer crushing two-point loss after crucial miss from near posts",
+      "title": "Crucial miss sinks Dragons as Knights survive massive scare at home",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7eee29abca76aeb681fdf1d47489f46b?impolicy=wcms_crop_resize&amp;cropH=721&amp;cropW=1282&amp;xPos=0&amp;yPos=124&amp;width=862&amp;height=485"
       },
@@ -44,24 +62,6 @@
       },
       "description": "Federal senators have accused senior leaders in Australia's accounting and auditing industry of behaving disgracefully as more revelations emerge about KPMG's whistleblower scandal.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-19/kpmg-inquiry-scandal-accounting-industry-parliamentary-hearing/106817096"
-    },
-    {
-      "published_datetime": "2026-06-19T06:07:56.000000Z",
-      "title": "How Ukraine is breaking through defences to bring war home to Moscow",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/018bee5065e28b19cce7d286db3bac9d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
-      },
-      "description": "Ukraine's growing arsenal of locally produced long-range drones are getting increasingly sophisticated, allowing Kyiv to increasingly strike targets across Moscow. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-19/ukraine-long-range-drone-missiles-moscow-attacks-war-russia/106817128"
-    },
-    {
-      "published_datetime": "2026-06-19T05:42:00.000000Z",
-      "title": "Business says Labor's tax changes like a plastic surgery 'freak show'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/beb7304bfe6cacdb6e62a44eb88b458f?impolicy=wcms_crop_resize&amp;cropH=3211&amp;cropW=5709&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
-      },
-      "description": "Business has labelled Labor's proposed budget tax changes a \"freak show\", likening them to a celebrity who has had too much plastic surgery.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-19/labor-tax-overhaul-looks-like-too-much-plastic-surgery-acci-ceo/106817070"
     },
     {
       "published_datetime": "2026-06-19T05:23:02.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-19T12:41:07.490429"
+  "merged_at": "2026-06-19T15:56:13.573483"
 }
