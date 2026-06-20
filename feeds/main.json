@@ -1,13 +1,31 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-20T14:23:47.000000Z",
+      "title": "Europe swelters as more heat records set to tumble",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/436325fce9a7bc159432d38eba5c15ce?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+      },
+      "description": "Much of Western Europe is sweltering in a heatwave with the mercury expected to continue rising in the coming days, likely shattering yet more temperature records.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-21/europe-swelters-under-heatwave-prompting-crisis-talks-in-france/106823640"
+    },
+    {
+      "published_datetime": "2026-06-20T14:19:31.000000Z",
+      "title": "UK police investigate train crash that killed a driver and injured 80",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/da0e3e81a7a572d9da9fe94b7f28b9b1?impolicy=wcms_crop_resize&amp;cropH=873&amp;cropW=1552&amp;xPos=0&amp;yPos=81&amp;width=862&amp;height=485"
+      },
+      "description": "Nine people are in a critical condition after a collision between two passenger trains in central England.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-21/uk-train-crash-england-london-investigation-cause/106823672"
+    },
+    {
       "published_datetime": "2026-06-20T12:47:25.000000Z",
-      "title": "Israeli strikes kill 16 in Lebanon hours after ceasefire",
+      "title": "Switzerland to host US-Iran talks as Tehran closes Strait of Hormuz",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6bccfcfc2798b15145386bc03a289014?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
       },
-      "description": "Israeli strikes in Lebanon killed at least 16 people on Saturday, hours after a ceasefire with Hezbollah took effect, with Israel saying it was responding to projectiles fired by the Iran-backed group.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-20/israeli-strikes-kill-16-in-lebanon-hours-after-ceasefire/106823540"
+      "description": "Iran says it has closed the Strait of Hormuz over Israel's continued attacks in Lebanon which have killed at least 16 people on Saturday.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-20/us-iran-talks-to-take-place-in-switzerland/106823540"
     },
     {
       "published_datetime": "2026-06-20T12:31:55.000000Z",
@@ -17,15 +35,6 @@
       },
       "description": "The federal government is winding back its discount to the fuel excise over the next month as the 32 cents per litre fuel discount will drop to 16 cents.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-20/fuel-excise-rebate-discount-petrol-federal-government-extended/106823512"
-    },
-    {
-      "published_datetime": "2026-06-20T05:03:05.000000Z",
-      "title": "Why this Paraguay star was red-carded for covering his mouth",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b1893298a00806c03a7f1b5855f9285a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=155&amp;width=862&amp;height=485"
-      },
-      "description": "Paraguay's Miguel Almir\u00f3n fell victim to new laws put in place at this World Cup to counter discriminatory behaviour. So what are the new laws in place?",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-20/world-cup-laws-paraguay-miguel-almir%C3%B3n-sent-off-covering-mouth/106823206"
     },
     {
       "published_datetime": "2026-06-20T04:33:38.000000Z",
@@ -38,7 +47,7 @@
     },
     {
       "published_datetime": "2026-06-20T02:52:51.000000Z",
-      "title": "Port star goes from equalling AFL record to facing long injury layoff",
+      "title": "Ratugolea hospitalised as Port suffer injury carnage in loss to Magpies",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d472dd1404fb1a1e59cce0db6d95b7e4?impolicy=wcms_crop_resize&amp;cropH=1736&amp;cropW=3087&amp;xPos=0&amp;yPos=91&amp;width=862&amp;height=485"
       },
@@ -80,15 +89,6 @@
       },
       "description": "An Australian-first eight hour surgical feat had one main purpose \u2014 for Artie and Jack to hear their mum's voice at the same time.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-20/australian-first-cochlear-surgery-twin-boys/106804308"
-    },
-    {
-      "published_datetime": "2026-06-19T18:43:35.000000Z",
-      "title": "'Everything's just so wrong': Inside the country town that turned to One Nation",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d3f8ee3f36f2d14ace0695c6c076504a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=138&amp;width=862&amp;height=485"
-      },
-      "description": "In just a few short weeks, a small country town became One Nation heartland. It is a blueprint for how the party can turn Australia orange.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-20/one-nation-wave-in-regional-country-australia-town-of-hay/106757464"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-20T13:28:51.524737"
+  "merged_at": "2026-06-20T15:29:03.907566"
 }
