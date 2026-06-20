@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-20T22:02:22.000000Z",
+      "title": "The quest for the truth behind Australian nurses' massacre in WWII",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3f0b015a81e52443d24b197004328ff4?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A relative of one of the 21 Australian nurses massacred by Japanese soldiers on a remote Indonesian beach in WWII wants the real story of what happened to be told.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-21/the-myth-of-the-nurses-on-the-beach/106808978"
+    },
+    {
       "published_datetime": "2026-06-20T20:10:17.000000Z",
       "title": "More missiles and ditch the UN: What One Nation\u2019s foreign policy looks like",
       "featured_image": {
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-06-20T19:31:46.000000Z",
-      "title": "Trump's peace deal may not stop Iran casting America as the enemy",
+      "title": "War helped 're-enliven' Iran's regime. Trump's truce may complicate that",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/19176f872e7d753775005a89c4524d53?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
       },
@@ -25,25 +34,16 @@
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/41b4c8fc74ae4350ff33bbef9c578db6?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Ronnie's great-grandfather collected bones and teeth from an outback creek bed. Now police say they're 'not proud' of what occurred.\u00a0 \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-21/forest-river-massacre-families-return/106778146"
+      "page_content_url": "https://www.abc.net.au/news/2026-06-21/forrest-river-massacre-families-return/106778146"
     },
     {
       "published_datetime": "2026-06-20T18:52:43.000000Z",
-      "title": "Migrant's multi-million-dollar plan to save a dying outback town",
+      "title": "Pitched as an outback oasis, this remote town is 'actually reinventing itself'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/110606a55f101762fa2df855dfcb8206?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=113&amp;width=862&amp;height=485"
       },
       "description": "A decade after the last coal truck rumbled out of Leigh Creek, Baljit Singh Bajwa put millions of dollars on the line to invest in the shrinking mining town.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-06-21/business-partners-buy-leigh-creek-infrastructure-to-boost-town/106647380"
-    },
-    {
-      "published_datetime": "2026-06-20T18:47:35.000000Z",
-      "title": "Why a trip to Asia might be a good idea now",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c3ef7d85c52c2d3582b2662a03f9dddb?impolicy=wcms_crop_resize&amp;cropH=572&amp;cropW=1017&amp;xPos=23&amp;yPos=596&amp;width=862&amp;height=485"
-      },
-      "description": "The war in the Middle East has not stopped Australians travelling but their preferences may be changing.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-21/asia-attractive-tourism-destination-despite-war-in-iran/106810908"
     },
     {
       "published_datetime": "2026-06-20T18:46:21.000000Z",
@@ -65,11 +65,11 @@
     },
     {
       "published_datetime": "2026-06-20T16:15:34.000000Z",
-      "title": "Live: Germany rocked by C\u00f4te d'Ivoire, Netherlands thump Sweden",
+      "title": "Live: Germany finds last-gasp winner against C\u00f4te d'Ivoire, Netherlands thump Sweden",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/afef303e9a652c929f43352adeb91d4c?impolicy=wcms_crop_resize&amp;cropH=2415&amp;cropW=4293&amp;xPos=0&amp;yPos=265&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9d6aed98fd8a89015f5571401c40753b?impolicy=wcms_crop_resize&amp;cropH=2131&amp;cropW=3788&amp;xPos=0&amp;yPos=163&amp;width=862&amp;height=485"
       },
-      "description": "Germany faces C\u00f4te d'Ivoire in Toronto after the Netherlands beat Sweden 5-1 to kick off a big day at the World Cup. Follow live.",
+      "description": "Deniz Undav comes off the bench to score twice as Germany claims a late win over C\u00f4te d'Ivoire after the Netherlands beat Sweden 5-1. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-21/world-cup-live-blog-ned-swe-ger-civ-ecu-cur-tun-jap/106823222"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "published_datetime": "2026-06-20T12:31:55.000000Z",
-      "title": "Fuel excise discount extended, but prices could see small jump",
+      "title": "Fuel price cuts extended through July, but discount drops by half",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b30d2b5a3c20e0350317223e0c4e825c?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-20T21:05:00.665631"
+  "merged_at": "2026-06-20T22:58:17.332642"
 }
