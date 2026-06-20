@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-20T16:15:34.000000Z",
+      "title": "Live: Early goal puts Netherlands ahead against Sweden",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/013397cf0b3c2ec718ee679007d4daa7?impolicy=wcms_crop_resize&amp;cropH=1695&amp;cropW=3014&amp;xPos=0&amp;yPos=157&amp;width=862&amp;height=485"
+      },
+      "description": "The Netherlands and Sweden kick off a big day at the World Cup as global superstars clash in Houston. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-21/world-cup-live-blog-ned-swe-ger-civ-ecu-cur-tun-jap/106823222"
+    },
+    {
       "published_datetime": "2026-06-20T14:23:47.000000Z",
       "title": "Europe swelters as more heat records set to tumble",
       "featured_image": {
@@ -71,15 +80,6 @@
       },
       "description": "Does \"bliss\" \u2014 big lasting state support for financial entities deemed too big to fail \u2014 make the stock market a one-way bet?",
       "page_content_url": "https://www.abc.net.au/news/2026-06-20/bliss-big-lasting-state-support-trade-market-crash-risk/106818718"
-    },
-    {
-      "published_datetime": "2026-06-19T23:23:56.000000Z",
-      "title": "Melbourne woman suffers acute liver failure after using knock-off drug",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e5a34abfdfacaca9acb679fe0ec70f73?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=592&amp;width=862&amp;height=485"
-      },
-      "description": "Megan Hancocks bought a drug labelled as the peptide compound retatrutide in cash from a beautician. Within a week of her second dose, she was in acute liver failure.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-20/liver-failure-fake-retatrutide-health-risk/106814372"
     },
     {
       "published_datetime": "2026-06-19T18:45:19.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-20T16:24:39.524605"
+  "merged_at": "2026-06-20T17:15:49.902202"
 }
