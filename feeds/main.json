@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-21T15:31:48.000000Z",
+      "title": "Live: Spain running riot against Saudi Arabia as teen sensation wreaks havoc",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d7c4d1215e24ff0266e5226d87fd4fac?impolicy=wcms_crop_resize&amp;cropH=2709&amp;cropW=4816&amp;xPos=0&amp;yPos=457&amp;width=862&amp;height=485"
+      },
+      "description": "After being held to a scoreless draw by Cabo Verde in its World Cup opener, La Roja looks to get its campaign up and running against Saudi Arabia in Atlanta. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-22/world-cup-live-spain-saudi-arabia-belgium-iran-uru-cpv-nzl-egy/106825118"
+    },
+    {
       "published_datetime": "2026-06-21T08:38:41.000000Z",
       "title": "Auction clearance rates fall to lowest level in six years",
       "featured_image": {
@@ -62,15 +71,6 @@
       },
       "description": "The fuel excise cut was due to stop at the end of the month but will continue to a lesser extent until August. Here's why.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-21/why-fuel-excise-cut-will-continue-to-lesser-extent-until-august/106824392"
-    },
-    {
-      "published_datetime": "2026-06-20T23:28:09.000000Z",
-      "title": "Trump says Reflecting Pool may be drained for repairs after 'vandalism'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/534e1adb0d291fc98125e91fb8cb036c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump says the newly revamped Reflecting Pool needs \"repairs\" and that multiple people have been arrested for vandalising the Washington DC water feature.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-21/trump-blames-washington-reflecting-pool-woes-on-vandalism/106824332"
     },
     {
       "published_datetime": "2026-06-20T18:46:21.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-21T15:06:51.586469"
+  "merged_at": "2026-06-21T17:19:27.354580"
 }
