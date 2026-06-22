@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-22T20:58:46.000000Z",
+      "title": "Live: Rush to pass CGT, negative gearing overhaul 'farcical': Pocock",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/443230a8dc50f5d4733cecb5b87ffd98?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "An independent senator has labelled the government's rush to legislate its tax overhaul \"farcical\". Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-23/federal-politics-live-blog-cgt-budget-house-prices-june-23/106829008"
+    },
+    {
       "published_datetime": "2026-06-22T20:40:50.000000Z",
-      "title": "What's been achieved by the US\u2013Iran talks so far",
+      "title": "'A little bit of whining' and other early takeaways from US\u2013Iran talks",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/43f120aa0430521e8daf0ff81aff905a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=63&amp;width=862&amp;height=485"
       },
@@ -17,15 +26,6 @@
       },
       "description": "A popular mayor but a virtual unknown on the global stage, Andy Burnham is poised to become Sir Keir Starmer's successor. Here's what that could look like.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-23/andy-burnham-keir-starmer-challenger/106826290"
-    },
-    {
-      "published_datetime": "2026-06-22T20:04:53.000000Z",
-      "title": "Hantavirus cruise passengers released after 42 days in Perth quarantine",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4aeca57d99e62c49a0fd571624635139?impolicy=wcms_crop_resize&amp;cropH=1520&amp;cropW=2703&amp;xPos=137&amp;yPos=232&amp;width=862&amp;height=485"
-      },
-      "description": "Six passengers from Australia and NZ linked to the deadly MV Hondius hantavirus outbreak have completed 42 days of quarantine in Perth and been cleared to return home.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-23/hantavirus-outbreak-six-passengers-complete-perth-quarantine/106829038"
     },
     {
       "published_datetime": "2026-06-22T19:04:36.000000Z",
@@ -65,16 +65,16 @@
     },
     {
       "published_datetime": "2026-06-22T16:32:29.000000Z",
-      "title": "Live: Messi breaks World Cup goal scoring record with another brilliant double",
+      "title": "Live: Wild weather, Mbappe screamers and a Messi milestone at the World Cup",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/afd797db10ef550efccb4c6a336e58da?impolicy=wcms_crop_resize&amp;cropH=2212&amp;cropW=3933&amp;xPos=0&amp;yPos=205&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4b18093ce51558accaf57d211fee78a5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=8&amp;width=862&amp;height=485"
       },
-      "description": "Lionel Messi becomes the top scorer in World Cup history with a stunning strike against Austria, scoring twice after missing an early penalty in a 2-0 Argentina win. Follow live.",
+      "description": "Kylian Mbappe opens the scoring for France against Iraq after Lionel Messi becomes the top scorer in World Cup history. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-23/world-cup-live-argentina-messi-aut-france-irq-nor-sen-jdn-alg/106826184"
     },
     {
       "published_datetime": "2026-06-22T12:36:54.000000Z",
-      "title": "Australian trust in China grows as belief in US hits record low",
+      "title": "Australians have record-low trust in the United States, new poll finds",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a69fa3626f6bc5b2f4a186f16d444332?impolicy=wcms_crop_resize&amp;cropH=1959&amp;cropW=3483&amp;xPos=0&amp;yPos=181&amp;width=862&amp;height=485"
       },
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-22T21:27:56.765197"
+  "merged_at": "2026-06-22T23:12:26.679512"
 }
