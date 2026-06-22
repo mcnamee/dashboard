@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-22T16:32:29.000000Z",
+      "title": "Live: Messi breaks World Cup goal scoring record after dramatic penalty miss",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/227cf5c6b88f2c1559610eea7db1889b?impolicy=wcms_crop_resize&amp;cropH=2046&amp;cropW=3637&amp;xPos=0&amp;yPos=234&amp;width=862&amp;height=485"
+      },
+      "description": "Lionel Messi has become the top scorer in Men's World Cup history with a stunning strike against Austria, but only after the 38-year-old fluffs his lines from the penalty spot. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-23/world-cup-live-argentina-messi-aut-france-irq-nor-sen-jdn-alg/106826184"
+    },
+    {
+      "published_datetime": "2026-06-22T14:06:18.000000Z",
+      "title": "Iran to allow nuclear inspections, JD Vance says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0de7e7b5b2936949bf075023b972b38d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The US vice president says that progress has been made in talks with Iran, with Tehran agreeing to allow nuclear inspectors and a mechanism to keep the Strait of Hormuz open.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-23/jd-vance-iran-nuclear-inspections-talks/106829534"
+    },
+    {
       "published_datetime": "2026-06-22T12:36:54.000000Z",
       "title": "Australian trust in China grows as belief in US hits record low",
       "featured_image": {
@@ -19,31 +37,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-22/keir-starmer-landslide-victory-built-on-shaky-ground/106505790"
     },
     {
-      "published_datetime": "2026-06-22T08:50:39.000000Z",
-      "title": "Watch Sir Keir Starmer's resignation speech in full",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7f04614d0cd18c4f31317ef7a16de825?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Sir Keir Starmer has announced his resignation as Britain's Prime Minister.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-22/keir-starmer-announces-resignation-as-uk-prime-minister/106829316"
-    },
-    {
       "published_datetime": "2026-06-22T08:42:35.000000Z",
-      "title": "Starmer succumbs to intense pressure and resigns as UK Labour leader",
+      "title": "Starmer resigns as PM with Andy Burnham poised to get top job",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/813c573b2563cf9bb53e5d3806a10b4d?impolicy=wcms_crop_resize&amp;cropH=1296&amp;cropW=2304&amp;xPos=0&amp;yPos=39&amp;width=862&amp;height=485"
       },
-      "description": "Sir Keir Starmer says he will resign as prime minister of the United Kingdom and spend more time as a husband and father. \u00a0",
+      "description": "Sir Keir Starmer will resign as prime minister of the UK, succumbing to intense pressure within his own Labour party less than two years after winning one of its biggest ever election victories.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-22/sir-keir-starmer-to-resign-as-uk-prime-minister/106667868"
-    },
-    {
-      "published_datetime": "2026-06-22T08:20:50.000000Z",
-      "title": "Live: Emotional Starmer quits as PM to focus on 'most important job'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d9285a89a7a885ab915361ce504a3ecd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=259&amp;width=862&amp;height=485"
-      },
-      "description": "Sir Keir Starmer says he will step down as UK prime minister. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-22/live-blog-keir-starmer-british-pm-latest/106316400"
     },
     {
       "published_datetime": "2026-06-22T07:19:16.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-22T14:27:31.336499"
+  "merged_at": "2026-06-22T18:40:42.257410"
 }
