@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-23T16:13:39.000000Z",
+      "title": "Live: Ronaldo returns as Portugal meets Uzbekistan, England faces Ghana",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b543196a5786dc2099ab8a1240f3a738?impolicy=wcms_crop_resize&amp;cropH=2095&amp;cropW=3725&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Cristiano Ronaldo returns to the field in Houston as Portugal takes on Uzbekistan after a disappointing FIFA World Cup opener. Later, England meets Ghana in Boston. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-24/fifa-world-cup-live-portugal-cristiano-ronaldo-england-ghana/106833962"
+    },
+    {
+      "published_datetime": "2026-06-23T14:40:26.000000Z",
+      "title": "ASIC warns of 'extremely high' car loan fees amid rising complaints",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6395ad5c03f6dc91e71b2f0fe576a842?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=91&amp;width=862&amp;height=485"
+      },
+      "description": "A new report warns customers about traps they face when taking out a car loan, including high interest rates and fees. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-24/asic-warning-over-high-interest-car-loans/106773418"
+    },
+    {
       "published_datetime": "2026-06-23T09:27:49.000000Z",
       "title": "Daryl Braithwaite announces end to live performances",
       "featured_image": {
@@ -37,15 +55,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-23/ai-australian-copyright-david-pocock-claims/106832022"
     },
     {
-      "published_datetime": "2026-06-23T04:58:29.000000Z",
-      "title": "Chihuahua Jet takes to the air as more pets allowed in cabin",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f3af6bfee88a329add22dbe8c83e0994?impolicy=wcms_crop_resize&amp;cropH=270&amp;cropW=480&amp;xPos=0&amp;yPos=135&amp;width=862&amp;height=485"
-      },
-      "description": "An Australian airline is allowing small cats and dogs on a range of flights, with other passengers appearing unconcerned about sharing the plane with furry creatures.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-23/virgin-australia-pets-in-cabin-network-expansion/106830828"
-    },
-    {
       "published_datetime": "2026-06-23T04:46:24.000000Z",
       "title": "Dead birds to be tested for H5N1 bird flu after washing up on SA coast",
       "featured_image": {
@@ -80,15 +89,6 @@
       },
       "description": "The Greens pledge their support in exchange for an end to an exemption that allows self-managed super funds to borrow money to invest in residential property, and a delay on the overhaul of the NDIS.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-06-23/greens-cgt-negative-gearing-tax-changes-ndis/106831036"
-    },
-    {
-      "published_datetime": "2026-06-23T01:13:14.000000Z",
-      "title": "Australia approves restricted use of herbicide banned in 70 other countries",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/138720cc334177fef66f1b0f8113e332?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Australian Pesticides and Veterinary Medicines Authority concludes its nearly 30-year review of the controversial but popular herbicide.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/rural/2026-06-23/apvma-chemical-regulator-decision-paraquat-herbicide-parkinsons/106775018"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-23T13:36:33.270325"
+  "merged_at": "2026-06-23T16:21:06.538866"
 }
