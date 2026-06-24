@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-23T23:12:03.000000Z",
+      "title": "Limits for 'silent killer' chemical exposure on hold despite advice",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6c36ef970d6699779516b7de02fd47e7?impolicy=wcms_crop_resize&amp;cropH=2809&amp;cropW=4994&amp;xPos=0&amp;yPos=367&amp;width=862&amp;height=485"
+      },
+      "description": "A majority of state and territory governments have put stricter workplace exposure limits on hold for nine hazardous chemicals.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-24/hazardous-chemical-exposure-limits-on-hold/106833750"
+    },
+    {
       "published_datetime": "2026-06-23T22:28:03.000000Z",
       "title": "'I love you': Sydney shark attack survivor's first words to family",
       "featured_image": {
@@ -10,17 +19,8 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-24/sydney-shark-attack-coogee-victim-leah-stewart-awake/106806874"
     },
     {
-      "published_datetime": "2026-06-23T22:16:57.000000Z",
-      "title": "Outgoing British PM holds secret meeting with likely successor",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c3d2df12cff87b4cc9772fba3fc1bc9e?impolicy=wcms_crop_resize&amp;cropH=954&amp;cropW=1696&amp;xPos=0&amp;yPos=25&amp;width=862&amp;height=485"
-      },
-      "description": "Sir Keir Starmer and the man who has essentially forced him to resign as prime minister, Andy Burnham, have held their first face-to-face meeting.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-24/secret-meeting-held-between-andy-burnham-and-keir-starmer/106834562"
-    },
-    {
       "published_datetime": "2026-06-23T22:08:02.000000Z",
-      "title": "Major construction company hit by alleged multi-million-dollar insider fraud",
+      "title": "Construction company hit by alleged multi-million-dollar insider fraud",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7745807912743d5e99de0c31558c2e77?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=101&amp;width=862&amp;height=485"
       },
@@ -28,8 +28,17 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-24/men-charged-alleged-insider-fraud-against-shadforth-civil/106832636"
     },
     {
+      "published_datetime": "2026-06-23T21:54:21.000000Z",
+      "title": "Live: ASX to rise ahead of inflation figures, despite Wall Street's tech sell-off",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a4e79a64c368a98d65c56f6ccc8821d9?impolicy=wcms_crop_resize&amp;cropH=1414&amp;cropW=2513&amp;xPos=0&amp;yPos=99&amp;width=862&amp;height=485"
+      },
+      "description": "The Australian share market is expected to rise despite a major sell-off across US tech, AI and semiconductor stocks, which resulted in steep losses on Wall Street. The ABS will release its May inflation data, which will be impacted by sharp falls in petrol and diesel prices. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-24/asx-markets-business-live-news/106834708"
+    },
+    {
       "published_datetime": "2026-06-23T21:12:36.000000Z",
-      "title": "Live: Minister says Australian housing market experiencing a correction",
+      "title": "Live: Minister says Australian housing market experiencing a 'correction'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d4850795afc9a85174d3fb13723cd0e1?impolicy=wcms_crop_resize&amp;cropH=3314&amp;cropW=5892&amp;xPos=0&amp;yPos=553&amp;width=862&amp;height=485"
       },
@@ -71,15 +80,6 @@
       },
       "description": "A ban on self-managed super funds borrowing money to buy housing has blindsided the sector, which says Labor should instead target \"unscrupulous\" operators spruiking property as an investment.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-24/self-managed-super-sector-blindsided-by-labor-greens-tax-deal/106833362"
-    },
-    {
-      "published_datetime": "2026-06-23T18:39:41.000000Z",
-      "title": "Port Moresby's water supply network showing 'signs of imminent failure'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3cc94748b9e901056b206e912aa7dc32?impolicy=wcms_crop_resize&amp;cropH=203&amp;cropW=360&amp;xPos=0&amp;yPos=12&amp;width=862&amp;height=485"
-      },
-      "description": "A decades-old pipeline supplying water to nearly 1 million people in Papua New Guinea's capital is at risk of collapsing without urgent repairs, threatening to cut off more than half of the city's water supply.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-24/png-water-warns-of-infrastructure-crisis-in-capital-port-moresby/106828854"
     },
     {
       "published_datetime": "2026-06-23T16:13:39.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-23T22:59:59.494571"
+  "merged_at": "2026-06-24T00:01:14.814659"
 }
