@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-24T18:11:30.000000Z",
+      "title": "Live: Jam-packed day as last round of World Cup group clashes kicks off",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a70c6865593ea8ae29c374b46ac9dd51?impolicy=wcms_crop_resize&amp;cropH=2669&amp;cropW=4745&amp;xPos=0&amp;yPos=115&amp;width=862&amp;height=485"
+      },
+      "description": "The final round of the group stage at the 2026 FIFA World Cup starts with simultaneous Group B games between Switzerland and Canada, and Qatar vs Bosnia and Herzegovina. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-25/world-cup-2026-live-final-round-of-group-games/106838458"
+    },
+    {
       "published_datetime": "2026-06-24T14:05:07.000000Z",
       "title": "Sydney, Melbourne tipped to lead housing price drops as market cools",
       "featured_image": {
@@ -11,11 +20,11 @@
     },
     {
       "published_datetime": "2026-06-24T10:16:41.000000Z",
-      "title": "Stefanovic to reportedly leave Channel Nine after Tommy Robinson podcast",
+      "title": "Karl Stefanovic to reportedly leave Channel Nine after Tommy Robinson podcast",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b440ca1fd1e3a7dd1764fd02a6618da?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Nine Newspapers report the network was negotiating terms for Stefanovic to leave after \"crisis meetings\" at Nine's Sydney headquarters on Wednesday.",
+      "description": "Today show host Karl Stefanovic is set to leave Channel Nine after a podcast interview with British far-right figure Tommy Robinson, Nine Newspapers is reporting.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-24/karl-stefanovic-podcast-drama-and-the-outrage-industry/106838662"
     },
     {
@@ -71,15 +80,6 @@
       },
       "description": "A third confirmed case of the deadly H5 bird flu has been found in a migratory bird on Australia's southern coast.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-24/third-australian-bird-flu-case-confirmed/106837514"
-    },
-    {
-      "published_datetime": "2026-06-24T04:44:26.000000Z",
-      "title": "Socceroos should make 'harsh' call for final group game, Schwarzer says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/749cfe52c1606db333abd585bf0957e4?impolicy=wcms_crop_resize&amp;cropH=1473&amp;cropW=2618&amp;xPos=156&amp;yPos=293&amp;width=862&amp;height=485"
-      },
-      "description": "As the Socceroos prepare to face Paraguay in their final FIFA World Cup group game, Aussie great Mark Schwarzer says now is the time to bring captain Mat Ryan back into the team.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-24/fifa-world-cup-socceroos-goalkeeper-for-paraguay-schwarzer/106836626"
     },
     {
       "published_datetime": "2026-06-24T03:18:15.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-24T16:59:19.504947"
+  "merged_at": "2026-06-24T18:51:57.962635"
 }
