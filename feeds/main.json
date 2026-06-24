@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-24T13:32:13.000000Z",
+      "title": "France reports first Ebola case in doctor returning from DRC",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/62e8cc223d17b32ec778f9c1db3f270f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=194&amp;width=862&amp;height=485"
+      },
+      "description": "France has confirmed its first case of Ebola, a doctor who had flown back from the Democratic Republic of Congo.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-24/france-detects-first-ebola-case-outside-africa-in-current-outbre/106838794"
+    },
+    {
       "published_datetime": "2026-06-24T10:16:41.000000Z",
       "title": "Stefanovic to reportedly leave Channel Nine after Tommy Robinson podcast",
       "featured_image": {
@@ -17,15 +26,6 @@
       },
       "description": "Australia's domestic spy chief, Mike Burgess, has defended the agency's resourcing decisions in the years leading up to the Bondi terror attack, arguing his agency is grappling with an \"unprecedented\" volume of threats.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-24/spy-chief-defends-resourcing-decisions-warns-of-threats/106838338"
-    },
-    {
-      "published_datetime": "2026-06-24T09:35:26.000000Z",
-      "title": "Victorian Liberal MP claims assault by party colleague",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e74052e56857b0f0fb8db3e35cc570a2?impolicy=wcms_crop_resize&amp;cropH=190&amp;cropW=339&amp;xPos=0&amp;yPos=26&amp;width=862&amp;height=485"
-      },
-      "description": "The Victorian Liberal Party is in chaos after an MP claimed they were assaulted by a member of their own party room.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-24/victorian-liberal-party-assault-claim/106838618"
     },
     {
       "published_datetime": "2026-06-24T08:32:03.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-24T11:38:38.060629"
+  "merged_at": "2026-06-24T14:07:39.666311"
 }
