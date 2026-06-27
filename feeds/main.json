@@ -1,17 +1,26 @@
 {
   "items": [
     {
-      "published_datetime": "2026-06-27T19:32:30.000000Z",
-      "title": "Venezuela earthquake death toll passes 1,400 as survival window narrows",
+      "published_datetime": "2026-06-27T20:58:54.000000Z",
+      "title": "The fastest human-powered Everest ascent from sea level",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/37aa4362af84ffd9668c851af54a3656?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=255&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e55c85256eabd6004c7fd11bbd0cec8c?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The death toll from two earthquakes in Venezuela has climbed beyond 1,400, as searches for survivors intensify during the remaining hours of the window for survival.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-28/venezuela-death-toll-climbs-as-survival-window-narrows/106851398"
+      "description": "Avalanches, altitude sickness, orcs and Justin Bieber \u2014 a Brisbane mountaineer is believed to have set a new world record on Mount Everest for charity, despite every obstacle thrown his way.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-28/everest-sea-level-ascent-world-record/106779480"
+    },
+    {
+      "published_datetime": "2026-06-27T20:15:00.000000Z",
+      "title": "Live: Croatia in pole position as England labours in Group L",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/108eb1eea7543cf165034e3dc03b7694?impolicy=wcms_crop_resize&amp;cropH=1938&amp;cropW=3446&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The Three Lions have already booked a place in the World Cup's knockout stages, but they will be looking to tie up top spot in Group L against Panama, as Ghana and Croatia lock horns in Philadelphia. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-28/world-cup-live-eng-pan-cro-gha-col-por-ronaldo-messi-arg-jor/106851162"
     },
     {
       "published_datetime": "2026-06-27T19:04:34.000000Z",
-      "title": "Wind 'drought' tests renewable energy poster child",
+      "title": "Price spikes and drained batteries as wind drought tests green flag-bearer",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c25ddd29745a14c3cce191cbacde721?impolicy=wcms_crop_resize&amp;cropH=1123&amp;cropW=1997&amp;xPos=0&amp;yPos=155&amp;width=862&amp;height=485"
       },
@@ -20,7 +29,7 @@
     },
     {
       "published_datetime": "2026-06-27T19:00:00.000000Z",
-      "title": "Hanson has perfected a three-step playbook and Liberals played into it",
+      "title": "Hanson spawned the silliest semantic beard-stroking in 20 years",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9399bbc902945761a5835eb3ca02f82?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -28,17 +37,8 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-28/pauline-hanson-monoculture-multiculturalism-socceroos-words/106847648"
     },
     {
-      "published_datetime": "2026-06-27T19:00:00.000000Z",
-      "title": "How many products in your daily life are made from fossil fuels?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/14a42e5e46c1490cf31a19bff25f12b6?impolicy=wcms_crop_resize&amp;cropH=2040&amp;cropW=3626&amp;xPos=0&amp;yPos=220&amp;width=862&amp;height=485"
-      },
-      "description": "Coal, oil and gas are major ingredients for far more than just energy. Why are we so reliant on oil, and how difficult would it be to find other resources?",
-      "page_content_url": "https://www.abc.net.au/news/science/2026-06-28/how-much-of-our-lives-rely-on-by-products-from-fossil-fuels/106789690"
-    },
-    {
       "published_datetime": "2026-06-27T18:45:00.000000Z",
-      "title": "The truth about narcissists \u2014 and why most people get it wrong",
+      "title": "The covert narcissist: Charming on the surface, destructive beneath",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/92b468b405379ed29392dd7aa333774b?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=149&amp;width=862&amp;height=485"
       },
@@ -47,7 +47,7 @@
     },
     {
       "published_datetime": "2026-06-27T18:44:41.000000Z",
-      "title": "The sport their boy loved was damaging his brain. 'Now it's too late'",
+      "title": "They didn't know what footy was doing to their boy. 'Now it's too late'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1d7b95b1baa7f8e4374ed37c3bd34a70?impolicy=wcms_crop_resize&amp;cropH=2700&amp;cropW=4801&amp;xPos=179&amp;yPos=195&amp;width=862&amp;height=485"
       },
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-27T20:03:02.530112"
+  "merged_at": "2026-06-27T21:54:59.718570"
 }
