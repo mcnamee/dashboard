@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-27T01:00:54.000000Z",
+      "title": "How boxer Hussein Dehaini became Melbourne's latest underworld casualty",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/161ce994076f33c666399f1762932923?impolicy=wcms_crop_resize&amp;cropH=180&amp;cropW=319&amp;xPos=401&amp;yPos=237&amp;width=862&amp;height=485"
+      },
+      "description": "Those who knew Hussein Dehaini say he could have been anything he wanted to be. But his life ended at 33, when he was gunned down in the middle of a Melbourne street.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-27/slain-boxer-hussein-dehaini-melbourne-underworld-conflict/106847580"
+    },
+    {
       "published_datetime": "2026-06-26T22:00:00.000000Z",
       "title": "Farewell: 27 things Virginia Trioli learned at the ABC",
       "featured_image": {
@@ -65,7 +74,7 @@
     },
     {
       "published_datetime": "2026-06-26T18:41:31.000000Z",
-      "title": "Venezuela's quake began with a 'soft shake' and then the lights went out",
+      "title": "Rare 'doublet' earthquake leaves destruction and at least 900 dead",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9c2fbd53bf29e2975bde08aed1818e29?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
       },
@@ -73,17 +82,8 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-27/venezuela-caracas-assess-damage-after-doublet-earthquake/106843050"
     },
     {
-      "published_datetime": "2026-06-26T18:29:58.000000Z",
-      "title": "Live: Injured Socceroos leave camp, France star bags rapid hat-trick",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b39a3bac3d735ed67659c0f8c9986748?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=116&amp;width=862&amp;height=485"
-      },
-      "description": "France beats Norway 4-1 thanks to an Ousmane Dembele hat-trick to top Group I, while Senegal's 5-0 win over Iraq gives it a strong chance of qualifying from third. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-27/world-cup-live-mbappe-france-norway-sen-irq-cpv-ksa-uru-esp/106848646"
-    },
-    {
       "published_datetime": "2026-06-26T17:30:55.000000Z",
-      "title": "US strikes Iran after Trump slams 'foolish' ceasefire breach",
+      "title": "Iran vows 'swift and decisive' response after US strikes",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/27c8989d3dba8f7a490a32e14819e096?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=228&amp;width=862&amp;height=485"
       },
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-27T00:14:52.592488"
+  "merged_at": "2026-06-27T02:27:42.478933"
 }
