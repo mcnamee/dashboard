@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-27T22:00:24.000000Z",
+      "title": "US launches fresh strikes on Iran near Strait of Hormuz",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/91c454e32da8fd5cbd18be0bf74582f5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The United States says it has launched fresh strikes on Iranian military infrastructure near the Strait of Hormuz, as tensions with Iran escalate again despite a ceasefire agreement.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-28/us-launches-fresh-strikes-on-iran-as-ceasefire-frays/106852070"
+    },
+    {
       "published_datetime": "2026-06-27T20:58:54.000000Z",
-      "title": "The fastest human-powered Everest ascent from sea level",
+      "title": "Brisbane man makes fastest human-powered Everest ascent from sea level",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e55c85256eabd6004c7fd11bbd0cec8c?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -11,9 +20,9 @@
     },
     {
       "published_datetime": "2026-06-27T20:15:00.000000Z",
-      "title": "Live: Croatia in pole position as England labours in Group L",
+      "title": "Live: England stars finally shine as Three Lions throw off the shackles",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/108eb1eea7543cf165034e3dc03b7694?impolicy=wcms_crop_resize&amp;cropH=1938&amp;cropW=3446&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/13e20df0f291bdffe0bbb44654b4b774?impolicy=wcms_crop_resize&amp;cropH=2611&amp;cropW=4642&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "The Three Lions have already booked a place in the World Cup's knockout stages, but they will be looking to tie up top spot in Group L against Panama, as Ghana and Croatia lock horns in Philadelphia. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-28/world-cup-live-eng-pan-cro-gha-col-por-ronaldo-messi-arg-jor/106851162"
@@ -56,21 +65,12 @@
     },
     {
       "published_datetime": "2026-06-27T18:44:41.000000Z",
-      "title": "Vance vs Rubio: Which White House apprentice will Trump back for 2028?",
+      "title": "Trump's Vance jokes fuel succession speculation",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/767be322c0824d8c34800180bc6555e6?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "At times, Donald Trump appears to be harking back to his days hosting reality TV show The Apprentice as he leans into speculation about who he will anoint as his successor.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-28/donald-trump-stokes-presidential-contest-jd-vance-vs-marco-rubio/106843832"
-    },
-    {
-      "published_datetime": "2026-06-27T18:44:41.000000Z",
-      "title": "Karl Stefanovic's 'weird personality' might score him a Logie",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/91e21a84024a56c3dd3c79599b568617?impolicy=wcms_crop_resize&amp;cropH=2281&amp;cropW=4055&amp;xPos=0&amp;yPos=182&amp;width=862&amp;height=485"
-      },
-      "description": "Karl Stefanovic is no longer part of the Nine family but his audience may not be ready to abandon their prodigal son.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-28/karl-stefanovic-weird-personality-might-score-him-a-logie/106849584"
     },
     {
       "published_datetime": "2026-06-27T12:30:55.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-27T21:54:59.718570"
+  "merged_at": "2026-06-27T22:55:26.786092"
 }
