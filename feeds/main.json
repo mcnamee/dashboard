@@ -1,58 +1,85 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-29T19:03:41.000000Z",
+      "title": "ABC presenter Trevor Chappell to hang up mic after 26 years",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/082159f5f57a09306bf9e727cd5921bc?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=473&amp;width=862&amp;height=485"
+      },
+      "description": "After decades of keeping night owls and shift workers company on ABC radio across Australia, Overnights presenter Trevor Chappell decides to call it a day at the age of 65.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/abc-overnights-presenter-trevor-chappell-retirement/106856814"
+    },
+    {
+      "published_datetime": "2026-06-29T18:59:18.000000Z",
+      "title": "AI giants on the nose: Why those stellar super earnings are under threat",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bfc9cad79bf1a0b3fb51f7a97027171?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Overshadowing the tumult that is global politics has been a financial boom beyond almost anything witnessed before, focused entirely on the perceived benefits wrought by a brave new world of AI that threatens to up-end our lives.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/ai-boom-big-tech-investment-drain-market-volatility/106857426"
+    },
+    {
+      "published_datetime": "2026-06-29T18:52:53.000000Z",
+      "title": "Giveaway club RS Rewards accused of 'ongoing and misleading conduct'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a4dffbc99f80d45b7b9107516961ac93?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=257&amp;width=862&amp;height=485"
+      },
+      "description": "One of Australia's biggest \"rewards clubs\" has been banned from running any gaming activity in New South Wales for 18 months after allegedly breaking the law.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/giveaway-club-rs-rewards-nsw-fair-trading-prize-draw-ban/106857512"
+    },
+    {
+      "published_datetime": "2026-06-29T18:49:39.000000Z",
+      "title": "Concerns hospital giant could 'cherrypick' private patients from public hospital",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/428f525b1733acedf78053a8f5920095?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "A trial to ease pressure on a public emergency department has raised concerns a multi-million-dollar company is getting a special deal.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/private-ramsay-health-care-access-to-public-emergency-patients/106842192"
+    },
+    {
+      "published_datetime": "2026-06-29T18:47:34.000000Z",
+      "title": "Government vows crackdown on sale of NDIS shell companies",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aecf2dc12bd3c350f31b5f31b948c778?impolicy=wcms_crop_resize&amp;cropH=2652&amp;cropW=4715&amp;xPos=156&amp;yPos=227&amp;width=862&amp;height=485"
+      },
+      "description": "The federal government says it is moving to crack down on the growing trade in \"off-the-shelf\" NDIS providers.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/crackdown-on-ndis-shell-companies-amid-registration-requirements/106847702"
+    },
+    {
+      "published_datetime": "2026-06-29T18:47:20.000000Z",
+      "title": "Social media giants face fines for failing to hand over documents",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d8bd72d884eecb416eab9cab183dbaf6?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Labor wants to double the fines for tech giants who refuse to hand over documents that could prove they are failing to enforce Australia\u2019s social media age ban.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/social-media-age-ban-fines-raised-for-tech-giants/106858306"
+    },
+    {
+      "published_datetime": "2026-06-29T18:46:04.000000Z",
+      "title": "The AFL's dilemma: How to protect players without changing the game",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5aebb9a867655a6f6c5e7a6c1c774727?impolicy=wcms_crop_resize&amp;cropH=2380&amp;cropW=4232&amp;xPos=8&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Contact is an essential part of footy, but there is growing evidence it can also be a grave threat to the health and welfare of its players. Experts say the AFL should be acting now to protect current and future players.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/cte-poses-dilemma-for-afl-experts-say-urgent-action-needed/106855532"
+    },
+    {
+      "published_datetime": "2026-06-29T18:42:40.000000Z",
+      "title": "'Systemic racism' claims tip of the iceberg in buried reef authority review",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/af91100f80ff963e531fe8bbb6ff4832?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The damning results of a review into the agency tasked with managing the Great Barrier Reef, an area bigger than New Zealand and home to 70 traditional owner groups, has never before seen the light of day.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/great-barrier-reef-marine-park-authority-review-racism-claims/106773636"
+    },
+    {
       "published_datetime": "2026-06-29T16:32:53.000000Z",
-      "title": "Live: Brazil takes on Japan in tasty last-32 clash in Houston",
+      "title": "Live: Brazil breaks Japan hearts with last-minute winner",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f57fbd0c79253ec02e978b190fa10bf4?impolicy=wcms_crop_resize&amp;cropH=2409&amp;cropW=4282&amp;xPos=0&amp;yPos=126&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/41e14c968eb662aeaa4b68a96bc55813?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=400&amp;width=862&amp;height=485"
       },
-      "description": "Brazil and Japan meet in a mouth-watering round of 32 clash at Houston Stadium. Later, Germany meets Paraguay and Netherlands take on Morocco. Follow live.",
+      "description": "Brazil's Gabriel Martinelli scores in the 96th minute to break Japan's hearts and secure a 2-1 round of 32 win for the Sele\u00e7\u00e3o.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-30/world-cup-live-brazil-japan-germany-paraguay-netherland-morocco/106854744"
-    },
-    {
-      "published_datetime": "2026-06-29T16:05:54.000000Z",
-      "title": "Sam Kerr returns to the United States after Chelsea exit",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1acda0735db75820bf0e2e4bad803076?impolicy=wcms_crop_resize&amp;cropH=2507&amp;cropW=4456&amp;xPos=0&amp;yPos=232&amp;width=862&amp;height=485"
-      },
-      "description": "Matilda's striker Sam Kerr has returned to the United States following her successful stint at London giants, Chelsea.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/sam-kerr-s-future-confirmed-/106858822"
-    },
-    {
-      "published_datetime": "2026-06-29T15:33:08.000000Z",
-      "title": "PM-in-waiting Andy Burnham lays out plan to fix 'broken' British politics",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8cbdd9b6d0d26abab8944dd4538e9bdf?impolicy=wcms_crop_resize&amp;cropH=679&amp;cropW=1207&amp;xPos=69&amp;yPos=59&amp;width=862&amp;height=485"
-      },
-      "description": "Andy Burnham, the British MP tipped to replace the outgoing prime minister Sir Keir Starmer, promised \"radical change\" to the nation's \"broken\" political system as he laid out his vision to lead the country on Monday.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/andy-burnham-lays-out-plan-for-fix-british-politics/106858584"
-    },
-    {
-      "published_datetime": "2026-06-29T12:57:46.000000Z",
-      "title": "Penelope Keith, star of 'The Good Life' and 'To the Manor Born', dead at 86",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c768b4afcd35781de318c45e2573fe04?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=188&amp;width=862&amp;height=485"
-      },
-      "description": "Beloved British actress Dame Penelope Keith, who rose to fame in the hit 1970s UK sitcom \"The Good Life\", has died aged 86.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-29/the-good-life-star-penelope-keith-dead-at-86/106858556"
-    },
-    {
-      "published_datetime": "2026-06-29T12:16:04.000000Z",
-      "title": "Six killed in German 'family tragedy' shooting, say police",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/643e445850809c8966618bfa3fd183b6?impolicy=wcms_crop_resize&amp;cropH=1648&amp;cropW=2929&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Two people have been arrested after a shooting in the northern German town of Stade.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-29/germany-shooting-five-dead-stade/106858570"
-    },
-    {
-      "published_datetime": "2026-06-29T09:38:44.000000Z",
-      "title": "Putin says Russia will press on despite fuel shortages",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6327e3713929a151ed6f6570f8bbdf82?impolicy=wcms_crop_resize&amp;cropH=629&amp;cropW=1119&amp;xPos=43&amp;yPos=559&amp;width=862&amp;height=485"
-      },
-      "description": "President Vladimir Putin has said Russia will press ahead with its battlefield aim of fully capturing four Ukrainian regions, rejecting diplomatic overtures from Ukraine.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-29/russia-putin-acknowledges-fuel-shortages-war-to-continue/106858084"
     },
     {
       "published_datetime": "2026-06-29T09:22:34.000000Z",
@@ -62,33 +89,6 @@
       },
       "description": "Prime Minister Anthony Albanese issues an impassioned defence of CGT changes from the budget and Australia's multicultural society.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-29/anthony-albanese-defends-budget-cgt-change-and-multiculturalism/106857928"
-    },
-    {
-      "published_datetime": "2026-06-29T03:03:08.000000Z",
-      "title": "MP says she misunderstood meaning of 'headlock' when making allegation",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dbf407e2b03402489288ac0d8988f04a?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2001&amp;xPos=1598&amp;yPos=221&amp;width=862&amp;height=485"
-      },
-      "description": "State Liberal MP Moira Deeming says she misunderstood the meaning of the term \"headlock\", after alleging her party room colleague Matthew Guy assaulted her.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-29/moira-deeming-matthew-guy-headlock-statement/106855516"
-    },
-    {
-      "published_datetime": "2026-06-29T01:48:34.000000Z",
-      "title": "Bondi terror attack survivor received 'influx of hate' hours after shooting",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2a44b6e1ae704181e3af52b463553a1c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Deepfake and altered images depicting a Bondi Beach terror attack survivor holding an Academy Award while covered in blood spread \"like wildfire\" online just hours after the shooting, a royal commission has heard.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-29/bondi-antisemitism-royal-commission-social-media-hate/106853944"
-    },
-    {
-      "published_datetime": "2026-06-28T19:00:21.000000Z",
-      "title": "'I've got all the symptoms': Matty Robbins was a hero of the AFL. Now he's suffering",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3cd0837abec69235de89422547eae0ac?impolicy=wcms_crop_resize&amp;cropH=963&amp;cropW=1711&amp;xPos=125&amp;yPos=117&amp;width=862&amp;height=485"
-      },
-      "description": "More than 30 professional and amateur Aussie Rules players have been diagnosed with CTE, revealing that the brain trauma crisis is striking all levels of the game.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-29/afl-australian-rules-players-diagnosed-cte-brain-disease/106847638"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-29T17:28:11.186684"
+  "merged_at": "2026-06-29T19:43:37.925663"
 }
