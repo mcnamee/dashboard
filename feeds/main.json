@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-30T16:33:00.000000Z",
+      "title": "Live: C\u00f4te d'Ivoire takes on Norway as round of 32 continues",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a3da4a03c9799725012e730158023e39?impolicy=wcms_crop_resize&amp;cropH=1793&amp;cropW=3188&amp;xPos=0&amp;yPos=212&amp;width=862&amp;height=485"
+      },
+      "description": "C\u00f4te d'Ivoire takes on Norway, led by a returning Erling Haaland, in Dallas. Later, France meet Sweden and Mexico take on Ecuador. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-01/world-cup-live-cote-divoire-norway-france-sweden-mexico-ecuador/106861886"
+    },
+    {
       "published_datetime": "2026-06-30T15:03:20.000000Z",
       "title": "US Supreme Court rejects Trump's bid to end birthright citizenship",
       "featured_image": {
@@ -71,15 +80,6 @@
       },
       "description": "Uber has defended slugging riders who require extra assistance with a \"disability tax\", amid ongoing criticism over how it treats people with disability.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-30/uber-defends-assist-increase-disability/106856598"
-    },
-    {
-      "published_datetime": "2026-06-30T03:30:11.000000Z",
-      "title": "Moira Deeming set to be dumped as Liberal candidate after assault allegation",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/baf702258ee5faa6e2f630d08dd73e14?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Controversial MP Moira Deeming is set to be deselected as a Liberal Party candidate for the November state election for refusing to apologise to partyroom colleague Matthew Guy.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/moira-deeming-victorian-liberal-party-future-in-doubt/106860248"
     },
     {
       "published_datetime": "2026-06-30T02:23:58.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-30T16:17:04.927998"
+  "merged_at": "2026-06-30T18:29:12.253819"
 }
