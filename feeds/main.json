@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-30T10:57:51.000000Z",
+      "title": "Usman Khawaja helps launch national Islamophobia awareness campaign",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/129636e3259b63313278ac10ca3856bb?impolicy=wcms_crop_resize&amp;cropH=1875&amp;cropW=3334&amp;xPos=0&amp;yPos=595&amp;width=862&amp;height=485"
+      },
+      "description": "The retired 39-year-old, who was the first Muslim to play international cricket for Australia, says Islamophobia is on the rise, with women most vulnerable to attacks, because \"hate is more prevalent that it has been before\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/usman-khawaja-helps-national-awareness-campaign-islamophobia/106862024"
+    },
+    {
       "published_datetime": "2026-06-30T10:00:46.000000Z",
       "title": "This Liberal took his teacher to gambling anonymous",
       "featured_image": {
@@ -82,15 +91,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-30/police-reveal-details-on-australian-suspect-in-thai-murder/106859506"
     },
     {
-      "published_datetime": "2026-06-29T21:10:09.000000Z",
-      "title": "Liberal MP suspended from parliament for 24 hours after QT outburst",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ba06bbaf30f7ae717453b86cca893bd?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Liberal MP Garth Hamilton has been suspended from the House of Representatives for 24 hours after an outburst during Question Time.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/federal-politics-live-blog-june-30/106858094"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-30T10:26:17.721464"
+  "merged_at": "2026-06-30T13:04:24.237673"
 }
