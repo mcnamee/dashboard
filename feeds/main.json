@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-30T15:03:20.000000Z",
+      "title": "US Supreme Court rejects Trump's bid to end birthright citizenship",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b848861fb5ffd59b3edf0bd84c785872?impolicy=wcms_crop_resize&amp;cropH=1506&amp;cropW=2677&amp;xPos=0&amp;yPos=141&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump's controversial attempt to restrict birthright citizenship in the US is rejected by the Supreme Court, upending the president's hardline agenda on immigration.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-01/us-supreme-court-rejects-trump-bid-birthright-citizenship/106863538"
+    },
+    {
+      "published_datetime": "2026-06-30T14:55:30.000000Z",
+      "title": "Home prices 'fully in decline' with biggest national fall since 2022",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/02e46eb9a2c5ddb61a350e7e9fac870b?impolicy=wcms_crop_resize&amp;cropH=665&amp;cropW=1182&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Australian home values record their biggest decline in more than three years as the housing market slowdown that began in Sydney and Melbourne spreads across the country.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-01/national-property-prices-market-decline-cotality/106857980"
+    },
+    {
       "published_datetime": "2026-06-30T10:57:51.000000Z",
       "title": "Usman Khawaja helps launch national Islamophobia awareness campaign",
       "featured_image": {
@@ -8,15 +26,6 @@
       },
       "description": "The retired 39-year-old, who was the first Muslim to play international cricket for Australia, says Islamophobia is on the rise, with women most vulnerable to attacks, because \"hate is more prevalent that it has been before\".",
       "page_content_url": "https://www.abc.net.au/news/2026-06-30/usman-khawaja-helps-national-awareness-campaign-islamophobia/106862024"
-    },
-    {
-      "published_datetime": "2026-06-30T10:00:46.000000Z",
-      "title": "This Liberal took his teacher to gambling anonymous",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f0e446b765b328a28741d6d75527653?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "When Liberal backbencher Simon Kennedy was a teenager, one of his high school teachers asked to borrow money for his gambling addiction. He says he ended up accompanying the teacher to Gamblers Anonymous meetings.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/liberal-backbencher-teacher-aa/106859816"
     },
     {
       "published_datetime": "2026-06-30T09:10:12.000000Z",
@@ -29,7 +38,7 @@
     },
     {
       "published_datetime": "2026-06-30T07:05:19.000000Z",
-      "title": "The rise of the money mule has banks and federal police on high alert",
+      "title": "A girlfriend who never existed and fake friends. How Graham became a money mule",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b962f07c8fc8b310635f3d7202d3f76a?impolicy=wcms_crop_resize&amp;cropH=392&amp;cropW=696&amp;xPos=0&amp;yPos=43&amp;width=862&amp;height=485"
       },
@@ -62,15 +71,6 @@
       },
       "description": "Uber has defended slugging riders who require extra assistance with a \"disability tax\", amid ongoing criticism over how it treats people with disability.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-30/uber-defends-assist-increase-disability/106856598"
-    },
-    {
-      "published_datetime": "2026-06-30T05:09:30.000000Z",
-      "title": "As Trump plays dealmaker-in-chief, the reality on the ground is very different",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fce78d48e3e33e7762301eb2826c61a7?impolicy=wcms_crop_resize&amp;cropH=1015&amp;cropW=1805&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
-      },
-      "description": "Two recent Middle East deals, one in Iran and the other in Lebanon, seem at odds with each other, and show how the Trump administration is running different approaches depending on who it is talking to at any given moment.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/trumps-different-approaches-to-middle-east-israel-lebanon-iran/106854906"
     },
     {
       "published_datetime": "2026-06-30T03:30:11.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-30T13:04:24.237673"
+  "merged_at": "2026-06-30T16:17:04.927998"
 }
