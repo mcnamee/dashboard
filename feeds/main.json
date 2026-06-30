@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-06-30T21:02:34.000000Z",
+      "title": "Breaking: Australian star takes down Serena Williams in Wimbledon return",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e80278ff66c97aee2da4226aca06a39b?impolicy=wcms_crop_resize&amp;cropH=2138&amp;cropW=3802&amp;xPos=597&amp;yPos=149&amp;width=862&amp;height=485"
+      },
+      "description": "Australian Maya Joint holds her nerve to beat tennis legend Serena Williams in the 23-time grand slam champion's first professional tennis match in four years.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-01/serena-williams-maya-joint-wimbledon-first-round/106863760"
+    },
+    {
       "published_datetime": "2026-06-30T20:06:06.000000Z",
-      "title": "Report details link between attacks on Jews and online 'spikes of hate'",
+      "title": "Harmful conspiracy sustained anti-Jewish hate online, commission hears",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c4cf080c66c217dac016e4dc5f4948a?impolicy=wcms_crop_resize&amp;cropH=2241&amp;cropW=3984&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
       },
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-06-30T19:51:22.000000Z",
-      "title": "New laws for e-mobility devices in effect from today: what you need to know",
+      "title": "Age restrictions, speed limits, drink driving: Qld's new e-bike laws explained",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1fbba02b1aaeb8c1008edcdd079455ab?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -22,7 +31,7 @@
       "published_datetime": "2026-06-30T19:08:58.000000Z",
       "title": "Coalition avoids direct One Nation messaging in daily talking points",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98dc8af337c6eeb4bdd3bc51feb5106a?impolicy=wcms_crop_resize&amp;cropH=3291&amp;cropW=5852&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98dc8af337c6eeb4bdd3bc51feb5106a?impolicy=wcms_crop_resize&amp;cropH=3292&amp;cropW=5852&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
       "description": "Coalition talking points, obtained by the ABC, make almost no direct mention of One Nation despite the minor party surging in the polls.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-01/coalition-avoids-direct-one-nation-messaging/106863090"
@@ -46,15 +55,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-01/july-1-law-changes-tax-cut-paid-parental-leave/106854256"
     },
     {
-      "published_datetime": "2026-06-30T18:50:41.000000Z",
-      "title": "'Fear and panic' as more NDIS registration rules loom",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9bd8ce57036ba9a4912ace87a0dc6ab3?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=32&amp;width=862&amp;height=485"
-      },
-      "description": "Uncertainty and confusion are sweeping across the NDIS provider sector with mandatory registration for two categories of providers starting today.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-01/small-ndis-providers-families-on-edge-amid-registration-changes/106837522"
-    },
-    {
       "published_datetime": "2026-06-30T18:49:17.000000Z",
       "title": "Accounting firms could be split in wake of KPMG audit scandal",
       "featured_image": {
@@ -65,11 +65,11 @@
     },
     {
       "published_datetime": "2026-06-30T16:33:00.000000Z",
-      "title": "Live: Mbappe and France face star-studded Sweden, Haaland Norway's hero again",
+      "title": "Live: Mbapp\u00e9 dedicates brilliant opener to grieving France coach",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c9a79a64c7476ff69a389cd02b2adf76?impolicy=wcms_crop_resize&amp;cropH=2428&amp;cropW=4316&amp;xPos=0&amp;yPos=309&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5eb5832f3836dd5114abe877b6ba929b?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
       },
-      "description": "Erling Haaland scores an 88th minute winner to send Norway through and eliminate C\u00f4te d'Ivoire. Later, France meets Sweden and Mexico takes on Ecuador. Follow live.",
+      "description": "Kylian Mbapp\u00e9 scores France's opener after a dominant first half against Sweden, while Erling Haaland nets an 88th minute winner to send Norway through and eliminate C\u00f4te d'Ivoire. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-01/world-cup-live-cote-divoire-norway-france-sweden-mexico-ecuador/106861886"
     },
     {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-06-30T20:59:57.362993"
+  "merged_at": "2026-06-30T22:09:17.560330"
 }
