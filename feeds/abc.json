@@ -1,58 +1,103 @@
 {
   "items": [
     {
-      "published_datetime": "2026-06-29T18:49:39.000000Z",
-      "title": "Concern as private health giant wins access to public emergency patients",
+      "published_datetime": "2026-06-30T02:23:58.000000Z",
+      "title": "Australian 'lived normal life' before allegedly dumping Thai teen's body",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/51b774a454910d7f35affd770193ab03?impolicy=wcms_crop_resize&amp;cropH=1045&amp;cropW=1857&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f80a99c2ba422d6081070fa545de9e7c?impolicy=wcms_crop_resize&amp;cropH=446&amp;cropW=792&amp;xPos=0&amp;yPos=15&amp;width=862&amp;height=485"
       },
-      "description": "A trial to ease pressure on a public emergency department has raised concerns a multi-million-dollar company is getting a special deal.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/private-ramsay-health-care-access-to-public-emergency-patients/106842192"
+      "description": "Australian Simon Peter Carman \"lived his normal life\", going out, washing his clothes and talking to neighbours after allegedly murdering a teenage girl and stuffing her body inside a suitcase in Thailand, police say.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/police-reveal-details-on-australian-suspect-in-thai-murder/106859506"
     },
     {
-      "published_datetime": "2026-06-30T00:41:48.000000Z",
-      "title": "Lives would have been saved if armed Jewish group were at Bondi, Lowy says",
+      "published_datetime": "2026-06-29T21:10:09.000000Z",
+      "title": "Live: Liberal MP suspended from parliament for 24 hours after QT outburst",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98499643bdeb28a54427ef44012fc57f?impolicy=wcms_crop_resize&amp;cropH=770&amp;cropW=1369&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ba06bbaf30f7ae717453b86cca893bd?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Prominent Jewish businessman and philanthropist Steven Lowy says the \"tragedy would have been far smaller\" if armed security were at the event targeted in the Bondi Beach shooting.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/bondi-royal-commission-steven-lowy-jewish-security-csg-nsw/106859780"
+      "description": "Liberal MP Garth Hamilton has been suspended from the House of Representatives for 24 hours after an outburst during Question Time. Follow live. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/federal-politics-live-blog-june-30/106858094"
+    },
+    {
+      "published_datetime": "2026-06-30T05:34:44.000000Z",
+      "title": "Uber defends imposing 'disability tax' on riders ",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9f90e1bdb2032b859d23e1449ce0b64b?impolicy=wcms_crop_resize&amp;cropH=357&amp;cropW=634&amp;xPos=214&amp;yPos=69&amp;width=862&amp;height=485"
+      },
+      "description": "Uber has defended slugging riders who require extra assistance with a \"disability tax\", amid ongoing criticism over how it treats people with disability.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/uber-defends-assist-increase-disability/106856598"
+    },
+    {
+      "published_datetime": "2026-06-30T05:09:30.000000Z",
+      "title": "As Trump plays dealmaker-in-chief, the reality on the ground is very different",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fce78d48e3e33e7762301eb2826c61a7?impolicy=wcms_crop_resize&amp;cropH=1015&amp;cropW=1805&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
+      },
+      "description": "Two recent Middle East deals, one in Iran and the other in Lebanon, seem at odds with each other, and show how the Trump administration is running different approaches depending on who it is talking to at any given moment.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/trumps-different-approaches-to-middle-east-israel-lebanon-iran/106854906"
+    },
+    {
+      "published_datetime": "2026-06-30T03:30:11.000000Z",
+      "title": "Moira Deeming set to be dumped as Liberal candidate after assault allegation",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/baf702258ee5faa6e2f630d08dd73e14?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Controversial MP Moira Deeming is set to be deselected as a Liberal Party candidate for the November state election for refusing to apologise to partyroom colleague Matthew Guy.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/moira-deeming-victorian-liberal-party-future-in-doubt/106860248"
+    },
+    {
+      "published_datetime": "2026-06-30T06:13:14.000000Z",
+      "title": "'No place for the poison of antisemitism': New warning for universities",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/795055972ff31424f3e4aa0550132f6a?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
+      },
+      "description": "The government's Antisemitism Education Taskforce, led by David Gonski, has equipped teachers with new resources to tackle antisemitism and promote \"Australian values\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/antisemitism-taskforce-recommendations-schools-university/106860296"
+    },
+    {
+      "published_datetime": "2026-06-30T05:13:41.000000Z",
+      "title": "Rex Airlines breached continuous disclosure obligations",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/55d4586454f577ee6f20b6775ceba34b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=397&amp;width=862&amp;height=485"
+      },
+      "description": "Rex contravened its continuous disclosure obligations and misled the market, the NSW Supreme Court found on Tuesday.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/rex-airlines-breached-continuous-disclosure-obligations/106859872"
+    },
+    {
+      "published_datetime": "2026-06-30T06:21:22.000000Z",
+      "title": "These sexual enhancement supplements contain hidden prescription drugs",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18638c93aca0493482804abf1537b355?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=21&amp;width=862&amp;height=485"
+      },
+      "description": "The TGA issues a warning for consumers using sexual enhancement products after an investigation finds several products contain undeclared prescription drugs that could have serious side effects.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/sexual-enhancement-supplements-found-to-contain-hidden-drugs/106859688"
+    },
+    {
+      "published_datetime": "2026-06-30T01:45:29.000000Z",
+      "title": "Lifeless Germany fall at World Cup as Paraguay show tenacity to die another day",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2e0a22098598b3a2f45592020c34a9d4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=471&amp;width=862&amp;height=485"
+      },
+      "description": "Paraguay's upset penalty-shootout win over Germany at the World Cup, while stunning, was not entirely unexpected, as they showed impressive determination to die another day.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/world-cup-germany-paraguay-analysis-boston-stadium/106858982"
+    },
+    {
+      "published_datetime": "2026-06-30T05:18:52.000000Z",
+      "title": "Paediatrician accused of child sex offences now facing 53 charges",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fe9c79679fba5d41da359af1ce43c3e6?impolicy=wcms_crop_resize&amp;cropH=285&amp;cropW=507&amp;xPos=0&amp;yPos=81&amp;width=862&amp;height=485"
+      },
+      "description": "A Perth paediatrician accused of using hidden cameras to record himself abusing children is now facing more than 50 charges involving 10 alleged victims, with a court told further charges are likely to be laid.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/perth-paediatrician-chia-liang-saw-faces-child-sex-charges/106861502"
     },
     {
       "published_datetime": "2026-06-30T00:11:07.000000Z",
-      "title": "Ernst and Young staff allegedly access Albanese's banking information",
+      "title": "Ernst and Young staff sacked as Albanese's banking information allegedly breached",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a8d8cc6f9e170e23911c37058e4aee96?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Two Ernst and Young employees allegedly accessed Prime Minister Anthony Albanese's personal banking information while working for the accounting firm at the Commonwealth Bank.",
+      "description": "Two Ernst and Young employees have been sacked after Prime Minister Anthony Albanese's personal banking information was allegedly breached while the pair worked for the accounting firm at the Commonwealth Bank.",
       "page_content_url": "https://www.abc.net.au/news/2026-06-30/ey-staff-allegedly-access-anthony-albanese-banking-information/106859426"
-    },
-    {
-      "published_datetime": "2026-06-29T16:32:53.000000Z",
-      "title": "Live: Netherlands battle Morocco, Paraguay shocks Germany in shootout",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c0cd336779edb2b5a8f15973638d625?impolicy=wcms_crop_resize&amp;cropH=1729&amp;cropW=3073&amp;xPos=0&amp;yPos=161&amp;width=862&amp;height=485"
-      },
-      "description": "The Netherlands and Morocco meet in a tantalising round of 32 clash after Paraguay knocks Germany out of the 2026 World Cup in a penalty shootout. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/world-cup-live-brazil-japan-germany-paraguay-netherland-morocco/106854744"
-    },
-    {
-      "published_datetime": "2026-06-29T21:58:25.000000Z",
-      "title": "How a punt on a trial in Italy created the Socceroos' next star",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9262e7cd2e27639125bb59a053d44f29?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=305&amp;width=862&amp;height=485"
-      },
-      "description": "Cristian Volpato was rejected by two Australian soccer academies. His family dropped everything to go for a trial in Italy. That was the making of Australia's next star.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/socceroos-volpato-not-immune-to-criticism/106859142"
-    },
-    {
-      "published_datetime": "2026-06-30T01:21:08.000000Z",
-      "title": "Private equity boss banned from driving over 'absolute shocker' crash",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d1ddc8ba198652a065f26bdb53d17726?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Private equity baron Joel Thickins has had his license suspended after pleading guilty to negligent driving while under the influence of alcohol and refusing a breath test. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/joel-thickins-pleads-guilty-drink-driving-related-offences-tpg/106859794"
     },
     {
       "published_datetime": "2026-06-30T02:00:00.000000Z",
@@ -64,76 +109,31 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-30/karl-stefanovic-mainstream-media-mr-beast-joe-rogan/106848088"
     },
     {
-      "published_datetime": "2026-06-29T22:59:55.000000Z",
-      "title": "Multiple injuries, driver unaccounted for in truck-stop crash inferno",
+      "published_datetime": "2026-06-30T04:56:25.000000Z",
+      "title": "Bid to make scam texts easier to detect set to begin",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c50e73705d3c862de1673b7c715c4055?impolicy=wcms_crop_resize&amp;cropH=768&amp;cropW=1365&amp;xPos=505&amp;yPos=353&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/032360d572b346af687ab9101e3f6cd0?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Explosions, multiple injuries and up to seven semi-trailers destroyed as a truck collision sets off a fiery chain of events on the Hume Highway.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/hume-highway-truck-crash-multiple-vehicles-drivers-injured/106859504"
+      "description": "The changes will come into effect tomorrow and small businesses will need to get in touch with their telco. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/new-rule-for-businesses-hoped-to-curb-text-message-scams/106813440"
     },
     {
-      "published_datetime": "2026-06-29T18:42:40.000000Z",
-      "title": "'Systemic racism' tip of the iceberg in buried reef authority review",
+      "published_datetime": "2026-06-30T02:12:02.000000Z",
+      "title": "Why Telstra, Optus and TPG mobile coverage maps now look different",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/af91100f80ff963e531fe8bbb6ff4832?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9655d3f11ee36fd9b8094ff821cde384?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=794&amp;width=862&amp;height=485"
       },
-      "description": "The damning results of a review into the agency tasked with managing the Great Barrier Reef, an area bigger than New Zealand and home to 70 traditional owner groups, has never before seen the light of day.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/great-barrier-reef-marine-park-authority-review-racism-claims/106773636"
+      "description": "Australia's major telcos are being forced to comply with new standards when promoting mobile coverage networks, and Telstra is not happy.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/telstra-optus-tpg-forced-to-publish-new-mobile-coverage-maps/106851002"
     },
     {
-      "published_datetime": "2026-06-29T22:48:59.000000Z",
-      "title": "ACCC sues Amazon over introduction of ads on Prime",
+      "published_datetime": "2026-06-30T06:00:39.000000Z",
+      "title": "Exhibition explores Australia's 'incredible fascination' with Antarctica",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/149ce57d1a64f7469ba88e3eb74cc37f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/673418e86b0591c0fbc6583d30081631?impolicy=wcms_crop_resize&amp;cropH=3942&amp;cropW=7008&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
-      "description": "The consumer watchdog is suing Amazon over alleged unfair contract terms for its Prime streaming service.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/amazon-prime-accc-federal-court/106857352"
-    },
-    {
-      "published_datetime": "2026-06-29T21:10:09.000000Z",
-      "title": "Live: Treasurer 'willing to engage' on super for under-18s",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/05870f2a8fb9f1fb9d1088a56db598d5?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Treasurer Jim Chalmers says he's open to discussing a guarantee for superannuation to be paid for teenage workers but stresses that's not the government's focus at the moment. Follow live. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/federal-politics-live-blog-june-30/106858094"
-    },
-    {
-      "published_datetime": "2026-06-29T18:46:04.000000Z",
-      "title": "'We don't fully understand': The footy risk few parents grasp",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5aebb9a867655a6f6c5e7a6c1c774727?impolicy=wcms_crop_resize&amp;cropH=2380&amp;cropW=4232&amp;xPos=8&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Contact is an essential part of footy, but there is growing evidence it can also be a grave threat to the health and welfare of its players. Experts say the AFL should be acting now to protect current and future players. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/cte-poses-dilemma-for-afl-experts-say-urgent-action-needed/106855532"
-    },
-    {
-      "published_datetime": "2026-06-29T20:34:15.000000Z",
-      "title": "Seven Australians in Venezuela request government help as quake toll climbs",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fd552b66dd2a4a7cd861e64888e2ae3b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=394&amp;width=862&amp;height=485"
-      },
-      "description": "Australia is providing \"consular assistance\" to seven people after Venezuela's two earthquakes, Foreign Affairs Minister Penny Wong confirms.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/venezuela-earthquakes-death-toll-rises/106859026"
-    },
-    {
-      "published_datetime": "2026-06-29T22:00:54.000000Z",
-      "title": "Live: ASX trading sideways, Wall Street jumps as AI-related stocks rebound",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e82554cfb24e2e63759d27d90f957f4a?impolicy=wcms_crop_resize&amp;cropH=2364&amp;cropW=4202&amp;xPos=0&amp;yPos=90&amp;width=862&amp;height=485"
-      },
-      "description": "The Australian share market has started its day relatively flat despite a rebound in oil prices ahead of the next round of US-Iran peace talks. On Wall Street, the Dow Jones Industrial Average hit a record high. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/asx-markets-business-live-news/106859328"
-    },
-    {
-      "published_datetime": "2026-06-29T18:30:00.000000Z",
-      "title": "More Australians are doing their own tax returns and making these mistakes",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6ad8d686242e921b6acc29133532190?impolicy=wcms_crop_resize&amp;cropH=1875&amp;cropW=3333&amp;xPos=0&amp;yPos=1864&amp;width=862&amp;height=485"
-      },
-      "description": "With side hustles, working from home, crypto investments, renting out rooms and receiving income through digital platforms or apps, experts say people are at greater risk of making errors with their tax. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/common-mistakes-people-make-when-doing-their-tax/106840754"
+      "description": "For most, a trip to Antarctica is well beyond reach, but a new exhibition at the National Museum of Australia gives visitors the chance to explore life in one of the most extreme environments on Earth.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/act-antarctica-exhibition-at-national-museum-of-australia/106861192"
     },
     {
       "published_datetime": "2026-06-30T02:03:12.000000Z",
@@ -146,34 +146,34 @@
     },
     {
       "published_datetime": "2026-06-29T18:30:00.000000Z",
-      "title": "BalletTok, blackface and nudes: Inside the world of professional ballet",
+      "title": "More Australians are doing their own tax returns and making these mistakes",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/68ce120043afe1c4aaef2ec0e8ded98c?impolicy=wcms_crop_resize&amp;cropH=1875&amp;cropW=3333&amp;xPos=0&amp;yPos=189&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6ad8d686242e921b6acc29133532190?impolicy=wcms_crop_resize&amp;cropH=1875&amp;cropW=3333&amp;xPos=0&amp;yPos=1864&amp;width=862&amp;height=485"
       },
-      "description": "Ariane Beeston, the author of an acclaimed memoir detailing her experience with postpartum psychosis, has penned her first work of fiction, Don't Forget to Smile. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/ariane-beeston-author-ya-book-don-t-forget-to-smile/106854946"
+      "description": "With side hustles, working from home, crypto investments, renting out rooms and receiving income through digital platforms or apps, experts say people are at greater risk of making errors with their tax. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/common-mistakes-people-make-when-doing-their-tax/106840754"
     },
     {
-      "published_datetime": "2026-06-29T20:07:09.000000Z",
-      "title": "Midwife hit with $70,000 foreign investment tax after moving to Australia",
+      "published_datetime": "2026-06-30T03:34:19.000000Z",
+      "title": "Antarctica's first dinosaur fossil found in drawer after 40 years",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5df912db259ff7669c44b93409f8a6f1?impolicy=wcms_crop_resize&amp;cropH=1943&amp;cropW=3454&amp;xPos=372&amp;yPos=83&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c666e538ce57d5a12b36f041d429a7a8?impolicy=wcms_crop_resize&amp;cropH=842&amp;cropW=1497&amp;xPos=0&amp;yPos=566&amp;width=862&amp;height=485"
       },
-      "description": "A British midwife who migrated to Australia to work at a regional hospital during statewide staff shortages is calling for changes to the law after being slugged $70,000 by state and federal authorities for the purchase of her home.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/midwife-hit-with-foreign-investment-fee-after-moving-from-uk/106854972"
+      "description": "A bone found in Antarctica in 1985, and kept in a drawer in England for almost four decades, turns out to belong to one of the largest types of dinosaurs to ever walk the Earth.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/first-antarctic-dinosaur-bone-discovered/106860130"
     },
     {
-      "published_datetime": "2026-06-30T01:27:54.000000Z",
-      "title": "Major coal mine to close in 2028 with hundreds of jobs lost, union says",
+      "published_datetime": "2026-06-30T06:20:14.000000Z",
+      "title": "Thunderbirds co-captain to lead 'connected' team in grand final repeat",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9d14f9fcd347fa3aa447ff928e2e7b1e?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=415&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c9e4fdf13f2d2915b8b4066e6dcaa804?impolicy=wcms_crop_resize&amp;cropH=898&amp;cropW=1596&amp;xPos=0&amp;yPos=423&amp;width=862&amp;height=485"
       },
-      "description": "The Mining and Energy Union says 60 jobs at Yancoal's Ashton underground coal mine will be cut soon, with a full closure expected by early 2028. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/yancoal-ashton-coal-staged-closure-underground-mine/106859696"
+      "description": "The Adelaide Thunderbirds are looking to win their third premiership in four years, with co-captain Georgie Horjus putting their success down to strong team connections on and off the court.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/adelaide-thunderbirds-super-netball-grand-final-melbourne-vixens/106861480"
     },
     {
       "published_datetime": "2026-06-30T00:47:44.000000Z",
-      "title": "What to know about the government's proposed university reforms",
+      "title": "The government is making major changes to universities. Here's what to expect",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cc82ccb5a070ef1e7422e88ea681714b?impolicy=wcms_crop_resize&amp;cropH=2423&amp;cropW=4308&amp;xPos=0&amp;yPos=224&amp;width=862&amp;height=485"
       },
@@ -181,49 +181,49 @@
       "page_content_url": "https://www.abc.net.au/news/2026-06-30/university-reforms-what-is-changing/106844454"
     },
     {
-      "published_datetime": "2026-06-30T00:00:44.000000Z",
-      "title": "New fellowship for mid-career journalists honours Judith Whelan",
+      "published_datetime": "2026-06-30T04:05:57.000000Z",
+      "title": "Brisbane protester removed from tree after 23 hours",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fbbdae106c43e5597d58d800519cd2d9?impolicy=wcms_crop_resize&amp;cropH=454&amp;cropW=807&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/42fc07dc790c51fefd9b82c24a4d6d49?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The ABC, The Sydney Morning Herald and Sydney University have created a new fellowship to honour the late Judith Whelan, a trailblazing leader in media.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/judith-whelan-fellowship-abc-sydney-morning-herald-sydney-uni/106858454"
+      "description": "Emergency services had to remove a power line to lift the woman down from the tree at Kurilpa Common, a state-owned lot taken over by \"guerilla gardeners\" during COVID-19. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/qld-tree-protest-kurilpa-common/106860196"
     },
     {
-      "published_datetime": "2026-06-29T21:06:18.000000Z",
-      "title": "Sons remember 'loving' mum after Airbnb guest found guilty of killing her",
+      "published_datetime": "2026-06-30T05:46:51.000000Z",
+      "title": "North-west Victorian sporting league adopts new concussion app",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/827beb0cd30f71734399ec399ba4ff21?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/913e1a57300f738b0ca5b76183882ee7?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=33&amp;width=862&amp;height=485"
       },
-      "description": "Maree Vermont's sons say they never thought hosting Airbnb guests would be dangerous for their mother, who was proud of the home she had built.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/maree-vermont-family-react-to-timothy-loosemore-verdict/106840318"
+      "description": "A sporting league in regional Victoria is the first to adopt a concussion app aimed at improving communication and accountability around concussions at grassroots sports. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/regional-victorian-sporting-league-adopt-concussion-initiative/106859656"
     },
     {
-      "published_datetime": "2026-06-29T20:13:03.000000Z",
-      "title": "Strait of Hormuz strikes likely to disrupt shipping again",
+      "published_datetime": "2026-06-30T03:16:47.000000Z",
+      "title": "Suspected saltwater crocodile takes dog at unexpected outback location",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7ca6777677d45001f69090719cb13565?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c4d3eea37621de65270fdf0cc9c778d4?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Fresh attacks on commercial vessels in the Strait of Hormuz have exposed the fragility of the 60-day ceasefire deal between the US and Iran, which was meant to allow ships to transit through the waterway again.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/strait-of-hormuz-attacks-expose-fragility-of-ceasefire/106856798"
+      "description": "Richmond Shire Mayor John Wharton believes a dog has been taken by a saltwater crocodile in the Flinders River, hundreds of kilometres inland from its usual habitat.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/suspected-saltwater-crocodile-takes-dog-bottom-crossing-richmond/106859638"
     },
     {
-      "published_datetime": "2026-06-29T18:47:20.000000Z",
-      "title": "Social media giants face fines for failing to hand over documents",
+      "published_datetime": "2026-06-30T04:32:24.000000Z",
+      "title": "Five tonnes of antibiotics used to combat disease in salmon",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d8bd72d884eecb416eab9cab183dbaf6?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bb1c9751e522bec865c5d5ad48d2cb5c?impolicy=wcms_crop_resize&amp;cropH=983&amp;cropW=1748&amp;xPos=0&amp;yPos=382&amp;width=862&amp;height=485"
       },
-      "description": "Labor wants to double the fines for tech giants who refuse to hand over documents that could prove they are failing to enforce Australia’s social media age ban. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/social-media-age-ban-fines-raised-for-tech-giants/106858306"
+      "description": "More than five tonnes of antibiotics were used to treat a disease that killed 9,000 tonnes of fish last summer, Salmon Tasmania says.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/tas-florfenicol-salmon-antibiotic-amount-confirmed/106860194"
     },
     {
-      "published_datetime": "2026-06-29T20:35:52.000000Z",
-      "title": "Ill-fated midnight mountain walk in freezing conditions led to 12-day search",
+      "published_datetime": "2026-06-29T22:59:55.000000Z",
+      "title": "Police say 'miracle' no-one killed as six trucks destroyed in fiery crash",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/03ff40e6a63a2ad3c61380e186ad7d6c?impolicy=wcms_crop_resize&amp;cropH=850&amp;cropW=1511&amp;xPos=0&amp;yPos=331&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c50e73705d3c862de1673b7c715c4055?impolicy=wcms_crop_resize&amp;cropH=768&amp;cropW=1365&amp;xPos=505&amp;yPos=353&amp;width=862&amp;height=485"
       },
-      "description": "The NSW coroner praises emergency services for \"persistence\" during the 12-day search for a hiker who set off on an ill-fated midnight mountain walk in sub-zero temperatures while wearing sandals.",
-      "page_content_url": "https://www.abc.net.au/news/2026-06-30/findings-into-death-of-missing-bushwalker-esther-wallace/106803970"
+      "description": "Police say it is a \"miracle\" no-one was seriously harmed after six semi-trailers were destroyed by fire after trucks crashed into a rest area south-west of Goulburn.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-30/hume-highway-truck-crash-multiple-vehicles-drivers-injured/106859504"
     }
   ]
 }
