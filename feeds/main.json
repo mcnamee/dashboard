@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-01T15:33:17.000000Z",
+      "title": "Live: England stunned as DR Congo takes shock lead in Atlanta",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bb45f8cf699ba2467eaec7c2cfadd6c0?impolicy=wcms_crop_resize&amp;cropH=2097&amp;cropW=3728&amp;xPos=0&amp;yPos=354&amp;width=862&amp;height=485"
+      },
+      "description": "After topping Group L, the Three Lions take on DR Congo in the Round of 32 in Atlanta. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-02/world-cup-live-england-drc-belgium-senegal-usa-bosnia/106867650"
+    },
+    {
+      "published_datetime": "2026-07-01T13:58:25.000000Z",
+      "title": "Life now tougher for borrowers than 17pc interest days, analysis finds",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dd9c30f278a7abfa4dbfcbd6ef05c7bc?impolicy=wcms_crop_resize&amp;cropH=2916&amp;cropW=5184&amp;xPos=0&amp;yPos=270&amp;width=862&amp;height=485"
+      },
+      "description": "Who had it tougher on housing? These stats may put the generational debate to bed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-01/households-facing-heavy-home-loan-interest-burden-kpmg-rba/106864920"
+    },
+    {
       "published_datetime": "2026-07-01T12:32:01.000000Z",
       "title": "Pat Conroy to announce defence shake-up aimed at cost blowouts",
       "featured_image": {
@@ -35,24 +53,6 @@
       },
       "description": "A Coalition group has launched an extraordinary attack on one of parliament's top committees, slamming its election inquiry as biased.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-01/federal-election-review-partisan-witch-hunt-coalition-says/106864668"
-    },
-    {
-      "published_datetime": "2026-07-01T06:19:15.000000Z",
-      "title": "Pair behind dramatic flood rescue awarded for going 'beyond the call of duty'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18a29afb5d110e33234fdb92c1e297c9?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A helicopter pilot and a police officer who performed a daring flood rescue in Katherine earlier this year have been awarded for their heroics as part of the Northern Territory's Territory Day awards.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-01/pilot-police-officer-flood-rescue-katherine-chief-minister-medal/106864970"
-    },
-    {
-      "published_datetime": "2026-07-01T05:43:52.000000Z",
-      "title": "Trump tries to claim a win on birthright citizenship Supreme Court ruling",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/103ff0bee176d1413aa26da9f845ff11?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "While it's a blow to the US president, the highest court's narrow ruling may have emboldened efforts to overturn birthright citizenship through other avenues.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-01/whats-next-for-trumps-bid-to-restrict-birthright-citizenship/106864312"
     },
     {
       "published_datetime": "2026-07-01T04:07:41.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-01T14:08:58.027702"
+  "merged_at": "2026-07-01T17:06:45.490217"
 }
