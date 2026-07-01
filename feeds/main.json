@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-01T08:59:07.000000Z",
+      "title": "Village People lead singer Victor Willis dead at 74",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0c334b2594c9f0c681de08b1a9e71731?impolicy=wcms_crop_resize&amp;cropH=1709&amp;cropW=3039&amp;xPos=0&amp;yPos=147&amp;width=862&amp;height=485"
+      },
+      "description": "The lead singer and a founding member of the Village People disco group has died at the age of 74.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-01/victor-willis-village-people-singer-obituary/106867416"
+    },
+    {
+      "published_datetime": "2026-07-01T08:03:33.000000Z",
+      "title": "Karl Stefanovic to be dumped from radio show, defends 'legitimate interview'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3bd0bfd0d22bc1c727a2fcfdee7d1a71?impolicy=wcms_crop_resize&amp;cropH=1069&amp;cropW=1900&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Karl Stefanovic will be dumped from his new radio show amid fallout from his interview with Tommy Robinson, the ABC understands.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-01/karl-stefanovic-arn-part-ways-for-radio-show-with-eddie-mcguire/106866338"
+    },
+    {
       "published_datetime": "2026-07-01T07:09:58.000000Z",
       "title": "Election review a 'hyper-partisan witch-hunt', Coalition says",
       "featured_image": {
@@ -11,7 +29,7 @@
     },
     {
       "published_datetime": "2026-07-01T06:19:15.000000Z",
-      "title": "Chopper pilot and police officer honoured for heroic Katherine flood rescue",
+      "title": "Pair behind dramatic flood rescue awarded for going 'beyond the call of duty'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/18a29afb5d110e33234fdb92c1e297c9?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -26,15 +44,6 @@
       },
       "description": "While it's a blow to the US president, the highest court's narrow ruling may have emboldened efforts to overturn birthright citizenship through other avenues.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-01/whats-next-for-trumps-bid-to-restrict-birthright-citizenship/106864312"
-    },
-    {
-      "published_datetime": "2026-07-01T04:09:54.000000Z",
-      "title": "Comedian says 'terrifying' roadside assistance encounter has easy solution",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/00e16c0a61ea094e07674051ff4361d2?impolicy=wcms_crop_resize&amp;cropH=275&amp;cropW=488&amp;xPos=0&amp;yPos=106&amp;width=862&amp;height=485"
-      },
-      "description": "Comedian Laura Johnston calls for changes to the law after saying she was confronted by an NRMA contractor who could not provide identification, behaved aggressively and swore at her before leaving her stranded in remote NSW.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-01/woman-demands-law-change-terrifying-roadside-assistance-ordeal/106864428"
     },
     {
       "published_datetime": "2026-07-01T04:07:41.000000Z",
@@ -62,15 +71,6 @@
       },
       "description": "Allegations against a former NSW premier's brothers, a fugitive developer and Sydney councillors are the centre of ICAC hearings.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-01/nsw-icac-nassif-perrottet-brothers-liberal-party-councillors/106864502"
-    },
-    {
-      "published_datetime": "2026-07-01T02:21:43.000000Z",
-      "title": "Australian spy agency spars with China over foreign interference claim",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3c1adec9c5c6fa5ed485924fea83422f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "China's ambassador to Australia attacks ASIO over allegations of foreign interference aired in a video played at an agency event.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-01/chinese-ambassador-asio-trade-barbs-over-foreign-interference/106847408"
     },
     {
       "published_datetime": "2026-07-01T02:20:05.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-01T08:03:44.930104"
+  "merged_at": "2026-07-01T11:51:41.749780"
 }
