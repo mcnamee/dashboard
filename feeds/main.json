@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-02T13:52:13.000000Z",
+      "title": "UK PM apologises over forced adoptions, calls practice a 'stain on history'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/93829fcb71a4898ad28bd04974b038a8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=266&amp;width=862&amp;height=485"
+      },
+      "description": "UK PM Keir Starmer has formally apologised for the British state's role in separating tens of thousands of unmarried mothers from their babies.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-02/uk-formally-apologises-for-forced-adoption/106872892"
+    },
+    {
+      "published_datetime": "2026-07-02T13:09:38.000000Z",
+      "title": "De Minaur cruises through to Wimbledon third round with straight-sets win",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e9a76434949a7f195e84bfce7c51223?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=170&amp;width=862&amp;height=485"
+      },
+      "description": "Australian Alex de Minaur has raced into the third round at Wimbledon with a straight-sets victory over tricky French veteran Adrian Mannarino.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-02/brk-wimbledon-de-minaur-second-round/106872896"
+    },
+    {
       "published_datetime": "2026-07-02T09:59:48.000000Z",
       "title": "State cracks down on sale of potentially deadly 'nangs'",
       "featured_image": {
@@ -10,15 +28,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-02/nitrous-oxide-nangs-crackdown-from-nsw-government/106871066"
     },
     {
-      "published_datetime": "2026-07-02T09:28:30.000000Z",
-      "title": "Professor admits wanting university job to benefit his consulting firm",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/75d7850286ecf6f4aaa707d5c9c2b01e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "ICAC hears that John Dewar wanted his UOW appointment to benefit KordaMentha and his acknowledgement there could be a perception of a conflict of interest.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-02/uow-icac-john-dewar-kordamentha-benefit-conflict-interest/106870804"
-    },
-    {
       "published_datetime": "2026-07-02T08:14:52.000000Z",
       "title": "Gina Rinehart and estranged kids to pay large legal costs after royalties trial",
       "featured_image": {
@@ -26,15 +35,6 @@
       },
       "description": "Mining billionaire Gina Rinehart and her two estranged children will have to pay a large chunk of the legal costs able to be recovered from a mammoth trial that determined the payment of royalties from some of Australia's most lucrative iron ore mines, a WA judge has ruled.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-02/gina-rinehart-to-pay-majority-costs-hancock-court-costs-battle/106872026"
-    },
-    {
-      "published_datetime": "2026-07-02T08:01:32.000000Z",
-      "title": "Privacy Commissioner ordered to hand over report on Amex security failures",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/05cbfdbbcf56cad739554d6089a31fd0?impolicy=wcms_crop_resize&amp;cropH=2631&amp;cropW=4677&amp;xPos=0&amp;yPos=241&amp;width=862&amp;height=485"
-      },
-      "description": "The Privacy Commissioner has been ordered by parliament to hand over a secret report detailing its investigation into American Express's technology security failures, after using gag orders and legal threats to keep it confidential.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-02/senate-orders-privacy-commissioner-to-release-amex-report/106871582"
     },
     {
       "published_datetime": "2026-07-02T07:30:16.000000Z",
@@ -64,13 +64,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-02/midwinter-ball-negative-gearing-angus-taylor-speech-gambling/106854460"
     },
     {
-      "published_datetime": "2026-07-02T05:15:26.000000Z",
-      "title": "Pictures show interior of Trump's new Air Force One jet",
+      "published_datetime": "2026-07-02T04:46:18.000000Z",
+      "title": "Kyiv 'night of horror' as at least 20 killed in Russian attacks across Ukraine",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ec22d955fbfcd8a0b7968a67373ad678?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=23&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9ec3fa2ee63fff18bd5ce32319972243?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=259&amp;width=862&amp;height=485"
       },
-      "description": "The jet, gifted to the US government by Qatar, has been retrofitted, with Trump shaking off concerns over the cost.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-02/look-inside-trump-s-new-air-force-one/106868656"
+      "description": "Ukrainian President Volodymyr Zelenskyy cut his Dublin trip short as the strikes trapped paramedics and drivers at an ambulance station.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-02/russia-strikes-central-kyiv-death-toll/106870544"
     },
     {
       "published_datetime": "2026-07-02T03:37:14.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-02T14:18:43.397913"
+  "merged_at": "2026-07-02T15:06:30.681944"
 }
