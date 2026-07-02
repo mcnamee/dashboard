@@ -1,22 +1,31 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-02T09:59:48.000000Z",
+      "title": "State cracks down on sale of potentially deadly 'nangs'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/22c35386a2f8175a17bbd76fadf42ae1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "After a 7.30 investigation exposed the increasing dangers of nitrous oxide use, NSW \u00a0has announced reforms will come into place shortly.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-02/nitrous-oxide-nangs-crackdown-from-nsw-government/106871066"
+    },
+    {
+      "published_datetime": "2026-07-02T09:28:30.000000Z",
+      "title": "Professor admits wanting university job to benefit his consulting firm",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/75d7850286ecf6f4aaa707d5c9c2b01e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "ICAC hears that John Dewar wanted his UOW appointment to benefit KordaMentha and his acknowledgement there could be a perception of a conflict of interest.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-02/uow-icac-john-dewar-kordamentha-benefit-conflict-interest/106870804"
+    },
+    {
       "published_datetime": "2026-07-02T08:14:52.000000Z",
-      "title": "Gina Rinehart and estranged kids to pay bulk of legal costs after royalties trial",
+      "title": "Gina Rinehart and estranged kids to pay large legal costs after royalties trial",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e358a8fc9a5a73b9d6733de3f1390c5?impolicy=wcms_crop_resize&amp;cropH=737&amp;cropW=1311&amp;xPos=0&amp;yPos=245&amp;width=862&amp;height=485"
       },
-      "description": "Mining billionaire Gina Rinehart and her two estranged children will have to pay the lion's share of the legal costs of a mammoth trial that determined the payment of royalties from some of Australia's most lucrative iron ore mines, a WA judge has ruled.",
+      "description": "Mining billionaire Gina Rinehart and her two estranged children will have to pay a large chunk of the legal costs able to be recovered from a mammoth trial that determined the payment of royalties from some of Australia's most lucrative iron ore mines, a WA judge has ruled.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-02/gina-rinehart-to-pay-majority-costs-hancock-court-costs-battle/106872026"
-    },
-    {
-      "published_datetime": "2026-07-02T08:12:07.000000Z",
-      "title": "Teen accused of abducting 17yo with intent to force marriage",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5cc71924843881845e1787e63894c717?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=181&amp;width=862&amp;height=485"
-      },
-      "description": "A teen has been accused of abducting a 17-year-old girl from near a Melbourne school with the intention of forcing her to marry him.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-02/teen-acccused-of-melbourne-abduction-faces-court/106872438"
     },
     {
       "published_datetime": "2026-07-02T08:01:32.000000Z",
@@ -62,15 +71,6 @@
       },
       "description": "The jet, gifted to the US government by Qatar, has been retrofitted, with Trump shaking off concerns over the cost.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-02/look-inside-trump-s-new-air-force-one/106868656"
-    },
-    {
-      "published_datetime": "2026-07-02T04:25:31.000000Z",
-      "title": "NDIS fraud 'gaps remain open' as integrity report handed down",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d34aca389ec3a33c602b22a47d682d44?impolicy=wcms_crop_resize&amp;cropH=2788&amp;cropW=4956&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
-      },
-      "description": "A Labor-led parliamentary inquiry into fraud in the NDIS has made 12 recommendations to improve the integrity of the scheme.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-02/ndis-fraud-inquiry-reports/106857422"
     },
     {
       "published_datetime": "2026-07-02T03:37:14.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-02T09:52:52.657930"
+  "merged_at": "2026-07-02T12:02:40.313298"
 }
