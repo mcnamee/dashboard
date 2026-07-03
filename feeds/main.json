@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-03T13:02:37.000000Z",
+      "title": "Interpol issues wanted notice for Monaco bombing suspect",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7668dc47e881a97844dbfa20dc86d890?impolicy=wcms_crop_resize&amp;cropH=425&amp;cropW=755&amp;xPos=0&amp;yPos=456&amp;width=862&amp;height=485"
+      },
+      "description": "Investigators are hunting for a woman they say \"disguised herself as a man\" in connection with in a bomb attack that targeted a wealthy businessman in Monaco.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-03/monaco-bomb-interpol-red-wanted-notice-anastasiia-berezovska/106878772"
+    },
+    {
       "published_datetime": "2026-07-03T11:18:47.000000Z",
       "title": "Indonesian soldiers recover body of US pilot killed in Papua",
       "featured_image": {
@@ -11,30 +20,21 @@
     },
     {
       "published_datetime": "2026-07-03T08:40:09.000000Z",
-      "title": "Live: Curnow's huge half puts Swans in control as Fogarty, Crows dominate Eagles",
+      "title": "Curnow hits front in Coleman Medal race as Swans and Crows record wins",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a4e0da880028bfd879648bb4fce51495?impolicy=wcms_crop_resize&amp;cropH=1595&amp;cropW=2836&amp;xPos=1654&amp;yPos=424&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1de0e40e75cc1e2bda4e701bedc0cf3d?impolicy=wcms_crop_resize&amp;cropH=1880&amp;cropW=3342&amp;xPos=0&amp;yPos=73&amp;width=862&amp;height=485"
       },
-      "description": "It's a Friday night double bill of footy as the Swans host the Bulldogs in a finals-shaping clash in Sydney ahead of a late game in Perth. Follow live.",
+      "description": "Charlie Curnow kicks six goals as the Swans cruise to a 35-point win over the Bulldogs, while Adelaide holds off a fast-finishing West Coast in Perth.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-03/afl-r17-swans-bulldogs-eagles-crows-live-blog/106869754"
     },
     {
       "published_datetime": "2026-07-03T07:56:57.000000Z",
-      "title": "Live: Panthers try-scoring whiz adds to tally with another stunning score",
+      "title": "Souths captain Cody Walker apologises after kicking opponent",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28dfe6aabba712b71bcc39605fae7a1e?impolicy=wcms_crop_resize&amp;cropH=623&amp;cropW=1108&amp;xPos=0&amp;yPos=40&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6cba4b9244f4e38e8e95b5dd0a2b106d?impolicy=wcms_crop_resize&amp;cropH=663&amp;cropW=1178&amp;xPos=0&amp;yPos=736&amp;width=862&amp;height=485"
       },
-      "description": "South Sydney and Penrith are without their State of Origin players for tonight's clash between the top-eight sides. Follow live.",
+      "description": "South Sydney captain Cody Walker has said he let his teammates down after being sin-binned on Friday night for kicking an opposition player.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-03/nrl-live-updates-penrith-panthers-south-sydney-rabbitohs/106866354"
-    },
-    {
-      "published_datetime": "2026-07-03T07:24:22.000000Z",
-      "title": "Veteran NSW Liberal quits frontbench amid ICAC inquiry",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6426703f035ffdecb1b529c77ee6040f?impolicy=wcms_crop_resize&amp;cropH=1915&amp;cropW=3404&amp;xPos=0&amp;yPos=100&amp;width=862&amp;height=485"
-      },
-      "description": "Veteran NSW Liberal Damien Tudehope has quit the frontbench after being called as a witness in a looming corruption watchdog probe.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-03/nsw-liberals-damien-tudehope-quits-frontbench-over-icac-inquiry/106878154"
     },
     {
       "published_datetime": "2026-07-03T06:46:58.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-03T12:00:39.898570"
+  "merged_at": "2026-07-03T15:01:38.437656"
 }
