@@ -1,10 +1,28 @@
 {
   "items": [
     {
-      "published_datetime": "2026-07-03T19:44:53.000000Z",
-      "title": "Fans circle NYC stadium ahead of Taylor Swift's rumoured wedding",
+      "published_datetime": "2026-07-03T21:15:17.000000Z",
+      "title": "Government rejects all UN recommendations on LGBTQIA+ rights",
       "featured_image": {
-        "thumbnail": ""
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e85ab4909c4e5812f80dc393a9673a90?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=302&amp;width=862&amp;height=485"
+      },
+      "description": "The Albanese government has accepted the lowest number of recommendations made by the UN Human Rights Council in 20 years, with none protecting the LGBTQIA+ community.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-04/federal-government-rejects-un-lgbtqia-recommendations/106866788"
+    },
+    {
+      "published_datetime": "2026-07-03T21:10:59.000000Z",
+      "title": "'Towelling the bloke up in the cells': Shocking police emails revealed",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3964b82666a3027edf755c1cc2e8d866?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "Emails reveal an extraordinary exchange between AFP officers after an Indigenous man was allegedly beaten and illegally strip-searched at a Canberra watchhouse.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-04/emails-police-pressure-drop-charges-arrested-allegedly-beaten/106874516"
+    },
+    {
+      "published_datetime": "2026-07-03T19:44:53.000000Z",
+      "title": "Stars arrive in NYC ahead of rumoured Taylor Swift and Travis Kelce wedding",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8d74a8306a0ee156921de13eadd6a06d?impolicy=wcms_crop_resize&amp;cropH=2419&amp;cropW=4300&amp;xPos=0&amp;yPos=224&amp;width=862&amp;height=485"
       },
       "description": "A heavy media presence and barricades surround the Madison Square Garden stadium where fans wait in sweltering conditions.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-04/taylor-swift-travis-kelce-wedding/106879258"
@@ -64,31 +82,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-04/pat-conroy-defence-aukus-labor-conference-economy-history-wars/106775108"
     },
     {
-      "published_datetime": "2026-07-03T17:45:05.000000Z",
-      "title": "Kasatkina bows out of Wimbledon as Osaka stuns on and off court",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6239b13fde09dfd19da540fbf5391abd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Daria Kasatkina bows out of Wimbledon to end Australia's run in the women's draw.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-04/wimbledon-2026-daria-kasatkina-loses-to-naomi-osaka/106879172"
-    },
-    {
       "published_datetime": "2026-07-03T16:51:15.000000Z",
-      "title": "Live: Socceroos set for penalty shootout to decide Egypt clash",
+      "title": "Live: Heartbreaking penalty shootout ends Australia's World Cup dreams",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/868e18f88aff46fc82a889a5474b14a7?impolicy=wcms_crop_resize&amp;cropH=2585&amp;cropW=4596&amp;xPos=0&amp;yPos=316&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/de0e5fcef937596ffaa237b95ff4f903?impolicy=wcms_crop_resize&amp;cropH=1475&amp;cropW=2622&amp;xPos=0&amp;yPos=273&amp;width=862&amp;height=485"
       },
-      "description": "The Socceroos are set for a penalty shootout against Egypt in their World Cup round of 32 clash. Follow live.",
+      "description": "The Socceroos have lost in a heartbreaking World Cup penalty shootout against Egypt. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-04/world-cup-live-blog-2026-socceroos-australia-vs-egypt/106877594"
-    },
-    {
-      "published_datetime": "2026-07-03T13:02:37.000000Z",
-      "title": "Interpol issues wanted notice for Monaco bombing suspect",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7668dc47e881a97844dbfa20dc86d890?impolicy=wcms_crop_resize&amp;cropH=425&amp;cropW=755&amp;xPos=0&amp;yPos=456&amp;width=862&amp;height=485"
-      },
-      "description": "Investigators are hunting for a woman they say \"disguised herself as a man\" in connection with in a bomb attack that targeted a wealthy businessman in Monaco.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-03/monaco-bomb-interpol-red-wanted-notice-anastasiia-berezovska/106878772"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-03T20:53:13.580920"
+  "merged_at": "2026-07-03T21:57:31.218369"
 }
