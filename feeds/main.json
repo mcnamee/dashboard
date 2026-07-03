@@ -1,10 +1,19 @@
 {
   "items": [
     {
-      "published_datetime": "2026-07-03T16:51:15.000000Z",
-      "title": "Live: Socceroos set for historic World Cup knockout round clash with Egypt",
+      "published_datetime": "2026-07-03T17:45:05.000000Z",
+      "title": "Kasatkina bows out of Wimbledon as Osaka stuns on and off court",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cf27d13e09132290bf559e9c011eb215?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6239b13fde09dfd19da540fbf5391abd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Daria Kasatkina bows out of Wimbledon to end Australia's run in the women's draw.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-04/wimbledon-2026-daria-kasatkina-loses-to-naomi-osaka/106879172"
+    },
+    {
+      "published_datetime": "2026-07-03T16:51:15.000000Z",
+      "title": "Live: Socceroos go behind as Egypt strikes early in World Cup knockout clash",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a24f51344a0934e290f0cfb5f26cee68?impolicy=wcms_crop_resize&amp;cropH=2807&amp;cropW=4990&amp;xPos=0&amp;yPos=296&amp;width=862&amp;height=485"
       },
       "description": "The Socceroos take on Egypt in Dallas, with a spot in the last 16 of the World Cup on the line. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-04/world-cup-live-blog-2026-socceroos-australia-vs-egypt/106877594"
@@ -26,15 +35,6 @@
       },
       "description": "A video shows an operation by the Indonesian military to recover the body of an American pilot, shot dead by Papuan separatists in the Papua Highlands.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-03/video-indonesian-military-recover-body-us-pilot-goselin-papua/106878596"
-    },
-    {
-      "published_datetime": "2026-07-03T08:40:09.000000Z",
-      "title": "Curnow hits front in Coleman Medal race as Swans and Crows record wins",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1de0e40e75cc1e2bda4e701bedc0cf3d?impolicy=wcms_crop_resize&amp;cropH=1880&amp;cropW=3342&amp;xPos=0&amp;yPos=73&amp;width=862&amp;height=485"
-      },
-      "description": "Charlie Curnow kicks six goals as the Swans cruise to a 35-point win over the Bulldogs, while Adelaide holds off a fast-finishing West Coast in Perth.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-03/afl-r17-swans-bulldogs-eagles-crows-live-blog/106869754"
     },
     {
       "published_datetime": "2026-07-03T07:56:57.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-03T17:13:49.541003"
+  "merged_at": "2026-07-03T19:02:53.369119"
 }
