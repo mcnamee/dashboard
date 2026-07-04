@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-03T23:50:34.000000Z",
+      "title": "Taylor Swift marries Travis Kelce as fans celebrate America's 'royal wedding'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4f84f4920ad733d0b4d43882d0ff639d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "An open-oven-door style heatwave in New York could not stop Taylor Swift's famously enthusiastic fans from showing up for what's been dubbed America's royal wedding.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-04/taylor-swift-wedding-attracts-fans-to-new-york/106875122"
+    },
+    {
       "published_datetime": "2026-07-03T21:15:17.000000Z",
       "title": "Government rejects all UN recommendations on LGBTQIA+ rights",
       "featured_image": {
@@ -17,15 +26,6 @@
       },
       "description": "Emails reveal an extraordinary exchange between AFP officers after an Indigenous man was allegedly beaten and illegally strip-searched at a Canberra watchhouse.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-04/emails-police-pressure-drop-charges-arrested-allegedly-beaten/106874516"
-    },
-    {
-      "published_datetime": "2026-07-03T19:44:53.000000Z",
-      "title": "Hugh Grant, Benson Boone among stars at rumoured Taylor Swift and Travis Kelce wedding",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8d74a8306a0ee156921de13eadd6a06d?impolicy=wcms_crop_resize&amp;cropH=2419&amp;cropW=4300&amp;xPos=0&amp;yPos=224&amp;width=862&amp;height=485"
-      },
-      "description": "A heavy media presence and barricades surround the Madison Square Garden stadium where fans wait in sweltering conditions.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-04/taylor-swift-travis-kelce-wedding/106879258"
     },
     {
       "published_datetime": "2026-07-03T19:21:36.000000Z",
@@ -83,7 +83,7 @@
     },
     {
       "published_datetime": "2026-07-03T16:51:15.000000Z",
-      "title": "'That was always an option': Coach explains costly penalty gamble",
+      "title": "'That was always an option': Socceroos coach explains costly penalty gamble",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/de0e5fcef937596ffaa237b95ff4f903?impolicy=wcms_crop_resize&amp;cropH=1475&amp;cropW=2622&amp;xPos=0&amp;yPos=273&amp;width=862&amp;height=485"
       },
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-03T22:58:32.726898"
+  "merged_at": "2026-07-04T00:03:17.402205"
 }
