@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-04T16:19:54.000000Z",
+      "title": "Live: Canada on top as Morocco loses star to injury",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f7e1cf84c5cecbeb19daa8c89e16b4e2?impolicy=wcms_crop_resize&amp;cropH=1644&amp;cropW=2923&amp;xPos=772&amp;yPos=78&amp;width=862&amp;height=485"
+      },
+      "description": "World Cup co-hosts Canada look for a spot in the last eight as they take on Morocco, while surprise-packets Paraguay take on hot-favourites France. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-05/world-cup-live-blog-2026-canada-morocco-paraguay-france/106879810"
+    },
+    {
       "published_datetime": "2026-07-04T10:31:32.000000Z",
       "title": "First case of deadly H5N1 bird flu confirmed in NSW",
       "featured_image": {
@@ -20,21 +29,12 @@
     },
     {
       "published_datetime": "2026-07-04T08:33:24.000000Z",
-      "title": "Thunderbirds win record-breaking Super Netball title",
+      "title": "Adelaide Thunderbirds unlock Super Netball dynasty with unique coaching",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/beaa51f50737dffcc92f3c12f024081c?impolicy=wcms_crop_resize&amp;cropH=2112&amp;cropW=3755&amp;xPos=0&amp;yPos=195&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/44b080d5b0875075715d71ee5b1c2646?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=317&amp;width=862&amp;height=485"
       },
-      "description": "The Adelaide Thunderbirds are Super Netball champions after defeating the Melbourne Vixens 61-40 in the grand final.",
+      "description": "The Adelaide Thunderbirds have unlocked a Super Netball dynasty with a unique coaching approach. The three-time Super Netball champions defeated the Melbourne Vixens 61- 40 in the grand final at John Cain Arena.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-04/super-netball-grand-final-live-thunderbirds-vixens/106871290"
-    },
-    {
-      "published_datetime": "2026-07-04T06:52:40.000000Z",
-      "title": "Socceroos legend criticises coach over penalty shootout goalkeeper substitute",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/605ee02748e72bb7233455bf0d4c084a?impolicy=wcms_crop_resize&amp;cropH=2015&amp;cropW=3582&amp;xPos=0&amp;yPos=148&amp;width=862&amp;height=485"
-      },
-      "description": "Mark Schwarzer says he is not a fan of Tony Popovic's decision to swap goalkeepers ahead of the penalty shootout, even if it had been successful.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-04/fifa-world-cup-schwarzer-slams-popovic-gk-swap-penalties/106880286"
     },
     {
       "published_datetime": "2026-07-04T05:45:06.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-04T16:08:52.729707"
+  "merged_at": "2026-07-04T17:56:16.156049"
 }
