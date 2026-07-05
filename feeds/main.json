@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-05T21:12:27.000000Z",
+      "title": "Live: PM apologises for Kylie Minogue 'shag' comment",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/caf2056d127204d87775f1daac344e17?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Prime Minister Anthony Albanese's office has released a statement, apologising for the PM's comments about Kylie Minogue on a podcast.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-06/federal-politics-live-blog-pm-podcast/106883162"
+    },
+    {
+      "published_datetime": "2026-07-05T20:49:22.000000Z",
+      "title": "FIFA throws out US striker's ban after Trump intervention",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3d1c9e00f695cac84344e6cd58f38539?impolicy=wcms_crop_resize&amp;cropH=1857&amp;cropW=3301&amp;xPos=0&amp;yPos=207&amp;width=862&amp;height=485"
+      },
+      "description": "US striker Folarin Balogun is free to play Belgium despite earning a red card in his last match, in a shock decision that delights Donald Trump and \"astonishes\" the Belgians.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-06/world-cup-us-striker-folarin-balogun-fifa-donald-trump/106883104"
+    },
+    {
       "published_datetime": "2026-07-05T20:11:00.000000Z",
       "title": "Albanese poised to sign major new treaty with Fiji",
       "featured_image": {
@@ -29,9 +47,9 @@
     },
     {
       "published_datetime": "2026-07-05T18:56:13.000000Z",
-      "title": "Live: Norway saves Brazil penalty, has goal ruled out in furious start",
+      "title": "Live: Haaland puts Norway on the brink of famous World Cup win over Brazil",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ff2acfd40f41e3e73d81ee888ae4293b?impolicy=wcms_crop_resize&amp;cropH=1443&amp;cropW=2566&amp;xPos=0&amp;yPos=66&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/678aa01104fd94684a2743b9ef6a1bff?impolicy=wcms_crop_resize&amp;cropH=2249&amp;cropW=3998&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
       },
       "description": "Norway looks to upset perennial challengers Brazil in New Jersey, before Mexico hosts England at the Azteca. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-06/world-cup-live-brazil-vs-norway-mexico-vs-england/106881396"
@@ -71,24 +89,6 @@
       },
       "description": "There is no shortage of theories, from stacks of cash hidden at home to illicit activities, but little in the way of definitive answers.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-06/banknote-printing-hoarding-mystery/106808970"
-    },
-    {
-      "published_datetime": "2026-07-05T18:30:00.000000Z",
-      "title": "'Oldest continually practised medicine' being passed on to students",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f1cfe79601fe651df951dbfd206c28cd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Aboriginal Australians have used native plants as bush medicine for tens of thousands of years. On Larrakia land, medical students are learning how nature can heal.",
-      "page_content_url": "https://www.abc.net.au/news/health/2026-07-06/bush-medicine-cultural-safety-aboriginal-health/106680652"
-    },
-    {
-      "published_datetime": "2026-07-05T07:40:08.000000Z",
-      "title": "Footballer in end-of-life care after head clash in suburban game",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ced6d4754f9bcbf5aa8e41edde7c61db?impolicy=wcms_crop_resize&amp;cropH=432&amp;cropW=769&amp;xPos=515&amp;yPos=267&amp;width=862&amp;height=485"
-      },
-      "description": "Epping Football Netball Club's Nathan Fitzgerald, 27, is receiving end-of-life care after colliding with a teammate in a reserves game.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-05/epping-footballer-critical-head-injury-during-game-afl/106881856"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-05T20:47:39.294273"
+  "merged_at": "2026-07-05T21:52:25.999802"
 }
