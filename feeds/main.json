@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-05T22:33:19.000000Z",
+      "title": "PM apologises for saying he would shag Kylie Minogue during podcast game",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bcda9ecf1fcffbf05b7122f0dab3244b?impolicy=wcms_crop_resize&amp;cropH=891&amp;cropW=1584&amp;xPos=145&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Anthony Albanese made the comments during a game of \"shag, marry, date\" on the Bush Deep podcast on Friday, which have been widely condemned as inappropriate.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-06/albanese-apologises-shag-kylie-minogue-podcast-comment/106883266"
+    },
+    {
       "published_datetime": "2026-07-05T21:12:27.000000Z",
-      "title": "Live: PM apologises for Kylie Minogue 'shag' comment",
+      "title": "Live: Shadow minister says PM's comments 'beneath his office'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/caf2056d127204d87775f1daac344e17?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -28,30 +37,21 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-06/albanese-to-sign-major-new-treaty-fiji/106882252"
     },
     {
-      "published_datetime": "2026-07-05T19:05:01.000000Z",
-      "title": "AFP to push Australia's policing model to UN",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fed7fe6f685dd0d9caabbd175aedfe84?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=325&amp;width=862&amp;height=485"
-      },
-      "description": "The AFP commissioner will promote Pacific police training as a model for the United Nations when she addresses police delegates from 140 nations this week.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-06/afp-pushes-australian-policing-model/106882142"
-    },
-    {
       "published_datetime": "2026-07-05T19:00:59.000000Z",
       "title": "The 'dirty little secret' in active funds management and ETFs boom",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a576dff5144363b95712015ae1744653?impolicy=wcms_crop_resize&amp;cropH=808&amp;cropW=1437&amp;xPos=0&amp;yPos=58&amp;width=862&amp;height=485"
       },
-      "description": "A record number of exchange-traded funds were added to the Australian share market in the past financial year.\u00a0",
+      "description": "A record number of exchange traded funds were added to the Australian share market in the past financial year.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-06/record-number-of-exchange-traded-funds-hit-share-market/106875778"
     },
     {
       "published_datetime": "2026-07-05T18:56:13.000000Z",
-      "title": "Live: Haaland puts Norway on the brink of famous World Cup win over Brazil",
+      "title": "Live: Haaland double delivers Norway famous World Cup win over Brazil",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/678aa01104fd94684a2743b9ef6a1bff?impolicy=wcms_crop_resize&amp;cropH=2249&amp;cropW=3998&amp;xPos=0&amp;yPos=183&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5b137c7022878f71fa995d007bab6dd2?impolicy=wcms_crop_resize&amp;cropH=2409&amp;cropW=4282&amp;xPos=0&amp;yPos=131&amp;width=862&amp;height=485"
       },
-      "description": "Norway looks to upset perennial challengers Brazil in New Jersey, before Mexico hosts England at the Azteca. Follow live.",
+      "description": "Two goals from Erling Haaland deliver Norway an upset win over Brazil in New Jersey, before Mexico hosts England at the Azteca. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-06/world-cup-live-brazil-vs-norway-mexico-vs-england/106881396"
     },
     {
@@ -76,7 +76,7 @@
       "published_datetime": "2026-07-05T18:38:03.000000Z",
       "title": "As its people dig, suspicion distracts Venezuela's government",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0cae1f7c537dd13b6e9df2b3129b2ac5?impolicy=wcms_crop_resize&amp;cropH=2384&amp;cropW=4238&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a45fb08e7428d28ede93ffbe98e6049?impolicy=wcms_crop_resize&amp;cropH=2199&amp;cropW=3911&amp;xPos=0&amp;yPos=207&amp;width=862&amp;height=485"
       },
       "description": "Instead of focusing all its efforts on coordinating a widescale rescue operation, the Venezuelan government has been accused of hindering the response, and as has become apparent, our ability to cover it.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-06/venezuela-earthquake-recovery-hindered-by-government-suspicion/106880614"
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-05T21:52:25.999802"
+  "merged_at": "2026-07-05T22:53:30.093382"
 }
