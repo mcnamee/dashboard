@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-06T11:13:25.000000Z",
+      "title": "Suburban footballer dies after suffering head injury during game",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0834f87cd556808bf1f5a1a5db97b517?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Footy player and teacher Nathan Fitzgerald has died after suffering critical head injuries during a reserves game in the city's north on the weekend.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-06/nathan-fitzgerald-football-death-head-injury/106884556"
+    },
+    {
+      "published_datetime": "2026-07-06T09:50:36.000000Z",
+      "title": "Second Russian attack on Kyiv in less than a week kills 14",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/737ec42bda15a8d75f963405ba30326d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Ukrainian President Volodymyr \u2060Zelenskyy urges NATO to take \"strong decisions\" on boosting his nation's air defences following the strike, which came just days after another Russian attack killed more than 30 people in Kyiv.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-06/russian-attack-on-kyiv-ukraine-kills-14-on-eve-of-nato-summit/106886188"
+    },
+    {
+      "published_datetime": "2026-07-06T07:29:25.000000Z",
+      "title": "AFP confirms threat made against Indian Prime Minister Narendra Modi",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ac5d11e6af980c4e98d47c2bcd860a18?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Australian Federal Police says a young person was identified and issued a formal warning over an online threat made towards Mr Modi, ahead of his official visit later this week.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-06/afp-narendra-modi-melbourne-death-threat/106885854"
+    },
+    {
+      "published_datetime": "2026-07-06T07:04:48.000000Z",
+      "title": "Highest ever pressure in Australia brings bitterly cold nights for south-east",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/30b2a456ab682e7014a8afa683237429?impolicy=wcms_crop_resize&amp;cropH=504&amp;cropW=896&amp;xPos=92&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Preliminary data shows the highest ever pressure in Australia was recorded in Tasmania on Monday morning.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-06/new-all-time-australian-pressure-weather-record/106885260"
+    },
+    {
       "published_datetime": "2026-07-06T06:06:57.000000Z",
       "title": "'Assassination plot' impeachment trial involving Duterte dynasty begins in Manila",
       "featured_image": {
@@ -38,30 +74,12 @@
     },
     {
       "published_datetime": "2026-07-06T04:51:49.000000Z",
-      "title": "Australia 'very concerned' by Chinese ballistic missile test in Pacific",
+      "title": "'Destabilising': Chinese ballistic missile test in Pacific prompts government concerns",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c4f22c5f4e856525b9c7fd72a75b42ee?impolicy=wcms_crop_resize&amp;cropH=3159&amp;cropW=5616&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64e5a3962d8478b286413a9fe1f06ba7?impolicy=wcms_crop_resize&amp;cropH=1053&amp;cropW=1872&amp;xPos=258&amp;yPos=302&amp;width=862&amp;height=485"
       },
-      "description": "China has test-fired a long-range missile with a dummy warhead in the Pacific Ocean. The ABC has been told the Chinese government informed governments in the region about the test.",
+      "description": "China has test-fired a long-range missile with a dummy warhead in the Pacific Ocean, prompting concerns from the Australian government.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-06/china-test-ballistic-missile-south-pacific/106885076"
-    },
-    {
-      "published_datetime": "2026-07-06T04:18:03.000000Z",
-      "title": "'Like a small iceberg': Rare whale calf spotted swimming off east coast",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e3c208f9f34570355a0eb3327bd82380?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The calf, thought to be one of only a dozen in the Southern Hemisphere, has been spotted swimming alongside its mother.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-06/rare-humpback-whale-calf-off-queensland-nsw-coast/106884462"
-    },
-    {
-      "published_datetime": "2026-07-05T23:42:39.000000Z",
-      "title": "Concerns about cricket pitches on ovals after Melbourne football tragedy",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ced6d4754f9bcbf5aa8e41edde7c61db?impolicy=wcms_crop_resize&amp;cropH=432&amp;cropW=769&amp;xPos=515&amp;yPos=267&amp;width=862&amp;height=485"
-      },
-      "description": "Nathan Fitzgerald's club has asked authorities to look at the way hard cricket pitches are covered on multi-use ovals as the 27-year-old continues to receive end-of-life care.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-06/nathan-fitzgerald-football-club-wants-investigation-into-pitch/106883356"
     },
     {
       "published_datetime": "2026-07-05T23:14:20.000000Z",
@@ -71,24 +89,6 @@
       },
       "description": "Cannibalism will form part of an investigation into the death of a four-year-old boy on the NSW Central Coast, with an independent review to take place by the Department of Communities and Justice.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-06/nsw-wyong-investigation-boy-death-central-coast/106883362"
-    },
-    {
-      "published_datetime": "2026-07-05T20:11:00.000000Z",
-      "title": "Australia enters new alliance with Fiji and more Pacific nations could join",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e2cdf9a59f1e30a3444067ecb5653f03?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Australia and Fiji strike a new defence alliance in a major development that could reshape the Pacific's strategic landscape.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-06/albanese-signs-major-new-treaty-fiji/106882252"
-    },
-    {
-      "published_datetime": "2026-07-05T18:40:20.000000Z",
-      "title": "The world is getting pure Trump and the US presidency may never be the same",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/263d0659d4ba4535f1580708f72e8936?impolicy=wcms_crop_resize&amp;cropH=1840&amp;cropW=3272&amp;xPos=292&amp;yPos=399&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump is undertaking regime change, not just in Venezuela, but on US soil and it is unlikely the presidency will ever be the same.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-06/donald-trumps-imperial-presidency-regime-change-to-the-usa/106877148"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-06T07:03:04.887136"
+  "merged_at": "2026-07-06T11:56:08.652928"
 }
