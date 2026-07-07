@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-07T12:20:08.000000Z",
+      "title": "Breaking: French court opens door to Marine Le Pen presidential run after shortening ban",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1ea399c1156d80622a80c62b917c65ef?impolicy=wcms_crop_resize&amp;cropH=1755&amp;cropW=3120&amp;xPos=0&amp;yPos=13&amp;width=862&amp;height=485"
+      },
+      "description": "The court in Paris upholds Marine Le Pen's conviction for misusing EU funds but shortens her ban on running for elected office, potentially re-opening a path for the far-right leader to run in the 2027 presidential race.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-07/marine-le-pen-ban-shortened-but-she-must-wear-electronic-tag/106890724"
+    },
+    {
+      "published_datetime": "2026-07-07T11:13:26.000000Z",
+      "title": "Ukrainian prosecutors confirm Monaco bomb suspect found dead",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7668dc47e881a97844dbfa20dc86d890?impolicy=wcms_crop_resize&amp;cropH=425&amp;cropW=755&amp;xPos=0&amp;yPos=456&amp;width=862&amp;height=485"
+      },
+      "description": "A Ukrainian woman suspected of a bomb attack that targeted a wealthy Ukrainian-born businessman in Monaco has been found shot dead in Ukraine, according to Ukraine's prosecutor general's office.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-07/ukrainian-prosecutors-confirm-monaco-bomb-suspect-found-dead/106890710"
+    },
+    {
       "published_datetime": "2026-07-07T10:40:40.000000Z",
       "title": "Explosions rock Damascus near hotel hosting French President Macron",
       "featured_image": {
@@ -8,15 +26,6 @@
       },
       "description": "French officials say Mr Macron did not hear the blasts, and his motorcade continued through the streets of the Syrian capital to a meeting with Syrian President Ahmed Al-Sharaa, in the first by a European head of state since 2024.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-07/explosions-rock-damascus-syria-near-emmanuel-macron-hotel-visit/106890656"
-    },
-    {
-      "published_datetime": "2026-07-07T07:17:08.000000Z",
-      "title": "Controversial report calling for NSW DPP to be replaced condemned",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2d0dd697b941604c0566d29b86152b8c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The inquiry into children's identity protection was called in October last year, but has focused almost solely on the leaking of the story to media.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-07/report-findings-on-dpp-sally-dowling-2gb-leak/106889966"
     },
     {
       "published_datetime": "2026-07-07T06:58:28.000000Z",
@@ -62,15 +71,6 @@
       },
       "description": "More than 1 million Qantas customers are being notified they may be eligible for access to a multi-million-dollar settlement.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-07/qantas-customers-class-action-settlement/106887886"
-    },
-    {
-      "published_datetime": "2026-07-07T02:52:32.000000Z",
-      "title": "A frame-by-frame look at Balogun's infamous red card tackle",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d57ae6ff613a8fab8bc7749a52512775?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=104&amp;width=862&amp;height=485"
-      },
-      "description": "While many agree the red card call was too harsh, the story has become a bigger discussion about FIFA's integrity.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-07/folarin-balogun-usa-red-card-suspension-donald-trump-world-cup/106887146"
     },
     {
       "published_datetime": "2026-07-07T02:39:01.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-07T11:57:14.741686"
+  "merged_at": "2026-07-07T13:11:15.015019"
 }
