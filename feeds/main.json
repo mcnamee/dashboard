@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-07T03:11:20.000000Z",
+      "title": "Quick hits: American dream comes crashing down, Mbapp\u00e9 hits back at abuse",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1b5c75bb850b981262cbfe66b96650e0?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The US goes crashing out of its own World Cup after days of controversy and rancour, while Kylian Mbapp\u00e9 refuses to stand for dreadful racist abuse. Here are today's quick hits.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-07/world-cup-quick-hits-usa-mbappe-england-ronaldo/106887222"
+    },
+    {
+      "published_datetime": "2026-07-07T02:39:01.000000Z",
+      "title": "China has sent the world a reminder of its growing military power",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64e5a3962d8478b286413a9fe1f06ba7?impolicy=wcms_crop_resize&amp;cropH=1053&amp;cropW=1872&amp;xPos=258&amp;yPos=302&amp;width=862&amp;height=485"
+      },
+      "description": "This latest military test demonstrates China's growing willingness to use its military strength to send a warning to the Pacific: that Beijing now has the military and nuclear means to assert its dominance in the region.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-07/china-pacific-nuclear-missile-launch-and-military-navy-warning/106888082"
+    },
+    {
+      "published_datetime": "2026-07-07T02:32:57.000000Z",
+      "title": "Breaking: Foxtel boss says Kayo 'very well priced' as $5.3b NRL rights deal revealed",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8541280a866dae28efd0899bbf8675a0?impolicy=wcms_crop_resize&amp;cropH=1957&amp;cropW=3479&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+      },
+      "description": "The NRL reveals its new broadcast rights deal worth billions of dollars over seven years from the end of the 2027 season.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-07/nrl-new-broadcast-rights-deal/106888646"
+    },
+    {
+      "published_datetime": "2026-07-07T01:58:35.000000Z",
+      "title": "AFL legend Tony Modra 'overwhelmed by the kindness' after truck crash",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0879ab9c9058567df35d5061990483ac?impolicy=wcms_crop_resize&amp;cropH=1358&amp;cropW=2414&amp;xPos=0&amp;yPos=54&amp;width=862&amp;height=485"
+      },
+      "description": "Adelaide Crows legend Tony Modra says he has left hospital after he was seriously injured in a truck crash last month.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-07/tony-modra-leaves-hospital-after-truck-crash/106888548"
+    },
+    {
+      "published_datetime": "2026-07-07T01:49:57.000000Z",
+      "title": "TikTok says 98pc of harmful content removed before being seen in Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ad5432ecb652312e119d6179742152e2?impolicy=wcms_crop_resize&amp;cropH=1005&amp;cropW=1787&amp;xPos=67&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Most of the harmful content uploaded to TikTok is automatically removed before it can be seen by Australian social media users, the Royal Commission on Antisemitism and Social Cohesion hears.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-07/tiktok-youtube-at-antisemitism-social-cohesion-royal-commission/106887154"
+    },
+    {
+      "published_datetime": "2026-07-07T01:40:13.000000Z",
+      "title": "Richard White resigns as WiseTech chair but will remain with firm",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/975851010ffdb0512c350658cf115c27?impolicy=wcms_crop_resize&amp;cropH=1575&amp;cropW=2800&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The billionaire founder of WiseTech Global said he was stepping down as the company's chair after \"recent personal media attention\" created an \"unnecessary distraction\" from the business.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-07/richard-white-steps-down-as-wisetech-global-chair/106888140"
+    },
+    {
+      "published_datetime": "2026-07-07T00:14:15.000000Z",
+      "title": "Microsoft workers in Australia to be caught up in 4,800 global job cuts",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/09310ea06a13172e4cb24b122eb46069?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=269&amp;width=862&amp;height=485"
+      },
+      "description": "ABC News understands Microsoft Australia staff will be impacted by the tech giant's latest round of lay-offs. Microsoft will cut about 2.1 per cent of its global workforce.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-07/microsoft-job-cuts-australian-roles-hit-xbox-overhaul-ai/106887570"
+    },
+    {
       "published_datetime": "2026-07-06T23:14:02.000000Z",
       "title": "After months of Trump threats, Cuba says he's committing 'genocide'",
       "featured_image": {
@@ -10,85 +73,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-07/cuba-us-genocide-humanitarian-crisis-accusation-explained/106855482"
     },
     {
-      "published_datetime": "2026-07-06T23:05:48.000000Z",
-      "title": "Ex-champion boxer charged over four kidnappings",
+      "published_datetime": "2026-07-06T21:42:57.000000Z",
+      "title": "Live: Nine shares up as it retains NRL free-to-air rights for $145m a year",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d89cbd81dd06bdd72c182a69818309e3?impolicy=wcms_crop_resize&amp;cropH=699&amp;cropW=1242&amp;xPos=0&amp;yPos=892&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/27d9e2d8f215c0c38cbdca41101a3aba?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
       },
-      "description": "Robbery and Serious Crime Squad detectives have charged 26-year-old Humzah Khalid, previously known by his boxing name The Raging Bull, for his alleged involvement in four kidnappings over 10 months.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-07/nsw-ex-boxer-figure-charged-over-four-kidnappings/106887314"
+      "description": "Nine Entertainment retains the free-to-air rights to the National Rugby League through to 2034. Shares in WiseTech global are surging in early trade. \u00a0Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-07/asx-markets-business-live-news-jdate-year-july-7-2026-/106887200"
     },
     {
-      "published_datetime": "2026-07-06T22:40:04.000000Z",
-      "title": "Chinese nuclear capable missile appears to land close to Nauru, Tuvalu",
+      "published_datetime": "2026-07-06T20:16:00.000000Z",
+      "title": "Pam the Bird graffiti vandal detained after bridge standoff",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64e5a3962d8478b286413a9fe1f06ba7?impolicy=wcms_crop_resize&amp;cropH=1053&amp;cropW=1872&amp;xPos=258&amp;yPos=302&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4ba1f277499a9cf91d75bc7ef71c7546?impolicy=wcms_crop_resize&amp;cropH=1294&amp;cropW=2300&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The head of Taiwan's national security council says China is \"again\" proving to be the \"bully of the block\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-07/china-missile-nuclear-pacific-naura-tuvalu/106887324"
-    },
-    {
-      "published_datetime": "2026-07-06T20:14:17.000000Z",
-      "title": "Families told accused Bali bomber Hambali to face 202 life terms",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ad7e047b945850d289a2622db9e18914?impolicy=wcms_crop_resize&amp;cropH=894&amp;cropW=1590&amp;xPos=0&amp;yPos=168&amp;width=862&amp;height=485"
-      },
-      "description": "US military prosecutors reveal new details about their case against the man accused of planning the 2002 Bali bombings, telling the loved ones of Australian victims his trial could finally begin next year.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-07/bali-bombing-hambali-trial-could-go-ahead-in-2027/106887028"
-    },
-    {
-      "published_datetime": "2026-07-06T20:01:43.000000Z",
-      "title": "Trump and the European leaders he berated to come face-to-face in T\u00fcrkiye",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7b95976515b5cb37b3f28dbabf5b3d6f?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Dozens of world leaders are descending on T\u00fcrkiye this week to rubber-stamp significant NATO commitments, but the dynamics on the sidelines could prove more interesting to watch.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-07/bad-blood-between-us-and-european-allies-as-nato-summit-starts/106878792"
-    },
-    {
-      "published_datetime": "2026-07-06T18:46:39.000000Z",
-      "title": "One in every class: AI-assisted sexual abuse widespread among teens",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/58b2f31b44debab88ac12793f50e0c11?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=208&amp;width=862&amp;height=485"
-      },
-      "description": "About one in every 25 Australians under the age of 18 has been the victim or knows a victim of artificial intelligence-assisted online sexual abuse, according to a new study.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-07/1-in-25-children-targeted-with-ai-sexual-imagery/106878000"
-    },
-    {
-      "published_datetime": "2026-07-06T18:44:37.000000Z",
-      "title": "Donald Trump teaches crypto devotees a valuable lesson",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e847d56f57c2a3ab5c7b616be2aa664?impolicy=wcms_crop_resize&amp;cropH=1786&amp;cropW=3176&amp;xPos=0&amp;yPos=166&amp;width=862&amp;height=485"
-      },
-      "description": "US President Donald Trump should have been a godsend to the mysterious world of cryptocurrency. Instead, it has been a godsend to him.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-07/trump-teaches-crypto-devotees-valuable-lesson/106886386"
-    },
-    {
-      "published_datetime": "2026-07-06T18:30:00.000000Z",
-      "title": "'A lot of stigma': The 'taboo' cancer side effects we don't talk about",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c0bce16b5f67acb2d5a8f6e9b144d45?impolicy=wcms_crop_resize&amp;cropH=375&amp;cropW=667&amp;xPos=0&amp;yPos=267&amp;width=862&amp;height=485"
-      },
-      "description": "Shame and stigma mean gynaecological side effects from cancer treatment \u2014 affecting women's sexual, urinary and reproductive health \u2014 are under-reported and under-researched.",
-      "page_content_url": "https://www.abc.net.au/news/health/2026-07-07/taboo-gynaecological-side-effects-cancer-treatment/106870086"
-    },
-    {
-      "published_datetime": "2026-07-06T18:17:47.000000Z",
-      "title": "Live: Balogun starts for USA as FIFA stands by controversial ruling",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/33e5b07b42f0793a1b66b76638dce48c?impolicy=wcms_crop_resize&amp;cropH=2737&amp;cropW=4866&amp;xPos=0&amp;yPos=277&amp;width=862&amp;height=485"
-      },
-      "description": "Folarin Balogun will start for the US against Belgium, while Spain's Mikel Merino scores in injury time to snatch a 1-0 win over Portugal in a cagey affair in Dallas. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-07/world-cup-live-blog-portugal-vs-spain-usa-vs-belgium/106885332"
-    },
-    {
-      "published_datetime": "2026-07-06T13:04:22.000000Z",
-      "title": "Hamas to dissolve emergency government in Gaza",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0c2aafad94c36642d72e45461e71b0c3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=77&amp;width=862&amp;height=485"
-      },
-      "description": "Hamas officials announced the resignation of senior members of the government, but warned that some people would remain in senior positions in Gaza's administration to \"prevent any vacuum that could harm our citizens\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-06/hamas-dissolves-gaza-emergency-government-palestinian-committee/106886472"
+      "description": "A trespasser has been detained by police after spending many hours at the top of a 140- metre-high tower of the Bolte Bridge in Melbourne where he'd spray-painted the surface with the notorious graffiti symbol.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-07/pam-the-bird-bolte-bridge-police/106887056"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-07T00:15:08.630827"
+  "merged_at": "2026-07-07T03:24:55.408678"
 }
