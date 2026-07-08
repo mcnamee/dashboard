@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-08T13:59:40.000000Z",
+      "title": "Australians face record high rents as agents see 'inquiries flooding in'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/790bb43ff15e696b46595ec0fb75521a?impolicy=wcms_crop_resize&amp;cropH=1699&amp;cropW=3020&amp;xPos=0&amp;yPos=390&amp;width=862&amp;height=485"
+      },
+      "description": "Rents are soaring in several capital cities as low vacancy rates collide with rising interest rates and population growth.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-08/record-high-rents-across-capital-cities-led-by-sydney-domain/106890418"
+    },
+    {
       "published_datetime": "2026-07-08T09:30:03.000000Z",
       "title": "ABC rejects claims of antisemitic bias ahead of fronting royal commission",
       "featured_image": {
@@ -42,25 +51,16 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/91bb2b1e1ac5f5f215ae7119e96b3707?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Donald Trump says the ceasefire with Iran is over, calling Tehran \"sick\" after Washington launched strikes on the Islamic Republic and Iran said it targeted US bases in the Gulf.",
+      "description": "Donald Trump says the ceasefire with Iran is over, warning that the US would likely engage in additional strikes, following fresh attacks across the Gulf.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-08/trump-says-iran-us-ceasefire-over/106894644"
     },
     {
-      "published_datetime": "2026-07-08T08:09:03.000000Z",
-      "title": "How the Telstra outage impacted these Australians",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2edfdcb7269dfb18466781b363fd47cd?impolicy=wcms_crop_resize&amp;cropH=768&amp;cropW=1366&amp;xPos=0&amp;yPos=258&amp;width=862&amp;height=485"
-      },
-      "description": "Millions have potentially been impacted by the Telstra outage. Here's how it affected Australians doing basic everyday things, from making calls to measuring blood sugar levels.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-08/how-the-telstra-outage-impacted-australians/106892594"
-    },
-    {
       "published_datetime": "2026-07-08T07:59:36.000000Z",
-      "title": "Live: NSW create Origin history with Lang Park decider win over Queensland",
+      "title": "Cleary 'silences the critics' as NSW make Origin history with decider win",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/57d426f76f74af572d66d8c5e0483c2e?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=88&amp;width=862&amp;height=485"
       },
-      "description": "NSW has produced a historic performance to win the State of Origin series with a win over Queensland at Lang Park in Brisbane. Follow live.",
+      "description": "NSW has produced a historic performance to win the State of Origin series with a win over Queensland at Lang Park in Brisbane.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-08/state-of-origin-iii-decider-maroons-blues-lang-park/106866366"
     },
     {
@@ -82,13 +82,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-08/world-cup-quarterfinals-france-england-argentina-spain/106891448"
     },
     {
-      "published_datetime": "2026-07-08T04:24:27.000000Z",
-      "title": "Australian 'alien' arrested after ICE investigation, Trump says",
+      "published_datetime": "2026-06-09T18:51:56.000000Z",
+      "title": "Calling all budding storytellers living with disability",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d07d4134928adabc65465bbdc65e790e?impolicy=wcms_crop_resize&amp;cropH=217&amp;cropW=385&amp;xPos=0&amp;yPos=123&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a39adb99ccd2e1875206337a600a4c9f?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=155&amp;width=862&amp;height=485"
       },
-      "description": "An Australian woman has been arrested in the United States after an ICE investigation allegedly found she had illegally voted in multiple federal elections.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-08/australian-accused-of-illegally-voting-in-us-elections/106893092"
+      "description": "If you are an emerging content maker or journalist with disability and have a story to tell, now is your chance to work with the ABC to tell it.",
+      "page_content_url": "https://www.abc.net.au/news/2026-06-10/abc-looking-for-storytellers-for-idpwd-2026/106616092"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-08T12:14:15.388717"
+  "merged_at": "2026-07-08T15:10:00.464601"
 }
