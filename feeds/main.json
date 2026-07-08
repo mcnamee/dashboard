@@ -1,22 +1,31 @@
 {
   "items": [
     {
-      "published_datetime": "2026-07-07T21:39:56.000000Z",
-      "title": "Live: Telstra outage impacting trains, traffic lights and business payment services",
+      "published_datetime": "2026-07-08T01:13:54.000000Z",
+      "title": "Quick hits: Belgium trolls Trump as Egypt fires up over 'fixed' World Cup",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7a5bee1a56ddd8534b0f90b852f98d15?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6388cf1e269506aa08dbbf6ee1fa2724?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Some Telstra customers are reporting problems connecting to the internet and making calls this morning. Follow live.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-08/telstra-network-issues-internet-phones-live/106891206"
+      "description": "An all-time blow-up from Egypt's coach headlines the day at the World Cup, as the fallout from Belgium's win over the US continues. Here are today's quick hits.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-08/world-cup-quick-hits-egypt-belgium-usa-spain/106891098"
     },
     {
-      "published_datetime": "2026-07-07T21:11:18.000000Z",
-      "title": "Live: PM prepares to host leaders of three Pacific nations in Brisbane",
+      "published_datetime": "2026-07-07T22:30:53.000000Z",
+      "title": "Toddler waits seven hours for stitches during patient surge",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/63c832bd1712b0d94e7c76fb935b4ab9?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/751509579bec166293c4f7e754100ac5?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=298&amp;width=862&amp;height=485"
       },
-      "description": "The prime minister will host the leaders of PNG, Tonga and Samoa in Brisbane today for regional security talks after signing of the Ocean of Peace Alliance with Fiji. Follow live.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-08/federal-politics-live-blog-pm-pacific-leaders-visit/106891164"
+      "description": "A Central Victorian mother says she waited seven hours at Bendigo Health for her toddler to be treated for a head wound. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-08/bendigo-health-code-yellow-emergency-toddler-stitches/106887372"
+    },
+    {
+      "published_datetime": "2026-07-07T21:39:56.000000Z",
+      "title": "Live: Telstra CFO apologises for major network outage, says Australia can 'have faith' in biggest telco",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e1e028ed942b82c3b10f05685e5e2879?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+      },
+      "description": "Telstra says services have been mostly restored after its mobile network suffered a nationwide outage on Wednesday morning. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-08/telstra-network-issues-internet-phones-live/106891206"
     },
     {
       "published_datetime": "2026-07-07T20:45:28.000000Z",
@@ -73,17 +82,8 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-08/ms-drugs-could-be-pulled-from-pbs-pricing-stoush/106890154"
     },
     {
-      "published_datetime": "2026-07-07T15:17:30.000000Z",
-      "title": "Live: Messi leads incredible Argentina comeback before Swiss shootout delight",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/93541feb35ffe0849c75b1e0df6a112a?impolicy=wcms_crop_resize&amp;cropH=2175&amp;cropW=3867&amp;xPos=0&amp;yPos=170&amp;width=862&amp;height=485"
-      },
-      "description": "Lionel Messi guides Argentina to an incredible comeback win against Egypt, coming back from 2-0 down to steal a 3-2 win at the death, while Switzerland knocks Colombia out in a penalty shootout. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-08/world-cup-live-blog-argentina-vs-egypt-switzerland-vs-colombia/106889234"
-    },
-    {
       "published_datetime": "2026-07-07T14:13:11.000000Z",
-      "title": "Farage quits as an MP but vows to win 'circus' by-election",
+      "title": "Far-right UK political leader quits as MP, vows to recontest seat",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/02aaf3b987e505412c4ec6931e9d7037?impolicy=wcms_crop_resize&amp;cropH=526&amp;cropW=935&amp;xPos=181&amp;yPos=187&amp;width=862&amp;height=485"
       },
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-08T00:03:53.299732"
+  "merged_at": "2026-07-08T01:49:32.786986"
 }
