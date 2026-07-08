@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-08T21:14:17.000000Z",
+      "title": "Live: Hastie calls for 'third way' beyond multiculturalism and monoculturalism",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9f8aa74060349b66f7db014d3ccaed19?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Liberal frontbencher Andrew Hastie says the debate about monoculturalism and multiculturalism is \"woke\" and that Australia needs a \"third way\". Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-09/federal-politics-live-blog-hastie-730-july-9/106895300"
+    },
+    {
       "published_datetime": "2026-07-08T20:30:29.000000Z",
       "title": "Live: US military launches another wave of strikes on Iran",
       "featured_image": {
@@ -38,7 +47,7 @@
     },
     {
       "published_datetime": "2026-07-08T18:47:19.000000Z",
-      "title": "'Shouldn't occur': Change demanded after Telstra outage",
+      "title": "Reform demanded after Telstra becomes latest telco to suffer outage",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba821a10ba18852052a96834e052c4b5?impolicy=wcms_crop_resize&amp;cropH=2149&amp;cropW=3820&amp;xPos=74&amp;yPos=174&amp;width=862&amp;height=485"
       },
@@ -56,7 +65,7 @@
     },
     {
       "published_datetime": "2026-07-08T13:59:40.000000Z",
-      "title": "Australians face record high rents as agents see 'inquiries flooding in'",
+      "title": "Australians face record-high rents as agents see 'inquiries flooding in'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/790bb43ff15e696b46595ec0fb75521a?impolicy=wcms_crop_resize&amp;cropH=1699&amp;cropW=3020&amp;xPos=0&amp;yPos=390&amp;width=862&amp;height=485"
       },
@@ -73,22 +82,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-08/new-south-wales-state-of-origin-blues-cleary/106894772"
     },
     {
-      "published_datetime": "2026-07-08T09:03:56.000000Z",
-      "title": "'Twenty minutes or so': The blunt warning of China's nuclear capability",
+      "published_datetime": "2026-07-08T09:30:03.000000Z",
+      "title": "ABC rejects claims of antisemitic bias ahead of fronting royal commission",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/369ff74548d43d3f21422c782184b532?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7209fcd95606b781e568d02526d0ff6b?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
       },
-      "description": "Victor Gao, the vice-president of a major Chinese think tank, conducts some sabre-rattling in the wake of China's missile test in the Pacific.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-08/chinese-think-tank-vp-issues-warning-to-australia-victor-gao/106885330"
-    },
-    {
-      "published_datetime": "2026-07-08T08:09:03.000000Z",
-      "title": "Here's how the Telstra outage impacted these Australians",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2edfdcb7269dfb18466781b363fd47cd?impolicy=wcms_crop_resize&amp;cropH=768&amp;cropW=1366&amp;xPos=0&amp;yPos=258&amp;width=862&amp;height=485"
-      },
-      "description": "Millions have potentially been impacted by the Telstra outage. Here's how it affected Australians doing basic everyday things, from making calls to measuring blood sugar levels.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-08/how-the-telstra-outage-impacted-australians/106892594"
+      "description": "The ABC and SBS will face questioning over complaints of bias and antisemitism when executives appear at the royal commission on Thursday.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-08/bondi-antisemitism-social-cohesion-royal-commission-abc/106894204"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-08T20:57:14.245034"
+  "merged_at": "2026-07-08T22:01:36.045568"
 }
