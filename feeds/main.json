@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-09T22:29:12.000000Z",
+      "title": "Trump tariff fight resumes as Australia tells US it has no evidence",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a95cc57768e812ad7ddee14c4317d21?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The Australian embassy in Washington lodges an objection to the Trump administration's proposal for a 12.5 per cent tariff on Australian imports.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/australia-objects-to-trump-administration-slavery-tariff-plan/106900254"
+    },
+    {
       "published_datetime": "2026-07-09T21:07:59.000000Z",
       "title": "Live: Hanson says Taylor should stop 'denigrating' One Nation",
       "featured_image": {
@@ -26,15 +35,6 @@
       },
       "description": "Not only is the war not over, it is once again at a dangerous inflection point, as the US and Iran revert to military options to deal with differences over their interim peace agreement.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-10/us-iran-war-again-at-dangerous-point/106899924"
-    },
-    {
-      "published_datetime": "2026-07-09T19:25:30.000000Z",
-      "title": "Live: France's superstars step up to beat Morocco and reach World Cup semis",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f7ee20a433db5c02673615287fb00b9c?impolicy=wcms_crop_resize&amp;cropH=1459&amp;cropW=2593&amp;xPos=68&amp;yPos=68&amp;width=862&amp;height=485"
-      },
-      "description": "Kylian Mbapp\u00e9 and Ousmane Demb\u00e9l\u00e9 deliver France a comprehensive 2-0 win over Morocco to send Les Bleus into the World Cup semifinals. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/world-cup-france-vs-morocco-quarterfinal-live-blog/106898962"
     },
     {
       "published_datetime": "2026-07-09T19:07:45.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-09T22:13:49.467176"
+  "merged_at": "2026-07-09T23:58:09.576154"
 }
