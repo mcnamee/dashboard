@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-10T23:03:28.000000Z",
+      "title": "Quick hits: Spain's new clutch king and a Colombian death threat scare",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/100ef5c8d723d3a2604cf04f17a55cb4?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Spain's new clutch king saves the day, a record-breaking streak is finally broken and a Colombian midfielder receives death threats. Here are today's World Cup quick hits.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-11/world-cup-quick-hits-mikel-merino-unai-simon-norway-death-threat/106904628"
+    },
+    {
       "published_datetime": "2026-07-10T21:41:26.000000Z",
       "title": "H5 bird flu poses risk to wildlife haven behind tale of 'Storm Boy'",
       "featured_image": {
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-07-10T21:31:40.000000Z",
-      "title": "What inquiry revealed about social media giants and online 'Jew hatred'",
+      "title": "'Key perpetrator' of spreading antisemitism draws ire of royal commission",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4c6e4a82c6f4d46443d7bfc7a3d75846?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -71,15 +80,6 @@
       },
       "description": "More than 1,200 customers who bought electric and hybrid cars from Chinese maker BYD will be offered a full refund after the company admitted to selling them vehicles from the wrong year.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-11/byd-offers-full-refunds-after-customers-given-wrong-car/106891590"
-    },
-    {
-      "published_datetime": "2026-07-10T18:28:53.000000Z",
-      "title": "Live: Spain strikes late to seal semi berth after Belgium keeper howler",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7460c9b05db9fbb737dc7cca01223e0e?impolicy=wcms_crop_resize&amp;cropH=1266&amp;cropW=2251&amp;xPos=126&amp;yPos=409&amp;width=862&amp;height=485"
-      },
-      "description": "Spain will face France in a World Cup semifinal after beating Belgium 2-1 thanks to a late Mikel Merino goal. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-11/spain-vs-belgium-world-cup-quarterfinal-live-blog/106900918"
     },
     {
       "published_datetime": "2026-07-10T15:50:53.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-10T22:51:45.536283"
+  "merged_at": "2026-07-10T23:49:38.490981"
 }
