@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-10T02:42:12.000000Z",
+      "title": "Police find human remains during search for missing teen",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/607e01dd3cac4a52f431e8f968a22f89?impolicy=wcms_crop_resize&amp;cropH=514&amp;cropW=913&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
+      },
+      "description": "Detectives are investigating after human remains were found during a search for a missing teenage girl in Victoria's west. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/police-find-remains-in-search-for-missing-teen-donald-victoria/106901124"
+    },
+    {
       "published_datetime": "2026-07-10T01:50:40.000000Z",
-      "title": "Telstra returning CEO Vicki Brady 'deeply sorry' for national outage",
+      "title": "Telstra's returning CEO Vicki Brady 'deeply sorry' for national outage",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5b4a0eb20036b978f8e7d089d2f37842?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -10,31 +19,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-10/telstra-ceo-vicki-brady-sorry-outage-investigations-ongoing/106901388"
     },
     {
-      "published_datetime": "2026-07-09T17:18:16.000000Z",
-      "title": "Iran targets US military sites in Gulf as Israel warns it could 'strike again'",
+      "published_datetime": "2026-07-10T02:23:43.000000Z",
+      "title": "First native bird found with H5 bird flu, marking 'devastating' new reality",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8e112c14ed8e7f7956903099ae8e4c32?impolicy=wcms_crop_resize&amp;cropH=906&amp;cropW=1610&amp;xPos=0&amp;yPos=982&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/337c0d29e4571a3184ffa326299e2ac4?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=144&amp;width=862&amp;height=485"
       },
-      "description": "Iranian armed forces launched reciprocal attacks on US military infrastructure in Gulf states following US strikes on Iran's south and east regions, straining a three-week-old ceasefire.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/iran-us-trade-strikes-/106899742"
+      "description": "CSIRO lab testing has confirmed the detection of H5 bird flu in a greater crested tern — the first time the strain has been detected in an Australian seabird, after previous confirmed cases involved migratory birds from the sub-Antarctic region.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/h5-bird-flu-strain-detected-in-australian-seabird-for-first-time/106901626"
     },
     {
-      "published_datetime": "2026-07-09T19:26:33.000000Z",
-      "title": "Not only is the war not over, it is at a dangerous inflection point",
+      "published_datetime": "2026-07-10T06:18:17.000000Z",
+      "title": "Derryn Hinch remembered as courageous but provocative crusader for justice",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d4eb0faae5efa061784aacb695298729?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f29c462854e0a4ce9f691a38883c3f5?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=40&amp;width=862&amp;height=485"
       },
-      "description": "Not only is the war not over, it is once again at a dangerous inflection point, as the US and Iran revert to military options to deal with differences over their interim peace agreement. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/us-iran-war-again-at-dangerous-point/106899924"
-    },
-    {
-      "published_datetime": "2026-07-09T22:29:12.000000Z",
-      "title": "Trump tariff fight resumes as Australia tells US it has no evidence",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a95cc57768e812ad7ddee14c4317d21?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The Australian embassy in Washington lodges an objection to the Trump administration's proposal for a 12.5 per cent tariff on Australian imports.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/australia-objects-to-trump-administration-slavery-tariff-plan/106900254"
+      "description": "Media identity Derryn Hinch is being remembered as a provocative but courageous journalist who was ahead of his time in his fight against institutional sex abuse.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/tributes-for-derryn-hinch-after-his-death/106902058"
     },
     {
       "published_datetime": "2026-07-10T02:24:10.000000Z",
@@ -42,53 +42,71 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6afa5e6966fb1fd4037f7afed6ca9df7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=197&amp;width=862&amp;height=485"
       },
-      "description": "Social media giants, including Elon Musk's X Corp, have come under fire with the royal commission on antisemitism expressing frustration at platforms' refusal to engage.",
+      "description": "Social media giants, including Elon Musk's X Corp, have come under fire with the royal commission on antisemitism expressing frustration at platforms' refusal to engage. ",
       "page_content_url": "https://www.abc.net.au/news/2026-07-10/bondi-antisemitism-social-cohesion-royal-commission-social-media/106901078"
     },
     {
-      "published_datetime": "2026-07-09T21:39:06.000000Z",
-      "title": "Live: CBA accused of hiding reasons for hundreds of job cuts",
+      "published_datetime": "2026-07-10T05:57:57.000000Z",
+      "title": "Australia's huntsman fastest spider on record, new study suggests",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b512df25e8500ed7a6655e772dc67b08?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/af7b928afb519bdd327875839be41e05?impolicy=wcms_crop_resize&amp;cropH=1151&amp;cropW=2047&amp;xPos=0&amp;yPos=409&amp;width=862&amp;height=485"
       },
-      "description": "The nation's biggest bank, CBA, has been accused by the finance union of hiding the reason behind hundreds of job cuts. Follow the day's events and insights from our business reporters on the ABC News live markets blog. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/asx-markets-business-live-news-10-july-2026/106900270"
+      "description": "A species of huntsman spider found in Queensland is the fastest mover out of more than 250 spider species analysed in a new study.",
+      "page_content_url": "https://www.abc.net.au/news/science/2026-07-10/huntsman-speed-study-science-fastest/106900894"
     },
     {
-      "published_datetime": "2026-07-09T20:43:44.000000Z",
-      "title": "The meteorite at the centre of a 'culture war' between the UK and Australia",
+      "published_datetime": "2026-07-10T01:27:34.000000Z",
+      "title": "Eight charged over alleged plot to kill Trump, Musk and Netanyahu at UFC fight",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e10dde31d4957c97a1222fc926206bf?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ede456a116248330d6b8d09f212259b8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "The fight to claim a 3.5-tonne space rock didn't just kickstart a publicity battle that divided an empire — it also left a gaping hole in culture. Centuries on, the question remains: Who owned it?",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/cranbourne-meteorite-kuunhdurt-laang-natural-history-museum/106828130"
+      "description": "Eight men have been accused of planning a drone and shooting attack that aimed to kill the US president and SpaceX founder at the UFC Freedom 250 event held at the White House in June.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/eight-men-charged-over-alleged-ufc-white-house-terror-plot/106900688"
     },
     {
-      "published_datetime": "2026-07-09T21:07:59.000000Z",
-      "title": "Live: Hanson doubles down on call for Coalition to work with One Nation",
+      "published_datetime": "2026-07-10T04:59:11.000000Z",
+      "title": "Australian woman accused of illegally voting in US faces jury trial",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c32130af2a4f82a9ab1ed4daaac2aa5f?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d07d4134928adabc65465bbdc65e790e?impolicy=wcms_crop_resize&amp;cropH=217&amp;cropW=385&amp;xPos=0&amp;yPos=123&amp;width=862&amp;height=485"
       },
-      "description": "Pauline Hanson has doubled down on calls for the Coalition to work with One Nation. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/federal-politics-live-blog-july-10/106900086"
+      "description": "A Sydney woman will face trial in the US state of Louisiana after being accused of falsely claiming to be a US citizen and voting illegally in two federal elections.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/australian-charged-with-illegal-us-voting-faces-jury-trial/106901330"
     },
     {
-      "published_datetime": "2026-07-10T02:23:43.000000Z",
-      "title": "Breaking: H5 bird flu strain detected in Australian seabird for first time",
+      "published_datetime": "2026-07-10T05:59:42.000000Z",
+      "title": "Economist Justin Wolfers on the 'absurdity' of Trump's America",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c3aa27ee462a56064b25343d579446b2?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6a198f972c47e7b7e253b3943dafa734?impolicy=wcms_crop_resize&amp;cropH=1875&amp;cropW=3333&amp;xPos=0&amp;yPos=785&amp;width=862&amp;height=485"
       },
-      "description": "Agriculture Minister Julie Collins says CSIRO lab testing has confirmed the deadly strain in a greater crested tern found in South Australia's Limestone Coast.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/h5-bird-flu-strain-detected-in-australian-seabird-for-first-time/106901626"
+      "description": "Former Reserve Bank economist Justin Wolfers says Australia urgently needs to consider the role of money in its politics while examining how US President Donald Trump profits from his position. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/economist-justin-wolfers-on-trump-america/106901422"
     },
     {
-      "published_datetime": "2026-07-09T19:28:40.000000Z",
-      "title": "As a pup, authorities saved Neil the seal from drowning. Now, he's here to stay",
+      "published_datetime": "2026-07-10T04:46:25.000000Z",
+      "title": "Australian-first CO2-powered battery planned for coal town",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/427819a6376267230037ce4429a31cb0?impolicy=wcms_crop_resize&amp;cropH=265&amp;cropW=472&amp;xPos=0&amp;yPos=115&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/df13aebe157c40c5b5a48f1fc2cfafac?impolicy=wcms_crop_resize&amp;cropH=2542&amp;cropW=4519&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Neil the seal has left his resting spot in Tasmania, leaving behind a wildly popular social media catalogue of bollard-bashing, fence-crushing videos.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/neil-seal-tasmania-joy-worldwide-social-media/106892670"
+      "description": "The Victorian government unveils a plan to build a compressed CO2 battery storage system in the heart of the state's coal country.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/victorian-government-co2-battery-gippsland/106756218"
+    },
+    {
+      "published_datetime": "2026-07-09T19:26:33.000000Z",
+      "title": "Not only is the Iran war not over, it is at a dangerous inflection point",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d4eb0faae5efa061784aacb695298729?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Not only is the war not over, it is once again at a dangerous inflection point, as the US and Iran revert to military options to deal with differences over their interim peace agreement. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/us-iran-war-again-at-dangerous-point/106899924"
+    },
+    {
+      "published_datetime": "2026-07-10T06:15:02.000000Z",
+      "title": "This Place: Boonoo Moodla",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7ff32fc4912afee6b7576a46eb88db19?impolicy=wcms_crop_resize&amp;cropH=608&amp;cropW=1080&amp;xPos=0&amp;yPos=85&amp;width=862&amp;height=485"
+      },
+      "description": "Boonoo Moodla, Billy Lights Point, has been a place of gathering and fishing for the Barngarla people for thousands of years. As part of NAIDOC Week the ABC is looking at Indigenous peoples' connection to country, and what makes it so special. NAIDOC Week is marking 50 years of Deadly and runs from July 5 until July 12.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/this-place-boonoo-moodla/106870360"
     },
     {
       "published_datetime": "2026-07-10T00:42:05.000000Z",
@@ -100,44 +118,26 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-10/nsw-police-infiltrate-underworld-app/106900648"
     },
     {
-      "published_datetime": "2026-07-10T01:27:34.000000Z",
-      "title": "Inside the alleged plot to kill Trump and Musk at UFC White House event",
+      "published_datetime": "2026-07-10T04:49:33.000000Z",
+      "title": "Australia's most played song on radio this week draws AI criticisms",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ede456a116248330d6b8d09f212259b8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1f0514394303ef278915276d8b3d9a84?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=127&amp;width=862&amp;height=485"
       },
-      "description": "Eight men have been accused of planning a drone and shooting attack that aimed to kill the US president and SpaceX founder at the UFC Freedom 250 event held at the White House in June.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/eight-men-charged-over-alleged-ufc-white-house-terror-plot/106900688"
+      "description": "A cover of the Madonna hit Like a Prayer is at the top of the charts but criticisms have been levied at the artist behind the cover, Josh Fawaz, over his suspected use of artificial intelligence.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/most-played-song-in-australia-draws-ai-criticisms/106900858"
     },
     {
-      "published_datetime": "2026-07-09T23:22:28.000000Z",
-      "title": "Quick hits: It's the Mbappé show again, as England defender cops ban",
+      "published_datetime": "2026-07-10T03:13:08.000000Z",
+      "title": "The Rolling Stones prove 'This never gets old!' with new album",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/be1779797684342dbd480ce880a69566?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/922fe65e790e184b6e10a28bf6f3045e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=114&amp;width=862&amp;height=485"
       },
-      "description": "An England defender pays the price for a terrible red-card tackle, and it's the Mbappé show in Boston as France advances. Here are today's quick hits.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/world-cup-quick-hits-france-morocco/106900024"
-    },
-    {
-      "published_datetime": "2026-07-09T18:57:52.000000Z",
-      "title": "'Leave him to me': Man dressed as bin challenges Nigel Farage",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d97779386cb31a9aa599df355c074c64?impolicy=wcms_crop_resize&amp;cropH=489&amp;cropW=870&amp;xPos=0&amp;yPos=19&amp;width=862&amp;height=485"
-      },
-      "description": "Nigel Farage is facing intensifying scrutiny over his finances and millions of dollars' worth of donations. Here's how he got here.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/nigel-farage-resigns-triggers-byelection-and-faces-count-binface/106896344"
-    },
-    {
-      "published_datetime": "2026-07-09T18:30:00.000000Z",
-      "title": "These are the best new TV shows of 2026 so far",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/635674252a70823aee0d92a0827b1250?impolicy=wcms_crop_resize&amp;cropH=2065&amp;cropW=3671&amp;xPos=84&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A mountain of TV has landed in 2026 and we've sifted through it all to deliver you the ones worth your time (or at least a binge-watch).",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/best-tv-shows-of-2026-so-far-widows-bay-tip-toe/106892122"
+      "description": "On album #25, Foreign Tongues, rock's elder statesmen once again dismantle concerns whether men in their eighties can still make great records.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/the-rolling-stones-foreign-tongues-album-review-mick-jagger/106901680"
     },
     {
       "published_datetime": "2026-07-10T02:07:25.000000Z",
-      "title": "How to choose the right potato for any meal you're cooking",
+      "title": "A guide to choosing the right potato for any meal you're making",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e8c9fae32f61a4fd104778f018a38563?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=1167&amp;width=862&amp;height=485"
       },
@@ -145,85 +145,85 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-10/why-potatoes-can-be-the-star-of-the-show-and-what-types-to-use/106897896"
     },
     {
-      "published_datetime": "2026-07-09T18:30:00.000000Z",
-      "title": "Friday news quiz: Red cards, ballistic missiles and Pam the Bird",
+      "published_datetime": "2026-07-10T05:00:00.000000Z",
+      "title": "The lowdown on lush native lawns that only need mowing once a year",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/321b975698fb01c495d6cfde21554a31?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/455ca8cbba6251ab3dd944ffae78246a?impolicy=wcms_crop_resize&amp;cropH=962&amp;cropW=1711&amp;xPos=0&amp;yPos=7&amp;width=862&amp;height=485"
       },
-      "description": "It's been a week of missile testing, Telstra outages and FIFA World Cup red card interventions. Were you paying attention?",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/news-quiz-july-10/106894610"
+      "description": "If mowing the lawn is getting you down, it might be time to ditch your exotic buffalo, couch or kikuyu grass and switch to a native alternative. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/native-grasses-for-waterwise-low-maintenance-lawns-and-gardens/106892208"
     },
     {
-      "published_datetime": "2026-07-10T01:58:01.000000Z",
-      "title": "Looking back at Bonnie Tyler's impact on pop culture",
+      "published_datetime": "2026-07-10T03:50:01.000000Z",
+      "title": "Cattle farmer plants 14,000 trees to help slow flow of flood water",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c0a698fa325659ace95f2761e769a177?impolicy=wcms_crop_resize&amp;cropH=596&amp;cropW=1060&amp;xPos=0&amp;yPos=41&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e771e595a11b0f232f13720f04dff439?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
       },
-      "description": "Tyler's music continuously found newer, younger audiences thanks to it soundtracking memorable scenes in movies throughout the decades.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/bonnie-tyler-shrek-2-hero-heartache-total-eclipse-of-the-heart/106900116"
-    },
-    {
-      "published_datetime": "2026-07-09T19:07:45.000000Z",
-      "title": "PM to unveil AI agenda as government seeks to calm copyright concerns",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aa324ca350cc50124c9da05606cc286f?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "A draft document, seen by ABC, reveals AI, gambling and the Middle East are expected to feature heavily in Labor's upcoming national conference debate.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/ai-gambling-middle-east-central-to-labor-conference-agenda/106898432"
-    },
-    {
-      "published_datetime": "2026-07-09T21:23:19.000000Z",
-      "title": "Workers' pay has not kept pace with productivity growth in 30 years",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/24ea05d3e54be1e980a9e0ed22168d44?impolicy=wcms_crop_resize&amp;cropH=763&amp;cropW=1358&amp;xPos=0&amp;yPos=73&amp;width=862&amp;height=485"
-      },
-      "description": "Research suggests that the typical worker's pay has not kept pace with productivity growth in Australia for 30 years. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/workers-pay-not-keeping-pace-with-productivity-growth-cpd/106897576"
-    },
-    {
-      "published_datetime": "2026-07-09T14:03:57.000000Z",
-      "title": "Modi tells Melbourne crowd India aspires to 'grow more, achieve more'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ac6c7617b80519b6ed4d6adfa745afa9?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "More than 20,000 people have given a rapturous welcome to Narendra Modi at Melbourne's Docklands Stadium as Anthony Albanese heaps praise on Australia's Indian diaspora.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/modi-addresses-thousands-in-melbourne/106899120"
-    },
-    {
-      "published_datetime": "2026-07-09T19:00:27.000000Z",
-      "title": "How China's military goals in the Pacific are rapidly progressing",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64e5a3962d8478b286413a9fe1f06ba7?impolicy=wcms_crop_resize&amp;cropH=1053&amp;cropW=1872&amp;xPos=258&amp;yPos=302&amp;width=862&amp;height=485"
-      },
-      "description": "China's firing of a dummy warhead was the first time in two years it tested its long-range missile arsenal — and the first time ever it had launched such a rocket from a nuclear-powered submarine.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/beijing-accelerated-military-movements/106892012"
-    },
-    {
-      "published_datetime": "2026-07-09T19:04:18.000000Z",
-      "title": "Girls married off as a climate change 'coping strategy'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6aa37213d6d9c94ba3f69dadd0a72f99?impolicy=wcms_crop_resize&amp;cropH=2025&amp;cropW=3600&amp;xPos=0&amp;yPos=188&amp;width=862&amp;height=485"
-      },
-      "description": "Climate change is now believed to be a leading contributor to more frequent and younger nuptials, with 12 million girls tipped to become child brides this year.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/climate-change-leading-to-more-child-marriages-advocates-say/106766756"
-    },
-    {
-      "published_datetime": "2026-07-09T23:00:08.000000Z",
-      "title": "Wildlife carers fronting WA's bird flu response left feeling let down",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/14732f217b7cf367e043b0c72e121a9e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "WA wildlife carers say the state government has forgotten them as PPE supplies and veterinary resources run dangerously low.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/wildlife-carers-call-for-ppe-h5-bird-flu/106875660"
+      "description": "Jeff Imeson has planted around 14,000 trees on his property near Nimbin in a bid to help slow the flow of future floods.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/nature-based-solutions-flooding/106844226"
     },
     {
       "published_datetime": "2026-07-09T23:39:38.000000Z",
-      "title": "Cancelled musician loses fight against orchestra over political beliefs",
+      "title": "Musician loses discrimination fight against orchestra over Gaza comments",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8df7e6d74283a84575afdb1e7546b22c?impolicy=wcms_crop_resize&amp;cropH=2183&amp;cropW=3881&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "The unlawful discrimination case brought by Jayson Gillham against the Melbourne Symphony Orchestra sprung from the orchestra's decision to cancel his scheduled performance over comments he made about Gaza.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-10/jayson-gillham-melbourne-symphony-orchestra-mso-verdict/106898876"
+    },
+    {
+      "published_datetime": "2026-07-10T06:01:30.000000Z",
+      "title": "Regulator closes 45 family day care residences across Melbourne",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c00a6e0d4c67b61ccf1d68db5213ee1?impolicy=wcms_crop_resize&amp;cropH=876&amp;cropW=1558&amp;xPos=0&amp;yPos=82&amp;width=862&amp;height=485"
+      },
+      "description": "For the first time, Victoria's Early Childhood Regulatory Authority has used its powers to suspend a childcare operator, closing 45 family day care residences across Melbourne.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/childcare-regulator-suspends-gabow-family-day-care/106902652"
+    },
+    {
+      "published_datetime": "2026-07-10T03:53:21.000000Z",
+      "title": "Brisbane Airport flight paths altered following noise review",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/181f698d0cb3ce54fe9d32d8d43f291c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=462&amp;width=862&amp;height=485"
+      },
+      "description": "People living in areas such as Redcliffe, southern Moreton Bay, Bribie Island and Logan are set to benefit the most, but there will be no change to the flight path over Bulimba.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/brisbane-airport-flight-paths-changed-aircraft-noise/106900096"
+    },
+    {
+      "published_datetime": "2026-07-10T00:40:45.000000Z",
+      "title": "Traditional owners say Noongar settlement ignores their rights",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/409692ec7badc2465ccca646f75d84e6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Traditional owners from WA's Wheatbelt say a historic native title settlement has increased division among Noongar groups. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/traditional-owner-dispute-wa-wheatbelt/106876318"
+    },
+    {
+      "published_datetime": "2026-07-09T20:43:44.000000Z",
+      "title": "The meteorite at the centre of a 'culture war' between the UK and Australia",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e10dde31d4957c97a1222fc926206bf?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The fight to claim a 3.5-tonne space rock didn't just kickstart a publicity battle that divided an empire — it also left a gaping hole in culture. Centuries on, the question remains: Who owned it?",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/cranbourne-meteorite-kuunhdurt-laang-natural-history-museum/106828130"
+    },
+    {
+      "published_datetime": "2026-07-09T18:57:52.000000Z",
+      "title": "The 'stunt' that could cost UK far right leader Nigel Farage his political career",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/08d54616ec2d05edbcccf611b6b3a4e8?impolicy=wcms_crop_resize&amp;cropH=2757&amp;cropW=4901&amp;xPos=0&amp;yPos=35&amp;width=862&amp;height=485"
+      },
+      "description": "Nigel Farage is facing intensifying scrutiny over his finances and millions of dollars' worth of donations. Here's how he got here.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/nigel-farage-resigns-triggers-byelection-and-faces-count-binface/106896344"
+    },
+    {
+      "published_datetime": "2026-07-10T03:28:17.000000Z",
+      "title": "Charlie Kirk's family requests evidence against accused killer be released",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4673d5996c8363e78be27acc20618108?impolicy=wcms_crop_resize&amp;cropH=1575&amp;cropW=2800&amp;xPos=0&amp;yPos=108&amp;width=862&amp;height=485"
+      },
+      "description": "The family of conservative activist Charlie Kirk has pleaded with a judge to allow more public access to evidence presented against the man accused of the assassination.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-10/charlie-erika-kirk-hearing-evidence-tyler-robinson/106901454"
     }
   ]
 }
