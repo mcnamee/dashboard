@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-10T17:33:20.000000Z",
+      "title": "Zverev ends British wildcard Fery's Wimbledon dream to power into final",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5941e8fa895b29fd182b25db907e07bf?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=266&amp;width=862&amp;height=485"
+      },
+      "description": "Alexander Zverev will now face reigning champion Jannik Sinner.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-11/zverev-fery-wimbledon/106904516"
+    },
+    {
+      "published_datetime": "2026-07-10T16:55:19.000000Z",
+      "title": "Trump flags more US-Iran talks but maintains ceasefire is 'over'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98f4fadd659b3e132db1a608442ce46c?impolicy=wcms_crop_resize&amp;cropH=1528&amp;cropW=2716&amp;xPos=0&amp;yPos=142&amp;width=862&amp;height=485"
+      },
+      "description": "Qatari negotiators meet officials in Iran to seek to de-escalate tensions as Donald Trump says the US has agreed to Iran's request to continue talks.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-11/trump-flags-us-iran-talks-but-says-ceasefire-is-over/106904360"
+    },
+    {
       "published_datetime": "2026-07-10T15:50:53.000000Z",
-      "title": "UK police launch murder investigation after death of former minister",
+      "title": "Man arrested after murder of British former minister Ann Widdecombe",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/100437a5b1c6ddfb1c83e6c330adb00c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
       },
@@ -37,15 +55,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-10/china-first-retrieval-of-orbital-class-rocket/106903708"
     },
     {
-      "published_datetime": "2026-07-10T08:42:38.000000Z",
-      "title": "Pies win a thriller against Kangaroos as veteran faces MRO scrutiny",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/481403260442a462fff94476c3f43693?impolicy=wcms_crop_resize&amp;cropH=2763&amp;cropW=4912&amp;xPos=0&amp;yPos=5&amp;width=862&amp;height=485"
-      },
-      "description": "Collingwood wins a thriller against North Melbourne after a last ditch kick from the Roos hits the turf.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/afl-rd-18-live-magpies-kangaroos/106892258"
-    },
-    {
       "published_datetime": "2026-07-10T06:18:17.000000Z",
       "title": "Derryn Hinch remembered as 'tough old bugger', 'crusader for justice'",
       "featured_image": {
@@ -53,15 +62,6 @@
       },
       "description": "Media identity Derryn Hinch is being remembered as a provocative but courageous journalist who was ahead of his time in his fight against institutional sex abuse.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-10/tributes-for-derryn-hinch-after-his-death/106902058"
-    },
-    {
-      "published_datetime": "2026-07-10T05:59:42.000000Z",
-      "title": "Economist Justin Wolfers on the 'absurdity' of Trump's America",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6a198f972c47e7b7e253b3943dafa734?impolicy=wcms_crop_resize&amp;cropH=1875&amp;cropW=3333&amp;xPos=0&amp;yPos=785&amp;width=862&amp;height=485"
-      },
-      "description": "Former Reserve Bank economist Justin Wolfers says Australia urgently needs to consider the role of money in its politics while examining how US President Donald Trump profits from his position.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-10/economist-justin-wolfers-on-trump-america/106901422"
     },
     {
       "published_datetime": "2026-07-10T02:42:12.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-10T17:51:12.539239"
+  "merged_at": "2026-07-10T18:17:03.435798"
 }
