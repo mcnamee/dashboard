@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-10T21:41:26.000000Z",
+      "title": "H5 bird flu poses risk to wildlife haven behind tale of 'Storm Boy'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d0357010341bacf8f0b4d80d9147d4d1?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "South Australia's Coorong is a sanctuary for birds and marine life but it is increasingly under threat with the arrival of bird flu in Australia the latest in a rolling barrage of crises.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-11/bird-flu-arrival-in-australia-poses-risk-to-sa-coorong/106896058"
+    },
+    {
       "published_datetime": "2026-07-10T21:31:40.000000Z",
       "title": "What inquiry revealed about social media giants and online 'Jew hatred'",
       "featured_image": {
@@ -71,15 +80,6 @@
       },
       "description": "Spain will face France in a World Cup semifinal after beating Belgium 2-1 thanks to a late Mikel Merino goal. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-11/spain-vs-belgium-world-cup-quarterfinal-live-blog/106900918"
-    },
-    {
-      "published_datetime": "2026-07-10T18:18:24.000000Z",
-      "title": "King and Queen host Harry, Meghan and children at private residence",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c7c3899f2ce11c484db8545131430619?impolicy=wcms_crop_resize&amp;cropH=780&amp;cropW=1387&amp;xPos=0&amp;yPos=39&amp;width=862&amp;height=485"
-      },
-      "description": "The royal couple hosted the duke and duchess and their children Archie and Lilibet at a country retreat.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-11/king-and-queen-host-harry-meghan-and-children/106904528"
     },
     {
       "published_datetime": "2026-07-10T15:50:53.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-10T21:52:05.301580"
+  "merged_at": "2026-07-10T22:51:45.536283"
 }
