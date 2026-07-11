@@ -29,7 +29,7 @@
     },
     {
       "published_datetime": "2026-07-10T19:28:16.000000Z",
-      "title": "The World Cup just had one of its hottest matches",
+      "title": "World Cup contends with heat in test case for sport",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/23320ddac5b87a9d1d4572802a41c33c?impolicy=wcms_crop_resize&amp;cropH=1425&amp;cropW=2534&amp;xPos=0&amp;yPos=129&amp;width=862&amp;height=485"
       },
@@ -65,15 +65,6 @@
     },
     {
       "published_datetime": "2026-07-10T18:43:17.000000Z",
-      "title": "Australian scientist ignites war over the world's longest lives",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f9a34760322841dc1885df48f06e9d9f?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=100&amp;width=862&amp;height=485"
-      },
-      "description": "When an Australian academic began questioning the science behind \"Blue Zones\", he sparked a bitter battle in the field of\u00a0longevity research.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-11/battle-for-the-blue-zones-longevity-science-newman-buettner/106846524"
-    },
-    {
-      "published_datetime": "2026-07-10T18:43:17.000000Z",
       "title": "Car maker admits selling wrong year vehicles to 1,200 people",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/67555c4f956786dbd632099436963b6e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485"
@@ -82,8 +73,17 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-11/byd-offers-full-refunds-after-customers-given-wrong-car/106891590"
     },
     {
+      "published_datetime": "2026-07-10T18:43:17.000000Z",
+      "title": "Australian scientist ignites war over the world's longest lives",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bf75014a32d1f31bc19831b3f9834cf5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=97&amp;width=862&amp;height=485"
+      },
+      "description": "When an Australian academic began questioning the science behind \"Blue Zones\", he sparked a bitter battle in the field of\u00a0longevity research.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-11/battle-for-the-blue-zones-longevity-science-newman-buettner/106846524"
+    },
+    {
       "published_datetime": "2026-07-10T15:50:53.000000Z",
-      "title": "British ex-minister allegedly murdered",
+      "title": "Man under arrest in UK after suspected murder of ex-MP Ann Widdecombe",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/100437a5b1c6ddfb1c83e6c330adb00c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
       },
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-10T23:49:38.490981"
+  "merged_at": "2026-07-11T01:48:05.949032"
 }
