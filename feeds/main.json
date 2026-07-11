@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-11T22:53:55.000000Z",
+      "title": "Breaking: UK police arrest 28-year-old man in Ann Widdecombe murder case",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/100437a5b1c6ddfb1c83e6c330adb00c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+      },
+      "description": "Police previously arrested, then later released, a 26-year-old man in relation to the alleged murder, after Ann Widdecombe's body was found in her residence on Thursday.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-12/man-arrested-ann-widdecombe-murder-investigation/106906592"
+    },
+    {
       "published_datetime": "2026-07-11T22:03:19.000000Z",
       "title": "Man charged with the murder of missing mum Jana Armstrong after body found",
       "featured_image": {
@@ -19,19 +28,10 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-12/png-rugby-league-diplomacy-in-pacific/106902162"
     },
     {
-      "published_datetime": "2026-07-11T20:39:40.000000Z",
-      "title": "South African World Cup player dies aged 25",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ef61607bc04471e9cf6e97d317be3df?impolicy=wcms_crop_resize&amp;cropH=1837&amp;cropW=3266&amp;xPos=734&amp;yPos=213&amp;width=862&amp;height=485"
-      },
-      "description": "Jayden Adams, who made three appearances for South Africa at the World Cup, has died aged 25.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-12/south-africa-world-cup-player-jayden-adams-dies/106906444"
-    },
-    {
       "published_datetime": "2026-07-11T20:26:10.000000Z",
-      "title": "Live: England fights back after Norway opens the scoring against the run of play",
+      "title": "Live: England takes extra time lead but controversially denied penalty by VAR",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8a1dc6633f639e144e4a9378468c2058?impolicy=wcms_crop_resize&amp;cropH=1371&amp;cropW=2437&amp;xPos=975&amp;yPos=210&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/71c5034d18a14d79192493ae54e63844?impolicy=wcms_crop_resize&amp;cropH=2787&amp;cropW=4954&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Two of the world's premier strikers meet in Miami, as England and Norway vie to become the third team to reach the World Cup semifinals. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-12/world-cup-live-blog-england-norway-argentina-switzerland/106904750"
@@ -56,21 +56,21 @@
     },
     {
       "published_datetime": "2026-07-11T18:45:48.000000Z",
-      "title": "As Japan's population shrinks, 'urban bears' are moving in",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/33222fa642d33b4b533193d1fdb3c787?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=102&amp;width=862&amp;height=485"
-      },
-      "description": "When Araki Osamu first heard reports a bear had been seen in the streets of his home town, a 1-hour bullet train ride north of Tokyo, he dismissed it as \"fake news\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-12/as-japan-population-shrinks-urban-bears-are-moving-in/106903824"
-    },
-    {
-      "published_datetime": "2026-07-11T18:45:48.000000Z",
       "title": "Israeli court battle threatens to turn into constitutional crisis",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7a15ad05629ef59fead4385ca9153fc4?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "A Trumpian clash between the Netanyahu government and Israel's most senior court is rapidly building into a major constitutional crisis.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-12/trumpian-clash-between-netanyahu-government-and-israel-court/106892674"
+    },
+    {
+      "published_datetime": "2026-07-11T18:45:48.000000Z",
+      "title": "As Japan's population shrinks, 'urban bears' are moving in",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/33222fa642d33b4b533193d1fdb3c787?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=102&amp;width=862&amp;height=485"
+      },
+      "description": "When Araki Osamu first heard reports a bear had been seen in the streets of his home town, a 1-hour bullet train ride north of Tokyo, he dismissed it as \"fake news\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-12/as-japan-population-shrinks-urban-bears-are-moving-in/106903824"
     },
     {
       "published_datetime": "2026-07-11T18:41:09.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-11T22:38:09.722709"
+  "merged_at": "2026-07-11T23:44:04.988065"
 }
