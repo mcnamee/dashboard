@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-11T22:03:19.000000Z",
+      "title": "Man charged with the murder of missing mum Jana Armstrong after body found",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2ad604821197216a92d37538a995c626?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=592&amp;width=862&amp;height=485"
+      },
+      "description": "A 48-year-old man has been charged with murder after the body of missing mother Jana Armstrong was found in bushland late on Saturday.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-12/qld-woman-found/106906516"
+    },
+    {
+      "published_datetime": "2026-07-11T21:56:13.000000Z",
+      "title": "Risks and rewards of playing diplomatic football in the Pacific",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/09945dc5567dae9a7e8acb27da44484f?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=768&amp;width=862&amp;height=485"
+      },
+      "description": "In a contest for Pacific influence against China, Australia's football diplomacy comes with risks and rewards.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-12/png-rugby-league-diplomacy-in-pacific/106902162"
+    },
+    {
       "published_datetime": "2026-07-11T20:39:40.000000Z",
       "title": "South African World Cup player dies aged 25",
       "featured_image": {
@@ -11,21 +29,12 @@
     },
     {
       "published_datetime": "2026-07-11T20:26:10.000000Z",
-      "title": "Live: Norway opens the scoring against the run of play",
+      "title": "Live: England fights back after Norway opens the scoring against the run of play",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c5ac59d8304e6a1c2134f7e5d764db53?impolicy=wcms_crop_resize&amp;cropH=1960&amp;cropW=3484&amp;xPos=0&amp;yPos=160&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8a1dc6633f639e144e4a9378468c2058?impolicy=wcms_crop_resize&amp;cropH=1371&amp;cropW=2437&amp;xPos=975&amp;yPos=210&amp;width=862&amp;height=485"
       },
       "description": "Two of the world's premier strikers meet in Miami, as England and Norway vie to become the third team to reach the World Cup semifinals. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-12/world-cup-live-blog-england-norway-argentina-switzerland/106904750"
-    },
-    {
-      "published_datetime": "2026-07-11T19:58:10.000000Z",
-      "title": "Noskov\u00e1 downs 'ex-friend' Muchov\u00e1 to win all-Czech Wimbledon final",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0c162cee238de4c9c9e6456dd575615c?impolicy=wcms_crop_resize&amp;cropH=2679&amp;cropW=4763&amp;xPos=0&amp;yPos=221&amp;width=862&amp;height=485"
-      },
-      "description": "Linda Noskov\u00e1 becomes the third Czech woman in four years to claim the Wimbledon singles title as she downs her great friend in the final.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-12/wimbledon-womens-final-linda-noskova-victory/106906416"
     },
     {
       "published_datetime": "2026-07-11T19:16:39.000000Z",
@@ -47,21 +56,21 @@
     },
     {
       "published_datetime": "2026-07-11T18:45:48.000000Z",
-      "title": "Israeli court battle threatens to turn into constitutional crisis",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7a15ad05629ef59fead4385ca9153fc4?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A Trumpian clash between the Netanyahu government and Israel's most senior court is rapidly building into a major constitutional crisis.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-12/trumpian-clash-between-netanyahu-government-and-israel-court/106892674"
-    },
-    {
-      "published_datetime": "2026-07-11T18:45:48.000000Z",
       "title": "As Japan's population shrinks, 'urban bears' are moving in",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/33222fa642d33b4b533193d1fdb3c787?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=102&amp;width=862&amp;height=485"
       },
       "description": "When Araki Osamu first heard reports a bear had been seen in the streets of his home town, a 1-hour bullet train ride north of Tokyo, he dismissed it as \"fake news\".",
       "page_content_url": "https://www.abc.net.au/news/2026-07-12/as-japan-population-shrinks-urban-bears-are-moving-in/106903824"
+    },
+    {
+      "published_datetime": "2026-07-11T18:45:48.000000Z",
+      "title": "Israeli court battle threatens to turn into constitutional crisis",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7a15ad05629ef59fead4385ca9153fc4?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A Trumpian clash between the Netanyahu government and Israel's most senior court is rapidly building into a major constitutional crisis.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-12/trumpian-clash-between-netanyahu-government-and-israel-court/106892674"
     },
     {
       "published_datetime": "2026-07-11T18:41:09.000000Z",
@@ -80,15 +89,6 @@
       },
       "description": "When a group of Jewish mates\u00a0decided to\u00a0support a newly arrived Muslim\u00a0family,\u00a0all of\u00a0their lives would change. Together they have flipped expectations about religion and friendship.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-12/unexpected-friendships-jewish-volunteers-muslim-refugees/106838708"
-    },
-    {
-      "published_datetime": "2026-07-11T18:41:09.000000Z",
-      "title": "Can Australia avoid the next round of the global energy crisis?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c0c99408091b52ba78b34acb8539b588?impolicy=wcms_crop_resize&amp;cropH=2567&amp;cropW=4563&amp;xPos=0&amp;yPos=234&amp;width=862&amp;height=485"
-      },
-      "description": "As the conflict has dragged on, gas prices have soared and now threaten to up-end the economies of Europe and Asia.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-12/australia-avoiding-next-round-of-the-global-energy-crisis/106902908"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-11T21:40:20.232693"
+  "merged_at": "2026-07-11T22:38:09.722709"
 }
