@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-11T14:27:22.000000Z",
+      "title": "Speedboat capsize off Vietnam's Phu Quoc island kills 15 tourists",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6922e98d0e72ee17471429bbf1ce715?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=96&amp;width=862&amp;height=485"
+      },
+      "description": "A tourist boat returning from an island trip in southern Vietnam has capsized, killing 15 Indian visitors, state media has reported.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-12/speedboat-capsize-near-vietnams-phu-quoc-island-kills-15/106905880"
+    },
+    {
       "published_datetime": "2026-07-11T13:10:57.000000Z",
       "title": "Australian man dies in Bali while awaiting deportation",
       "featured_image": {
@@ -28,13 +37,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-11/nyt-journalists-issued-subpoenas-over-air-force-one-reporting/106905722"
     },
     {
-      "published_datetime": "2026-07-11T05:16:17.000000Z",
-      "title": "How a $400K executive university job led to a corruption probe",
+      "published_datetime": "2026-07-11T06:41:28.000000Z",
+      "title": "France dominates Wallabies to post historic Test win",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/07de6b31c4f08d58e715ecc7837f0db6?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=100&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e42338e68e43560533c47179440f843c?impolicy=wcms_crop_resize&amp;cropH=2316&amp;cropW=4118&amp;xPos=88&amp;yPos=33&amp;width=862&amp;height=485"
       },
-      "description": "Plans to create a new executive position at a time when jobs were being slashed at the University of Wollongong caused deep divisions and sparked an inquiry by the state's corruption watchdog.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-11/uow-job-that-triggered-icac-probe/106902420"
+      "description": "Following a second-half blitz, France scores its fourth straight victory over the Wallabies, triumphing 42-26 in the Nations Championship Test in Brisbane.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-11/rugby-union-wallabies-france-nations-championship-blog-updates/106905422"
     },
     {
       "published_datetime": "2026-07-11T03:37:57.000000Z",
@@ -53,15 +62,6 @@
       },
       "description": "The town of Donald in Victoria's west is in mourning, after remains believed to be missing 13-year-old Layla Jeffery were found by police on Thursday.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-11/layla-jeffrey-donald-missing-teenager/106904920"
-    },
-    {
-      "published_datetime": "2026-07-11T02:56:02.000000Z",
-      "title": "Hardwick clashes with Crows fans, as Cats star's injury timeline revealed",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b44666d91995de4f70ea8a57774f8eab?impolicy=wcms_crop_resize&amp;cropH=220&amp;cropW=391&amp;xPos=0&amp;yPos=81&amp;width=862&amp;height=485"
-      },
-      "description": "Damien Hardwick clashes with Crows fans at Adelaide Oval, as Jeremy Cameron's injury timeline is revealed.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-11/afl-rd-18-live-stk-ptad-gws-geel-carl-haw-adel-gc/106891924"
     },
     {
       "published_datetime": "2026-07-11T02:52:10.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-11T14:19:37.646341"
+  "merged_at": "2026-07-11T15:44:39.786746"
 }
