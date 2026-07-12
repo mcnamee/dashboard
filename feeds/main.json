@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-12T22:20:20.000000Z",
+      "title": "Kuwaiti offshore oil platform hit as Iran and US trade strikes",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a7a603d3b06547840e2bfcd41c89255e?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=3840&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Fresh attacks have rocked Iran and Kuwait as Tehran and Washington squared off over the Strait of Hormuz, offering contradicting statements as to whether the vital waterway was open to traffic.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-13/strikes-hit-kuwait-oil-platform-as-us-iran-war-continues/106908216"
+    },
+    {
       "published_datetime": "2026-07-12T21:06:01.000000Z",
       "title": "Live: Burke says he will 'not lift a finger' to help suspected ISIS fighters",
       "featured_image": {
@@ -10,15 +19,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-13/federal-politics-live-blog-isis-fighters-july-13/106908142"
     },
     {
-      "published_datetime": "2026-07-12T20:17:27.000000Z",
-      "title": "Sinner triumphs over Zverev for second consecutive Wimbledon win",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/29375ee686e723b369ded3bfac0c43b7?impolicy=wcms_crop_resize&amp;cropH=1185&amp;cropW=2107&amp;xPos=0&amp;yPos=110&amp;width=862&amp;height=485"
-      },
-      "description": "The top-ranked Jannik Sinner beat Alexander Zverev for his second consecutive title at Wimbledon after his German opponent appeared bothered by a knee issue.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-13/jannik-sinner-beats-alexander-zverev-to-win-wimbledon/106908072"
-    },
-    {
       "published_datetime": "2026-07-12T19:19:26.000000Z",
       "title": "As swift parrots kept breeding in this forest, the government realised it had a problem",
       "featured_image": {
@@ -26,6 +26,15 @@
       },
       "description": "It was late 2021 when one of Australia's rarest birds started to arrive in the native forests of Lonnavale. Ecologists had expected it but for a reacting forestry sector, it was \"not sustainable\".",
       "page_content_url": "https://www.abc.net.au/news/2026-07-13/tasmanian-swift-parrot-breeding-and-forestry-management/106856312"
+    },
+    {
+      "published_datetime": "2026-07-12T18:55:59.000000Z",
+      "title": "Albanese has the Coalition exactly where he wants it",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eb4ac0633e28c5c8e6c6315f17f2fece?impolicy=wcms_crop_resize&amp;cropH=775&amp;cropW=1378&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
+      },
+      "description": "When the bells resume ringing in the halls of parliament, Anthony Albanese and Angus Taylor will both do well to dispose of any complacency.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-13/labor-coalition-one-nation-mid-winter-break/106907066"
     },
     {
       "published_datetime": "2026-07-12T18:52:22.000000Z",
@@ -80,15 +89,6 @@
       },
       "description": "Taxpayers are missing out on cheaper medicines due to backroom deals by one of Australia's most powerful lobby groups, according to a new report. \u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-12/pharmacy-guild-lobbying-means-patients-get-bad-deal-report/106901974"
-    },
-    {
-      "published_datetime": "2026-07-12T00:14:12.000000Z",
-      "title": "Iran hits Arab states after third round of US strikes in days",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c12edffe2683e79c479e64970d13df5e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The US says its forces are \"prepared and positioned\" to ensure freedom of navigation through the Strait of Hormuz, after Iran declared it closed following another round of American strikes.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-12/iran-revolutionary-guard-closes-strait-hormuz-centcom-us-strikes/106906666"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-12T21:40:07.041672"
+  "merged_at": "2026-07-12T22:38:13.744970"
 }
