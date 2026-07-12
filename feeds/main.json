@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-07-12T09:32:30.000000Z",
-      "title": "Man wanted over alleged attempted murder of 74yo Sydney man",
+      "published_datetime": "2026-07-12T12:00:43.000000Z",
+      "title": "Government to crack down on antisemitism on university campuses",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7f06da00d279b1b4b949532dafd810a9?impolicy=wcms_crop_resize&amp;cropH=359&amp;cropW=639&amp;xPos=0&amp;yPos=64&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/795055972ff31424f3e4aa0550132f6a?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=84&amp;width=862&amp;height=485"
       },
-      "description": "An arrest warrant has been issued for a 45-year-old man in connection to a violent assault in Western Sydney on Saturday.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-12/nsw-arrest-warrant-for-corum-ash-attempted-murder/106907330"
+      "description": "The new standards will require institutions to adopt definitions of antisemitism, racism against Aboriginal and Torres Straight Islander peoples, and Islamophobia.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-12/universities-antisemitism-racism-transparency-royal-commission/106906956"
+    },
+    {
+      "published_datetime": "2026-07-12T11:02:13.000000Z",
+      "title": "Australians paying 'unjustified' fees to pharmacies, report says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6b364844ce412587b40023ada8522d48?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=337&amp;width=862&amp;height=485"
+      },
+      "description": "Taxpayers are missing out on cheaper medicines due to backroom deals by one of Australia's most powerful lobby groups, according to a new report. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-12/pharmacy-guild-lobbying-means-patients-get-bad-deal-report/106901974"
     },
     {
       "published_datetime": "2026-07-12T07:47:22.000000Z",
@@ -82,15 +91,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-12/qld-woman-found/106906516"
     },
     {
-      "published_datetime": "2026-07-11T21:20:50.000000Z",
-      "title": "Owner taken to court over $1m damage bill to iconic 110yo cafe",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c53ded90de47f540b1d36a6ac111329f?impolicy=wcms_crop_resize&amp;cropH=798&amp;cropW=1419&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The heritage-listed former Paragon Cafe in Katoomba was once considered a success story of Greek entrepreneurship, but has now landed in the NSW Land and Environment Court.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-12/nsw-katoomba-blue-mountains-paragon-cafe-land-environment-court/106866630"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-12T11:05:08.492598"
+  "merged_at": "2026-07-12T12:57:49.969024"
 }
