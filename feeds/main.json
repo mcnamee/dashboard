@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-13T00:30:55.000000Z",
+      "title": "Former partner faces court charged with the murder of Jana Armstrong",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a0a139d7bc62ebf19fe4a60ed16a9bbe?impolicy=wcms_crop_resize&amp;cropH=544&amp;cropW=967&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Toowoomba man Dharminder Singh, 48, whose former partner, Jana Armstrong's body was discovered on the weekend, has appeared in a Darling Downs court charged with murder.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-13/toowoomba-man-faces-court-on-murder-charge-of-qld-mum-jana/106907264"
+    },
+    {
       "published_datetime": "2026-07-12T22:20:20.000000Z",
-      "title": "Kuwaiti offshore oil platform hit as Iran and US trade further strikes",
+      "title": "Kuwaiti offshore oil platform hit as Iran and US trade fire",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a7a603d3b06547840e2bfcd41c89255e?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=3840&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -74,21 +83,12 @@
     },
     {
       "published_datetime": "2026-07-12T18:42:41.000000Z",
-      "title": "We analysed 'affordable' rental listings. Many were affordable in name only",
+      "title": "These homes are classed as 'affordable', but there's a catch",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e7fbbade581a3a32fe9dc9843f04a5f?impolicy=wcms_crop_resize&amp;cropH=971&amp;cropW=1726&amp;xPos=4&amp;yPos=39&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/22e1048522e62f0b33b0f2096897bbf1?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Governments across Australia are spending billions to boost the number of rentals available to people on low and middle incomes. A Four Corners investigation found many of these homes were unaffordable for those who needed them most, particularly single-income households.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-13/many-affordable-rental-listings-too-expensive-for-most-in-need/106902620"
-    },
-    {
-      "published_datetime": "2026-07-12T11:02:13.000000Z",
-      "title": "Australians paying 'unjustified' fees to pharmacies, report says",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6b364844ce412587b40023ada8522d48?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=337&amp;width=862&amp;height=485"
-      },
-      "description": "Taxpayers are missing out on cheaper medicines due to backroom deals by one of Australia's most powerful lobby groups, according to a new report. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-12/pharmacy-guild-lobbying-means-patients-get-bad-deal-report/106901974"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-12T23:43:38.275878"
+  "merged_at": "2026-07-13T01:52:46.755506"
 }
