@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-13T09:26:23.000000Z",
+      "title": "Name revealed of Sydney daycare worker facing 329 alleged child abuse charges",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/13404641729de7983bee7e5c690a7442?impolicy=wcms_crop_resize&amp;cropH=657&amp;cropW=1168&amp;xPos=108&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A Sydney childcare worker faces more than 320 charges over his alleged abuse of 136 children over a 16-year period, as police reveal a list of locations where he worked.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-13/sydney-daycare-worker-child-abuse-charges-hamish-tait-identity/106910846"
+    },
+    {
       "published_datetime": "2026-07-13T08:06:26.000000Z",
-      "title": "'Baby-making without baggage': Inside the world of social media semen donation",
+      "title": "Some women seeking sperm donation are being coerced into sex",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12c952132bb363d6ed70f620a053a421?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=262&amp;width=862&amp;height=485"
       },
@@ -20,7 +29,7 @@
     },
     {
       "published_datetime": "2026-07-13T06:30:03.000000Z",
-      "title": "'Very irritating, dying. But I\u2019m not afraid of it': Sam Neill seemed unconcerned with death",
+      "title": "'Very irritating, dying. But I'm not afraid of it': Sam Neill seemed unconcerned with death",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6183aec9d33cc893cd4caf6eb6f7d471?impolicy=wcms_crop_resize&amp;cropH=1728&amp;cropW=3072&amp;xPos=0&amp;yPos=160&amp;width=862&amp;height=485"
       },
@@ -71,15 +80,6 @@
       },
       "description": "Fresh attacks have rocked Iran and Kuwait as Tehran and Washington square off over the Strait of Hormuz, offering contradicting statements as to whether the vital waterway was open to traffic.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-13/strikes-hit-kuwait-oil-platform-as-us-iran-war-continues/106908216"
-    },
-    {
-      "published_datetime": "2026-07-12T18:46:21.000000Z",
-      "title": "Australian woman was cunning 'Sharia judge' in Syrian camp, ABC told",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bccb228c58daa55628826814c7e31c32?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=92&amp;width=862&amp;height=485"
-      },
-      "description": "Speaking exclusively to the ABC, a security source who dealt directly with Australian woman Hodan Abby calls her a driving force behind many of a Syrian detention camp's problems.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-13/australian-is-hodan-abby-inside-al-roj-camp-syria/106895922"
     },
     {
       "published_datetime": "2026-07-12T18:42:41.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-13T08:49:54.347357"
+  "merged_at": "2026-07-13T11:52:32.706826"
 }
