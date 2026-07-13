@@ -1,8 +1,53 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-13T04:59:12.000000Z",
+      "title": "Qld's multi-million-dollar family violence prevention cuts 'indefensible'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8d710a289f733595bbbd5732bd30c53e?impolicy=wcms_crop_resize&amp;cropH=4077&amp;cropW=7248&amp;xPos=0&amp;yPos=109&amp;width=862&amp;height=485"
+      },
+      "description": "The Queensland opposition has labelled the cuts to family and domestic violence funding \"indefensible\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-13/domestic-violence-funding-cuts/106909690"
+    },
+    {
+      "published_datetime": "2026-07-13T04:39:35.000000Z",
+      "title": "15yo boy stabbed at Qld school, second teenager taken into police custody",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/65142d2b269c761a6c2b12c583875749?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=960&amp;xPos=0&amp;yPos=179&amp;width=862&amp;height=485"
+      },
+      "description": "A teenage boy has been arrested over an alleged stabbing at a high school in Cairns.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-13/teen-custody-stabbing-trinity-bay-high-school-police/106909926"
+    },
+    {
+      "published_datetime": "2026-07-13T04:09:23.000000Z",
+      "title": "UNSW tutor alleges 'lacklustre' response after students' Nazi salute",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d22df32192651cfa0ac825beb31f2e48?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The Royal Commission on Antisemitism and Social Cohesion has heard universities need to improve responses when Jewish staff and students feel unsafe.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-13/melbourne-royal-commission-antisemitism-on-campus-day-1/106908984"
+    },
+    {
+      "published_datetime": "2026-07-13T03:07:01.000000Z",
+      "title": "Molly Ticehurst's killer's sentencing brought forward",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3a447df00e8dbe20e4f6824a6ac27c0a?impolicy=wcms_crop_resize&amp;cropH=538&amp;cropW=957&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The sentencing of the man who murdered New South Wales woman Molly Ticehurst has been brought forward to allow a psychiatrist to give evidence.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-13/molly-ticehurst-killer-daniel-billings-sentencing-hearing/106892882"
+    },
+    {
+      "published_datetime": "2026-07-13T02:54:13.000000Z",
+      "title": "Iran has a new warning for the US: 'Reality is knocking'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e472d6f19887dc40729ffcf1a6123854?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=184&amp;width=862&amp;height=485"
+      },
+      "description": "As another round of strikes rattles the Gulf region, Iran's lead negotiator makes it very clear where the regime stands on the Strait of Hormuz.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-13/iran-and-united-states-mou-interpretation-strait-of-hormuz/106908594"
+    },
+    {
       "published_datetime": "2026-07-13T00:30:55.000000Z",
-      "title": "Former partner faces court charged with the murder of Jana Armstrong",
+      "title": "Jana Armstrong's former partner remanded in custody on murder charge",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a0a139d7bc62ebf19fe4a60ed16a9bbe?impolicy=wcms_crop_resize&amp;cropH=544&amp;cropW=967&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -10,67 +55,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-13/toowoomba-man-faces-court-on-murder-charge-of-qld-mum-jana/106907264"
     },
     {
+      "published_datetime": "2026-07-13T00:25:02.000000Z",
+      "title": "'He continues to inspire us': Richard Scolyer's family pay emotional tribute",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aa409770414d0bfc199ca66d34a63efa?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=105&amp;width=862&amp;height=485"
+      },
+      "description": "Thousands have gathered for Richard Scolyer's state memorial service, with the leading melanoma pathologist remembered as an esteemed researcher and family man.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-13/professor-richard-scolyer-state-memorial-sydney-opera-house/106907050"
+    },
+    {
       "published_datetime": "2026-07-12T22:20:20.000000Z",
-      "title": "Kuwaiti offshore oil platform hit as Iran and US trade fire",
+      "title": "US announces new Iran strikes after attacks reported in Kuwait, Bahrain",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a7a603d3b06547840e2bfcd41c89255e?impolicy=wcms_crop_resize&amp;cropH=2160&amp;cropW=3840&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Fresh attacks have rocked Iran and Kuwait as Tehran and Washington squared off over the Strait of Hormuz, offering contradicting statements as to whether the vital waterway was open to traffic.",
+      "description": "Fresh attacks have rocked Iran and Kuwait as Tehran and Washington square off over the Strait of Hormuz, offering contradicting statements as to whether the vital waterway was open to traffic.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-13/strikes-hit-kuwait-oil-platform-as-us-iran-war-continues/106908216"
-    },
-    {
-      "published_datetime": "2026-07-12T21:06:01.000000Z",
-      "title": "Live: Burke says it 'beggars belief' how ISIS-linked woman 'treated other humans'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e954b12b696305c26c82929495a17cb?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The home affairs minister says he will \"not lift a finger\" to support suspected Australian ISIS fighters held in an Iraqi prison. Follow live.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-13/federal-politics-live-blog-isis-fighters-july-13/106908142"
-    },
-    {
-      "published_datetime": "2026-07-12T19:19:26.000000Z",
-      "title": "As swift parrots kept breeding in this forest, the government realised it had a problem",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5d50e6b6d2dca37efb8a629d43584ade?impolicy=wcms_crop_resize&amp;cropH=1071&amp;cropW=1903&amp;xPos=251&amp;yPos=268&amp;width=862&amp;height=485"
-      },
-      "description": "It was late 2021 when one of Australia's rarest birds started to arrive in the native forests of Lonnavale. Ecologists had expected it but for a reacting forestry sector, it was \"not sustainable\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-13/tasmanian-swift-parrot-breeding-and-forestry-management/106856312"
-    },
-    {
-      "published_datetime": "2026-07-12T18:55:59.000000Z",
-      "title": "Albanese has the Coalition exactly where he wants it",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eb4ac0633e28c5c8e6c6315f17f2fece?impolicy=wcms_crop_resize&amp;cropH=775&amp;cropW=1378&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
-      },
-      "description": "When the bells resume ringing in the halls of parliament, Anthony Albanese and Angus Taylor will both do well to dispose of any complacency.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-13/labor-coalition-one-nation-mid-winter-break/106907066"
-    },
-    {
-      "published_datetime": "2026-07-12T18:52:22.000000Z",
-      "title": "Change to international travel as digital arrival cards roll out",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef4894bd34b463d30354a9f375bdfcfa?impolicy=wcms_crop_resize&amp;cropH=563&amp;cropW=1000&amp;xPos=0&amp;yPos=52&amp;width=862&amp;height=485"
-      },
-      "description": "A digital alternative to incoming passenger cards filled out by everyone entering Australia is to be implemented in the next two years.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-13/digital-arrival-cards-international-travellers-australia/106907440"
-    },
-    {
-      "published_datetime": "2026-07-12T18:49:15.000000Z",
-      "title": "We're back to two competing superpowers and China is pulling ahead",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c26695e49272e8870b17c30f496753f4?impolicy=wcms_crop_resize&amp;cropH=1543&amp;cropW=2743&amp;xPos=154&amp;yPos=85&amp;width=862&amp;height=485"
-      },
-      "description": "When it comes to AI, Australia is a spectator at a UFC cage fight between the United States and China, except the spectators are inside the cage with the combatants.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-13/ai-china-america-duelling-superpowers/106907068"
-    },
-    {
-      "published_datetime": "2026-07-12T18:47:02.000000Z",
-      "title": "Jewish academic fears being met by 'axe or gun' when on campus",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/41e4431f686701d32e3d9f2d7f467af6?impolicy=wcms_crop_resize&amp;cropH=719&amp;cropW=1278&amp;xPos=8&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Jewish academics and students say they do not feel safe on campuses, as the antisemitism royal commission prepares to hold a week of hearings scrutinising universities.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-13/antisemitism-royal-commission-shifts-focus-to-universities/106891900"
     },
     {
       "published_datetime": "2026-07-12T18:46:21.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-13T01:52:46.755506"
+  "merged_at": "2026-07-13T05:28:19.184936"
 }
