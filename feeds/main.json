@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-13T21:13:48.000000Z",
+      "title": "Live: Shadow minister says he backs drop in house prices if it helps young people",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9fad8b68ec301e607dd87e4d578fe692?impolicy=wcms_crop_resize&amp;cropH=1551&amp;cropW=2759&amp;xPos=0&amp;yPos=189&amp;width=862&amp;height=485"
+      },
+      "description": "Shadow Housing Minister Andrew Bragg says he supports a drop in house prices if it helps young people get into the housing market. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-14/federal-politics-live-blog-bragg-on-housing-policy/106911880"
+    },
+    {
+      "published_datetime": "2026-07-13T20:47:50.000000Z",
+      "title": "Ukraine and allies join to protect Europe from ballistic missiles",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/95e81b99842cf2df6ac42ceff119fec9?impolicy=wcms_crop_resize&amp;cropH=2429&amp;cropW=4319&amp;xPos=0&amp;yPos=246&amp;width=862&amp;height=485"
+      },
+      "description": "Ukraine and nine other countries will form a coalition to protect Europe from ballistic missiles, utilising Kyiv's experience in fighting Russia's full-scale invasion for over four years.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-14/ukraine-and-allies-join-to-protect-europe-from-missiles/106911826"
+    },
+    {
       "published_datetime": "2026-07-13T20:27:42.000000Z",
-      "title": "25 years on, the outback murder of Peter Falconio still haunts Australia",
+      "title": "'So many questions remain unanswered': 25 years since the Peter Falconio case",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1ab35f9ff155dbc1a6ce331e1ecf23cb?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=126&amp;width=862&amp;height=485"
       },
@@ -37,15 +55,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-14/tributes-flow-for-sam-neill-jurassic-park-steven-spielberg/106911614"
     },
     {
-      "published_datetime": "2026-07-13T19:08:27.000000Z",
-      "title": "Jewish professor says 'intimidating' protest changed his life on campus",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/394263e4cc483538e6856fb12df9d357?impolicy=wcms_crop_resize&amp;cropH=493&amp;cropW=877&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Melbourne University professor Steven Prawer hopes the Royal Commission on Antisemitism and Social Cohesion will lead to campus change, following a 2024 demonstration that saw protesters invade his office.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-14/antisemitism-royal-commission-universities-steven-prawer-appears/106910064"
-    },
-    {
       "published_datetime": "2026-07-13T18:55:51.000000Z",
       "title": "'Kill him': Muslim man attacked on way to mosque",
       "featured_image": {
@@ -64,15 +73,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-14/big-superannuation-funds-and-smsfs-could-pay-cslr-levy-mulino/106885970"
     },
     {
-      "published_datetime": "2026-07-13T18:48:58.000000Z",
-      "title": "'Frightening': Organised crime dominates the illicit tobacco market and it's now online",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b8c8d529afffe96d6c677a42b2707f7b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "The process was simple and the service was speedy but the ease with which 7.30 acquired illicit tobacco products was concerning.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-14/buying-illicit-tobacco-online-is-an-emerging-market/106910922"
-    },
-    {
       "published_datetime": "2026-07-13T18:43:03.000000Z",
       "title": "How property developers are benefiting from Australia's housing crisis",
       "featured_image": {
@@ -87,7 +87,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2420edfab158f6b31d93f6c708ecd5f9?impolicy=wcms_crop_resize&amp;cropH=2795&amp;cropW=4969&amp;xPos=16&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Donald Trump says the US is reinstating its blockade of Iran in the Strait of Hormuz and will start charging for ships from elsewhere to transit through it.",
+      "description": "Donald Trump says the US is reinstating its blockade of Iran in the Strait of Hormuz and will start charging for ships from elsewhere to transit through it.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-13/trump-strait-of-hormuz-control-plans/106911410"
     },
     {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-13T20:49:49.320603"
+  "merged_at": "2026-07-13T21:45:04.690314"
 }
