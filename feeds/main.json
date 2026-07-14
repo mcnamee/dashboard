@@ -2,12 +2,21 @@
   "items": [
     {
       "published_datetime": "2026-07-14T21:12:59.000000Z",
-      "title": "Live: More people will take up smoking if tobacco excise is reduced, minister says",
+      "title": "Live: Minister pushes back on calls to cut tobacco excise as black market grows",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d4850795afc9a85174d3fb13723cd0e1?impolicy=wcms_crop_resize&amp;cropH=2342&amp;cropW=4163&amp;xPos=850&amp;yPos=599&amp;width=862&amp;height=485"
       },
       "description": "Clare O'Neil says reducing the tobacco excise to address the rising take-up of illicit tobacco will not help Australians give up smoking. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-15/federal-politics-live-blog-tobacco-july-5/106916356"
+    },
+    {
+      "published_datetime": "2026-07-14T21:09:27.000000Z",
+      "title": "Bali-based businessman's death leaves Australians chasing money",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/89239848e62f3005826cbb673f3c9cd9?impolicy=wcms_crop_resize&amp;cropH=1073&amp;cropW=1908&amp;xPos=4&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Cameron Hughes, 39, died in a Balinese immigration detention centre last week under yet-to-be-confirmed circumstances. The ABC can reveal the Perth businessman left behind hundreds of thousands of dollars in unfinished business, with dozens of customers potentially out of pocket.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-15/cameron-hughes-bali-death-leaves-debt-customers-money-in-limbo/106911158"
     },
     {
       "published_datetime": "2026-07-14T19:27:01.000000Z",
@@ -51,26 +60,17 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/88e2ce553aaea73af76d38432de8b895?impolicy=wcms_crop_resize&amp;cropH=531&amp;cropW=944&amp;xPos=127&amp;yPos=76&amp;width=862&amp;height=485"
       },
-      "description": "Telstra is assessing outage compensation claims, but consumer advocates say the process is cumbersome and puts the onus back on customers rather than the telco at fault.",
+      "description": "Telstra is assessing outage compensation claims, but consumer advocates say the process is cumbersome and puts the onus on customers rather than the telco at fault.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-15/telstra-outage-compensation-losses-business/106913556"
     },
     {
-      "published_datetime": "2026-07-14T18:40:20.000000Z",
-      "title": "Batteries charge ahead as data centres fuel gas turbine costs: CSIRO",
+      "published_datetime": "2026-07-14T18:40:57.000000Z",
+      "title": "As Japan undergoes a defence shift, China warns it's 'becoming a powder keg'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/beb8ad9db6345c4a08b8fd34dd5049db?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3c3c7199360a245390a1f12181197ff1?impolicy=wcms_crop_resize&amp;cropH=2093&amp;cropW=3721&amp;xPos=0&amp;yPos=196&amp;width=862&amp;height=485"
       },
-      "description": "Falling battery costs and a data centre-fuelled dash for gas have overturned decades of accepted wisdom: gas is no longer the cheapest way to meet peak power demand.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-15/csiro-says-batteries-cheaper-than-gas-as-ai-drives-turbine-costs/106914550"
-    },
-    {
-      "published_datetime": "2026-07-14T18:39:36.000000Z",
-      "title": "The Thai child sex exploitation scourge unfolding at bars, restaurants and hotels",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/729c72c33c26e4bc5145bdea88b1e2f5?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=204&amp;width=862&amp;height=485"
-      },
-      "description": "Thailand is struggling against a \"hidden\" world of child sexual exploitation that requires action from both the tourism industry and law enforcement agencies, according to NGOs.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-15/child-sexual-exploitation-and-tourism-in-thailand/106875878"
+      "description": "While the world has been watching the rise of China, Japan has been in the midst of its biggest defence shift since World War II.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-15/china-japan-defence-spending/106912686"
     },
     {
       "published_datetime": "2026-07-14T18:00:12.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-14T21:47:42.556263"
+  "merged_at": "2026-07-14T22:47:25.873836"
 }
