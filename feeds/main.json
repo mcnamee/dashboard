@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-14T12:29:47.000000Z",
+      "title": "Anthony Albanese maps out AI future with new national framework",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a8d8cc6f9e170e23911c37058e4aee96?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Labor will develop a new national framework in response to artificial intelligence as it seeks to address the technology\u2019s growing economic and social impacts.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-14/albanese-maps-out-ai-future-introducing-national-framework/106915094"
+    },
+    {
+      "published_datetime": "2026-07-14T11:33:26.000000Z",
+      "title": "'I'm ruling it out': Taylor categorically kills off One Nation coalition talk",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/013399695aca4fd1904ac5f2cb401998?impolicy=wcms_crop_resize&amp;cropH=3004&amp;cropW=5340&amp;xPos=324&amp;yPos=155&amp;width=862&amp;height=485"
+      },
+      "description": "Coalition leader Angus Taylor has renewed his criticism of Pauline Hanson's party and categorically ruled out any alliance with them.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-14/angus-taylor-rules-out-one-nation-coalition-categorically/106894716"
+    },
+    {
       "published_datetime": "2026-07-14T09:55:36.000000Z",
       "title": "Victorian teachers set to strike again following deadlocked negotiations",
       "featured_image": {
@@ -28,15 +46,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-14/shayna-jack-announces-swimming-retirement-comm-games/106915006"
     },
     {
-      "published_datetime": "2026-07-14T08:00:53.000000Z",
-      "title": "The worrying statistic around Indigenous players in the AFLW",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a1df5cf78b693779f54a9ee2ee032366?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=520&amp;width=862&amp;height=485"
-      },
-      "description": "Racism remains a key issue for First Nations AFL players, while Indigenous AFLW players rate their workplace culture significantly lower than their peers, a new report finds.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-14/aflw-indigenous-players-rated-workplace-culture-low/106910758"
-    },
-    {
       "published_datetime": "2026-07-14T07:30:30.000000Z",
       "title": "Melbourne mother accused of showing IS propaganda to her children",
       "featured_image": {
@@ -62,15 +71,6 @@
       },
       "description": "The search for Toowoomba mother Jana Armstrong ended in tragedy. Here's what police say happened to the young mother.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-14/jana-armstrong-alleged-domestic-violence-murder-toowoomba/106910694"
-    },
-    {
-      "published_datetime": "2026-07-14T04:33:07.000000Z",
-      "title": "A 60-year-old law could decide if Australia gets billions in AI investments",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1b2532d854ae9041342406bbb8b36acd?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Tens of billions of dollars in investment, and Australia's ambition to become a global AI power, could hinge on a law written in 1968 for an era of black-and-white television, film and radio.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-14/copyright-law-battleground-in-australia-ai-boom/106891890"
     },
     {
       "published_datetime": "2026-07-14T03:16:16.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-14T11:36:09.361064"
+  "merged_at": "2026-07-14T13:09:54.866683"
 }
