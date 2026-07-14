@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-14T23:32:49.000000Z",
+      "title": "Quick hits: Spain's secret to success, Yamal's streak and Balogun's confession",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28327a7ace888675fcbaf4285dbd126d?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Spain showcases its biggest advantage over France, Lamine Yamal's insane streak goes on and Folarin Balogun opens up on his overturned red card. Here are today's quick hits.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-15/world-cup-quick-hits-spain-france-lamine-yamal-folarin-balogun/106916262"
+    },
+    {
+      "published_datetime": "2026-07-14T23:05:41.000000Z",
+      "title": "Australia's southernmost Antarctic research station enjoys 24 minute sunrise after six weeks of darkness",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b79e13130ad78530b5127997a6f77ecd?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Researchers spending winter at Australia's southernmost Antarctic research station gathered to celebrate the return of the sun following weeks of darkness.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-15/davis-antarctic-research-station-no-sun-for-six-weeks/106910010"
+    },
+    {
       "published_datetime": "2026-07-14T21:12:59.000000Z",
       "title": "Live: Minister pushes back on calls to cut tobacco excise as black market grows",
       "featured_image": {
@@ -20,9 +38,9 @@
     },
     {
       "published_datetime": "2026-07-14T19:27:01.000000Z",
-      "title": "Live: Trump backflips on tolls, starts blockade and hits Iran again",
+      "title": "Live: US, Iran exchange fire as Trump issues new threats and blockade starts",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c5440f545749b3f008770f536c67046f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=169&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/26f84faab521646018652e9a08bb2d00?impolicy=wcms_crop_resize&amp;cropH=717&amp;cropW=1274&amp;xPos=446&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "US President Donald Trump says he will not charge a 20 per cent toll on traffic in the Strait of Hormuz, just hours before the US Navy's blockade is set to resume.\u00a0 \u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-15/iran-united-states-war-blog-july-15-2026/106915662"
@@ -62,24 +80,6 @@
       },
       "description": "Telstra is assessing outage compensation claims, but consumer advocates say the process is cumbersome and puts the onus on customers rather than the telco at fault.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-15/telstra-outage-compensation-losses-business/106913556"
-    },
-    {
-      "published_datetime": "2026-07-14T18:40:57.000000Z",
-      "title": "As Japan undergoes a defence shift, China warns it's 'becoming a powder keg'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3c3c7199360a245390a1f12181197ff1?impolicy=wcms_crop_resize&amp;cropH=2093&amp;cropW=3721&amp;xPos=0&amp;yPos=196&amp;width=862&amp;height=485"
-      },
-      "description": "While the world has been watching the rise of China, Japan has been in the midst of its biggest defence shift since World War II.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-15/china-japan-defence-spending/106912686"
-    },
-    {
-      "published_datetime": "2026-07-14T18:00:12.000000Z",
-      "title": "Live: Spain into World Cup final with stunning upset over tournament favourite France",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5967d5c322433e7a901df59f9127f560?impolicy=wcms_crop_resize&amp;cropH=2008&amp;cropW=3570&amp;xPos=0&amp;yPos=186&amp;width=862&amp;height=485"
-      },
-      "description": "Spain is through to the World Cup final thanks to a 2-0 win over France. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-15/world-cup-live-blog-semifinal-france-vs-spain/106915652"
     },
     {
       "published_datetime": "2026-07-14T12:29:47.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-14T22:47:25.873836"
+  "merged_at": "2026-07-14T23:42:36.164432"
 }
