@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-14T21:12:59.000000Z",
+      "title": "Live: More people will take up smoking if tobacco excise is reduced, minister says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d4850795afc9a85174d3fb13723cd0e1?impolicy=wcms_crop_resize&amp;cropH=2342&amp;cropW=4163&amp;xPos=850&amp;yPos=599&amp;width=862&amp;height=485"
+      },
+      "description": "Clare O'Neil says reducing the tobacco excise to address the rising take-up of illicit tobacco will not help Australians give up smoking. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-15/federal-politics-live-blog-tobacco-july-5/106916356"
+    },
+    {
       "published_datetime": "2026-07-14T19:27:01.000000Z",
-      "title": "Live: Trump backs down from 20 per cent Strait of Hormuz toll as US blockade takes effect",
+      "title": "Live: Trump backflips on tolls, starts blockade and hits Iran again",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c5440f545749b3f008770f536c67046f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=169&amp;width=862&amp;height=485"
       },
@@ -29,7 +38,7 @@
     },
     {
       "published_datetime": "2026-07-14T18:42:56.000000Z",
-      "title": "Australia's highest paid CEO revealed",
+      "title": "Australia's highest paid CEO makes 500 times the average salary",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4edbaefd03c00ec096546dd0f3aa3ef4?impolicy=wcms_crop_resize&amp;cropH=393&amp;cropW=698&amp;xPos=0&amp;yPos=93&amp;width=862&amp;height=485"
       },
@@ -44,15 +53,6 @@
       },
       "description": "Telstra is assessing outage compensation claims, but consumer advocates say the process is cumbersome and puts the onus back on customers rather than the telco at fault.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-15/telstra-outage-compensation-losses-business/106913556"
-    },
-    {
-      "published_datetime": "2026-07-14T18:40:57.000000Z",
-      "title": "As Japan undergoes a defence shift, China warns it's 'becoming a powder keg'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/66f141b9e5db571cee701512222a42c5?impolicy=wcms_crop_resize&amp;cropH=2042&amp;cropW=3630&amp;xPos=0&amp;yPos=192&amp;width=862&amp;height=485"
-      },
-      "description": "While the world has been watching the rise of China, Japan has been in the midst of its biggest defence shift since World War II.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-15/china-japan-defence-spending/106912686"
     },
     {
       "published_datetime": "2026-07-14T18:40:20.000000Z",
@@ -74,21 +74,21 @@
     },
     {
       "published_datetime": "2026-07-14T18:00:12.000000Z",
-      "title": "Live: Spain shocks France to put World Cup favourite on brink of exit",
+      "title": "Live: Spain into World Cup final with stunning upset over tournament favourite France",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8cb43a99b1844e6f4d746b8437b00d3d?impolicy=wcms_crop_resize&amp;cropH=2629&amp;cropW=4674&amp;xPos=0&amp;yPos=595&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5967d5c322433e7a901df59f9127f560?impolicy=wcms_crop_resize&amp;cropH=2008&amp;cropW=3570&amp;xPos=0&amp;yPos=186&amp;width=862&amp;height=485"
       },
-      "description": "Spain leads 1-0 at half-time of its World Cup semifinal against an unsettled France. Follow live.",
+      "description": "Spain is through to the World Cup final thanks to a 2-0 win over France. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-15/world-cup-live-blog-semifinal-france-vs-spain/106915652"
     },
     {
-      "published_datetime": "2026-07-14T11:33:26.000000Z",
-      "title": "'I'm ruling it out': Taylor categorically kills off One Nation coalition talk",
+      "published_datetime": "2026-07-14T12:29:47.000000Z",
+      "title": "Anthony Albanese maps out AI future with new national framework",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/013399695aca4fd1904ac5f2cb401998?impolicy=wcms_crop_resize&amp;cropH=3004&amp;cropW=5340&amp;xPos=324&amp;yPos=155&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a8d8cc6f9e170e23911c37058e4aee96?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Coalition leader Angus Taylor has renewed his criticism of Pauline Hanson's party and categorically ruled out any alliance with them.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-14/angus-taylor-rules-out-one-nation-coalition-categorically/106894716"
+      "description": "Labor will develop a new national framework in response to artificial intelligence as it seeks to address the technology\u2019s growing economic and social impacts.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-14/albanese-maps-out-ai-future-introducing-national-framework/106915094"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-14T20:50:33.830425"
+  "merged_at": "2026-07-14T21:47:42.556263"
 }
