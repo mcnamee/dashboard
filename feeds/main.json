@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-15T16:00:00.000000Z",
+      "title": "The Odyssey may be the epic we deserve, but not the one we need",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c03c26d8dd570e46adfc5781040e5caa?impolicy=wcms_crop_resize&amp;cropH=1729&amp;cropW=3074&amp;xPos=0&amp;yPos=83&amp;width=862&amp;height=485"
+      },
+      "description": "The scope of Christopher Nolan's latest epic might be awesome but a menagerie of supporting faces and questionable characterisations muddle the director's vision.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/the-odyssey-movie-review-christopher-nolan/106918864"
+    },
+    {
       "published_datetime": "2026-07-15T13:34:04.000000Z",
       "title": "US launches strikes on key Iranian island amid renewed threats",
       "featured_image": {
@@ -53,15 +62,6 @@
       },
       "description": "Donald Trump's actions this week have only confirmed he has run out of options and is now engaged in a simple war of wills, and calculations on who will run out of munitions first, with an enemy that he has underestimated from the start.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-15/trumps-actions-in-iran-show-hes-run-out-of-options/106917168"
-    },
-    {
-      "published_datetime": "2026-07-15T05:12:12.000000Z",
-      "title": "'They hate us and we hate them': England-Argentina semi will come with extra feeling",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/62722278e1c0cde59bae96abf727b70a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "It is one of the biggest rivalries in men's World Cup history, and while the teams may downplay the history, England and Argentina fans are ready for another iconic showdown.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-15/world-cup-england-argentina-semifinal-atlanta-preview/106916064"
     },
     {
       "published_datetime": "2026-07-15T05:03:04.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-15T15:18:44.209458"
+  "merged_at": "2026-07-15T17:06:19.285949"
 }
