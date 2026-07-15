@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-15T10:00:02.000000Z",
+      "title": "Reserves that prevented 'full-blown' oil shock running low, IMF says",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dd693d3b036678b7ecc1de34a13a2db2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The International Monetary Fund says the global economy was spared the worst of the oil price shock because of large reserves. Now they are running out.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-15/oil-reserves-spent-imf-us-iran-war/106918074"
+    },
+    {
       "published_datetime": "2026-07-15T08:53:59.000000Z",
       "title": "GP clinic network hit by major cyber breach",
       "featured_image": {
@@ -8,15 +17,6 @@
       },
       "description": "Partnered Health, which operates more than 50 general practice and skin cancer clinics across Australia, has identified more than a dozen clinics where it fears patient information was taken.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-15/partnered-health-medical-clinics-hit-by-major-cyber-breach/106920156"
-    },
-    {
-      "published_datetime": "2026-07-15T07:56:10.000000Z",
-      "title": "Ex-Sydney church turned LGBT nightclub ordered to 'cease offensive trading'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c7d9d5c7af46c5b0b6e84519e9ffe336?impolicy=wcms_crop_resize&amp;cropH=1916&amp;cropW=3407&amp;xPos=0&amp;yPos=177&amp;width=862&amp;height=485"
-      },
-      "description": "The LGBTQIA+ venue said it was exploring its legal options after being issued with a breach of lease notice just days after opening at a former Sydney church.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-15/nsw-divine-playhouse-church-ordered-to-cease-offensive-trading/106915110"
     },
     {
       "published_datetime": "2026-07-15T06:25:12.000000Z",
@@ -46,17 +46,17 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-15/trumps-actions-in-iran-show-hes-run-out-of-options/106917168"
     },
     {
-      "published_datetime": "2026-07-15T05:58:19.000000Z",
-      "title": "Police investigate attempted sexual assault of Melbourne dog walkers",
+      "published_datetime": "2026-07-15T05:12:12.000000Z",
+      "title": "'They hate us and we hate them': England-Argentina semi will come with extra feeling",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4165461f50b5b5e77e326b77d2f63e86?impolicy=wcms_crop_resize&amp;cropH=340&amp;cropW=604&amp;xPos=0&amp;yPos=5&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/62722278e1c0cde59bae96abf727b70a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Police are investigating after two women reported that a man attempted to assault them before the dogs they were walking chased him away.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-15/police-investigate-kooyong-sexual-assault-dog-walkers/106919264"
+      "description": "It is one of the biggest rivalries in men's World Cup history, and while the teams may downplay the history, England and Argentina fans are ready for another iconic showdown.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-15/world-cup-england-argentina-semifinal-atlanta-preview/106916064"
     },
     {
       "published_datetime": "2026-07-15T05:03:04.000000Z",
-      "title": "Labor takes a stand on data centre rules and AI copyright",
+      "title": "Government moves on AI data centres and copyright",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f137592aebb2dd29f5cfde674c4a8be5?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-15T09:51:10.857743"
+  "merged_at": "2026-07-15T11:21:56.936493"
 }
