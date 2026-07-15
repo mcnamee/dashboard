@@ -1,10 +1,73 @@
 {
   "items": [
     {
-      "published_datetime": "2026-07-15T17:57:45.000000Z",
-      "title": "Live: England and Argentina renew historic World Cup rivalry",
+      "published_datetime": "2026-07-15T19:00:00.000000Z",
+      "title": "Albanese rolls out a rule book and a red carpet for AI companies",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/805b227ef75aadec487238b57f30125f?impolicy=wcms_crop_resize&amp;cropH=1321&amp;cropW=2349&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e8c515397693907aaef799822824d976?impolicy=wcms_crop_resize&amp;cropH=2307&amp;cropW=4102&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "If Australia is truly going to coax major AI companies to choose us rather than the other suitor nations with similar ambitions, some tough decisions need to be made soon.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/albanese-artficial-intelligence-speech-sydney-university/106917888"
+    },
+    {
+      "published_datetime": "2026-07-15T19:00:00.000000Z",
+      "title": "Q-Day is coming, and it might break the entire internet",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2712736f08685bddaedf719cfc35252b?impolicy=wcms_crop_resize&amp;cropH=1193&amp;cropW=2121&amp;xPos=0&amp;yPos=110&amp;width=862&amp;height=485"
+      },
+      "description": "The countdown is on to Q-Day, when an algorithm written more than 30 years ago could run on a quantum computer and compromise the security of data on the internet. How are we preparing?",
+      "page_content_url": "https://www.abc.net.au/news/science/2026-07-16/q-day-shor-s-algorithm-quantum-computer/106868648"
+    },
+    {
+      "published_datetime": "2026-07-15T18:52:13.000000Z",
+      "title": "Trump's tariffs turn liability as businesses claw back $110 billion",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/58bbf596b626fe327b471285c683960c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=258&amp;width=862&amp;height=485"
+      },
+      "description": "Businesses globally are clawing back tens of billions of dollars paid to United States customs after Donald Trump's so-called liberation day tariffs were deemed unlawful.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/tariff-refund-for-businesses-globally-trump-us-interest/106909340"
+    },
+    {
+      "published_datetime": "2026-07-15T18:48:56.000000Z",
+      "title": "Why Australians shouldn't panic about fuel prices as war in Iran escalates again",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b78b190c146403595ca4ea4ee632df97?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=407&amp;width=862&amp;height=485"
+      },
+      "description": "With the price of oil rising and the fuel excise cut due to end, drivers are facing twin threats when it comes to the price of fuel, but experts say Australia is in a much better position compared with when the Middle East conflict began.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/petrol-temperature-check-what-happens-with-prices/106917442"
+    },
+    {
+      "published_datetime": "2026-07-15T18:47:04.000000Z",
+      "title": "Telstra and telco regulator prepare for grilling over widespread outage",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b48baffb1cdf5f9357b9bbcd06509746?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Telstra prepares for a grilling in parliament about the recent network outage that disrupted Australia, with the communications regulator also set to face tough questions.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/telstra-prepares-for-grilling-consumer-group-threatened/106915896"
+    },
+    {
+      "published_datetime": "2026-07-15T18:45:04.000000Z",
+      "title": "Gender quota debate revived in Liberals' soul-searching mission",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7fe1910b1863edecb3b49373e7bd64e3?impolicy=wcms_crop_resize&amp;cropH=3206&amp;cropW=5701&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
+      },
+      "description": "Liberal Party HQ has admitted it is \"in the political fight of our lives\" as it canvasses ideas, including reviving gender quotas, to take the party forward.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/gender-quotas-revived-in-liberals-soul-searching-mission/106920398"
+    },
+    {
+      "published_datetime": "2026-07-15T18:42:20.000000Z",
+      "title": "Artists seek 'seat at table' in AI office",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c9bcf0a2612536adcbe4d93f2d8b6da1?impolicy=wcms_crop_resize&amp;cropH=1032&amp;cropW=1835&amp;xPos=33&amp;yPos=48&amp;width=862&amp;height=485"
+      },
+      "description": "The creative sector hopes there is a space to contribute to the Office of AI, given its content powers a lot of these tools.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/ai-office-urged-to-include-artists/106920388"
+    },
+    {
+      "published_datetime": "2026-07-15T17:57:45.000000Z",
+      "title": "Live: Tempers flare as England and Argentina play spiteful World Cup semifinal",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3e26a6cdba903fb984ec664ee889795e?impolicy=wcms_crop_resize&amp;cropH=1108&amp;cropW=1970&amp;xPos=405&amp;yPos=82&amp;width=862&amp;height=485"
       },
       "description": "England and Argentina rekindle one of the World Cup's most heated rivalries when they meet in the semifinal in Atlanta, with Spain awaiting the winner. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-16/world-cup-live-blog-semifinal-england-vs-argentina/106917676"
@@ -20,75 +83,12 @@
     },
     {
       "published_datetime": "2026-07-15T10:00:02.000000Z",
-      "title": "Reserves that prevented 'full-blown' oil shock running low, IMF says",
+      "title": "Global reserves that spared the worst of the oil shock are spent, IMF says",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dd693d3b036678b7ecc1de34a13a2db2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
       "description": "The International Monetary Fund says the global economy was spared the worst of the oil price shock because of large reserves. Now they are running out.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-15/oil-reserves-spent-imf-us-iran-war/106918074"
-    },
-    {
-      "published_datetime": "2026-07-15T08:53:59.000000Z",
-      "title": "GP clinic network hit by major cyber breach",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c1c84f1e561790f0efea456f56d4f416?impolicy=wcms_crop_resize&amp;cropH=1048&amp;cropW=1863&amp;xPos=185&amp;yPos=84&amp;width=862&amp;height=485"
-      },
-      "description": "Partnered Health, which operates more than 50 general practice and skin cancer clinics across Australia, has identified more than a dozen clinics where it fears patient information was taken.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-15/partnered-health-medical-clinics-hit-by-major-cyber-breach/106920156"
-    },
-    {
-      "published_datetime": "2026-07-15T06:25:12.000000Z",
-      "title": "Trump reverses temporary pause on traffic stops after recent fatal shootings",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4735f7376b1e5f3a9711db167dfda62a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=129&amp;width=862&amp;height=485"
-      },
-      "description": "US President Donald Trump says federal immigration agents will continue carrying out vehicle stops, reversing a temporary pause announced by officials just a day earlier.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-15/trump-reverses-temporary-pause-on-traffic-stops-after-shootings/106916922"
-    },
-    {
-      "published_datetime": "2026-07-15T06:05:39.000000Z",
-      "title": "An alias and a dead man's name: Former ATO executive charged with fraud",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64650fd31abf968d4c1f751b73279ab8?impolicy=wcms_crop_resize&amp;cropH=1601&amp;cropW=2845&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Former assistant tax commissioner Nick Petroulias has been charged with multiple fraud offences, accused of obtaining financial advantage by deception and using false documents.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-15/nsw-fraud-charge-nick-petroulias-assistant-tax-commissioner/106917512"
-    },
-    {
-      "published_datetime": "2026-07-15T06:00:03.000000Z",
-      "title": "Trump beats his own record for strategic backflips on Iran",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/11ae9750bfb28b5a62ca1cc0426e3d0f?impolicy=wcms_crop_resize&amp;cropH=1875&amp;cropW=3333&amp;xPos=0&amp;yPos=433&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump's actions this week have only confirmed he has run out of options and is now engaged in a simple war of wills, and calculations on who will run out of munitions first, with an enemy that he has underestimated from the start.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-15/trumps-actions-in-iran-show-hes-run-out-of-options/106917168"
-    },
-    {
-      "published_datetime": "2026-07-15T05:03:04.000000Z",
-      "title": "Government moves on AI data centres and copyright",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f137592aebb2dd29f5cfde674c4a8be5?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The prime minister has unveiled Labor's plan for new AI national standards, warning Australia has a narrow window to set AI's \"social licence\". A new set of standards for artificial intelligence will provide clear rules for data centres, forcing them to minimise water usage and underwrite or supply their own power. Anthony Albanese has vowed AI companies will not be able to use Australian books, music, art or news to train AI \"without the artist's control\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-15/labor-to-set-standards-for-ai-data-centres-and-copyright/106918380"
-    },
-    {
-      "published_datetime": "2026-07-15T04:02:15.000000Z",
-      "title": "Disgraced footballer Nicky Winmar removed from AFL Hall of Fame",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3c093a075127006d8227392109d6f6e5?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Winmar was found guilty earlier this month of three counts of unlawful assault and common law assault.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-15/nicky-winmar-disgraced-removed-from-afl-hall-of-fame/106918768"
-    },
-    {
-      "published_datetime": "2026-07-15T03:21:45.000000Z",
-      "title": "Sydney uni chief regrets handling of pro-Palestinian encampments",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/03c5d7f033ca34cb26ad0b3dffc8f39f?impolicy=wcms_crop_resize&amp;cropH=816&amp;cropW=1451&amp;xPos=193&amp;yPos=110&amp;width=862&amp;height=485"
-      },
-      "description": "A royal commission hears how both the universities of Melbourne and Sydney have improved processes for students to make complaints in the wake of antisemitic experiences by staff and students, which escalated in 2024.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-15/university-of-melbourne-antisemitism-management-royal-commission/106917522"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-15T18:55:44.773610"
+  "merged_at": "2026-07-15T20:02:51.894744"
 }
