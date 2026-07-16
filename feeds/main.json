@@ -1,12 +1,21 @@
 {
   "items": [
     {
-      "published_datetime": "2026-07-16T21:10:31.000000Z",
-      "title": "Live: Hanson tells far-right podcast she laments end of White Australia policy",
+      "published_datetime": "2026-07-16T23:24:44.000000Z",
+      "title": "Hanson blames migration issues on end of White Australia policy",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/772b8ead3e7852803af5b5f8b26d8d5f?impolicy=wcms_crop_resize&amp;cropH=432&amp;cropW=768&amp;xPos=16&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/748d32fb6735335a000ac72ee552f55a?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The One Nation leader sits down for a podcast conversation with UK far-right activist Tommy Robinson. Follow live.\u00a0",
+      "description": "One Nation leader Pauline Hanson has blamed the end of the White Australia policy for migration issues in the country during a controversial podcast appearance with a far-right activist in the UK.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-17/pauline-hanson-tommy-robinson-podcast/106926030"
+    },
+    {
+      "published_datetime": "2026-07-16T21:10:31.000000Z",
+      "title": "Live: 'Great mates': Joyce shuts down speculation of rift with Hanson after podcast",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85d7dfc41317442e9a0cf484cc05f34d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=412&amp;width=862&amp;height=485"
+      },
+      "description": "Barnaby Joyce has defended his relationship with One Nation leader Pauline Hanson after she sat down for a podcast conversation with UK far-right activist Tommy Robinson. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-17/federal-politics-live-blog-hanson-podcast/106925958"
     },
     {
@@ -35,15 +44,6 @@
       },
       "description": "Telstra promised Alastair Gaisford that his wife's healthcare was a priority. But he says 15 landline outages, including some that could have prevented the ability to call Triple Zero in an emergency, have convinced him otherwise.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-17/telstra-priority-assistance-promise-to-customers-criticised/106914190"
-    },
-    {
-      "published_datetime": "2026-07-16T19:00:00.000000Z",
-      "title": "'People want something different': Ardern on the rise of fringe politics",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c354e47c143fb0a6cc395cb98df32d85?impolicy=wcms_crop_resize&amp;cropH=288&amp;cropW=512&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The former New Zealand prime minister reflects on leading through crisis, becoming a mother while running a country and why she believes voters are craving something different.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-17/jacinda-ardern-empathetic-leadership-in-politics/106900418"
     },
     {
       "published_datetime": "2026-07-16T18:56:45.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-16T22:51:26.870782"
+  "merged_at": "2026-07-16T23:51:19.856964"
 }
