@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "published_datetime": "2026-07-16T04:21:53.000000Z",
-      "title": "Ex-prisoners say Australia should do more for citizens detained overseas",
+      "published_datetime": "2026-07-16T10:00:41.000000Z",
+      "title": "Sydney home ownership rate hits 70-year low",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/071d027ef094a97303f8e620b7a5b9e3?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=150&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/659d501fdb8827c766b04a74c84514db?impolicy=wcms_crop_resize&amp;cropH=461&amp;cropW=820&amp;xPos=0&amp;yPos=77&amp;width=862&amp;height=485"
       },
-      "description": "Australians who have endured prolonged detention overseas call on the government to adopt a more strategic approach to cases involving citizens, especially those held by countries that practice \"hostage diplomacy\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/australian-approach-to-foreign-detention/106914922"
+      "description": "Sydney is no longer affordable for most, as new data reveals the number of people who own the home they live in is the lowest it has been in decades.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/kpmg-housing-report-sydney-home-ownership-gone-backwards/106922620"
     },
     {
       "published_datetime": "2026-07-16T06:56:19.000000Z",
@@ -17,15 +17,6 @@
       },
       "description": "A report finds AI systems can be tricked into coaching extremists how to make bombs and plan attacks.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-16/terrorist-use-of-ai-major-national-security-concern/106918918"
-    },
-    {
-      "published_datetime": "2026-07-16T08:00:14.000000Z",
-      "title": "Delay in revealing theft of medical data labelled 'unacceptable'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4793d81088815cf3771f6827d282ccb0?impolicy=wcms_crop_resize&amp;cropH=2966&amp;cropW=5273&amp;xPos=0&amp;yPos=401&amp;width=862&amp;height=485"
-      },
-      "description": "Cybersecurity experts have questioned why Partnered Health took more than three weeks to reveal it had been the victim of a data breach.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/medical-records-hack-delay/106924070"
     },
     {
       "published_datetime": "2026-07-16T05:52:33.000000Z",
@@ -46,6 +37,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-16/ai-albanese-book-deals-liberals-taylor-hanson-rinehart/106912200"
     },
     {
+      "published_datetime": "2026-07-16T10:20:49.000000Z",
+      "title": "Major disturbance unfolds at Perth's maximum security prison",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dfda6b580d7a7a46d56351d6137ba1cd?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A prison officer has been injured in a major disturbance that caused significant damage at Perth’s maximum-security prison.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/disturbance-at-wa-maximum-security-prison-casuarina/106925196"
+    },
+    {
       "published_datetime": "2026-07-16T06:48:47.000000Z",
       "title": "Transgender woman's 'humiliating' experience with major corporations",
       "featured_image": {
@@ -55,13 +55,31 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-16/transgender-woman-humiliated-updating-details-major-institutions/106813062"
     },
     {
-      "published_datetime": "2026-07-16T02:55:02.000000Z",
-      "title": "ANU head apologises for failing to protect Jewish staff, students",
+      "published_datetime": "2026-07-16T07:12:12.000000Z",
+      "title": "BHP staff down tools for historic strike in Western Australia",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3d17023a90bd163bcdc93e41db26d860?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7904731fc2f1a7e8b3d964c74d0fb24f?impolicy=wcms_crop_resize&amp;cropH=2405&amp;cropW=4275&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
       },
-      "description": "The interim vice-chancellor of the Australian National University has apologised for the institution's failure to protect the psychological safety of Jewish students and staff during pro-Palestinian encampments in 2024.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/royal-commission-antisemitism-social-cohesion-day-4/106921218"
+      "description": "Workers at the mining giant's operations in Port Hedland have walked off the job in one of the most significant industrial disputes to hit the resources sector in a quarter of a century.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/bhp-strike-begins-port-hedland-wa/106922312"
+    },
+    {
+      "published_datetime": "2026-07-16T10:01:06.000000Z",
+      "title": "NZ's South Island struck by magnitude-5.9 earthquake",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b76213e30be805a1e3e782eaef8078b4?impolicy=wcms_crop_resize&amp;cropH=497&amp;cropW=884&amp;xPos=220&amp;yPos=216&amp;width=862&amp;height=485"
+      },
+      "description": "The earthquake struck 40 kilometres north of Te Anau, with the west coast of the South Island from Milford Sound to Puysegur Point, likely to be affected.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/tsunami-warning-for-new-zealand-south-island/106925218"
+    },
+    {
+      "published_datetime": "2026-07-16T09:22:42.000000Z",
+      "title": "Stink bomb attack planners taken to court by energy giant Woodside",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aa66456ee36f9aa9ae5431e20416333a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Energy giant Woodside has taken climate activists to court in a bid to unmask the conspirators behind a stink-bomb protest that forced the evacuation of its Perth headquarters.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/woodside-pursues-stink-bomb-protesters-in-wa-supreme-court/106923856"
     },
     {
       "published_datetime": "2026-07-16T09:37:23.000000Z",
@@ -73,55 +91,37 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-16/federal-racism-inquiry-darwin-hearings-nt-government-no-show/106918532"
     },
     {
-      "published_datetime": "2026-07-16T09:22:42.000000Z",
-      "title": "Woodside demands activists reveal names of stink-bomb stunt planners",
+      "published_datetime": "2026-07-16T08:00:14.000000Z",
+      "title": "Delay in revealing theft of medical data labelled 'unacceptable'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aa66456ee36f9aa9ae5431e20416333a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4793d81088815cf3771f6827d282ccb0?impolicy=wcms_crop_resize&amp;cropH=2966&amp;cropW=5273&amp;xPos=0&amp;yPos=401&amp;width=862&amp;height=485"
       },
-      "description": "Energy giant Woodside has taken climate activists to court in a bid to unmask the conspirators behind a stink-bomb protest that forced the evacuation of its Perth headquarters.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/woodside-pursues-stink-bomb-protesters-in-wa-supreme-court/106923856"
+      "description": "Cybersecurity experts have questioned why Partnered Health took more than three weeks to reveal it had been the victim of a data breach.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/medical-records-hack-delay/106924070"
     },
     {
-      "published_datetime": "2026-07-16T05:51:00.000000Z",
-      "title": "Drug traffickers jailed over failed plot to smuggle cocaine from PNG by plane",
+      "published_datetime": "2026-07-16T02:55:02.000000Z",
+      "title": "ANU head apologises for failing to protect Jewish staff, students",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9816484c94bb75a200454c725f8f8513?impolicy=wcms_crop_resize&amp;cropH=447&amp;cropW=794&amp;xPos=0&amp;yPos=3&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3d17023a90bd163bcdc93e41db26d860?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Two masterminds behind a 2020 plot to bring $80 million worth of cocaine into Australia were sentenced in Victoria’s County Court, five years after a failed drug trafficking flight.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/failed-cocaine-plane-plot-masterminds-sentenced-in-victoria/106923256"
-    },
-    {
-      "published_datetime": "2026-07-16T03:10:24.000000Z",
-      "title": "Sam Neill's cause of death revealed by agent",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c0013ab3ee0b8d4bd6e854d376ec356f?impolicy=wcms_crop_resize&amp;cropH=2025&amp;cropW=3600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "New Zealand actor Sam Neill died from pneumonia, his long-time agent Philip Grenz has confirmed.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/sam-neill-cause-of-death-revealed-by-agent/106922682"
-    },
-    {
-      "published_datetime": "2026-07-16T06:36:13.000000Z",
-      "title": "Financial backer of embattled MP Moira Deeming requests loan repayment",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dbf407e2b03402489288ac0d8988f04a?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2001&amp;xPos=1598&amp;yPos=221&amp;width=862&amp;height=485"
-      },
-      "description": "Victorian Liberal MP Moira Deeming is embroiled in further court action, this time over funds she is owed from her successful defamation action so that she can repay the businessman who bankrolled her case.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/moira-deeming-liberal-party-court-costs/106923426"
+      "description": "The interim vice-chancellor of the Australian National University has apologised for the institution's failure to protect the psychological safety of Jewish students and staff during pro-Palestinian encampments in 2024.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/royal-commission-antisemitism-social-cohesion-day-4/106921218"
     },
     {
       "published_datetime": "2026-07-16T08:57:02.000000Z",
-      "title": "Live: Cats try to stop the slide against Saints in Geelong",
+      "title": "Live: Cats stretching the lead over Saints at Kardinia",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5c37f6cf38bb90f7d8dc997219680c1f?impolicy=wcms_crop_resize&amp;cropH=1700&amp;cropW=3023&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3cd9bf4c8382b71c35e979e5d0a2afa2?impolicy=wcms_crop_resize&amp;cropH=1565&amp;cropW=2782&amp;xPos=0&amp;yPos=10&amp;width=862&amp;height=485"
       },
       "description": "Geelong hosts St Kilda at Kardinia Park to kick off round 19 of the AFL, with the under-strength Cats desperate to stop a recent slide. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-16/afl-round-19-live-cats-saints-geelong-st-kilda/106912736"
     },
     {
       "published_datetime": "2026-07-16T08:31:36.000000Z",
-      "title": "Live: Broncos premiership defence on the line against NRL-leading Panthers",
+      "title": "Live: Broncos threatening upset over Panthers to keep NRL season alive",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d666694389715bdf9848195d4ea22d4e?impolicy=wcms_crop_resize&amp;cropH=2719&amp;cropW=4833&amp;xPos=0&amp;yPos=361&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94693f9758922c7ecc7493b25fff81d1?impolicy=wcms_crop_resize&amp;cropH=2711&amp;cropW=4819&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "The Penrith Panthers and Brisbane Broncos have won the past five NRL premierships between them, but their 2026 campaigns could not be any different. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-16/nrl-live-updates-penrith-panthers-vs-brisbane-broncos/106913406"
@@ -163,6 +163,42 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-16/petrol-temperature-check-what-happens-with-prices/106917442"
     },
     {
+      "published_datetime": "2026-07-16T04:21:53.000000Z",
+      "title": "Ex-prisoners say Australia should do more for citizens detained overseas",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/071d027ef094a97303f8e620b7a5b9e3?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=150&amp;width=862&amp;height=485"
+      },
+      "description": "Australians who have endured prolonged detention overseas call on the government to adopt a more strategic approach to cases involving citizens, especially those held by countries that practice \"hostage diplomacy\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/australian-approach-to-foreign-detention/106914922"
+    },
+    {
+      "published_datetime": "2026-07-16T03:10:24.000000Z",
+      "title": "Sam Neill's cause of death revealed by agent",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c0013ab3ee0b8d4bd6e854d376ec356f?impolicy=wcms_crop_resize&amp;cropH=2025&amp;cropW=3600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "New Zealand actor Sam Neill died from pneumonia, his long-time agent Philip Grenz has confirmed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/sam-neill-cause-of-death-revealed-by-agent/106922682"
+    },
+    {
+      "published_datetime": "2026-07-16T05:51:00.000000Z",
+      "title": "Drug traffickers jailed over failed plot to smuggle cocaine from PNG by plane",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9816484c94bb75a200454c725f8f8513?impolicy=wcms_crop_resize&amp;cropH=447&amp;cropW=794&amp;xPos=0&amp;yPos=3&amp;width=862&amp;height=485"
+      },
+      "description": "Two masterminds behind a 2020 plot to bring $80 million worth of cocaine into Australia were sentenced in Victoria’s County Court, five years after a failed drug trafficking flight.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/failed-cocaine-plane-plot-masterminds-sentenced-in-victoria/106923256"
+    },
+    {
+      "published_datetime": "2026-07-16T06:36:13.000000Z",
+      "title": "Moira Deeming to be disendorsed as a Liberal candidate after dropping court action",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dbf407e2b03402489288ac0d8988f04a?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2001&amp;xPos=1598&amp;yPos=221&amp;width=862&amp;height=485"
+      },
+      "description": "Victoria's Liberal Party is set to drop Moira Deeming as an upper house candidate following contested claims against former state leader Matthew Guy.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/moira-deeming-liberal-party-court-costs/106923426"
+    },
+    {
       "published_datetime": "2026-07-16T08:50:50.000000Z",
       "title": "Federal MP and staffer injured in boating accident",
       "featured_image": {
@@ -170,15 +206,6 @@
       },
       "description": "Tasmanian police say a man fell from an oyster barge when it hit a sandbar and was briefly trapped. Member for Barker Tony Pasin says he and a staffer were injured and now receiving medical treatment, but it is not clear who fell from the barge. ",
       "page_content_url": "https://www.abc.net.au/news/2026-07-16/tony-pasin-and-staffer-injured-in-tasmanian-waters/106924850"
-    },
-    {
-      "published_datetime": "2026-07-16T07:12:12.000000Z",
-      "title": "BHP staff down tools for historic strike in Western Australia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7904731fc2f1a7e8b3d964c74d0fb24f?impolicy=wcms_crop_resize&amp;cropH=2405&amp;cropW=4275&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
-      },
-      "description": "Workers at the mining giant's operations in Port Hedland have walked off the job in one of the most significant industrial disputes to hit the resources sector in a quarter of a century.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/bhp-strike-begins-port-hedland-wa/106922312"
     },
     {
       "published_datetime": "2026-07-16T01:58:34.000000Z",
@@ -190,15 +217,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-16/spotify-making-ai-music-easier-to-detect/106919814"
     },
     {
-      "published_datetime": "2026-07-16T07:18:17.000000Z",
-      "title": "Police investigate drone footage after suspected underworld hit",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ca2bca88a56f0b97ab969fceffd46063?impolicy=wcms_crop_resize&amp;cropH=359&amp;cropW=639&amp;xPos=0&amp;yPos=138&amp;width=862&amp;height=485"
-      },
-      "description": "Drone footage that reportedly captured a suspected underworld hit in Sydney is under investigation and \"concerning\", a senior NSW Police officer says.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/nsw-jack-cheung-shot-dead-drone-footage-nsw-police/106924456"
-    },
-    {
       "published_datetime": "2026-07-16T05:36:37.000000Z",
       "title": "Activists fear China's ethnic unity law could silence critics in Australia",
       "featured_image": {
@@ -206,24 +224,6 @@
       },
       "description": "Thirty-nine community groups in Australia and around the world issue a statement rejecting and strongly condemning China's ethnic unity law.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-16/communities-condemn-china-ethnic-unity-law/106918618"
-    },
-    {
-      "published_datetime": "2026-07-16T04:47:39.000000Z",
-      "title": "Starmer says political journey 'over' as he faces last question session",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d4375fe1c58d6807f0d51535f2db86d4?impolicy=wcms_crop_resize&amp;cropH=2810&amp;cropW=4995&amp;xPos=0&amp;yPos=499&amp;width=862&amp;height=485"
-      },
-      "description": "Outgoing UK Prime Minister Sir Keir Starmer, who announced his resignation last month, has taken part in his last weekly grilling from MPs in parliament.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/sir-keir-starmer-political-journey-over-last-question-session/106921652"
-    },
-    {
-      "published_datetime": "2026-07-16T09:30:43.000000Z",
-      "title": "Alleged 'fight club' organiser arrested, SA Police say",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a945fb69d09ebceca897b535d8326032?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=187&amp;width=862&amp;height=485"
-      },
-      "description": "SA Police have arrested the alleged organiser of a 'fight club' and reported seven other teenagers they allege were linked to videos of amateur bouts that were posted online.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/teenagers-arrested-and-reported-over-fight-club/106924436"
     }
   ]
 }
