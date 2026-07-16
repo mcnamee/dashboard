@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-16T12:34:39.000000Z",
+      "title": "Father 'disgusted' over expected methanol poisoning charges",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4046abc6f407aaff0f83ccf4bb9ebb3d?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=40&amp;width=862&amp;height=485"
+      },
+      "description": "A Melbourne father whose daughter died from methanol poisoning in Laos has said he is \"disgusted\" over the charges expected to be laid.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/charges-expected-to-be-laid-over-laos-methanol-poisoning-deaths/106925400"
+    },
+    {
+      "published_datetime": "2026-07-16T12:01:00.000000Z",
+      "title": "Government keeps life-changing MS medicines on PBS amid drug pricing row",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/525fa84a4f85a09c4efe9713299a8ab7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Health Minister Mark Butler has accepted independent advice for a rapid review of multiple sclerosis (MS) drugs to ensure they remain available on the PBS.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/ms-patients-given-pbs-lifeline/106925112"
+    },
+    {
       "published_datetime": "2026-07-16T10:20:49.000000Z",
-      "title": "Major disturbance unfolds at Perth's maximum security prison",
+      "title": "Major disturbance unfolds at Perth's maximum-security prison",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dfda6b580d7a7a46d56351d6137ba1cd?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -26,24 +44,6 @@
       },
       "description": "Sydney is no longer affordable for most, as new data reveals the number of people who own the home they live in is the lowest it has been in decades.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-16/kpmg-housing-report-sydney-home-ownership-gone-backwards/106922620"
-    },
-    {
-      "published_datetime": "2026-07-16T09:37:23.000000Z",
-      "title": "NT government slammed over no-show to federal racism inquiry",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/91e561ecc2650de2e89e859eaebb5ae4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "A national inquiry into racism against First Nations people, launched after an alleged terror attack in Perth, has heard allegations of systemic racism in the Northern Territory, as the territory government comes under fire for snubbing the probe.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/federal-racism-inquiry-darwin-hearings-nt-government-no-show/106918532"
-    },
-    {
-      "published_datetime": "2026-07-16T09:22:42.000000Z",
-      "title": "Stink bomb attack planners taken to court by energy giant Woodside",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aa66456ee36f9aa9ae5431e20416333a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Energy giant Woodside has taken climate activists to court in a bid to unmask the conspirators behind a stink-bomb protest that forced the evacuation of its Perth headquarters.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/woodside-pursues-stink-bomb-protesters-in-wa-supreme-court/106923856"
     },
     {
       "published_datetime": "2026-07-16T07:12:12.000000Z",
@@ -83,7 +83,7 @@
     },
     {
       "published_datetime": "2026-07-16T04:33:06.000000Z",
-      "title": "Albanese makes AI plan, Hanson and Rinehart enjoy Sicily",
+      "title": "Albanese announces AI plan, Hanson joins Rinehart in Sicily",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e8c515397693907aaef799822824d976?impolicy=wcms_crop_resize&amp;cropH=2307&amp;cropW=4102&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-16T11:38:02.282958"
+  "merged_at": "2026-07-16T13:21:53.031086"
 }
