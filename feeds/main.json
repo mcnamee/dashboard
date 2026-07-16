@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-16T20:00:24.000000Z",
+      "title": "Sam Neill died from a common infection. Here's how pneumonia can turn deadly",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9febd9a0d81f4c1af3f83610f3fa5f3c?impolicy=wcms_crop_resize&amp;cropH=1187&amp;cropW=2111&amp;xPos=0&amp;yPos=129&amp;width=862&amp;height=485"
+      },
+      "description": "After the actor's death from pneumonia, here's what to know about the common infection, its symptoms and why it can sometimes become deadly.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-17/what-to-know-about-pneumonia-after-sam-neill-death/106924564"
+    },
+    {
       "published_datetime": "2026-07-16T19:31:11.000000Z",
-      "title": "Consumer law failing drivers as EVs and high-tech cars flood market, dealers say",
+      "title": "Drivers wait months for faults to be repaired on EVs built by new brands",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/43d61939489ce41f4a62cf368fbeabe7?impolicy=wcms_crop_resize&amp;cropH=893&amp;cropW=1589&amp;xPos=0&amp;yPos=85&amp;width=862&amp;height=485"
       },
@@ -38,7 +47,7 @@
     },
     {
       "published_datetime": "2026-07-16T18:46:10.000000Z",
-      "title": "Taylor has two major problems \u2014 and that's leaving aside One Nation",
+      "title": "A gulf has opened up between the Liberals and the zeitgeist",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/98dc8af337c6eeb4bdd3bc51feb5106a?impolicy=wcms_crop_resize&amp;cropH=3292&amp;cropW=5852&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -56,7 +65,7 @@
     },
     {
       "published_datetime": "2026-07-16T18:38:45.000000Z",
-      "title": "The tankers that triggered the latest Gulf escalation were 'highly, highly targeted'",
+      "title": "'They were not random attacks': The tankers targeted in the Strait of Hormuz",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c51e0680f788ff0aab4de81432f60e76?impolicy=wcms_crop_resize&amp;cropH=718&amp;cropW=1277&amp;xPos=83&amp;yPos=175&amp;width=862&amp;height=485"
       },
@@ -65,7 +74,7 @@
     },
     {
       "published_datetime": "2026-07-16T18:36:06.000000Z",
-      "title": "Dad granted full custody after four years in court returns children to mum",
+      "title": "Parents go against court orders after children 'traumatised'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba9e779fc06a8c32954a53abe8309a98?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -74,21 +83,12 @@
     },
     {
       "published_datetime": "2026-07-16T12:01:00.000000Z",
-      "title": "Government keeps life-changing MS medicines on PBS amid drug pricing row",
+      "title": "Win for MS patients facing drug pricing cliff",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/525fa84a4f85a09c4efe9713299a8ab7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
       "description": "Health Minister Mark Butler has accepted independent advice for a rapid review of MS drugs to ensure they remain available on the PBS.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-16/ms-patients-given-pbs-lifeline/106925112"
-    },
-    {
-      "published_datetime": "2026-07-16T10:01:06.000000Z",
-      "title": "NZ's South Island struck by magnitude-5.9 earthquake",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b76213e30be805a1e3e782eaef8078b4?impolicy=wcms_crop_resize&amp;cropH=497&amp;cropW=884&amp;xPos=220&amp;yPos=216&amp;width=862&amp;height=485"
-      },
-      "description": "The earthquake struck 40 kilometres north of Te Anau, with the west coast of the South Island from Milford Sound to Puysegur Point, likely to be affected.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/tsunami-warning-for-new-zealand-south-island/106925218"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-16T19:57:25.367794"
+  "merged_at": "2026-07-16T20:52:47.147697"
 }
