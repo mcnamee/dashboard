@@ -1,22 +1,58 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-16T04:33:06.000000Z",
+      "title": "Albanese makes AI plan, Hanson and Rinehart enjoy Sicily",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e8c515397693907aaef799822824d976?impolicy=wcms_crop_resize&amp;cropH=2307&amp;cropW=4102&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "It might not have been a sitting week but it has been a busy few days in politics with the prime minister's AI announcement, a raft of politicians inking book deals and a spotting of Pauline Hanson and Gina Rinehart in Sicily.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/ai-albanese-book-deals-liberals-taylor-hanson-rinehart/106912200"
+    },
+    {
+      "published_datetime": "2026-07-16T04:21:53.000000Z",
+      "title": "Foreigners report violence, 'thought reports' and censored letters in Chinese prisons",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/071d027ef094a97303f8e620b7a5b9e3?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=150&amp;width=862&amp;height=485"
+      },
+      "description": "Australians who have endured prolonged detention overseas call on the government to adopt a more strategic approach to cases involving citizens, especially those held by countries that practice \"hostage diplomacy\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/australian-approach-to-foreign-detention/106914922"
+    },
+    {
+      "published_datetime": "2026-07-16T03:10:24.000000Z",
+      "title": "Sam Neill's cause of death revealed by agent",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c0013ab3ee0b8d4bd6e854d376ec356f?impolicy=wcms_crop_resize&amp;cropH=2025&amp;cropW=3600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "New Zealand actor Sam Neill died from pneumonia, his long-time agent Philip Grenz has confirmed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/sam-neill-cause-of-death-revealed-by-agent/106922682"
+    },
+    {
+      "published_datetime": "2026-07-16T02:55:02.000000Z",
+      "title": "ANU head apologises for failing to protect Jewish staff, students",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/47f7c3005672099b5fb1ddfae6e65d12?impolicy=wcms_crop_resize&amp;cropH=4860&amp;cropW=8640&amp;xPos=0&amp;yPos=450&amp;width=862&amp;height=485"
+      },
+      "description": "The interim vice-chancellor of the Australian National University has apologised for the institution's failure to protect the psychological safety of Jewish students and staff during pro-Palestinian encampments in 2024.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/royal-commission-antisemitism-social-cohesion-day-4/106921218"
+    },
+    {
+      "published_datetime": "2026-07-16T01:48:14.000000Z",
+      "title": "BHP workers to strike as mining giant hits record production",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/faac31b21ad8ac0d634f35f9cc84989f?impolicy=wcms_crop_resize&amp;cropH=2916&amp;cropW=5184&amp;xPos=0&amp;yPos=270&amp;width=862&amp;height=485"
+      },
+      "description": "As hundreds of BHP workers prepare to down tools in a landmark strike, the miner has revealed its highest-ever levels of iron ore production.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-16/bhp-record-iron-ore-production-port-hedland-strike/106903200"
+    },
+    {
       "published_datetime": "2026-07-16T01:29:50.000000Z",
-      "title": "England's hopes fade again, but it never stop them dreaming",
+      "title": "England's hopes fade again, but it won't stop them dreaming",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c79d1a85533d63a59ce0b446d6c6fbae?impolicy=wcms_crop_resize&amp;cropH=486&amp;cropW=863&amp;xPos=161&amp;yPos=197&amp;width=862&amp;height=485"
       },
-      "description": "England aren't going to be bringing the World Cup home, 60 years of hurt due to extend at least another four years after the devastation of another semifinal defeat. But it won't stop them dreaming.",
+      "description": "England aren't going to be bringing the World Cup home, 60 years of hurt due to extend at least another four years after the devastation of another semifinal defeat.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-16/england-three-lions-world-cup-semifinal-heartbreak/106921182"
-    },
-    {
-      "published_datetime": "2026-07-16T01:20:20.000000Z",
-      "title": "Iran frees US citizen after almost two years of imprisonment",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7ea5722a4285aa261d2ac52a495ecd4f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Iran has freed a US-Iranian citizen detained since December, 2024 in what Trump says was a 'gesture of goodwill'.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/tehran-frees-us-iranian-woman-dena-karari/106921698"
     },
     {
       "published_datetime": "2026-07-16T01:04:09.000000Z",
@@ -35,42 +71,6 @@
       },
       "description": "The Aussie share market opens up as SpaceX shares see more than $1 trillion wiped. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-16/asx-markets-business-news-live-updates-thursday-16-july/106920822"
-    },
-    {
-      "published_datetime": "2026-07-15T21:08:36.000000Z",
-      "title": "Live: PM defends decision not to attend Garma Festival",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c60272619d016343cf1b7bce4bef6f2c?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Anthony Albanese defends his decision to break a promise and not to attend the Garma Festival this year. Follow live.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/federal-politics-live-blog-ai-office-criticism/106920750"
-    },
-    {
-      "published_datetime": "2026-07-15T19:58:27.000000Z",
-      "title": "Accused gangster to call on AFP in controversial deportation case",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a9bf4ed17ee6317a75a72c8b2670cc0f?impolicy=wcms_crop_resize&amp;cropH=1151&amp;cropW=2046&amp;xPos=2&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Lawyers for accused underworld figure Masood Zakaria want to call AFP Commissioner Krissy Barrett to give evidence as he seeks to have his murder charges thrown out of court.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/masood-zakaria-krissy-barrett-deportation-case-afp/106917530"
-    },
-    {
-      "published_datetime": "2026-07-15T19:00:00.000000Z",
-      "title": "Q-Day is coming and it might break the entire internet",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a349eb24cad0a401ed14734fcd39f212?impolicy=wcms_crop_resize&amp;cropH=1193&amp;cropW=2121&amp;xPos=0&amp;yPos=110&amp;width=862&amp;height=485"
-      },
-      "description": "The countdown is on to Q-Day, when an algorithm written more than 30 years ago could run on a quantum computer and compromise the security of data on the internet. How are we preparing?\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/science/2026-07-16/q-day-shors-algorithm-quantum-computer/106868648"
-    },
-    {
-      "published_datetime": "2026-07-15T19:00:00.000000Z",
-      "title": "Albanese rolls out rule book and red carpet for AI companies",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7621d32a9c14bd33e936fe00ad41c0d7?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "If Australia is truly going to coax major AI companies to choose us rather than the other suitor nations with similar ambitions, some tough decisions need to be made soon.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-16/albanese-artficial-intelligence-speech-sydney-university/106917888"
     },
     {
       "published_datetime": "2026-07-15T18:52:13.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-16T01:46:30.364990"
+  "merged_at": "2026-07-16T04:51:42.362923"
 }
