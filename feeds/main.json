@@ -1,13 +1,31 @@
 {
   "items": [
     {
-      "published_datetime": "2026-07-17T06:06:45.000000Z",
-      "title": "NSW woman arrested as part of Dezi Freeman investigation",
+      "published_datetime": "2026-07-17T09:07:33.000000Z",
+      "title": "Live: Swans, Crows in SCG blockbuster",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a2a2d87ff195b06547621d96f6a85b25?impolicy=wcms_crop_resize&amp;cropH=420&amp;cropW=747&amp;xPos=0&amp;yPos=40&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bfbb89116990d5f3947e0ddb4ddd8e0?impolicy=wcms_crop_resize&amp;cropH=1801&amp;cropW=3202&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "A NSW woman was arrested in Bairnsdale today as part of Victoria Police's investigation into the movements of dead police killer Dezi Freeman.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-17/woman-arrested-over-dezi-freeman-case/106929252"
+      "description": "The Swans take on the Crows in a Friday night blockbuster at the SCG in what could be a preview of this year's qualifying final. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-17/afl-rd-19-live-swans-crows/106913082"
+    },
+    {
+      "published_datetime": "2026-07-17T07:46:20.000000Z",
+      "title": "Moira Deeming ousted as Liberal candidate after apology stand-off",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dbf407e2b03402489288ac0d8988f04a?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2001&amp;xPos=1598&amp;yPos=221&amp;width=862&amp;height=485"
+      },
+      "description": "Moira Deeming's political career as a Liberal is over after the party's Victorian state executive voted to revoke the MP's candidacy for the November state election.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-17/moira-deeming-liberal-party-decision-preselection/106928954"
+    },
+    {
+      "published_datetime": "2026-07-17T07:28:29.000000Z",
+      "title": "Live: Sharks turning the screw in frenetic battle against ragged Knights",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/44624c1f6613ae8d119c5d3bdc8657c5?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=44&amp;width=862&amp;height=485"
+      },
+      "description": "Cronulla-Sutherland takes on Newcastle looking to build on last week's mauling of the Dolphins, before the Roosters host Melbourne. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-17/nrl-live-blog-sharks-vs-knights-roosters-vs-storm/106929508"
     },
     {
       "published_datetime": "2026-07-17T05:45:04.000000Z",
@@ -29,21 +47,12 @@
     },
     {
       "published_datetime": "2026-07-17T04:51:19.000000Z",
-      "title": "PNG ousts Taiwan officials, seeks to 'reassure' China after Australian treaty",
+      "title": "Taiwan officials caught off guard as PNG closes trade mission",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a7ac9ad75d7f234e9ca0713d11f813d7?impolicy=wcms_crop_resize&amp;cropH=863&amp;cropW=1535&amp;xPos=0&amp;yPos=353&amp;width=862&amp;height=485"
       },
       "description": "Papua New Guinea will close Taiwan's trade mission in the country, freezing out its fifth largest trading partner in a major strategic move designed to reaffirm ties with China.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-17/png-to-close-taiwan-trade-office-seeking-to-reassure-china/106927630"
-    },
-    {
-      "published_datetime": "2026-07-17T04:22:06.000000Z",
-      "title": "Universities were told of risks from violent intruders at campus protests",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/87e91cb239dd508ca32f1be1712d3b13?impolicy=wcms_crop_resize&amp;cropH=935&amp;cropW=1662&amp;xPos=27&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Royal Commission on Antisemitism and Social Cohesion has heard the tertiary sector's peak standards body wrote to universities to warn them about aggressive outsiders infiltrating pro-Palestinian protests.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-17/antisemitism-royal-commission-melbourne-hearings-friday/106927324"
     },
     {
       "published_datetime": "2026-07-17T03:38:45.000000Z",
@@ -53,15 +62,6 @@
       },
       "description": "A landslide in south-western China's Chongqing municipality has buried people in rubble and destroyed a roadway and a number of buildings, according to state media.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-17/china-landslide-chongqing-municipality/106928370"
-    },
-    {
-      "published_datetime": "2026-07-17T03:16:23.000000Z",
-      "title": "US strikes bridges and collapses tower at port in Iran campaign",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/78dbc467fe5886a098d92d36047132e0?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The United States expanded its air strike campaign against Iran early Friday by hitting more bridges and apparently collapsing a tower at a key Iranian port.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-17/us-expands-air-strike-campaign-iran-hitting-bridges/106927378"
     },
     {
       "published_datetime": "2026-07-17T03:08:32.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-17T07:11:24.527108"
+  "merged_at": "2026-07-17T09:47:47.412262"
 }
