@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-17T20:48:48.000000Z",
+      "title": "Australian stuns The Open with equal lowest round in major golf history",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/255f06b2769b4b029e5925bedaa19d0f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=108&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's Lucas Herbert takes a shock lead at The Open after posting a stunning round where he birdied six of his opening nine holes.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-18/lucas-herbert-british-open-birkdale-equals-lowest-major-round/106930418"
+    },
+    {
       "published_datetime": "2026-07-17T19:41:41.000000Z",
       "title": "Hanson dodges questions about who paid for Italy trip",
       "featured_image": {
@@ -51,7 +60,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/33fb46252a5d9ad487b11c25e68fc3b5?impolicy=wcms_crop_resize&amp;cropH=2285&amp;cropW=4062&amp;xPos=493&amp;yPos=144&amp;width=862&amp;height=485"
       },
-      "description": "There is a rapidly escalating supply crunch that has yet to show up on oil markets. While the price of crude has risen in the past week, as the fragile ceasefire has crumbled, the remarkably restrained price moves have helped create a false sense of security.",
+      "description": "There is a rapidly escalating supply crunch that has yet to show up on oil markets. While the price of crude has risen in the past week as the fragile Iran war ceasefire has crumbled, the remarkably restrained price moves have helped create a false sense of security.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-18/verrender-supply-crunch-oil-markets/106921650"
     },
     {
@@ -80,15 +89,6 @@
       },
       "description": "Bianca Jones and Holly Morton-Bowles, both 19, died after the incident at the Nana Backpackers Hostel in Vang Vieng in November 2024.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-17/laos-backpackers-methanol-tragedy-charges-announced/106929656"
-    },
-    {
-      "published_datetime": "2026-07-17T12:10:24.000000Z",
-      "title": "Burnham to become next UK PM after Australian candidate gets one vote",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/990ca65b8f110050cc020d95b3d7a219?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Andy Burnham will be Britain's seventh prime minister in 10 years next week after winning a Labour leadership contest in which his only challenger, an Australian, received just one vote.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-17/andy-burnham-elected-labour-leader-and-will-become-next-uk-pm/106925814"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-17T20:53:50.686049"
+  "merged_at": "2026-07-17T21:42:34.803192"
 }
