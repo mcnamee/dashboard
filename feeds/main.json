@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-17T19:41:41.000000Z",
+      "title": "Hanson dodges questions about who paid for Italy trip",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f7bb1e8a7ba92bfb1454a248124e1537?impolicy=wcms_crop_resize&amp;cropH=458&amp;cropW=814&amp;xPos=59&amp;yPos=62&amp;width=862&amp;height=485"
+      },
+      "description": "One Nation leader Pauline Hanson refuses to say who paid for her recent trip to Italy, where she attended a fashion show and was spotted at a five-star resort.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-18/pauline-hanson-dodges-questions-about-italy-trip/106925384"
+    },
+    {
       "published_datetime": "2026-07-17T19:24:19.000000Z",
-      "title": "The federal racism inquiry crossed the country this week. What did it hear?",
+      "title": "'Bring back public flogging': Inquiry hears of vicious online trolling",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0fbe1439704eea123836e68008e380a1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -10,17 +19,8 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-18/senate-inquiry-racism-against-first-nations-people/106913910"
     },
     {
-      "published_datetime": "2026-07-17T19:21:07.000000Z",
-      "title": "Prospects for Palestinian statehood 'disappearing', former world leaders say",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0613086fa0050338d2a8a3ce05efc17b?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485"
-      },
-      "description": "The two former world leaders are demanding the international community heap more pressure on Israel to change course.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-18/palestinian-statehood-prospect-disappearing-says-elders/106925336"
-    },
-    {
       "published_datetime": "2026-07-17T19:04:50.000000Z",
-      "title": "Something odd about couples has puzzled scientists for more than a century",
+      "title": "There's something odd about most couples. Geneticists and sociologists have noticed it too",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/19a7b155c10fec02569c6a9491adc149?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -29,7 +29,7 @@
     },
     {
       "published_datetime": "2026-07-17T18:58:29.000000Z",
-      "title": "'I like the idea of service': Sam Neill's impact extended beyond screen",
+      "title": "Sam Neill's advice for when the world seems too dark",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3a98de9ee1f967b1b916c2e30520ce56?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=87&amp;width=862&amp;height=485"
       },
@@ -47,7 +47,7 @@
     },
     {
       "published_datetime": "2026-07-17T18:52:23.000000Z",
-      "title": "Why oil prices are about to surge",
+      "title": "Refinery shortages create new fuel crisis",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/33fb46252a5d9ad487b11c25e68fc3b5?impolicy=wcms_crop_resize&amp;cropH=2285&amp;cropW=4062&amp;xPos=493&amp;yPos=144&amp;width=862&amp;height=485"
       },
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-17T19:58:33.442590"
+  "merged_at": "2026-07-17T20:53:50.686049"
 }
