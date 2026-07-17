@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-17T16:54:41.000000Z",
+      "title": "Cricket legend Sir Garfield Sobers dies aged 89",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d7e589dbf537c102b179e24e4d282bc9?impolicy=wcms_crop_resize&amp;cropH=1723&amp;cropW=3063&amp;xPos=0&amp;yPos=245&amp;width=862&amp;height=485"
+      },
+      "description": "Sir Don Bradman once described Sobers as \"the greatest all-round cricketer I ever saw\".\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-18/sir-garfield-sobers-dies-aged-89/106930718"
+    },
+    {
       "published_datetime": "2026-07-17T13:46:53.000000Z",
       "title": "Ukraine says it destroyed Russian bomber at Engels airbase",
       "featured_image": {
@@ -62,15 +71,6 @@
       },
       "description": "Using a prime-time address to the nation to repeat long-debunked claims about the 2020 election defeat is a desperate and unusual move. Analysts say it's an \"ominous sign\" of how Donald Trump may handle the upcoming midterms.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-17/donald-trump-national-address-ominous-sign-for-midterm-elections/106928662"
-    },
-    {
-      "published_datetime": "2026-07-17T04:51:19.000000Z",
-      "title": "Taiwan officials caught off guard as PNG closes trade mission",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a7ac9ad75d7f234e9ca0713d11f813d7?impolicy=wcms_crop_resize&amp;cropH=863&amp;cropW=1535&amp;xPos=0&amp;yPos=353&amp;width=862&amp;height=485"
-      },
-      "description": "Papua New Guinea will close Taiwan's trade mission in the country, freezing out its fifth largest trading partner in a major strategic move designed to reaffirm ties with China.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-17/png-to-close-taiwan-trade-office-seeking-to-reassure-china/106927630"
     },
     {
       "published_datetime": "2026-07-17T03:38:45.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-17T17:00:47.041352"
+  "merged_at": "2026-07-17T18:53:09.694773"
 }
