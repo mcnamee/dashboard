@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-18T05:48:57.000000Z",
+      "title": "Researchers working on artificial placentas for premature babies",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/11da5d8680ad131e25f9e1e699159ccc?impolicy=wcms_crop_resize&amp;cropH=406&amp;cropW=719&amp;xPos=0&amp;yPos=174&amp;width=862&amp;height=485"
+      },
+      "description": "The aim of the technology is to give babies born too soon a few more weeks to grow and develop in womb-like conditions, and a better chance of a long and healthy life.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-18/artificial-placenta-research-for-premature-babies/106929330"
+    },
+    {
+      "published_datetime": "2026-07-18T05:24:08.000000Z",
+      "title": "'Failed' university scheme hurting home ownership prospects",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/91d583b8c96b7468992e0bcaa3689e64?impolicy=wcms_crop_resize&amp;cropH=799&amp;cropW=1420&amp;xPos=52&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "There are calls for the government to dump a scheme that has more than doubled the cost of some degrees.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-18/job-ready-graduates-university-students-arts-degrees/106928300"
+    },
+    {
       "published_datetime": "2026-07-18T04:29:45.000000Z",
       "title": "Footage shows Australian man handcuffed by ICE agents in Las Vegas airport",
       "featured_image": {
@@ -46,15 +64,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-18/pm-releases-governments-response-to-islamophobia-report/106931170"
     },
     {
-      "published_datetime": "2026-07-17T23:26:39.000000Z",
-      "title": "'Filthy, polluted': Trump's Canada threat as World Cup smoke risk looms",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ffd25fbeb86e8446bc567189f257b01a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=122&amp;width=862&amp;height=485"
-      },
-      "description": "Fears that wildfire smoke could disrupt the World Cup final remain, as US President Donald Trump threatens Canada with tariffs.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-18/smoke-threatens-world-cup-final-2026-canada-donald-trump-tariffs/106931012"
-    },
-    {
       "published_datetime": "2026-07-17T22:47:35.000000Z",
       "title": "Early-onset bowel cancer becoming more prevalent as signs are missed",
       "featured_image": {
@@ -62,15 +71,6 @@
       },
       "description": "Georgie Cauchi had blood in her stool, constant pain and was struggling to get out of bed, but still in her 20s doctors told her she was too young to have bowel cancer. When it was finally discovered several years later, the tumour had grown so large it was blocking her entire bowel.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-18/early-onset-bowel-cancer-missing-warning-signs/106915362"
-    },
-    {
-      "published_datetime": "2026-07-17T19:41:41.000000Z",
-      "title": "Hanson quiet on who paid for Italy trip before speaking at pricey dinner",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f7bb1e8a7ba92bfb1454a248124e1537?impolicy=wcms_crop_resize&amp;cropH=458&amp;cropW=814&amp;xPos=59&amp;yPos=62&amp;width=862&amp;height=485"
-      },
-      "description": "One Nation leader Pauline Hanson refuses to say who paid for her recent trip to Italy, where she attended a fashion show and was spotted at a five-star resort.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-18/pauline-hanson-dodges-questions-about-italy-trip/106925384"
     },
     {
       "published_datetime": "2026-07-17T18:46:21.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-18T04:40:05.844121"
+  "merged_at": "2026-07-18T06:53:37.579564"
 }
