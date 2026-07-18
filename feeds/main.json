@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-18T14:28:34.000000Z",
+      "title": "Massive fire becomes Norway's largest in modern times",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/618d70c4000c10168fe13aed770390c6?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=268&amp;width=862&amp;height=485"
+      },
+      "description": "The largest residential fire in modern Norwegian history destroys more than 100 homes near Oslo in what a local official described as \"a terrible incident\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-19/norway-massive-fire-largest-in-modern-times/106931942"
+    },
+    {
       "published_datetime": "2026-07-18T14:04:18.000000Z",
       "title": "'Lack of evidence' means Lao officials won't lay charges over teens' deaths",
       "featured_image": {
@@ -29,11 +38,11 @@
     },
     {
       "published_datetime": "2026-07-18T10:25:20.000000Z",
-      "title": "Pauline Hanson delivers CPAC London speech to mostly empty seats",
+      "title": "'We are so stupid over there': Pauline Hanson blasts Australia during London speech to mostly empty seats",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b46c4e00eeaae3533f90efbeb1edebe1?impolicy=wcms_crop_resize&amp;cropH=848&amp;cropW=1508&amp;xPos=55&amp;yPos=47&amp;width=862&amp;height=485"
       },
-      "description": "Pauline Hanson has ended her trip to Britain and Europe on a muted note, after around 120 people attended her speech at a political conference in London on Saturday.",
+      "description": "The One Nation leader ends her trip to Britain and Europe on a muted note, after around 120 people attended her speech at a political conference in London on Saturday.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-18/pauline-hanson-delivers-cpac-london-speech/106931646"
     },
     {
@@ -80,15 +89,6 @@
       },
       "description": "Washington and Tehran have been testing the limits of escalation since their ceasefire agreement collapsed last week, raising the prospect of a return to all-out war.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-18/us-and-iran-attack-civilian-infrastructure-in-latest-strikes/106931002"
-    },
-    {
-      "published_datetime": "2026-07-17T18:44:20.000000Z",
-      "title": "Subsidy changes prompt battery installation collapse",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a0fef3d82687bfbbb0dcd3d88f2ebe7?impolicy=wcms_crop_resize&amp;cropH=897&amp;cropW=1594&amp;xPos=0&amp;yPos=83&amp;width=862&amp;height=485"
-      },
-      "description": "Federal subsidies have ignited huge demand for batteries, but a tightening of the rules has experts warning of \"boom and bust\" cycles for the industry.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-18/battery-installation-rates-collapse-solar-coaster-strikes-back/106909726"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-18T14:16:24.363915"
+  "merged_at": "2026-07-18T15:45:05.174785"
 }
