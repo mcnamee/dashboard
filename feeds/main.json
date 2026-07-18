@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "published_datetime": "2026-07-18T05:48:57.000000Z",
-      "title": "Researchers working on artificial placentas for premature babies",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/11da5d8680ad131e25f9e1e699159ccc?impolicy=wcms_crop_resize&amp;cropH=406&amp;cropW=719&amp;xPos=0&amp;yPos=174&amp;width=862&amp;height=485"
-      },
-      "description": "The aim of the technology is to give babies born too soon a few more weeks to grow and develop in womb-like conditions, and a better chance of a long and healthy life.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-18/artificial-placenta-research-for-premature-babies/106929330"
-    },
-    {
       "published_datetime": "2026-07-18T05:24:08.000000Z",
       "title": "'Failed' university scheme hurting home ownership prospects",
       "featured_image": {
@@ -17,6 +8,15 @@
       },
       "description": "There are calls for the government to dump a scheme that has more than doubled the cost of some degrees.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-18/job-ready-graduates-university-students-arts-degrees/106928300"
+    },
+    {
+      "published_datetime": "2026-07-18T04:41:25.000000Z",
+      "title": "Arrival of huge US thrift chain Savers unsettles Geelong op shops",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fad16861d23a1a3039e40f923976cd1c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Charity op shops in Geelong are feeling threatened by the arrival of US megastore Savers.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-18/us-thrift-chain-savers-arrival-unsettles-geelong-op-shops/106926136"
     },
     {
       "published_datetime": "2026-07-18T04:29:45.000000Z",
@@ -31,7 +31,7 @@
       "published_datetime": "2026-07-18T04:23:21.000000Z",
       "title": "Why India's reopening a nuclear power plant built in the 1960s",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/15e436a4ac59c228e3858600502894da?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=169&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f39292b3b92bc68a11a8bc2f75510d2a?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
       },
       "description": "Despite repeated setbacks and isolation, India continues to hold onto its nuclear dream.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-18/india-nuclear-power-ambitions-tarapur-plant/106926796"
@@ -64,6 +64,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-18/pm-releases-governments-response-to-islamophobia-report/106931170"
     },
     {
+      "published_datetime": "2026-07-17T23:21:59.000000Z",
+      "title": "US targets bridges, Iran hits desalination plant as war threat widens",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/67e7314f8d9aa90e14ada5d65ee0764b?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Washington and Tehran have been testing the limits of escalation since their ceasefire agreement collapsed last week, raising the prospect of a return to all-out war.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-18/us-and-iran-attack-civilian-infrastructure-in-latest-strikes/106931002"
+    },
+    {
       "published_datetime": "2026-07-17T22:47:35.000000Z",
       "title": "Early-onset bowel cancer becoming more prevalent as signs are missed",
       "featured_image": {
@@ -71,15 +80,6 @@
       },
       "description": "Georgie Cauchi had blood in her stool, constant pain and was struggling to get out of bed, but still in her 20s doctors told her she was too young to have bowel cancer. When it was finally discovered several years later, the tumour had grown so large it was blocking her entire bowel.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-18/early-onset-bowel-cancer-missing-warning-signs/106915362"
-    },
-    {
-      "published_datetime": "2026-07-17T18:46:21.000000Z",
-      "title": "The race to find routes around the Strait of Hormuz and which nation is winning",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5ef839ee32f63ec4839e5f93d000fccf?impolicy=wcms_crop_resize&amp;cropH=2797&amp;cropW=4973&amp;xPos=0&amp;yPos=316&amp;width=862&amp;height=485"
-      },
-      "description": "Amid uncertainty around the Strait of Hormuz, for months Gulf countries and oil companies have been finding ways to bypass the choke point.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-18/gulf-nations-building-alternatives-to-strait-of-hormuz/106928846"
     },
     {
       "published_datetime": "2026-07-17T18:44:20.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-18T06:53:37.579564"
+  "merged_at": "2026-07-18T08:43:05.633937"
 }
