@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-18T20:14:04.000000Z",
+      "title": "Live: Golden boot and third place up for grabs as France faces England",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c02293d430b6723eb3b9a8c6ad3dac2a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=297&amp;width=862&amp;height=485"
+      },
+      "description": "France and England are playing for pride and third place in the World Cup, as Kylian Mbappe and Harry \u00a0Kane make final bids for the golden boot. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-19/world-cup-england-vs-france-third-place-live-blog/106931398"
+    },
+    {
       "published_datetime": "2026-07-18T19:27:38.000000Z",
-      "title": "Breaking: Two US service members 'killed in action' in Jordan, Centcom says",
+      "title": "Two US service members 'killed in action' in Jordan",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e6a0a5e485b4ee14a54a5842c1ce877e?impolicy=wcms_crop_resize&amp;cropH=2557&amp;cropW=4546&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-07-18T19:10:27.000000Z",
-      "title": "Sara Albrecht voted for Trump three times. Then she took on his tariffs",
+      "title": "Sara Albrecht took on Trump's tariffs. She got 'violent' calls",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ea6870de0d57b82f12e39d52e7fe071e?impolicy=wcms_crop_resize&amp;cropH=1735&amp;cropW=3085&amp;xPos=0&amp;yPos=114&amp;width=862&amp;height=485"
       },
@@ -20,7 +29,7 @@
     },
     {
       "published_datetime": "2026-07-18T19:00:30.000000Z",
-      "title": "The anti-aging industry promises to extend life. Here's the reality\u00a0",
+      "title": "A new tech revolution promises to reverse aging. Here's the reality",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/37ef0fc2c44e159a4fe15d071f466b04?impolicy=wcms_crop_resize&amp;cropH=959&amp;cropW=1705&amp;xPos=28&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -35,15 +44,6 @@
       },
       "description": "Many voters are unhappy with the hand they feel successive governments have dealt them and no one has tapped into that better than Pauline Hanson.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/pauline-hanson-one-nation-dolce-gabbana-liberals-taylor/106928124"
-    },
-    {
-      "published_datetime": "2026-07-18T18:55:12.000000Z",
-      "title": "A US tech start-up wants to turn night into day. The question is why?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c78c186d2241f5cea982a05993373c3f?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=47&amp;width=862&amp;height=485"
-      },
-      "description": "Reflect Orbital has won initial approval for a plan to put thousands of mirrors in orbit that would be visible from anywhere on Earth. But will anyone pay for sunlight?",
-      "page_content_url": "https://www.abc.net.au/news/science/2026-07-19/reflect-orbital-wants-to-sell-sunlight-to-earth/106918866"
     },
     {
       "published_datetime": "2026-07-18T18:53:30.000000Z",
@@ -87,7 +87,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b46c4e00eeaae3533f90efbeb1edebe1?impolicy=wcms_crop_resize&amp;cropH=848&amp;cropW=1508&amp;xPos=55&amp;yPos=47&amp;width=862&amp;height=485"
       },
-      "description": "Pauline Hanson has ended her trip to Britain and Europe on a muted note, after around 120 people attended her speech at a political conference in London on Saturday.",
+      "description": "Pauline Hanson has ended her trip to Britain and Europe on a muted note, after about 120 people attended her speech at a political conference in London on Saturday.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-18/pauline-hanson-delivers-cpac-london-speech/106931646"
     },
     {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-18T19:59:17.123412"
+  "merged_at": "2026-07-18T20:49:15.734694"
 }
