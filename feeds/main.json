@@ -1,13 +1,31 @@
 {
   "items": [
     {
-      "published_datetime": "2026-07-19T19:19:23.000000Z",
-      "title": "Museum wants Holocaust education to create 'a safe Australia for everybody'",
+      "published_datetime": "2026-07-19T21:21:21.000000Z",
+      "title": "Live: Joyce says One Nation doesn't support White Australia policy",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/67c54873105ec7d4478c31b629d8a0ad?impolicy=wcms_crop_resize&amp;cropH=2249&amp;cropW=3998&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/383b468622b077789a0d6710664ed1ef?impolicy=wcms_crop_resize&amp;cropH=2615&amp;cropW=4648&amp;xPos=833&amp;yPos=372&amp;width=862&amp;height=485"
       },
-      "description": "Melbourne Holocaust Museum has had to step up security since 2020 following a rise in incidents that have seen threatening voice messages and hateful comments left online.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-20/holocaust-museum-royal-commission-antisemitism-education/106921230"
+      "description": "Barnaby Joyce says his party doesn't support the White Australia policy after Pauline Hanson blamed the end of the policy for Australia's migration issues. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/federal-politics-live-blog-one-nation/106934254"
+    },
+    {
+      "published_datetime": "2026-07-19T20:27:23.000000Z",
+      "title": "Alone, robbed, and in pain: A man finds himself on Sydney's streets",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/105cc9a1737ff29b90a309acae098a3d?impolicy=wcms_crop_resize&amp;cropH=1467&amp;cropW=2609&amp;xPos=18&amp;yPos=1511&amp;width=862&amp;height=485"
+      },
+      "description": "People with lived experience of homelessness say the issue is deepening, as housing stock remains out-of-reach and community providers are left struggling to cope with demand.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/sydney-homelessness-crisis-nsw-stretched-housing-social-services/106854064"
+    },
+    {
+      "published_datetime": "2026-07-19T20:00:47.000000Z",
+      "title": "Lesbian couple told they are no longer the same family by fertility clinic",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f6c00c0770b84add921e5120ebb66106?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=256&amp;width=862&amp;height=485"
+      },
+      "description": "The Queensland Health advice, given to fertility providers to help navigate the state's assisted reproductive technology legislation, has had a \"devastating\" impact on some same-sex couples trying to have more children.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/qld-health-queer-couples-assisted-reproductive-guidance/106891908"
     },
     {
       "published_datetime": "2026-07-19T19:01:00.000000Z",
@@ -20,15 +38,6 @@
     },
     {
       "published_datetime": "2026-07-19T19:00:00.000000Z",
-      "title": "Australia is making humanoid robots in the midst of its AI reckoning",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/de87ee679b7ccac4fddb79699e7cc492?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Australia this week made an important step forward in grappling with the AI revolution. Meanwhile, in Melbourne a company is making humanoid robots.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-20/artificial-intelligence-testing-models-humanoids-data-centres/106928550"
-    },
-    {
-      "published_datetime": "2026-07-19T19:00:00.000000Z",
       "title": "Abbott amplifies Hanson problem for Liberals",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9276c57b7271e0307956fb40512aa70?impolicy=wcms_crop_resize&amp;cropH=2716&amp;cropW=4828&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
@@ -37,30 +46,39 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/multiculturalism-abbott-hanson-andrew-bragg-albanese-insiders/106928546"
     },
     {
+      "published_datetime": "2026-07-19T19:00:00.000000Z",
+      "title": "Australia is making humanoid robots in the midst of its AI reckoning",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/de87ee679b7ccac4fddb79699e7cc492?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Australia this week made an important step forward in grappling with the AI revolution. Meanwhile, in Melbourne a company is making humanoid robots.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/artificial-intelligence-testing-models-humanoids-data-centres/106928550"
+    },
+    {
       "published_datetime": "2026-07-19T18:44:18.000000Z",
-      "title": "One telehealth consult and a doctor prescribed unapproved peptides",
+      "title": "I tried to get unapproved injectables from a doctor. It was too easy",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/62be38e16128ae394df0c9ea3433ee2f?impolicy=wcms_crop_resize&amp;cropH=867&amp;cropW=1541&amp;xPos=0&amp;yPos=32&amp;width=862&amp;height=485"
       },
-      "description": "The booming industry selling Australians on treatments to live longer is exploiting significant gaps in health regulation, exposing consumers to risk.",
+      "description": "The booming industry selling Australians on treatments to live longer is exploiting significant gaps in health regulation, exposing consumers to risk.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/peptide-prescription-from-longevity-clinic-risk-regulator-warns/106924894"
     },
     {
       "published_datetime": "2026-07-19T17:56:01.000000Z",
-      "title": "Live: Spain and Argentina deadlocked in feisty World Cup final",
+      "title": "Live: Spain goal controversially disallowed as World Cup final hits extra-time",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/16c4ecf2de2c0f867dbee3b2089db0de?impolicy=wcms_crop_resize&amp;cropH=1576&amp;cropW=2801&amp;xPos=209&amp;yPos=123&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bd239f9fcb7a3ca9cad578254e1bf2ac?impolicy=wcms_crop_resize&amp;cropH=2108&amp;cropW=3748&amp;xPos=0&amp;yPos=328&amp;width=862&amp;height=485"
       },
-      "description": "Spain is looking to win its second World Cup, taking on four-time and defending champions Argentina at New York/New Jersey Stadium. Follow live.",
+      "description": "The World Cup final heads to extra-time after Spain fails to find a winner and Argentina, down to 10 men, defends for its life. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/world-cup-live-updates-spain-vs-argentina-world-cup-final/106785590"
     },
     {
       "published_datetime": "2026-07-19T14:23:55.000000Z",
       "title": "Pauline Hanson 'not backing away' from controversial far-right interview",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/51ee061eaa32d84fa36a585c72a71902?impolicy=wcms_crop_resize&amp;cropH=2346&amp;cropW=4170&amp;xPos=1320&amp;yPos=372&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c214516c881fdb778571930a2e5d5f7?impolicy=wcms_crop_resize&amp;cropH=869&amp;cropW=1545&amp;xPos=4&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The One Nation leader was a guest on the podcast of controversial far-right UK figure Tommy Robinson, where she lamented the end of the White Australia policy.",
+      "description": "The One Nation leader was a guest on the podcast of controversial far-right UK figure Tommy Robinson, where she lamented the end of the White Australia policy.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/pauline-hanson-tommy-robinson-interview-podcast/106933634"
     },
     {
@@ -71,24 +89,6 @@
       },
       "description": "The US warns its citizens to stay away from air and sea ports at Aqaba in southern Jordan, hours before Israeli authorities announced that Iranian missiles had been launched towards the city.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/jordan-aqaba-missiles-launched-by-iran-says-idf/106933506"
-    },
-    {
-      "published_datetime": "2026-07-19T11:59:25.000000Z",
-      "title": "Rules to tighten on AI use in decision-making by government departments",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/730f50d9d9da1a137bf20825104cb642?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "Agencies like Centrelink and Services Australia will have to follow a framework to ensure decision-making is \"fair and accurate\" if they use AI. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/government-tighten-rules-ai-artificial-intelligence/106933212"
-    },
-    {
-      "published_datetime": "2026-07-19T11:58:05.000000Z",
-      "title": "Asylum seekers sent to Nauru by Australia say they are going hungry",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cdc062a0b745abc09011af2dc71cab88?impolicy=wcms_crop_resize&amp;cropH=1459&amp;cropW=2592&amp;xPos=0&amp;yPos=229&amp;width=862&amp;height=485"
-      },
-      "description": "According to a survey of 78 asylum seekers on Nauru, 99 per cent said they were regularly skipping meals because they could not afford to buy enough food, while more than three quarters said they rarely had access to free, clean drinking water.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/asylum-seekers-sent-to-nauru-by-australia-go-hungry/106933536"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-19T20:02:48.518118"
+  "merged_at": "2026-07-19T21:42:18.461108"
 }
