@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-19T18:44:18.000000Z",
+      "title": "One telehealth consult and a doctor prescribed unapproved peptides",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a6019792be3ed54f13139c3feabfb57?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The booming industry selling Australians on treatments to live longer is exploiting significant gaps in health regulation, exposing consumers to risk.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/peptide-prescription-from-longevity-clinic-risk-regulator-warns/106924894"
+    },
+    {
+      "published_datetime": "2026-07-19T17:56:01.000000Z",
+      "title": "Live: Spain and Argentina meet in the World Cup final",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9bdbbdb6382c0be88bc66f75ea6425eb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=254&amp;width=862&amp;height=485"
+      },
+      "description": "Spain is looking to win its second World Cup, taking on four-time and defending champions Argentina at New York/New Jersey Stadium. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/world-cup-live-updates-spain-vs-argentina-world-cup-final/106785590"
+    },
+    {
       "published_datetime": "2026-07-19T14:23:55.000000Z",
       "title": "Pauline Hanson 'not backing away' from controversial far-right interview",
       "featured_image": {
@@ -38,11 +56,11 @@
     },
     {
       "published_datetime": "2026-07-19T11:58:05.000000Z",
-      "title": "'The price of food is ridiculous': Asylum seekers sent to Nauru by Australia say they are going hungry",
+      "title": "Asylum seekers sent to Nauru by Australia say they are going hungry",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ce2d6a2423bd8c27c78f38750e0ceed2?impolicy=wcms_crop_resize&amp;cropH=529&amp;cropW=940&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "According to a survey of 78 asylum seekers on Nauru, 99 per cent say they are regularly skipping meals because they cannot afford to buy enough food, while more than three quarters say they rarely have access to free, clean drinking water.",
+      "description": "According to a survey of 78 asylum seekers on Nauru, 99 per cent said they were regularly skipping meals because they could not afford to buy enough food, while more than three quarters said they rarely had access to free, clean drinking water.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/asylum-seekers-sent-to-nauru-by-australia-go-hungry/106933536"
     },
     {
@@ -64,15 +82,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/illicit-alcohol-test-finds-vodka-contains-paint-stripper-product/106923632"
     },
     {
-      "published_datetime": "2026-07-19T05:08:19.000000Z",
-      "title": "Argentina fans stage Times Square takeover ahead of World Cup final",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c12651681bdf92eada0b796a671bbf2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Times Square has been the epicentre for World Cup celebrations throughout the tournament, but it reached new heights as Argentina fans swamped the \"centre of the universe\" ahead of the final against Spain in nearby New Jersey.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/world-cup-argentina-fans-times-square-takeover-spain-final/106933002"
-    },
-    {
       "published_datetime": "2026-07-19T03:38:22.000000Z",
       "title": "Actor Terence Donovan remembered by son Jason as 'larger than life'",
       "featured_image": {
@@ -80,15 +89,6 @@
       },
       "description": "Jason Donovan has paid tribute to his father who has died at the age of 90 after decades on Australian screens.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/terence-donovan-death/106933112"
-    },
-    {
-      "published_datetime": "2026-07-18T23:41:54.000000Z",
-      "title": "Andrew and Tristan Tate arrested on sex trafficking offences",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/56ab907463a73b0aaa253682eab6c8e8?impolicy=wcms_crop_resize&amp;cropH=2214&amp;cropW=3936&amp;xPos=0&amp;yPos=209&amp;width=862&amp;height=485"
-      },
-      "description": "British prosecutors say they are seeking the extradition of the Tate brothers from the US on rape and sex trafficking charges.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/influencers-andrew-tristan-tate-brothers-arrested-miami/106932724"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-19T17:50:24.248619"
+  "merged_at": "2026-07-19T18:52:05.211358"
 }
