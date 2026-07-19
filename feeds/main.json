@@ -1,19 +1,55 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-19T19:19:23.000000Z",
+      "title": "Museum wants Holocaust education to create 'a safe Australia for everybody'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/67c54873105ec7d4478c31b629d8a0ad?impolicy=wcms_crop_resize&amp;cropH=2249&amp;cropW=3998&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Melbourne Holocaust Museum has had to step up security since 2020 following a rise in incidents that have seen threatening voice messages and hateful comments left online.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/holocaust-museum-royal-commission-antisemitism-education/106921230"
+    },
+    {
+      "published_datetime": "2026-07-19T19:01:00.000000Z",
+      "title": "For some in Australia, hope is fading and anger is rising",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7a8e94a084abf09e513b888cf915c16b?impolicy=wcms_crop_resize&amp;cropH=2204&amp;cropW=3918&amp;xPos=173&amp;yPos=609&amp;width=862&amp;height=485"
+      },
+      "description": "Sulaiman Zandinan says Australia is amazing. Wendy Newman says people in the bush are \"not country bumpkins\". The ABC is inviting you to have Your Say about the issues, challenges and opportunities that shape your life in 2026.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/abc-your-say-invites-audience-submissions/106928598"
+    },
+    {
+      "published_datetime": "2026-07-19T19:00:00.000000Z",
+      "title": "Australia is making humanoid robots in the midst of its AI reckoning",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/de87ee679b7ccac4fddb79699e7cc492?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Australia this week made an important step forward in grappling with the AI revolution. Meanwhile, in Melbourne a company is making humanoid robots.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/artificial-intelligence-testing-models-humanoids-data-centres/106928550"
+    },
+    {
+      "published_datetime": "2026-07-19T19:00:00.000000Z",
+      "title": "Abbott amplifies Hanson problem for Liberals",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b9276c57b7271e0307956fb40512aa70?impolicy=wcms_crop_resize&amp;cropH=2716&amp;cropW=4828&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Pauline Hanson's grievance politics is a challenge for Labor, but a splitting headache for the Liberals \u2014 compounded by former prime minister Tony Abbott.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/multiculturalism-abbott-hanson-andrew-bragg-albanese-insiders/106928546"
+    },
+    {
       "published_datetime": "2026-07-19T18:44:18.000000Z",
       "title": "One telehealth consult and a doctor prescribed unapproved peptides",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a6019792be3ed54f13139c3feabfb57?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/62be38e16128ae394df0c9ea3433ee2f?impolicy=wcms_crop_resize&amp;cropH=867&amp;cropW=1541&amp;xPos=0&amp;yPos=32&amp;width=862&amp;height=485"
       },
       "description": "The booming industry selling Australians on treatments to live longer is exploiting significant gaps in health regulation, exposing consumers to risk.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/peptide-prescription-from-longevity-clinic-risk-regulator-warns/106924894"
     },
     {
       "published_datetime": "2026-07-19T17:56:01.000000Z",
-      "title": "Live: Spain and Argentina meet in the World Cup final",
+      "title": "Live: Spain and Argentina deadlocked in feisty World Cup final",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9bdbbdb6382c0be88bc66f75ea6425eb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=254&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/16c4ecf2de2c0f867dbee3b2089db0de?impolicy=wcms_crop_resize&amp;cropH=1576&amp;cropW=2801&amp;xPos=209&amp;yPos=123&amp;width=862&amp;height=485"
       },
       "description": "Spain is looking to win its second World Cup, taking on four-time and defending champions Argentina at New York/New Jersey Stadium. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/world-cup-live-updates-spain-vs-argentina-world-cup-final/106785590"
@@ -29,21 +65,12 @@
     },
     {
       "published_datetime": "2026-07-19T13:25:01.000000Z",
-      "title": "Israel says Iran has launched missiles towards Jordan",
+      "title": "US ally Jordan summons Iranian ambassador after missile strikes",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4f0f1d7686f5f188dac1859a9da24bbf?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
       },
       "description": "The US warns its citizens to stay away from air and sea ports at Aqaba in southern Jordan, hours before Israeli authorities announced that Iranian missiles had been launched towards the city.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/jordan-aqaba-missiles-launched-by-iran-says-idf/106933506"
-    },
-    {
-      "published_datetime": "2026-07-19T12:04:24.000000Z",
-      "title": "Antonelli extends F1 championship lead, heartbroken Russell crashes out in Belgium",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ecfb824b146390d743bfd886d62b7c64?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=329&amp;width=862&amp;height=485"
-      },
-      "description": "Kimi Antonelli has extended his lead at the top of the F1 championship standings with victory in the Belgian Grand Prix, with Oscar Piastri overcoming an early knock and George Russell's race ending in heartbreak.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/f1-belgian-gp-antonelli-wins-russell-crashes-piastri-fifth/106932990"
     },
     {
       "published_datetime": "2026-07-19T11:59:25.000000Z",
@@ -58,37 +85,10 @@
       "published_datetime": "2026-07-19T11:58:05.000000Z",
       "title": "Asylum seekers sent to Nauru by Australia say they are going hungry",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ce2d6a2423bd8c27c78f38750e0ceed2?impolicy=wcms_crop_resize&amp;cropH=529&amp;cropW=940&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cdc062a0b745abc09011af2dc71cab88?impolicy=wcms_crop_resize&amp;cropH=1459&amp;cropW=2592&amp;xPos=0&amp;yPos=229&amp;width=862&amp;height=485"
       },
       "description": "According to a survey of 78 asylum seekers on Nauru, 99 per cent said they were regularly skipping meals because they could not afford to buy enough food, while more than three quarters said they rarely had access to free, clean drinking water.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/asylum-seekers-sent-to-nauru-by-australia-go-hungry/106933536"
-    },
-    {
-      "published_datetime": "2026-07-19T09:45:19.000000Z",
-      "title": "Russia pounds Kyiv in major ballistic missile attack",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d137d1b5b3b5016f2baa22e8d6c77937?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=182&amp;width=862&amp;height=485"
-      },
-      "description": "Ukrainian President Volodymyr Zelenskyy says Russia battered Ukraine's capital Kyiv overnight into Sunday local time, with one of its biggest ballistic missile barrages of the war.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/russia-pounds-kyiv-in-major-ballistic-missile-attack/106933440"
-    },
-    {
-      "published_datetime": "2026-07-19T05:28:36.000000Z",
-      "title": "The 'terrifying' lab test results from store-bought bottle of vodka",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7e41efd706f92df531ff205f4e8b1879?impolicy=wcms_crop_resize&amp;cropH=1025&amp;cropW=1822&amp;xPos=98&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Australia's bootleg booze market is booming and an alarming new discovery from a bottle of vodka sold in Melbourne reveals it is turning into a major health problem.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/illicit-alcohol-test-finds-vodka-contains-paint-stripper-product/106923632"
-    },
-    {
-      "published_datetime": "2026-07-19T03:38:22.000000Z",
-      "title": "Actor Terence Donovan remembered by son Jason as 'larger than life'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/74d93df7dea5c25daf862ce1d6a38b40?impolicy=wcms_crop_resize&amp;cropH=326&amp;cropW=579&amp;xPos=0&amp;yPos=23&amp;width=862&amp;height=485"
-      },
-      "description": "Jason Donovan has paid tribute to his father who has died at the age of 90 after decades on Australian screens.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/terence-donovan-death/106933112"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-19T19:14:28.422826"
+  "merged_at": "2026-07-19T20:02:48.518118"
 }
