@@ -1,22 +1,22 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-19T21:58:55.000000Z",
+      "title": "ASIC raises alarm on private credit, with 'every working Australian' exposed",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7f9cf318ec7466611d803f91f1d532de?impolicy=wcms_crop_resize&amp;cropH=472&amp;cropW=840&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The corporate regulator is concerned about the risks posed by private credit for Australians with superannuation.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/asic-raises-alarm-on-private-credit/106929244"
+    },
+    {
       "published_datetime": "2026-07-19T21:21:21.000000Z",
-      "title": "Live: Joyce says One Nation doesn't support White Australia policy",
+      "title": "Live: Joyce says One Nation does not support White Australia policy",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/383b468622b077789a0d6710664ed1ef?impolicy=wcms_crop_resize&amp;cropH=2615&amp;cropW=4648&amp;xPos=833&amp;yPos=372&amp;width=862&amp;height=485"
       },
-      "description": "Barnaby Joyce says his party doesn't support the White Australia policy after Pauline Hanson blamed the end of the policy for Australia's migration issues. Follow live.\u00a0",
+      "description": "Barnaby Joyce says his party does not support the White Australia policy after Pauline Hanson blamed the end of the policy for Australia's migration issues. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/federal-politics-live-blog-one-nation/106934254"
-    },
-    {
-      "published_datetime": "2026-07-19T20:27:23.000000Z",
-      "title": "Alone, robbed, and in pain: A man finds himself on Sydney's streets",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/105cc9a1737ff29b90a309acae098a3d?impolicy=wcms_crop_resize&amp;cropH=1467&amp;cropW=2609&amp;xPos=18&amp;yPos=1511&amp;width=862&amp;height=485"
-      },
-      "description": "People with lived experience of homelessness say the issue is deepening, as housing stock remains out-of-reach and community providers are left struggling to cope with demand.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-20/sydney-homelessness-crisis-nsw-stretched-housing-social-services/106854064"
     },
     {
       "published_datetime": "2026-07-19T20:00:47.000000Z",
@@ -65,11 +65,11 @@
     },
     {
       "published_datetime": "2026-07-19T17:56:01.000000Z",
-      "title": "Live: Spain goal controversially disallowed as World Cup final hits extra-time",
+      "title": "Live: Spain receives World Cup trophy from Trump after final win over Argentina",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bd239f9fcb7a3ca9cad578254e1bf2ac?impolicy=wcms_crop_resize&amp;cropH=2108&amp;cropW=3748&amp;xPos=0&amp;yPos=328&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/615ec5ecfd75b08d00219bf580d9031e?impolicy=wcms_crop_resize&amp;cropH=2635&amp;cropW=4684&amp;xPos=131&amp;yPos=404&amp;width=862&amp;height=485"
       },
-      "description": "The World Cup final heads to extra-time after Spain fails to find a winner and Argentina, down to 10 men, defends for its life. Follow live.",
+      "description": "Spain wins the 2026 World Cup, with Ferran Torres coming off the bench to score the winner in extra-time against 10-man Argentina. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/world-cup-live-updates-spain-vs-argentina-world-cup-final/106785590"
     },
     {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-19T21:42:18.461108"
+  "merged_at": "2026-07-19T22:41:30.167500"
 }
