@@ -2,30 +2,21 @@
   "items": [
     {
       "published_datetime": "2026-07-19T17:56:01.000000Z",
-      "title": "Live: Spain and Argentina deadlocked in feisty World Cup final",
+      "title": "Live: Spain goal controversially disallowed as World Cup final hits extra-time",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/16c4ecf2de2c0f867dbee3b2089db0de?impolicy=wcms_crop_resize&amp;cropH=1576&amp;cropW=2801&amp;xPos=209&amp;yPos=123&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bd239f9fcb7a3ca9cad578254e1bf2ac?impolicy=wcms_crop_resize&amp;cropH=2108&amp;cropW=3748&amp;xPos=0&amp;yPos=328&amp;width=862&amp;height=485"
       },
-      "description": "Spain is looking to win its second World Cup, taking on four-time and defending champions Argentina at New York/New Jersey Stadium. Follow live.",
+      "description": "The World Cup final heads to extra-time after Spain fails to find a winner and Argentina, down to 10 men, defends for its life. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/world-cup-live-updates-spain-vs-argentina-world-cup-final/106785590"
     },
     {
       "published_datetime": "2026-07-19T18:44:18.000000Z",
-      "title": "One telehealth consult and a doctor prescribed unapproved peptides",
+      "title": "I tried to get unapproved injectables from a doctor. It was too easy",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/62be38e16128ae394df0c9ea3433ee2f?impolicy=wcms_crop_resize&amp;cropH=867&amp;cropW=1541&amp;xPos=0&amp;yPos=32&amp;width=862&amp;height=485"
       },
-      "description": "The booming industry selling Australians on treatments to live longer is exploiting significant gaps in health regulation, exposing consumers to risk.",
+      "description": "The booming industry selling Australians on treatments to live longer is exploiting significant gaps in health regulation, exposing consumers to risk. ",
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/peptide-prescription-from-longevity-clinic-risk-regulator-warns/106924894"
-    },
-    {
-      "published_datetime": "2026-07-19T19:00:00.000000Z",
-      "title": "Australia is making humanoid robots in the midst of its AI reckoning",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/de87ee679b7ccac4fddb79699e7cc492?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Australia this week made an important step forward in grappling with the AI revolution. Meanwhile, in Melbourne a company is making humanoid robots. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-20/artificial-intelligence-testing-models-humanoids-data-centres/106928550"
     },
     {
       "published_datetime": "2026-07-19T19:00:00.000000Z",
@@ -37,15 +28,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/multiculturalism-abbott-hanson-andrew-bragg-albanese-insiders/106928546"
     },
     {
-      "published_datetime": "2026-07-19T14:23:55.000000Z",
-      "title": "Pauline Hanson 'not backing away' from controversial far-right interview",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/51ee061eaa32d84fa36a585c72a71902?impolicy=wcms_crop_resize&amp;cropH=2346&amp;cropW=4170&amp;xPos=1320&amp;yPos=372&amp;width=862&amp;height=485"
-      },
-      "description": "The One Nation leader was a guest on the podcast of controversial far-right UK figure Tommy Robinson, where she lamented the end of the White Australia policy.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-20/pauline-hanson-tommy-robinson-interview-podcast/106933634"
-    },
-    {
       "published_datetime": "2026-07-19T19:01:00.000000Z",
       "title": "For some in Australia, hope is fading and anger is rising",
       "featured_image": {
@@ -53,6 +35,33 @@
       },
       "description": "Sulaiman Zandinan says Australia is amazing. Wendy Newman says people in the bush are \"not country bumpkins\". The ABC is inviting you to have Your Say about the issues, challenges and opportunities that shape your life in 2026.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/abc-your-say-invites-audience-submissions/106928598"
+    },
+    {
+      "published_datetime": "2026-07-19T14:23:55.000000Z",
+      "title": "Pauline Hanson 'not backing away' from controversial far-right interview",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c214516c881fdb778571930a2e5d5f7?impolicy=wcms_crop_resize&amp;cropH=869&amp;cropW=1545&amp;xPos=4&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The One Nation leader was a guest on the podcast of controversial far-right UK figure Tommy Robinson, where she lamented the end of the White Australia policy. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/pauline-hanson-tommy-robinson-interview-podcast/106933634"
+    },
+    {
+      "published_datetime": "2026-07-19T21:21:21.000000Z",
+      "title": "Live: Joyce says One Nation doesn't support White Australia policy",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/383b468622b077789a0d6710664ed1ef?impolicy=wcms_crop_resize&amp;cropH=2615&amp;cropW=4648&amp;xPos=833&amp;yPos=372&amp;width=862&amp;height=485"
+      },
+      "description": "Barnaby Joyce says his party doesn't support the White Australia policy after Pauline Hanson blamed the end of the policy for Australia's migration issues. Follow live. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/federal-politics-live-blog-one-nation/106934254"
+    },
+    {
+      "published_datetime": "2026-07-19T19:00:00.000000Z",
+      "title": "Australia is making humanoid robots in the midst of its AI reckoning",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/de87ee679b7ccac4fddb79699e7cc492?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Australia this week made an important step forward in grappling with the AI revolution. Meanwhile, in Melbourne a company is making humanoid robots. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/artificial-intelligence-testing-models-humanoids-data-centres/106928550"
     },
     {
       "published_datetime": "2026-07-19T13:25:01.000000Z",
@@ -64,31 +73,40 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/jordan-aqaba-missiles-launched-by-iran-says-idf/106933506"
     },
     {
-      "published_datetime": "2026-07-19T19:19:23.000000Z",
-      "title": "Museum wants Holocaust education to create 'a safe Australia for everybody'",
+      "published_datetime": "2026-07-19T20:00:47.000000Z",
+      "title": "Lesbian couple told they are no longer the same family by fertility clinic",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/67c54873105ec7d4478c31b629d8a0ad?impolicy=wcms_crop_resize&amp;cropH=2249&amp;cropW=3998&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f6c00c0770b84add921e5120ebb66106?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=256&amp;width=862&amp;height=485"
       },
-      "description": "Melbourne Holocaust Museum has had to step up security since 2020 following a rise in incidents that have seen threatening voice messages and hateful comments left online.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-20/holocaust-museum-royal-commission-antisemitism-education/106921230"
+      "description": "The Queensland Health advice, given to fertility providers to help navigate the state's assisted reproductive technology legislation, has had a \"devastating\" impact on some same-sex couples trying to have more children.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/qld-health-queer-couples-assisted-reproductive-guidance/106891908"
+    },
+    {
+      "published_datetime": "2026-07-19T20:27:23.000000Z",
+      "title": "Alone, robbed, and in pain: A man finds himself on Sydney's streets",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/105cc9a1737ff29b90a309acae098a3d?impolicy=wcms_crop_resize&amp;cropH=1467&amp;cropW=2609&amp;xPos=18&amp;yPos=1511&amp;width=862&amp;height=485"
+      },
+      "description": "People with lived experience of homelessness say the issue is deepening, as housing stock remains out-of-reach and community providers are left struggling to cope with demand.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/sydney-homelessness-crisis-nsw-stretched-housing-social-services/106854064"
+    },
+    {
+      "published_datetime": "2026-07-19T20:41:33.000000Z",
+      "title": "Home Affairs asks DFV survivors to prove relationship with abusers 'genuine'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/618229febaff4fc26417f007f94ebd96?impolicy=wcms_crop_resize&amp;cropH=4328&amp;cropW=7695&amp;xPos=0&amp;yPos=805&amp;width=862&amp;height=485"
+      },
+      "description": "A federal government safety net has been identified as one of the biggest stressors for migrant women experiencing domestic and family violence.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/dfv-survivors-made-to-prove-genuine-relationship/106869206"
     },
     {
       "published_datetime": "2026-07-19T11:58:05.000000Z",
-      "title": "Asylum seekers sent to Nauru by Australia say they are going hungry",
+      "title": "Asylum seekers sent Australia to Nauru say they are going hungry",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cdc062a0b745abc09011af2dc71cab88?impolicy=wcms_crop_resize&amp;cropH=1459&amp;cropW=2592&amp;xPos=0&amp;yPos=229&amp;width=862&amp;height=485"
       },
-      "description": "According to a survey of 78 asylum seekers on Nauru, 99 per cent said they were regularly skipping meals because they could not afford to buy enough food, while more than three quarters said they rarely had access to free, clean drinking water.",
+      "description": "According to a survey of 78 asylum seekers on Nauru, 99 per cent are regularly skipping meals because they cannot not afford to buy enough food, while more than three-quarters rarely have access to free, clean drinking water.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/asylum-seekers-sent-to-nauru-by-australia-go-hungry/106933536"
-    },
-    {
-      "published_datetime": "2026-07-19T11:59:25.000000Z",
-      "title": "Rules to tighten on AI use in decision-making by government departments",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/730f50d9d9da1a137bf20825104cb642?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "Agencies like Centrelink and Services Australia will have to follow a framework to ensure decision-making is \"fair and accurate\" if they use AI.  ",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/government-tighten-rules-ai-artificial-intelligence/106933212"
     },
     {
       "published_datetime": "2026-07-19T19:47:24.000000Z",
@@ -100,35 +118,17 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/world-cup-2026-council-of-europe-questions-fifa/106934174"
     },
     {
-      "published_datetime": "2026-07-19T19:33:53.000000Z",
-      "title": "Australian baseball's 37yo 'rookie' making national debut at World Cup",
+      "published_datetime": "2026-07-19T19:19:23.000000Z",
+      "title": "Holocaust museum staff and volunteers targeted by hateful comments",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3ef1ca796e6de990ba507aa01d381ba7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=517&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/67c54873105ec7d4478c31b629d8a0ad?impolicy=wcms_crop_resize&amp;cropH=2249&amp;cropW=3998&amp;xPos=1&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Jess Johnson is one of the feel-good stories of the Australian Women's national baseball team. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-20/meet-australian-baseballs-37-year-old-rookie/106932748"
-    },
-    {
-      "published_datetime": "2026-07-19T09:45:19.000000Z",
-      "title": "Russia pounds Kyiv in major ballistic missile attack",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d137d1b5b3b5016f2baa22e8d6c77937?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=182&amp;width=862&amp;height=485"
-      },
-      "description": "Ukrainian President Volodymyr Zelenskyy says Russia battered Ukraine's capital Kyiv overnight into Sunday local time, with one of its biggest ballistic missile barrages of the war.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/russia-pounds-kyiv-in-major-ballistic-missile-attack/106933440"
-    },
-    {
-      "published_datetime": "2026-07-19T19:25:24.000000Z",
-      "title": "Paramedics told not to take complex cardiac patients to Mersey hospital",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b3a50ffc069c937d7e4b1885f18c5583?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
-      },
-      "description": "Paramedics have been told to transport complex cardiac patients in Tasmania's north-west to the Launceston General Hospital rather than the local Mersey Community Hospital.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-20/paramedics-told-avoid-complex-cardiac-patients-mersey-hospital/106932900"
+      "description": "Melbourne Holocaust Museum has had to step up security since 2020 following a rise in incidents that have seen threatening voice messages and hateful comments left online.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/holocaust-museum-royal-commission-antisemitism-education/106921230"
     },
     {
       "published_datetime": "2026-07-19T18:44:11.000000Z",
-      "title": "How can you get the balance right when being online is your job?",
+      "title": "How to switch off and improve work-life balance when your job is online",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8221af483ec1233f39697412ed4e97aa?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=121&amp;width=862&amp;height=485"
       },
@@ -148,82 +148,82 @@
       "published_datetime": "2026-07-19T18:30:00.000000Z",
       "title": "Race Around the World recap: Catch this week's films",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6ca04677f0a252c8c425e4e895f0232e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7c4e4f65ca071a76833ffda1ddbde428?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "From Mexican wrestling to Indian slums, catch up on every week seven film from Race Around the World.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/race-around-the-world-documentary-wrap/106728022"
     },
     {
-      "published_datetime": "2026-07-19T03:38:22.000000Z",
-      "title": "Actor Terence Donovan remembered by son Jason as 'larger than life'",
+      "published_datetime": "2026-07-19T09:45:19.000000Z",
+      "title": "Russia pounds Kyiv in major ballistic missile attack",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/74d93df7dea5c25daf862ce1d6a38b40?impolicy=wcms_crop_resize&amp;cropH=326&amp;cropW=579&amp;xPos=0&amp;yPos=23&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d137d1b5b3b5016f2baa22e8d6c77937?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=182&amp;width=862&amp;height=485"
       },
-      "description": "Jason Donovan has paid tribute to his father who has died at the age of 90 after decades on Australian screens. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/terence-donovan-death/106933112"
+      "description": "Ukrainian President Volodymyr Zelenskyy says Russia battered Ukraine's capital Kyiv overnight into Sunday local time, with one of its biggest ballistic missile barrages of the war.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-19/russia-pounds-kyiv-in-major-ballistic-missile-attack/106933440"
     },
     {
-      "published_datetime": "2026-07-19T05:28:36.000000Z",
-      "title": "The 'terrifying' lab test results from store-bought bottle of vodka",
+      "published_datetime": "2026-07-19T21:00:15.000000Z",
+      "title": "Live: War and AI worries drag down Wall Street, ASX set to rise",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7e41efd706f92df531ff205f4e8b1879?impolicy=wcms_crop_resize&amp;cropH=1025&amp;cropW=1822&amp;xPos=98&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&amp;cropH=530&amp;cropW=942&amp;xPos=0&amp;yPos=14&amp;width=862&amp;height=485"
       },
-      "description": "Australia's bootleg booze market is booming and an alarming new discovery from a bottle of vodka sold in Melbourne reveals it is turning into a major health problem.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/illicit-alcohol-test-finds-vodka-contains-paint-stripper-product/106923632"
+      "description": "Wall Street retreated on Friday as investors continued to bail out on the AI sector. Follow the day's events and insights from our business reporters on the ABC News live markets blog. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/asx-markets-business-live-news-july-20/106932946"
     },
     {
-      "published_datetime": "2026-07-19T19:13:04.000000Z",
-      "title": "Concerns for lost health services under sale to Calvary",
+      "published_datetime": "2026-07-19T20:44:34.000000Z",
+      "title": "Fox takes out British Open, denies Aussie after 'two perfect shots'",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5ff71c8ad4a82e437741dae98aaf6a2f?impolicy=wcms_crop_resize&amp;cropH=2809&amp;cropW=4993&amp;xPos=0&amp;yPos=315&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ce2678e6f7d263d4800a6c40af451174?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=257&amp;width=862&amp;height=485"
       },
-      "description": "Doctors are concerned Tasmanians will be forced to travel interstate for certain procedures if the Hobart Private Hospital is sold to Catholic provider Calvary, but the health minister insists there will be no service gap.  ",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-20/tasmania-hobart-private-calvary-sale-concerns/106910204"
+      "description": "Ryan Fox shows nerves of steel to claim the British Open as Australia's Lucas Herbert has a near miss.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/golf-ryan-fox-wins-british-open-herbert-second/106934248"
     },
     {
-      "published_datetime": "2026-07-19T09:14:34.000000Z",
-      "title": "Special guest dazzles aspiring astronauts at Space Day Out",
+      "published_datetime": "2026-07-19T21:19:08.000000Z",
+      "title": "Vingegaard forced out of Tour after fracture in 'devastating' crash",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f85a9c54cec29b0139d1a16e674cbe79?impolicy=wcms_crop_resize&amp;cropH=1875&amp;cropW=3333&amp;xPos=0&amp;yPos=1332&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6e4b12b1b5194aa6319d0aaac80fcba1?impolicy=wcms_crop_resize&amp;cropH=605&amp;cropW=1075&amp;xPos=0&amp;yPos=27&amp;width=862&amp;height=485"
       },
-      "description": "Young Australians got one step closer to achieving their space exploration dreams on Sunday when they met a \"real-life\" astronaut. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/sa-space-day-out-special-guest-katherine-bennell-pegg/106933180"
+      "description": "Jonas Vingegaard's Tour de France campaign comes to an end after a crash on the 15th stage.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/vingegaard-out-tour-de-france-fractured-collarbone-crash/106934314"
     },
     {
-      "published_datetime": "2026-07-19T12:04:24.000000Z",
-      "title": "Antonelli extends F1 championship lead, heartbroken Russell crashes out in Belgium",
+      "published_datetime": "2026-07-19T20:30:12.000000Z",
+      "title": "Teacher aides face rise in kicking, biting from students",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ecfb824b146390d743bfd886d62b7c64?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=329&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1be2f23abcd8c76845de2954fc3e5754?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Kimi Antonelli has extended his lead at the top of the F1 championship standings with victory in the Belgian Grand Prix, with Oscar Piastri overcoming an early knock and George Russell's race ending in heartbreak.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/f1-belgian-gp-antonelli-wins-russell-crashes-piastri-fifth/106932990"
+      "description": "About four hundred staff — the majority teacher aides — have complained to the United Workers Union since April about facing violent behaviour from students and parents.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/qld-hundreds-of-school-staff-lodge-complaints/106927746"
     },
     {
-      "published_datetime": "2026-07-19T03:03:53.000000Z",
-      "title": "Bek never thought she would grow old until she left her church behind",
+      "published_datetime": "2026-07-19T20:33:17.000000Z",
+      "title": "Road plan for new airport 'flawed and shortsighted', critics say",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6f38b11147e77d92948d3544a483bc46?impolicy=wcms_crop_resize&amp;cropH=658&amp;cropW=1170&amp;xPos=0&amp;yPos=257&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1903bbb64e36e6ff58ad72bc19fb5733?impolicy=wcms_crop_resize&amp;cropH=532&amp;cropW=945&amp;xPos=0&amp;yPos=89&amp;width=862&amp;height=485"
       },
-      "description": "Author Bek Condello says she has not spoken to her friends or family inside the church since she decided to leave. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/bek-condello-doomsday-church-can-you-handle-a-girl-like-me/106901606"
+      "description": "Some transport planners say the design of a major Western Sydney road upgrade is \"nonsensical\" and is at odds with the government's commitment to public transport and new housing. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/western-sydney-liverpool-fifteenth-avenue-road-upgrade-flawed/106923908"
     },
     {
-      "published_datetime": "2026-07-18T23:41:54.000000Z",
-      "title": "Andrew and Tristan Tate arrested on sex trafficking offences",
+      "published_datetime": "2026-07-19T11:59:25.000000Z",
+      "title": "Rules to tighten on AI use in decision-making by government departments",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/56ab907463a73b0aaa253682eab6c8e8?impolicy=wcms_crop_resize&amp;cropH=2214&amp;cropW=3936&amp;xPos=0&amp;yPos=209&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/730f50d9d9da1a137bf20825104cb642?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
-      "description": "British prosecutors say they are seeking the extradition of the Tate brothers from the US on rape and sex trafficking charges. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/influencers-andrew-tristan-tate-brothers-arrested-miami/106932724"
+      "description": "Agencies like Centrelink and Services Australia will have to follow a framework to ensure decision-making is \"fair and accurate\" if they use AI.  ",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-19/government-tighten-rules-ai-artificial-intelligence/106933212"
     },
     {
-      "published_datetime": "2026-07-19T05:43:14.000000Z",
-      "title": "Expert says new cyber law shows Vic government is out of touch with reality",
+      "published_datetime": "2026-07-19T21:26:25.000000Z",
+      "title": "Police release suspect's image after alleged kidnapping attempt",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c6499cd148dcf327945d6d39dc52a9d1?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6b91cd19faedbc72247b0d49d5e14dde?impolicy=wcms_crop_resize&amp;cropH=347&amp;cropW=617&amp;xPos=73&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Jacinta Allan is pledging nation-leading laws forcing tech giants to reveal the identity of trolls, and make it easier for parents to sue tech giants that cause psychiatric harm to their children.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/victoria-social-media-big-tech-laws/106932668"
+      "description": "Investigators say a 33-year-old woman was walking home from work in Warrnambool, south-west Victoria, when a woman tried to push her into a car.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/warrnambool-kidnapping-attempt-white-car-female-victim/106934300"
     }
   ]
 }
