@@ -1,22 +1,31 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-19T17:56:01.000000Z",
+      "title": "Live: Spain and Argentina meet in the World Cup final",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9bdbbdb6382c0be88bc66f75ea6425eb?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=254&amp;width=862&amp;height=485"
+      },
+      "description": "Spain is looking to win its second World Cup, taking on four-time and defending champions Argentina at New York/New Jersey Stadium. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/world-cup-live-updates-spain-vs-argentina-world-cup-final/106785590"
+    },
+    {
+      "published_datetime": "2026-07-19T18:44:18.000000Z",
+      "title": "One telehealth consult and a doctor prescribed unapproved peptides",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a6019792be3ed54f13139c3feabfb57?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The booming industry selling Australians on treatments to live longer is exploiting significant gaps in health regulation, exposing consumers to risk.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/peptide-prescription-from-longevity-clinic-risk-regulator-warns/106924894"
+    },
+    {
       "published_datetime": "2026-07-19T11:58:05.000000Z",
-      "title": "'The price of food is ridiculous': Asylum seekers sent to Nauru by Australia say they are going hungry",
+      "title": "Asylum seekers sent to Nauru by Australia say they are going hungry",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ce2d6a2423bd8c27c78f38750e0ceed2?impolicy=wcms_crop_resize&amp;cropH=529&amp;cropW=940&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "According to a survey of 78 asylum seekers on Nauru, 99 per cent say they are regularly skipping meals because they cannot afford to buy enough food, while more than three quarters say they rarely have access to free, clean drinking water.",
+      "description": "According to a survey of 78 asylum seekers on Nauru, 99 per cent said they were regularly skipping meals because they could not afford to buy enough food, while more than three quarters said they rarely had access to free, clean drinking water.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/asylum-seekers-sent-to-nauru-by-australia-go-hungry/106933536"
-    },
-    {
-      "published_datetime": "2026-07-19T11:59:25.000000Z",
-      "title": "Rules to tighten on AI use in decision-making by government departments",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/730f50d9d9da1a137bf20825104cb642?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
-      },
-      "description": "Agencies like Centrelink and Services Australia will have to follow a framework to ensure decision-making is \"fair and accurate\" if they use AI.  ",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/government-tighten-rules-ai-artificial-intelligence/106933212"
     },
     {
       "published_datetime": "2026-07-19T14:23:55.000000Z",
@@ -37,15 +46,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/jordan-aqaba-missiles-launched-by-iran-says-idf/106933506"
     },
     {
-      "published_datetime": "2026-07-19T12:04:24.000000Z",
-      "title": "Antonelli extends F1 championship lead, heartbroken Russell crashes out in Belgium",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ecfb824b146390d743bfd886d62b7c64?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=329&amp;width=862&amp;height=485"
-      },
-      "description": "Kimi Antonelli has extended his lead at the top of the F1 championship standings with victory in the Belgian Grand Prix, with Oscar Piastri overcoming an early knock and George Russell's race ending in heartbreak.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/f1-belgian-gp-antonelli-wins-russell-crashes-piastri-fifth/106932990"
-    },
-    {
       "published_datetime": "2026-07-19T03:38:22.000000Z",
       "title": "Actor Terence Donovan remembered by son Jason as 'larger than life'",
       "featured_image": {
@@ -53,6 +53,24 @@
       },
       "description": "Jason Donovan has paid tribute to his father who has died at the age of 90 after decades on Australian screens. ",
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/terence-donovan-death/106933112"
+    },
+    {
+      "published_datetime": "2026-07-19T11:59:25.000000Z",
+      "title": "Rules to tighten on AI use in decision-making by government departments",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/730f50d9d9da1a137bf20825104cb642?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+      },
+      "description": "Agencies like Centrelink and Services Australia will have to follow a framework to ensure decision-making is \"fair and accurate\" if they use AI.  ",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-19/government-tighten-rules-ai-artificial-intelligence/106933212"
+    },
+    {
+      "published_datetime": "2026-07-19T12:04:24.000000Z",
+      "title": "Antonelli extends F1 championship lead, heartbroken Russell crashes out in Belgium",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ecfb824b146390d743bfd886d62b7c64?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=329&amp;width=862&amp;height=485"
+      },
+      "description": "Kimi Antonelli has extended his lead at the top of the F1 championship standings with victory in the Belgian Grand Prix, with Oscar Piastri overcoming an early knock and George Russell's race ending in heartbreak.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-19/f1-belgian-gp-antonelli-wins-russell-crashes-piastri-fifth/106932990"
     },
     {
       "published_datetime": "2026-07-19T05:28:36.000000Z",
@@ -73,15 +91,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/russia-pounds-kyiv-in-major-ballistic-missile-attack/106933440"
     },
     {
-      "published_datetime": "2026-07-19T05:08:19.000000Z",
-      "title": "Argentina fans stage Times Square takeover ahead of World Cup final",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c12651681bdf92eada0b796a671bbf2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Times Square has been the epicentre for World Cup celebrations throughout the tournament, but it reached new heights as Argentina fans swamped the \"centre of the universe\" ahead of the final against Spain in nearby New Jersey.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/world-cup-argentina-fans-times-square-takeover-spain-final/106933002"
-    },
-    {
       "published_datetime": "2026-07-18T23:41:54.000000Z",
       "title": "Andrew and Tristan Tate arrested on sex trafficking offences",
       "featured_image": {
@@ -89,15 +98,6 @@
       },
       "description": "British prosecutors say they are seeking the extradition of the Tate brothers from the US on rape and sex trafficking charges. ",
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/influencers-andrew-tristan-tate-brothers-arrested-miami/106932724"
-    },
-    {
-      "published_datetime": "2026-07-19T03:03:53.000000Z",
-      "title": "Bek never thought she would grow old until she left her church behind",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6f38b11147e77d92948d3544a483bc46?impolicy=wcms_crop_resize&amp;cropH=658&amp;cropW=1170&amp;xPos=0&amp;yPos=257&amp;width=862&amp;height=485"
-      },
-      "description": "Author Bek Condello says she has not spoken to her friends or family inside the church since she decided to leave. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/bek-condello-doomsday-church-can-you-handle-a-girl-like-me/106901606"
     },
     {
       "published_datetime": "2026-07-19T09:14:34.000000Z",
@@ -109,6 +109,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/sa-space-day-out-special-guest-katherine-bennell-pegg/106933180"
     },
     {
+      "published_datetime": "2026-07-19T03:03:53.000000Z",
+      "title": "Bek never thought she would grow old until she left her church behind",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6f38b11147e77d92948d3544a483bc46?impolicy=wcms_crop_resize&amp;cropH=658&amp;cropW=1170&amp;xPos=0&amp;yPos=257&amp;width=862&amp;height=485"
+      },
+      "description": "Author Bek Condello says she has not spoken to her friends or family inside the church since she decided to leave. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-19/bek-condello-doomsday-church-can-you-handle-a-girl-like-me/106901606"
+    },
+    {
       "published_datetime": "2026-07-18T19:00:30.000000Z",
       "title": "There's anti-aging hype. Then there's the science showing real promise",
       "featured_image": {
@@ -118,13 +127,31 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/biohacking-anti-aging-science-promise-to-extend-human-lifespan/106923024"
     },
     {
-      "published_datetime": "2026-07-18T18:45:51.000000Z",
-      "title": "Boys who embrace 'expansive masculinity' likely to fare better",
+      "published_datetime": "2026-07-19T18:44:11.000000Z",
+      "title": "How can you get the balance right when being online is your job?",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9efe0191e6bcebb3346ab62b12a97793?impolicy=wcms_crop_resize&amp;cropH=317&amp;cropW=564&amp;xPos=0&amp;yPos=23&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8221af483ec1233f39697412ed4e97aa?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=121&amp;width=862&amp;height=485"
       },
-      "description": "These men are being the role models they never had. They hope to curb Australia's masculinity crisis.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/expansive-masculinity-helping-struggling-boys-and-men/106914886"
+      "description": "When being across trends in your industry feels like part of your job, it can feel like work never ends. Here's how to protect your free time. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/how-to-get-the-balance-right-when-being-online-is-your-job/106920852"
+    },
+    {
+      "published_datetime": "2026-07-19T18:30:00.000000Z",
+      "title": "Try this week's history quiz (we made it an easy one)",
+      "featured_image": {
+        "thumbnail": ""
+      },
+      "description": "Consider yourself a history buff? Test your smarts on the first Moon landing, John Howard and the Riot Act.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/this-week-in-history-quiz-july-20/106922730"
+    },
+    {
+      "published_datetime": "2026-07-19T18:30:00.000000Z",
+      "title": "Race Around the World recap: Catch this week's films",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6ca04677f0a252c8c425e4e895f0232e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "From Mexican wrestling to Indian slums, catch up on every week seven film from Race Around the World.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-20/race-around-the-world-documentary-wrap/106728022"
     },
     {
       "published_datetime": "2026-07-19T02:00:00.000000Z",
@@ -136,6 +163,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/love-story-the-enduring-love-of-a-best-friend/106757660"
     },
     {
+      "published_datetime": "2026-07-18T18:45:51.000000Z",
+      "title": "Boys who embrace 'expansive masculinity' likely to fare better",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9efe0191e6bcebb3346ab62b12a97793?impolicy=wcms_crop_resize&amp;cropH=317&amp;cropW=564&amp;xPos=0&amp;yPos=23&amp;width=862&amp;height=485"
+      },
+      "description": "These men are being the role models they never had. They hope to curb Australia's masculinity crisis.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-19/expansive-masculinity-helping-struggling-boys-and-men/106914886"
+    },
+    {
       "published_datetime": "2026-07-18T18:45:00.000000Z",
       "title": "Australia's only full-time penny-farthing maker is breaking world records",
       "featured_image": {
@@ -143,15 +179,6 @@
       },
       "description": "Farmer-turned-professional penny-farthing maker Dan Bolwell has a cult following of international enthusiasts.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/australian-penny-farthing-maker-guinness-world-record/106919172"
-    },
-    {
-      "published_datetime": "2026-07-18T18:30:00.000000Z",
-      "title": "Say goodbye Norma Jean because it's Spicks and Specks quiz time",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3b05492fff1d0f1999226e22ff0a79ac?impolicy=wcms_crop_resize&amp;cropH=731&amp;cropW=1299&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Your spelling and general trivia skills are useless here. Settle into some pop culture nostalgia.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/spicks-and-specks-music-quiz/106807456"
     },
     {
       "published_datetime": "2026-07-19T05:42:42.000000Z",
@@ -163,13 +190,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/tina-rahimi-pro-boxing-debut-two-years-after-olympics/106905562"
     },
     {
-      "published_datetime": "2026-07-19T01:27:42.000000Z",
-      "title": "Curious case of absent US senator reignites elderly politicians debate",
+      "published_datetime": "2026-07-18T18:30:00.000000Z",
+      "title": "Say goodbye Norma Jean because it's Spicks and Specks quiz time",
       "featured_image": {
-        "thumbnail": ""
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3b05492fff1d0f1999226e22ff0a79ac?impolicy=wcms_crop_resize&amp;cropH=731&amp;cropW=1299&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Washington's rumour mill is hyperactive at the best of times. But an elderly senator's lengthy absence from Congress is cranking it into frenzied overdrive.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/mitch-mcconnell-case-reignites-elderly-politicians-debate/106931192"
+      "description": "Your spelling and general trivia skills are useless here. Settle into some pop culture nostalgia.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-19/spicks-and-specks-music-quiz/106807456"
     },
     {
       "published_datetime": "2026-07-19T07:07:43.000000Z",
@@ -197,33 +224,6 @@
       },
       "description": "The Dolphins shook off last week's humiliating thrashing to power past the Cowboys 36-16 at Lang Park, after Tom Trbojevic suffered another hamstring injury in Manly's defeat to Gold Coast.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-19/nrl-live-updates-titans-vs-sea-eagles-dolphins-vs-cowboys/106928432"
-    },
-    {
-      "published_datetime": "2026-07-19T06:01:24.000000Z",
-      "title": "Hundreds gather in Alice Springs ahead of Pine Gap protest",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4ed35220c052f51d6e8f336481b40c3f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=473&amp;width=862&amp;height=485"
-      },
-      "description": "Hundreds of activists and academics have gathered in Alice Springs to join Arrernte traditional owners ahead of a planned protest against the joint Australian-US military base at Pine Gap. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/activists-traditional-owners-gather-for-pine-gap-protest/106931634"
-    },
-    {
-      "published_datetime": "2026-07-19T05:43:14.000000Z",
-      "title": "Expert says new cyber law shows Vic government is out of touch with reality",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c6499cd148dcf327945d6d39dc52a9d1?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Jacinta Allan is pledging nation-leading laws forcing tech giants to reveal the identity of trolls, and make it easier for parents to sue tech giants that cause psychiatric harm to their children.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/victoria-social-media-big-tech-laws/106932668"
-    },
-    {
-      "published_datetime": "2026-07-19T04:10:50.000000Z",
-      "title": "Woman fighting for life after late-night crash south-east of Melbourne",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a4cefcd90878ebbce666efdc9499ed2e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A woman, aged in her 20s, has suffered life-threatening injuries after the car her family was in rolled into a drain at Catani.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-19/catani-crash-woman-fighting-for-life-police-road-toll/106932986"
     }
   ]
 }
