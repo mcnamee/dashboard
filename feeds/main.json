@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-20T15:34:28.000000Z",
+      "title": "Moscow targeted by drones while Russia bombards Kyiv",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b530c5b7f349baa39edf454602abd492?impolicy=wcms_crop_resize&amp;cropH=2208&amp;cropW=3926&amp;xPos=0&amp;yPos=627&amp;width=862&amp;height=485"
+      },
+      "description": "Ukraine launches its latest attack on the Russian capital, firing more than 400 drones, while the Kremlin deploys more ballistic missiles against targets across Ukraine.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-21/moscow-targeted-by-drones-while-russia-bombards-kyiv/106938100"
+    },
+    {
+      "published_datetime": "2026-07-20T14:59:54.000000Z",
+      "title": "Spouses of people with dementia have higher risk themselves, study finds",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/52b38372120bb00fe349f06b758a6684?impolicy=wcms_crop_resize&amp;cropH=672&amp;cropW=1194&amp;xPos=6&amp;yPos=27&amp;width=862&amp;height=485"
+      },
+      "description": "Having a spouse with dementia puts you at a higher risk of developing the condition, a new study finds.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-21/having-spouse-with-dementia-increases-own-risk-study-finds/106935582"
+    },
+    {
       "published_datetime": "2026-07-20T13:02:06.000000Z",
       "title": "Iran-backed Houthis declare maritime blockade on Saudi Arabia",
       "featured_image": {
@@ -46,15 +64,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/israel-takes-issue-with-labor-draft-national-platform/106937550"
     },
     {
-      "published_datetime": "2026-07-20T08:53:03.000000Z",
-      "title": "Plastic waste burning trial at cement factory prompts backlash",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/36844bc5464f918495130b470b397588?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4001&amp;xPos=608&amp;yPos=97&amp;width=862&amp;height=485"
-      },
-      "description": "A major cement manufacturer has been allowed to burn more plastic waste for fuel at its Adelaide site in a decision a local council is seeking to challenge in court.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-20/adbri-cement-site-waste-fuel-trial-prompts-resident-concern/106936160"
-    },
-    {
       "published_datetime": "2026-07-20T08:14:40.000000Z",
       "title": "New Delhi police clash with protesters as thousands rally for 'cockroach' movement",
       "featured_image": {
@@ -62,15 +71,6 @@
       },
       "description": "Thousands of supporters of India's youth-led \"cockroach\" movement gathered in New Delhi to march \u200con parliament seeking the resignation of the education minister, despite police denying permission for the protest.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-20/india-cockroach-party-march-supporters-caned/106936124"
-    },
-    {
-      "published_datetime": "2026-07-20T06:43:56.000000Z",
-      "title": "Author Randa Abdel-Fattah sues Bendigo Writers Festival organisers",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/69ccaf380413bb5058c4ae1d96ef663b?impolicy=wcms_crop_resize&amp;cropH=411&amp;cropW=730&amp;xPos=0&amp;yPos=65&amp;width=862&amp;height=485"
-      },
-      "description": "Randa Abdel-Fattah launches legal action after Bendigo Writers Festival organisers sent a code of conduct that sparked censorship concerns and led to the boycott of dozens of authors.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-20/bendigo-writers-festival-legal-action-council-la-trobe/106936916"
     },
     {
       "published_datetime": "2026-07-20T03:59:01.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-20T15:02:18.480693"
+  "merged_at": "2026-07-20T17:24:44.177887"
 }
