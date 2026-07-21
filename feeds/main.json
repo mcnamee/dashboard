@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-21T15:12:16.000000Z",
+      "title": "'Irresponsible': Russia conducts live-fire weapons exercise off British coast",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c45d9a359631e94391f4b82b19977fe3?impolicy=wcms_crop_resize&amp;cropH=672&amp;cropW=1194&amp;xPos=6&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A UK minister has confirmed that a Russian naval vessel conducted a \"live-fire weapons exercise\" in international waters off the coast of Plymouth in south-west England.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-22/russian-military-exercise-plymouth-coast/106942414"
+    },
+    {
       "published_datetime": "2026-07-21T12:16:57.000000Z",
       "title": "AI companies 'stole' Australian culture, news bosses say as they call for licensing deals",
       "featured_image": {
@@ -17,15 +26,6 @@
       },
       "description": "In her first appearance since returning to Australia, Pauline Hanson fields questions about her trip to Europe with billionaire Gina Rinehart.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-21/pauline-hanson-defends-europe-trip/106939022"
-    },
-    {
-      "published_datetime": "2026-07-21T08:06:56.000000Z",
-      "title": "Indonesia sentences leader of baby-trafficking ring to seven years' jail",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/03d99d4f459d7ceba185c2d4dc77e55b?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=39&amp;width=862&amp;height=485"
-      },
-      "description": "Lie Siu Luan, 70, was the leader of a group of 19 people accused of trafficking babies in Indonesia and Singapore.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-21/indonesia-baby-trafficking-leader-sentence-seven-years-jail/106941784"
     },
     {
       "published_datetime": "2026-07-21T07:18:59.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-21T14:55:48.594744"
+  "merged_at": "2026-07-21T16:16:25.979017"
 }
