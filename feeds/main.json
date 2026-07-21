@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-07-21T15:12:16.000000Z",
-      "title": "'Irresponsible': Russia conducts live-fire weapons exercise off British coast",
+      "published_datetime": "2026-07-21T18:00:15.000000Z",
+      "title": "'Not finished': Trump signals US strikes on Iran's Pickaxe Mountain site",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c45d9a359631e94391f4b82b19977fe3?impolicy=wcms_crop_resize&amp;cropH=672&amp;cropW=1194&amp;xPos=6&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b78b3362bfaacb9d8e496d235c7ae66?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
       },
-      "description": "A UK minister has confirmed that a Russian naval vessel conducted a \"live-fire weapons exercise\" in international waters off the coast of Plymouth in south-west England.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-22/russian-military-exercise-plymouth-coast/106942414"
+      "description": "President Donald Trump says the United States is far from finished with Iran, warning its next military target could be an underground nuclear complex known as Pickaxe Mountain.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-22/trump-pickaxe-mountain/106942520"
+    },
+    {
+      "published_datetime": "2026-07-21T16:25:56.000000Z",
+      "title": "UK politician Ann Widdecombe hit 21 times with hammer, prosecutors allege",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4051fd58ee9e9c8c69039e70ff8af296?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=326&amp;width=862&amp;height=485"
+      },
+      "description": "Joshua Kerry, 28, appears in the Westminster Magistrates' Court charged with murder over the killing that has shocked the public and political establishment.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-22/widdecombe-alleged-murderer-joshua-kerry-in-court/106942504"
     },
     {
       "published_datetime": "2026-07-21T12:16:57.000000Z",
@@ -35,15 +44,6 @@
       },
       "description": "Former army commando turned Labor MP, Luke Gosling, has denied involvement in an alleged incident with King Charles's representative in the NT.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-21/mp-luke-gosling-denies-incident-with-nt-administrator/106939226"
-    },
-    {
-      "published_datetime": "2026-07-21T07:00:14.000000Z",
-      "title": "Former Catholic bishop sexually abused boys at 'shirts-off' parties, court hears",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed4ae9d7a30f537a385beb9d9ad022bd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=339&amp;width=862&amp;height=485"
-      },
-      "description": "One of Australia's longest serving senior Catholic clerics had a sexual interest in young Aboriginal men and abused them in Western Australia's far north over several years, a Perth court hears.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-21/former-broome-bishop-stands-trial-on-sex-abuse-allegations/106941026"
     },
     {
       "published_datetime": "2026-07-21T05:21:11.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-21T16:16:25.979017"
+  "merged_at": "2026-07-21T18:10:11.722225"
 }
