@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-22T17:24:00.000000Z",
+      "title": "Court date set for trial of captured Venezuelan president Maduro",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/891114bca3532d9ca8b9081c428c9e5d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "US commandos captured Nicolas Maduro and his wife Cilia Flores in January this year and took them to New York, where they now face a number of charges including narcoterrorism.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-23/maduro-court-date-june-2027/106947340"
+    },
+    {
+      "published_datetime": "2026-07-22T16:34:37.000000Z",
+      "title": "US and Saudi Arabia set to unveil nuclear power deal, media reports say",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e736ab3560a747d7bfb59850db9bcbc1?impolicy=wcms_crop_resize&amp;cropH=2797&amp;cropW=4972&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Israeli officials and US politicians from both parties have voiced concern that a civilian nuclear project in Saudi Arabia could be converted to eventually develop nuclear weapons.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-23/us-saudi-arabia-to-reach-nuclear-deal/106947110"
+    },
+    {
       "published_datetime": "2026-07-22T15:44:49.000000Z",
       "title": "Trump threatens Iranian power plants and bridges if ships attacked in Hormuz",
       "featured_image": {
@@ -26,15 +44,6 @@
       },
       "description": "Australia's property market has entered a downturn after both house and unit prices fell for the first time in more than three years, bringing an end to the recent housing boom.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-23/australia-housing-market-downturn-property-prices-decline/106939050"
-    },
-    {
-      "published_datetime": "2026-07-22T14:28:37.000000Z",
-      "title": "Nina Kennedy arrives early to lead Australia into Glasgow opening ceremony",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40bda906df94c4b03b564d9f5d4bfe7b?impolicy=wcms_crop_resize&amp;cropH=2494&amp;cropW=4434&amp;xPos=0&amp;yPos=231&amp;width=862&amp;height=485"
-      },
-      "description": "Reigning Commonwealth Games gold medallists Nina Kennedy and Tim Hodge will carry the Australian flag and King's baton at the Glasgow 2026 opening ceremony.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-23/nina-kennedy-tim-hodge-commonwealth-games-flag-and-baton-bearers/106946590"
     },
     {
       "published_datetime": "2026-07-22T12:56:27.000000Z",
@@ -80,15 +89,6 @@
       },
       "description": "Perth paediatrician Tareq Kamleh went to Syria to join the Islamic State group in 2015 and has, until now, been presumed dead.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-22/tareq-kamleh-islamic-state-doctor-jihad-iraq-jail/106944450"
-    },
-    {
-      "published_datetime": "2026-07-22T04:02:40.000000Z",
-      "title": "Actor to appeal after losing defamation case against Rebel Wilson",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ddd0019c4fc1a80ada207e9f6e33fc66?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
-      },
-      "description": "Hollywood actor Rebel Wilson successfully defends a defamation case brought against her by the star of her directorial debut.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-22/rebel-wilson-charlotte-macinnes-defamation-judgement-handed-down/106943742"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-22T16:16:47.703503"
+  "merged_at": "2026-07-22T18:02:29.003236"
 }
