@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-22T10:30:53.000000Z",
+      "title": "China demands Australia stop 'inciting confrontation' over South China Sea",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/825b50ea09ad74bd61f9b8167689b33e?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=4999&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "China's Ministry of Foreign Affairs has demanded Australia stop \"exaggerating tensions and inciting confrontation\" over the South China Sea after Penny Wong warned Beijing against \"destabilising\" conduct in the region.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-22/china-australia-south-china-sea-philippines-tension/106946822"
+    },
+    {
       "published_datetime": "2026-07-22T08:51:08.000000Z",
       "title": "Details of allegations against Alan Jones emerge after judge decision",
       "featured_image": {
@@ -33,7 +42,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e933fb409404229898b11502f34bb954?impolicy=wcms_crop_resize&amp;cropH=3121&amp;cropW=5549&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
       },
-      "description": "The One Nation leader said women should not 'put up with' domestic violence, as she highlighted the cost of living pressures on families.",
+      "description": "The One Nation leader says women should not \"put up with\" domestic violence, as she highlights the cost-of-living pressures on families.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-22/pauline-hanson-domestic-violence-two-way-street/106945146"
     },
     {
@@ -55,15 +64,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-22/tareq-kamleh-islamic-state-doctor-jihad-iraq-jail/106944450"
     },
     {
-      "published_datetime": "2026-07-22T04:09:22.000000Z",
-      "title": "Grass 'skeletons' hint at 25,000-year-old Indigenous fire ritual in cave",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba8fd5e49f89b07f1432d4cdcbed0b9f?impolicy=wcms_crop_resize&amp;cropH=1875&amp;cropW=3333&amp;xPos=0&amp;yPos=2508&amp;width=862&amp;height=485"
-      },
-      "description": "Evidence of ancient burnt grasses unearthed in a Victorian cave suggest the old ancestors of the GunaiKurnai people used the cave for fire rituals during the Ice Age.",
-      "page_content_url": "https://www.abc.net.au/news/science/2026-07-22/gunaikurnai-plant-burnt-25000-years-cave-study/106936554"
-    },
-    {
       "published_datetime": "2026-07-22T04:02:40.000000Z",
       "title": "Actor to appeal after losing defamation case against Rebel Wilson",
       "featured_image": {
@@ -76,7 +76,7 @@
       "published_datetime": "2026-07-22T03:07:38.000000Z",
       "title": "Origin Energy investigating 'potential' customer data breach",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0f760b3377a0cf2b528a096864286859?impolicy=wcms_crop_resize&amp;cropH=1673&amp;cropW=2974&amp;xPos=0&amp;yPos=312&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba5144e7c7eac899f9d19c9ed295171d?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=337&amp;width=862&amp;height=485"
       },
       "description": "Origin Energy says it does not believe customer credit card or bank details have been affected by a suspected data breach at the company.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-22/origin-energy-investigating-potential-data-breach/106944660"
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-22T10:15:18.386535"
+  "merged_at": "2026-07-22T12:22:07.170892"
 }
