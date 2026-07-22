@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-22T15:44:49.000000Z",
+      "title": "Trump threatens Iranian power plants and bridges if ships attacked in Hormuz",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ef24f546e5c9860461fba7ae6dba67c2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "US strikes have already widened from the south to western and central areas of Iran in recent days.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-23/trump-iran-war-bridges-power-plants-hormuz/106947132"
+    },
+    {
+      "published_datetime": "2026-07-22T15:11:33.000000Z",
+      "title": "Ukraine hits more warehouses of top Russian retailer Wildberries",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e916b40c1ff45dcdc3c25c83a56284af?impolicy=wcms_crop_resize&amp;cropH=911&amp;cropW=1620&amp;xPos=0&amp;yPos=1452&amp;width=862&amp;height=485"
+      },
+      "description": "Volodymyr Zelenskyy said Kyiv struck \"logistics hubs\" supplying the Russian army with \"drone components, navigation equipment and other gear\".\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-23/ukraine-strikes-russian-wildberries-retail/106947118"
+    },
+    {
       "published_datetime": "2026-07-22T14:35:17.000000Z",
       "title": "'Turning point' for housing market as property prices hit three-year low",
       "featured_image": {
@@ -44,24 +62,6 @@
       },
       "description": "Chris Wade was arrested by the Secret Service in Dallas in the early 2000s. It took him on a journey where he went from FBI hacker to Mar-a-Lago and eventually the White House before he came back to Australia to buy his favourite pub.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-22/tech-millionaire-chris-wade-returns-home-murwillumbah/106941360"
-    },
-    {
-      "published_datetime": "2026-07-22T07:02:06.000000Z",
-      "title": "Australians don't understand how interest rates work, RBA finds",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/455a4f5b392c122198e73dcc7e4381b1?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
-      },
-      "description": "The Reserve Bank is concerned that too many Australians have little idea what the central bank is trying to achieve with interest rates, which it says could be making its job harder.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-22/understanding-inflation-would-help-lower-interest-rates-rba/106944486"
-    },
-    {
-      "published_datetime": "2026-07-22T06:30:03.000000Z",
-      "title": "Hanson labels domestic violence 'two-way street'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e933fb409404229898b11502f34bb954?impolicy=wcms_crop_resize&amp;cropH=3121&amp;cropW=5549&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
-      },
-      "description": "The One Nation leader says women should not \"put up with\" domestic violence, as she highlights the cost-of-living pressures on families.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-22/pauline-hanson-domestic-violence-two-way-street/106945146"
     },
     {
       "published_datetime": "2026-07-22T06:23:16.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-22T14:56:56.640471"
+  "merged_at": "2026-07-22T16:16:47.703503"
 }
