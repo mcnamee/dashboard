@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-22T14:35:17.000000Z",
+      "title": "'Turning point' for housing market as property prices hit three-year low",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9183a8237bc4e9a00c8c4832f9969871?impolicy=wcms_crop_resize&amp;cropH=1350&amp;cropW=2400&amp;xPos=0&amp;yPos=201&amp;width=862&amp;height=485"
+      },
+      "description": "Australia's property market has entered a downturn after both house and unit prices fell for the first time in more than three years, bringing an end to the recent housing boom.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-23/australia-housing-market-downturn-property-prices-decline/106939050"
+    },
+    {
+      "published_datetime": "2026-07-22T14:28:37.000000Z",
+      "title": "Nina Kennedy arrives early to lead Australia into Glasgow opening ceremony",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/40bda906df94c4b03b564d9f5d4bfe7b?impolicy=wcms_crop_resize&amp;cropH=2494&amp;cropW=4434&amp;xPos=0&amp;yPos=231&amp;width=862&amp;height=485"
+      },
+      "description": "Reigning Commonwealth Games gold medallists Nina Kennedy and Tim Hodge will carry the Australian flag and King's baton at the Glasgow 2026 opening ceremony.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-23/nina-kennedy-tim-hodge-commonwealth-games-flag-and-baton-bearers/106946590"
+    },
+    {
+      "published_datetime": "2026-07-22T12:56:27.000000Z",
+      "title": "French modelling scout with links to Epstein found dead, prosecutors say",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/91c4ee8b90b041e00507cfc10589f852?impolicy=wcms_crop_resize&amp;cropH=223&amp;cropW=397&amp;xPos=0&amp;yPos=16&amp;width=862&amp;height=485"
+      },
+      "description": "A French modelling scout with close ties to the late US financier Jeffrey Epstein has been found dead at his home outside Paris, prosecutors say.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-22/french-modelling-scout-with-links-to-epstein-found-dead/106947098"
+    },
+    {
       "published_datetime": "2026-07-22T10:30:53.000000Z",
       "title": "China demands Australia stop 'inciting confrontation' over South China Sea",
       "featured_image": {
@@ -8,15 +35,6 @@
       },
       "description": "China's Ministry of Foreign Affairs has demanded Australia stop \"exaggerating tensions and inciting confrontation\" over the South China Sea after Penny Wong warned Beijing against \"destabilising\" conduct in the region.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-22/china-australia-south-china-sea-philippines-tension/106946822"
-    },
-    {
-      "published_datetime": "2026-07-22T08:51:08.000000Z",
-      "title": "Details of allegations against Alan Jones emerge after judge decision",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7f121ba95f152c32551dac972753ba12?impolicy=wcms_crop_resize&amp;cropH=1447&amp;cropW=2573&amp;xPos=0&amp;yPos=135&amp;width=862&amp;height=485"
-      },
-      "description": "Details of allegations against veteran broadcaster Alan Jones can be revealed, after a non-publication order was lifted by a judge.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-22/non-publication-order-lifted-on-alan-jones-hearings/106943826"
     },
     {
       "published_datetime": "2026-07-22T08:07:22.000000Z",
@@ -71,24 +89,6 @@
       },
       "description": "Hollywood actor Rebel Wilson successfully defends a defamation case brought against her by the star of her directorial debut.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-22/rebel-wilson-charlotte-macinnes-defamation-judgement-handed-down/106943742"
-    },
-    {
-      "published_datetime": "2026-07-22T03:07:38.000000Z",
-      "title": "Origin Energy investigating 'potential' customer data breach",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ba5144e7c7eac899f9d19c9ed295171d?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=337&amp;width=862&amp;height=485"
-      },
-      "description": "Origin Energy says it does not believe customer credit card or bank details have been affected by a suspected data breach at the company.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-22/origin-energy-investigating-potential-data-breach/106944660"
-    },
-    {
-      "published_datetime": "2026-07-22T02:00:08.000000Z",
-      "title": "Former Socceroos captain Paul Wade reveals probable CTE diagnosis",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a8ac6fed74ad34d16395e821638aba4?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=130&amp;width=862&amp;height=485"
-      },
-      "description": "Paul Wade says he wants to share his experience to raise awareness about concussion, repeated head impacts and brain health across all levels of football.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-22/former-socceroos-captain-paul-wade-suspected-cte-brain-disease/106941754"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-22T12:22:07.170892"
+  "merged_at": "2026-07-22T14:56:56.640471"
 }
