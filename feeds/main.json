@@ -1,22 +1,31 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-23T22:27:19.000000Z",
+      "title": "Breaking: First suspected positive case of H5 bird flu detected in Queensland",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cbd5fa98c098a39212da6a34e37a15ab?impolicy=wcms_crop_resize&amp;cropH=563&amp;cropW=1000&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
+      },
+      "description": "It's the first wild, migratory seabird in Queensland to return a suspect positive case for H5 bird flu.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-24/bird-flu-queensland-suspected-case/106952884"
+    },
+    {
       "published_datetime": "2026-07-23T21:39:08.000000Z",
       "title": "Breaking: US confirms new 12.5pc tariff for Australia",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/312da8224aeb9e443954b1154beab91c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
       },
-      "description": "The Trump administration confirms a 12.5 per cent tariff will be placed on Australian exports to the US from later today.",
+      "description": "The new levy will be placed on exports from later today, superseding the 10 per cent tariff that was expiring. Dozens of other countries will also be hit, but Australia's tariff is among the highest.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-24/us-trump-administration-new-tariff-announcement/106938462"
     },
     {
       "published_datetime": "2026-07-23T21:06:15.000000Z",
-      "title": "Live: Gambling the focus at second day of Labor National Conference",
+      "title": "Live: New US tariff on Australia 'makes no sense', defence minister says",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/50f311c175251cf0967992610d0f84e8?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c4f22c5f4e856525b9c7fd72a75b42ee?impolicy=wcms_crop_resize&amp;cropH=3159&amp;cropW=5616&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
-      "description": "A push to strengthen the government's action to reduce gambling harm will be the focus on the second day of Labor's National Confernece. Follow live.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-24/federal-politics-live-blog-labor-confernece-july-4/106952636"
+      "description": "Defence Minister Richard Marles has defended Australia's modern slavery laws after the US said it would slap 12.5 per cent tariffs on Australia. Follow live.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-24/federal-politics-live-blog-labor-conference-july-4/106952636"
     },
     {
       "published_datetime": "2026-07-23T19:40:08.000000Z",
@@ -29,7 +38,7 @@
     },
     {
       "published_datetime": "2026-07-23T19:11:06.000000Z",
-      "title": "Conspiracy theories about the AusAlert test spreading online",
+      "title": "Conspiracy theories about AusAlert test spreading online",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/76e0461d56cabd2cf2dc518c34b4f01e?impolicy=wcms_crop_resize&amp;cropH=1078&amp;cropW=1916&amp;xPos=4&amp;yPos=2&amp;width=862&amp;height=485"
       },
@@ -65,7 +74,7 @@
     },
     {
       "published_datetime": "2026-07-23T18:37:14.000000Z",
-      "title": "Live: King Charles opens Glasgow 2026 after ceremony buoyed by Scottish pride",
+      "title": "Live: Commonwealth Games open with tartan, a unicorn and the King in a TARDIS",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/032766f70280faaa45fc3537730656ae?impolicy=wcms_crop_resize&amp;cropH=1695&amp;cropW=3014&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -80,15 +89,6 @@
       },
       "description": "The entry of the Houthi rebels into the war between the US and Iran threatens another vital shipping route through the region, as the entire region remains on high alert.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-24/oil-prices-houthi-iran-us-donald-trump/106952390"
-    },
-    {
-      "published_datetime": "2026-07-23T14:16:47.000000Z",
-      "title": "Saudi Arabia must recognise Israel for nuclear deal, says Trump",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/28430ca3b156c58c6b37106b24e3044f?impolicy=wcms_crop_resize&amp;cropH=1108&amp;cropW=1970&amp;xPos=0&amp;yPos=74&amp;width=862&amp;height=485"
-      },
-      "description": "Donald Trump is insisting the US deal allowing Saudi Arabia to develop a nuclear energy industry has one major condition \u2014 the Arab kingdom must formally recognise the State of Israel.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-24/newly-announced-nuclear-deal-hinges-on-recognition-of-israel/106952128"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-23T21:57:03.363001"
+  "merged_at": "2026-07-23T22:51:45.100838"
 }
