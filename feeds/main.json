@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "published_datetime": "2026-07-23T22:27:19.000000Z",
-      "title": "Breaking: First suspected positive case of H5 bird flu detected in Queensland",
+      "published_datetime": "2026-07-23T22:32:49.000000Z",
+      "title": "Out of necessity is borne a uniquely Scottish Commonwealth Games opening ceremony",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cbd5fa98c098a39212da6a34e37a15ab?impolicy=wcms_crop_resize&amp;cropH=563&amp;cropW=1000&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3b3ca4c70ddaf4471c5b075c1ae8a467?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=569&amp;width=862&amp;height=485"
       },
-      "description": "It's the first wild, migratory seabird in Queensland to return a suspect positive case for H5 bird flu.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-24/bird-flu-queensland-suspected-case/106952884"
+      "description": "The 2026 Commonwealth Games are like no other that came before them and the opening ceremony was similarly unique in a way that will make it hard to go back.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-24/commonwealth-games-opening-ceremony-king-charles-loch-nessie/106952470"
     },
     {
       "published_datetime": "2026-07-23T21:39:08.000000Z",
@@ -26,6 +26,15 @@
       },
       "description": "Defence Minister Richard Marles has defended Australia's modern slavery laws after the US said it would slap 12.5 per cent tariffs on Australia. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-07-24/federal-politics-live-blog-labor-conference-july-4/106952636"
+    },
+    {
+      "published_datetime": "2026-07-23T20:59:03.000000Z",
+      "title": "Zelenskyy\u00a0just scored an\u00a0'own goal' and it\u00a0cost him big time",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b74e31c22354dc067c52e757a18a4266?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=9&amp;width=862&amp;height=485"
+      },
+      "description": "The Ukrainian president's decision to fire his popular, tech-savvy 35-year-old Defence Minister Mykhailo Fedorov last week baffled many. Analysts say what happens next could be pivotal to the war.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-24/zelenskyy-scored-own-goal-by-firing-fedorov-analysts-say/106947264"
     },
     {
       "published_datetime": "2026-07-23T19:40:08.000000Z",
@@ -73,21 +82,12 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-24/china-dominates-ev-market/106951586"
     },
     {
-      "published_datetime": "2026-07-23T18:37:14.000000Z",
-      "title": "Live: Commonwealth Games open with tartan, a unicorn and the King in a TARDIS",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/032766f70280faaa45fc3537730656ae?impolicy=wcms_crop_resize&amp;cropH=1695&amp;cropW=3014&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Commonwealth Games are officially opened by King Charles III as many of the 3,000 athletes parade in front of 14,000 spectators. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-24/commonwealth-games-opening-ceremony-live-blog/106952502"
-    },
-    {
       "published_datetime": "2026-07-23T16:28:37.000000Z",
-      "title": "Oil prices over $US100 a barrel after Houthi attacks in Red Sea",
+      "title": "Petrol supply could 'tighten' as oil jumps over $US100 a barrel",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b30d2b5a3c20e0350317223e0c4e825c?impolicy=wcms_crop_resize&amp;cropH=702&amp;cropW=1248&amp;xPos=410&amp;yPos=148&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/39d57b3542f156bd4871b83fd0c24820?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
       },
-      "description": "The entry of the Houthi rebels into the war between the US and Iran threatens another vital shipping route through the region, as the entire region remains on high alert.",
+      "description": "The entry of the Houthi rebels into the war between the US and Iran has threatened another vital shipping route through the Middle East.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-24/oil-prices-houthi-iran-us-donald-trump/106952390"
     },
     {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-23T22:51:45.100838"
+  "merged_at": "2026-07-23T23:52:25.560025"
 }
