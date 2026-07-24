@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-24T10:58:21.000000Z",
+      "title": "Police officer shot while responding to call on the Fraser Coast",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/942452c5d2bd2330780fdaf6bfc41655?impolicy=wcms_crop_resize&amp;cropH=1638&amp;cropW=2913&amp;xPos=176&amp;yPos=770&amp;width=862&amp;height=485"
+      },
+      "description": "An emergency declaration has been made in Yengarie, west of Maryborough, under the Public Safety Preservation Act.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-24/qld-police-officer-shot-fraser-coast/106956916"
+    },
+    {
       "published_datetime": "2026-07-24T10:05:16.000000Z",
       "title": "Hundreds attend memorial for murdered mum Jana Armstrong",
       "featured_image": {
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-07-24T08:50:21.000000Z",
-      "title": "Live: Dees take on Cats at MCG ahead of Western Derby",
+      "title": "Live: Cats and Dees down to the wire, Dockers flex muscle against Eagles in derby",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/53ba1bc5e5c9042c59a3a93257088c99?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=87&amp;width=862&amp;height=485"
       },
@@ -20,21 +29,12 @@
     },
     {
       "published_datetime": "2026-07-24T08:36:30.000000Z",
-      "title": "Live: Pallister cruises into 400m final as swimming gets underway",
+      "title": "Live: Broken lane rope halts Aussie charge at Comm Games pool",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e9cce549ea0c6461c2f173170cab3d80?impolicy=wcms_crop_resize&amp;cropH=2066&amp;cropW=3673&amp;xPos=0&amp;yPos=80&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/92a9ea28c6e4c275b4ccf3f93a8b4c6b?impolicy=wcms_crop_resize&amp;cropH=1565&amp;cropW=2782&amp;xPos=1133&amp;yPos=1448&amp;width=862&amp;height=485"
       },
       "description": "It's officially day one of the Commonwealth Games in Glasgow, with the the first medals of the Games up for grabs in the para powerlifting. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-24/commonwealth-games-day-1-live-blog/106953152"
-    },
-    {
-      "published_datetime": "2026-07-24T08:10:46.000000Z",
-      "title": "Friends turned millionaires take tech company shares battle to court",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cfb55720c52d792e80af0064da66725a?impolicy=wcms_crop_resize&amp;cropH=2505&amp;cropW=4453&amp;xPos=0&amp;yPos=320&amp;width=862&amp;height=485"
-      },
-      "description": "The millionaire co-founder of an Australian video tech company behind some of Hollywood\u2019s biggest blockbusters has told the Federal Court a decade of hostility by his fellow shareholders has unfairly barred him from selling his lucrative stake in the billion-dollar business.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-24/blackmagic-design-cofounders-take-share-battle-to-federal-court/106956290"
     },
     {
       "published_datetime": "2026-07-24T07:46:39.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-24T10:54:19.546056"
+  "merged_at": "2026-07-24T12:13:25.890257"
 }
