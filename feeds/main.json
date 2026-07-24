@@ -1,22 +1,31 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-24T21:18:25.000000Z",
+      "title": "Coalition challenged by rise of One Nation in Victoria's east",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/16933f9849bd7828578aecb1d9668f7e?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=128&amp;width=862&amp;height=485"
+      },
+      "description": "Opposition Leader Jess Wilson has campaigned in Gippsland this week, hoping to lure back voters who are turning towards a surging One Nation.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-25/state-election-one-nation-regional-victoria/106955644"
+    },
+    {
+      "published_datetime": "2026-07-24T21:16:55.000000Z",
+      "title": "The key figures in ICAC investigation that could change NSW Liberals forever",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bbc4245b230ed57b674b0069a058a182?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Eight weeks of public hearings by the corruption watchdog that could change the NSW Liberal Party forever begin on Monday. These are\u00a0some of the key players embroiled in the donations investigation.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-25/nsw-key-figures-icac-investigation-liberals-jean-nassif/106951590"
+    },
+    {
       "published_datetime": "2026-07-24T19:24:49.000000Z",
-      "title": "'End of an era': How the Iran war may change US military strategy",
+      "title": "Iran's attacks on US bases in the Middle East mark 'end of an era'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/df3f5d078e6525011d92efc418828d06?impolicy=wcms_crop_resize&amp;cropH=297&amp;cropW=528&amp;xPos=90&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Five months into a war Donald Trump said would last only weeks, the Iran conflict has so far cost the United States tens of billions of dollars and brought about \"the end of an era\" in American military strategy.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-25/us-military-damage-to-weapons-bases-soldiers-during-iran-war/106954370"
-    },
-    {
-      "published_datetime": "2026-07-24T19:06:51.000000Z",
-      "title": "How many jobs will AI data centres create?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8c3c73bb9db4bdfc2839243c85106564?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
-      },
-      "description": "Data centres are in development across Australia, but how many jobs will these big, thirsty facilities actually support?\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-25/how-many-jobs-do-ai-data-centres-actually-create/106934790"
     },
     {
       "published_datetime": "2026-07-24T19:00:00.000000Z",
@@ -29,7 +38,7 @@
     },
     {
       "published_datetime": "2026-07-24T18:46:09.000000Z",
-      "title": "Elder abuse concerns raised as Labor backs VAD telehealth",
+      "title": "Rowland voices caution as Labor backs VAD telehealth",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7dc49fef6769ac183ddd32debc287fc2?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -64,31 +73,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-25/anna-funder-interview-books-stasiland-wifedom/106918372"
     },
     {
-      "published_datetime": "2026-07-24T15:05:48.000000Z",
-      "title": "Tens of thousands flee fires in France, blazes merge outside Madrid",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/874d8575be7a25bc1121bd0c52cc1145?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "France orders total evacuation of Cap Ferret peninsula as Spain declares national emergency for the first time over fires.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-25/france-fires-madrid-merge/106956514"
-    },
-    {
-      "published_datetime": "2026-07-24T12:31:10.000000Z",
-      "title": "Bali bans two Dutch men alleged to have hosted discriminatory run club",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bdc91a426284270ab6c19a7d07582dc2?impolicy=wcms_crop_resize&amp;cropH=713&amp;cropW=1267&amp;xPos=0&amp;yPos=52&amp;width=862&amp;height=485"
-      },
-      "description": "Bali's Immigration department has banned two Dutch expats from Indonesia for organising a run club event '\"fraught with discrimination against local residents\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-24/run-club-discrimination-allegations/106956936"
-    },
-    {
       "published_datetime": "2026-07-24T08:36:30.000000Z",
-      "title": "Live: Australia rockets to top of Commonwealth Games medal tally",
+      "title": "Live: Australia claims six gold on Commonwealth Games opening day",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/842b97bde0f4c3d7562430a9858e2c93?impolicy=wcms_crop_resize&amp;cropH=1420&amp;cropW=2525&amp;xPos=213&amp;yPos=734&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a2361264971d0a6cb501d500502948fd?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
       },
-      "description": "Lani Pallister wins Australia's first gold of these Commonwealth Games, with her fellow swimmers quickly adding to the tally. Follow live.",
+      "description": "Australia claims six gold medals, and twelve overall, to open competition on day one of the Commonwealth Games in Glasgow. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-24/commonwealth-games-day-1-live-blog/106953152"
+    },
+    {
+      "published_datetime": "2026-07-24T07:45:37.000000Z",
+      "title": "Defence minister confirms former senior naval officer faces court martial",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d8ea87c57c46ee93ff041e80c1edf3d3?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A former senior naval officer will face charges in a military trial set down for up to six weeks from September 14 with the military court ordering their identity remain suppressed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-24/former-naval-officer-faces-court-martial/106956016"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-24T20:11:06.969433"
+  "merged_at": "2026-07-24T21:56:23.698256"
 }
