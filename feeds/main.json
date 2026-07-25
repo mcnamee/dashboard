@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-25T14:46:19.000000Z",
+      "title": "Attack on holiday camp in Russian-held Ukraine kills 11",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/aace4a76c75e089e60debea34036712e?impolicy=wcms_crop_resize&amp;cropH=2611&amp;cropW=4641&amp;xPos=0&amp;yPos=483&amp;width=862&amp;height=485"
+      },
+      "description": "Moscow-installed officials say Ukrainian forces attacked holiday camps in the partly Russian-occupied Zaporizhzhia region overnight, killing 11 people and wounding 14.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-26/russian-held-ukrainian-holiday-camp-attacked/106958586"
+    },
+    {
       "published_datetime": "2026-07-25T10:28:09.000000Z",
       "title": "Indian education minister resigns after Cockroach movement protests",
       "featured_image": {
@@ -29,21 +38,12 @@
     },
     {
       "published_datetime": "2026-07-25T08:18:40.000000Z",
-      "title": "Live: Dolphins to continue dominance in the pool as netball gets underway",
+      "title": "Live: Blow to host nation as Scottish star McColgan ruled out of Games",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6ca55a1df9e27eb4c0a3911a2d98790d?impolicy=wcms_crop_resize&amp;cropH=1391&amp;cropW=2473&amp;xPos=817&amp;yPos=415&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6b75d6e09f9b4d414bd08e50b56f758c?impolicy=wcms_crop_resize&amp;cropH=2775&amp;cropW=4933&amp;xPos=0&amp;yPos=412&amp;width=862&amp;height=485"
       },
-      "description": "Day two of the Commonwealth Games will see Australia start its netball gold medal defence against Tonga and the Dolphins swim team add more medals to the tally. Follow live.",
+      "description": "Day two of the Commonwealth Games sees Australia off to a winning start in netball, but host nation Scotland loses one of its biggest stars as Eilish McColgan misses out on Glasgow. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-25/commonwealth-games-day-two-live-blog/106957766"
-    },
-    {
-      "published_datetime": "2026-07-25T06:21:30.000000Z",
-      "title": "Drivers urged to play their part as five people die on WA roads in 24 hours",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/70955abf14ee6324704e5ebeddfbd08c?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
-      },
-      "description": "Five people have been killed in separate crashes in Western Australia in less than 24 hours, as the state's road toll continues to soar.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-25/five-people-die-in-24-hours-on-wa-roads/106958246"
     },
     {
       "published_datetime": "2026-07-25T06:01:39.000000Z",
@@ -56,11 +56,11 @@
     },
     {
       "published_datetime": "2026-07-25T04:42:44.000000Z",
-      "title": "Live: Cowboys end Brisbane's season in thumping Queensland derby",
+      "title": "Brisbane's premiership defence all but over after Cowboys crash-out",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e5366b95dd7e079d5ddd3ef9526b8e37?impolicy=wcms_crop_resize&amp;cropH=1546&amp;cropW=2749&amp;xPos=0&amp;yPos=153&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b090e66f46c0ac4b228175556670105?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Brisbane's premiership defence is all but over after the Broncos fell to the Cowboys in a pulsating Queensland derby. Follow live.",
+      "description": "Brisbane's tumultuous premiership defence is over in all but name after the Broncos fell to the Cowboys in a blood and thunder Queensland derby.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-25/nrl-live-updates-raiders-tigers-bulldogs-warriors-broncos/106958244"
     },
     {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-25T13:02:44.408274"
+  "merged_at": "2026-07-25T14:54:55.145996"
 }
