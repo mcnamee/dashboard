@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-25T18:45:00.000000Z",
+      "title": "Prince William's 'manifesto' for the king he will become",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/46e78d3109c0241f5bec95862d5e873d?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+      },
+      "description": "As heir to the throne William was born into singular privilege. How he uses it and the work he chooses to pursue presents a 'manifesto' for the king he will become.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-26/prince-william-manifesto-king-reshape-monarchy-crown-plan/106947928"
+    },
+    {
+      "published_datetime": "2026-07-25T18:41:47.000000Z",
+      "title": "'Disgusted with the price on life': Families outraged over Laos poisoning probe",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4046abc6f407aaff0f83ccf4bb9ebb3d?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=40&amp;width=862&amp;height=485"
+      },
+      "description": "The families of six people, including two Australians, who died from suspected mass methanol poisoning at a Laos hostel have described the outcome of a 20-month police investigation into the incident as \"false\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-26/families-outraged-over-laos-methanol-poisoning-probe/106957610"
+    },
+    {
+      "published_datetime": "2026-07-25T18:41:47.000000Z",
+      "title": "Clean energy investment is facing headwinds. Could superannuation help?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bea894c6e27861af0b882d766e3d5665?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Australian super funds manage $4.5 trillion in retirement savings, but directing some of that war chest towards the clean energy transition could be more difficult than it seems.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-26/superannuation-renewable-energy-investment-funding-gap/106842116"
+    },
+    {
+      "published_datetime": "2026-07-25T18:41:47.000000Z",
+      "title": "We asked what you wanted to talk about most. Here's what you told us",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2359c26f0519b548a85536507ae388a9?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
+      },
+      "description": "Thousands of Australians have shared their stories, concerns and hopes for the future. Here's what matters most to you. \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-26/your-say-results-themes-what-talk-about/106943028"
+    },
+    {
+      "published_datetime": "2026-07-25T18:41:47.000000Z",
+      "title": "Legacy stores have been closing but physical retail is not 'dead'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b1381fb6d407d1f029fcce3c1887362a?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "It has been a brutal year for Australian retail, with high rents, wage increases and the cost-of-living squeeze forcing big brands to make some hard calls. Here's why some are still surviving.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-26/retail-autopsy-what-went-wrong/106922524"
+    },
+    {
       "published_datetime": "2026-07-25T14:46:19.000000Z",
       "title": "Attack on holiday camp in Russian-held Ukraine kills 11",
       "featured_image": {
@@ -8,15 +53,6 @@
       },
       "description": "Moscow-installed officials say Ukrainian forces attacked holiday camps in the partly Russian-occupied Zaporizhzhia region overnight, killing 11 people and wounding 14.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-26/russian-held-ukrainian-holiday-camp-attacked/106958586"
-    },
-    {
-      "published_datetime": "2026-07-25T10:28:09.000000Z",
-      "title": "Indian education minister resigns after Cockroach movement protests",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/52d2fe2c5c9642385a6f83e9f44e0f17?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Protesters had been calling for Dharmandra Pradhan's resignation amid ongoing exam paper leaks, which the education minister claims he \"took responsibility\" for.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-25/indian-education-minister-resigns-after-protests/106958482"
     },
     {
       "published_datetime": "2026-07-25T10:21:41.000000Z",
@@ -38,21 +74,12 @@
     },
     {
       "published_datetime": "2026-07-25T08:18:40.000000Z",
-      "title": "Live: Swimmers on the verge of more Commonwealth Games gold",
+      "title": "Live: Aussies sweep 400m freestyle medals to start swimming finals",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d8adc741062f52a50f77d7e09d58a21e?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=37&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9a06446bda2458ce95229d275540b784?impolicy=wcms_crop_resize&amp;cropH=530&amp;cropW=943&amp;xPos=47&amp;yPos=49&amp;width=862&amp;height=485"
       },
       "description": "Australia's swimmers will look to continue their day one gold rush as finals begin in the pool on day two of the Commonwealth Games. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-25/commonwealth-games-day-two-live-blog/106957766"
-    },
-    {
-      "published_datetime": "2026-07-25T06:21:30.000000Z",
-      "title": "Drivers urged to play their part as five people die on WA roads in 24 hours",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/70955abf14ee6324704e5ebeddfbd08c?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
-      },
-      "description": "Five people have been killed in separate crashes in Western Australia in less than 24 hours, as the state's road toll continues to soar.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-25/five-people-die-in-24-hours-on-wa-roads/106958246"
     },
     {
       "published_datetime": "2026-07-25T06:01:39.000000Z",
@@ -62,33 +89,6 @@
       },
       "description": "A push to recognise claims of genocide in Gaza failed to gain enough support for a debate on the floor of Labor's national conference, sparking criticism of the party's internal culture.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-25/ed-husic-pushes-for-gaza-debate-at-labor-conference/106957962"
-    },
-    {
-      "published_datetime": "2026-07-25T04:42:44.000000Z",
-      "title": "Brisbane's premiership defence all but over after Cowboys crash-out",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b090e66f46c0ac4b228175556670105?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Brisbane's tumultuous premiership defence is over in all but name after the Broncos fell to the Cowboys in a blood and thunder Queensland derby.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-25/nrl-live-updates-raiders-tigers-bulldogs-warriors-broncos/106958244"
-    },
-    {
-      "published_datetime": "2026-07-25T03:01:44.000000Z",
-      "title": "Dogs too strong for Tigers, Hawks and Swans dominate",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cdcd0803b80e13d0369fa190da116165?impolicy=wcms_crop_resize&amp;cropH=1829&amp;cropW=3252&amp;xPos=0&amp;yPos=75&amp;width=862&amp;height=485"
-      },
-      "description": "The Western Bulldogs ease past a determined young Richmond side for a 57-point win after Hawthorn and Sydney record big wins of their own.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-25/afl-r20-blues-suns-hawks-dons-giants-swans-wb-tigers-live-blog/106957878"
-    },
-    {
-      "published_datetime": "2026-07-24T19:24:49.000000Z",
-      "title": "Iran's attacks on US bases in the Middle East mark 'end of an era'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/df3f5d078e6525011d92efc418828d06?impolicy=wcms_crop_resize&amp;cropH=297&amp;cropW=528&amp;xPos=90&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Five months into a war Donald Trump said would last only weeks, the Iran conflict has so far cost the United States tens of billions of dollars and brought about \"the end of an era\" in American military strategy.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-25/us-military-damage-to-weapons-bases-soldiers-during-iran-war/106954370"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-25T17:51:44.521165"
+  "merged_at": "2026-07-25T18:53:29.455482"
 }
