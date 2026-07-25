@@ -46,6 +46,15 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-25/commonwealth-games-day-two-live-blog/106957766"
     },
     {
+      "published_datetime": "2026-07-25T06:21:30.000000Z",
+      "title": "Drivers urged to play their part as five people die on WA roads in 24 hours",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/70955abf14ee6324704e5ebeddfbd08c?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
+      },
+      "description": "Five people have been killed in separate crashes in Western Australia in less than 24 hours, as the state's road toll continues to soar.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-25/five-people-die-in-24-hours-on-wa-roads/106958246"
+    },
+    {
       "published_datetime": "2026-07-25T06:01:39.000000Z",
       "title": "'If they put me in the freezer, I don't give a s***': Husic lashes Labor culture after push for Gaza debate fails",
       "featured_image": {
@@ -62,15 +71,6 @@
       },
       "description": "Brisbane's tumultuous premiership defence is over in all but name after the Broncos fell to the Cowboys in a blood and thunder Queensland derby.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-25/nrl-live-updates-raiders-tigers-bulldogs-warriors-broncos/106958244"
-    },
-    {
-      "published_datetime": "2026-07-25T03:27:00.000000Z",
-      "title": "An addiction started at school landed Clay in a maximum-security prison",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/667f91f600f0278c95f0c3dbffb3ca48?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Clay first tried drugs during lunchtime at school. What followed was a decade of addiction and run-ins with police. Now he hopes sharing his story will help others.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-25/clay-scott-drug-addiction-rehab-sobriety/106948772"
     },
     {
       "published_datetime": "2026-07-25T03:01:44.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-25T14:54:55.145996"
+  "merged_at": "2026-07-25T15:57:03.145567"
 }
