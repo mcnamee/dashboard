@@ -2,7 +2,7 @@
   "items": [
     {
       "published_datetime": "2026-07-25T21:27:17.000000Z",
-      "title": "Breaking: Manhunt underway after car hits Berlin crowd",
+      "title": "Breaking: Manhunt underway after person killed when car hit Berlin crowd",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/64924524365da2b1dffac84bb4c34c1b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -10,8 +10,17 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-26/berlin-pride-parade-called-off-after-car-hits-crowds/106959326"
     },
     {
+      "published_datetime": "2026-07-25T21:15:27.000000Z",
+      "title": "Council fears Sydney suburb risks becoming 'data centre wasteland'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a2569a0fd1d61b80187acc97771b4b95?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Sydney is in the middle of a data centre boom fuelled by the global AI race. In Lane Cove West and Ryde, residents and councils say they are the ones paying the price.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-26/nsw-sydney-ai-data-centres-turn-suburbs-into-wastelands/106946638"
+    },
+    {
       "published_datetime": "2026-07-25T21:02:35.000000Z",
-      "title": "'RFK Jr spillover effect' seeing fewer newborns get crucial vitamin K",
+      "title": "More parents refusing lifesaving vitamin K injection for newborns",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/78e87e75095a1a0876da9ec90f492050?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -73,21 +82,12 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-26/superannuation-renewable-energy-investment-funding-gap/106842116"
     },
     {
-      "published_datetime": "2026-07-25T18:41:47.000000Z",
-      "title": "We asked what you wanted to talk about most. Here's what you told us",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2359c26f0519b548a85536507ae388a9?impolicy=wcms_crop_resize&amp;cropH=844&amp;cropW=1500&amp;xPos=0&amp;yPos=2&amp;width=862&amp;height=485"
-      },
-      "description": "Thousands of Australians have shared their stories, concerns and hopes for the future. Here's what matters most to you. \u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-26/your-say-results-themes-what-talk-about/106943028"
-    },
-    {
       "published_datetime": "2026-07-25T08:18:40.000000Z",
-      "title": "Live: Gold for Aussie gymnasts as Williamson stuns in breaststroke",
+      "title": "Gold for Aussie gymnasts as Williamson stuns in breaststroke",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/548163762943493fd884f99db3750ad6?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=47&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dd319b192237c23b869b7ae6088080dd?impolicy=wcms_crop_resize&amp;cropH=500&amp;cropW=889&amp;xPos=42&amp;yPos=19&amp;width=862&amp;height=485"
       },
-      "description": "Australia's swimmers will look to continue their day one gold rush as finals begin in the pool on day two of the Commonwealth Games. Follow live.",
+      "description": "Sam Short, Mollie O'Callaghan and a shock win from Sam Williamson help Australia enhance its status as leaders on the Commonwealth Games medal standings.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-25/commonwealth-games-day-two-live-blog/106957766"
     },
     {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-25T21:44:17.808169"
+  "merged_at": "2026-07-25T22:44:31.022572"
 }
