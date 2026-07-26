@@ -1,12 +1,30 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-26T11:05:40.000000Z",
+      "title": "Israeli air strike kills top Hamas official",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/24f670685ce31dec700269530ff4dd43?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "The head of the Hamas-run Palestinian internal security service in central Gaza and an associate have been killed after their vehicle was targeted by an Israeli air strike.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-26/israeli-air-strike-kills-top-hamas-official/106960120"
+    },
+    {
+      "published_datetime": "2026-07-26T10:46:19.000000Z",
+      "title": "Victorian premier facing leadership challenge this week",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/72c482af51ccf199827c8158da8e9f29?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Factional convenors from both the right and left of the party room met on Sunday night to discuss whether Jacinta Allan still had the support of a majority of caucus. The ABC understands they agreed she did not.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-26/victoria-premier-jacinta-allan-leadership-challenge/106960114"
+    },
+    {
       "published_datetime": "2026-07-26T08:24:52.000000Z",
-      "title": "Live: Diamonds face early test, McEvoy hits the water for 50m free final",
+      "title": "Live: Diamonds in action against England, Aussies in form in the pool",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3737a7b005fa865a5e0645576600dd4d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Day three of the Commonwealth Games sees the Diamonds face an early test, taking on 2018 gold medallists England, and Cam McEvoy will hit the water for the 50m freestyle final. Follow live.",
+      "description": "Day three of the Commonwealth Games sees the Diamonds face an early test, taking on 2018 gold medallists England, and the Dolphins are in the pool ahead of finals early tomorrow. \u00a0Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-26/commonwealth-games-day-three-live-blog/106959386"
     },
     {
@@ -17,15 +35,6 @@
       },
       "description": "Iran has passed another night without US air strikes, as Washington pauses a war nearing its fifth month and reports emerge that concerns over dwindling munitions are restraining plans for further escalation.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-26/us-iran-war-lull-leads-to-hope-for-return-to-negotiations/106959956"
-    },
-    {
-      "published_datetime": "2026-07-26T06:01:15.000000Z",
-      "title": "Body found after house fire in NSW coastal town",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ecc199362f3c6140e9ce0ea7b845a219?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=192&amp;width=862&amp;height=485"
-      },
-      "description": "A person is dead after a house fire at Kiama on the NSW south coast, which police are not treating as suspicious.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-26/body-found-after-kiama-house-fire/106959500"
     },
     {
       "published_datetime": "2026-07-26T05:14:46.000000Z",
@@ -80,15 +89,6 @@
       },
       "description": "Brisbane Lions coach Chris Fagan takes umbrage of his Port counterpart Josh Carr's assessment of his team's play style as Nasiah Wanganeen-Milera lights up Docklands once again.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-26/afl-r20-lions-power-kangaroos-saints-live-blog/106959530"
-    },
-    {
-      "published_datetime": "2026-07-26T01:00:12.000000Z",
-      "title": "Tim Tszyu beats Errol Spence Jr by unanimous decision",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2e965f442b9dd16c17194ea1c6655d5b?impolicy=wcms_crop_resize&amp;cropH=2466&amp;cropW=4384&amp;xPos=616&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Tim Tszyu beats Errol Spence Jr in a blockbuster non-title boxing match in Sydney by unanimous decision.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-26/live-updates-boxing-tim-tszyu-vs-errol-spence-jnr/106951948"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-26T10:29:32.560808"
+  "merged_at": "2026-07-26T11:55:21.502680"
 }
