@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-27T15:37:11.000000Z",
+      "title": "France and Spain race to curb wildfires before new heatwave arrives",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2fc4a7683265a2931577b44a28c76cb8?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Spanish Prime Minister Pedro Sanchez highlighted the impact of climate change, saying the wildfires were \"more ferocious\" and \"heatwaves more frequent\".\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-28/france-and-spain-wildfires/106964322"
+    },
+    {
       "published_datetime": "2026-07-27T12:30:30.000000Z",
       "title": "Australia's first new oil refinery in decades touted for WA",
       "featured_image": {
@@ -28,19 +37,10 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-27/bill-oddie-a-member-of-the-goodies-dead-at-85/106964222"
     },
     {
-      "published_datetime": "2026-07-27T11:04:31.000000Z",
-      "title": "Sally McManus and Michele O'Neil resign from top ACTU jobs",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/dbade5e80d848792c15c39efac067d7d?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=344&amp;width=862&amp;height=485"
-      },
-      "description": "The heads of the Australian Council of Trade Unions have announced that they are making way for the next generation.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-27/actu-leaders-sally-mcmanus-michele-o-neil-resign/106964206"
-    },
-    {
       "published_datetime": "2026-07-27T08:35:05.000000Z",
-      "title": "Live: Bronze for Hardy on floor, Browning slams 'weird' qualifying rules",
+      "title": "Live: McDonald wins gymnastics gold, Hardy claims bronze",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4e95f6d3901b87c17433c4898d14d1b5?impolicy=wcms_crop_resize&amp;cropH=1906&amp;cropW=3389&amp;xPos=677&amp;yPos=192&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/588dd4b9d16d84d95d482249f8523853?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=158&amp;width=862&amp;height=485"
       },
       "description": "It's day four of the Commonwealth Games and that means the athletics program starts, marking the first of three days that feature swimming as well as track and field. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-27/commonwealth-games-glasgow-day-four-live-blog/106961304"
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-27T13:32:28.860988"
+  "merged_at": "2026-07-27T16:07:56.235656"
 }
