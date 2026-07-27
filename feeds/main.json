@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-27T16:36:52.000000Z",
+      "title": "UK PM Burnham meets Zelenskyy and vows 'unwavering' support for Ukraine",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8d56aaed25d6be2219df1de668631880?impolicy=wcms_crop_resize&amp;cropH=2304&amp;cropW=4096&amp;xPos=0&amp;yPos=327&amp;width=862&amp;height=485"
+      },
+      "description": "Downing Street said the meeting was designed to underscore Britain's steadfast support for Ukraine.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-28/zelenskyy-meets-burnham-in-portsmouth/106964362"
+    },
+    {
       "published_datetime": "2026-07-27T15:37:11.000000Z",
       "title": "France and Spain race to curb wildfires before new heatwave arrives",
       "featured_image": {
@@ -38,9 +47,9 @@
     },
     {
       "published_datetime": "2026-07-27T08:35:05.000000Z",
-      "title": "Live: McDonald wins gymnastics gold, Hardy claims bronze",
+      "title": "Live: Smorgasbord of medals on offer in athletics and swimming",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/588dd4b9d16d84d95d482249f8523853?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=158&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c34281b104e5e001e1a2e3b2b0a09be3?impolicy=wcms_crop_resize&amp;cropH=486&amp;cropW=864&amp;xPos=59&amp;yPos=17&amp;width=862&amp;height=485"
       },
       "description": "It's day four of the Commonwealth Games and that means the athletics program starts, marking the first of three days that feature swimming as well as track and field. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-27/commonwealth-games-glasgow-day-four-live-blog/106961304"
@@ -80,15 +89,6 @@
       },
       "description": "Victorian Premier Jacinta Allan's leadership is on a knife's edge, with Labor MPs moving to replace her in spill tomorrow. Here's how the challenge could play out.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-27/jacinta-allan-ben-carroll-leadership-challenge-explainer/106962560"
-    },
-    {
-      "published_datetime": "2026-07-27T04:20:38.000000Z",
-      "title": "Hanson 'disappointed' after losing racial discrimination appeal",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8a4ef689e9fa447d5b21828baeb2e976?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=6&amp;width=862&amp;height=485"
-      },
-      "description": "One Nation leader Pauline Hanson loses an appeal against a court ruling which found she racially discriminated against Greens senator Mehreen Faruqi.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-27/nsw-pauline-hanson-appeal-mehreen-faruqi-judgement/106962048"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-27T17:47:41.064482"
+  "merged_at": "2026-07-27T18:17:56.498919"
 }
