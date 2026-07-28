@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-28T15:15:22.000000Z",
+      "title": "Marathon 24-hour Qantas flight tracked by 3.6 million internet users",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/97538c9e13679ac763f63f2672702aba?impolicy=wcms_crop_resize&amp;cropH=1984&amp;cropW=3528&amp;xPos=1083&amp;yPos=455&amp;width=862&amp;height=485"
+      },
+      "description": "The specially-modified aircraft will be one of 12 used by Qantas to fly between Australia's east coast and Europe.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-29/qantas-project-sunrise-test-flight/106969232"
+    },
+    {
       "published_datetime": "2026-07-28T14:01:00.000000Z",
       "title": "Home loan borrowers missing out on millions in offset savings",
       "featured_image": {
@@ -19,15 +28,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-28/new-lowy-pacific-aid-map-australia-lending-investor/106967764"
     },
     {
-      "published_datetime": "2026-07-28T11:48:06.000000Z",
-      "title": "Live: Reports of multiple deaths after earthquake strikes Japan",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d143a5d4c6e78cf017b74a6d75bdb6d9?impolicy=wcms_crop_resize&amp;cropH=2232&amp;cropW=3968&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
-      },
-      "description": "Japan's south-western Kyushu island has been struck by two strong earthquakes within an hour of each other.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-28/japan-earthquake-live-coverage/106969150"
-    },
-    {
       "published_datetime": "2026-07-28T08:38:33.000000Z",
       "title": "Live: Double gymnastics gold on beam and bars, boxers guaranteed medals",
       "featured_image": {
@@ -35,6 +35,15 @@
       },
       "description": "It's day five of the Commonwealth Games and that means the fastest man and woman will be crowned in the 100m, the Diamonds take on Malawi and Kyle Chalmers goes for gold. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-28/commonwealth-games-glasgow-day-five-live-blog/106965170"
+    },
+    {
+      "published_datetime": "2026-07-28T08:07:51.000000Z",
+      "title": "Multiple people feared dead in collapsed shopping mall following Japan quake",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/38ea1b526aa7de2d748345f6adb65fd4?impolicy=wcms_crop_resize&amp;cropH=2232&amp;cropW=3968&amp;xPos=0&amp;yPos=205&amp;width=862&amp;height=485"
+      },
+      "description": "Japan's south-western Kyushu island has been struck by two strong earthquakes within an hour,, with multiple people presumed dead after an explosion at a shopping centre.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-28/magnitude-7-1-earthquake-hits-japan-kumamoto-prefecture/106968604"
     },
     {
       "published_datetime": "2026-07-28T08:01:19.000000Z",
@@ -80,15 +89,6 @@
       },
       "description": "The Reserve Bank governor says the world has become more shock-prone in recent years, and the latest oil spike is a complication for the central bank's monetary policy.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-28/rba-governor-warns-world-facing-increased-supply-shocks/106965644"
-    },
-    {
-      "published_datetime": "2026-07-28T00:49:10.000000Z",
-      "title": "Origin Energy believes 900,000 customers' data accessed in breach",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d312d17212987caf599a79f5144be8cb?impolicy=wcms_crop_resize&amp;cropH=2038&amp;cropW=3623&amp;xPos=318&amp;yPos=274&amp;width=862&amp;height=485"
-      },
-      "description": "Origin Energy says it started reviewing a \"potential security threat\" early this month but deemed it not credible, before new information indicated a breach.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-28/origin-energy-data-breach-900k-customers-impacted/106961804"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-28T15:12:33.902047"
+  "merged_at": "2026-07-28T17:19:08.037358"
 }
