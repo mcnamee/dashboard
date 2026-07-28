@@ -1,8 +1,44 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-28T08:38:33.000000Z",
+      "title": "Live: Fastest men in water and on land to be crowned in 100m events",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2486d8a83289b570c199b5f32ade317a?impolicy=wcms_crop_resize&amp;cropH=1721&amp;cropW=3059&amp;xPos=19&amp;yPos=302&amp;width=862&amp;height=485"
+      },
+      "description": "It's day five of the Commonwealth Games and that means the fastest man and woman will be crowned in the 100m, the Diamonds take on Malawi and Kyle Chalmers goes for gold. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-28/commonwealth-games-glasgow-day-five-live-blog/106965170"
+    },
+    {
+      "published_datetime": "2026-07-28T08:07:51.000000Z",
+      "title": "Two powerful earthquakes hit Japan within an hour",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3e3cda21c70b858b0c7de06c0b2e0795?impolicy=wcms_crop_resize&amp;cropH=714&amp;cropW=1269&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Japan's south-western Kyushu island has been struck by two strong earthquakes within an hour.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-28/magnitude-7-1-earthquake-hits-japan-kumamoto-prefecture/106968604"
+    },
+    {
+      "published_datetime": "2026-07-28T08:01:19.000000Z",
+      "title": "With a forceful declaration, Ben Carroll halted Jacinta Allan's agenda",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a3d82b381f3208495e2a0d2d628a4daf?impolicy=wcms_crop_resize&amp;cropH=899&amp;cropW=1598&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Victoria's new premier, Ben Carroll has only four months to convince voters he could be the man for the top job, after the toppling of Jacinta Allan.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-28/ben-carroll-vic-labor-premier-analysis/106966210"
+    },
+    {
+      "published_datetime": "2026-07-28T07:59:06.000000Z",
+      "title": "Hanson reveals who paid for Italy trip with Gina Rinehart",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/60b288ca9d1eec9785ff22b0a6f5c70f?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The benefactor of Pauline Hanson's Italy trip has been disclosed in an update to the One Nation leader's gift registry.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-28/hanson-reveals-rinehart-paid-for-italy-trip/106968518"
+    },
+    {
       "published_datetime": "2026-07-28T06:40:49.000000Z",
-      "title": "Breaking: Former Melbourne organised crime kingpin sentenced to life in Iraq prison",
+      "title": "Former Melbourne organised crime kingpin sentenced to life in Iraq prison",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/69cde8f7ca70c7604e689518d196ffbc?impolicy=wcms_crop_resize&amp;cropH=547&amp;cropW=972&amp;xPos=5&amp;yPos=105&amp;width=862&amp;height=485"
       },
@@ -19,24 +55,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-28/johnson-and-johnson-almost-8-billion-dollar-lawsuit-baby-powder/106967380"
     },
     {
-      "published_datetime": "2026-07-28T04:53:20.000000Z",
-      "title": "Meta tells Indigenous inquiry it has no content moderators in Australia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/91e561ecc2650de2e89e859eaebb5ae4?impolicy=wcms_crop_resize&amp;cropH=2810&amp;cropW=4995&amp;xPos=0&amp;yPos=134&amp;width=862&amp;height=485"
-      },
-      "description": "Meta officials have told a racism inquiry they are \"not aware\" whether any of their content moderators are Indigenous.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-28/meta-indigenous-content-moderators/106966688"
-    },
-    {
-      "published_datetime": "2026-07-28T04:18:28.000000Z",
-      "title": "Australian-founded restaurant at centre of South Korean court case over ant garnish",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8628ec3d698a78a68902225bfeddd0fa?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
-      },
-      "description": "Seoul prosecutors have alleged Evett in Seoul's Gangnam district served ants illegally imported from Thailand and the US in violation of food safety regulations.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-28/evett-south-korea-court-case-over-restaurant-use-of-ants/106949890"
-    },
-    {
       "published_datetime": "2026-07-28T03:35:10.000000Z",
       "title": "A rogue AI just gave us a warning. Australia isn't prepared",
       "featured_image": {
@@ -47,21 +65,12 @@
     },
     {
       "published_datetime": "2026-07-28T03:19:00.000000Z",
-      "title": "Reserve Bank governor warns world facing increased supply shocks",
+      "title": "Housing market eased 'more than anticipated', RBA says",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7253782409d58d31f7571d7d92159f30?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=62&amp;width=862&amp;height=485"
       },
       "description": "The Reserve Bank governor says the world has become more shock-prone in recent years, and the latest oil spike is a complication for the central bank's monetary policy.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-28/rba-governor-warns-world-facing-increased-supply-shocks/106965644"
-    },
-    {
-      "published_datetime": "2026-07-28T02:54:08.000000Z",
-      "title": "Rabbi supports stopping hospital staff from wearing Israeli, Palestinian pins",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c21600af9248655fa86ee6de826051ec?impolicy=wcms_crop_resize&amp;cropH=1447&amp;cropW=2573&amp;xPos=0&amp;yPos=50&amp;width=862&amp;height=485"
-      },
-      "description": "Jewish patients requested their religion be removed from their hospital admission information following allegations nurses made menacing comments about Israeli patients, the royal commission on antisemitism has heard.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-28/jewish-patients-afraid-to-go-to-hospital-after-nurses-comments/106965472"
     },
     {
       "published_datetime": "2026-07-28T02:48:43.000000Z",
@@ -80,15 +89,6 @@
       },
       "description": "Origin Energy says it started reviewing a \"potential security threat\" early this month but deemed it not credible, before new information indicated a breach.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-28/origin-energy-data-breach-900k-customers-impacted/106961804"
-    },
-    {
-      "published_datetime": "2026-07-27T22:01:19.000000Z",
-      "title": "Live: Ben Carroll sworn in as Victorian premier, immediately calls construction royal commission",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e208519c3a12f9c46e316618dfbabc93?impolicy=wcms_crop_resize&amp;cropH=1079&amp;cropW=1918&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Ben Carroll has been appointed premier of Victoria. Follow our live coverage.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-28/victorian-premier-jacinta-allan-ben-carroll-leadership-challenge/106791246"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-28T07:33:16.003134"
+  "merged_at": "2026-07-28T10:25:01.847682"
 }
