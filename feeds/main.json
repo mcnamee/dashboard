@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-28T14:01:00.000000Z",
+      "title": "Home loan borrowers missing out on millions in offset savings",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/193f6812a4bfc6e481a33dcf5847224e?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The corporate regulator found Australian banks paid more than $55 million in compensation in just two years, for failures with mortgage offset accounts, warning customers could be paying more interest than they should.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-29/home-loan-borrowers-miss-out-on-millions-in-offset-savings-asic/106965180"
+    },
+    {
+      "published_datetime": "2026-07-28T12:30:00.000000Z",
+      "title": "Australia supplants China as Pacific's biggest lender",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/81c0df155b841aeef8609cb592e5bc20?impolicy=wcms_crop_resize&amp;cropH=451&amp;cropW=801&amp;xPos=0&amp;yPos=375&amp;width=862&amp;height=485"
+      },
+      "description": "Australia supplants China as the dominant lender and infrastructure investor across the Pacific as the government ploughs billions of dollars into the region through both foreign aid and loans.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-28/new-lowy-pacific-aid-map-australia-lending-investor/106967764"
+    },
+    {
       "published_datetime": "2026-07-28T11:48:06.000000Z",
       "title": "Live: Reports of multiple deaths after earthquake strikes Japan",
       "featured_image": {
@@ -11,9 +29,9 @@
     },
     {
       "published_datetime": "2026-07-28T08:38:33.000000Z",
-      "title": "Live: Bol powers into 800 semis as swimmers cruise through heats",
+      "title": "Live: Double gymnastics gold on beam and bars, boxers guaranteed medals",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a31575bd5115bca70133a7f54625389c?impolicy=wcms_crop_resize&amp;cropH=1497&amp;cropW=2662&amp;xPos=1775&amp;yPos=85&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/237dd67eba417213f6f2499a82d67fa0?impolicy=wcms_crop_resize&amp;cropH=1539&amp;cropW=2735&amp;xPos=1073&amp;yPos=89&amp;width=862&amp;height=485"
       },
       "description": "It's day five of the Commonwealth Games and that means the fastest man and woman will be crowned in the 100m, the Diamonds take on Malawi and Kyle Chalmers goes for gold. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-28/commonwealth-games-glasgow-day-five-live-blog/106965170"
@@ -46,15 +64,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-28/kazem-hamad-sentenced-to-life-in-iraq-jail/106968276"
     },
     {
-      "published_datetime": "2026-07-28T05:34:29.000000Z",
-      "title": "US pharma giant to pay out $7.9 billion over baby powder lawsuits",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8ff1b50bf8681ad260eebccda06dcfd9?impolicy=wcms_crop_resize&amp;cropH=2493&amp;cropW=4432&amp;xPos=0&amp;yPos=231&amp;width=862&amp;height=485"
-      },
-      "description": "A US pharmaceutical company will pay $7.9 billion to settle thousands of lawsuits that claim its baby powder caused ovarian cancer.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-28/johnson-and-johnson-almost-8-billion-dollar-lawsuit-baby-powder/106967380"
-    },
-    {
       "published_datetime": "2026-07-28T03:35:10.000000Z",
       "title": "A rogue AI just gave us a warning. Australia isn't prepared",
       "featured_image": {
@@ -71,15 +80,6 @@
       },
       "description": "The Reserve Bank governor says the world has become more shock-prone in recent years, and the latest oil spike is a complication for the central bank's monetary policy.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-28/rba-governor-warns-world-facing-increased-supply-shocks/106965644"
-    },
-    {
-      "published_datetime": "2026-07-28T02:48:43.000000Z",
-      "title": "ICAC told of right-wing faction's plan to 'shake down Angus for 10k'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/63576e7fbc2aa8cdb9cc57a15847ff08?impolicy=wcms_crop_resize&amp;cropH=2963&amp;cropW=5268&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The NSW corruption watchdog has heard claims senior Liberal figures discussed seeking financial backing for the party's right-wing faction from now-federal Opposition Leader Angus Taylor.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-28/nsw-icac-operation-rosny-michael-ohara-reformer-liberals/106964276"
     },
     {
       "published_datetime": "2026-07-28T00:49:10.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-28T12:48:25.404763"
+  "merged_at": "2026-07-28T15:12:33.902047"
 }
