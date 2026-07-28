@@ -1,22 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-07-28T08:38:33.000000Z",
-      "title": "Live: Fastest men in water and on land to be crowned in 100m events",
+      "published_datetime": "2026-07-28T11:48:06.000000Z",
+      "title": "Live: Reports of multiple deaths after earthquake strikes Japan",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2486d8a83289b570c199b5f32ade317a?impolicy=wcms_crop_resize&amp;cropH=1721&amp;cropW=3059&amp;xPos=19&amp;yPos=302&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d143a5d4c6e78cf017b74a6d75bdb6d9?impolicy=wcms_crop_resize&amp;cropH=2232&amp;cropW=3968&amp;xPos=0&amp;yPos=86&amp;width=862&amp;height=485"
+      },
+      "description": "Japan's south-western Kyushu island has been struck by two strong earthquakes within an hour of each other.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-28/japan-earthquake-live-coverage/106969150"
+    },
+    {
+      "published_datetime": "2026-07-28T08:38:33.000000Z",
+      "title": "Live: Bol powers into 800 semis as swimmers cruise through heats",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a31575bd5115bca70133a7f54625389c?impolicy=wcms_crop_resize&amp;cropH=1497&amp;cropW=2662&amp;xPos=1775&amp;yPos=85&amp;width=862&amp;height=485"
       },
       "description": "It's day five of the Commonwealth Games and that means the fastest man and woman will be crowned in the 100m, the Diamonds take on Malawi and Kyle Chalmers goes for gold. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-28/commonwealth-games-glasgow-day-five-live-blog/106965170"
-    },
-    {
-      "published_datetime": "2026-07-28T08:07:51.000000Z",
-      "title": "Two powerful earthquakes hit Japan within an hour",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3e3cda21c70b858b0c7de06c0b2e0795?impolicy=wcms_crop_resize&amp;cropH=714&amp;cropW=1269&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Japan's south-western Kyushu island has been struck by two strong earthquakes within an hour.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-28/magnitude-7-1-earthquake-hits-japan-kumamoto-prefecture/106968604"
     },
     {
       "published_datetime": "2026-07-28T08:01:19.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-28T10:25:01.847682"
+  "merged_at": "2026-07-28T12:48:25.404763"
 }
