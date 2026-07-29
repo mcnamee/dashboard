@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-29T13:33:55.000000Z",
+      "title": "Russia charges Telegram founder with aiding terrorism",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/223f10fb7dae2d19a779ac36f3e33b54?impolicy=wcms_crop_resize&amp;cropH=1065&amp;cropW=1894&amp;xPos=0&amp;yPos=64&amp;width=862&amp;height=485"
+      },
+      "description": "Russia has charged Pavel Durov, the founder and CEO of the encrypted messaging platform Telegram, with aiding terrorism, placing him on an international wanted list.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-29/telegram-ceo-terrorism-charges/106974014"
+    },
+    {
+      "published_datetime": "2026-07-29T12:35:44.000000Z",
+      "title": "New data shows Indigenous children face lengthy periods on remand",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e5c9ce4cf9f49a8be23f8a2a7b13578f?impolicy=wcms_crop_resize&amp;cropH=2739&amp;cropW=4869&amp;xPos=65&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "New data shows First Nations children are spending longer behind bars without a sentence. Families and experts say the system is failing young people.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-29/productivity-commission-latest-closing-the-gap-data/106891958"
+    },
+    {
       "published_datetime": "2026-07-29T09:41:00.000000Z",
       "title": "'Time-limited rotation': Conroy puts an end date on US subs in WA",
       "featured_image": {
@@ -73,24 +91,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-07-29/former-political-staffer-settles-case-brittany-higgins-fallout/106971840"
     },
     {
-      "published_datetime": "2026-07-29T04:51:32.000000Z",
-      "title": "Woman born after IVF error hopes for change after legal action launched",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1c8b6434ac27a55f834ce56d425b4de9?impolicy=wcms_crop_resize&amp;cropH=746&amp;cropW=1327&amp;xPos=0&amp;yPos=554&amp;width=862&amp;height=485"
-      },
-      "description": "The biological parents of twins who were born after an IVF embryo mix-up at Royal North Shore Hospital in Sydney have launched civil action.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-29/lawsuit-launched-over-decades-old-ivf-mix-up/106970538"
-    },
-    {
-      "published_datetime": "2026-07-29T00:43:05.000000Z",
-      "title": "Local transmission of H5 bird flu confirmed in Australia",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/337c0d29e4571a3184ffa326299e2ac4?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=144&amp;width=862&amp;height=485"
-      },
-      "description": "Federal agriculture minister Julie Collins says \"local transmission has occurred\" between greater crested terns infected with H5 bird flu in South Australia.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-29/h5-bird-flu-strain-very-likely-spreading-locally-in-sa/106970486"
-    },
-    {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
       "title": "President Trump Announces U.S. Military Airstrike in Venezuela",
       "featured_image": {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-29T11:14:09.011344"
+  "merged_at": "2026-07-29T13:46:37.119037"
 }
