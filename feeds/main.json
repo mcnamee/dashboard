@@ -22,7 +22,7 @@
       "published_datetime": "2026-07-29T19:00:00.000000Z",
       "title": "Why Jim Chalmers is cautious but upbeat",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eb960d2e56c015141c15f0cbb04891ab?impolicy=wcms_crop_resize&amp;cropH=3510&amp;cropW=6240&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eb960d2e56c015141c15f0cbb04891ab?impolicy=wcms_crop_resize&amp;cropH=2053&amp;cropW=3650&amp;xPos=1599&amp;yPos=495&amp;width=862&amp;height=485"
       },
       "description": "After delivering a pre-election prediction that \"the worst of the inflation challenge is behind us\", only to see inflation then steadily rise, Treasurer Jim Chalmers is now more cautious.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-30/fuel-excise-inflation-jim-chalmers-reserve-bank-interest-rates/106965396"
@@ -47,7 +47,7 @@
     },
     {
       "published_datetime": "2026-07-29T18:42:12.000000Z",
-      "title": "Pharmaceutical company bows to pressure, offers lifesaving drug for free",
+      "title": "Pharmaceutical company bows to pressure, offers life-saving drug for free",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6a93b43e970bbf61141a3b32e5d13e0?impolicy=wcms_crop_resize&amp;cropH=2624&amp;cropW=4665&amp;xPos=0&amp;yPos=268&amp;width=862&amp;height=485"
       },
@@ -58,7 +58,7 @@
       "published_datetime": "2026-07-29T18:38:02.000000Z",
       "title": "Liberals registered dead and ex-members as preselectors for key seat",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/11f5a2212c67a7c85a107c53f74b6eb1?impolicy=wcms_crop_resize&amp;cropH=353&amp;cropW=628&amp;xPos=0&amp;yPos=137&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/11f5a2212c67a7c85a107c53f74b6eb1?impolicy=wcms_crop_resize&amp;cropH=353&amp;cropW=628&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
       },
       "description": "A leaked Liberal Party spreadsheet has revealed that one dead person and two ex-members were registered as preselectors for a vote in a key seat for the upcoming Victorian election.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-30/leaked-liberal-spreadsheet-dead-ex-members-preselection/106964176"
@@ -67,19 +67,10 @@
       "published_datetime": "2026-07-29T15:53:50.000000Z",
       "title": "Three dead in Sydney house fire",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3c2552be126eeccf6ba495f254a9b97e?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/11ec8ffca4e472e374df36a1a52156b4?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "New South Wales Police is working to identify the bodies of three people found in a house fire in Sydney's south-west overnight.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-30/three-dead-in-sydney-house-fire-wiley-park/106974284"
-    },
-    {
-      "published_datetime": "2026-07-29T12:35:44.000000Z",
-      "title": "New data shows Indigenous children face lengthy periods on remand",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e5c9ce4cf9f49a8be23f8a2a7b13578f?impolicy=wcms_crop_resize&amp;cropH=2739&amp;cropW=4869&amp;xPos=65&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "New data shows First Nations children are spending longer behind bars without a sentence. Families and experts say the system is failing young people.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-29/productivity-commission-latest-closing-the-gap-data/106891958"
     },
     {
       "published_datetime": "2026-07-29T08:26:21.000000Z",
@@ -89,6 +80,15 @@
       },
       "description": "Australia claims a further nine golds in the pool in Glasgow, setting a new Commonwealth Games record. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-29/commonwealth-games-glasgow-day-six-live-blog/106969928"
+    },
+    {
+      "published_datetime": "2026-07-29T08:11:58.000000Z",
+      "title": "Queenslander could face execution over alleged killing of Australian in Syria",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7f5bbb2273ca7954273b68c53471e8f3?impolicy=wcms_crop_resize&amp;cropH=581&amp;cropW=1032&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "A 20-year-old Gold Coast mobile phone technician is facing a possible death penalty in Syria for the alleged shooting murder of another Australian.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-29/australian-patrick-stevenson-charged-with-murder-in-syria/106959686"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-29T21:51:04.878641"
+  "merged_at": "2026-07-29T22:51:41.171983"
 }
