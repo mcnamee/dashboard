@@ -1,8 +1,26 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-29T09:41:00.000000Z",
+      "title": "'Time-limited rotation': Conroy puts an end date on US subs in WA",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/adc9e80590f16548e038bc0da58903b7?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=396&amp;width=862&amp;height=485"
+      },
+      "description": "AUKUS submarines rotating through Western Australia's HMAS Stirling naval base appear set to stop after 2032.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-29/pat-conroy-aukus-doubts-about-timeframe/106973268"
+    },
+    {
+      "published_datetime": "2026-07-29T08:26:21.000000Z",
+      "title": "Live: Ollie Hoare falls in mile heats, Australian team appeals",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/12132827cf8f25d6447eb8379287b50b?impolicy=wcms_crop_resize&amp;cropH=2233&amp;cropW=3970&amp;xPos=0&amp;yPos=154&amp;width=862&amp;height=485"
+      },
+      "description": "The Diamonds have perhaps their toughest match-up of the group stage against South Africa and Sam Short completes his packed schedule with the men's 200m and 1,500m freestyle finals on the same night. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-07-29/commonwealth-games-glasgow-day-six-live-blog/106969928"
+    },
+    {
       "published_datetime": "2026-07-29T08:11:58.000000Z",
-      "title": "Queenslander could face death penalty over alleged killing of Australian in Syria",
+      "title": "Queenslander could face execution over alleged killing of Australian in Syria",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7f5bbb2273ca7954273b68c53471e8f3?impolicy=wcms_crop_resize&amp;cropH=581&amp;cropW=1032&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -11,7 +29,7 @@
     },
     {
       "published_datetime": "2026-07-29T07:35:16.000000Z",
-      "title": "Investors gave Capital Guard $17 million for a bond scheme that didn't exist",
+      "title": "How a wealth management firm swindled older Australians",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ac4483735f60a64689fa27de7090a115?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
       },
@@ -20,21 +38,12 @@
     },
     {
       "published_datetime": "2026-07-29T07:33:26.000000Z",
-      "title": "Breaking: Mother attended police station day before murder-suicide, search for baby called off",
+      "title": "Mother attended police station day before murder-suicide, search for baby called off",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/71fc0d4feb1ac531824baf9898c38210?impolicy=wcms_crop_resize&amp;cropH=131&amp;cropW=232&amp;xPos=0&amp;yPos=37&amp;width=862&amp;height=485"
       },
       "description": "The mother at the centre of the horrific murder-suicide in South Australia's South East attended a police station the day before she and her daughter were found dead, police have confirmed.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-29/mother-attended-police-station-day-before-murder-suicide/106973380"
-    },
-    {
-      "published_datetime": "2026-07-29T07:13:59.000000Z",
-      "title": "Taiwan to stop buying PNG gas on spot market over 'One China' spat",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2309efaaeba491788c49111914ba8279?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=546&amp;width=862&amp;height=485"
-      },
-      "description": "Taiwan suspends some liquefied natural gas purchases from Papua New Guinea as part of an escalating diplomatic dispute over the future of its representative office in Port Moresby.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-29/taiwan-to-stop-buying-png-gas-on-spot-market/106972968"
     },
     {
       "published_datetime": "2026-07-29T06:42:02.000000Z",
@@ -62,15 +71,6 @@
       },
       "description": "A former political staffer has settled a contentious lawsuit with the Commonwealth over claims her workplace rights were compromised in the fallout of Brittany Higgins's rape allegation.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-29/former-political-staffer-settles-case-brittany-higgins-fallout/106971840"
-    },
-    {
-      "published_datetime": "2026-07-29T04:56:43.000000Z",
-      "title": "One Nation asked to submit three years of missing financial statements",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/748d32fb6735335a000ac72ee552f55a?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Office of Fair Trading confirmed that One Nation Queensland Division Inc had until midway through next month to file audited accounts for the financial years from 2023 to 2025.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-29/qld-pauline-hanson-one-nation-financial-statements/106972240"
     },
     {
       "published_datetime": "2026-07-29T04:51:32.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-29T08:21:34.159904"
+  "merged_at": "2026-07-29T11:14:09.011344"
 }
