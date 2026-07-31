@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-07-31T14:51:10.000000Z",
+      "title": "Spain says Ceuta migrant surge largely reversed as half return to Morocco",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e43d4effa7cd12170405fd4dbc6be7e2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "At least 25,000 of the 50,000 migrants which entered the Spanish enclave from Morocco have returned.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-01/migrants-return-to-morocco-/106984662"
+    },
+    {
       "published_datetime": "2026-07-31T12:26:52.000000Z",
       "title": "Nirmal Purja among climbers missing in Pakistan as rescuers find four bodies",
       "featured_image": {
@@ -38,7 +47,7 @@
     },
     {
       "published_datetime": "2026-07-31T08:21:48.000000Z",
-      "title": "Live: Aussie cyclists DQed from individual pursuit, boxer to fight for gold",
+      "title": "Live: 'Extremely disappointed': Aussie cyclists disqualified from individual pursuit",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7b9def789fb524d28db32283b70b232b?impolicy=wcms_crop_resize&amp;cropH=1370&amp;cropW=2436&amp;xPos=56&amp;yPos=156&amp;width=862&amp;height=485"
       },
@@ -71,15 +80,6 @@
       },
       "description": "Hundreds of mourners gather in Victoria's west to say farewell to 13-year-old Layla Jeffrey after her remains were found earlier this month.",
       "page_content_url": "https://www.abc.net.au/news/2026-07-31/layla-jeffery-funeral-donald-alleged-teenager-murder/106981708"
-    },
-    {
-      "published_datetime": "2026-07-31T07:21:52.000000Z",
-      "title": "Six Fijians found clinging to planks of wood after 36 hours lost at sea",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/476da2dfe0c96829c56c2d3873684109?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=395&amp;width=862&amp;height=485"
-      },
-      "description": "Six Fiji health workers survive a harrowing ordeal at sea thanks to a former classmate of one of the survivors.",
-      "page_content_url": "https://www.abc.net.au/news/2026-07-31/six-fiji-health-workers-rescued-from-ocean-after-36-hours-adrift/106981478"
     },
     {
       "published_datetime": "2026-07-31T05:19:20.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-31T15:26:31.684078"
+  "merged_at": "2026-07-31T15:54:48.166235"
 }
