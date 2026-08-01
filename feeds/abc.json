@@ -1,12 +1,21 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-01T01:24:06.000000Z",
+      "title": "Trump dusts off Red Scare playbook to stop 'mini-Mamdanis'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b6644c073a6db4c91f5a7052bef4b77?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=35&amp;width=862&amp;height=485"
+      },
+      "description": "President Trump has reignited anti-communist rhetoric as \"mini-Mamdanis\" continue to challenge the centrist Democrat establishment.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-01/trump-republican-red-scare-communist-socialist-us-politics/106967044"
+    },
+    {
       "published_datetime": "2026-07-31T23:48:56.000000Z",
-      "title": "Breaking: FIFA scraps World Cup sell-off plans",
+      "title": "FIFA scraps World Cup sell-off plans after global backlash",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7434b79119522ec116098c07c18b5709?impolicy=wcms_crop_resize&amp;cropH=1519&amp;cropW=2701&amp;xPos=0&amp;yPos=33&amp;width=862&amp;height=485"
       },
-      "description": "FIFA has scrapped plans to sell a stake in the World Cup after the move caused a major backlash.",
+      "description": "Football's governing body has scrapped plans to sell a stake in the World Cup after the move caused a major backlash.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-01/fifa-scraps-world-cup-sell-off-plans/106985360"
     },
     {
@@ -17,15 +26,6 @@
       },
       "description": "It's not just that some of the strongmen don't seem so strong anymore. It's that there is a new conflation of factors proving to be just as important, if not more so, in driving world events in increasingly disturbing directions.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-01/global-politics-driven-strongmen-disturbing-directions/106982606"
-    },
-    {
-      "published_datetime": "2026-07-31T18:37:36.000000Z",
-      "title": "To understand how war abroad impacts Australia, look to the price of milk",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7dd2189370add29cb7aaad8e8600b7fb?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "This century's biggest oil shock is entering its sixth month, with no end in sight as war in Iran continues. Is it showing up in your daily budget? ",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-01/coffee-commute-iran-war-morning-routine/106944788"
     },
     {
       "published_datetime": "2026-07-31T23:14:09.000000Z",
@@ -46,31 +46,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-01/torrie-lewis-adaejah-hodge-200m-final-glasgow-commonwealth-games/106984908"
     },
     {
-      "published_datetime": "2026-07-31T14:51:10.000000Z",
-      "title": "Spain says Ceuta migrant surge largely reversed as most return to Morocco",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e43d4effa7cd12170405fd4dbc6be7e2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "Prime Minister Pedro Sánchez has blamed trafficking gangs, as Spanish authorities say at least 57 bodies have been recovered.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-01/migrants-return-to-morocco-/106984662"
-    },
-    {
       "published_datetime": "2026-07-31T21:12:10.000000Z",
-      "title": "Alan Jones's day in court arrives as he faces 22 charges",
+      "title": "Alan Jones's 'anxious wait' for his day in court is over. Here's what to expect",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5bf43a62e4ac70102483625f3ce25889?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
       "description": "After significant media attention, more than 70 witnesses are set to give evidence during the judge-only trial at the Downing Centre in Sydney's CBD.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-01/nsw-alan-jones-judge-only-trial-begins-sydney-court/106973238"
-    },
-    {
-      "published_datetime": "2026-07-31T19:25:53.000000Z",
-      "title": "Palestinians long for peace but doubt Trump's deal with Hamas will hold",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a68bb5affcc7a0330cf9ec8b90081075?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=517&amp;width=862&amp;height=485"
-      },
-      "description": "Palestinians in Gaza have expressed scepticism about Hamas's declaration it will lay down its weapons in a bid to kickstart the stalled peace process, concerned it will not actually change the situation in the war-ravaged strip.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-01/palestine-weapons-deal-gaza/106985042"
     },
     {
       "published_datetime": "2026-07-31T18:41:02.000000Z",
@@ -82,6 +64,24 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-01/how-trump-administration-now-runs-venezuela/106980648"
     },
     {
+      "published_datetime": "2026-07-31T14:51:10.000000Z",
+      "title": "Spain says Ceuta migrant surge largely reversed as most return to Morocco",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e43d4effa7cd12170405fd4dbc6be7e2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Prime Minister Pedro Sánchez has blamed trafficking gangs, as Spanish authorities say at least 57 bodies have been recovered.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-01/migrants-return-to-morocco-/106984662"
+    },
+    {
+      "published_datetime": "2026-07-31T19:25:53.000000Z",
+      "title": "Palestinians long for peace but doubt Trump's deal with Hamas will hold",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a68bb5affcc7a0330cf9ec8b90081075?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=517&amp;width=862&amp;height=485"
+      },
+      "description": "Palestinians in Gaza have expressed scepticism about Hamas's declaration it will lay down its weapons in a bid to kickstart the stalled peace process, concerned it will not actually change the situation in the war-ravaged strip.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-01/palestine-weapons-deal-gaza/106985042"
+    },
+    {
       "published_datetime": "2026-07-31T19:00:00.000000Z",
       "title": "A week of AUKUS double-speak leaves everyone scratching their heads",
       "featured_image": {
@@ -91,13 +91,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-01/us-military-personnel-aukus-deployment-conroy-remarks/106982608"
     },
     {
-      "published_datetime": "2026-07-31T21:08:14.000000Z",
-      "title": "The Labor MPs chasing promotions after Vic leadership spill",
+      "published_datetime": "2026-07-31T18:37:36.000000Z",
+      "title": "To understand how war abroad impacts Australia, look to the price of milk",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/192f23d9250aba2dba992fc71b0f9041?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7dd2189370add29cb7aaad8e8600b7fb?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "New Victorian Premier Ben Carroll is expected to announce his new-look ministry on Monday, with a handful of Labor MPs now jostling for promotions following the resignation of Jacinta Allan.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-01/ben-carroll-new-cabinet-jacinta-allan-leadership-spill/106978476"
+      "description": "This century's biggest oil shock is entering its sixth month, with no end in sight as war in Iran continues. Is it showing up in your daily budget? ",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-01/coffee-commute-iran-war-morning-routine/106944788"
     },
     {
       "published_datetime": "2026-07-31T22:22:24.000000Z",
@@ -109,6 +109,24 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-01/gen-z-money-habits/106894802"
     },
     {
+      "published_datetime": "2026-08-01T00:06:41.000000Z",
+      "title": "Why is a fertiliser company building Australia's newest oil refinery?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/511a6f4df8a526c1caffa7051fb6cd18?impolicy=wcms_crop_resize&amp;cropH=4473&amp;cropW=7952&amp;xPos=0&amp;yPos=416&amp;width=862&amp;height=485"
+      },
+      "description": "The emergence of Perdaman on the national stage brings a complicated local reputation with it.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-01/perdaman-history-under-national-spotlight-amid-oil-refinery-push/106966280"
+    },
+    {
+      "published_datetime": "2026-07-31T23:06:09.000000Z",
+      "title": "Family's plea after daughter unable to donate organs",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/39cc021446e1431563b7f3176cbafa73?impolicy=wcms_crop_resize&amp;cropH=2916&amp;cropW=5184&amp;xPos=0&amp;yPos=95&amp;width=862&amp;height=485"
+      },
+      "description": "Sheridan Apter's family knew she would want to make one final gift, but the way Australia defines death may have got in the way.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-01/woman-unable-to-donate-organs-review-death-definition/106972664"
+    },
+    {
       "published_datetime": "2026-07-31T18:52:42.000000Z",
       "title": "Director Destin Daniel Cretton on making Spider-Man grow up",
       "featured_image": {
@@ -118,17 +136,8 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-01/spiderman-brand-new-day-interview/106980232"
     },
     {
-      "published_datetime": "2026-07-31T18:58:52.000000Z",
-      "title": "How a Sydney band became massive in wartime Ukraine",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/53584be7e1ed1e9f3590131870152ccc?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
-      },
-      "description": "Sydney band breathe. managed to become the only international act at Kyiv's Atlas music festival. What they saw is etched in their collective memories.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-01/sydney-band-breathe-take-part-in-kyivs-atlas-music-festival/106966900"
-    },
-    {
       "published_datetime": "2026-07-31T18:30:00.000000Z",
-      "title": "BTS Grammys boycott spotlights 'Asian' music controversy",
+      "title": "'Somewhat racist': Does the Grammys need an 'Asian' category?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1bd13d15d1b5b3e10860cea44ec28c3e?impolicy=wcms_crop_resize&amp;cropH=1406&amp;cropW=2500&amp;xPos=0&amp;yPos=1&amp;width=862&amp;height=485"
       },
@@ -145,22 +154,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-01/the-virality-of-netflix-tv-show-the-polygamist/106984048"
     },
     {
-      "published_datetime": "2026-07-31T18:30:00.000000Z",
-      "title": "ABC 50/50 quiz: Testing your knowledge of Get Smart, Snoopy and liking piña coladas",
+      "published_datetime": "2026-07-31T20:21:11.000000Z",
+      "title": "Cyclone's cool water revives 90 per cent of reef island's bleached coral",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a837b70af40b2e327cd8b417225ee643?impolicy=wcms_crop_resize&amp;cropH=546&amp;cropW=970&amp;xPos=0&amp;yPos=166&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b034fa4fcb6c69fcedac9998e6cec270?impolicy=wcms_crop_resize&amp;cropH=772&amp;cropW=1372&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Each question in the ABC 50/50 quiz has only two options: one is right, the other is wrong. But there's a catch.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-01/abc-5050-quiz-aug-1/106980166"
+      "description": "Cyclone Alfred's slow approach to Queensland in 2025 created cooler sea temperatures that helped 90 per cent of damaged coral around Lady Elliot Island to recover. Now there's hope of a new spawning event.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-01/lady-elliot-island-bleached-coral-recovers-cyclone-alfred/106949612"
     },
     {
-      "published_datetime": "2026-07-31T21:41:51.000000Z",
-      "title": "'Her life is in your hands': Nancy Guthrie ransom note detail released",
+      "published_datetime": "2026-07-31T21:08:14.000000Z",
+      "title": "The Labor MPs chasing promotions after Vic leadership spill",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8e9ac609a046ee66aad5eea4f43a5c24?impolicy=wcms_crop_resize&amp;cropH=320&amp;cropW=568&amp;xPos=0&amp;yPos=37&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/192f23d9250aba2dba992fc71b0f9041?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Authorities in Arizona have released details of two ransom notes, sent in the days after Nancy Guthrie went missing in February.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-01/authorities-release-details-early-ransom-notes-nancy-guthrie/106985264"
+      "description": "New Victorian Premier Ben Carroll is expected to announce his new-look ministry on Monday, with a handful of Labor MPs now jostling for promotions following the resignation of Jacinta Allan.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-01/ben-carroll-new-cabinet-jacinta-allan-leadership-spill/106978476"
     },
     {
       "published_datetime": "2026-07-31T18:43:28.000000Z",
@@ -172,42 +181,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-01/chinese-ai-moonshot-openai-anthropic-sovereignty/106957944"
     },
     {
-      "published_datetime": "2026-07-31T17:25:56.000000Z",
-      "title": "Sri Lanka sentences officials to death over bombing that killed Australians",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3b18eb5e169867f1f553b41543cebe2a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=28&amp;width=862&amp;height=485"
-      },
-      "description": "The 2019 Easter Sunday bombings on churches and luxury tourist hotels killed more than 260 people, including two Australians.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-01/death-penalty-sentence-over-easter-sunday-bombings/106985044"
-    },
-    {
-      "published_datetime": "2026-07-31T20:21:11.000000Z",
-      "title": "Cyclone's cool water revives 90 per cent of reef island's bleached coral",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b034fa4fcb6c69fcedac9998e6cec270?impolicy=wcms_crop_resize&amp;cropH=772&amp;cropW=1372&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Cyclone Alfred's slow approach to Queensland in 2025 created cooler sea temperatures that helped 90 per cent of damaged coral around Lady Elliot Island to recover. Now there's hope of a new spawning event.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-01/lady-elliot-island-bleached-coral-recovers-cyclone-alfred/106949612"
-    },
-    {
-      "published_datetime": "2026-07-31T23:06:09.000000Z",
-      "title": "Family's plea after daughter unable to donate organs",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/39cc021446e1431563b7f3176cbafa73?impolicy=wcms_crop_resize&amp;cropH=2916&amp;cropW=5184&amp;xPos=0&amp;yPos=95&amp;width=862&amp;height=485"
-      },
-      "description": "Sheridan Apter's family knew she would want to make one final gift, but the way Australia defines death may have got in the way.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-01/woman-unable-to-donate-organs-review-death-definition/106972664"
-    },
-    {
-      "published_datetime": "2026-07-31T22:35:52.000000Z",
-      "title": "Farmer posts reward after dog shot at family nursery",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9cd01344a6ae3d5585269924b7b5293f?impolicy=wcms_crop_resize&amp;cropH=435&amp;cropW=773&amp;xPos=116&amp;yPos=99&amp;width=862&amp;height=485"
-      },
-      "description": "A farmer has posted a $20,000 reward to help catch the person who shot his family dog at a busy country Victorian nursery.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-01/farmer-offers-reward-shot-dog-suspected-drive-by-attack/106981892"
-    },
-    {
       "published_datetime": "2026-07-31T18:55:33.000000Z",
       "title": "India's 'cockroaches' won. So what happens next?",
       "featured_image": {
@@ -217,13 +190,40 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-01/india-gen-z-education-minister-resigns-protests-what-next/106965486"
     },
     {
-      "published_datetime": "2026-07-31T21:29:52.000000Z",
-      "title": "The people contacting the National Debt Helpline may surprise you",
+      "published_datetime": "2026-07-31T17:25:56.000000Z",
+      "title": "Sri Lanka sentences officials to death over bombing that killed Australians",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bc60d2d4a47c9e92651d999681e975a9?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3b18eb5e169867f1f553b41543cebe2a?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=28&amp;width=862&amp;height=485"
       },
-      "description": "A record-high number of people are seeking help via the National Debt Helpline, as financial counsellors say anyone can seek support.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-01/record-demand-national-debt-helpline-financial-pressure-grows/106970082"
+      "description": "The 2019 Easter Sunday bombings on churches and luxury tourist hotels killed more than 260 people, including two Australians.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-01/death-penalty-sentence-over-easter-sunday-bombings/106985044"
+    },
+    {
+      "published_datetime": "2026-07-31T23:52:33.000000Z",
+      "title": "Family pays tribute to Aboriginal man who died in police custody",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b2e1810a36359e81bbd1deb31cb52ae0?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=378&amp;width=862&amp;height=485"
+      },
+      "description": "Family and friends of an Aboriginal man who died in police custody in Adelaide just over a week ago have paid tribute to the 23-year-old at a CBD vigil.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-01/vigil-for-aboriginal-man-who-died-in-police-custody-adelaide/106983170"
+    },
+    {
+      "published_datetime": "2026-07-31T18:58:52.000000Z",
+      "title": "How a Sydney band became massive in wartime Ukraine",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e939feb1ccb896a689a72819b1175f64?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Sydney band breathe. managed to become the only international act at Kyiv's Atlas music festival. What they saw is etched in their collective memories.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-01/sydney-band-breathe-take-part-in-kyivs-atlas-music-festival/106966900"
+    },
+    {
+      "published_datetime": "2026-07-31T21:41:51.000000Z",
+      "title": "Details of ransom notes in Nancy Guthrie case released",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8e9ac609a046ee66aad5eea4f43a5c24?impolicy=wcms_crop_resize&amp;cropH=320&amp;cropW=568&amp;xPos=0&amp;yPos=37&amp;width=862&amp;height=485"
+      },
+      "description": "Authorities in Arizona have released details of two ransom notes, sent in the days after Nancy Guthrie went missing in February.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-01/authorities-release-details-early-ransom-notes-nancy-guthrie/106985264"
     }
   ]
 }
