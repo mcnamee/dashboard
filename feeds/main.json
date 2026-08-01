@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-01T22:16:24.000000Z",
+      "title": "Riders sent flying in spectacular crash as Aussie avoids carnage to medal",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e8cce93c8cf4e29d03ef75533dc7841b?impolicy=wcms_crop_resize&amp;cropH=2076&amp;cropW=3691&amp;xPos=0&amp;yPos=425&amp;width=862&amp;height=485"
+      },
+      "description": "One rider was stretchered off the track and others required medical attention after a spectacular crash during the men's 10km scratch race.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-02/commonwealth-games-spectacular-crash-mens-10km-scratch/106987110"
+    },
+    {
       "published_datetime": "2026-08-01T21:36:48.000000Z",
       "title": "To prove how easy it is to buy unregulated peptides the ABC organised a deal",
       "featured_image": {
@@ -22,7 +31,7 @@
       "published_datetime": "2026-08-01T21:00:46.000000Z",
       "title": "Spain slams 'selfish' EU, sets up floating barriers",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/39cfddf0b4e202555fa7dff19cd14e51?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/647055a8babe2720f0e0e6ee5ef35566?impolicy=wcms_crop_resize&amp;cropH=1661&amp;cropW=2953&amp;xPos=0&amp;yPos=153&amp;width=862&amp;height=485"
       },
       "description": "European Union states are demanding stricter international border controls and have called an emergency meeting as Spain reassures safety of Schengen Area.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-02/spain-slams-selfish-european-union-sets-up-floating-barriers/106987024"
@@ -37,15 +46,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-02/vladimir-putin-supporters-start-to-question-ukraine-war/106979976"
     },
     {
-      "published_datetime": "2026-08-01T19:00:00.000000Z",
-      "title": "Voters are starting to ask a new question about politics, money",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/248b7c18f078ac0f97575b9a25cfc9de?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Debate about money in politics has traditionally revolved around whether politicians have broken the rules. But voters are increasingly asking what good judgement looks like.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-02/declaring-money-debate-political-donations-question-judgement/106982604"
-    },
-    {
       "published_datetime": "2026-08-01T18:56:45.000000Z",
       "title": "Trump's new respect for Zelenskyy highlights Netanyahu's problem",
       "featured_image": {
@@ -58,7 +58,7 @@
       "published_datetime": "2026-08-01T18:45:00.000000Z",
       "title": "'What's happened to me?': Bearing witness as my nan faced dementia",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e51224e2f262024884abf2cffbf7bcd9?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
+        "thumbnail": ""
       },
       "description": "The woman who once chased down a donkey to save her granddaughter would one day need saving herself \u2014 and teach me a lesson about love.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-02/dementia-alzheimers-disease-nansie-adelaide-miller-vascular-care/106975054"
@@ -83,11 +83,11 @@
     },
     {
       "published_datetime": "2026-08-01T08:36:05.000000Z",
-      "title": "Live: Aussies sweep women's mile after sprinters' history-making triumph",
+      "title": "Stunning day of Commonwealth Games success for Australia",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4a1320feedf67fa4b3b7611006c429c2?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Australia's stuns the field to claim gold in the men's 4x100m relay for the first time since 1974, as Abbey Caldwell leads an all-Australian podium on a record-breaking final day of athletics action. Follow live.",
+      "description": "Australia claims gold in the men's 4x100m relay for the first time since 1974, as Abbey Caldwell leads an all-Australian podium on a record-breaking final day of athletics action.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-01/commonwealth-games-day-nine-live-updates-medals/106985380"
     },
     {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-01T22:59:28.181151"
+  "merged_at": "2026-08-01T23:49:10.971648"
 }
