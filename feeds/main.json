@@ -1,12 +1,21 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-01T01:24:06.000000Z",
+      "title": "Trump dusts off Red Scare playbook to stop 'mini-Mamdanis'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b6644c073a6db4c91f5a7052bef4b77?impolicy=wcms_crop_resize&amp;cropH=810&amp;cropW=1440&amp;xPos=0&amp;yPos=35&amp;width=862&amp;height=485"
+      },
+      "description": "President Trump has reignited anti-communist rhetoric as \"mini-Mamdanis\" continue to challenge the centrist Democrat establishment.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-01/trump-republican-red-scare-communist-socialist-us-politics/106967044"
+    },
+    {
       "published_datetime": "2026-07-31T23:48:56.000000Z",
-      "title": "Breaking: FIFA scraps World Cup sell-off plans",
+      "title": "FIFA scraps World Cup sell-off plans after global backlash",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7434b79119522ec116098c07c18b5709?impolicy=wcms_crop_resize&amp;cropH=1519&amp;cropW=2701&amp;xPos=0&amp;yPos=33&amp;width=862&amp;height=485"
       },
-      "description": "FIFA has scrapped plans to sell a stake in the World Cup after the move caused a major backlash.",
+      "description": "Football's governing body has scrapped plans to sell a stake in the World Cup after the move caused a major backlash.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-01/fifa-scraps-world-cup-sell-off-plans/106985360"
     },
     {
@@ -29,7 +38,7 @@
     },
     {
       "published_datetime": "2026-07-31T21:12:10.000000Z",
-      "title": "Alan Jones's day in court arrives as he faces 22 charges",
+      "title": "Alan Jones's 'anxious wait' for his day in court is over. Here's what to expect",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5bf43a62e4ac70102483625f3ce25889?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -71,15 +80,6 @@
       },
       "description": "Amid the fallout of devastating twin earthquakes Donald Trump says the US has been taking \"billions and billions of dollars from Venezuela\". So who is running the country and what is happening with the seized funds?",
       "page_content_url": "https://www.abc.net.au/news/2026-08-01/how-trump-administration-now-runs-venezuela/106980648"
-    },
-    {
-      "published_datetime": "2026-07-31T18:37:36.000000Z",
-      "title": "To understand how war abroad impacts Australia, look to the price of milk",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7dd2189370add29cb7aaad8e8600b7fb?impolicy=wcms_crop_resize&amp;cropH=2583&amp;cropW=4592&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "This century's biggest oil shock is entering its sixth month, with no end in sight as war in Iran continues. Is it showing up in your daily budget?\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-01/coffee-commute-iran-war-morning-routine/106944788"
     },
     {
       "published_datetime": "2026-07-31T14:51:10.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-07-31T23:54:19.388710"
+  "merged_at": "2026-08-01T01:56:26.628667"
 }
