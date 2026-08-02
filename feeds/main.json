@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-08-02T10:09:43.000000Z",
-      "title": "Five dead, 41 missing after Indonesian ferry catches fire",
+      "published_datetime": "2026-08-02T14:01:13.000000Z",
+      "title": "Housing market seeing 'rapid deterioration' as property downturn deepens",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d5baa4d260215157c3141cb8a4ee5444?impolicy=wcms_crop_resize&amp;cropH=1370&amp;cropW=2435&amp;xPos=0&amp;yPos=127&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a99c8992995bca5c38efa7ea31fe53d9?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=192&amp;width=862&amp;height=485"
       },
-      "description": "Five people have been found dead and 41 are missing after an Indonesian ferry with 271 people on board caught fire while at sea, search and rescue officials say.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-02/indonesia-ferry-fire-rescue-madura-island/106988150"
+      "description": "Australia's housing downturn is spreading across the country, with the latest property price data showing previously resilient markets that had recently set record-high prices are now experiencing a decline in values.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-03/housing-market-downturn-spreads-property-prices-cotality/106975270"
+    },
+    {
+      "published_datetime": "2026-08-02T13:09:24.000000Z",
+      "title": "Moscow mayor calls deadly bomb attack on a restaurant a 'terrorist act'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/86e60708b5f2fbfa3900d97eadc978c8?impolicy=wcms_crop_resize&amp;cropH=2417&amp;cropW=4296&amp;xPos=0&amp;yPos=445&amp;width=862&amp;height=485"
+      },
+      "description": "The blast killed three people, including the woman bomber, Russian state media said.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-02/moscow-bombing-restaurant-mayor-terror-act/106988208"
     },
     {
       "published_datetime": "2026-08-02T08:01:36.000000Z",
@@ -62,15 +71,6 @@
       },
       "description": "A key clan elder on the Gove Peninsula has voiced his frustration, confusion and concern over a bold plan to create a new Aboriginal land council in his region.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-02/garma-festival-land-council-djawa-yunupingu-wanyubi-marika/106968570"
-    },
-    {
-      "published_datetime": "2026-08-02T01:43:07.000000Z",
-      "title": "Australia records biggest-ever surge in EV sales",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cc61d94d7ba46c4241e2d7caae051016?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
-      },
-      "description": "Nearly one in every two new vehicles sold was either electric or hybrid across April, May and June.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-02/electric-vehicle-ev-sales-2026-iran-war-fuel/106987252"
     },
     {
       "published_datetime": "2026-08-02T01:37:56.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-02T13:00:07.205785"
+  "merged_at": "2026-08-02T14:37:32.792582"
 }
