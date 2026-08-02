@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-02T10:09:43.000000Z",
+      "title": "Five dead, 41 missing after Indonesian ferry catches fire",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d5baa4d260215157c3141cb8a4ee5444?impolicy=wcms_crop_resize&amp;cropH=1370&amp;cropW=2435&amp;xPos=0&amp;yPos=127&amp;width=862&amp;height=485"
+      },
+      "description": "Five people have been found dead and 41 are missing after an Indonesian ferry with 271 people on board caught fire while at sea, search and rescue officials say.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-02/indonesia-ferry-fire-rescue-madura-island/106988150"
+    },
+    {
       "published_datetime": "2026-08-02T08:01:36.000000Z",
       "title": "'We'll kill you': Sandilands says he received threats in Stefanovic interview",
       "featured_image": {
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-08-02T07:58:47.000000Z",
-      "title": "Live: Diamonds win bronze as Aussie cyclists eye another medal haul on final day",
+      "title": "Live: Diamonds win bronze as cyclists' medal haul continues on final day",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/47dafc354e603c8de298f9559ec53d36?impolicy=wcms_crop_resize&amp;cropH=2575&amp;cropW=4577&amp;xPos=0&amp;yPos=268&amp;width=862&amp;height=485"
       },
@@ -29,7 +38,7 @@
     },
     {
       "published_datetime": "2026-08-02T05:09:59.000000Z",
-      "title": "How a factually dubious video by Ivanka Trump angered an entire nation",
+      "title": "'Corruption behind it': The Trump-Kushner mega-deal that has left a nation angry",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9476180ab81e2cc6ab68c955b31d8e57?impolicy=wcms_crop_resize&amp;cropH=4880&amp;cropW=8677&amp;xPos=0&amp;yPos=453&amp;width=862&amp;height=485"
       },
@@ -71,15 +80,6 @@
       },
       "description": "A 16-year-old girl's family alleges she was so traumatised by her time in a police cell, it killed her. Her case is now the focus of court action alleging she was a victim of Japan's \"hostage justice\" system.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-02/japan-hostage-justice-system-under-scrutiny-after-teen-death/106967964"
-    },
-    {
-      "published_datetime": "2026-08-01T21:22:11.000000Z",
-      "title": "UTI led to Sydney woman's death three days after giving birth",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6f035004c5f48a8eae9798b65a64307a?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Gia Lam gave birth to her son and was dead three days later. A coronial inquest found her death was preventable. Her family are now breaking their silence.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-02/young-mother-died-missed-uti-infection-sepsis/106950668"
     },
     {
       "published_datetime": "2026-08-01T18:38:37.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-02T10:25:38.147488"
+  "merged_at": "2026-08-02T11:54:26.881743"
 }
