@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-03T21:56:56.000000Z",
+      "title": "Hens moved indoors but free-range label still allowed",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c6f000bd875e2ffe9c2a68712e67a529?impolicy=wcms_crop_resize&amp;cropH=725&amp;cropW=1289&amp;xPos=0&amp;yPos=87&amp;width=862&amp;height=485"
+      },
+      "description": "The consumer watchdog has relaxed rules on free-range labelling as egg producers move their hens indoors to prevent the spread of bird flu.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-04/accc-extends-pause-on-free-range-egg-labelling-rules-bird-flu/106989736"
+    },
+    {
       "published_datetime": "2026-08-03T21:31:16.000000Z",
       "title": "Infantino could face UEFA lawsuit as he scrambles for FIFA presidency support",
       "featured_image": {
@@ -11,11 +20,11 @@
     },
     {
       "published_datetime": "2026-08-03T21:02:25.000000Z",
-      "title": "Live: Liberal MP signals Coalition will seek to strengthen gambling ad laws",
+      "title": "Live: Minister tells Hanson to 'turn up and answer questions' after barring ABC, Guardian",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f0e446b765b328a28741d6d75527653?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a9f757f17c1cae95d996f29c0f23383c?impolicy=wcms_crop_resize&amp;cropH=1090&amp;cropW=1938&amp;xPos=0&amp;yPos=17&amp;width=862&amp;height=485"
       },
-      "description": "Liberal MP Simon Kennedy has signalled the Coalition will seek to strengthen the government's gambling advertising laws before parliament. Follow live.\u00a0",
+      "description": "Amanda Rishworth says Pauline Hanson must \"turn up and answer questions\" after the One Nation leader barred ABC and Guardian journalists from a press conference in Victoria. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-04/federal-politics-live-blog-coalition-gambling/106993202"
     },
     {
@@ -33,7 +42,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b0fdde09bcd5e3ff26fc311c5eec148?impolicy=wcms_crop_resize&amp;cropH=442&amp;cropW=785&amp;xPos=0&amp;yPos=54&amp;width=862&amp;height=485"
       },
-      "description": "At least 11 people have died and dozens are wounded after Ukraine launched strikes at a Russian Black Sea resort and the annexed peninsula of Crimea.",
+      "description": "At least 11 people are dead and dozens are wounded after Ukrainian strikes on a Russian beach resort and the Crimean Peninsula.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-04/11-dead-in-russia-from-ukraine-drone-strike/106993088"
     },
     {
@@ -55,15 +64,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-04/allegra-spender-kitchen-cabinet-carla-zampatti/106978240"
     },
     {
-      "published_datetime": "2026-08-03T18:46:00.000000Z",
-      "title": "Indonesians mock Trump-style 'personality politics'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c1d59d5b2a3410880d8506b4c757a625?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=67&amp;width=862&amp;height=485"
-      },
-      "description": "Indonesian President Prabowo Subianto's repeated controversial comments spark debate over his \"populist\" communication style.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-04/indonesian-president-mocked-over-populist-rhetoric/106965264"
-    },
-    {
       "published_datetime": "2026-08-03T18:45:15.000000Z",
       "title": "On farms around the country, 21st-century slaves are picking Australia's food",
       "featured_image": {
@@ -76,7 +76,7 @@
       "published_datetime": "2026-08-03T18:40:43.000000Z",
       "title": "Older people open to downsizing but facing barriers",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/04dd1d0e66946e3abfe8ba581e205005?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=146&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/04dd1d0e66946e3abfe8ba581e205005?impolicy=wcms_crop_resize&amp;cropH=2117&amp;cropW=3763&amp;xPos=1223&amp;yPos=170&amp;width=862&amp;height=485"
       },
       "description": "Research shows more than half of people over the age of 55 are open to downsizing. But experts say there are barriers stopping older people moving into smaller homes. \u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-08-04/older-people-downsizing-barriers/106975436"
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-03T21:59:03.625066"
+  "merged_at": "2026-08-03T23:00:30.513024"
 }
