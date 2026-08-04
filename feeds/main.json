@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-04T16:41:19.000000Z",
+      "title": "Mass funeral held in Gaza for 112 people killed in Israeli strike",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/44a3cc0610e5cbb0960be84fb4c1bc42?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "The group being laid to rest were members of two extended families in Gaza, with some gathered for the event describing it as the largest funeral in the war-ravaged strip's history.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-05/mass-funeral-held-in-gaza-for-112-victims-of-israeli-strikes/106997376"
+    },
+    {
       "published_datetime": "2026-08-04T14:00:13.000000Z",
       "title": "Police investigate arson on Victorian defence company as 'far left terror'",
       "featured_image": {
@@ -71,15 +80,6 @@
       },
       "description": "The Trump administration has vowed to dismantle the International Criminal Court \"brick by brick\", but analysts warn it's a move that has more to do with local politics than genuine concerns about the system.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-04/trump-international-criminal-court-threats-and-us-politics/106971184"
-    },
-    {
-      "published_datetime": "2026-08-04T03:21:06.000000Z",
-      "title": "Questions about Sydney protest spark tense exchange at royal commission",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c53b66c16e89d4e54b69fab222d9a055?impolicy=wcms_crop_resize&amp;cropH=2807&amp;cropW=4991&amp;xPos=2&amp;yPos=42&amp;width=862&amp;height=485"
-      },
-      "description": "The head of a peak Jewish body has criticised the conduct of protesters at a pro-Palestinian rally in the wake of Hamas's attack on Israel, prompting a tense exchange at the antisemitism royal commission.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-04/antisemitism-royal-commission-protests-david-ossip/106993436"
     },
     {
       "published_datetime": "2026-08-03T23:56:46.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-04T16:07:59.141999"
+  "merged_at": "2026-08-04T18:23:09.424683"
 }
