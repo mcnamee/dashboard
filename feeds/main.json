@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-05T12:00:22.000000Z",
+      "title": "Top designers recognised at 2026 National Indigenous Fashion Awards",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c54255516edd648a8f61ffa2a2e7a4f0?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=78&amp;width=862&amp;height=485"
+      },
+      "description": "A unique partnership between a remote Northern Territory women's centre and an art studio in India has been recognised at in this year's prestigious National Indigenous Fashion Awards.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-05/national-indigenous-fashion-awards-nifa-art-designs-darwin-nt/106995770"
+    },
+    {
       "published_datetime": "2026-08-05T09:24:34.000000Z",
-      "title": "'Stink bomb': Former FA boss Gallop lashes Infantino",
+      "title": "'Gone down like a lead balloon': Ex-FA boss on FIFA's World Cup backflip",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/41c12a7351e8a6af6e258a6ccc167a81?impolicy=wcms_crop_resize&amp;cropH=5346&amp;cropW=9504&amp;xPos=0&amp;yPos=495&amp;width=862&amp;height=485"
       },
@@ -26,15 +35,6 @@
       },
       "description": "The brother of former NSW premier Dominic Perrottet says he undertook factional work while on the clock for another MP in his first appearance before a corruption inquiry.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-05/nsw-perrottet-brother-the-reformers-icac-corruption-inquiry/106997566"
-    },
-    {
-      "published_datetime": "2026-08-05T05:56:22.000000Z",
-      "title": "The Danube river is so low that Nazi warships are emerging",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/36f5d8a3ec09f00f251cbf3e19215f66?impolicy=wcms_crop_resize&amp;cropH=1873&amp;cropW=3330&amp;xPos=196&amp;yPos=985&amp;width=862&amp;height=485"
-      },
-      "description": "Europe's second-longest river is carrying less water than it has in decades, revealing shipwrecks and shutting down nuclear reactors.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-05/danube-river-drought-reveals-ships-woolly-mammoth-energy-fears/106999692"
     },
     {
       "published_datetime": "2026-08-05T05:54:51.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-05T10:26:02.154234"
+  "merged_at": "2026-08-05T12:47:32.295983"
 }
