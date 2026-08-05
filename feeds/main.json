@@ -1,13 +1,31 @@
 {
   "items": [
     {
-      "published_datetime": "2026-08-04T21:59:16.000000Z",
-      "title": "Live: SpaceX earnings beat estimates but costs balloon",
+      "published_datetime": "2026-08-05T01:21:25.000000Z",
+      "title": "Gas giant prosecuted after under-reporting toxic emissions",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9f21824720f023472272adec516e3b17?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=227&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d546b7d0e4fe28f95be51b0ac923fa2d?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485"
       },
-      "description": "SpaceX's results beat analyst estimates but the firm is yet to turn a profit. Meanwhile, the Australian share market is set for another day of gains. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-05/asx-markets-business-live-news/106997660"
+      "description": "Japanese gas giant Inpex has been charged by the Northern Territory's environmental regulator for under-reporting the amount of toxic emissions it released from the Ichthys facility near Darwin.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-05/nt-epa-prosecutes-gas-company-inpex/106998434"
+    },
+    {
+      "published_datetime": "2026-08-05T00:42:42.000000Z",
+      "title": "Man arrested at Trump golf course carrying ammunition, authorities say",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cb9c8d709ab861dc03c32fec8d1021a0?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The man was appearing to monitor security preparations two days ahead of a Trump fundraiser, authorities said.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-05/armed-man-arrested-at-trump-golf-course-california/106998194"
+    },
+    {
+      "published_datetime": "2026-08-05T00:41:12.000000Z",
+      "title": "High Court throws out reduced sentence for teen who killed Emma Lovell",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/81d80f1a02bdf58f2a8ed957dfbfb9a8?impolicy=wcms_crop_resize&amp;cropH=540&amp;cropW=960&amp;xPos=0&amp;yPos=79&amp;width=862&amp;height=485"
+      },
+      "description": "The High Court of Australia throws out a reduced sentence handed to a 17-year-old jailed over the murder of Brisbane woman Emma Lovell.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-05/high-court-throws-reduced-sentence-teen-who-killed-emma-lovell/106998022"
     },
     {
       "published_datetime": "2026-08-04T21:57:58.000000Z",
@@ -20,7 +38,7 @@
     },
     {
       "published_datetime": "2026-08-04T21:54:30.000000Z",
-      "title": "Jetstar to charge new fees for overhead carry-on baggage",
+      "title": "Jetstar to scrap free 7kg carry-on for new overhead luggage fees",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3c12c74a894eee60d415ec5e1d3bbb92?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=625&amp;width=862&amp;height=485"
       },
@@ -35,24 +53,6 @@
       },
       "description": "The modelling industry was at the root of Isabella Charon's eating disorder but it was an avalanche of \"toxic fitspo\" content online that fuelled it.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-05/butterfly-foundation-negative-body-image-new-research-emerges/106982830"
-    },
-    {
-      "published_datetime": "2026-08-04T20:27:08.000000Z",
-      "title": "Alternative school's founding family banned from senior roles",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2f37296b23e83fc85b80e6b19b6b90f3?impolicy=wcms_crop_resize&amp;cropH=636&amp;cropW=1130&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The founder and two other senior staff members of an alternative Melbourne school are found unfit to hold a position of authority in the Victorian education system following an investigation by regulators into child safety and governance concerns.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-05/fitzroy-community-school-leaders-banned-positions-of-authority/106996112"
-    },
-    {
-      "published_datetime": "2026-08-04T20:08:43.000000Z",
-      "title": "The problem of Australia's 'beer tax' is well known. Is it time to end it?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/224bcb33d60ceaab3195d06e225c4940?impolicy=wcms_crop_resize&amp;cropH=1038&amp;cropW=1845&amp;xPos=637&amp;yPos=603&amp;width=862&amp;height=485"
-      },
-      "description": "The cost of alcohol is grinding Australia's old pub culture and live music venues into dust. Should we keep forging ahead with six-monthly increases in the beer excise?",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-05/scrap-beer-tax-for-five-years-what-would-happen-to-pubs/106991272"
     },
     {
       "published_datetime": "2026-08-04T19:44:01.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-04T23:55:33.006551"
+  "merged_at": "2026-08-05T01:43:58.905479"
 }
