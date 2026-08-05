@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-05T14:54:32.000000Z",
+      "title": "Woman arrested after four men stabbed in central London",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e23553ca218cc1b9bcefb1cd40e687e6?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=67&amp;width=862&amp;height=485"
+      },
+      "description": "A woman has been arrested after four people were stabbed in one of central London's busiest tourist hotspots on Wednesday.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-06/woman-arrested-after-four-men-stabbed-in-central-london/107002060"
+    },
+    {
+      "published_datetime": "2026-08-05T14:35:35.000000Z",
+      "title": "What the success of 'Michigan Mamdani' says about the future of the Democrats",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/42b5dcbe5ededd9ff52d5ecb104e4366?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
+      },
+      "description": "Abdul El-Sayed has defeated Haley Stevens in the Democrats' Michigan primary race, the AP projects. The result that is expected to shape the party's messaging to voters and how it responds to Donald Trump ahead of November's crucial midterms.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-06/why-michigan-is-a-crucial-democrat-primary/106995836"
+    },
+    {
+      "published_datetime": "2026-08-05T14:09:56.000000Z",
+      "title": "At least 17 dead in Kyiv as Zelenskyy calls for more air defences",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8cfa07d6e07c5f77416c06d7f4f19481?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=259&amp;width=862&amp;height=485"
+      },
+      "description": "The director of a factory supplying drones to the Russian military was also badly injured when his car exploded, according to Russian reports.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-06/kyiv-smashed-by-drone-and-missile-strikes/107001994"
+    },
+    {
       "published_datetime": "2026-08-05T12:00:22.000000Z",
       "title": "Top designers recognised at 2026 National Indigenous Fashion Awards",
       "featured_image": {
@@ -37,15 +64,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-05/nsw-perrottet-brother-the-reformers-icac-corruption-inquiry/106997566"
     },
     {
-      "published_datetime": "2026-08-05T05:54:51.000000Z",
-      "title": "Netanyahu is running out of options on Gaza. None really work for him",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/97508c17f25360f60335c2018e726404?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
-      },
-      "description": "US President Donald Trump wants Israel to do a deal with Hamas now, but conservatives in Benjamin Netanyahu's cabinet don't want a deal with the group ever \u2014 and it's leaving the Israeli prime minister in a difficult position.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-05/benjamin-netanyahu-caught-in-pincer-between-trump-and-ben-gvir/106995806"
-    },
-    {
       "published_datetime": "2026-08-05T05:16:28.000000Z",
       "title": "Planned family visa crackdown labelled 'human rights issue'",
       "featured_image": {
@@ -71,24 +89,6 @@
       },
       "description": "Over the past year, electric car sales have tripled, as anxiety about fuel shortages and rising petrol prices continues.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-05/tesla-hits-record-in-july-as-ev-sales-close-in-on-petrol-cars/106996416"
-    },
-    {
-      "published_datetime": "2026-08-05T03:40:24.000000Z",
-      "title": "'List of doom' outlines birds facing extinction if deadly flu spreads",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/477585388d3a4e4c3b5daebdf12d4d55?impolicy=wcms_crop_resize&amp;cropH=223&amp;cropW=397&amp;xPos=0&amp;yPos=37&amp;width=862&amp;height=485"
-      },
-      "description": "A list of thousands of Australian species have been ranked by threat level as the deadly H5 bird flu spreads.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-05/bird-flu-hundreds-of-species-under-threat/106998490"
-    },
-    {
-      "published_datetime": "2026-08-04T23:45:58.000000Z",
-      "title": "Corruption probe into Andrews-era firefighters negotiations handed down",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3196242c83b88fa83e4a28f1ff0e403d?impolicy=wcms_crop_resize&amp;cropH=2808&amp;cropW=4992&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The IBAC report into a bitter pay dispute between the Victorian government and firefighters during the Andrews era found United Firefighters Union boss Peter Marshall had privileged access to government figures, but stopped short of any finding of corrupt conduct.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-05/vic-operation-richmond-ibac-report-daniel-andrews-ufu/106997618"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-05T12:47:32.295983"
+  "merged_at": "2026-08-05T15:08:17.627485"
 }
