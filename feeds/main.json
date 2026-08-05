@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-05T15:12:14.000000Z",
+      "title": "Terror probe launched after explosive drone found at German cargo hub",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f8ea4b48fcebafa25e1f5f83c79b4aff?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "After the drone was discovered, a diverted plane hit an unidentified object while climbing away from the airport.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-06/germany-leipzig-explosive-drone-plane-terror-probe/107002162"
+    },
+    {
+      "published_datetime": "2026-08-05T15:00:00.000000Z",
+      "title": "We've never seen the Sun in this much detail before",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/7293ae7fc4effcec49b943bb0f01f6b8?impolicy=wcms_crop_resize&amp;cropH=1559&amp;cropW=2772&amp;xPos=0&amp;yPos=171&amp;width=862&amp;height=485"
+      },
+      "description": "The highest-resolution imagery of the Sun's surface ever taken reveals dizzying currents, and clues about our star's magnetic fields.",
+      "page_content_url": "https://www.abc.net.au/news/science/2026-08-06/highest-resolution-images-of-the-sun-to-date/106992262"
+    },
+    {
       "published_datetime": "2026-08-05T14:54:32.000000Z",
       "title": "Woman arrested after four men stabbed in central London",
       "featured_image": {
@@ -13,9 +31,9 @@
       "published_datetime": "2026-08-05T14:35:35.000000Z",
       "title": "What the success of 'Michigan Mamdani' says about the future of the Democrats",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/42b5dcbe5ededd9ff52d5ecb104e4366?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=107&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/104061deef609b4bd42704e085260885?impolicy=wcms_crop_resize&amp;cropH=1349&amp;cropW=2399&amp;xPos=0&amp;yPos=163&amp;width=862&amp;height=485"
       },
-      "description": "Abdul El-Sayed has defeated Haley Stevens in the Democrats' Michigan primary race, the AP projects. The result that is expected to shape the party's messaging to voters and how it responds to Donald Trump ahead of November's crucial midterms.",
+      "description": "Abdul El-Sayed defeats Haley Stevens in the Democrats' Michigan primary race, a result that is expected to shape the party's messaging to voters and how it responds to Donald Trump ahead of November's crucial midterms.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-06/why-michigan-is-a-crucial-democrat-primary/106995836"
     },
     {
@@ -46,15 +64,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-05/david-gallop-infantino-plan-doesnt-pass-pub-test/107001290"
     },
     {
-      "published_datetime": "2026-08-05T08:30:00.000000Z",
-      "title": "Hip hop artist-turned-novelist wins Miles Franklin award",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0b31897915c49f74cc18389cb9fbfbf2?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=156&amp;width=862&amp;height=485"
-      },
-      "description": "Malaysian Australian author Omar Musa has taken out the Miles Franklin Literary Award with his second novel, Fierceland, set between Malaysian Borneo and Sydney.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-05/omar-musa-fierceland-winner-2026-miles-franklin-literary-award/106975328"
-    },
-    {
       "published_datetime": "2026-08-05T07:57:51.000000Z",
       "title": "'Needs a Valium': Brother of former NSW premier fronts corruption inquiry",
       "featured_image": {
@@ -71,15 +80,6 @@
       },
       "description": "Experts are divided on the government's plan to increase its control over net migration figures, warning the devil is in the detail.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-05/labor-migration-policy-tony-burke-partner-visas/107000272"
-    },
-    {
-      "published_datetime": "2026-08-05T05:09:24.000000Z",
-      "title": "Reformed neo-Nazi tells royal commission he was sold a 'load of lies'",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/53c0a189222f9dc236bd7a7cb79b47c0?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
-      },
-      "description": "A reformed neo-Nazi cut ties with his extremist organisation after he realised he was being sold a \"load of lies\", the antisemitism royal commission has heard.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-05/nsw-royal-commission-antisemitism-reformed-neo-nazi-testimony/106999942"
     },
     {
       "published_datetime": "2026-08-05T04:08:56.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-05T15:08:17.627485"
+  "merged_at": "2026-08-05T17:20:38.017252"
 }
