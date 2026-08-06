@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-06T10:42:28.000000Z",
+      "title": "Israel accused of targeting journalists in deadly series of strikes",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6d870bdf40bebb2b0e847f3bd64ade0e?impolicy=wcms_crop_resize&amp;cropH=2531&amp;cropW=4500&amp;xPos=0&amp;yPos=235&amp;width=862&amp;height=485"
+      },
+      "description": "Lebanese journalist Amal Khalil was killed and her 21-year-old colleague Zeinab Faraj was seriously injured in IDF strikes that human rights groups allege were deliberate.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-06/idf-accused-of-war-crime-targeted-strikes-lebanese-journalists/107006472"
+    },
+    {
       "published_datetime": "2026-08-06T08:35:39.000000Z",
       "title": "Bangladesh's ousted 'Iron Lady' plans to return to politics. Can she do it?",
       "featured_image": {
@@ -11,11 +20,11 @@
     },
     {
       "published_datetime": "2026-08-06T08:30:36.000000Z",
-      "title": "Live: Roos rattle Dogs early as AFL's response to Geelong saga causes confusion",
+      "title": "Live: Roos stun Dogs to blow wildcard wide open, outrage over Cats saga",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/daebd7c14a44d124fc9d97afae139668?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/288538f922c3342d871f07b1c4a8020e?impolicy=wcms_crop_resize&amp;cropH=1985&amp;cropW=3529&amp;xPos=0&amp;yPos=114&amp;width=862&amp;height=485"
       },
-      "description": "The Bulldogs take on North Melbourne at Docklands, as the AFL's decision not to sanction Geelong over a concussion waiver leads to more questions than answers. Follow live.",
+      "description": "North Melbourne ends a seven-year drought against the Western Bulldogs, as the AFL's decision not to sanction Geelong over a concussion waiver leads to more questions than answers. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-06/afl-round-22-western-bulldogs-kangaroos-live-bog/106994848"
     },
     {
@@ -44,15 +53,6 @@
       },
       "description": "One of the men convicted of killing Perth teenager Cassius Turvey has failed in his appeal against his nine-year jail sentence, which he claimed was \"manifestly excessive\".",
       "page_content_url": "https://www.abc.net.au/news/2026-08-06/man-convicted-of-killing-cassius-turvey-has-appeal-dismissed/107004198"
-    },
-    {
-      "published_datetime": "2026-08-06T05:16:48.000000Z",
-      "title": "Australian silicon company forced out of US by 40pc tariffs",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/fc63d80efe878d1207cedd0fb115de75?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=261&amp;width=862&amp;height=485"
-      },
-      "description": "Australia's only silicon producer will exit the US market next week, but the federal government says the Trump administration's move does not undermine the critical minerals agreement between the two countries.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-06/simcoa-australian-silicon-out-of-us-after-additional-tariff/107003162"
     },
     {
       "published_datetime": "2026-08-06T04:36:15.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-06T10:28:39.747551"
+  "merged_at": "2026-08-06T12:50:58.362871"
 }
