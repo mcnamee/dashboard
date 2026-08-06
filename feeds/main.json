@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-06T13:40:35.000000Z",
+      "title": "US Senate panel votes to hold Fauci in contempt over COVID hearing",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0e3c4384e8561afcfea1e80f03cff045?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Dr Fauci invoked his Fifth Amendment right against self-incrimination more than 100 times when he appeared before the US Senate Committee on Homeland Security and Governmental Affairs last week.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-06/anthony-fauci-in-contempt-of-congress-over-covid-hearing/107006930"
+    },
+    {
+      "published_datetime": "2026-08-06T13:10:23.000000Z",
+      "title": "North Korea fires ballistic missile towards Japan as region boosts military",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9b4acbd03b7a421aab2930347a5f39d2?impolicy=wcms_crop_resize&amp;cropH=2804&amp;cropW=4984&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "A short-range ballistic missile was fired over the Sea of Japan, according to Japan and South Korea's militaries, a day after Pyongyang criticised Japan's military build-up in the region.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-06/north-korea-launches-ballistic-missile-over-sea-of-japan/107006920"
+    },
+    {
       "published_datetime": "2026-08-06T10:42:28.000000Z",
       "title": "Israel accused of targeting journalists in deadly series of strikes",
       "featured_image": {
@@ -8,24 +26,6 @@
       },
       "description": "Lebanese journalist Amal Khalil was killed and her 21-year-old colleague Zeinab Faraj was seriously injured in IDF strikes that human rights groups allege were deliberate.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-06/idf-accused-of-war-crime-targeted-strikes-lebanese-journalists/107006472"
-    },
-    {
-      "published_datetime": "2026-08-06T08:35:39.000000Z",
-      "title": "Bangladesh's ousted 'Iron Lady' plans to return to politics. Can she do it?",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/796c1caf41791e842f228fd06f7a7cd3?impolicy=wcms_crop_resize&amp;cropH=2663&amp;cropW=4734&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "In her first public appearance since fleeing to India two years ago, Bangladesh's \"Iron Lady\" didn't use the moment to confront the crimes for which she has been sentenced to death. Instead, she used it to signal her ongoing power as a political contender.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-06/ousted-bangladesh-prime-minister-sheikh-hasina-return-analysis/107002232"
-    },
-    {
-      "published_datetime": "2026-08-06T08:30:36.000000Z",
-      "title": "Live: Roos stun Dogs to blow wildcard wide open, outrage over Cats saga",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/288538f922c3342d871f07b1c4a8020e?impolicy=wcms_crop_resize&amp;cropH=1985&amp;cropW=3529&amp;xPos=0&amp;yPos=114&amp;width=862&amp;height=485"
-      },
-      "description": "North Melbourne ends a seven-year drought against the Western Bulldogs, as the AFL's decision not to sanction Geelong over a concussion waiver leads to more questions than answers. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-06/afl-round-22-western-bulldogs-kangaroos-live-bog/106994848"
     },
     {
       "published_datetime": "2026-08-06T07:22:47.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-06T12:50:58.362871"
+  "merged_at": "2026-08-06T15:06:51.022469"
 }
