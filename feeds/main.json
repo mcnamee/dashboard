@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-07T13:56:33.000000Z",
+      "title": "Lawyers for Andrew and Tristan Tate urge US judge to release them from jail",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/56ab907463a73b0aaa253682eab6c8e8?impolicy=wcms_crop_resize&amp;cropH=2214&amp;cropW=3936&amp;xPos=0&amp;yPos=209&amp;width=862&amp;height=485"
+      },
+      "description": "The brothers' lawyers argued their \"extraordinary public visibility\" would make it impractical for them to try to flee and there was no need to keep them behind bars until proceedings end.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-07/andrew-tristan-tate-lawyer-jail-release/107011846"
+    },
+    {
+      "published_datetime": "2026-08-07T12:30:00.000000Z",
+      "title": "Unknown Australian soldiers identified decades after deaths in action",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/19b61a26d7dcee5a389205609571b9ea?impolicy=wcms_crop_resize&amp;cropH=506&amp;cropW=900&amp;xPos=0&amp;yPos=10&amp;width=862&amp;height=485"
+      },
+      "description": "The soldiers died on the same day, 24 years apart. The first fell in Europe towards the end of World War I and the second in the Pacific Theatre during World War II.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-07/unknown-australian-soldiers-identified/107011068"
+    },
+    {
       "published_datetime": "2026-08-07T10:54:36.000000Z",
       "title": "Travis Head pips star duo to win second-straight Allan Border Medal",
       "featured_image": {
@@ -11,11 +29,11 @@
     },
     {
       "published_datetime": "2026-08-07T08:23:49.000000Z",
-      "title": "Live: Ruthless Lions send ominous warning to AFL rivals by dismantling Hawks",
+      "title": "Ruthless Lions send ominous warning to AFL rivals by dismantling Hawks",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2dd76964c79a91cb65d28dc2ae5e6142?impolicy=wcms_crop_resize&amp;cropH=1454&amp;cropW=2584&amp;xPos=0&amp;yPos=134&amp;width=862&amp;height=485"
       },
-      "description": "Brisbane shows the rest of the competition why it has won the last two premierships by dominating Hawthorn at the Gabba. Follow live.",
+      "description": "Brisbane shows the rest of the competition why it has won the last two premierships by dominating Hawthorn at the Gabba.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-07/afl-round-22-brisbane-lions-hawthorn-hawks-live-blog/106995760"
     },
     {
@@ -37,21 +55,12 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-07/accc-launches-inquiry-into-food-labelling-after-four-corners/107010678"
     },
     {
-      "published_datetime": "2026-08-07T07:03:34.000000Z",
-      "title": "Men to be offered prostate screening from age 45 under new guidelines",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b106185deb97ecff09ff7e6d57bc2e1a?impolicy=wcms_crop_resize&amp;cropH=477&amp;cropW=849&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "New guidelines released today will change the way men are screened for prostate cancer and lead to less invasive testing.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-07/prostate-cancer-screening-guidelines-change/107009124"
-    },
-    {
       "published_datetime": "2026-08-07T06:59:37.000000Z",
-      "title": "Live: 'Doesn't look great': Fears Penrith captain could miss rest of NRL season",
+      "title": "'Doesn't look great': Fears Penrith captain could miss rest of NRL season",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/85d3c3eec51d47f5781bd16fa7786072?impolicy=wcms_crop_resize&amp;cropH=2408&amp;cropW=4280&amp;xPos=0&amp;yPos=133&amp;width=862&amp;height=485"
       },
-      "description": "Penrith captain Isaah Yeo may miss the rest of the NRL season after injuring his pectoral during the Panthers 28-12 loss to the New Zealand Warriors. Follow live.",
+      "description": "Penrith captain Isaah Yeo may miss the rest of the NRL season after injuring his pectoral muscle, while the Sydney Roosters joined the Panthers on top of the table after defeating the Canterbury Bulldogs.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-07/nrl-live-updates-warriors-panthers-roosters-bulldogs/106998868"
     },
     {
@@ -71,15 +80,6 @@
       },
       "description": "Aboriginal community-controlled organisations have told the federal racism inquiry that racial bias on the part of child protection workers and police is harming First Nations women and children.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-07/federal-racism-inquiry-ends-in-melbourne-august/107008074"
-    },
-    {
-      "published_datetime": "2026-08-07T05:48:50.000000Z",
-      "title": "Victoria announces poultry lockdown as bird flu cases spread",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0bf9d35b7412586738c8c29b918776de?impolicy=wcms_crop_resize&amp;cropH=675&amp;cropW=1200&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Testing confirmed a further 20 cases of H5N1avian influenza in Victoria on Friday, all in greater crested terns along the state's south-west coast.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-07/victoria-h5n1-bird-flu-poultry-lockdown/107010162"
     },
     {
       "published_datetime": "2026-08-07T04:14:31.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-07T12:40:48.219398"
+  "merged_at": "2026-08-07T14:05:36.459171"
 }
