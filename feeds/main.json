@@ -1,8 +1,17 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-07T08:23:49.000000Z",
+      "title": "Live: Lions and Hawks in blockbuster, Cats name player in concussion drama",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/4648797a3f3c36248db2e22df0b6e91f?impolicy=wcms_crop_resize&amp;cropH=2327&amp;cropW=4136&amp;xPos=0&amp;yPos=127&amp;width=862&amp;height=485"
+      },
+      "description": "Defending premiers Brisbane Lions host Hawthorn in a Friday night blockbuster at the Gabba, as Geelong makes a move in the midst of its concussion scandal. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-07/afl-round-22-brisbane-lions-hawthorn-hawks-live-blog/106995760"
+    },
+    {
       "published_datetime": "2026-08-07T07:34:40.000000Z",
-      "title": "Frustrations flare as China accused of influencing Pacific meeting",
+      "title": "China accused as Pacific nations block statement condemning missile test",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c7bfd3c2dc6d8ebfa7d61dcb01db440e?impolicy=wcms_crop_resize&amp;cropH=1424&amp;cropW=2532&amp;xPos=120&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -11,30 +20,12 @@
     },
     {
       "published_datetime": "2026-08-07T07:23:12.000000Z",
-      "title": "ACCC launches inquiry into claims of food labelling after Four Corners investigation",
+      "title": "ACCC launches inquiry into food labelling claims after Four Corners investigation",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1f9ea3df3664fc802fb96369a8e89575?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
-      "description": "Australia's consumer watchdog has launched an inquiry into allegations of misleading consumer conduct, following a major Four Corners investigation examining food fraud.",
+      "description": "Australia's consumer watchdog has launched an inquiry into allegations of misleading consumer conduct after a major Four Corners investigation examining food fraud.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-07/accc-launches-inquiry-into-food-labelling-after-four-corners/107010678"
-    },
-    {
-      "published_datetime": "2026-08-07T07:21:40.000000Z",
-      "title": "Top Perth school suspends students over antisemitic group chat",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d682c5c42ce0ee6dd976d7c599277599?impolicy=wcms_crop_resize&amp;cropH=915&amp;cropW=1627&amp;xPos=87&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Students have been suspended from the prestigious Wesley College in South Perth for using \u201cantisemitic language and memes\u201d\u00a0to target a peer.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-07/top-perth-school-suspends-students-over-antisemitic-group-chat/107010706"
-    },
-    {
-      "published_datetime": "2026-08-07T07:14:39.000000Z",
-      "title": "Pharmacist denies conflict of interest with man behind Essendon doping scandal",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6df1ecb2cfe0124081957dbec45b2f2?impolicy=wcms_crop_resize&amp;cropH=1687&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "A Darwin pharmacist is facing a tribunal over allegations he inappropriately dispensed performance-enhancing drugs and did so on the basis of a conflict of interest with the man at the centre of the Essendon football club doping scandal.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-07/darwin-pharmacist-alleged-misconduct-stephen-dank-doping-scandal/107007650"
     },
     {
       "published_datetime": "2026-08-07T07:03:34.000000Z",
@@ -44,6 +35,15 @@
       },
       "description": "New guidelines released today will change the way men are screened for prostate cancer and lead to less invasive testing.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-07/prostate-cancer-screening-guidelines-change/107009124"
+    },
+    {
+      "published_datetime": "2026-08-07T06:59:37.000000Z",
+      "title": "Live: Warriors dominate in heavyweight clash, Panthers lose captain to injury",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c4fd2b67c1a11ed55c8b3e47b3475024?impolicy=wcms_crop_resize&amp;cropH=2092&amp;cropW=3719&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "The New Zealand Warriors have produced one of the best halves of rugby league this season to take a big lead over Penrith, while the Panthers sweat on the fitness of its captain. Follow live.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-07/nrl-live-updates-warriors-panthers-roosters-bulldogs/106998868"
     },
     {
       "published_datetime": "2026-08-07T06:51:46.000000Z",
@@ -74,7 +74,7 @@
     },
     {
       "published_datetime": "2026-08-07T04:14:31.000000Z",
-      "title": "Students and teachers killed after student opens fire at school in Thailand",
+      "title": "Fourteen-year-old killed grandparents before deadly school rampage, Thai police say",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a75ffffe325ce6c7e96f5b0a5fe2ac61?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-07T09:06:02.775730"
+  "merged_at": "2026-08-07T09:51:54.808050"
 }
