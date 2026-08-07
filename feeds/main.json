@@ -1,12 +1,21 @@
 {
   "items": [
     {
-      "published_datetime": "2026-08-07T08:23:49.000000Z",
-      "title": "Live: Lions and Hawks in blockbuster, Cats name player in concussion drama",
+      "published_datetime": "2026-08-07T10:54:36.000000Z",
+      "title": "Travis Head pips star duo to win second-straight Allan Border Medal",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/eb9d02eac7e2505d64e2ee832dda3636?impolicy=wcms_crop_resize&amp;cropH=1970&amp;cropW=3503&amp;xPos=0&amp;yPos=60&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f4177f30460388ef9d2de2286d247b48?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Defending premiers Brisbane Lions host Hawthorn in a Friday night blockbuster at the Gabba, as Geelong makes a move in the midst of its concussion scandal. Follow live.",
+      "description": "Swashbuckling batter Travis Head's big year \u2014 including three Ashes centuries \u2014 wins him a second straight Allan Border Medal, with fellow Ashes heroes Alex Carey and Mitchell Starc hot on his heels.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-07/travis-head-wins-second-consecutive-allan-border-medal/107010836"
+    },
+    {
+      "published_datetime": "2026-08-07T08:23:49.000000Z",
+      "title": "Live: Morris dominates first half as Brisbane puts Hawthorn to the sword",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2dd76964c79a91cb65d28dc2ae5e6142?impolicy=wcms_crop_resize&amp;cropH=1454&amp;cropW=2584&amp;xPos=0&amp;yPos=134&amp;width=862&amp;height=485"
+      },
+      "description": "Logan Morris kicks four goals in the first half as the Lions put down a marker against the Hawks at the Gabba. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-07/afl-round-22-brisbane-lions-hawthorn-hawks-live-blog/106995760"
     },
     {
@@ -38,9 +47,9 @@
     },
     {
       "published_datetime": "2026-08-07T06:59:37.000000Z",
-      "title": "Live: 'Doesn't look great': Fears for Panthers captain as Warriors dominate",
+      "title": "Live: Bulldogs threaten upset as three-try blitz stuns high-flying Roosters",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c4fd2b67c1a11ed55c8b3e47b3475024?impolicy=wcms_crop_resize&amp;cropH=2092&amp;cropW=3719&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/34c2e8d623ad870114a877d44d31e1d6?impolicy=wcms_crop_resize&amp;cropH=2283&amp;cropW=4059&amp;xPos=0&amp;yPos=211&amp;width=862&amp;height=485"
       },
       "description": "The New Zealand Warriors have made a premiership statement, hammering the ladder-leading Penrith Panthers 28-12. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-07/nrl-live-updates-warriors-panthers-roosters-bulldogs/106998868"
@@ -80,15 +89,6 @@
       },
       "description": "At least seven people, including teachers and students, have died after a student opened fire at a school in Thailand.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-07/thailand-bangkok-school-shooting/107009728"
-    },
-    {
-      "published_datetime": "2026-08-07T02:22:38.000000Z",
-      "title": "Man says he was 'very scared' during alleged Alan Jones bedroom assault",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/96ef39b6d9c65b5efc87465535aa6378?impolicy=wcms_crop_resize&amp;cropH=1466&amp;cropW=2607&amp;xPos=0&amp;yPos=178&amp;width=862&amp;height=485"
-      },
-      "description": "A man accusing Alan Jones of historical indecent assault has told a court he followed the broadcaster's alleged direction to have a shower and come out in a robe because he did not want to disappoint Mr Jones.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-07/nsw-sydney-alan-jones-trial-court/107008516"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-07T10:42:42.219926"
+  "merged_at": "2026-08-07T11:38:07.726439"
 }
