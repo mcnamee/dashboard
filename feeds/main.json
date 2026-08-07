@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-07T15:20:29.000000Z",
+      "title": "US unexpectedly sheds 23,000 jobs in blow for Trump before midterms",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/650ea34b5515804d331d990944a75799?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=388&amp;width=862&amp;height=485"
+      },
+      "description": "Donald Trump has unleashed a spate of policies aimed at reviving domestic manufacturing and curbing surging inflation but new figures show job growth has been declining since March.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-08/thousands-of-jobs-lost-in-united-states/107011970"
+    },
+    {
       "published_datetime": "2026-08-07T13:56:33.000000Z",
       "title": "Lawyers for Andrew and Tristan Tate urge US judge to release them from jail",
       "featured_image": {
@@ -35,15 +44,6 @@
       },
       "description": "Brisbane shows the rest of the competition why it has won the last two premierships by dominating Hawthorn at the Gabba.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-07/afl-round-22-brisbane-lions-hawthorn-hawks-live-blog/106995760"
-    },
-    {
-      "published_datetime": "2026-08-07T07:34:40.000000Z",
-      "title": "China accused as Pacific nations block statement condemning missile test",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c7bfd3c2dc6d8ebfa7d61dcb01db440e?impolicy=wcms_crop_resize&amp;cropH=1424&amp;cropW=2532&amp;xPos=120&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Naoero and Kiribati stir frustration at the opening day of the Pacific Islands Forum by blocking a regional statement criticising China's ballistic missile test.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-07/naoero-and-kiribati-stir-frustration-at-pif/107010022"
     },
     {
       "published_datetime": "2026-08-07T07:23:12.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-07T14:05:36.459171"
+  "merged_at": "2026-08-07T15:44:40.064654"
 }
