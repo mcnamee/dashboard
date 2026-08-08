@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-08-07T21:27:30.000000Z",
-      "title": "Deliberately misleading party name approved for Victorian election",
+      "published_datetime": "2026-08-08T00:29:01.000000Z",
+      "title": "David Brat confirmed as US ambassador to Australia",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/89d1f182a878177b4bd5a91e679453a1?impolicy=wcms_crop_resize&amp;cropH=356&amp;cropW=633&amp;xPos=47&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5b1c181328ad8994cfe129adc83fa9a5?impolicy=wcms_crop_resize&amp;cropH=2250&amp;cropW=4000&amp;xPos=0&amp;yPos=77&amp;width=862&amp;height=485"
       },
-      "description": "A political party with a deliberately misleading name has been successfully registered for the Victorian election, aiming to redirect left-wing votes towards parties on the right.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-08/vec-party-registration-free-palestine-avi-yemini/107009614"
+      "description": "After nearly 20 months of the role being vacant, the Trump administration has confirmed the appointment of a former Republican congressman as ambassador to Australia.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-08/david-brat-confirmed-as-us-ambassador-to-australia/107012520"
+    },
+    {
+      "published_datetime": "2026-08-07T23:47:13.000000Z",
+      "title": "Trump's White House ballroom project stalled",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/84aebc2fdb38b7111c33f6affa5c0980?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Appearing to be a major setback in a case testing his presidential authority, Donald Trump has signalled involving US Supreme Court.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-08/brk-us-court-halts-trump-s-ballroom-project/107012460"
     },
     {
       "published_datetime": "2026-08-07T19:00:00.000000Z",
@@ -29,21 +38,21 @@
     },
     {
       "published_datetime": "2026-08-07T18:52:11.000000Z",
-      "title": "Alan Jones once ruled the airwaves. Now he's the one doing the listening",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0210ff34dcbd13bb52f544c169bba5a8?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Alan Jones sat impassively, legs crossed, with a notebook and pen in hand as the first of six male complainants began testifying this week in his indecent assault trial.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-08/week-one-alan-jones-trial-done-at-sydney-s-downing-centre/106995440"
-    },
-    {
-      "published_datetime": "2026-08-07T18:52:11.000000Z",
       "title": "What is the 'singles tax' and is it real?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c5bc98579d4128bf0b9429c3e373959b?impolicy=wcms_crop_resize&amp;cropH=1125&amp;cropW=2000&amp;xPos=0&amp;yPos=51&amp;width=862&amp;height=485"
       },
       "description": "The singles tax has nothing to do with the ATO, it's the extra people pay when they can't split costs like rent, internet, insurance and other household bills the way couples can.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-08/how-to-avoid-singles-tax-cost-of-living-your-say/106953804"
+    },
+    {
+      "published_datetime": "2026-08-07T18:52:11.000000Z",
+      "title": "Alan Jones once ruled the airwaves. Now he's the one doing the listening",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0210ff34dcbd13bb52f544c169bba5a8?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Alan Jones sat impassively, legs crossed, with a notebook and pen in hand as the first of six male complainants began testifying this week in his indecent assault trial.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-08/week-one-alan-jones-trial-done-at-sydney-s-downing-centre/106995440"
     },
     {
       "published_datetime": "2026-08-07T18:41:01.000000Z",
@@ -80,15 +89,6 @@
       },
       "description": "The Middle East conflict isn't just widening, it's highlighting more vulnerabilities in the region.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-08/iran-war-spreading-diplomacy-teeters/106990466"
-    },
-    {
-      "published_datetime": "2026-08-07T12:30:00.000000Z",
-      "title": "Bodies of WWI and WWII diggers finally identified",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1b6bcd45571ffeb4530505561df1dfb3?impolicy=wcms_crop_resize&amp;cropH=500&amp;cropW=888&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The soldiers died on the same day, 24 years apart. The first fell in Europe towards the end of World War I and the second in the Pacific Theatre during World War II.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-07/unknown-australian-soldiers-identified/107011068"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-07T23:25:00.217838"
+  "merged_at": "2026-08-08T00:55:41.729846"
 }
