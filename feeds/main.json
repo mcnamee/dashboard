@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-08T21:15:07.000000Z",
+      "title": "The phone taps, the $100k offer and the 'filthy schools' money'",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/8a24e9c965b56687557ffa612950929c?impolicy=wcms_crop_resize&amp;cropH=450&amp;cropW=800&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Here are some of the most notable moments from the first fortnight of NSW Independent Commission Against Corruption hearings under Operation Rosny.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-09/what-weve-learnt-after-two-weeks-icac-operation-rosny/107010690"
+    },
+    {
       "published_datetime": "2026-08-08T21:03:53.000000Z",
       "title": "Iron deficiency from too much cow's milk a 'hidden health crisis' for toddlers",
       "featured_image": {
@@ -10,13 +19,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-09/cows-milk-iron-deficiency-toddler-health-nutrition/106953518"
     },
     {
-      "published_datetime": "2026-08-08T20:06:05.000000Z",
-      "title": "Ukraine denies targeting Bulgaria after drone explodes near pipeline",
+      "published_datetime": "2026-08-08T19:38:13.000000Z",
+      "title": "Iran says Hormuz deal 'close' but reopening depends on other conditions",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d801b43af5a605732dda76bbadf2372e?impolicy=wcms_crop_resize&amp;cropH=2238&amp;cropW=3978&amp;xPos=1022&amp;yPos=1095&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2aa66cd32fdae13c9094a7d07c147e77?impolicy=wcms_crop_resize&amp;cropH=1434&amp;cropW=2550&amp;xPos=0&amp;yPos=133&amp;width=862&amp;height=485"
       },
-      "description": "Ukraine has denied targeting Bulgaria after a drone entered Bulgaria's airspace exploded close to the strategic Trans-Balkan gas pipeline near the Romanian border.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-09/bulgaria-says-drone-explodes-in-its-airspace/107013718"
+      "description": "Iran and Oman are \"very close\" to reaching an accord on a new shipping route through the Strait of Hormuz, Iran's foreign minister says. This is your three-minute briefing on the key developments overnight in the Middle East.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-09/iran-and-oman-close-to-new-route-strait-of-hormuz/107013264"
     },
     {
       "published_datetime": "2026-08-08T19:18:50.000000Z",
@@ -26,15 +35,6 @@
       },
       "description": "Broadcaster and author Sarah Macdonald is part of a growing army of silent unpaid workers, coping with the consequences of a housing crisis and a broken aged care system.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-09/sandwich-generation-work-elderly-parents-kids-still-at-home/107005466"
-    },
-    {
-      "published_datetime": "2026-08-08T19:10:39.000000Z",
-      "title": "These young women are redefining who belongs in agriculture",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c9f94ca5f6f4c25711a53d14814f8a24?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=218&amp;width=862&amp;height=485"
-      },
-      "description": "A university program challenges the idea that women need to grow up on a farm to build a career in agriculture.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-09/student-with-no-farming-background-finds-career-in-agriculture/107008874"
     },
     {
       "published_datetime": "2026-08-08T19:07:27.000000Z",
@@ -47,11 +47,11 @@
     },
     {
       "published_datetime": "2026-08-08T19:02:25.000000Z",
-      "title": "Maps show Ukraine's extensive reach into Russian territory",
+      "title": "How Ukraine is striking Russia where it hurts most",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a61f22441bf0466f79940bb1c42cc97b?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=220&amp;width=862&amp;height=485"
       },
-      "description": "Ukraine's 40-day campaign to take the war to the heart of Russia has increased the strain on Russian businesses, people and air defences, analysts say.",
+      "description": "Ukraine's 40-day campaign to take the war to the heart of Russia increases the strain on Russian businesses, people and air defences, analysts say.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-09/maps-show-ukraine-extensive-reach-into-russian-territory/107008704"
     },
     {
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-08T21:20:49.746484"
+  "merged_at": "2026-08-08T22:18:28.774258"
 }
