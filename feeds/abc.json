@@ -10,15 +10,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/superannuation-death-benefit-nominations-survey-finds-funds-fail/106991968"
     },
     {
-      "published_datetime": "2026-08-09T18:51:51.000000Z",
-      "title": "Israeli government rejects Trump's Gaza peace plan",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/175b3f9e4f38c259298cd43c5b8d9c06?impolicy=wcms_crop_resize&amp;cropH=1549&amp;cropW=2754&amp;xPos=0&amp;yPos=161&amp;width=862&amp;height=485"
-      },
-      "description": "Israeli Prime Minster Benjamin Netanyahu says Hamas's proposed plan for disarming is \"unacceptable\", rejecting the Trump administration's plans to end fighting in the Palestinian territory.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-10/israel-rejects-trump-gaza-plan/107015052"
-    },
-    {
       "published_datetime": "2026-08-09T18:44:33.000000Z",
       "title": "How a simple request for AI to book a gym class exposed a major threat",
       "featured_image": {
@@ -28,15 +19,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986"
     },
     {
-      "published_datetime": "2026-08-09T18:45:55.000000Z",
-      "title": "Albanese is the opposite of Rudd and that comes with its own risks",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/87a196ebdfa63e71908dbfe3b8f06000?impolicy=wcms_crop_resize&amp;cropH=5624&amp;cropW=9999&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
-      },
-      "description": "Cabinet's indecision on support for Tony Burke's immigration cuts shows a key difference between Anthony Albanese and Kevin Rudd.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-10/albanese-immigration-cuts-gambling-legislation/107014442"
-    },
-    {
       "published_datetime": "2026-08-09T18:52:44.000000Z",
       "title": "The end of the low interest rate era is here and it weighs on house prices",
       "featured_image": {
@@ -44,6 +26,24 @@
       },
       "description": "We seem to have flipped from worrying about rising house prices to worrying about falling house prices. Well, some of us have, anyway.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/interest-rates-house-prices-only-part-of-story/107010092"
+    },
+    {
+      "published_datetime": "2026-08-09T18:51:51.000000Z",
+      "title": "Israeli government rejects Trump's Gaza peace plan",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/175b3f9e4f38c259298cd43c5b8d9c06?impolicy=wcms_crop_resize&amp;cropH=1549&amp;cropW=2754&amp;xPos=0&amp;yPos=161&amp;width=862&amp;height=485"
+      },
+      "description": "Israeli Prime Minster Benjamin Netanyahu says Hamas's proposed plan for disarming is \"unacceptable\", rejecting the Trump administration's plans to end fighting in the Palestinian territory.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-10/israel-rejects-trump-gaza-plan/107015052"
+    },
+    {
+      "published_datetime": "2026-08-09T18:45:55.000000Z",
+      "title": "Albanese is the opposite of Rudd and that comes with its own risks",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/87a196ebdfa63e71908dbfe3b8f06000?impolicy=wcms_crop_resize&amp;cropH=5624&amp;cropW=9999&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
+      },
+      "description": "Cabinet's indecision on support for Tony Burke's immigration cuts shows a key difference between Anthony Albanese and Kevin Rudd. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-10/albanese-immigration-cuts-gambling-legislation/107014442"
     },
     {
       "published_datetime": "2026-08-09T19:00:42.000000Z",
@@ -60,12 +60,12 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d74b433ed6f8acb4fcfb90094a884e30?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Three decades after the murder of rapper Tupac Shakur, the world may get some answers about who killed the young superstar, and why.",
+      "description": "Three decades after the murder of rapper Tupac Shakur, the world may get some answers about who killed the young superstar, and why. ",
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/tupac-shakur-shooting-murder-trial-to-begin-in-las-vegas/107008936"
     },
     {
       "published_datetime": "2026-08-09T19:14:04.000000Z",
-      "title": "Bulldogs junior runs out despite brother benched over gang war concerns",
+      "title": "NRL clubs split on playing Alameddine brothers over gang war concerns",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c66a32d57fab4f56a067d7e8d732c6ff?impolicy=wcms_crop_resize&amp;cropH=467&amp;cropW=831&amp;xPos=0&amp;yPos=101&amp;width=862&amp;height=485"
       },
@@ -82,6 +82,33 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/regional-emergency-departments-a-basket-case-of-mania/106994288"
     },
     {
+      "published_datetime": "2026-08-09T20:57:56.000000Z",
+      "title": "Live: ASX set to lift after Wall St hit another record close",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&amp;cropH=530&amp;cropW=942&amp;xPos=0&amp;yPos=14&amp;width=862&amp;height=485"
+      },
+      "description": "The ASX is expected to hit a fresh record high after Wall Street's S&amp;P 500 also closed at a record. Follow the day's events and insights from our business reporters on the ABC News live markets blog. ",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-10/asx-markets-business-live-news/107014540"
+    },
+    {
+      "published_datetime": "2026-08-09T12:51:17.000000Z",
+      "title": "Alleged Irish international crime boss charged",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5627467bdbc90ec8f33f6791bda6b0c2?impolicy=wcms_crop_resize&amp;cropH=296&amp;cropW=526&amp;xPos=0&amp;yPos=71&amp;width=862&amp;height=485"
+      },
+      "description": "Daniel Joseph Kinahan was flown from Dubai to Dublin, the UAE state news agency reported, after his arrest in April, to face allegations about \"serious organised crime offences\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-09/daniel-joseph-kinahan-alleged-crime-boss-extradited-to-ireland-/107014878"
+    },
+    {
+      "published_datetime": "2026-08-09T20:13:40.000000Z",
+      "title": "'Not going to be around for much longer': Small business under pressure despite population growth",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a31dabb9739edaff2cbcc5d831f8437c?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=212&amp;width=862&amp;height=485"
+      },
+      "description": "Mount Barker is one of South Australia's fastest-growing districts, but while some businesses are excited about the prospect of more customers, others are competing with tightening wallets and operating pressures.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-10/mount-barker-is-growing-but-not-all-businesses-are-booming/107003234"
+    },
+    {
       "published_datetime": "2026-08-09T14:19:06.000000Z",
       "title": "Paramilitary promises video of Iran's supreme leader unseen since March",
       "featured_image": {
@@ -91,58 +118,22 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/footage-of-irans-supreme-leader-promised/107014896"
     },
     {
-      "published_datetime": "2026-08-09T13:48:16.000000Z",
-      "title": "Zelenskyy says 50,000 North Korean troops will help Russia in war",
+      "published_datetime": "2026-08-09T19:51:01.000000Z",
+      "title": "Conflict of interest questions raised as Qld deputy premier approves planning changes",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6fee036e6c9413e8b1fded471c31b7d3?impolicy=wcms_crop_resize&amp;cropH=2199&amp;cropW=3909&amp;xPos=0&amp;yPos=15&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2111e9a16d61791ae293ba2d86324579?impolicy=wcms_crop_resize&amp;cropH=909&amp;cropW=1616&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Mr Zelenskyy took to social media to announced that \"a decision has been made for 30,000 to 50,000 North Koreans to be deployed on the territory of Russia\", while calling on South Korea to provide support for Ukraine's air defence.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-09/zelenskyy-says-50-000-north-korean-soldiers-will-help-russia/107014914"
-    },
-    {
-      "published_datetime": "2026-08-09T12:51:17.000000Z",
-      "title": "Alleged Irish international crime boss charged",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5627467bdbc90ec8f33f6791bda6b0c2?impolicy=wcms_crop_resize&amp;cropH=296&amp;cropW=526&amp;xPos=0&amp;yPos=71&amp;width=862&amp;height=485"
-      },
-      "description": "Daniel Joseph Kinahan was flown from Dubai to Dublin, the UAE state news agency reported, after his arrest in April, with allegations about his \"serious organised crime offences\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-09/daniel-joseph-kinahan-alleged-crime-boss-extradited-to-ireland-/107014878"
-    },
-    {
-      "published_datetime": "2026-08-09T08:42:04.000000Z",
-      "title": "Body found in suitcase in southern NSW",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bc9791eb995085049a4f6237a07cce16?impolicy=wcms_crop_resize&amp;cropH=3915&amp;cropW=6960&amp;xPos=0&amp;yPos=363&amp;width=862&amp;height=485"
-      },
-      "description": "The body of a person, believed to be female, has been found in a suitcase at Oallen, about 60 kilometres south-east of Goulburn.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-09/body-found-in-suitcase-oallen-nsw/107014740"
-    },
-    {
-      "published_datetime": "2026-08-09T19:17:30.000000Z",
-      "title": "Wind in the wilderness a real threat to unprepared hikers",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b5cf63d03372e80ed1ac23ef62c05091?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=665&amp;width=862&amp;height=485"
-      },
-      "description": "Bushwalker and meteorologist Urshla Connor knows from personal and professional experience that being prepared for changing weather can make all the difference between a beautiful hike and a life-threatening situation in Tasmania's wilderness.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-10/bom-advice-on-hiking-preparedness-in-windy-weather/106977532"
+      "description": "Queensland Deputy Premier Jarrod Bleijie personally approved town planning changes championing house development in a zone where landowners included a developer who had just donated $50,000 for a private lunch with the politician.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-10/deputy-premier-jarrod-bleijie-planning-approvals-under-scrutiny/106989154"
     },
     {
       "published_datetime": "2026-08-09T18:30:00.000000Z",
-      "title": "What can you use your carer's leave entitlements leave for?",
+      "title": "What are the rules for taking carer's leave from work?",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/97b36f46e2c66d68842ce3a07ef36e18?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=398&amp;width=862&amp;height=485"
       },
       "description": "When it comes to taking time off work for your own personal illness or injury, you probably have some idea of what your entitlements are. But when it comes to needing time off to care for others, you may be more unsure of your rights.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/when-can-you-use-your-carer-s-leave-entitlements/106998228"
-    },
-    {
-      "published_datetime": "2026-08-09T10:35:58.000000Z",
-      "title": "Elliot Constable wins Race Around The World",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/15bbe5196d132d8365b686e3670a0484?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "After 100 days on the road, the winner of Race Around the World has been crowned. Catch up on the final week's films.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-09/race-around-the-world-documentary-wrap/106728142"
     },
     {
       "published_datetime": "2026-08-09T18:30:00.000000Z",
@@ -154,6 +145,42 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/this-week-in-history-quiz-august-10/107006848"
     },
     {
+      "published_datetime": "2026-08-09T10:35:58.000000Z",
+      "title": "Elliot Constable wins Race Around The World",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/15bbe5196d132d8365b686e3670a0484?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "After 100 days on the road, the winner of Race Around the World has been crowned. Catch up on the final week's films.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-09/race-around-the-world-documentary-wrap/106728142"
+    },
+    {
+      "published_datetime": "2026-08-09T13:48:16.000000Z",
+      "title": "Volodymyr Zelenskyy says 50,000 North Korean troops will help Russia in war",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/6fee036e6c9413e8b1fded471c31b7d3?impolicy=wcms_crop_resize&amp;cropH=2199&amp;cropW=3909&amp;xPos=0&amp;yPos=15&amp;width=862&amp;height=485"
+      },
+      "description": "The Ukrainian president took to social media to announced \"a decision has been made for 30,000 to 50,000 North Koreans to be deployed on the territory of Russia\", while calling on South Korea to provide support for Ukraine's air defence.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-09/zelenskyy-says-50-000-north-korean-soldiers-will-help-russia/107014914"
+    },
+    {
+      "published_datetime": "2026-08-09T20:54:41.000000Z",
+      "title": "Hundreds of cars stolen from Melbourne gyms in six-month-period",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f6725f85385cd1ee46095a7e7323b93f?impolicy=wcms_crop_resize&amp;cropH=472&amp;cropW=840&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "Police say young offenders are sneaking into gyms and stealing the keys to vehicles which are then used to commit other crimes.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-10/vic-police-warning-over-gym-thefts/107015468"
+    },
+    {
+      "published_datetime": "2026-08-09T21:04:33.000000Z",
+      "title": "New rental bond scheme starts today in NSW, but only in select suburbs",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/0c87f0509129e7473ac026223f03e933?impolicy=wcms_crop_resize&amp;cropH=3342&amp;cropW=5941&amp;xPos=0&amp;yPos=131&amp;width=862&amp;height=485"
+      },
+      "description": "The NSW government's portable rental bond system starts today and will cost renters who want to use the online service $25.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-10/nsw-portable-rental-bond-system-is-live/107014380"
+    },
+    {
       "published_datetime": "2026-08-09T02:35:52.000000Z",
       "title": "Wildfire forces more than 20,000 people to evacuate homes in western Canada",
       "featured_image": {
@@ -163,6 +190,33 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-09/british-columbia-declares-state-of-emergency-as-more-than-20-000/107014088"
     },
     {
+      "published_datetime": "2026-08-09T19:17:30.000000Z",
+      "title": "Wind in the wilderness a real threat to unprepared hikers",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/b5cf63d03372e80ed1ac23ef62c05091?impolicy=wcms_crop_resize&amp;cropH=864&amp;cropW=1536&amp;xPos=0&amp;yPos=665&amp;width=862&amp;height=485"
+      },
+      "description": "Bushwalker and meteorologist Urshla Connor knows from personal and professional experience that being prepared for changing weather can make all the difference between a beautiful hike and a life-threatening situation in Tasmania's wilderness.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-10/bom-advice-on-hiking-preparedness-in-windy-weather/106977532"
+    },
+    {
+      "published_datetime": "2026-08-09T20:13:34.000000Z",
+      "title": "'Pack a poncho': Gusty winds and short storms for south-east corner",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1f49ca5cd174ec69eee87486ee111378?impolicy=wcms_crop_resize&amp;cropH=2088&amp;cropW=3712&amp;xPos=0&amp;yPos=141&amp;width=862&amp;height=485"
+      },
+      "description": "South-eastern and central Queensland may see thunderstorms on Monday, with strong winds and short, sharp rainfall with \"meagre\" totals. With some regions enjoying an Ekka public holiday, they are advised to \"pack a poncho\".",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-10/gusty-winds-short-storms-for-south-east-qld/107014130"
+    },
+    {
+      "published_datetime": "2026-08-09T08:42:04.000000Z",
+      "title": "Body found in suitcase in southern NSW",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bc9791eb995085049a4f6237a07cce16?impolicy=wcms_crop_resize&amp;cropH=3915&amp;cropW=6960&amp;xPos=0&amp;yPos=363&amp;width=862&amp;height=485"
+      },
+      "description": "The body of a person, believed to be female, has been found in a suitcase at Oallen, about 60 kilometres south-east of Goulburn.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-09/body-found-in-suitcase-oallen-nsw/107014740"
+    },
+    {
       "published_datetime": "2026-08-09T00:28:41.000000Z",
       "title": "Two airport workers stood down after near miss at Sydney airport",
       "featured_image": {
@@ -170,60 +224,6 @@
       },
       "description": "A Jetstar A320 was forced to brake suddenly to avoid colliding with a Boeing 777 on the tarmac at Sydney Airport, with both planes stopping abruptly in an incident that injured a cabin crew worker.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-09/sydney-airport-near-miss-jetstar-qatar-airlines/107014048"
-    },
-    {
-      "published_datetime": "2026-08-08T18:45:00.000000Z",
-      "title": "Britain's new PM is redefining populist anger",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a6186759f1b89ce230797af5d18719a4?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=25&amp;width=862&amp;height=485"
-      },
-      "description": "Britain's new left-leaning PM Andy Burnham has seized the same public discontent driving Nigel Farage on the populist right but with a very different agenda. As One Nation climbs in the polls, Australia should be paying attention.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-09/burnham-farage-grievance-politics-hanson-uk-prime-minister/107004586"
-    },
-    {
-      "published_datetime": "2026-08-09T04:20:45.000000Z",
-      "title": "Trump is not shy of collecting spoils, and the US presidency has plenty",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/cb9c8d709ab861dc03c32fec8d1021a0?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The US president's most-recent filings indicate he pocketed more than $US2.2 billion last year through ventures ostensibly run by his family.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-09/verrender-analysis-president-donald-trump-wealth/107008698"
-    },
-    {
-      "published_datetime": "2026-08-09T03:19:51.000000Z",
-      "title": "Raiders bemoan 'f***ing brain explosion' as their season ends",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9e475fa5620d14fc35de9461f556b65d?impolicy=wcms_crop_resize&amp;cropH=1688&amp;cropW=3000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The Dragons beat the Sharks 24-16 in a thrilling derby victory at Kogarah, as the Knights end the Raiders season with a victory following a \"brain explosion\" from a key Canberra forward.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-09/nrl-live-updates-raiders-knights-dragons-sharks/107014254"
-    },
-    {
-      "published_datetime": "2026-08-09T03:04:07.000000Z",
-      "title": "Blues plant one foot in the AFL finals as Saints lose star to hamstring",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bda7106640f79a78aefd34eccf49a0e6?impolicy=wcms_crop_resize&amp;cropH=576&amp;cropW=1024&amp;xPos=0&amp;yPos=53&amp;width=862&amp;height=485"
-      },
-      "description": "Carlton plants one foot in the AFL finals series with a statement victory over the Saints at Docklands.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-09/afl-rd-22-live-gws-suns-wce-coll-stk-carl/107008342"
-    },
-    {
-      "published_datetime": "2026-08-09T10:21:27.000000Z",
-      "title": "The feud between Taylor Swift and Donald Trump just took an unexpected twist",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c4d8c35dbbc90023a392c5c44f1fa323?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=176&amp;width=862&amp;height=485"
-      },
-      "description": "Despite the enduring animosity towards the pop superstar, the Trump White House and campaign had used several Swift tracks in TikTok videos, before they abruptly disappeared from the president's social media posts.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-09/taylor-swift-songs-removed-from-donald-trump-social-media-posts/107014750"
-    },
-    {
-      "published_datetime": "2026-08-09T02:40:34.000000Z",
-      "title": "Inside this street food market are signs of a crashing currency",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/157dfc763c44c891719bcc5447832a4c?impolicy=wcms_crop_resize&amp;cropH=2455&amp;cropW=4364&amp;xPos=0&amp;yPos=227&amp;width=862&amp;height=485"
-      },
-      "description": "Indonesia's rupiah has fallen to historic lows against the US dollar, causing damage \"in most of the economy\", analysts say. ",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-09/currency-rate-against-usd-in-indonesia-hits-record-lows/107008770"
     }
   ]
 }
