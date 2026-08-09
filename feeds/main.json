@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-09T20:57:56.000000Z",
+      "title": "Live: ASX set to lift after Wall St hit another record close",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_crop_resize&amp;cropH=530&amp;cropW=942&amp;xPos=0&amp;yPos=14&amp;width=862&amp;height=485"
+      },
+      "description": "The ASX is expected to hit a fresh record high after Wall Street's S&amp;P 500 also closed at a record. Follow the day's events and insights from our business reporters on the ABC News live markets blog.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-10/asx-markets-business-live-news/107014540"
+    },
+    {
       "published_datetime": "2026-08-09T19:30:34.000000Z",
       "title": "Regional emergency departments a 'basket case of mania', doctor warns",
       "featured_image": {
@@ -11,7 +20,7 @@
     },
     {
       "published_datetime": "2026-08-09T19:14:04.000000Z",
-      "title": "Bulldogs junior runs out despite brother benched over gang war concerns",
+      "title": "NRL clubs split on playing Alameddine brothers over gang war concerns",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/c66a32d57fab4f56a067d7e8d732c6ff?impolicy=wcms_crop_resize&amp;cropH=467&amp;cropW=831&amp;xPos=0&amp;yPos=101&amp;width=862&amp;height=485"
       },
@@ -33,7 +42,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d74b433ed6f8acb4fcfb90094a884e30?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Three decades after the murder of rapper Tupac Shakur, the world may get some answers about who killed the young superstar, and why.",
+      "description": "Three decades after the murder of rapper Tupac Shakur, the world may get some answers about who killed the young superstar, and why.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/tupac-shakur-shooting-murder-trial-to-begin-in-las-vegas/107008936"
     },
     {
@@ -60,7 +69,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/87a196ebdfa63e71908dbfe3b8f06000?impolicy=wcms_crop_resize&amp;cropH=5624&amp;cropW=9999&amp;xPos=0&amp;yPos=521&amp;width=862&amp;height=485"
       },
-      "description": "Cabinet's indecision on support for Tony Burke's immigration cuts shows a key difference between Anthony Albanese and Kevin Rudd.",
+      "description": "Cabinet's indecision on support for Tony Burke's immigration cuts shows a key difference between Anthony Albanese and Kevin Rudd.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/albanese-immigration-cuts-gambling-legislation/107014442"
     },
     {
@@ -80,15 +89,6 @@
       },
       "description": "New research shows most Australians have not made a legally binding death benefit nomination to ensure their superannuation goes to who they want it to when they die. And many funds do not make it easy.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/superannuation-death-benefit-nominations-survey-finds-funds-fail/106991968"
-    },
-    {
-      "published_datetime": "2026-08-09T14:19:06.000000Z",
-      "title": "Paramilitary promises video of Iran's supreme leader unseen since March",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5f53a68101d89b0397f570c156f2855d?impolicy=wcms_crop_resize&amp;cropH=2054&amp;cropW=3651&amp;xPos=0&amp;yPos=94&amp;width=862&amp;height=485"
-      },
-      "description": "Video of Iran's Supreme Leader Mojtaba Khamenei, who has not been seen in public since he assumed the role in March, has been promised by a paramilitary leader.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-10/footage-of-irans-supreme-leader-promised/107014896"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-09T20:20:25.540113"
+  "merged_at": "2026-08-09T21:22:25.463486"
 }
