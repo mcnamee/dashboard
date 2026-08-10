@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-10T19:50:28.000000Z",
+      "title": "'Ah, sorry guys': Pilot's reaction after Antarctic mishap damages plane",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/761d43a14f5eaad220d026043064cdd3?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "An accident that damaged an Australian-contracted aircraft in Antarctica has triggered new safety protocols on the icy continent, internal government documents show.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-11/helicopter-fuel-lift-mishap-grounds-plane-antarctica/107016386"
+    },
+    {
       "published_datetime": "2026-08-10T19:03:06.000000Z",
       "title": "Where does your superannuation go when you die?",
       "featured_image": {
@@ -29,7 +38,7 @@
     },
     {
       "published_datetime": "2026-08-10T18:54:05.000000Z",
-      "title": "Why Israel's rejection of Trump's Gaza plan is not a surprise",
+      "title": "From a 'very big development' to rejection: Explaining the Gaza peace deal",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1a695e698197d8b42c21dafc8ef68aa2?impolicy=wcms_crop_resize&amp;cropH=1432&amp;cropW=2546&amp;xPos=0&amp;yPos=132&amp;width=862&amp;height=485"
       },
@@ -47,7 +56,7 @@
     },
     {
       "published_datetime": "2026-08-10T18:46:00.000000Z",
-      "title": "Police mass AI surveillance pilot draws rebuke from privacy experts",
+      "title": "Australian-first mass police AI pilot sparks concern",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a17265ec4f55eedeb5f0522b346112f5?impolicy=wcms_crop_resize&amp;cropH=1079&amp;cropW=1918&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
@@ -80,15 +89,6 @@
       },
       "description": "The Australian prime minister has landed in hot water over a gesture involving two melons, which his office insists was not referring to Japanese Prime Minister Sanae Takaichi's body.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/taylor-demands-albanese-apologise-to-takaichi/107017790"
-    },
-    {
-      "published_datetime": "2026-08-10T05:42:33.000000Z",
-      "title": "Senator blasts 'floating sweatshop' cruise ships",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1f0ba30f9ddd29899230c78414c77821?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=180&amp;width=862&amp;height=485"
-      },
-      "description": "The Anti-Slavery Commissioner is calling for change after Carnival cruise staff alleged conditions one senator called a \"floating sweatshop\".",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-10/carnival-anti-slavery-commissioner-foreign-cruise-crew/107016964"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-10T19:47:59.905885"
+  "merged_at": "2026-08-10T20:31:45.947135"
 }
