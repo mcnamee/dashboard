@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-10T12:09:10.000000Z",
+      "title": "Ukraine kills 13 in drone attack on Russian city of Nizhnekamsk",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/04d526fe36eeecc04bb8398328953b7d?impolicy=wcms_crop_resize&amp;cropH=683&amp;cropW=1214&amp;xPos=0&amp;yPos=737&amp;width=862&amp;height=485"
+      },
+      "description": "Russian investigators say they have opened a criminal case into what they qualified as a terrorist attack 800km east of Moscow, saying that Ukraine had struck residential areas and that a child was among those civilians killed.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-10/ukraine-kills-13-including-child-in-drone-attack-on-russian-city/107021852"
+    },
+    {
       "published_datetime": "2026-08-10T10:01:16.000000Z",
       "title": "'Generational change': Melissa Donnelly named as new ACTU boss",
       "featured_image": {
@@ -17,15 +26,6 @@
       },
       "description": "A gunman is arrested after firing shots at a local government office on the outskirts of Bangkok with a former member of parliament accused of killing a former colonel whom he had known for years, and wounding his driver.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/thailand-second-shooting-in-week-government-office-man-arrested/107021444"
-    },
-    {
-      "published_datetime": "2026-08-10T07:29:30.000000Z",
-      "title": "Woman cleared of Cassius Turvey's murder avoids jail for driving with no licence",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/94e0e2f352bf26afca88ce9cfaf1599d?impolicy=wcms_crop_resize&amp;cropH=1023&amp;cropW=1818&amp;xPos=0&amp;yPos=95&amp;width=862&amp;height=485"
-      },
-      "description": "Aleesha Gilmore, found not guilty of murdering Perth school boy Cassius Turvey, has avoided an immediate prison term for breaching the terms of her suspended sentence.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-10/aleesha-gilmore-avoids-prison-suspended-sentence/107017258"
     },
     {
       "published_datetime": "2026-08-10T07:01:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-10T11:45:21.378004"
+  "merged_at": "2026-08-10T12:44:56.175037"
 }
