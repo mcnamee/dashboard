@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-10T13:58:16.000000Z",
+      "title": "'Loyalty doesn't pay': Car insurers asked to explain soaring premiums",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5a050011280a2dfc6cda7a98e804e797?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
+      },
+      "description": "The corporate regulator ASIC has taken aim at major car insurers, finding that the companies are not explaining why customers' premiums are rising faster than inflation.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-10/car-insurers-warned-rising-premiums-corporate-regulator-asic/107008124"
+    },
+    {
       "published_datetime": "2026-08-10T12:09:10.000000Z",
       "title": "Ukraine kills 13 in drone attack on Russian city of Nizhnekamsk",
       "featured_image": {
@@ -51,7 +60,7 @@
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1f0ba30f9ddd29899230c78414c77821?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=180&amp;width=862&amp;height=485"
       },
-      "description": "The anti-slavery commissioner is calling for change after Carnival cruise staff alleged conditions one senator called a \"floating sweatshop\".",
+      "description": "The Anti-Slavery Commissioner is calling for change after Carnival cruise staff alleged conditions one senator called a \"floating sweatshop\".",
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/carnival-anti-slavery-commissioner-foreign-cruise-crew/107016964"
     },
     {
@@ -71,15 +80,6 @@
       },
       "description": "JobSeeker exists to support Australian's when they can't find work, but how far does that money actually go? The number of long-term JobSeeker recipients has almost tripled since 2012, despite hundreds of millions of dollars being paid to private equity-controlled firms to find people jobs. So, how are the 900,000 people on JobSeeker making ends meet?",
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/how-far-does-the-jobseeker-allowance-actually-go-/107016116"
-    },
-    {
-      "published_datetime": "2026-08-09T21:19:54.000000Z",
-      "title": "Police believe 'body' found in suitcase by road was a sex doll",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/f44d4a698fc6ca5d96ef348d8a82b315?impolicy=wcms_crop_resize&amp;cropH=816&amp;cropW=1451&amp;xPos=270&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Police sources say a \"body\" found in a suitcase in southern NSW is believed to be a sex doll, rather than the remains of a woman as first feared.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-10/oallen-suitcase-body-police/107015534"
     },
     {
       "published_datetime": "2026-08-09T18:44:33.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-10T12:44:56.175037"
+  "merged_at": "2026-08-10T14:13:33.037308"
 }
