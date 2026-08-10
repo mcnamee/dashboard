@@ -1,13 +1,22 @@
 {
   "items": [
     {
-      "published_datetime": "2026-08-10T05:59:37.000000Z",
-      "title": "BHP and unions both claim wins after weekend strike action",
+      "published_datetime": "2026-08-10T07:01:00.000000Z",
+      "title": "Coalition calls on Albanese to apologise to Japan's PM over melon gesture",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/84a5512d94c7b9b7bb8cfa25e3625745?impolicy=wcms_crop_resize&amp;cropH=2214&amp;cropW=3936&amp;xPos=0&amp;yPos=205&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/92075b5ac2fb9da93602fa3cd39490ca?impolicy=wcms_crop_resize&amp;cropH=285&amp;cropW=506&amp;xPos=0&amp;yPos=9&amp;width=862&amp;height=485"
       },
-      "description": "BHP's Port Hedland operations just faced 48 hours of industrial action, but how much of an impact did it have?",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-10/unions-bhp-assess-impact-strike-action-port-hedland/107014096"
+      "description": "The Australian prime minister has landed in hot water over a gesture involving two melons, which his office insists was not referring to Japanese Prime Minister Sanae Takaichi's body.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-10/taylor-demands-albanese-apologise-to-takaichi/107017790"
+    },
+    {
+      "published_datetime": "2026-08-10T06:55:13.000000Z",
+      "title": "What have we learnt from Origin Energy's data breach?",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/93832ac2b4095144da18e227bc862b76?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "Three weeks ago, Origin Energy announced that 900,000 current and former customers had their personal data accessed. What have we learnt about our data safety online since?",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-10/australias-largest-data-breaches-compared-to-origin-leak/106971048"
     },
     {
       "published_datetime": "2026-08-10T05:42:33.000000Z",
@@ -71,15 +80,6 @@
       },
       "description": "Police sources say a \"body\" found in a suitcase in southern NSW is believed to be a sex doll, rather than the remains of a woman as first feared.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-10/oallen-suitcase-body-police/107015534"
-    },
-    {
-      "published_datetime": "2026-08-09T21:17:23.000000Z",
-      "title": "Live: PM flags action on inducements to win Coalition support for gambling laws",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/144b456a7825b18ef84c77dacfcd2b6f?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Anthony Albanese has flagged action on gambling advertisement inducements that could likely result in the Coalition's support of the government's proposed reforms. Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-10/federal-politics-live-blog-august-10/107015492"
     },
     {
       "published_datetime": "2026-08-09T18:44:33.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-10T07:11:12.382212"
+  "merged_at": "2026-08-10T09:07:39.222160"
 }
