@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-11T02:08:14.000000Z",
+      "title": "Alexandria Ocasio-Cortez open to presidential run, announces she will freeze eggs",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ed314c4ae9bbe07b631c78d217dd99cc?impolicy=wcms_crop_resize&amp;cropH=466&amp;cropW=828&amp;xPos=0&amp;yPos=349&amp;width=862&amp;height=485"
+      },
+      "description": "The 36-year-old said she felt \"empowered\" by her decision, while adding that it came with political risk.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-11/alexandria-ocasio-cortez-egg-freezing/107022606"
+    },
+    {
+      "published_datetime": "2026-08-11T01:05:57.000000Z",
+      "title": "Dying woman urges PM to overturn 'cruel' law to save others suffering",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d6d5b85e40d5cb4c8c5ef1c073624281?impolicy=wcms_crop_resize&amp;cropH=780&amp;cropW=1387&amp;xPos=0&amp;yPos=201&amp;width=862&amp;height=485"
+      },
+      "description": "Terminally ill woman Sandra Sarantou is preparing to end her life through voluntary assisted drying (VAD) and is using her final days to call for a legal change to make it easier for others to access VAD.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-11/regional-vad-dying-woman-using-final-days-to-lobby-pm/107010688"
+    },
+    {
       "published_datetime": "2026-08-10T23:07:47.000000Z",
       "title": "Why Trump selling early access to his posts is causing controversy",
       "featured_image": {
@@ -11,11 +29,11 @@
     },
     {
       "published_datetime": "2026-08-10T21:33:10.000000Z",
-      "title": "Live: ASX opens higher as no changes expected to interest rates",
+      "title": "Live: Interest rates expected to remain on hold as RBA meets",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/59091fb2176287038945aa61a32cae83?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The Aussie share market opens higher as the Reserve Bank is expected to keep the cash rate steady at 4.35 per cent in August. The central bank will also release its updated economic forecasts, including the inflation, growth and unemployment outlooks. Follow live.",
+      "description": "The Reserve Bank is expected to keep the cash rate steady at 4.35 per cent in August. The central bank will also release its updated economic forecasts, including the inflation, growth and unemployment outlooks. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-11/reserve-bank-august-interest-rates-somp-asx-markets-blog/107021958"
     },
     {
@@ -29,30 +47,12 @@
     },
     {
       "published_datetime": "2026-08-10T21:09:49.000000Z",
-      "title": "Live: Government target vulnerable species for bird flu vaccines",
+      "title": "Live: Government targets vulnerable species for bird flu vaccines",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ec35bac6cf43d68635701c930d1f8aeb?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
       "description": "Agriculture Minister Julie Collins has announced the federal government will be moving to vaccinate birds in captivity over the coming days and weeks against the H5 strain of bird flu. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-08-11/federal-politics-live-blog-august-11/107022468"
-    },
-    {
-      "published_datetime": "2026-08-10T20:37:16.000000Z",
-      "title": "Live: Search continues for survivors after 111 die in Colombia earthquake",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/522271efd9dadf7edc7eed669adc9e9a?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The government has declared a national emergency following the tremor, which struck at 7:34am local time (10:34pm AEST). Follow live.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-11/colombia-earthquake-live-national-emergency-august/107022474"
-    },
-    {
-      "published_datetime": "2026-08-10T19:50:28.000000Z",
-      "title": "'Ah, sorry guys': Pilot's reaction after Antarctic mishap damages plane",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/761d43a14f5eaad220d026043064cdd3?impolicy=wcms_crop_resize&amp;cropH=900&amp;cropW=1600&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "An accident that damaged an Australian-contracted aircraft in Antarctica has triggered new safety protocols on the icy continent, internal government documents show.\u00a0",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-11/helicopter-fuel-lift-mishap-grounds-plane-antarctica/107016386"
     },
     {
       "published_datetime": "2026-08-10T19:02:24.000000Z",
@@ -73,15 +73,6 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-11/philippines-china-pag-asa-south-china-sea/107001462"
     },
     {
-      "published_datetime": "2026-08-10T18:48:35.000000Z",
-      "title": "The RBA's big challenge: How to navigate a real estate downturn",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/2c7abdfe0c8d4a01076eee1acc3ea5ea?impolicy=wcms_crop_resize&amp;cropH=665&amp;cropW=1182&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "Deflating a property bubble takes some skill, something that has escaped almost every government or central bank that has ever attempted it.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-11/will-the-rba-blink-on-inflation-as-the-property-market-slows/107021878"
-    },
-    {
       "published_datetime": "2026-08-10T18:46:00.000000Z",
       "title": "Australian-first mass police AI pilot sparks concern",
       "featured_image": {
@@ -89,6 +80,15 @@
       },
       "description": "More than 130,000 faces have already been scanned under WA Police's landmark facial recognition trial. The privacy watchdog, experts and Aboriginal advocates are raising concerns about who could be caught in its net.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-11/ai-police-face-screening-trial-sparks-privacy-concern/107009644"
+    },
+    {
+      "published_datetime": "2026-08-10T14:11:02.000000Z",
+      "title": "More than 100 killed in Colombia after powerful 7.4-magnitude earthquake",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/bf4c8e907035b385f7db765969b3d782?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "At least six airports have suspended operations and the government has declared a national emergency.\u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-11/colombia-earthquake-magnitude-7-4-felt-in-ecuador-aftershocks/107022018"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-11T01:00:19.605514"
+  "merged_at": "2026-08-11T03:05:09.956509"
 }
