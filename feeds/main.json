@@ -1,31 +1,31 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-11T08:50:18.000000Z",
+      "title": "Sydney fugitive arrested in Lebanon accused of running crime syndicate",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/3823bd66304d3161cf565940b1fff0e3?impolicy=wcms_crop_resize&amp;cropH=998&amp;cropW=1775&amp;xPos=0&amp;yPos=127&amp;width=862&amp;height=485"
+      },
+      "description": "Fugitive George Dib, accused of directing a global organised crime syndicate while on the run, has been arrested in Lebanon.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-11/nsw-george-dib-fugitive-arrested-lebanon-crime-syndicate/107023674"
+    },
+    {
+      "published_datetime": "2026-08-11T08:42:58.000000Z",
+      "title": "The RBA's best guess is that it's done hiking interest rates",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/1f389968b1dfcc5cb0259c62847c5698?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+      },
+      "description": "If the Reserve Bank's economic forecasts are right, then the governor says it is done raising interest rates. But the risks of it being wrong are skewed towards another hike. \u00a0 \u00a0",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-11/rba-believes-it-is-done-hiking-interest-rates/107025716"
+    },
+    {
       "published_datetime": "2026-08-11T07:41:09.000000Z",
-      "title": "Trump reportedly hid in catering truck to board secret flight out of T\u00fcrkiye",
+      "title": "Trump reportedly hid in catering truck to evade 'dangerous flight'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/68444c1dbc9c88f8a229fe704bd23c57?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
       },
       "description": "US President Donald Trump left on a secret military flight from T\u00fcrkiye last month when the White House said he was flying aboard Air Force One, in an extraordinary move that involved hiding him in an airport catering truck, the Washington Post reports.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-11/trump-reportedly-took-secret-flight-out-of-turkiye-due-to-threat/107025216"
-    },
-    {
-      "published_datetime": "2026-08-11T07:38:29.000000Z",
-      "title": "Service stations nationwide raided over illegal tobacco, vapes",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/106e3f17d549798f6221a9ccc10032e3?impolicy=wcms_crop_resize&amp;cropH=591&amp;cropW=1051&amp;xPos=201&amp;yPos=45&amp;width=862&amp;height=485"
-      },
-      "description": "More than 100 service stations across the country have been raided, in a coordinated blitz targeting \"suspected criminal activity\" and the alleged sale of illicit tobacco and vapes.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-11/service-stations-raided-over-illegal-tobacco-vapes/107025288"
-    },
-    {
-      "published_datetime": "2026-08-11T06:09:34.000000Z",
-      "title": "Trump signs order to reduce childhood vaccines and break up MMR shots",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/41baf56331396a326de3118007e7e573?impolicy=wcms_crop_resize&amp;cropH=2812&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
-      },
-      "description": "The revised vaccination schedule recommends immunising children against 11 diseases, six fewer than currently recommended.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-11/trump-executive-order-childhood-immunisation/107024148"
     },
     {
       "published_datetime": "2026-08-11T06:06:45.000000Z",
@@ -47,7 +47,7 @@
     },
     {
       "published_datetime": "2026-08-11T04:24:16.000000Z",
-      "title": "Zelenskyy warns of North Korea-Russia alliance",
+      "title": "Zelenskyy attacks alliance of 'Moscow scumbags' and 'deranged regime'",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ae99b5a6e723d9eb6d96a89bf2e69f9e?impolicy=wcms_crop_resize&amp;cropH=2724&amp;cropW=4842&amp;xPos=0&amp;yPos=252&amp;width=862&amp;height=485"
       },
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-11T09:06:06.568012"
+  "merged_at": "2026-08-11T09:51:31.302395"
 }
