@@ -1,12 +1,21 @@
 {
   "items": [
     {
+      "published_datetime": "2026-08-10T23:07:47.000000Z",
+      "title": "Why Trump selling early access to his posts is causing controversy",
+      "featured_image": {
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/e822165a6a843342bd4e834af2c87fc1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485"
+      },
+      "description": "For up to $US100,000 per month, subscribers can receive the US president's Truth Social posts milliseconds before everyone else. But experts say the bigger question is whether some traders are already getting information much earlier.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-11/donald-trump-sells-early-access-to-truth-social-posts/107015908"
+    },
+    {
       "published_datetime": "2026-08-10T21:33:10.000000Z",
-      "title": "Live: No change to interest rates expected as RBA board meets",
+      "title": "Live: ASX opens higher as no changes expected to interest rates",
       "featured_image": {
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/59091fb2176287038945aa61a32cae83?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "The Reserve Bank is expected to keep the cash rate steady at 4.35 per cent in August. The central bank will also release its updated economic forecasts, including the inflation, growth and unemployment outlooks. Follow live.",
+      "description": "The Aussie share market opens higher as the Reserve Bank is expected to keep the cash rate steady at 4.35 per cent in August. The central bank will also release its updated economic forecasts, including the inflation, growth and unemployment outlooks. Follow live.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-11/reserve-bank-august-interest-rates-somp-asx-markets-blog/107021958"
     },
     {
@@ -20,11 +29,11 @@
     },
     {
       "published_datetime": "2026-08-10T21:09:49.000000Z",
-      "title": "Live: PM's melon gaffe has been misinterpreted: Gallagher",
+      "title": "Live: Government target vulnerable species for bird flu vaccines",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/92075b5ac2fb9da93602fa3cd39490ca?impolicy=wcms_crop_resize&amp;cropH=285&amp;cropW=506&amp;xPos=0&amp;yPos=9&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/ec35bac6cf43d68635701c930d1f8aeb?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Anthony Albanese is again facing calls to personally apologise to his Japanese counterpart over a gesture he made about two melons Sanae Takaichi gifted him, but a government frontbencher insists his remarks have been misrepresented. Follow live.\u00a0",
+      "description": "Agriculture Minister Julie Collins has announced the federal government will be moving to vaccinate birds in captivity over the coming days and weeks against the H5 strain of bird flu. Follow live.\u00a0",
       "page_content_url": "https://www.abc.net.au/news/2026-08-11/federal-politics-live-blog-august-11/107022468"
     },
     {
@@ -46,13 +55,13 @@
       "page_content_url": "https://www.abc.net.au/news/2026-08-11/helicopter-fuel-lift-mishap-grounds-plane-antarctica/107016386"
     },
     {
-      "published_datetime": "2026-08-10T19:03:06.000000Z",
-      "title": "Super experts explain ways to get your affairs in order",
+      "published_datetime": "2026-08-10T19:02:24.000000Z",
+      "title": "What happens if you do not complete your census form?",
       "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/a0366fec504e64f58429b6c722b49c9d?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
+        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/d5fc6154eab6941fe349be41ac1a284d?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485"
       },
-      "description": "Millions of Australians could have no say in who inherits their superannuation. Here's how to check if you're one of them, and how to make sure your wishes are followed.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-11/superannuation-death-benefit-binding-non-binding-nomination-will/107016846"
+      "description": "Census 2026 is here. This is the lowdown on how it works and whether there is a fine for not completing the form.",
+      "page_content_url": "https://www.abc.net.au/news/2026-08-11/all-you-need-to-know-about-census-2026/106993364"
     },
     {
       "published_datetime": "2026-08-10T18:54:42.000000Z",
@@ -80,15 +89,6 @@
       },
       "description": "More than 130,000 faces have already been scanned under WA Police's landmark facial recognition trial. The privacy watchdog, experts and Aboriginal advocates are raising concerns about who could be caught in its net.",
       "page_content_url": "https://www.abc.net.au/news/2026-08-11/ai-police-face-screening-trial-sparks-privacy-concern/107009644"
-    },
-    {
-      "published_datetime": "2026-08-10T13:58:16.000000Z",
-      "title": "'Loyalty doesn't pay': Car insurers asked to explain soaring premiums",
-      "featured_image": {
-        "thumbnail": "https://live-production.wcms.abc-cdn.net.au/5a050011280a2dfc6cda7a98e804e797?impolicy=wcms_crop_resize&amp;cropH=3375&amp;cropW=6000&amp;xPos=0&amp;yPos=313&amp;width=862&amp;height=485"
-      },
-      "description": "The corporate regulator ASIC has taken aim at major car insurers, finding the companies are not explaining why customers' premiums are rising faster than inflation.",
-      "page_content_url": "https://www.abc.net.au/news/2026-08-10/car-insurers-warned-rising-premiums-corporate-regulator-asic/107008124"
     },
     {
       "published_datetime": "2025-12-30T12:00:00.000000Z",
@@ -158,5 +158,5 @@
   "abc_items": 25,
   "perplexity_items": 0,
   "perplexity_search_items": 7,
-  "merged_at": "2026-08-10T23:25:27.593822"
+  "merged_at": "2026-08-11T01:00:19.605514"
 }
